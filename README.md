@@ -2,11 +2,17 @@ Lands of Myst MUD
 
 Instructions
 1. Unzip all files
+
 2. cd src
+
 3. make (this should hopefully create the exe at bin/a.exe)
+
 4. Start the server from root dir 'bin/a.exe 4000'. This will start it on port 4000. You can also use autorun script to do this.
+
 5. telnet 0 4000 will log you in
+
 6. Create the first character, this will be the admin.
+
 7. Sending verification email might fail. Check interpreter.c line 2037 for details. Last email message with password is in lib/email.msg
 
 
@@ -44,7 +50,7 @@ Special thanks to:
 Lands of Myst MUD, 2001
 
 Vladimir Prelovac                         
-tomcat@galeb.etf.bg.ac.yu
+vprelovac@gmail.com
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
