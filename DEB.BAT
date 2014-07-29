@@ -1,1 +1,0 @@
-gdb bin/a.exe
