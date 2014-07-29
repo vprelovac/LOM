@@ -3,5 +3,7 @@
 *.*~
 syslog
 syslog.CRASH
-/lib/etc/players
+lib/etc/players
+lib/etc/plrobjs/*
+lib/etc/plralias/*
 log/*
