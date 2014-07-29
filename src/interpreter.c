@@ -2705,7 +2705,7 @@ void nanny(struct descriptor_data * d, char *arg)
                 send_email(d);
                 init_char(d->character);
                 save_char(d->character, NOWHERE);
-                sprintf(buf1, "\r\nYou have just created a new character on Lands of Myst.\r\nEmail was sent to your email adrress (%s)\r\ncontaining password for this character. You should\r\nchange this password next time you log in with the\r\noption '4' in the main menu.\r\n\r\nClosing link...\r\n", d->character->player_specials->saved.email);
+                sprintf(buf1, "\r\nYou have just created a new character on Lands of Myst.\r\nEmail was sent to your email adrress (%s)\r\ncontaining password for this character (make sure to check SPAM folder as well!). You should\r\nchange this password next time you log in with the\r\noption '4' in the main menu.\r\n\r\nClosing link...\r\n", d->character->player_specials->saved.email);
                 SEND_TO_Q(buf1, d);
                 //   SEND_TO_Q(motd, d);
                 // SEND_TO_Q("\r\n\n*** PRESS RETURN: ", d);
