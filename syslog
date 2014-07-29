@@ -273,3 +273,53 @@ Jul 29 11:01:27 :: Togi entering game with no equipment.
 Jul 29 11:01:39 :: Togi [1] killed by the bandit [25] at The Common Square (3025)
 Jul 29 11:01:39 :: Togi entering game with no equipment.
 Jul 29 11:08:31 :: USAGE:   1 players (  1 high)  Allocated RAM: 12.859 MB
+Jul 29 11:13:21 :: Togi [1] killed by Shane [40] at Market Square (3014)
+Jul 29 11:13:21 :: Togi entering game with no equipment.
+Jul 29 11:14:08 :: EOF on socket read (connection broken by peer)
+Jul 29 11:14:08 :: Losing player: Dante.
+Jul 29 11:15:33 :: ZONE: file invalid equipment pos number
+Jul 29 11:15:33 :: ZONE: ...offending cmd: 'E' cmd in zone #332, line 20
+Jul 29 11:16:19 :: the duergar dwarf [8] killed by thunderstorm at Dwarven Mines (4715)
+Jul 29 11:18:05 :: ZONE: file door does not exist
+Jul 29 11:18:05 :: ZONE: ...offending cmd: 'D' cmd in zone #370, line 182
+Jul 29 11:19:35 :: Losing descriptor without char.
+Jul 29 11:22:36 :: Losing player: <null>.
+Jul 29 11:27:40 :: EOF on socket read (connection broken by peer)
+Jul 29 11:27:40 :: Losing player: Hendel.
+ident check write (conned): Connection refused
+Jul 29 11:33:40 :: Losing descriptor without char.
+ident check write (conned): Connection refused
+Jul 29 11:38:42 :: USAGE:   1 players (  1 high)  Allocated RAM: 14.924 MB
+Jul 29 11:42:14 :: Closing link to: Togi.
+Jul 29 11:42:14 :: Togi force-rented and extracted (idle).
+Jul 29 11:44:40 :: Khiren [178.148.33.98] new player.
+Jul 29 11:44:40 :: Losing player: Khiren.
+Jul 29 11:44:55 :: EOF on socket read (connection broken by peer)
+Jul 29 11:44:55 :: Losing descriptor without char.
+ident check write (conned): Connection refused
+Jul 29 11:46:17 :: EOF on socket read (connection broken by peer)
+Jul 29 11:46:17 :: Losing descriptor without char.
+Jul 29 11:51:57 :: Jumba [130.180.251.43] new player.
+Jul 29 11:51:57 :: Losing player: Jumba.
+ident check write (conned): Connection refused
+Jul 29 11:52:17 :: Bad PW: Jumba [130.180.251.43]
+Jul 29 11:52:25 :: Bad PW: Jumba [130.180.251.43]
+Jul 29 11:52:27 :: Losing player: Jumba.
+ident check write (conned): Connection refused
+Jul 29 11:52:46 :: Bad PW: Jumba [130.180.251.43]
+Jul 29 11:52:56 :: Bad PW: Jumba [130.180.251.43]
+Jul 29 11:53:20 :: ZONE: file invalid equipment pos number
+Jul 29 11:53:20 :: ZONE: ...offending cmd: 'E' cmd in zone #332, line 20
+Jul 29 11:53:20 :: Bad PW: Jumba [130.180.251.43]
+Jul 29 11:53:20 :: Losing player: Jumba.
+ident check write (conned): Connection refused
+Jul 29 11:53:41 :: Losing player: Jumba.
+ident check write (conned): Connection refused
+Jul 29 11:56:22 :: ZONE: file door does not exist
+Jul 29 11:56:22 :: ZONE: ...offending cmd: 'D' cmd in zone #370, line 182
+Jul 29 11:56:48 :: Naruto [130.180.251.43] new player.
+Jul 29 11:56:48 :: Losing player: Naruto.
+ident check write (conned): Connection refused
+ident check write (conned): Connection refused
+Jul 29 11:58:53 :: Bog [127.0.0.1] has connected.
+Jul 29 11:59:02 :: Bog un-renting and entering game.
