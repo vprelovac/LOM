@@ -1,0 +1,117 @@
+#65
+Dwarven Kingdom~
+6599 34 2
+D 0 6527 5 1    Set   #6527 - Wine Cellar door to DOWN as closed
+D 0 6524 5 1    Set   #6524 - Back Of Barracks door to DOWN as closed
+D 0 6505 3 2    Set   #6505 - Entrance To Mountain door to WEST as closed and locked
+D 0 6513 1 2    Set   #6513 - Inside The Entrance door to EAST as closed and locked
+D 0 6509 1 2    Set   #6509 - Door To Kingdom door to EAST as closed and locked
+D 0 6510 3 2    Set   #6510 - Path To The Castle door to WEST as closed and locked
+D 0 6512 1 2    Set   #6512 - Door To Castle door to EAST as closed and locked
+D 0 6525 3 2    Set   #6525 - Inside Of Castle Strangelove door to WEST as closed and locked
+D 0 6521 2 1    Set   #6521 - Entrance To Barracks door to SOUTH as closed
+D 0 6523 0 1    Set   #6523 - First Barrack Room door to NORTH as closed
+D 0 6526 5 1    Set   #6526 - A Store Room door to DOWN as closed
+D 0 6527 4 1    Set   #6527 - Wine Cellar door to UP as closed
+D 0 6540 1 2    Set   #6540 - Dark Path door to EAST as closed and locked
+D 0 6541 3 2    Set   #6541 - Mine Entrance door to WEST as closed and locked
+D 0 6544 0 2    Set   #6544 - Mine Crossroad door to NORTH as closed and locked
+D 0 6546 2 2    Set   #6546 - Mine Maze door to SOUTH as closed and locked
+D 0 6531 0 1    Set   #6531 - Queen's Waiting Room door to NORTH as closed
+D 0 6532 2 1    Set   #6532 - Bedroom door to SOUTH as closed
+M 0 6500 6 6505    Place the dwarven guard to Entrance To Mountain (max 2)
+E 1 6504 10 16         Equip a hammer, wielded as a weapon (max 10)
+E 1 6505 10 5         Equip dwarven plate mail, worn on body (max 10)
+G 1 6502 10         Give a deep green key (max 10)
+M 0 6500 6 6505    Place the dwarven guard to Entrance To Mountain (max 2)
+E 1 6504 10 16         Equip a hammer, wielded as a weapon (max 10)
+E 1 6505 10 5         Equip dwarven plate mail, worn on body (max 10)
+M 0 6500 6 6540    Place the dwarven guard to Dark Path (max 2)
+E 1 6504 10 16         Equip a hammer, wielded as a weapon (max 10)
+E 1 6505 10 5         Equip dwarven plate mail, worn on body (max 10)
+G 1 6502 10         Give a deep green key (max 10)
+M 0 6500 6 6540    Place the dwarven guard to Dark Path (max 2)
+E 1 6504 10 16         Equip a hammer, wielded as a weapon (max 10)
+E 1 6505 10 5         Equip dwarven plate mail, worn on body (max 10)
+O 0 6506 1 6534    Place long, black stick to Hospital (max 1)
+O 0 6507 2 6513    Place long, black stick to Inside The Entrance (max 2)
+O 0 6507 2 6505    Place long, black stick to Entrance To Mountain (max 2)
+O 0 6507 2 6503    Place long, black stick to Top Of Mountain (max 2)
+O 0 6507 1 6540    Place long, black stick to Dark Path (max 1)
+M 0 6501 6 6503    Place the dwarven worker to Top Of Mountain (max 6)
+M 0 6501 6 6502    Place the dwarven worker to Path, Middle Of Mountain (max 6)
+M 0 6501 6 6501    Place the dwarven worker to Path, Base Of Mountain (max 6)
+M 0 6502 1 6527    Place the wraith to Wine Cellar (max 1)
+G 1 6502 10         Give a deep green key (max 10)
+M 0 6503 1 6516    Place the storekeeper to Hide & Tooth Shop (max 1)
+E 1 6504 10 16         Equip a hammer, wielded as a weapon (max 10)
+G 1 6504 10         Give a hammer (max 10)
+G 1 6505 10         Give dwarven plate mail (max 10)
+G 1 6510 10         Give a dwarven helmet (max 10)
+G 1 6511 10         Give a dwarven golden ring (max 10)
+G 1 6512 10         Give dwarven gloves (max 10)
+M 0 6504 1 6535    Place the baker to Granite Head's Bakery (max 1)
+E 1 6504 10 16         Equip a hammer, wielded as a weapon (max 10)
+G 1 3000 10         Give (#3000) (max 10)
+G 1 3003 10         Give (#3003) (max 10)
+G 1 3009 10         Give (#3009) (max 10)
+G 1 3031 10         Give (#3031) (max 10)
+M 0 6505 1 6515    Place the giant lizard to Turn In Road (max 1)
+M 0 6506 2 6508    Place the giant to Narrow North-south Path (max 2)
+M 0 6500 6 6509    Place the dwarven guard to Door To Kingdom (max 2)
+E 1 6509 10 16         Equip a two-handed dwarven axe, wielded as a weapon (max 10)
+E 1 6510 10 6         Equip a dwarven helmet, worn on head (max 10)
+E 1 6511 10 1         Equip a dwarven golden ring, worn on right finger (max 10)
+M 0 6500 6 6509    Place the dwarven guard to Door To Kingdom (max 2)
+E 1 6512 10 9         Equip dwarven gloves, worn on hands (max 10)
+E 1 6509 10 16         Equip a two-handed dwarven axe, wielded as a weapon (max 10)
+E 1 6505 10 5         Equip dwarven plate mail, worn on body (max 10)
+M 0 6507 4 6543    Place the dwarven miner to Path In The Mine (max 4)
+E 1 6508 10 16         Equip dwarven club, wielded as a weapon (max 10)
+M 0 6507 4 6543    Place the dwarven miner to Path In The Mine (max 4)
+E 1 6508 10 16         Equip dwarven club, wielded as a weapon (max 10)
+M 0 6507 4 6542    Place the dwarven miner to Inside The Mine (max 4)
+E 1 6508 10 16         Equip dwarven club, wielded as a weapon (max 10)
+M 0 6508 4 6543    Place the dwarven mine leader to Path In The Mine (max 4)
+E 1 6512 10 9         Equip dwarven gloves, worn on hands (max 10)
+E 1 6508 10 16         Equip dwarven club, wielded as a weapon (max 10)
+M 0 6510 4 6534    Place the dwarven peon to Hospital (max 4)
+M 0 6510 4 6534    Place the dwarven peon to Hospital (max 4)
+M 0 6514 2 6521    Place the barracks guard to Entrance To Barracks (max 2)
+E 1 6509 10 16         Equip a two-handed dwarven axe, wielded as a weapon (max 10)
+M 0 6514 2 6521    Place the barracks guard to Entrance To Barracks (max 2)
+E 1 6509 10 16         Equip a two-handed dwarven axe, wielded as a weapon (max 10)
+M 0 6500 2 6521    Place the dwarven guard to Entrance To Barracks (max 2)
+M 0 6500 2 6521    Place the dwarven guard to Entrance To Barracks (max 2)
+M 0 6511 4 6523    Place the dwarf to First Barrack Room (max 4)
+M 0 6511 4 6523    Place the dwarf to First Barrack Room (max 4)
+E 1 6504 10 16         Equip a hammer, wielded as a weapon (max 10)
+E 1 6514 10 17         Equip a castle key, held (max 10)
+M 0 6511 4 6523    Place the dwarf to First Barrack Room (max 4)
+M 0 6511 4 6523    Place the dwarf to First Barrack Room (max 4)
+M 0 6511 4 6524    Place the dwarf to Back Of Barracks (max 4)
+O 0 6513 1 6524    Place a note to Back Of Barracks (max 1)
+M 0 6502 1 6524    Place the wraith to Back Of Barracks (max 1)
+M 0 6511 4 6524    Place the dwarf to Back Of Barracks (max 4)
+M 0 6512 3 6528    Place the unwanted son to Stairs In Castle (max 3)
+M 0 6512 3 6529    Place the unwanted son to Stairs (max 3)
+M 0 6513 3 6529    Place the unwanted daughter to Stairs (max 3)
+M 0 6513 3 6530    Place the unwanted daughter to Top Of Stairs (max 3)
+M 0 6515 4 6531    Place the man in waiting to Queen's Waiting Room (max 4)
+M 0 6515 4 6531    Place the man in waiting to Queen's Waiting Room (max 4)
+M 0 6509 1 6534    Place the dwarven doctor to Hospital (max 1)
+E 1 6506 10 17         Equip long, black stick, held (max 10)
+G 1 6519 10         Give a box of birth control pills (max 10)
+M 0 6516 1 6553    Place the mazekeeper to The Mazekeeper's Room (max 1)
+G 1 6519 10         Give a box of birth control pills (max 10)
+M 0 6517 2 6548    Place the giant snake to Maze (max 2)
+M 0 6517 2 6549    Place the giant snake to Maze (max 2)
+O 0 6516 1 6532    Place a mine key to Bedroom (max 1)
+O 0 6517 6 6545    Place a chunk of coal to Coal Room (max 6)
+O 0 6518 3 6551    Place a mining pick to Mining Equipment Room (max 3)
+M 0 6500 2 6512    Place the dwarven guard to Door To Castle (max 2)
+E 1 6508 10 16         Equip dwarven club, wielded as a weapon (max 10)
+M 0 6500 2 6512    Place the dwarven guard to Door To Castle (max 2)
+E 1 6508 10 16         Equip dwarven club, wielded as a weapon (max 10)
+M 0 6505 1 6520    Place the giant lizard to Path Next To Barracks (max 1)
+S

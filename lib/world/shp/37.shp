@@ -1,0 +1,29 @@
+CircleMUD v3.0 Shop File~
+#3718~
+3030
+3032
+3010
+3103
+-1
+1.20
+0.30
+0
+-1
+%s But I have no such thing for sale.~
+%s But you do not have this item.~
+%s I have no interest in that.~
+%s I am sorry, but I can not afford such a valuable item.~
+%s But you can not afford that item.~
+%s It will cost you %d coins.~
+%s Here, you shall have %d coins for it.~
+2
+2
+3717
+0
+3718
+-1
+0
+28
+0
+28
+$~

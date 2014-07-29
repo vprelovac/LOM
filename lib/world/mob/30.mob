@@ -1,0 +1,1142 @@
+#3000
+wizard~
+the wizard~
+A wizard walks around behind the counter, talking to himself.
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard.  He is equipped with fine clothing, and is wearing many fine
+rings and bracelets.
+~
+26651 8 1000 E
+33 -2 29 1536d100+50 2d8+28
+0 0
+8 8 1
+Str: 19
+Dex: 20
+Int: 21
+Wis: 19
+Con: 22
+Cha: 17
+E
+#3001
+baker~
+the baker~
+The baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker.  But you can see that he has many scars on his
+body.
+~
+26651 8 1000 E
+33 -2 29 1536d100+50 2d8+28
+0 0
+8 8 1
+Str: 19
+Dex: 20
+Int: 21
+Wis: 19
+Con: 22
+Cha: 17
+E
+#3002
+grocer~
+the grocer~
+A grocer stands at the counter, with a slightly impatient look on his face.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
+~
+26651 8 1000 E
+33 -4 28 1553d100+50 2d8+28
+0 0
+8 8 1
+Str: 20
+Dex: 19
+Int: 22
+Wis: 18
+Con: 21
+Cha: 18
+E
+#3003
+weaponsmith~
+the weaponsmith~
+A weaponsmith is standing here.
+~
+He is a young weaponsmith, who still has lots to learn but he is still
+eager to sell you his latest implements of carnage and destruction.
+~
+26651 8 1000 E
+33 -4 28 1553d100+50 2d8+28
+0 0
+8 8 1
+Str: 20
+Dex: 19
+Int: 22
+Wis: 18
+Con: 21
+Cha: 18
+E
+#3004
+armourer~
+the armourer~
+An armourer stands here displaying his new (and previously owned) armours.
+~
+An old but very strong armourer.  He has made more suits of armour in his
+life than you have ever seen.
+~
+26651 8 1000 E
+33 -3 27 1520d100+50 2d8+28
+0 0
+8 8 1
+Str: 21
+Dex: 22
+Int: 22
+Wis: 21
+Con: 20
+Cha: 21
+E
+#3005
+receptionist~
+the receptionist~
+A receptionist is standing behind the counter here, smiling at you.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+59419 32808 1000 E
+33 -3 27 1520d100+50 2d8+28
+0 0
+8 8 2
+Str: 21
+Dex: 22
+Int: 22
+Wis: 21
+Con: 20
+Cha: 21
+E
+#3006
+captain stolar~
+Captain Stolar~
+A retired captain stands here, selling boats.
+~
+This captain has eaten more sharks than you have killed peas.
+~
+26635 8 1000 E
+33 -3 29 1536d100+50 2d8+26
+0 0
+8 8 1
+Str: 22
+Dex: 21
+Int: 20
+Wis: 19
+Con: 19
+Cha: 18
+E
+#3007
+sailor~
+the sailor~
+A sailor stands here, waiting to train you.
+~
+He looks like a strong, fit sailor.
+~
+26635 0 1000 E
+33 -3 29 1536d100+50 2d8+26
+0 0
+8 8 1
+Str: 22
+Dex: 21
+Int: 20
+Wis: 19
+Con: 19
+Cha: 18
+E
+#3008
+wiseone wise~
+Wise One~
+Wise One is here to guide you in your travells.
+~
+He wears black, cloaked and hooded, wrapped darker than the shadows he passed
+through. He is not a big man, neither tall nor well muscled, but he gives the
+impression of being hard and fixed for purpose.
+~
+2222171 2014315688 1000 E
+55 -29 68 4982d100+50 10d10+56
+0 0
+8 8 1
+Str: 24
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 22
+E
+>act_prog p pokes you~
+say uaaaa
+~
+|
+#3009
+wally watermaster~
+Wally the Watermaster~
+Wally the Watermaster is standing behind the counter.
+~
+Wally is a bit pudgy but looks very strong.  He has a glass of Midgaard
+Natural Spring Water in his hand.  When he notices you, he proudly
+displays his fine collection of contemporary waters.
+~
+26651 8 1000 E
+33 -4 27 1536d100+50 1d8+26
+0 0
+8 8 1
+Str: 19
+Dex: 20
+Int: 21
+Wis: 20
+Con: 22
+Cha: 17
+E
+#3010
+postmaster post master~
+the postmaster~
+The head postmaster is standing here, waiting to help you with your mail.
+~
+The Postmaster seems like a happy old man, though a bit sluggish.  He
+worries about the reputation of the MMS (Midgaard Mail Service), as many
+people seem to think that it is slow.  Perhaps if he were to brush the
+cobwebs from his uniform it would help to make a better impression.
+~
+190475 32776 1000 E
+33 -3 26 1536d100+50 1d8+27
+0 0
+8 8 1
+Str: 19
+Dex: 20
+Int: 21
+Wis: 20
+Con: 22
+Cha: 17
+E
+#3020
+guildmaster master mage~
+the mages' guildmaster~
+Your guildmaster is studying a spellbook while preparing to cast a spell.
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she possesses.  She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+59419 536872104 1000 E
+51 -23 60 4154d100+50 6d8+51
+164 0
+8 8 2
+Str: 25
+Dex: 25
+Int: 25
+Wis: 24
+Con: 25
+Cha: 25
+E
+#3021
+guildmaster master priest~
+the priests' guildmaster~
+Your guildmaster is prayer to your God here.
+~
+You are in no doubt that this guildmaster is truly close to your God; he
+has a peaceful, loving look.  You notice that he is surrounded by a white
+aura.
+~
+59419 268436648 1000 E
+51 -23 60 4154d100+50 6d8+51
+164 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 24
+Con: 25
+Cha: 25
+E
+#3022
+guildmaster master beggar thief~
+the thieves' guildmaster~
+A beggar is sitting here, could she be a guildmaster?
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief.  She is to be dressed in poor clothing, having
+the appearance of a beggar.
+~
+59419 1192 1000 E
+51 -26 57 4129d100+50 6d8+54
+0 0
+8 8 2
+Str: 25
+Dex: 25
+Int: 24
+Wis: 22
+Con: 24
+Cha: 23
+E
+#3023
+guildmaster master~
+the fighters' guildmaster~
+Your guildmaster is standing here sharpening an axe.
+~
+This is your master. Big and strong with bulging muscles. Several scars
+across his body proves that he was using arms before you were born. He
+has a calm look on his face.
+~
+59419 1192 1000 E
+51 -26 57 4129d100+50 6d8+54
+0 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 24
+Wis: 22
+Con: 24
+Cha: 23
+E
+#3024
+sorcerer~
+the sorcerer~
+A sorcerer is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive
+as well as defensive spells make him a deadly opponent.
+~
+59403 1192 1000 E
+44 -16 43 2913d100+50 4d8+43
+0 0
+8 8 1
+Str: 24
+Dex: 24
+Int: 22
+Wis: 23
+Con: 24
+Cha: 25
+E
+#3025
+knight templar~
+the knight templar~
+A knight templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the
+Faith.  His duty is to protect the faithful from persecution and infidel
+attacks and his religious devotion combined with his superior skill makes
+him a deadly opponent.
+~
+59403 1192 1000 E
+44 -16 43 2913d100+50 4d8+43
+0 0
+8 8 1
+Str: 24
+Dex: 24
+Int: 22
+Wis: 23
+Con: 24
+Cha: 25
+E
+#3026
+assassin~
+the assassin~
+An assassin is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as
+possible, using all sorts of weapons.  His superior knowledge of how
+and where to use them combined with his extraordinary stealth makes
+him a deadly opponent.
+~
+59403 787624 1000 E
+44 -16 44 2935d100+50 4d8+41
+117 0
+8 8 1
+Str: 22
+Dex: 25
+Int: 25
+Wis: 23
+Con: 23
+Cha: 21
+E
+#3027
+knight~
+the knight~
+A knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+59403 1192 1000 E
+44 -16 44 2935d100+50 4d8+41
+117 0
+8 8 1
+Str: 22
+Dex: 25
+Int: 25
+Wis: 23
+Con: 23
+Cha: 21
+E
+#3040
+bartender~
+the bartender~
+A bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+24586 0 1000 E
+24 4 16 790d100+50 1d8+19
+0 0
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 16
+Con: 20
+Cha: 19
+E
+#3041
+waiter~
+the waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+24586 0 1000 E
+23 6 15 725d100+50 1d8+17
+0 0
+8 8 1
+Str: 19
+Dex: 19
+Int: 19
+Wis: 15
+Con: 19
+Cha: 18
+E
+#3042
+waiter~
+the waiter~
+A man now leads a quiet, peaceful life as a waiter is standing here.
+~
+This man was obviously a famous sorcerer in his younger days as you
+instantly recognize his face.
+~
+24586 0 1000 E
+23 7 15 714d100+50 1d8+16
+0 0
+8 8 1
+Str: 18
+Dex: 18
+Int: 19
+Wis: 17
+Con: 18
+Cha: 19
+E
+#3043
+waiter~
+the waiter~
+A waiter who seems to have reached contact with his God is standing here.
+~
+This waiter almost makes you feel like you should drop to your knees
+and begin to worship your God.  Naaah.
+~
+24586 0 1000 E
+23 7 15 714d100+50 1d8+16
+0 0
+8 8 1
+Str: 18
+Dex: 18
+Int: 19
+Wis: 17
+Con: 18
+Cha: 19
+E
+#3044
+waiter~
+the waiter~
+A waiter who knows where all his customers keep their money is standing here.
+~
+Hmmm... wonder where he got that coin he is playing with.
+~
+24586 0 1000 E
+23 6 16 737d100+50 1d8+17
+0 0
+8 8 1
+Str: 17
+Dex: 17
+Int: 15
+Wis: 18
+Con: 17
+Cha: 18
+E
+#3045
+waiter~
+the waiter~
+A waiter is here.
+~
+This guy looks like he could easily kill you while still carrying
+quite a few firebreathers.
+~
+24586 0 1000 E
+23 6 16 737d100+50 1d8+17
+0 0
+8 8 1
+Str: 17
+Dex: 17
+Int: 15
+Wis: 18
+Con: 17
+Cha: 18
+E
+#3046
+filthy~
+Filthy~
+Filthy is standing here, eager to serve you a special drink.
+~
+Filthy looks real, ehm, dirty.  He likes to keep his customers happy,
+but do not mess with him or else he'll get upset.
+~
+26650 8 1000 E
+33 -2 27 1536d100+50 1d8+28
+0 0
+8 8 1
+Str: 19
+Dex: 19
+Int: 20
+Wis: 18
+Con: 19
+Cha: 22
+E
+#3059
+keeper peacekeeper~
+the Peacekeeper~
+A Peacekeeper is standing here, ready to jump in at the first sign of trouble.
+~
+He looks very strong and wise.  Looks like he doesn't answer to ANYONE.
+~
+4221017 8 1000 E
+29 1 22 1180d100+50 6d6+23
+51 0
+8 8 1
+BareHandAttack: 10
+Str: 20
+Dex: 19
+Int: 20
+Wis: 17
+Con: 21
+Cha: 17
+E
+#3060
+cityguard guard~
+the cityguard~
+A cityguard stands here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+4221001 40 1000 E
+35 -5 30 1730d100+50 2d6+29
+0 0
+8 8 1
+Str: 21
+Dex: 21
+Int: 20
+Wis: 22
+Con: 22
+Cha: 18
+E
+>entry_prog 30~
+emote keeps an eye out for wanted criminals.
+~
+>greet_prog 40~
+look $n
+if isgood($n)
+	say Good day.
+	smile $n
+else
+	mpechoaround $n $I wonders if $n is among the most wanted.
+	mpechoat $n $I wonders if you are among the most wanted.
+endif
+~
+>rand_prog 20~
+if rand(60)
+	emote whistles a little song.
+else
+	emote pulls something out of $l nose. 
+endif
+~
+>act_prog p bursts into~
+say What is wrong?
+~
+>act_prog p rolls down~
+say What's so funny?
+~
+>act_prog p bandit arrives~
+if rand(50)
+	shout Bandit just passed $Z!
+    if rand(35)
+        shout What shall I do?
+        if rand(25)
+             mpat yoda mpechoat yoda bandit_trig
+        endif
+    endif
+else
+	shout I saw the bandit at $Z!
+endif
+~
+>act_prog p kill_bandit~
+shout Right! BANZAAAAI!
+mpkill bandit
+~
+>speech_prog p My girlfriend left me~
+comfort $n 
+~
+|
+#3061
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
+~
+What a tough job he has.
+~
+2121 0 1000 E
+1 20 0 7d100+50 1d5+0
+0 0
+8 8 1
+Str: 11
+Dex: 11
+Int: 14
+Wis: 11
+Cha: 14
+E
+>rand_prog 20~
+grumble
+say Litterbugs.
+if rand(20)
+	say All I do each day is cleanup other people's messes.
+	if rand(20)
+		say I do not get paid enough.
+	else
+		if rand(20)
+			say Day in.  Day out.  This is all I do 24 hours a day.
+			if rand(10)
+				yell I want a vacation!
+			endif
+		endif
+	endif
+endif
+~
+>act_prog drops~
+say Litterbug!  You are all litterbugs!
+growl $n 
+if rand(1)
+	say That's it! You're gonna get it now!
+	mpkill $n
+endif
+~
+|
+#3062
+fido dog~
+the beastly fido~
+A beastly fido is mucking through the garbage looking for food here.
+~
+The fido is a small dog that has a foul smell and pieces of rotted meat
+hanging around his teeth.
+slkfgh
+sldjgs
+~
+65609 1024 -1000 E
+3 20 1 32d100+50 1d4+1
+0 0
+8 8 1
+BareHandAttack: 4
+Str: 12
+Dex: 14
+Int: 14
+Wis: 11
+Cha: 10
+E
+>greet_prog 40~
+bark $n
+if name($n) == mayor
+	growl $n
+	kill $n
+endif
+~
+>rand_prog 10~
+emote leaves a deposit on the ground.
+~
+|
+#3063
+mercenary~
+the mercenary~
+A mercenary is waiting for a job here.
+~
+He looks pretty mean, and you imagine he'd do anything for money.
+~
+6152 0 -1000 E
+5 19 2 62d100+50 1d6+2
+0 0
+8 8 1
+Dex: 15
+Int: 15
+Wis: 12
+Con: 14
+Cha: 11
+E
+>rand_prog 20~
+say Kill!  Blood!  Gore!
+~
+>greet_prog 30~
+if ispc($n)
+if rand(50)
+say Man, you have no idea how did we beat up mage's guildmaster the other day
+else
+say Hehehe.. I was in the group to beat up the mage's guildmaster!
+endif
+giggle
+endif
+~
+>death_prog 60~
+mpechoaround $i $I throws back his head and cackles with insane glee!
+~
+|
+#3064
+drunk~
+the drunk~
+A singing, happy Drunk.
+~
+A drunk who seems to be too happy, and to carry too much money.
+~
+4106 0 1000 E
+2 20 0 17d100+50 1d6+1
+0 0
+8 8 1
+Str: 12
+Dex: 11
+Int: 12
+Wis: 14
+Con: 11
+Cha: 10
+E
+>rand_prog 60~
+if rand(70)
+	dance
+else
+	emote sings, 'We're drinking beer, we're drink gin...'
+    emote sings, 'No matter what's in bottle, we're drinking everything..'
+endif
+~
+>greet_prog 10~
+if isnpc($n)
+yell Monster!  I found a monster!  Kill!  Banzai!
+mpkill $n
+endif
+~
+>bribe_prog 10~
+say Ahh!  More spirits!  Good spirits!
+sing
+~
+|
+#3065
+beggar~
+the beggar~
+A beggar is here, asking for a few coins.
+~
+The beggar looks like she is fed up with life.
+~
+14 4097 1000 E
+1 20 0 7d100+50 1d5+0
+0 0
+8 8 2
+Str: 12
+Dex: 11
+Int: 12
+Wis: 14
+Con: 11
+Cha: 10
+E
+>greet_prog 30~
+if ispc($n)
+	beg $n
+	say Spare some gold?
+endif
+~
+>bribe_prog 100~
+dance $n
+french $n
+~
+>bribe_prog 10~
+say Oh my GOD!  Thank you! Thank you!
+french $n
+~
+>bribe_prog 15~
+say Wow!  Thank you! Thank you!
+~
+>bribe_prog 1~
+thank $n
+~
+>fight_prog 20~
+say Help!  Please somebody help me!
+if rand(50)
+	say Ouch!
+else
+	say I'm bleeding.
+endif
+~
+>death_prog 100~
+if rand(50)
+	mpechoaround $i $I says 'Now I go to a better place.'
+else
+	mpechoaround $i $I says 'Forgive me God for I have sinned...'
+endif
+~
+|
+#3066
+yoda healer~
+Yoda~
+Yoda is here mummbling something to his beard.
+~
+Yoda is tiny little man with big ears. His beard is almost long as he is and
+all in all he looks kind of a cute. You almost wish to tap his head. It
+seems that he knows many ways of magic. Maybe he would even heal you.
+Hmmm... Try typing 'heal'...
+~
+190491 1032 1000 E
+60 -36 79 6163d100+50 1d8+64
+0 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+>greet_prog 40~
+bow $n
+say How may I help you?
+~
+>act_prog bandit_trig~
+shout Oh, shut up and kill him!!
+mpat $n mpechoat $n kill_bandit
+~
+|
+#3067
+gateguard guard~
+the gateguard~
+A gateguard stands here.
+~
+Good, strong gateguard fellow.
+~
+4218955 40 1000 E
+30 0 23 1251d100+50 2d6+24
+0 0
+8 8 1
+Str: 18
+Dex: 18
+Int: 17
+Wis: 17
+Con: 19
+Cha: 19
+E
+>greet_prog 80~
+if isgood($n)
+	if level($n) > 30
+	   mpechoat $n $i snaps to attention at your arrival.
+       	   mpechoaround $n $i snaps to attention at the arrival of $n.
+	endif
+else
+	if rand(30)
+		growl $n
+		say Evil is not wanted here!
+	endif
+endif
+~
+|
+#3068
+newbie guide~
+the newbie guide~
+The newbie guide is here, enjoying his work.
+~
+He looks like a man who saw a lot. There are some scars over his body
+suggesting that he finaly decided to settle down and do something more quiet.
+~
+24587 8 1000 E
+35 -4 30 1747d100+50 3d6+29
+0 0
+8 8 1
+Str: 22
+Dex: 22
+Int: 21
+Wis: 21
+Con: 21
+Cha: 21
+E
+#3069
+man repairman~
+the repairman~
+A repairman is walking around, looking for customers.
+~
+What a tough job he has.
+Type 'repair <item>' to repair things.
+~
+254155 40 1000 E
+51 -25 57 4154d100+50 3d6+51
+0 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#3070
+man salesman~
+the salesman~
+A traveling salesman is standing here.
+~
+He is a an old fellow who obviously traveled alot.
+He understands following commands 'list', 'sell', 'buy', 'info'.
+~
+254155 40 1000 E
+51 -26 59 4129d100+50 3d6+50
+0 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 22
+Con: 25
+Cha: 22
+E
+#3071
+man gambler vagabond~
+the vagabond~
+A suspicious looking man lurks around.
+~
+He looks tall and pretty much ugly. An eyepatch covers his right eye,
+but it seems he only needs one eye for what he does.
+Type 'gamble' to gamble.
+~
+254153 40 1000 E
+51 -26 59 4129d100+50 3d6+50
+0 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 22
+Con: 25
+Cha: 22
+E
+#3089
+pet shop boy~
+the Pet Shop Boy~
+There is a Pet Shop Boy standing here cuddleing something furry in his hands.
+~
+As you look at him, he opens his hands to reveal a rat!
+~
+26650 0 1000 E
+30 1 25 1236d100+50 20d4+24
+0 0
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 18
+Cha: 17
+E
+#3090
+kitten~
+the kitten~
+A small loyal kitten is here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+14 0 1000 E
+1 20 0 8d100+50 1d4+0
+0 0
+8 8 0
+BareHandAttack: 8
+Str: 12
+Dex: 12
+Int: 10
+Wis: 12
+Con: 14
+Cha: 11
+E
+#3091
+puppy~
+the puppy~
+A small loyal puppy is here.
+~
+The puppy looks like a cute, little, fierce fighter.
+~
+14 0 1000 E
+2 20 0 19d100+50 1d4+1
+0 0
+8 8 0
+BareHandAttack: 8
+Str: 12
+Dex: 12
+Int: 10
+Wis: 12
+Con: 14
+Cha: 11
+E
+#3092
+beagle~
+the beagle~
+A small, quick, loyal beagle is here.
+~
+The beagle looks like a fierce fighter.
+~
+14 0 1000 E
+3 20 1 29d100+50 1d6+1
+0 0
+8 8 0
+BareHandAttack: 4
+Dex: 11
+Int: 11
+Con: 12
+Cha: 11
+E
+>hitprcnt_prog 30~
+emote bites YOU!
+mpdamage $n 100
+~
+|
+#3093
+rottweiler~
+the rottweiler~
+A large, loyal rottweiler is here.
+~
+The rottweiler looks like a strong, fierce fighter.
+~
+14 0 1000 E
+4 19 1 43d100+50 1d7+2
+0 0
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 12
+Int: 12
+Wis: 14
+Cha: 12
+E
+#3094
+wolf~
+the wolf~
+A large, trained wolf is here.
+~
+The wolf looks like a strong, fearless fighter.
+~
+14 0 1000 E
+5 19 1 57d100+50 1d8+2
+0 0
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 12
+Int: 15
+Wis: 14
+Cha: 10
+E
+#3095
+guard druid~
+the druid's guard~
+A small druid is guarding the enterance.
+~
+He is a very small creature, so small he looks almost harmless. You really 
+wonder who placed him for druid's guild guardian.
+~
+59403 1192 1000 E
+44 -15 46 2935d100+50 4d18+41
+0 0
+8 8 2
+Str: 22
+Dex: 22
+Int: 21
+Wis: 22
+Con: 24
+Cha: 23
+E
+#3096
+Silja guard sumfor~
+Silja the Sumfor~
+Silja the Sumfor is guarding the entrance.
+~
+He is a specially trained avatar belonging to the military order of the
+Monks.  His duty is to protect the faithful from persecution and infidel
+attacks and his religious devotion combined with his superior skill makes
+him a deadly opponent.
+~
+71559195 1476400300 1000 E
+44 -14 46 2935d100+50 7d19+40
+0 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 22
+Wis: 25
+Con: 23
+Cha: 24
+E
+#3097
+guildmaster master~
+the druid's guildmaster~
+Your guildmaster is studying a spellbook while preparing to cast a spell.
+~
+He looks very old and tired, with the most friendly look on his face. He saw a 
+lot of miracles, no doubt. 
+~
+59419 134218920 1000 E
+51 -25 57 4154d100+50 6d8+51
+0 0
+8 8 2
+Str: 25
+Dex: 25
+Int: 23
+Wis: 25
+Con: 24
+Cha: 25
+E
+#3098
+monk guilmaster master~
+the monk's guilmaster~
+A very agile monk is doing some practice here.
+~
+He looks very dangerous. He sure can teach you few things.
+~
+67297291 1064 1000 E
+51 -26 56 4129d100+50 6d8+54
+0 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 23
+Wis: 24
+Con: 23
+Cha: 22
+E
+#3099
+Holy Defender~
+Holy Defender~
+Holy Defender walks around here, watching you calmly.
+~
+Small guy with almost no hair and very long, skillful fingers. He is serving the
+citizens of Midgaard protecting them from the outside aggression.
+~
+71491657 1192 1000 E
+43 -16 45 2761d100+50 0d0+42
+0 0
+8 8 1
+Str: 23
+Dex: 23
+Int: 21
+Wis: 22
+Con: 21
+Cha: 20
+E
+$

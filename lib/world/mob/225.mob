@@ -1,0 +1,353 @@
+#22500
+footman~
+Footman of Solak~
+Footman of Solak is here, eyeing at you carefully.
+~
+ Footman if Solak represents main power of Solak's Army. They are veterans
+from wars agains evil and in that honour King Ascot replace them on much 
+easier duty of guarding towm.
+~
+6617408 1192 1000 E
+35 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+Race: 0
+E
+#22501
+archer~
+Elite Archer of Solak~
+Elite Archer of Solak is here, watching above town's gate for intruders.
+~
+ Archers of Solak are very skillfull with huge longbows. They are capable
+to place their arrows into every intruder they spot on duty. Long, tiny
+ fingers are just perfect for their art of archery.
+~
+6617538 1192 1000 E
+42 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+Race: 0
+E
+#22502
+troop~
+Elite Troop of Solak~
+Elite Troop of Solak is here, ready to react on first sign of danger.
+~
+ Strong and high, with dark hair and deep green eyes trooper of Solak's Army 
+looks on first sight pretty harmless, but they are able to transform in 
+second into deadly force.
+~
+6617408 1194 1000 E
+48 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+E
+#22503
+bodyguard~
+Royal Bodyguard~
+Royal Bodyguard is standing here.
+~
+ Selected as a child, bodyguards are very respectfull defending force of Solak.
+They are very skillfull and they enjoy high reputy in this town.
+~
+6617410 1192 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+E
+#22504
+commander~
+Commander of Solak's Army~
+Chief of HeadQuarters is here, inspecting his troops.
+~
+ This is chief of Royal Army. He is very experienced master of battle, 
+serving his majesty for over centuries. He is usually in town, but he is
+capable to react in every moment to lead Solak's army into new victories.
+~
+6617426 1074267306 1000 E
+60 0 0 0d0+0 0d0+0
+100 -100
+8 8 1
+E
+#22505
+prince~
+Bower~
+Bower the third, Prince of Solak is here, performing his duty.
+~
+ Bower the third, was pretty unexpectualy placed on thron of Kingdom, after
+his two young brothers died on battle field of Dark Wood during last war.
+He looks pretty young, but his wisdom and intelligence, leads Solak into
+strong city.
+~
+6355282 2013267112 1000 E
+70 0 0 0d0+0 0d0+0
+100 -100
+8 8 1
+E
+#22506
+joanna~
+Joanna~
+Joanna is here, ready to serve travellers.
+~
+ Big and massive she doesn't look pretty at all. Pretty strong, she is
+overloading heavy boxes with amasing skill. Maybe you could help her? 
+~
+2416706 1024 1000 E
+50 0 0 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#22507
+Thivan~
+Thivan~
+Thivan, famous trader of Solak is here.
+~
+ Thivancame from distant land long time ago as a hidden passenger on 
+the ship. He started with a small shop, but traiding with variuos lands
+improved him as a merchant.
+~
+2154562 -2147482624 1000 E
+50 0 0 0d0+0 0d0+0
+100 -100
+8 8 1
+E
+#22508
+silak~
+Silak~
+Silak, master of illusion is here.
+~
+ Silak, Solak's master illusionst, was first illusionist who came to City 
+of Solak to teach choosen great and sacral art of illusion magic. 
+~
+2416706 1192 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+Class: 32
+E
+#22509
+cronus~
+Cronus~
+Cronus, master knight is here.
+~
+ Cronus was King's knight from second war against evil. He's bravery gave him
+honour to teach young knights to their honourable service.
+~
+2416706 1192 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+Class: 16
+E
+#22510
+techtraum~
+Techtraum~
+Techtraum, Royal Ranger is standing here.
+~
+ He is six feet tall and looks quite strong, muscles bulging under his heavy,
+chequered shirt. His features are worn with hard work and his expression is
+one of a peaceful man leading a simple life.
+
+~
+2416706 1192 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+Class: 16
+E
+#22511
+jerry~
+Jerry~
+Jerry is here, teaching people art of combat.
+~
+ Jerry, who was Royal Bodyguard after years of dangerous service decided
+to retire and to teach other dangerous art of killing.
+~
+2416706 1192 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+E
+#22512
+aruncus~
+Aruncus~
+Aruncus, master of Nature is standing here.
+~
+ Aruncus is a tall, skinny druid with a face marked by nature.
+He seems to be in peace with himself and his surroundings.
+
+~
+57410 168 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+Class: 64
+E
+#22513
+budhi~
+Budhi~
+Budhi, trainer of martial arts is here.
+~
+ Fluid motions, quick response and synchronized moves are his attributes.
+Calm expresion of his face and steel look in his eyes claim the years of 
+dicipline and hard training.
+
+
+
+Better don't mess with him, you will may be seriosly injured.
+~
+2154562 1192 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+Class: 256
+E
+#22514
+simon~
+Simon~
+Simon, teacher of Healing is standing here.
+~
+ Old, crest-fallen and wise, Simon was hired to transfer secrets of healing
+to new Royal clerics. He is doing that job throw all this years with 
+amazing succes. Show some respect!
+~
+2416706 1342178472 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+Class: 2
+E
+#22515
+kfir~
+Kfir~
+Kfir, Lord of Magic is standing here, practicing his magic.
+~
+ Originally, Kfir was Evil magician before he traverse into City of Solak.
+He was born in small village near Evil city, when forces of Evil conquer
+his village and destroyed it. Only mercy was shown to him. He grown up
+with dark side, but one day Arthur told him dark secret. After that hes only
+wish was to make revenge...
+ 
+~
+2416706 536872104 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+Class: 1
+E
+#22516
+xerak~
+Xerak~
+Xerak, Royal Assasin is here, ready to teach you.
+~
+ With long fingers and tiny body, Xerak really shines with strange energy.
+Orphan from his born, he was forced to live on the street, where he puts
+hes skills on much higher level. Now he is ready to teach in the name of his
+majesty.
+
+~
+2416722 263336 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+Class: 4
+E
+#22517
+citizen~
+Citizen of Solak~
+Citizen of Solak is here, proud on his citizeship. 
+~
+ You see very happy member of town's population. He is really proud on
+his town and its heroical history.
+~
+57536 1024 1000 E
+10 0 0 0d0+0 0d0+0
+2 -100
+8 8 1
+E
+#22518
+nobleman~
+Nobleman~
+Nobleman of Solak is standing here.
+~
+ He is representer of Solak's high class of ex-traders. They were at first
+poor traders but years of oversea trading make their treasure much bigger.
+
+~
+2423104 1064 1000 E
+38 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+E
+#22519
+joe~
+Joe~
+Joe is standing here, waiting for new piece of armor.
+~
+ He is still new, but perspective armourer of Solak. It looks he really
+enjoys to hammer armor whole day.
+~
+2416706 1064 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+E
+#22520
+dorr~
+Dorr~
+Dorr, weaponsmither of Solak is here, at service.
+~
+ He looks like typical weaponsmither, with strong hands and huge shoulders.
+He's pieces of weapons are famous in this area. He expecially enjoyes making
+two-handed swords.
+
+~
+2416706 1064 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+E
+#22521
+bartender~
+Bartender~
+Bartender is here, expecting some orders.
+~
+ A tired looking Bartender who hates trouble in his bar.
+~
+2416706 1064 1000 E
+40 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+E
+#22522
+gambler~
+Gambler~
+Gamble is sitting on his chair, playing his favourite game.
+~
+ He spends most of his time in this tavern, trying to make some money
+throw game 'Doble or nothing". Wanna join him???
+~
+2416706 1064 1000 E
+40 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+E
+#22523
+elf~
+Medium elf~
+Meduim-elf is here, selling food suplies.
+~
+ Unusuall trader is city of humans, joined Solak after he was expelled 
+from his elf tribe. Now he has new future beside humans.
+~
+2416706 1064 1000 E
+50 0 0 0d0+0 0d0+0
+10 -100
+8 8 1
+Race: 1
+E
+$
+
+
+
+Mob special remarks

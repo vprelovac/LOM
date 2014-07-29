@@ -1,0 +1,342 @@
+#1601
+killer frog~
+a killer frog~
+A killer frog rises up out of the water.
+~
+The killer frog looks ravenous.
+~
+98 0 -300 E
+5 16 6 5d5+55 1d5+4
+20 -100
+8 8 0
+E
+#1602
+stone gargoyle~
+the stone gargoyle~
+A stone gargoyle looms over you.
+~
+As you look, the figure seems to shift and move ...
+~
+226 0 -400 E
+9 13 1 9d9+90 4d3+2
+400 -100
+8 8 1
+E
+#1603
+angry gargoyle~
+an angry gargoyle~
+An angry gargoyle glares at you.
+~
+He looks ready to attack!
+~
+100 0 -600 E
+10 12 1 10d10+100 4d3+3
+500 -100
+8 8 1
+E
+#1604
+elite gargoyle~
+the elite gargoyle~
+An elite gargoyle guards this room against intrusion.
+~
+He snarls at you and says LEAVE OR DIE!
+~
+6 0 -600 E
+12 10 0 12d12+120 6d2+4
+800 -100
+8 8 1
+E
+#1605
+gargoyle shaman~
+the gargoyle shaman~
+The gargoyle shaman is here, preparing to do battle.
+~
+She says 'I can SEE you! I have been waiting ...'.
+~
+70 40 -900 E
+13 8 -1 13d13+130 6d3+4
+3000 -100
+8 8 2
+E
+#1606
+carnivorous plant~
+a carnivorous plant~
+Amidst the jungle here, a huge Carnivorous plant reaches out to grab you!
+~
+The plant looks something like a Venus fly-trap, only MUCH larger.
+~
+98 0 0 E
+9 12 3 9d9+90 3d3+3
+16 -100
+8 8 0
+E
+#1607
+gruesome ogre~
+a gruesome ogre~
+A huge, gruesome ogre is sprawled here, gnawing some strange meat.
+~
+It thinks that perhaps you would make a better meal.
+~
+102 0 -200 E
+10 12 2 10d10+100 4d2+4
+1200 -100
+8 8 0
+E
+#1608
+shadow~
+a shadow~
+A dark shadow moves about the room.
+~
+The Shadow is vaguely humanoid. Two glowing pinpoints look at you.
+~
+100 42 -1000 E
+10 12 0 10d10+100 4d3+4
+900 -100
+8 8 0
+E
+#1609
+evil wight~
+an evil wight~
+An evil wight lurks in the shadows!
+~
+He glares at you savagely and charges!
+~
+102 40 -1000 E
+12 10 -2 12d12+120 6d2+3
+2200 -100
+8 8 1
+E
+#1610
+burly minotaur~
+A burly minotaur~
+A burly minotaur watches you solemnly.
+~
+This powerful creature wonders whether to kill you or not ...
+~
+68 8 -600 E
+14 9 0 14d14+140 5d3+4
+1500 -100
+8 8 1
+E
+#1612
+savage minotaur~
+the savage minotaur~
+A bloodthirsty minotaur slowly counts his loot
+~
+He looks up at you and screams 'SO! Coming to steal my hoard!'
+~
+102 8 -600 E
+15 8 0 15d15+150 5d3+5
+0 -100
+8 8 1
+E
+#1613
+minotaur captain~
+the captain~
+Sitting here in this room is the Minotaur Captain.
+~
+He looks at you, and a sinister grin slowly spreads on his face ...
+~
+102 8 -900 E
+17 5 -3 17d17+170 5d3+6
+0 -100
+8 8 1
+E
+#1614
+black pudding~
+the black pudding~
+A huge black pudding fills the center of the room!!
+~
+It is a huge black blob that oozes about the room. Its heading toward YOU!
+~
+100 0 -1000 E
+15 9 0 15d15+150 8d2+5
+0 -100
+8 8 0
+E
+#1615
+lesser golem~
+a lesser golem~
+A lesser Golem stands guarding the entrance.
+~
+The golem appears to be made of some kind of clay, enchanted to come to life!
+~
+66 8 0 E
+16 8 -2 16d16+160 8d2+7
+0 -100
+8 8 0
+E
+#1616
+ancient wyvern~
+the ancient wyvern~
+An enormous, ancient wyvern stares down at your tiny form...
+~
+It thunders loudly 'I must protect my Master's wealth!'
+~
+100 40 -1000 E
+18 5 -2 18d18+180 10d2+8
+0 -100
+8 8 1
+E
+#1617
+spectre~
+the spectre~
+A spectre has begun to materialize in front of you!
+~
+Terror fills your heart as you view this master of the undead.
+~
+100 138 -1000 E
+19 2 -8 19d19+190 8d3+7
+0 -100
+8 8 1
+E
+#1702
+trapper~
+a trapper~
+A trapper stands here, bartering his pelts.
+~
+The trapper is clad mostly in the fur of various animals he's caught.
+~
+4 0 0 E
+6 15 4 6d6+60 2d4+1
+120 -100
+8 8 1
+E
+#1704
+hunter~
+a hunter~
+A hunter rests in here, carrying a fresh kill.
+~
+The hunter is rugged and sturdy from his occupation.
+~
+4 0 0 E
+8 13 3 8d8+80 2d4+2
+120 -100
+8 8 1
+E
+#1706
+ranger~
+a ranger~
+A grim ranger reclines at a table.
+~
+The years of wanderings have left the ranger hardened and strong.
+~
+68 8 200 E
+12 11 0 12d12+120 3d4+3
+0 -100
+8 8 1
+E
+#1707
+ranger leader~
+a ranger leader~
+A leader of the Rangers is watching you solemnly.
+~
+This individual has quite a reputation at the local trading posts!
+~
+6 8 300 E
+15 7 -3 15d15+150 4d4+4
+0 -100
+8 8 1
+E
+#1708
+ranger lord~
+the Lord of the Rangers~
+The Lord of the Rangers catches your eye.
+~
+
+~
+6 8 400 E
+20 1 -9 20d20+200 6d4+5
+0 -100
+8 8 1
+E
+#1710
+male centaur~
+a centaur~
+A male centaur wanders about this area.
+~
+The centaur has the upper torso of a man and lower body of a horse.
+~
+4 0 200 E
+7 14 4 7d7+70 2d4+1
+120 -100
+8 8 1
+E
+#1711
+female centaur~
+a centaur~
+A female centaur wanders about this area.
+~
+The centaur has the upper torso of a woman and lower body of a horse.
+~
+4 0 200 E
+7 14 4 7d7+70 2d4+1
+110 -100
+8 8 2
+E
+#1712
+old centaur~
+an old centaur~
+An old centaur is resting in a corner.
+~
+This centaur has lived a full life.
+~
+4 0 200 E
+6 15 5 6d6+60 2d4+0
+110 -100
+8 8 1
+E
+#1714
+centaur elder~
+an elder centaur~
+One of the centaur elders is here, watching you.
+~
+The elders act as counselors and advisors to the chief.
+~
+6 2 200 E
+9 13 2 9d9+90 2d4+2
+0 -100
+8 8 1
+E
+#1715
+centaur guard~
+a centaur guard~
+A strong centaur is standing guard here.
+~
+He appears to be blocking entrance to the next room.
+~
+2 2 200 E
+10 12 1 10d10+100 2d4+3
+0 -100
+8 8 1
+E
+#1716
+centaur chief~
+the centaur chief~
+The chief of the centaur villagers reclines here.
+~
+He has been the leader of this tribe for many years, and has acquired much
+wisdom.
+~
+6 2 200 E
+12 11 1 12d12+120 2d4+3
+0 -100
+8 8 1
+E
+#1720
+displacer beast~
+a displacer beast~
+A displacer beast is grazing nearby.
+~
+As you watch this strange creature, its position seems to flicker and shift.
+~
+128 0 0 E
+10 11 -3 10d10+100 4d3+2
+0 -100
+8 8 0
+E
+$
+
+
+
+Mob special remarks

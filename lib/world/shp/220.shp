@@ -1,0 +1,72 @@
+CircleMUD v3.0 Shop File~
+#22001~
+-1
+1.10
+0.90
+9
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+22068
+0
+22103
+-1
+0
+23
+0
+0
+#22002~
+-1
+1.10
+0.90
+5
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+22069
+0
+22105
+-1
+0
+23
+0
+0
+#22003~
+22068
+-1
+1.10
+0.90
+22
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+22070
+0
+22106
+-1
+0
+23
+0
+0
+$~

@@ -1,0 +1,427 @@
+#1
+Puff dragon fractal puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+Is that some type of differntial curve involving some strange, and
+unknown calculus that she seems to be made out of?
+~
+253977 96568360 1000 E
+38 -46 0 5d10+5500 6d8+3
+10000 0
+8 8 2
+BareHandAttack: 12
+Str: 25
+Dex: 22
+Int: 23
+Wis: 22
+Con: 25
+Cha: 25
+E
+#2
+warrior~
+the Warrior of the Northern Wind~
+Huge muscular man is here pondering how though you are.
+~
+Nothing.
+~
+253993 33960 1000 E
+45 -60 0 10d10+3000 5d10+50
+10000 0
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#3
+warrior~
+the Warrior of the Southern Wind~
+Huge muscular man is here pondering how though you are.
+~
+Nothing.
+~
+253993 33960 1000 E
+44 -60 0 10d10+2500 5d10+50
+10000 0
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#4
+warrior~
+the Warrior of the Western Wind~
+Huge muscular man is here pondering how though you are.
+~
+Nothing.
+~
+253993 33960 1000 E
+43 -55 0 10d10+2250 5d10+50
+10000 0
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#5
+warrior~
+the Warrior of the Eastern Wind~
+Huge muscular man is here pondering how though you are.
+~
+Nothing.
+~
+253993 33960 1000 E
+42 -55 0 10d10+2000 5d10+50
+10000 0
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#6
+demon stygian~
+Stygian, Lord of the Demons~
+Huge, fiery looking demon growls and prepares to attack.
+~
+Nothing.
+~
+254057 33960 -1000 E
+65 -45 0 20d10+7500 15d15+50
+100000000 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#7
+warrior~
+the Warrior of the Eastern Wind~
+Huge muscular man is here pondering how though you are.
+~
+Nothing.
+~
+253993 33960 1000 E
+42 -55 0 10d10+2000 5d10+50
+10000 0
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#8
+warrior~
+the Warrior of the Eastern Wind~
+Huge muscular man is here pondering how though you are.
+~
+Nothing.
+~
+253993 33960 1000 E
+42 -55 0 10d10+2000 5d10+50
+10000 0
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#10
+clone~
+the clone~
+A boring old clone is standing here.
+~
+This clone is nothing to look at.  No, really, it is quite boring.
+~
+10 0 1000 E
+1 -47 0 0d0+0 4d6+0
+-1 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#11
+zombie undead humanoid~
+the zombie~
+A strange humanoid is here.  How odd, its flesh seems to be falling off!
+~
+This strange humanoid is moving rather slowly, and appears to be
+a corpse, a walking corpse!  It must be a zombie or something of
+the sort.
+~
+11 1024 1000 E
+22 -45 0 0d0+0 0d0+0
+242 0
+8 8 0
+BareHandAttack: 7
+Str: 25
+Dex: 22
+Int: 21
+Wis: 22
+Con: 21
+Cha: 25
+E
+>entry_prog           5~
+if rand(50)
+	say Where am I now?
+	ponder
+else
+	emote sniffs to see what smells so bad
+endif
+~
+>death_prog           100~
+say Oh, no... Not again!
+~
+|
+#19
+aerial servant shape aerial_servant~
+the aerial servant~
+An amorphous shape is floating in the air.
+~
+As you stare at this amorphous shape, it begins to appear to take
+the shape of a cloud-like humanoid.
+~
+2122 786442 -1000 E
+6 -31 0 3d5+62 2d4+0
+18 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#20
+elemental~
+the elemental~
+A huge elemental is standing patiently here.
+~
+This creature is the essence of the elements, and appears to be
+waiting patiently for something to occur.
+~
+10 32 1000 E
+19 -45 0 0d0+0 0d0+0
+180 0
+8 8 0
+Str: 21
+Dex: 14
+Int: 21
+Wis: 15
+Con: 21
+Cha: 25
+E
+#21
+demon~
+the demon~
+A demon is standing patiently here.
+~
+A creature obviously not from this world. It looks very mean and dangerous.
+~
+10 1056 -1000 E
+24 -45 0 0d0+0 0d0+0
+288 0
+8 8 0
+Str: 25
+Dex: 22
+Int: 21
+Wis: 22
+Con: 25
+Cha: 25
+E
+>entry_prog           10~
+muha
+~
+|
+#22
+dragon green~
+a huge green dragon~
+A huge green dragon is here, its narrow yellow eyes glowing with rage.
+~
+This enormous winged serpent has dark green scales covering most of its
+colossal body.  Numerous holes in its heavy wings tell of many fights as
+does the nicks in the horns on its head.  It smells as disgusting as only
+dragons do.
+~
+11 4195368 1000 E
+36 -43 0 20d20+500 5d5+20
+648 0
+8 8 0
+BareHandAttack: 8
+Str: 25
+Dex: 21
+Int: 25
+Wis: 22
+Con: 25
+Cha: 25
+E
+>rand_prog           3~
+emote claps its huge wings.
+~
+|
+#30
+innkeeper~
+the Immortal Innkeeper~
+The Immortal Innkeeper is organizing her books here.
+~
+She appears to be having no problem tallying things up.
+~
+11 32768 1000 E
+30 -47 0 1d49+901 4d8+5
+450 0
+8 8 2
+Str: 25
+Dex: 23
+Int: 25
+Wis: 22
+Con: 25
+Cha: 25
+E
+#31
+postmaster master post~
+the Immortal Postmaster~
+The Immortal Postmaster is hard at work here.
+~
+Scary... a postal worker... working?
+~
+11 32768 1000 E
+30 -47 0 1d49+901 4d8+5
+450 0
+8 8 2
+Str: 25
+Dex: 23
+Int: 25
+Wis: 22
+Con: 25
+Cha: 25
+E
+#32
+being amorphous spirit wandering~
+the wandering spirit~
+A strange amorphous being wanders these halls eternally cleaning.
+~
+This spirit, having lived out its days in the mortal world, now
+works off its final sins by doing menial labour in this realm's
+purgatory.  In this case, those chores seem to be cleaning up
+after the immortals of the land.
+~
+65613 295944 1000 E
+30 -47 0 1d49+901 4d8+5
+450 0
+8 8 0
+Str: 25
+Dex: 21
+Int: 25
+Wis: 22
+Con: 25
+Cha: 25
+E
+#33
+man drunk shane~
+Shane~
+Shane is here, looking drunk to the bone.
+~
+Shane. Eh. The most famous person of Midgaard. Long story...
+~
+2121 0 1000 E
+40 -47 0 8d8+2500 4d4+8
+53 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#50
+supermob~
+supermob~
+supermob is here
+~
+Dont ever touch the supermob!!!
+if you are a player please report thisas a bug
+~
+1558538 33832 1000 E
+99 -57 0 30d30+4000 10d10+50
+1250 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#99
+death reaper grim_reaper~
+Death~
+Death the Grim Reaper is observing you silently from empty eye sockets.
+~
+The dark-robed skeletal figure radiates an unendurable coldness.
+~
+256026 16811176 1000 E
+69 -67 0 1d1+30000 3d15+40
+1458 0
+8 8 0
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+>rand_prog          40~
+if rand(20)
+    say If you say give me life, I'll do it... I know I'll see you again
+    grin
+else if rand(50)
+    emote slowly waves it's scythe. 
+endif
+~
+>speech_prog          p give me life~
+look $n
+if rand(50)
+    say Hope to see you around...
+else
+    if rand(50) 
+        say My doors are always open for you...
+    else
+        say Come again...
+    endif
+endif
+giggle
+emote pulls a blue lever.
+mpechoat $n You are briefly surrounded by a thick smoke.
+mptransfer $n 3001 1
+~
+|
+$

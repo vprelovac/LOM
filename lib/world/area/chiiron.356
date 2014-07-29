@@ -1,0 +1,2915 @@
+#356
+Chiiron~
+35699 35 2
+
+#AUTHOR TFE Tomcat~
+
+#RESETMSG You hear the Chiiron bell ringing.~
+
+O 0 3034 1  35624 ; Object: #3034 (not in area) => #0 (not in area)
+M 0 35618 1 35641 ; Mob: #918 a gopher => #941 Inside a Gopher Hole
+M 0 35615 1 35623 ; Mob: #915 an alchemist => #923 The Chiiron Alchemist Shop
+D 0 35630 5 1 ; Door: #930 Deserted Shop/down => closed
+D 0 35632 4 1 ; Door: #932 The Locksmith's/up => closed
+M 0 35619 1 35632 ; Mob: #919 a locksmith => #932 The Locksmith's
+G 1 35646 1 ; -- Give:  #946 a small lockpick
+O 0 35644 2 35639 ; Object: #944 a brook => #939 By a Shady Brook
+O 0 35644 2 35684 ; Object: #944 a brook => #984 Shallow Brook, Field
+M 0 35617 1 35628 ; Mob: #917 Berdeth => #928 The Swordsman's
+M 0 35616 1 35627 ; Mob: #916 a priestess => #927 Temple of Taranth
+O 0 35643 1 35627 ; Object: #943 a large metal cauldron => #927 Temple of Taranth
+M 0 35614 1 35618 ; Mob: #914 Trenhk => #918 The Chiiron Weapon Shop
+G 1 35638 1 ; -- Give:  #938 a bronze shortsword
+G 1 35639 1 ; -- Give:  #939 a bronze longsword
+G 1 35640 1 ; -- Give:  #940 a small bronze mace
+G 1 35641 1 ; -- Give:  #941 a bronze dagger
+G 1 35642 1 ; -- Give:  #942 a mapple staff
+M 0 35613 1 35617 ; Mob: #913 Alslaad => #917 The Chiiron Leather Shop
+G 1 35632 1 ; -- Give:  #932 a leather jacket
+G 1 35633 1 ; -- Give:  #933 a studded leather jacket
+G 1 35636 1 ; -- Give:  #936 a pair of padded leggings
+G 1 35634 1 ; -- Give:  #934 a pair of padded sleeves
+G 1 35635 1 ; -- Give:  #935 a pair of hard leather leggings
+G 1 35637 1 ; -- Give:  #937 a pair of hard leather sleeves
+M 0 35612 1 35614 ; Mob: #912 Prenslie => #914 The Chiiron Magic Shoppe
+G 1 35627 1 ; -- Give:  #927 a scroll of identify
+G 1 35628 1 ; -- Give:  #928 a scroll of recall
+G 1 35629 1 ; -- Give:  #929 a scroll of remove curse
+G 1 35630 1 ; -- Give:  #930 a scroll of magic missile
+G 1 35631 1 ; -- Give:  #931 a potion of cure poison
+M 0 35611 1 35612 ; Mob: #911 a bartender => #912 The Fighting Ferret
+G 1 35626 1 ; -- Give:  #926 a glass bottle
+G 1 35625 1 ; -- Give:  #925 a barrel
+M 0 35610 1 35611 ; Mob: #910 a grocer => #911 The Grocery Shop
+G 1 35617 1 ; -- Give:  #917 a loaf of white bread
+G 1 35623 1 ; -- Give:  #923 an iron ration
+G 1 35616 1 ; -- Give:  #916 a bronze cup
+G 1 35624 1 ; -- Give:  #924 a leather waterskin
+M 0 35609 1 35610 ; Mob: #909 Peter => #910 Fur Trader's Shop
+G 1 35602 1 ; -- Give:  #902 a rabbit skin
+G 1 35603 1 ; -- Give:  #903 a thick brown deer skin
+M 0 35608 1 35609 ; Mob: #908 Jac => #909 The Trading Post
+G 1 35619 1 ; -- Give:  #919 a torch
+G 1 35622 1 ; -- Give:  #922 a hooded brass lantern
+G 1 35620 1 ; -- Give:  #920 a small burlap bag
+G 1 35621 1 ; -- Give:  #921 a small canvas bag
+O 0 35616 1 35604 ; Object: #916 a bronze cup => #904 Outside of Temple to Taranth
+O 0 35617 2 35604 ; Object: #917 a loaf of white bread => #904 Outside of Temple to Taranth
+O 0 35617 2 35604 ; Object: #917 a loaf of white bread => #904 Outside of Temple to Taranth
+O 0 35618 1 35604 ; Object: #918 an apple => #904 Outside of Temple to Taranth
+O 0 35619 1 35604 ; Object: #919 a torch => #904 Outside of Temple to Taranth
+M 0 35606 1 35603 ; Mob: #906 a weary elf => #903 Village Square
+M 0 35607 1 35603 ; Mob: #907 a wolverine => #903 Village Square
+O 0 35615 1 35603 ; Object: #915 a fountain => #903 Village Square
+M 0 35601 5 35602 ; Mob: #901 a mage guardian => #902 Garnie Lane
+E 1 35614 5 5 ; -- Equip: #914 a cloth robe (body)
+M 0 35601 5 35608 ; Mob: #901 a mage guardian => #902 Garnie Lane
+E 1 35614 5 5 ; -- Equip: #914 a cloth robe (body)
+M 0 35601 5 35624 ; Mob: #901 a mage guardian => #902 Garnie Lane
+E 1 35614 5 5 ; -- Equip: #914 a cloth robe (body)
+M 0 35601 5 35635 ; Mob: #901 a mage guardian => #902 Garnie Lane
+E 1 35614 5 5 ; -- Equip: #914 a cloth robe (body)
+M 0 35601 5 35637 ; Mob: #901 a mage guardian => #902 Garnie Lane
+E 1 35614 5 5 ; -- Equip: #914 a cloth robe (body)
+M 0 35600 7 35601 ; Mob: #900 a Chiiron guard => #901 Garnie Lane
+E 1 35610 7 5 ; -- Equip: #910 a steel ringmail vest (body)
+E 1 35611 7 10 ; -- Equip: #911 a pair of bronze ringmail sleeves (arms)
+E 1 35612 7 7 ; -- Equip: #912 a pair of bronze ringmail leggings (legs)
+E 1 35613 7 13 ; -- Equip: #913 a narrow leather belt (waist)
+M 0 35600 7 35603 ; Mob: #900 a Chiiron guard => #901 Garnie Lane
+E 1 35610 7 5 ; -- Equip: #910 a steel ringmail vest (body)
+E 1 35611 7 10 ; -- Equip: #911 a pair of bronze ringmail sleeves (arms)
+E 1 35612 7 7 ; -- Equip: #912 a pair of bronze ringmail leggings (legs)
+E 1 35613 7 13 ; -- Equip: #913 a narrow leather belt (waist)
+M 0 35600 7 35608 ; Mob: #900 a Chiiron guard => #901 Garnie Lane
+E 1 35610 7 5 ; -- Equip: #910 a steel ringmail vest (body)
+E 1 35611 7 10 ; -- Equip: #911 a pair of bronze ringmail sleeves (arms)
+E 1 35612 7 7 ; -- Equip: #912 a pair of bronze ringmail leggings (legs)
+E 1 35613 7 13 ; -- Equip: #913 a narrow leather belt (waist)
+M 0 35600 7 35624 ; Mob: #900 a Chiiron guard => #901 Garnie Lane
+E 1 35610 7 5 ; -- Equip: #910 a steel ringmail vest (body)
+E 1 35611 7 10 ; -- Equip: #911 a pair of bronze ringmail sleeves (arms)
+E 1 35612 7 7 ; -- Equip: #912 a pair of bronze ringmail leggings (legs)
+E 1 35613 7 13 ; -- Equip: #913 a narrow leather belt (waist)
+M 0 35600 7 35636 ; Mob: #900 a Chiiron guard => #901 Garnie Lane
+E 1 35610 7 5 ; -- Equip: #910 a steel ringmail vest (body)
+E 1 35611 7 10 ; -- Equip: #911 a pair of bronze ringmail sleeves (arms)
+E 1 35612 7 7 ; -- Equip: #912 a pair of bronze ringmail leggings (legs)
+E 1 35613 7 13 ; -- Equip: #913 a narrow leather belt (waist)
+M 0 35600 7 35636 ; Mob: #900 a Chiiron guard => #901 Garnie Lane
+E 1 35610 7 5 ; -- Equip: #910 a steel ringmail vest (body)
+E 1 35611 7 10 ; -- Equip: #911 a pair of bronze ringmail sleeves (arms)
+E 1 35612 7 7 ; -- Equip: #912 a pair of bronze ringmail leggings (legs)
+E 1 35613 7 13 ; -- Equip: #913 a narrow leather belt (waist)
+O 25 35609 1 35679 ; Object: #909 a shard of glass => #979 Edge of the Woods
+M 0 35605 1 35646 ; Mob: #905 a rattlesnake => #946 Before a Raging River
+M 50 35604 2 35680 ; Mob: #903 a deer => #944 Faint Path Through a Dense Forest
+M 0 35604 2 35680 ; Mob: #904 a silver fox => #980 A Dense Forest
+M 0 35603 3 35644 ; Mob: #903 a deer => #944 Faint Path Through a Dense Forest
+M 0 35603 3 35643 ; Mob: #903 a deer => #943 Faint Path Through a Dense Forest
+M 0 35603 3 35643 ; Mob: #903 a deer => #943 Faint Path Through a Dense Forest
+M 0 35602 7 35679 ; Mob: #902 a rabbit => #979 Edge of the Woods
+M 0 35602 7 35683 ; Mob: #902 a rabbit => #983 Fields Near Chiiron
+M 0 35602 7 35646 ; Mob: #902 a rabbit => #946 Before a Raging River
+M 0 35602 7 35646 ; Mob: #902 a rabbit => #946 Before a Raging River
+M 0 35602 7 35642 ; Mob: #902 a rabbit => #942 Edge of a Dense Forest
+M 0 35602 7 35642 ; Mob: #902 a rabbit => #942 Edge of a Dense Forest
+D 0 35634 2 1 ; Door: #934 Tower Room/south => closed
+D 0 35608 0 1 ; Door: #934 Tower Room/south => closed
+S
+$~
+$end~
+
+
+#ROOMS
+#35601
+Garnie Lane~
+Off to the north you see the town wall with a small gate inset in it.
+This allows access to the hills and mountains beyond.  You have heard
+rumors of dragons and goblins in those mountains, but the gate does not
+seem particularly well guarded, so whatever lives there must leave the
+town alone.  To the west lies the &Gbank of Chiiron&0 and to the east lies a
+&Gsmall magic shop&0.  To the south you see Garnie lane and further south you
+see the town square.
+~
+356 0 1
+D0
+~
+~
+0 0 35635
+D1
+~
+~
+0 -1 35614
+D2
+~
+~
+0 -1 35602
+D3
+~
+~
+0 -1 35624
+S
+#35602
+Garnie Lane~
+This small lane was named after a once great warrior that was born in
+this town.  He struggled against all odds and to his tribute this street
+was named after him.  To the south lies the Town Square.  The lane
+continues off towards the north where you can see the massive northern
+gates rising up over the city walls.
+~
+356 0 1
+D0
+You see the north gate.
+~
+~
+0 -1 35601
+D2
+You see the Town Square of Chiiron.
+~
+~
+0 -1 35603
+S
+#35603
+Village Square~
+This is the center of the village of Chiiron.  The marks of commerce are
+evident in the hoof scars and wheel ruts upon the road-stones.  Firmly
+seated in the intersection is a cylindrical stone &Gfountain&0, covered
+in a dark, mossy overgrowth.  Contained in the fountain is a
+foul-smelling, effervescent fluid, apparently a byproduct of the moss,
+sunlight and time.  On the side of the fountain is a small &Gsign&0.  A
+small, wooden chapel is directly south of here, where the occasional
+tolling of the town bell can be heard.  Garnie Lane starts to the north,
+with Trader Road crossing here east to west.
+~
+356 0 1
+D0
+You see a street.
+~
+~
+0 -1 35602
+D1
+You see Trader Road.
+~
+~
+0 -1 35607
+D2
+You see a sheltered shrine glowing over there.
+~
+~
+0 -1 35604
+D3
+You see Trader Road.
+~
+~
+0 -1 35606
+E
+sign~
+The small sign on the side of the fountain reads 'No Fishing!'.  It has
+obviously been there for many years and you doubt it is too strongly
+enforced.
+~
+>
+rand_prog 30~
+mpecho Tiny bubbles rise to the surface of the fountain.
+~
+>
+rand_prog 7~
+mpecho A small fish jumps out of the water from the fountain. It was swimming
+mpecho right by the edge of the basin and lands on the stone. It flips around
+mpecho and lands right on the ground!
+mpoload 35647 5
+drop fish
+~
+>
+action_prog q catch grab | fish~
+if int($n)<15
+mpechoat $n The fish in the fountain seem to be wise to what you are up to and are
+mpechoat $n all lurking at the bottom of the fountain, out of your reach.
+else
+if rand(20)
+mer $n $n reaches into the fountain and catches a fish.
+mea $n You reach down and snatch a fish from the fountain.
+mpoload 35647
+give fish $n
+else
+mer $n $n is bending over into the fountain, trying to grab a fish.
+mea $n You attempt to catch a fish from the fountain, but it avoids you.
+endif
+endif
+~
+|
+S
+#35604
+Outside of Temple to Taranth~
+This is a small area of grass outside the chapel which is to the south.
+The chapel is rather old and could do with being painted.  There is a
+stone slab here which is obviously used for sacrifices.  The trampled
+grass leads you to believe that this is a popular place of worship.  To
+the north lies the town square.  Several large guards stand along the
+walls watching for people who are wanted.
+~
+356 ce 1
+D0
+You see the Town Square.
+~
+~
+0 -1 35603
+D2
+~
+~
+0 -1 35627
+E
+bell~
+The bell is made of brass and supported by a wooden frame allowing it to
+swing freely.  You can see small cracks in it from many years of use.
+The wooden frame is beginning to rot and undoubtly will need fixing
+soon.
+~
+E
+stone slab~
+The stone slab is 3x4 feet in size and very worn.  It is clearly used for
+sacrifices as you can see dried blood on the edges of it.
+~
+S
+#35605
+Trader Road~
+You are standing on the main street of Chiiron.  To the north is an
+&Galchemist's shop&0, while to the south you spy a boarded-up shop which
+seems to have been deserted for awhile.  The cobbled road continues east
+to the town square.
+~
+356 0 1
+D0
+~
+~
+0 -1 35623
+D1
+You see Trader Road going east.
+~
+~
+0 -1 35616
+D2
+~
+~
+0 -1 35630
+D3
+~
+~
+0 -1 35637
+S
+#35606
+Trader Road~
+You are standing on the main street of Chiiron. To the north and the
+south lie what looks like shops. The road continues west, to the east
+is what looks like the Town Square.
+~
+356 0 1
+D0
+You see the Grocery Shop.
+~
+~
+0 -1 35611
+D1
+You see the Town Square.
+~
+~
+0 -1 35603
+D2
+You see a local bar called the Fighting Ferret.
+~
+~
+0 -1 35612
+D3
+You see the Trader Road.
+~
+~
+0 -1 35616
+S
+#35607
+Trader Road~
+You are standing in the busiest part of Chiiron which means there
+are two people on the road. There are doors to the north and south
+of you. The cobbled road continues east to the eastern gate and
+west to the town square.
+~
+356 0 1
+D0
+You see the Trading Post.
+~
+~
+0 -1 35609
+D1
+You see the Eastern Gates of Chiiron
+~
+~
+0 -1 35608
+D2
+You see the Fur Trading Shop.
+~
+~
+0 -1 35610
+D3
+You see the Town Square.
+~
+~
+0 -1 35603
+S
+#35608
+East Gate of Chiiron~
+Before you stands the east gate of Chiiron.  It is a simple gate house
+between two towers.  To the north is a staircase leading into one of the
+towers, and to the side of the gate itself, is a &Glever&0 which looks
+like pushing it or pulling it controls the portcullis.  Main Street runs
+west, and you can see shops down that way on either side.  East, the road
+leads out of Chiiron and into dangers unknown.
+~
+356 0 1
+D0
+~
+door~
+-1 -1 35634
+D3
+You see Trader Road.
+~
+~
+0 -1 35607
+E
+lever~
+The lever's set into the wall here control whether the portcullis is
+opened or closed.
+~
+>
+action_prog q pull lever~
+if ispassage($n)==east
+mea $n You pull the lever but nothing happens.
+else
+mea $n You pull the lever.
+mer $n $n pulls the lever.
+wait 1
+mpwaitstate $n 1
+if ispassage($n)==east
+else
+mpecho The portcullis opens with a grinding of gears.
+mpat 35633 mpecho The portcullis opens with a grinding of gears.
+mpopenpassage 35608 35633 1
+endif
+endif
+~
+>
+action_prog q push lever~
+if ispassage($n)==east
+mea $n You push the lever.
+mer $n $n pushes the lever.
+mpecho The portcullis drops shut with a loud clang!
+mpat 35633 mpecho The portcullis drops shut with a loud CLANG!
+mpclosepassage 35608 1
+else
+mea $n You push the lever but nothing happens.
+endif
+~
+>
+grand_prog 50~
+if ispassage($q)==east
+mpecho The portcullis drops shut with a loud clang!
+mpat 35633 mpecho The portcullis drops shut with a loud CLANG!
+mpclosepassage 35608 1
+endif
+~
+|
+S
+#35609
+The Trading Post~
+You are standing in a shop with a little bit of everything. There
+is almost anything you could ever want here. It is designed to be
+a one stop shopping place.
+~
+356 d 1
+D2
+You see Trader Road.
+~
+~
+0 -1 35607
+S
+#35610
+Fur Trader's Shop~
+Never before have you seen so many dead animals.  Pelts and furs line the
+shelves, counters and even the floor.  Even though the owner has more
+pelts than he could ever want, the owner still looks eager to buy more.
+~
+356 d 1
+D0
+You see Trader Road.
+~
+~
+0 -1 35607
+S
+#35611
+The Grocery Shop~
+You are in the center of a neatly managed shop that caters to the more
+practical side of the adventure.  Bags and rations line the shelves along
+the wall.  A heavy cabinet has been pushed against one wall in an attempt
+to cover a large crevice in the floor.
+~
+356 d 1
+D2
+You see Trader Road.
+~
+~
+0 -1 35606
+E
+down crevice floor cabinet~
+The floor is littered with small bits of string, food crumbs and
+butcher's paper.  In one corner, you see a large crevice that the grocer
+has pushed a heavy cabinet over to try to block it up.
+~
+S
+#35612
+The Fighting Ferret~
+Every town needs a place to unwind after a long day at work.  This bar
+caters to those adventurers that go out and hunt for a living with
+stuffed animal heads lined above the wall.  There is a joyous mood in the
+air, since the forest has treated them well.  On the right side is a
+stair which lead upstairs to a sparring center.
+~
+356 d 1
+D0
+You see Trader Road.
+~
+~
+0 -1 35606
+D2
+~
+~
+0 -1 35681
+D4
+~
+~
+0 -1 35628
+E
+group men~
+Several residents of Chiiron sit around a small table drinking beer and
+talking of lands near and far.
+~
+E
+stuffed animal heads wall~
+There seems to be quite a variety of stuffed animal heads adorning the
+wall.  Among them you see a grizzly and even a green dragon head.
+Whoever managed to hunt all these things down must have been quite
+formidable.
+~
+>
+rand_prog 30~
+mer $r The bartender whispers something to $r.
+mea $r The bartender leans over the counter and whispers, 'Not meaning to
+mea $r intrude, but ye look a bit confused. Care to ask me anything to help ye
+mea $r on yer way?'
+~
+>
+rand_prog 20~
+mer $r One of the men in the corner peers over his shoulder at $n.
+mea $r One of the men in the corner glares at you.
+~
+|
+S
+#35614
+The Chiiron Magic Shoppe~
+You are standing in a small room.  There is a small counter in front of
+you.  Behind it are shelves lined with small bottles and bowls.  There
+are small tables lining the other walls and they contain various small
+trinkets, herbs and potions.  There is a small chest in one corner, the
+top is open and it is filled with brown parchment rolled up and tied with
+string.  In the opposite corner is a small end table, on it is a small,
+clear &bbox&0 filled with dust.  Above the table is a &bsign&0 suspended in mid
+air.
+~
+356 d 1
+D3
+You see a small street.
+~
+~
+0 -1 35601
+D4
+~
+~
+0 -1 35621
+E
+sign~
+This box contains the remains of the last person who broke the merchandise
+and refused to pay for it.  Consider yourself warned and have a nice day.
+~
+E
+box~
+You examine a small, clear box carefully.  You notice it is suspended
+in mid air.  Inside is a small pile of gray dust.  You reach for the
+box, but find you cannot touch it.  Something prevents you from getting
+too close to it.
+~
+S
+#35616
+Trader Road~
+You are standing on a small road in the middle of the town of Chiiron.
+To the north lies a &Gleather shop&0 and to the south a &Gweapons shop&0.  The
+road continues to the east and west.  Off to the west you can see the
+town wall after another row of shops.
+~
+356 0 1
+D0
+You see the Chiiron Leather Shop.
+~
+~
+0 -1 35617
+D1
+You see Trader Road.
+~
+~
+0 -1 35606
+D2
+You see a weapon's shop.
+~
+~
+0 -1 35618
+D3
+You see the west gate of Chiiron.
+~
+~
+0 -1 35605
+S
+#35617
+The Chiiron Leather Shop~
+This place is filled with a variety of different leather goods at
+different stages of completion.  The craftmanship is evident by looking
+at the quality of the merchandise.  On the back wall of the shop is a
+small ladder which obviously leads to a loft above the shop.
+~
+356 d 1
+D2
+You see Trader Road.
+~
+~
+0 -1 35616
+E
+sign~
+Keepen Sie Fingeren ausen die Merchandise!
+Oilen destroyen das Leather.
+~
+S
+#35618
+The Chiiron Weapon Shop~
+This place is not stocked with every weapon known, but it has a good
+selection at reasonable prices. This shop has very few decorations
+or pleasantries.
+~
+356 d 1
+D0
+You see Trader Road.
+~
+~
+0 -1 35616
+S
+#35621
+A Laboratory~
+You are standing in a long room filled with bookcases.  The bookcases
+are filled with many books dedicated to the field of magic.  Small desks
+and chairs await the visiting scholar.
+~
+356 d 1
+D5
+~
+~
+0 -1 35614
+S
+#35623
+The Chiiron Alchemist Shop~
+You see various containers filled with strange liquids, powders and other
+things you'd rather not think about.  Nothing is labeled, and things seem
+to be placed randomly about the room.  You'd better ask for help if you
+plan to actually find what you are looking for.  On the north wall is a
+bookshelf holding various tomes of strange recipes.
+~
+356 d 1
+D2
+You see Trader Road.
+~
+~
+0 -1 35605
+S
+#35624
+Chiiron Savings and Loan~
+This is the fiduciary center of the bustling town of Chiiron.  Merchants
+and townsfolk alike entrust their livelihoods to the impenetrable vaults
+herein.  The walls here are a dark, rich wood from the Alternifolia
+Melealuca trees of the High Mountains.  Woven rugs adorn a cold, solid
+marble floor.  Great pillars support the high ceiling above, on which an
+intricate mosaic of nonsectarian icons can be found.  Several tellers,
+each skilled in the many languages of the area, await your transaction
+from behind brass grating.
+~
+356 d 1
+D1
+~
+~
+0 -1 35601
+E
+vault~
+This door is cleverly recessed into the wall in a way which hides it from
+the casual observer.  Every indication you see leads you to believe this
+door is probably not easily opened.
+~
+S
+#35627
+Temple of Taranth~
+As you look around the temple, you notice how bare and empty it is.
+Taranth obviously does not demand sacrifices of wealth.  To the south you
+see a statue of Taranth with a small number of flowers strewn at the base.
+In the south west corner is a small spiral staircase which winds upwards
+to the bell tower.  In the opposite corner is a large &Gcauldron&0
+sitting on some hot coals with some type of soup which smells delicious.
+~
+356 cde 1
+D0
+~
+~
+0 -1 35604
+D4
+~
+~
+0 -1 35631
+E
+statue~
+The statue of Taranth is meticulously crafted out of granite.  Despite
+the rough stone it is a beautiful peace of work.  Taranth is a tall woman
+with flowing hair.  She is depicted as wearing a loose gown with a belt at
+the waist.  Her face is wrinkled from age, but still extremely
+attractive.
+~
+>
+action_prog r up~
+mea $n You climb up the stairs.
+~
+|
+S
+#35628
+The Swordsman's~
+You enter the room and see several warrior-like people practicing their
+skills.  There are several practice dummies, and mock weapons, to protect
+those choosing to spar.
+~
+356 d 1
+D5
+~
+~
+0 -1 35612
+>
+action_prog q list~
+mea $n This doesn't look like a shop to you at all. Instead it appears to be a
+mea $n training room. And you doubt the swordman would appreciate you trying to
+mea $n buy his equipment.
+~
+|
+S
+#35630
+Deserted Shop~
+The shop looks deserted except there isn't much dust on the floor as if a
+reasonable amount of traffic goes through here.  There is no furniture
+and only a small amount of debris lying around.
+~
+356 d 1
+D0
+~
+~
+0 -1 35605
+D5
+It is a trapdoor.
+~
+trapdoor door~
+-19 -1 35632
+>
+action_prog q list~
+mea $n The shop looks very deserted and there is no shopkeeper or merchandise to
+mea $n be seen.
+~
+|
+S
+#35631
+Bell Tower~
+This is a small tower above the temple.  More a loft than a tower.
+Inside is a large bronze &bbell&0 which is rung to announce special
+occasions.  Out a small window to the north you can see into the town
+square and down Garnie Lane.  A small trough and hitching post lie by the
+west wall, providing a spot for you to safely leave your pets.
+~
+356 cde 1
+D5
+~
+~
+0 -1 35627
+E
+bell bronze~
+The bell hangs just within your reach.  It is made of bronze and appears
+very heavy.
+~
+>
+action_prog q ring strike hit | bell~
+mea $n You strike at the bell causing it to ring loudly. DIIIING!
+mer $n $n strikes the bell causing it to ring loudly. DIIIING!
+mpechozone $n You hear a bell tolling in the distance.
+mpwaitstate $n 2
+wait 2
+mea $n DOOOONG!
+mer $n DOOOONG!
+~
+|
+S
+#35632
+The Locksmith's~
+This is a rather small basement which has been converted into a shop of
+sorts.  On the north wall is a large table with a blanket covering it, on
+top of which are an assortment of strange items.
+~
+356 d 1
+D4
+It is a trapdoor.
+~
+trapdoor door~
+-19 -1 35630
+S
+#35633
+Before the East Gate of Chiiron~
+To the west stands a stone gate house, flanked by two towers.  Compared
+to some of the great fortresses of the realm, Chiiron is not impressive,
+but it looks like a safe haven, with its single curtain wall stout and
+well-maintained.  A path leads away east, winding through the hills.  It
+looks well worn and should not be too dangerous.  South of here, a small
+path winds its way between the town wall and a range of hills east of
+town.
+~
+356 c 1
+D0
+~
+~
+0 -1 35682
+D1
+~
+~
+0 -1 58706
+D2
+~
+~
+0 -1 75273
+>
+action_prog q knock pound bang | portcullis gate west~
+if ispassage($n)==west
+mea $n It's hard to do that when the portcullis is already open.
+else
+mea $n You bang loudly on the portcullis.
+mer $n $n $n bangs loudly on the portcullis.
+wait 1
+if ispassage($n)==west
+else
+mpopenpassage 35633 35608 3
+mpecho The portcullis opens with a grinding of gears.
+mpat 35608 mpecho The portcullis opens with a grinding of gears.
+endif
+endif
+~
+|
+S
+#35634
+Tower Room~
+You are inside a small tower.  To the south is a heavy door which is
+closed in times of attack.  The tower is rather cramped but has several
+cots used by the watchmen.  An overwhelming sense of peace and
+tranquility fills the room.
+~
+356 d 1
+D2
+~
+door~
+-1 -1 35608
+S
+#35635
+North Gate of Chiiron~
+You stand at the northern entrance to Chiiron; a simple gate inset in the
+town wall.  The town wall is made of stone blocks of granite, painfully
+fitted together, scared in one area from the acid breath of a long dead
+dragon.  The scar and the smoke rising from the town bring feelings of
+security and comfort to returning adventurers.  By the side of the gate
+is a large &Glever&0.  Perhaps pushing or pulling it will open and
+close the gate.
+~
+356 0 1
+D2
+~
+~
+0 -1 35601
+E
+lever~
+You see a large wooden lever that is obviously pulled and pushed to open
+and close the gate.
+~
+>
+action_prog q pull lever~
+if ispassage($n)==north
+mea $n You pull the lever but nothing happens.
+else
+mea $n You pull the lever.
+mer $n $n pulls the lever.
+wait 1
+mpwaitstate $n 1
+if ispassage($n)==north
+else
+mpecho The portcullis opens with a grinding of gears.
+mpat 59700 mpecho The portcullis opens with a grinding of gears.
+mpopenpassage 35635 59700 0
+endif
+endif
+~
+>
+action_prog q push lever~
+if ispassage($n)==north
+mea $n You push the lever.
+mer $n $n pushes the lever.
+mpecho The gate to the north grinds closed with a loud CLANG!
+mpat 59700 mpecho The gate to the south grinds closed with a loud CLANG!
+mpclosepassage 35635 1
+else
+mea $n You push the lever but nothing happens.
+endif
+~
+>
+grand_prog 50~
+if ispassage($q)==north
+mpecho The gate to the north grinds closed with a loud CLANG!
+mpat 59700 mpecho The gate to the south grinds closed with a loud CLANG!
+mpclosepassage 35635 0
+endif
+~
+|
+S
+#35636
+Loft Above Leather Shop~
+This is a simple room with a bed in one corner and not much else.  The
+bed is basically a pile of furs which are too worn to be of any value.
+The floor is
+~
+356 d 1
+D5
+~
+~
+0 -1 35617
+S
+#35637
+West Gate of Chiiron~
+Before you stands the west gate of Chiiron, a simple gate house between
+two towers.  To the side of the gate is a &Glever&0 which looks like it
+controls the gate.  You might want to push it or pull it.  Main street
+runs east, and shops line the Main street runs east, and shops line the
+street on either side.
+~
+356 0 1
+D1
+~
+~
+0 -1 35605
+E
+lever~
+The lever's set into the wall here control whether the portcullis is
+opened or closed.
+~
+>
+action_prog q pull lever~
+if ispassage($n)==west
+mea $n You pull the lever but nothing happens.
+else
+mea $n You pull the lever.
+mer $n $n pulls the lever.
+wait 1
+mpwaitstate $n 1
+if ispassage($n)==west
+else
+mpecho The portcullis opens with a grinding of gears.
+mpat 35638 mpecho The portcullis opens with a grinding of gears.
+mpopenpassage 35637 35638 3
+endif
+endif
+~
+>
+action_prog q push lever~
+if ispassage($n)==west
+mea $n You push the lever.
+mer $n $n pushes the lever.
+mpecho The gate grinds closed with a loud CLANG!
+mpat 35638 mpecho The gate grinds closed with a loud CLANG!
+mpclosepassage 35637 3
+else
+mea $n You push the lever but nothing happens.
+endif
+~
+>
+grand_prog 50~
+if ispassage($q)==west
+mpecho The gate grinds closed with a loud CLANG!
+mpat 35638 mpecho The gate grinds closed with a loud CLANG!
+mpclosepassage 35637 3
+endif
+~
+|
+S
+#35638
+Before the Gates of Chiiron~
+The west gate of Chiiron stands off to the east of here, its thick stone
+gatehouse protecting the city from whatever dangers lurk in the
+surrounding forest.  A small dirt path leads off to the south, alongside
+a gentle stream.
+~
+356 c 2
+D0
+~
+~
+0 -1 75200
+D2
+~
+~
+0 -1 35639
+D3
+~
+~
+0 -1 35679
+>
+action_prog q knock pound bang | portcullis gate east~
+if ispassage($n)==east
+mea $n It's hard to do that when the portcullis is already open.
+else
+mea $n You bang loudly on the portcullis.
+mer $n $n $n bangs loudly on the portcullis.
+wait 1
+if ispassage($n)==east
+else
+mpopenpassage 35638 35637 1
+mpecho The portcullis opens with a grinding of gears.
+mpat 35637 mpecho The portcullis opens with a grinding of gears.
+endif
+endif
+~
+|
+S
+#35639
+By a Shady Brook~
+A brook runs northeast to southwest through this cozy section of the
+forest.  Several leafy trees spread out overhead, giving the entire area
+shade.  A cool breeze blows, and all is at peace.  A small grass-covered
+hill rises gently to the west.
+~
+356 0 2
+D0
+~
+~
+0 -1 35638
+D2
+~
+~
+0 -1 75215
+D3
+~
+~
+0 -1 35640
+S
+#35640
+Atop A Knobby Hill~
+You are on a small hill that rises barely above the trees, allowing you
+to catch a glimpse of the Chiiron sky.  A small hole leads down into the
+hill itself while a path meanders down to a shaded brook to the east.  A
+seldom-traveled trail, barely visible, disappears into the thick forest
+to the west.
+~
+356 0 2
+D0
+You see trees.
+~
+~
+0 -1 35679
+D1
+You see an open area and the walls of Chiiron off to the east.  A
+gatehouse stands close by.
+~
+~
+0 -1 35639
+D2
+You see trees.
+~
+~
+0 -1 35680
+D3
+A faint trail leads into the thick woods to the west.
+~
+~
+0 -1 35642
+D5
+~
+~
+0 -1 35641
+E
+hole~
+The hole is small and dark, just large enough for a human to squeeze into.
+~
+>
+action_prog r down~
+mea $n You climb down into the hole.
+~
+|
+S
+#35641
+Inside a Gopher Hole~
+You are in a very small hole, large enough barely to stand in.  It looks
+like this hole was dug here by man, but then abandoned, as bits of fur
+announce that some forest denizen has taken up home here.
+~
+356 ci 0
+D4
+~
+~
+0 -1 35640
+>
+action_prog r up~
+mea $n You climb up and out of the hole.
+~
+|
+S
+#35642
+Edge of a Dense Forest~
+You are standing at the edge of a thick forest.  A faint trail leads up a
+hill to the east while dense underbrush makes passage south into the
+forest barely passable.  The forest floor does seem to clear out in the
+distance, but you cannot see too far into the trees as they are so
+densely packed.
+~
+356 0 3
+D1
+~
+~
+0 -1 35640
+D2
+~
+~
+0 -1 35643
+S
+#35643
+Faint Path Through a Dense Forest~
+Mighty trees rise high overhead and a dense canopy of leaves blocks sight
+of the sky above.  The trees to the west are even tighter, but there is a
+faint path leading in that direction.  Thick underbrush nearly blocks
+passage north toward the edge of the forest.
+~
+356 0 3
+D0
+~
+~
+0 -1 35642
+D1
+~
+~
+0 -1 35680
+D2
+~
+~
+0 -1 75223
+D3
+~
+~
+0 -1 35644
+S
+#35644
+Faint Path Through a Dense Forest~
+The trees are very tightly packed here, and the canopy of leaves above
+remains unbroken.  However, you see that the trees seem to disappear,
+forming a clearing to the west, a stark contrast to the life and health
+of the forest around you.  A narrow path leads toward the clearing, and
+back into the forest to the east.
+~
+356 0 3
+D1
+~
+~
+0 -1 35643
+D3
+~
+~
+0 -1 35645
+S
+#35645
+A Small Clearing~
+The forest clears out, as if the trees purposely avoid this area for some
+strange reason.  A pair of mighty oaks mark somewhat of a doorway into a
+valley to the north and a faint trail leads west toward the sound of a
+rushing river, and to the east a small trail leads into a dense forest.
+~
+356 0 3
+D1
+~
+~
+0 -1 35644
+D3
+~
+~
+0 -1 35646
+>
+enter_prog 100~
+wait 2
+mea $n You seem to hear words being chanted, evil words of power no longer
+mea $n spoken by mortal tongue, but they seem faint, like a faded memory. And,
+mea $n like leaves on the wind, they soon fade back into the forest.
+~
+|
+S
+#35646
+Before a Raging River~
+A river rages savagely to the west, much too violent to cross.  The water
+rushes and surges about, flowing fast enough to create whitecaps across
+its surface.  A faint trail leads east into the forest.
+~
+356 0 3
+D1
+~
+~
+0 -1 35645
+D3
+~
+~
+0 -1 71700
+S
+#35647
+Entrance to a Small Valley~
+The ground slopes sharply downward and opens up into what appears to be a
+large valley.  The trees and underbrush are thick, but do not make
+passage impossible.  Ahead in the valley you detect a thin fog, while
+there is an unusual clearing to the south.
+~
+356 0 3
+D0
+~
+~
+0 -1 35648
+D2
+~
+~
+0 -1 35645
+S
+#35648
+Mouth of a small valley~
+This is the southern mouth of a small valley, as it appears to open up
+broadly to the north.  A thin fog fills the air, meandering like a
+serpent through the boughs and trunks of the large trees.  You can exit
+the valley to the south.  A small trail leads north toward a strange
+pool, and small muddy streams run toward it on both the east and west.
+~
+356 0 3
+D0
+~
+~
+0 -1 35653
+D1
+~
+~
+0 -1 35649
+D2
+~
+~
+0 -1 35647
+D3
+~
+~
+0 -1 35650
+S
+#35649
+Mouth of a small valley~
+A muddy stream runs along the valley's edge to the east, flowing
+northwest toward a pool in the center of the valley.  Ferns and moss grow
+in this moist area, as well as some wide-leafed bushes and
+thinly-branched trees.  A small trail to the west leads north and out of
+the valley.
+~
+356 0 3
+D0
+~
+~
+0 -1 35651
+D3
+~
+~
+0 -1 35648
+S
+#35650
+Mouth of a small valley~
+A small muddy stream runs down the side of the valley to the west,
+flowing toward a small pool in the center of the valley to the northeast.
+Tall leafy trees rise proudly in the rich, dark, moist soil.  While
+footing on the loose earth appears treacherous, small passable trails
+lead north and south away from this edge of the valley
+~
+356 0 3
+D0
+~
+~
+0 -1 35652
+D1
+~
+~
+0 -1 35648
+S
+#35651
+In a small valley~
+You stand amidst an ecosystem in renewal.  Pines and evergreens ring a
+mystical pool to the west, while ferns and willows grow near the valley
+walls to the east, north, and south.  A river flows into the pool from a
+trickling stream to the south that flows down the hillside.
+~
+356 0 3
+D0
+~
+~
+0 -1 35659
+D1
+~
+~
+0 -1 35654
+D2
+~
+~
+0 -1 35649
+D3
+~
+~
+0 -1 35653
+S
+#35652
+In a small valley~
+You stand at the edge of what seems to be two worlds, one in might, one
+in renewal.  To the east, a gentle pool sends its life force streaming
+about it, fed by four rivers from four corners of the valley.  Tall
+evergreens and pines ring the pool, but to the north, south, and west
+smaller ferns and willows struggle to bring life to the edges of the
+valley, apparently devastated by fire and erosion.
+~
+356 0 3
+D0
+~
+~
+0 -1 35657
+D1
+~
+~
+0 -1 35653
+D2
+~
+~
+0 -1 35650
+D3
+~
+~
+0 -1 35655
+S
+#35653
+Center of a small valley~
+A small, yet strangely clear pool lies in the exact center of the valley,
+with four muddy streams feeding it from the southeast, northeast,
+southwest, and northwest.  Small trails lead away from the pool in all
+compass directions.  While it is obviously not manmade, the valley's
+strange symmetry is curious, as if some being had sculpted it perfectly.
+~
+356 0 3
+D0
+~
+~
+0 -1 35658
+D1
+~
+~
+0 -1 35651
+D2
+~
+~
+0 -1 35648
+D3
+~
+~
+0 -1 35652
+S
+#35654
+A corner of a small valley~
+Steep valley hills nearly box in this moist, fertile corner of the valley.
+Rich black soil feeds life into several ferns and small trees, several of
+them slender willows.  The only passable trail leads down into the heart
+of the valley to the west.
+~
+356 0 3
+D3
+~
+~
+0 -1 35651
+S
+#35655
+A corner of a small valley~
+Mud lines the steep hills that surround you, dotted by several fallen
+trees slowly starting to rot.  Small ferns grow underneath, and life
+still abounds, but the life is changing from the tall evergreens and
+pines to slender willows and ferns.  A trail leads into the heart of the
+valley to the east.
+~
+356 0 3
+D1
+~
+~
+0 -1 35652
+S
+#35657
+The edge of a small valley~
+This crude path curves around to the east and south, crossing through the
+mud of a shallow brook flowing toward the center of the valley to the
+southeast.  A few ferns and small willow trees dot the moist area near
+the valley wall, and mosses climb a large stone surface to the northwest,
+disappearing over the rim.
+~
+356 0 3
+D1
+~
+~
+0 -1 35658
+D2
+~
+~
+0 -1 35652
+S
+#35658
+The edge of a small valley~
+This gentle trail through the scarce underbrush stands amidst two shallow
+streams, one to the east, on to the west.  To the south a small pool lies
+in the center of the valley, while to the north a strange little glade
+opens up.
+~
+356 0 3
+D0
+~
+~
+0 -1 35660
+D1
+~
+~
+0 -1 35659
+D2
+~
+~
+0 -1 35653
+D3
+~
+~
+0 -1 35657
+S
+#35659
+The edge of a small valley~
+This faint trail bends south and west, crossing a shallow mud-filled
+stream.  The stream flows southwest into a strange circular pool.  To the
+north and west the moss-covered walls of the valley sport sparse
+vegetation, mostly ferns.
+~
+356 0 3
+D2
+~
+~
+0 -1 35651
+D3
+~
+~
+0 -1 35658
+S
+#35660
+A small shrine to Cynnis~
+Amidst the untouched perfect nature of this corner of the valley, someone
+has constructed a simple shrine to Cynnis, the goddess of nature.  A
+large tree grows close to a vertical rise that marks the end of the
+valley, a tree larger than all others in the area.  The valley opens up
+to the south.
+~
+356 0 3
+D2
+~
+~
+0 -1 35658
+E
+shrine~
+A simple pile of round stones, this shrine has been dedicated to Celeste,
+the goddess of nature.
+~
+E
+tree~
+This tree is huge, and someone has carefully chiseled steps into its
+large trunk, being careful not to damage the tree.  The steps lead around
+the tree and end in the branches above.
+~
+>
+action_prog q climb | tree up~
+mea $n You clamber up the large tree and over the valley rim.
+mer $n $n clambers up the large tree and over the valley rim.
+mptransfer $n 35673
+mpforce $n look
+mpat 35673 mer $n $n comes climbing up the tree.
+~
+|
+S
+#35673
+The edge of a small cliff~
+You are standing on the edge of a small cliff that overhangs a valley.
+Trees of all description and size line your vision in all directions.
+There is a tree to the south that can be climbed down.
+~
+356 0 3
+D0
+~
+~
+0 -1 35678
+>
+action_prog q climb | tree down~
+mea $n You slowly scramble down the tree.
+mer $n $n slowly scrambles down the tree.
+mptransfer $n 35660
+mpforce $n look
+mpat 35660 mer $n $n comes climbing down the tree.
+~
+|
+S
+#35679
+Edge of the Woods~
+A few young trees mix with thick stands of brush here, the cleared space
+to the east giving way to the thick woods which dominate the area to the
+north and west.
+~
+356 0 3
+D0
+~
+~
+0 -1 75212
+D1
+~
+~
+0 -1 35638
+D2
+~
+~
+0 -1 35640
+S
+#35680
+A Dense Forest~
+The trees are old and their trunks thick and weathered here.  Little
+light makes its way through the thick forest canopy, and while the
+surrounding area is quiet and still, you sense a great deal of life all
+around you.  You spy a faint trail winding its way through the trees off
+to the north and west.  A small but well-wooded hill rises above you to
+the south.
+~
+356 0 3
+D0
+~
+~
+0 -1 35640
+D1
+~
+~
+0 -1 75215
+D2
+~
+~
+0 -1 75218
+D3
+~
+~
+0 -1 35643
+S
+#35681
+The Backroom~
+Several wooden stalls line the worn wooden walls of this room, and a few
+round tables are arranged in an uneven pattern about the middle of the
+area.  A thin veil of smoke hovers in the air here, for this is where
+locals come to discuss recent events, and strangers to exchange coin and
+news of the dark and sinister in low, hushed whispers.
+
+A small &bsign&0 adorns the wall beside a dartboard.
+~
+356 d 0
+D0
+~
+~
+0 -1 35612
+E
+dartboard~
+The dartboard has a few small holes in it, but looks relatively new.
+Three darts with red feathers rest in holders beside the dartboard.
+There are five scorings areas, 4 concentric rings centered around the
+bullseye.  A small sign beside the dartboard may give hints as to how to
+play.
+
+NOTE :: Darts are under construction.
+~
+E
+sign~
+The flimsy piece of paper tacked onto the wall reads:
+
+To play darts simply type 'play darts'.  Try not to hurt anyone.  The
+scores are totaled for the 3 scores, so keep track amongst your group of
+dart-throwers.  Feel free to place bets, although the house would like a
+10% royalty if you are sober enough to remember.
+
+NOTE :: darts are under construction.
+~
+S
+#35682
+Field~
+Carefully tended fields vie with one another for space in the shadow of
+Chiiron's fortified wall.  To the east, the soil becomes more barren,
+with rocky hills rising above the flat, rich soil of the fields.  To the
+south, you spy the East Gate of Chiiron.
+~
+356 0 2
+D0
+~
+~
+0 -1 35683
+D2
+~
+~
+0 -1 35633
+S
+#35683
+Fields Near Chiiron~
+A series of carefully-tended fields cluster about the base of the town
+wall here, their rows neatly tended by the residents of the small,
+fortified village.  The town wall looms over you to the west, and a
+series of rocky hills and gullies begins off to the east, a few scant
+feet from the edge of the last field.
+~
+356 0 2
+D0
+~
+~
+0 -1 35684
+D2
+~
+~
+0 -1 35682
+S
+#35684
+Shallow Brook, Field~
+You stand in a cultivated field in the shadow of the walls of Chiiron.  A
+small stream bisects the area, running north to southeast, leading into a
+rocky gully at the base of a steep hill, and then disappearing from view,
+perhaps flowing into some unseen underground repository.
+~
+356 0 2
+D0
+~
+~
+0 -1 75211
+D1
+~
+~
+0 -1 60706
+D2
+~
+~
+0 -1 35683
+S
+$~
+$end~
+
+
+#MOBILES
+#35600
+guard chiiron~
+a Chiiron guard~
+A member of the &GChiiron guard&y patrols the area.
+~
+A bright-eyed, burly human dressed in the colors of the Chiiron guard
+watches the area.  Strong and well-trained to deal with any problems
+which might threaten the village, it is this individual and others like
+him which protect Chiiron from the perils which lurk so near to its walls.
+~
+gm df 0 C
+40 0 -150 1161d1+0 0d5+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> speech_prog hi hello heya~
+tell $n Greetings, $n
+~
+|
+#35601
+mage guardian~
+a mage guardian~
+A &Cmage guardian&y is here.
+~
+A tall, robed human stands before you, his dark eyes regarding you with
+cold indifference.  This man will brook no disrespect, whether directed
+at him personally, or at his fellow clan members, or at his town in
+general.
+~
+bgm df 0 C
+45 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0
+C
+#35602
+rabbit~
+a rabbit~
+A rabbit quietly munches on some grass.
+~
+You see a small brown rabbit with a white fluffy tail.  It has black
+eyes which it inspects you carefully with.  It does not seem disturbed
+by your presence and continues eating.
+~
+0 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+15 3 0
+C
+> death_prog 50~
+if rand(30)
+mpoload 900
+else
+if rand(30)
+mpoload 35605
+else
+if rand(18)
+mpoload 35602
+else
+if rand (18)
+mpoload 35604
+endif
+endif
+endif
+endif
+~
+|
+#35603
+deer~
+a deer~
+A deer stands here quietly, sniffing at the air.
+~
+This doe has brown, smooth fur and a white tail.  It is posed here
+quietly, blending into the forest.
+~
+0 0 0 C
+4 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+15 3 0
+C
+> death_prog 50~
+if rand(30)
+mpoload 35601
+else
+if rand (10)
+mpoload 35603
+endif
+endif
+~
+|
+#35604
+silver fox~
+a silver fox~
+A &Ysilver fox&y stands motionless, watching you from a distance.
+~
+You see a small fox watching you with a pair of beady eyes.  Its small
+size belies a cunning personality.  It is covered with a coat of silver
+fur which if intact would be of some value.
+~
+0 0 0 C
+3 0 0 8d1+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+15 3 0
+C
+> death_prog 15~
+mpoload 35606~
+|
+#35605
+rattlesnake~
+a rattlesnake~
+A rattlesnake slithers about the area.
+~
+This snake is coiled and ready to strike.  His body is a brownish color
+and completely covered with a scaly skin.  His tongue flickers in and
+out of his mouth as his beady, black eyes peer at you intently.  However,
+his tail is what draws your attention as it gently rattles back and
+forth, beckoning you forward for the kill.
+~
+0 0 0 C
+5 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 0
+C
+> death_prog 100~
+if rand(20)
+mpoload 35607
+else
+if rand(10)
+mpoload 35608
+endif
+endif~
+|
+#35606
+weary elf~
+a weary elf~
+A &Gweary elf&y is resting here against the fountain.
+~
+The elf looks to have fought many a battle.  He has several nasty scars
+long healed over.  Though obviously tired, he appears friendly.  He looks
+as if he would like to talk, maybe you should tell the elf hi.
+~
+b df 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+5 5 1
+13 13 13 13 13 13 13
+1 3 0
+C
+#35607
+wolverine~
+a wolverine~
+A &Ywolverine&y is sleeping here.
+~
+Covered with dark fur, this hideous creature is the bane of those
+creatures which it encounters.  Sharp claws, a vicious maw and an even
+more surly attitude ensure that the wolverine gets into many a tangle,
+and, for the most part, comes out with a fresh kill each time.
+~
+bm 0 0 C
+10 0 0 8d1+0 0d0+0
+0 0
+4 4 2
+13 13 13 13 13 13 13
+15 3 0
+C
+#35608
+jac trader grocer~
+Jac~
+A &Ytrader&y is here stocking his shelves.
+~
+This tall powerful man used to be an adventurer like yourself, but found
+it more profitable to run a shop. So here he is with a smile and his
+face.
+~
+b df 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> greet_prog 20~
+wait 1
+mea $n As you enter Jac looks up from his work and says, 'Hello $n.'~
+|
+#35609
+peter trader~
+Peter~
+A &Cfur trader&y is here, cleaning his pelts.
+~
+This guy loves fur. He is covered completely in the fur of some
+poor woodland creature. He smiles up and you from cleaning his
+pelts and says "Ehhh You like umm too this Furs!"
+~
+b df 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> speech_prog hi hiya hello heya hey~
+wait 1
+say Hello $n, I am Peter. When you skin animals, bring their skins here and I will buy them from you.~
+> greet_prog 100~
+if level($n)<5
+wait 1
+say Hi!
+endif~
+|
+#35610
+grocer~
+a grocer~
+A grocer stands behind a huge counter, ready to take your order.
+~
+As you walk in, the 6-foot grocer stops stocking the shelves and looks at
+you like you are the center of the universe.
+~
+b df 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+#35611
+bartender~
+a bartender~
+A &Cbartender&y stands behind the counter cleaning some mugs.
+~
+A lover of tales.  A sympathetic ear.  A drunkards friend.  The man
+behind the bar seems like he will always be here for you.  Something you
+can always fall back on in a world of painful changes.
+~
+b df 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+#35612
+mage shopkeeper prenslie~
+Prenslie~
+A &pmage of vast powers&y is standing here.
+~
+Before you stands an elderly man whose presence fills the room.  You
+immediately notice his crystal blue eyes filled with wisdom, a hint of
+laughter and stories of old.  This man has definitely lived a full life.
+He is here to help you find the goods you seek, but perhaps he can also
+help you complete your quest.
+~
+b df 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0
+C
+#35613
+leathersmith alslaad~
+Alslaad~
+A &Bleathersmith&y is here, working his art.
+~
+This powerful man glares at you through eyes of steel, he looks as if
+could rip a person's head off with little trouble at all.  But it seems
+he has found his peace, sitting here sewing anything that uses leather.
+~
+b df 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+#35614
+weaponsmith trenhk~
+Trenhk~
+A weaponsmith polishes his merchandise.
+~
+A weaponsmith looks menacing with his swords.  It appears he knows how to
+use what he sells.  As you approach old instincts come back to him as he
+looks you over from head to toe.
+~
+b df 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+#35615
+alchemist chemist~
+an alchemist~
+An &Yalchemist&y is here, bottling his precious potions.
+~
+The alchemist is surrounded by glass jars and flasks, with colors you
+have never seen.  He looks quite mad with his wild silver hair, and thick
+spectacles.  He doesn't even look up when you enter and keeps bustling
+about creating a potion of some sort.
+~
+b df 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0
+C
+> speech_prog hi hiya hello heya hey~
+wait 1
+mea $n The alchemist smiles at you. "How may I help you today, $n?~
+|
+#35616
+cleric priestess~
+a priestess~
+A robed priestess quietly stands here.
+~
+Before you is a tall woman who looks to be quite old.  She appears to be
+in perfect communion with her god.  You could probably stand to learn
+from her.  She is holding an arcane symbol covered with many
+ancient religious runes.
+~
+b dfh 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 1 0
+C
+> rand_prog 15~
+if rand(50)
+c 'armor' $r
+else
+c 'bless' $r
+endif~
+|
+#35617
+warrior swordsman berdeth~
+Berdeth~
+Berdeth, a swordsman, sits in a comfortable chair here.
+~
+Standing before you is the most muscular man you have ever seen.
+Strangely he also seems exceptionally agile.  He looks like he
+could teach you a few things about fighting.  He smiles at you and asks
+you 'What do you want?'
+~
+b df 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+6 6 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> greet_prog 100~
+wait 1
+mea $n As you enter Berdeth stands.
+wait 1
+say Welcome to the Swordman's, may I help you?~
+|
+#35618
+gopher~
+a gopher~
+A furry gopher scrambles about, looking for food.
+~
+A small furry animal a little larger than a rabbit, this gopher lives
+underground in a small hole, coming out to look for food.
+~
+b 0 0 C
+2 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+15 3 0
+C
+> death_prog 10~
+mpoload 35645 5
+~
+|
+#35619
+locksmith~
+a locksmith~
+The &Clocksmith&y works on a new set of picks.
+~
+The locksmith looks like a devious thief.  He is wearing a dark cloak
+about his body, and poking out below the edge of it you see the tip of a
+dagger sheath.
+~
+b df 0 C
+65 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+$~
+$end~
+
+
+#OBJECTS
+#35600
+rabbit meat~
+a piece of rabbit meat~
+A piece of raw rabbit meat is here.~
+~
+19 0 a
+10 0 0 0
+1 0 0
+E
+meat~
+A small piece of meat, torn from the leg of a rabbit, is pink and
+juicy-looking.
+~
+#35601
+slab venison~
+a slab of venison~
+A slab of venison has been left here.~
+~
+19 0 a
+18 0 0 0
+2 0 0
+E
+slab venison~
+This hefty slab of venison would provide a decent-sized meal.
+~
+#35602
+rabbit skin~
+a rabbit skin~
+A rabbit skin is lying here.~
+~
+8 0 a
+0 0 0 0
+1 0 0
+E
+rabbit skin~
+A small pelt of a rabbit.
+~
+#35603
+deer skin~
+a thick brown deer skin~
+A thick brown deer skin is lying here.~
+~
+8 0 a
+0 0 0 0
+1 0 0
+E
+deer skin~
+A beautiful thick skin that could be made into a fashionable and
+dependable cloak, or fetch a handy price.
+~
+#35604
+rabbit foot~
+a rabbit's foot~
+A rabbit's foot has been dropped here.~
+~
+11 z am
+0 0 0 0
+1 0 0
+E
+rabbit foot~
+A small, greyish rabbit's foot.  Just holding it in your hands makes you
+feel lucky.
+~
+A
+18 2
+A
+6 1
+>
+wear_prog 100~
+mea $n As you wear the rabbit's foot, a smile comes to your face.
+~
+|
+#35605
+carrot~
+a carrot~
+A carrot lies on the ground.~
+~
+19 0 a
+8 0 0 0
+1 0 0
+E
+carrot~
+You see a bright orange carrot laying on the ground.  Upon closer
+examination, it is somehow different from those that usually grow in
+gardens.
+~
+#35606
+fox pelt~
+a silver fox pelt~
+A silver fox pelt lies here.~
+~
+8 0 a
+0 0 0 0
+1 0 0
+E
+fox pelt~
+The skin is a beautiful silver hide carved from a fox.
+~
+#35607
+snake innards~
+a snake innards~
+A snake innards lie here.~
+~
+12 0 a
+0 0 0 0
+1 0 0
+E
+snake innards~
+This looks to be the entrails of a snake.
+~
+#35608
+rattle~
+a rattlesnake rattle~
+A rattlesnake rattle lies on the ground.~
+~
+12 0 a
+0 0 0 0
+1 0 0
+E
+rattle~
+This is a detached rattle from a rattlesnake.  It is comprised of several
+loosely jointed rattles which makes noise when you shake it.  The rattles
+are paper thin and quite fragile.
+~
+#35609
+shard glass~
+a shard of glass~
+A shard of glass lies glistening on the ground.~
+~
+12 0 a
+0 0 0 0
+1 0 0
+E
+shard glass~
+This small shard of glass looks almost like a tiny icicle.  As it
+glistens in the light, you can almost imagine it is frozen water.
+~
+#35610
+steel ringmail vest~
+a steel ringmail vest~
+A steel ringmail vest lies here.~
+~
+9 w ad
+0 0 0 0
+10 0 0
+E
+steel ringmail vest~
+The vest is made out of rings sewn onto leather.  The rings are about
+1-1/2 inches wide.  The vest is supple yet sturdy.
+~
+#35611
+ringmail sleeves~
+a pair of bronze ringmail sleeves~
+A pair of bronze ringmail sleeves lies here.~
+~
+9 w ai
+0 0 0 0
+6 0 0
+E
+bronze ringmail sleeves~
+The sleeves are made of 2 inch rings sewn onto leather.  The rings are
+well made and are uniformly sized.  The leather is a good quality
+leather, making these sturdy sleeves.
+~
+#35612
+bronze ringmail leggings~
+a pair of bronze ringmail leggings~
+A pair of bronze ringmail leggings lies here.~
+~
+9 w af
+0 0 0 0
+8 0 0
+E
+bronze ringmail leggings~
+Two inch rings sewn onto high-quality leather form the leggings.
+~
+#35613
+leather belt~
+a narrow leather belt~
+A narrow leather belt has been dropped here.~
+~
+9 z al
+0 0 0 0
+2 0 0
+E
+leather belt~
+A small leather strap for your waist.
+~
+#35614
+cloth robe~
+a cloth robe~
+A cloth robe lies here in a pile.~
+~
+9 0 ad
+0 0 0 0
+2 0 0
+E
+cloth robe~
+A simple cloth robe, well-made but entirely unadorned.
+~
+A
+12 50
+#35615
+fountain~
+a fountain~
+A fountain gushes forth here.~
+~
+23 0 0
+9999 9999 0 0
+2500 0 0
+E
+fountain~
+Winged-insects mill about its surface, resting easily upon a thick layer
+foam and a mossy substrate.  It would be in the best interest of any
+passerby to steer clear of this fountain whenever possible.
+~
+#35616
+cup~
+a bronze cup~
+A bronze cup lies on the ground.~
+~
+17 w a
+20 20 0 0
+1 0 0
+E
+cup~
+This large cup designed for holding water is made of greenish bronze.
+While simple, the cup could provide water with which to quench your
+thirst if you fill it up and take it with you on your journeys.
+~
+#35617
+loaf bread~
+a loaf of white bread~
+A loaf of white bread has been dropped here.~
+~
+19 0 a
+12 0 0 0
+1 0 0
+E
+loaf bread~
+A fresh warm loaf of bread, just waiting to be eaten.
+~
+#35618
+apple~
+an apple~
+An apple freshly picked and slightly tart lies here.~
+~
+19 0 a
+10 0 0 0
+1 0 0
+E
+apple~
+A shiny red apple.
+~
+>
+use_prog 100~
+mea $n Mmmmm... That was tasteful.
+~
+|
+#35619
+torch~
+a torch~
+A torch has been left here.~
+~
+1 0 ao
+0 0 24 0
+2 0 0
+E
+torch~
+This wooden torch is just a bundle of old cloth attached to a wooden stick.
+~
+#35620
+burlap bag~
+a small burlap bag~
+A small burlap bag lies here.~
+~
+15 0 a
+20 0 34700 0
+1 0 0
+E
+burlap bag~
+This small bag is made of burlap and could hold several small items.  It
+can also be closed so that no one can see what is inside.
+~
+#35621
+canvas bag~
+a small canvas bag~
+A small canvas bag lies here.~
+~
+15 0 a
+40 0 34700 0
+1 0 0
+E
+canvas bag~
+A small canvas bag.
+~
+#35622
+brass lantern~
+a hooded brass lantern~
+A hooded brass lantern has been left here.~
+~
+1 0 ao
+0 0 96 0
+5 0 0
+E
+brass lantern~
+It is a rather large and bulky brass lantern, it is surrounded by a glass
+hood to protect its flame.
+~
+#35623
+ration~
+an iron ration~
+An iron ration has been left here.~
+~
+19 0 a
+24 0 0 0
+2 0 0
+E
+ration~
+A small box containing the necessary daily requirement of food.
+~
+#35624
+waterskin~
+a leather waterskin~
+A leather waterskin has been dropped here.~
+~
+17 0 a
+80 80 0 0
+2 0 0
+E
+waterskin~
+A drinking container made from brown leather.  Great for travelling, as
+it holds several cups of water or other liquid.
+~
+#35625
+barrel~
+a barrel~
+A barrel has been left here.~
+~
+17 0 a
+150 150 1 0
+26 0 0
+E
+barrel~
+This large barrel is used to house the finest beers.
+~
+#35626
+glass bottle~
+a glass bottle~
+A glass bottle has been left here.~
+~
+17 0 a
+60 60 1 0
+3 0 0
+E
+bottle~
+You see a medium-sized bottle made of green glass.  It has no type of
+label or marking, and the darkness of the glass makes it difficult to see
+what it contains.
+~
+>
+action_prog q break | glass bottle~
+mea $n You grasp the bottle by its neck and shatter its base leaving several
+mea $n dangerous looking shards exposed.
+mer $n $n grasps a bottle by its neck and shatters its base leaing several
+mer $n dangerous looking shards exposed.
+mpoload 35609 1
+drop shard
+mppurge bottle
+~
+|
+#35627
+scroll identify~
+a scroll of identify~
+A scroll of identify has been left here in a small pile.~
+~
+2 g a
+15 201 -1 -1
+1 0 0
+E
+scroll identify~
+A very old, very worn piece of parchment, rolled up in a small bundle.
+~
+#35628
+scroll recall~
+a scroll of recall~
+A scroll of recall lies here.~
+~
+2 g a
+15 42 -1 -1
+1 0 0
+E
+scroll recall~
+A carefully tanned piece of leather, inscribed with many strange and
+arcane symbols.
+~
+#35629
+scroll remove curse~
+a scroll of remove curse~
+A scroll of remove curse has been left here.~
+~
+2 g a
+15 35 -1 -1
+1 0 0
+E
+scroll~
+A crisp white scroll.
+~
+#35630
+scroll missile~
+a scroll of magic missile~
+A scroll of magic missile has been left here.~
+~
+2 g a
+15 32 -1 -1
+1 0 0
+E
+scroll~
+A crisp white scroll.
+~
+#35631
+potion~
+a potion of cure poison~
+A potion of cure poison has been set here.~
+~
+10 g a
+15 43 -1 -1
+1 0 0
+E
+potion~
+This bubbling, clear-coloured potion can cure poison if needed.
+~
+#35632
+leather jacket~
+a leather jacket~
+A leather jacket is lying on the ground~
+~
+9 z ad
+0 0 0 0
+6 0 0
+E
+leather jacket~
+It is a comfortable soft leather jacket.
+~
+#35633
+studded leather jacket~
+a studded leather jacket~
+A studded leather jacket is lying on the ground~
+~
+9 z ad
+0 0 0 0
+8 0 0
+E
+leather jacket~
+Hard leather armor enforced with metal studs.
+~
+A
+0 1
+#35634
+padded sleeves~
+a pair of padded sleeves~
+A pair of padded sleeves is lying on the ground~
+~
+9 z ai
+0 0 0 0
+6 0 0
+E
+padded sleeves~
+A common set of sleeves made from two layers of cotton.
+~
+#35635
+hard leather leggings~
+a pair of hard leather leggings~
+A pair of har leather leggings is lying on the ground~
+~
+9 z af
+0 0 0 0
+8 0 0
+E
+hard leggings~
+A rather stiff pair of leather leggings.
+~
+#35636
+padded leggings~
+a pair of padded leggings~
+A pair of padded leggings is lying on the ground~
+~
+9 z af
+0 0 0 0
+6 0 0
+E
+padded leggings~
+A common set of leggings made from two layers of cloth and some padding.
+~
+#35637
+hard leather sleeves~
+a pair of hard leather sleeves~
+A pair of hard leather sleeves is lying on the ground~
+~
+9 z ai
+0 0 0 0
+8 0 0
+E
+hard sleeves~
+A stiff pair of leather sleeves.
+~
+#35638
+shortsword bronze sword~
+a bronze shortsword~
+A bronze shortsword has been left here.~
+~
+5 w an
+0 0 0 3
+7 0 0
+E
+bronze short sword shortsword~
+A small bronze short sword.
+~
+#35639
+long sword lonsword bronze~
+a bronze longsword~
+A bronze longsword has been left here.~
+~
+5 w an
+0 0 0 3
+11 0 0
+E
+long sword longsword bronze~
+A standard issue run-of-the-mill long sword without any interesting
+attributes.
+~
+#35640
+bronze mace~
+a small bronze mace~
+A small bronze mace has been left here.~
+~
+5 w an
+0 0 0 7
+7 0 0
+E
+bronze mace~
+A standard mace with no special features.
+~
+#35641
+bronze dagger~
+a bronze dagger~
+A bronze dagger has been left here.~
+~
+5 w an
+0 0 0 11
+7 0 0
+E
+bronze dagger~
+A big, clumsy bronze dagger with a sharp blade.
+~
+#35642
+mapple staff~
+a mapple staff~
+A mapple staff lies here.~
+~
+5 z an
+0 0 0 7
+7 0 0
+E
+mapple staff~
+A long maple staff lies here, its knobby ends smooth from age and use.
+~
+#35643
+large metal cauldron~
+a large metal cauldron~
+A large metal cauldron lies here.~
+~
+23 0 0
+9999 9999 14 0
+500 0 0
+E
+cauldron~
+The cauldron is a large heavy iron pot.  It is designed to be left over
+fires for hours to keep things warm.  Inside you can see a brownish soup
+which smells delicious.
+~
+#35644
+brook~
+a brook~
+A brook flows through here.~
+~
+23 0 0
+9999 9999 0 0
+2500 0 0
+E
+brook~
+Water burbles over a pebbly creekbed, creating a tempting place to quench
+your thirst.
+~
+#35645
+gopher pelt~
+a gopher pelt~
+A gopher pelt lies  here forgotten.~
+~
+8 0 a
+0 0 0 0
+1 0 0
+E
+gopher pelt~
+This pelt is strong and soft.  Some trader is sure to want to buy it.
+~
+#35646
+lockpick~
+a small lockpick~
+A small lockpick lies here.~
+~
+12 w ao
+0 0 0 0
+1 0 0
+E
+lockpick~
+This looks like a small piece of metal used for picking locks.
+~
+A
+-350 15
+#35647
+reddish fish~
+a small reddish fish~
+A small reddish fish lies here~
+~
+19 0 a
+10 0 0 0
+1 0 0
+E
+fish reddish~
+The little fish looks like it would make a nice snack.
+~
+$~
+$end~
+
+
+#SHOPS
+CircleMUD v3.0 Shop File~
+#35601~
+35619
+35622
+35620
+35621
+-1
+1.20
+0.90
+1
+15
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+35608
+0
+35609
+-1
+0
+23
+0
+0
+#35602~
+35602
+35603
+-1
+1.20
+0.65
+8
+8
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+35609
+0
+35610
+-1
+0
+23
+0
+0
+#35603~
+35617
+35623
+35616
+35624
+-1
+1.20
+0.80
+19
+17
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+35610
+0
+35611
+-1
+0
+23
+0
+0
+#35604~
+35626
+35625
+-1
+1.20
+0.90
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+35611
+0
+35612
+-1
+0
+23
+0
+0
+#35605~
+35627
+35628
+35629
+35630
+35631
+-1
+1.30
+0.60
+2
+10
+4
+3
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+35612
+0
+35614
+-1
+0
+23
+0
+0
+#35606~
+35632
+35633
+35636
+35634
+35635
+35637
+-1
+1.20
+0.60
+9
+11
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+35613
+0
+35617
+-1
+0
+23
+0
+0
+#35607~
+35638
+35639
+35640
+35641
+35642
+-1
+1.20
+0.60
+5
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+35614
+0
+35618
+-1
+0
+23
+0
+0
+#35608~
+-1
+1.20
+0.75
+12
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+35615
+0
+35623
+-1
+0
+23
+0
+0
+#35609~
+35646
+-1
+1.20
+0.90
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+35619
+0
+35632
+-1
+0
+23
+0
+0
+$~
+$end~

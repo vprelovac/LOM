@@ -1,0 +1,538 @@
+#35000
+large silver key~
+a large silver key~
+A large silver key gives off a magical light.~
+~
+18 afgw ao
+0 0 0 0
+22 50000 5000
+#35001
+gift priestess symbol~
+the Gift of the Priestess~
+A glowing silver holy symbol lies on the ground.~
+~
+9 agiko ao
+14 0 0 0
+1 100000 10000
+A
+4 2
+A
+13 20
+A
+12 20
+A
+18 2
+A
+19 2
+A
+24 -1
+#35002
+longsword~
+a longsword~
+A rather battered longsword has been abandoned here.~
+~
+5 w an
+0 0 0 3
+4 100 10
+#35003
+ring mail~
+ring mail~
+A suit of stained ring mail armor is piled in a corner.~
+~
+9 w ad
+5 0 0 0
+12 150 15
+A
+17 -5
+A
+13 10
+A
+19 1
+#35004
+spiked shield~
+a spiked shield~
+A spiked shield lies on the ground.~
+~
+9 w aj
+8 0 0 0
+10 450 45
+A
+19 2
+#35005
+two handed sword~
+a two handed sword~
+A massive two handed sword lies here.~
+~
+13 w an
+0 0 0 0
+15 400 40
+A
+19 3
+A
+2 -1
+#35006
+lever~
+a lever ~
+A lever is set in the wall near the portcullis.~
+~
+31 0 0
+0 0 0 0
+1 0 0
+>
+pull_prog 100~
+close portcullis
+lock portcullis
+mpe With a rumbling sound, the portcullis slides shut.
+~
+>
+push_prog 100~
+unlock portcullis
+open portcullis
+mpe The portcullis slowly creaks upward.
+~
+|
+#35007
+black cauldron~
+a black cauldron~
+A massive black cauldron rests near a narrow gap in the tower wall.~
+~
+15 bw a
+1500 5 31899 0
+500 1500 150
+>
+exa_prog 100~
+mea $n As you lift the lid to peek inside, a massive black shape slides out!
+mpmload 35004
+~
+|
+#35008
+massive ballista~
+a massive ballista~
+A massive ballista is mounted here.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#35009
+gold throne~
+a golden throne~
+A golden throne sits at the end of the dining table.~
+~
+31 0 0
+0 0 0 0
+1 0 0
+E
+throne~
+The throne has two large handles set near its base, enabling it to be
+pushed and pulled back and forth...
+~
+>
+push_prog 100~
+mea $n You set your shoulder against the throne and shove...
+mpechoar $n $n sets $s shoulder against the throne and shoves...
+if str($n) < 16
+mea $n Try as you might, you cannot budge it.
+mpechoar $n $n cannot budge it!
+else
+mpe The throne shudders and moves aside, revealing a secret passage!
+mpopenpassage 35055 35056 0
+endif
+~
+>
+pull_prog 100~
+mpe The throne slides easily back into place.
+mpclosepassage 35055 0
+~
+|
+#35010
+table~
+a scarred dining table~
+A scarred, stained wooden table thirty feet long fills this chamber.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#35011
+large two handed mace~
+a large two handed mace~
+A mace nearly five feet long rests here.~
+~
+5 gjw an
+0 0 0 8
+20 5000 500
+A
+1 1
+A
+5 1
+A
+18 4
+A
+19 4
+#35012
+shaman plate~
+Shaman Plate~
+A suit of glowing plate mail rests on the floor.~
+~
+9 bjsw ad
+8 0 0 0
+33 13243 1324
+A
+17 -10
+A
+12 40
+A
+24 -3
+A
+19 3
+#35013
+shaman scroll~
+the shaman's scroll~
+A dusty scroll lies here.~
+~
+2 0 ao
+22 32 43 -1
+1 500 50
+#35014
+crossbow~
+a heavy crossbow~
+A crossbow rests on its stirrup here.~
+~
+5 0 an
+0 0 0 6
+10 1000 100
+#35015
+plate mail~
+plate mail~
+A set of hobgoblin plate mail lies here.~
+~
+9 w ad
+8 0 0 0
+10 1200 120
+#35016
+pistol crossbow~
+a pistol crossbow~
+This crossbow is small but lethal.~
+~
+3 g ao
+20 12 12 33
+2 1500 150
+A
+18 2
+A
+2 2
+#35017
+ogre gauntlets~
+the ogre captain's gauntlets~
+A pair of heavy bronze gauntlets, stained with blood, lies here.~
+~
+9 bgjmosw ah
+8 0 0 0
+30 12000 1200
+A
+1 2
+A
+13 10
+A
+18 -2
+A
+19 3
+>
+wear_prog 100~
+if rand(5)
+c 'kin' $n
+endif
+~
+|
+#35018
+chest~
+a small chest~
+A small chest rests near the table.~
+~
+15 z a
+100 5 31899 0
+10 5560 100
+#35019
+jeweled necklace~
+a jeweled necklace~
+This necklace appears to be quite valuable.~
+~
+9 ag ac
+3 0 0 0
+2 15000 1500
+A
+3 2
+A
+12 35
+A
+24 -3
+#35020
+large gem~
+a large gem~
+A gem of considerable value rests here.~
+~
+8 0 a
+0 0 0 0
+1 500 50
+#35021
+morning star~
+a morning star~
+A spiked ball attached to a long chain lies here.~
+~
+5 g an
+0 0 0 8
+10 500 50
+A
+19 2
+A
+21 -2
+#35022
+potion healing~
+a potion of healing~
+Someone dropped a potion bottle here.~
+~
+10 g a
+10 28 -1 -1
+1 4000 400
+#35023
+wooden staff~
+a wooden staff~
+You see a wooden staff on the floor.~
+~
+5 0 an
+0 0 0 7
+5 50 5
+A
+12 30
+A
+13 30
+#35024
+scroll~
+the witchdoctor's scroll~
+A scroll has been dropped here.~
+~
+2 g a
+20 32 32 32
+1 100 10
+#35025
+bone dice loaded~
+a pair of loaded dice~
+A pair of bone dice weighted with lead sit here.~
+~
+9 g ao
+1 0 0 0
+1 100 10
+#35026
+dirty leather sleeves~
+dirty leather sleeves~
+These sleeves bear more stains than a Westport beggar.~
+~
+9 0 ai
+3 0 0 0
+3 10 1
+A
+1 1
+A
+2 1
+A
+19 3
+#35027
+iron hammer~
+an iron hammer~
+A heavy iron hammer rests on the floor.~
+~
+5 w an
+0 0 0 8
+18 400 40
+A
+19 3
+#35028
+crude bone earring~
+a crude bone earring~
+A piece of animal bone lies on the ground.~
+~
+13 bgj ac
+3 0 0 0
+1 1000 100
+A
+5 2
+#35029
+large chest~
+a large chest~
+A large oak chest rests near the eastern wall.~
+~
+15 0 0
+500 5 31899 0
+1 0 0
+#35030
+large chest~
+a large chest~
+A large oak chest rests near the western wall.~
+~
+15 0 0
+500 5 31899 0
+1 0 0
+#35031
+pile gold ~
+a pile of gold~
+A pile of gold lies here.~
+~
+20 0 a
+4500 0 0 0
+1 0 0
+#35032
+sack gems~
+a sack of gems~
+A small sack overflowing with gems lies here.~
+~
+8 0 ao
+0 0 0 0
+1 3750 375
+#35033
+pile silver~
+a pile of silver~
+A pile of silver lies here.~
+~
+20 0 a
+253 0 0 0
+1 0 0
+#35034
+ivory box~
+a small ivory box~
+A small ivory box has been placed here. ~
+~
+15 ag a
+220 5 31899 0
+2 15000 1500
+#35035
+huge meat cleaver~
+a huge meat cleaver~
+A massive meat cleaver covered in blood and guts lies here.~
+~
+5 w an
+0 0 0 1
+8 100 10
+A
+1 1
+A
+19 4
+#35036
+token gratitude~
+a token of gratitude~
+This token marks the bearer as a friend of the elves.~
+~
+8 0 a
+0 0 0 0
+1 1000 100
+#35037
+ring invisibility~
+a ring of invisibility~
+A small brass ring is barely visible on the floor.~
+~
+9 fgw ab
+2 0 0 0
+1 1500 150
+>
+wear_prog 100~
+c 'invis' $n
+~
+>
+remove_prog 100~
+mea $r You shimmer into existence as you remove the ring.
+mpforce $r vis
+~
+|
+#35038
+iron helmet~
+an iron helmet~
+A rusted iron helmet has been dropped here.~
+~
+9 mowx ae
+8 0 0 0
+1 50 5
+A
+1 1
+A
+13 20
+A
+17 -10
+A
+18 -2
+#35039
+iron greaves~
+heavy iron greaves~
+A pair of heavy iron greaves has been left here.~
+~
+9 jmowx af
+0 0 0 0
+34 100 10
+A
+2 -1
+A
+13 10
+A
+19 2
+#35040
+buckler~
+a buckler~
+A brilliant white buckler rests on the ground.~
+~
+9 gkow aj
+8 0 0 0
+8 10000 1000
+A
+2 2
+A
+13 10
+A
+12 10
+A
+19 3
+#35041
+potion strength~
+a potion of strength~
+A potion of thick grey liquid rests here.~
+~
+10 bg a
+33 39 85 -1
+1 400 40
+#35042
+wardrobe~
+a wardrobe~
+A dusty wardrobe sits in a corner.~
+~
+15 0 0
+1000 5 31899 0
+1 0 0
+#35043
+skeleton closet~
+a skeleton in the closet~
+Everyone has skeletons in their closets...~
+~
+13 0 a
+0 0 0 0
+30 0 0
+#35044
+desk~
+a desk~
+A small desk with a single drawer rests here.~
+~
+15 0 0
+50 5 31899 0
+1 0 0
+#35045
+orcstone~
+orcstone~
+A small black stone lies on the ground.~
+~
+4 bfg ao
+10 2 2 44
+3 18500 1850
+#35046
+dying halfling~
+a dying halfling~
+A dying halfling is having his guts boiled as he watches.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+$~

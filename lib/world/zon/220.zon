@@ -1,0 +1,258 @@
+#220
+Ultima~
+22199 57 2
+M 0 22000 5 22008    Place the insects to Humility Lane (max 5)
+M 0 22001 1 22011    Place the bat to Attic (max 1)
+G 1 22008 0         Give moonstone (max 0)
+M 0 22002 10 22001    Place the shepherd to New Magincia Road (max 10)
+E 1 22017 0 16         Equip the shepherd's crook, wielded as a weapon (max 0)
+M 0 22002 10 22007    Place the shepherd to Barn (max 10)
+E 1 22017 0 16         Equip the shepherd's crook, wielded as a weapon (max 0)
+M 0 22002 10 22013    Place the shepherd to Humility Lane (max 10)
+E 1 22017 0 16         Equip the shepherd's crook, wielded as a weapon (max 0)
+M 0 22003 5 22002    Place the girl to New Magincia Road (max 5)
+E 1 22018 0 17         Equip the doll, held (max 0)
+M 0 22003 5 22008    Place the girl to Humility Lane (max 5)
+E 1 22018 0 17         Equip the doll, held (max 0)
+M 0 22003 5 22012    Place the girl to House (max 5)
+E 1 22018 0 17         Equip the doll, held (max 0)
+M 0 22004 10 22001    Place the sheep to New Magincia Road (max 10)
+M 0 22004 10 22004    Place the sheep to New Magincia Road (max 10)
+M 0 22004 10 22008    Place the sheep to Humility Lane (max 10)
+M 0 22004 10 22013    Place the sheep to Humility Lane (max 10)
+M 0 22005 1 22015    Place Katrina the Shepherd to Katrina's Office (max 1)
+E 1 22019 0 16         Equip katrina's sword, wielded as a weapon (max 0)
+E 1 22001 0 17         Equip lum, held (max 0)
+M 0 22006 10 22024    Place the giant rat to Library (max 10)
+M 0 22007 1 22035    Place the giant spider to Web (max 1)
+G 1 22009 0         Give moonstone (max 0)
+G 1 22020 0         Give a wrinkled scroll (max 0)
+M 0 22008 10 22030    Place the mage to Library (max 10)
+E 1 22022 0 5         Equip a robe, worn on body (max 0)
+M 0 22009 1 22021    Place Nystul the Librarian to Library Office (max 1)
+E 1 22021 0 16         Equip a magic dagger, wielded as a weapon (max 0)
+M 0 22010 1 22018    Place Mariah the Mage to Library (max 1)
+E 1 22004 0 17         Equip ahm, held (max 0)
+M 0 22011 20 22052    Place the slime to Cellar (max 20)
+M 0 22012 1 22054    Place the snake to Cellar (max 1)
+G 1 22010 0         Give moonstone (max 0)
+M 0 22013 1 22006    Place Mr. Smithy to Stables (max 1)
+E 1 22023 0 8         Equip horseshoes, worn on feet (max 0)
+M 0 22014 5 22044    Place the bard to The South Wall Of The Tavern (max 5)
+E 1 22024 0 16         Equip a mandolin, wielded as a weapon (max 0)
+M 0 22015 3 22037    Place the beggar to The Center Of The Tavern (max 3)
+E 1 22025 0 17         Equip a cup, held (max 0)
+P 1 22026 0 22025    Put some gold pieces in a cup (max 0)
+M 0 22016 1 22048    Place Iolo the Bard to Cellar (max 1)
+E 1 22028 0 16         Equip iolo's bow, wielded as a weapon (max 0)
+E 1 22000 0 17         Equip mu, held (max 0)
+G 1 22027 0         Give the bottle (max 0)
+M 0 22017 1 22162    Place Chuckles the Jester to Lord British's Castle Entrance (max 1)
+E 1 22029 0 16         Equip a chicken, wielded as a weapon (max 0)
+M 0 22018 10 22039    Place the townsman to The North Wall Of The Tavern (max 10)
+M 0 22019 1 22045    Place Gwenno the Bard to The Southeast Corner Of The Tavern (max 1)
+E 1 22030 0 16         Equip the Infinity Bow, wielded as a weapon (max 0)
+M 0 22020 5 22080    Place the orc to Yew Forest (max 5)
+E 1 22031 0 16         Equip a wooden spear, wielded as a weapon (max 0)
+M 0 22021 20 22073    Place the troll to Yew Forest (max 20)
+E 1 22032 0 16         Equip a stone club, wielded as a weapon (max 0)
+M 0 22022 10 22081    Place the wisp to Yew Forest (max 10)
+M 0 22023 10 22078    Place the forest druid to Yew Forest (max 10)
+M 0 22024 10 22059    Place the city druid to Bonfire (max 10)
+M 0 22025 1 22064    Place The Judge to The Bench (max 1)
+E 1 22033 0 16         Equip a gavel, wielded as a weapon (max 0)
+M 0 22026 1 22070    Place Jaana the Druid to Yew Forest (max 1)
+E 1 22002 0 17         Equip beh, held (max 0)
+E 1 22034 0 16         Equip a staff, wielded as a weapon (max 0)
+M 0 22027 1 22067    Place the dirty prisoner to Prison Cell (max 1)
+G 1 22011 0         Give moonstone (max 0)
+M 0 22028 1 22068    Place the prisoner to Prison Cell (max 1)
+M 0 22029 5 22056    Place (#2429) to In Front Of The Courthouse (max 5)
+M 0 22030 1 22039    Place the bartender to The North Wall Of The Tavern (max 1)
+M 0 22031 1 22060    Place the pub owner to Pub (max 1)
+M 0 22032 10 22088    Place the ettin to The Dungeon (max 10)
+M 0 22033 10 22090    Place the gremlin to The Dungeon (max 10)
+M 0 22034 1 22092    Place the headless to The Dungeon (max 1)
+G 1 22012 0         Give moonstone (max 0)
+M 0 22035 10 22086    Place the fighter to The Dungeon (max 10)
+E 1 22036 0 16         Equip a sword, wielded as a weapon (max 0)
+M 0 22036 1 22087    Place Geoffrey the Fighter to The Dungeon (max 1)
+E 1 22006 0 17         Equip ra, held (max 0)
+E 1 22035 0 16         Equip a sword, wielded as a weapon (max 0)
+M 0 22037 1 22088    Place Lord Simon to The Dungeon (max 1)
+E 1 22037 0 16         Equip a bastard sword, wielded as a weapon (max 0)
+M 0 22038 2 22116    Place the mimic to The Beach (max 2)
+M 0 22038 2 22117    Place the mimic to The Beach (max 2)
+M 0 22039 2 22114    Place the gazer to The Beach (max 2)
+M 0 22039 2 22115    Place the gazer to The Beach (max 2)
+M 0 22065 5 22122    Place the shark to The Whirlpool (max 5)
+M 0 22066 5 22121    Place a seahorse to The Whirlpool (max 5)
+M 0 22067 1 22123    Place the squid to The Whirlpool (max 1)
+G 1 22013 0         Give moonstone (max 0)
+M 0 22040 5 22108    Place a tinker to Sacrifice Street (max 5)
+E 1 22038 0 16         Equip a hammer, wielded as a weapon (max 0)
+M 0 22040 5 22111    Place a tinker to Residence (max 5)
+E 1 22038 0 16         Equip a hammer, wielded as a weapon (max 0)
+M 0 22040 5 22112    Place a tinker to Residence (max 5)
+E 1 22038 0 16         Equip a hammer, wielded as a weapon (max 0)
+M 0 22041 1 22110    Place Julia the Tinker to Forge (max 1)
+E 1 22005 0 17         Equip cah, held (max 0)
+E 1 22039 0 16         Equip a sword, wielded as a weapon (max 0)
+M 0 22042 1 22108    Place The Lady of Empath Abbey to Sacrifice Street (max 1)
+E 1 22040 0 3         Equip the Amulet of Love, first object worn around neck (max 0)
+M 0 22068 1 22103    Place the citizen of yew to The Armourer (max 1)
+M 0 22069 1 22105    Place the weaponseller to The Weaponsmith (max 1)
+M 0 22070 1 22106    Place the boatseller to The Boatseller (max 1)
+G 1 22068 0         Give a boat (max 0)
+M 0 22043 10 22141    Place the sandtrap to The Desert (max 10)
+M 0 22044 1 22148    Place the dragon to The Dragon Cave (max 1)
+G 1 22014 0         Give moonstone (max 0)
+M 0 22045 6 22137    Place the paladin to A Small Tent (max 6)
+E 1 22041 0 17         Equip a shiny sword, held (max 0)
+E 1 22042 0 5         Equip shiny armour, worn on body (max 0)
+M 0 22045 6 22138    Place the paladin to Desert Entrance (max 6)
+E 1 22041 0 17         Equip a shiny sword, held (max 0)
+E 1 22042 0 5         Equip shiny armour, worn on body (max 0)
+M 0 22045 6 22139    Place the paladin to A Small Tent (max 6)
+E 1 22041 0 17         Equip a shiny sword, held (max 0)
+E 1 22042 0 5         Equip shiny armour, worn on body (max 0)
+M 0 22045 6 22129    Place the paladin to Between The Tents (max 6)
+E 1 22041 0 17         Equip a shiny sword, held (max 0)
+E 1 22042 0 5         Equip shiny armour, worn on body (max 0)
+M 0 22045 6 22132    Place the paladin to A Small Tent (max 6)
+E 1 22041 0 17         Equip a shiny sword, held (max 0)
+E 1 22042 0 5         Equip shiny armour, worn on body (max 0)
+M 0 22045 6 22131    Place the paladin to A Small Tent (max 6)
+E 1 22041 0 17         Equip a shiny sword, held (max 0)
+E 1 22042 0 5         Equip shiny armour, worn on body (max 0)
+M 0 22046 1 22136    Place Dupre the Paladin to Dupre's Tent (max 1)
+E 1 22007 0 17         Equip summ, held (max 0)
+E 1 22043 0 16         Equip a rapier, wielded as a weapon (max 0)
+M 0 22048 1 22134    Place Draxthanum the Gargoyle to The Grand Tent (max 1)
+E 1 22044 0 16         Equip a boomerang, wielded as a weapon (max 0)
+M 0 22047 3 22150    Place the reaper to The Place Of Ultimate Evil (max 3)
+M 0 22047 3 22152    Place the reaper to The Place Of Ultimate Evil (max 3)
+M 0 22047 3 22155    Place the reaper to The Place Of Ultimate Evil (max 3)
+M 0 22049 5 22160    Place the spirit to The Graveyard (max 5)
+M 0 22050 5 22153    Place the ghost to The Place Of Ultimate Evil (max 5)
+M 0 22051 3 22155    Place the skeleton to The Place Of Ultimate Evil (max 3)
+E 1 22045 0 16         Equip a rusty sword, wielded as a weapon (max 0)
+E 1 22046 0 11         Equip a rusty shield, worn as shield (max 0)
+M 0 22052 1 22151    Place the daemon to The Place Of Ultimate Evil (max 1)
+G 1 22015 0         Give moonstone (max 0)
+M 0 22053 4 22160    Place the mourner to The Graveyard (max 4)
+M 0 22054 1 22161    Place Shamino the Ranger to The Graveyard (max 1)
+E 1 22047 0 12         Equip a magic cloak, worn about body (max 0)
+E 1 22003 0 17         Equip ohm, held (max 0)
+M 0 22055 1 22149    Place the Timelord to The Shrine Of Spirituality (max 1)
+E 1 22016 0 17         Equip the Hourglass, held (max 0)
+E 1 22048 0 5         Equip an aura of power, worn on body (max 0)
+M 0 22056 1 22183    Place The Guardian to In The Warp (max 1)
+E 1 22049 0 6         Equip a big red face, worn on head (max 0)
+M 0 22057 1 22182    Place Blackthorn to In The Warp (max 1)
+E 1 22050 0 16         Equip a spiked mace, wielded as a weapon (max 0)
+M 0 22058 1 22180    Place Exodus to In The Warp (max 1)
+E 1 22051 0 5         Equip a completely black armour, worn on body (max 0)
+M 0 22059 1 22179    Place Minax to In The Warp (max 1)
+E 1 22052 0 3         Equip an evil charm, first object worn around neck (max 0)
+M 0 22060 1 22178    Place Mondain to In The Warp (max 1)
+E 1 22053 0 17         Equip an evil gem, held (max 0)
+M 0 22061 1 22165    Place Sentri to Hallways (max 1)
+E 1 22054 0 6         Equip sentri's helmet, worn on head (max 0)
+E 1 22055 0 10         Equip sentri's sleeves, worn on arms (max 0)
+E 1 22056 0 13         Equip sentri's girth, worn around waist (max 0)
+E 1 22057 0 16         Equip sentri's two-handed sword, wielded as a weapon (max 0)
+E 1 22058 0 9         Equip sentri's gloves, worn on hands (max 0)
+E 1 22059 0 8         Equip sentri's boots, worn on feet (max 0)
+E 1 22060 0 7         Equip sentri's leggings, worn on legs (max 0)
+E 1 22061 0 5         Equip sentri's armour, worn on body (max 0)
+M 0 22062 1 22168    Place Batlin to Batlin's Room (max 1)
+E 1 22062 0 3         Equip a Fellowship medallion, first object worn around neck (max 0)
+G 1 22000 0         Give mu (max 0)
+G 1 22001 0         Give lum (max 0)
+G 1 22002 0         Give beh (max 0)
+G 1 22003 0         Give ohm (max 0)
+G 1 22004 0         Give ahm (max 0)
+G 1 22005 0         Give cah (max 0)
+G 1 22006 0         Give ra (max 0)
+G 1 22007 0         Give summ (max 0)
+M 0 22063 1 22167    Place The Avatar to The Throne Room (max 1)
+E 1 22063 0 16         Equip the Glass Sword, wielded as a weapon (max 0)
+M 0 22064 1 22167    Place Lord British to The Throne Room (max 1)
+E 1 22064 0 6         Equip british's crown, worn on head (max 0)
+E 1 22065 0 17         Equip british's sceptre, held (max 0)
+E 1 22066 0 3         Equip british's amulet, first object worn around neck (max 0)
+O 0 22067 0 22163    Place a fountain to Castle Fountain (max 0)
+O 0 22067 0 22104    Place a fountain to Minoc's Fountain (max 0)
+D 0 22007 2 1    Set   #2407 - Barn door to SOUTH as closed
+D 0 22008 0 1    Set   #2408 - Humility Lane door to NORTH as closed
+D 0 22003 4 2    Set   #2403 - The New Magincia Moongate door to UP as closed and locked
+D 0 22004 1 1    Set   #2404 - New Magincia Road door to EAST as closed
+D 0 22014 3 1    Set   #2414 - Entrance To The Office door to WEST as closed
+D 0 22005 3 1    Set   #2405 - New Magincia Road door to WEST as closed
+D 0 22010 1 1    Set   #2410 - Condemned House door to EAST as closed
+D 0 22013 0 1    Set   #2413 - Humility Lane door to NORTH as closed
+D 0 22012 2 1    Set   #2412 - House door to SOUTH as closed
+D 0 22012 4 1    Set   #2412 - House door to UP as closed
+D 0 22011 5 1    Set   #2411 - Attic door to DOWN as closed
+D 0 22032 2 1    Set   #2432 - Library door to SOUTH as closed
+D 0 22028 0 1    Set   #2428 - The Library Moongate door to NORTH as closed
+D 0 22028 4 2    Set   #2428 - The Library Moongate door to UP as closed and locked
+D 0 22043 5 1    Set   #2443 - The Southwest Corner Of The Tavern door to DOWN as closed
+D 0 22046 4 1    Set   #2446 - Cellar door to UP as closed
+D 0 22050 4 2    Set   #2450 - The Britain Moongate door to UP as closed and locked
+D 0 22056 2 0    Set   #2456 - In Front Of The Courthouse door to SOUTH as open
+D 0 22063 0 0    Set   #2463 - The Audience Room door to NORTH as open
+D 0 22064 1 1    Set   #2464 - The Bench door to EAST as closed
+D 0 22065 3 1    Set   #2465 - Prison door to WEST as closed
+D 0 22064 3 1    Set   #2464 - The Bench door to WEST as closed
+D 0 22066 1 1    Set   #2466 - Prison door to EAST as closed
+D 0 22084 4 2    Set   #2484 - The Yew Moongate door to UP as closed and locked
+D 0 22101 4 2    Set   #2501 - The Dungeon Moongate door to UP as closed and locked
+D 0 22104 1 0    Set   #2504 - Minoc's Fountain door to EAST as open
+D 0 22105 3 0    Set   #2505 - The Weaponsmith door to WEST as open
+D 0 22104 3 0    Set   #2504 - Minoc's Fountain door to WEST as open
+D 0 22103 1 0    Set   #2503 - The Armourer door to EAST as open
+D 0 22107 2 1    Set   #2507 - Sacrifice Street door to SOUTH as closed
+D 0 22111 0 1    Set   #2511 - Residence door to NORTH as closed
+D 0 22107 3 1    Set   #2507 - Sacrifice Street door to WEST as closed
+D 0 22106 1 1    Set   #2506 - The Boatseller door to EAST as closed
+D 0 22109 2 1    Set   #2509 - Sacrifice Street door to SOUTH as closed
+D 0 22112 0 1    Set   #2512 - Residence door to NORTH as closed
+D 0 22109 1 1    Set   #2509 - Sacrifice Street door to EAST as closed
+D 0 22110 3 1    Set   #2510 - Forge door to WEST as closed
+D 0 22127 4 2    Set   #2527 - The Minoc Moongate door to UP as closed and locked
+D 0 22128 2 1    Set   #2528 - A Campfire door to SOUTH as closed
+D 0 22132 0 1    Set   #2532 - A Small Tent door to NORTH as closed
+D 0 22130 1 1    Set   #2530 - In Front Of The Grand Tent door to EAST as closed
+D 0 22131 3 1    Set   #2531 - A Small Tent door to WEST as closed
+D 0 22130 2 1    Set   #2530 - In Front Of The Grand Tent door to SOUTH as closed
+D 0 22134 0 1    Set   #2534 - The Grand Tent door to NORTH as closed
+D 0 22138 1 1    Set   #2538 - Desert Entrance door to EAST as closed
+D 0 22139 3 1    Set   #2539 - A Small Tent door to WEST as closed
+D 0 22138 3 1    Set   #2538 - Desert Entrance door to WEST as closed
+D 0 22137 1 1    Set   #2537 - A Small Tent door to EAST as closed
+D 0 22143 4 2    Set   #2543 - The Desert Moongate door to UP as closed and locked
+D 0 22144 4 2    Set (#2544) door to UP as closed and locked
+D 0 22147 4 2    Set   #2547 - The Desert Moongate door to UP as closed and locked
+D 0 22149 4 2    Set   #2549 - The Shrine Of Spirituality door to UP as closed and locked
+D 0 22166 0 1    Set   #2566 - Hallway door to NORTH as closed
+D 0 22168 2 1    Set   #2568 - Batlin's Room door to SOUTH as closed
+D 0 22165 0 0    Set   #2565 - Hallways door to NORTH as open
+D 0 22167 2 0    Set   #2567 - The Throne Room door to SOUTH as open
+D 0 22169 0 2    Set   #2569 - The Altar Of Honesty door to NORTH as closed and locked
+D 0 22170 0 2    Set   #2570 - The Altar Of Compassion door to NORTH as closed and locked
+D 0 22171 0 2    Set   #2571 - The Altar Of Valor door to NORTH as closed and locked
+D 0 22172 0 2    Set   #2572 - The Altar Of Justice door to NORTH as closed and locked
+D 0 22173 0 2    Set   #2573 - The Altar Of Sacrifice door to NORTH as closed and locked
+D 0 22173 0 2    Set   #2573 - The Altar Of Sacrifice door to NORTH as closed and locked
+D 0 22174 0 2    Set   #2574 - The Altar Of Honour door to NORTH as closed and locked
+D 0 22175 0 2    Set   #2575 - The Altar Of Spirituality door to NORTH as closed and locked
+D 0 22176 0 2    Set   #2576 - The Altar Of Humility door to NORTH as closed and locked
+D 0 22177 4 2    Set   #2577 - The Enlightenment door to UP as closed and locked
+D 0 22178 4 2    Set   #2578 - In The Warp door to UP as closed and locked
+D 0 22179 4 2    Set   #2579 - In The Warp door to UP as closed and locked
+D 0 22180 4 2    Set   #2580 - In The Warp door to UP as closed and locked
+D 0 22181 4 2    Set   #2581 - The Enlightenment door to UP as closed and locked
+D 0 22182 4 2    Set   #2582 - In The Warp door to UP as closed and locked
+S

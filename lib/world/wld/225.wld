@@ -1,0 +1,967 @@
+#22505
+Main Street Of Solak~
+  This is the street in town that grants access to every location in Solak.  
+You can get all the way across town from east to west along this particular
+street.   Around you is the hustle and bustle of people going about their
+everyday lives.   
+
+~
+225 0 1
+D0
+~
+~
+0 -1 22554
+D1
+~
+~
+0 -1 22506
+D2
+~
+~
+0 -1 22526
+D3
+~
+~
+0 -1 22555
+S
+#22506
+Main Street Of Solak~
+ This is the street in town that grants access to every location in Solak.  
+You can get all the way across town from east to west along this particular
+street. Around you is the hustle and bustle of people going about their
+everyday lives.   
+
+~
+225 0 1
+D1
+~
+~
+0 -1 22507
+D3
+~
+~
+0 -1 22505
+S
+#22507
+Center Courtyard Of Solak~
+ This is the very center of the castle. The ground has been worn
+down to the baldest and hardest shine. Cobblestone has been laid
+to prevent the mud from consuming the well trodden path. Buildings
+surround you in every direction. Certainly this was the first
+things built when the mighty Solak was erected. 
+~
+225 0 1
+D0
+~
+~
+0 -1 22512
+D1
+~
+~
+0 -1 22508
+D2
+~
+~
+0 -1 22513
+D3
+~
+~
+0 -1 22506
+S
+#22508
+Main Street Of Solak~
+ You are standing on the main street of Solak. The hustle and bustle of
+traffic from the day and night has worn deep ruts into the road. You can
+also see that the rain and snow of the seasons has eroded away the stability
+of the dirt.   
+~
+225 0 1
+D1
+~
+~
+0 -1 22549
+D3
+~
+~
+0 -1 22507
+S
+#22510
+Main Street OF Solak~
+ This is the street in town that grants access to every location in Solak.  
+You can get all the way across town from east to west along this particular
+street. Around you is the hustle and bustle of people going about their
+everyday lives.   
+
+~
+225 0 1
+D1
+~
+~
+0 -1 22555
+D3
+~
+~
+0 -1 22511
+S
+#22511
+Main Street Of Solak~
+ This is the street in town that grants access to every location in Solak.  
+You can get all the way across town from east to west along this particular
+street. Nice breeze of fresh sea puts your face into happy grimace.  
+
+~
+225 0 1
+D1
+~
+~
+0 -1 22510
+D3
+~
+~
+0 -1 22537
+S
+#22512
+Square In The Market District~
+ You are standing on the north side of the courtyard. You can smell
+fresh baked foods and salted meat nearby. You can also hear the
+familiar clang of the blacksmith as he molds another piece of
+armor for the war.  
+~
+225 0 1
+D0
+~
+~
+0 -1 22519
+D1
+~
+~
+0 -1 22522
+D2
+~
+~
+0 -1 22507
+D3
+~
+~
+0 -1 22521
+S
+#22513
+Approaching To The Guild District~
+ You find your self away from the hustle and bustle of the main part
+of town. Now your in a more quiet part of the castle. Here large
+buildings have been erected on both sides of you. In each one
+you may find different pupils and masters thinking and studying
+in the art of their chosen profession. 
+
+~
+225 0 1
+D0
+~
+~
+0 -1 22507
+D2
+~
+~
+0 -1 22514
+S
+#22514
+Streets Leading Through The Guild District~
+ You find your self away from the hustle and bustle of the main part
+of town. Now your in a more quiet part of the castle. Here large
+buildings have been erected on both sides of you. In each one
+you may find different pupils and masters thinking and studying
+in the art of their chosen profession. 
+~
+225 0 1
+D0
+~
+~
+0 -1 22513
+D1
+~
+~
+0 -1 22530
+D2
+~
+~
+0 -1 22515
+D3
+~
+~
+0 -1 22529
+S
+#22515
+Streets Leading Through The Guild District~
+ You find your self away from the hustle and bustle of the main part of
+town. Now your in a more quiet part of the castle. Here large buildings
+have been erected on both sides of you. In each one you may find different
+pupils and masters thinking and studying in the art of their choses
+profession. All kinds of stone and wood is all over the place here, new
+buildings are being put up everywhere.   
+~
+225 0 1
+D0
+~
+~
+0 -1 22514
+D1
+~
+~
+0 -1 22532
+D2
+~
+~
+0 -1 22516
+D3
+~
+~
+0 -1 22531
+S
+#22516
+End Of The Guild District~
+ Most of the guilds in Solak can be found within a short distance of here.  
+The whole area has a feeling of being new to it, nothing here seems 
+out of place. You wonder how any city could stay so clean, even for a
+few days. As you drop a small piece of trash on the ground, just to make
+yourself feel attrib little better, you notice it disappears. So you drop
+another, and it disappears too. Perhaps some sort of magic?  Or god
+intervention?  
+~
+225 0 1
+D0
+~
+~
+0 -1 22515
+D1
+~
+~
+0 -1 22533
+D3
+~
+~
+0 -1 22534
+S
+#22519
+Square In The Market District~
+ You are standing on the north side of the courtyard. You can smell
+freshly baked foods and salted meat nearby. You can also hear the familiar
+clangs of a blacksmith as he molds another piece of armor. 
+~
+225 0 1
+D0
+~
+~
+0 -1 22520
+D1
+~
+~
+0 -1 22523
+D2
+~
+~
+0 -1 22512
+D3
+~
+~
+0 -1 22553
+S
+#22520
+Stables~
+ These stables house the finest horses in the land. To see what is
+currently available, type <list>.   
+~
+225 0 1
+D2
+~
+~
+0 -1 22519
+S
+#22521
+Armoury Of Solak~
+ Clang Clang ... Clang ... The familiar sound of the blacksmith hard at
+work making new armor. The walls of this place are lined with some of the
+best equipment the king can afford. There is certainly enough here for an
+army of soldiers.   
+~
+225 0 1
+D1
+~
+~
+0 -1 22512
+S
+#22522
+Weaponsmith Of Solak~
+ Here the weaponsmith of Solak is hard at work sharpening and mending
+the various implements of warfare. Swords, axes, lances and bows
+line the walls of this all to familiar place. It looks like the
+weaponsmith has enough work till the end of time. 
+~
+225 0 1
+D3
+~
+~
+0 -1 22512
+S
+#22523
+Food Supply~
+ This is the place from which the Prince rations food for his people.  
+Huge stock piles have been made of salted meat and bread. Some food here
+may be bad but, in winter, anything is better than starving. You feel
+hungry smelling all the wonderful things that are in here.   
+
+~
+225 0 1
+D3
+~
+~
+0 -1 22519
+S
+#22525
+Joanna's Generals Goods Store~
+ Joanna used to be the kings personal concubine until she decided
+to open her own store. This is the result. General items of 
+usefullness are strewn above the shelves of this unique place. 
+Perhaps you see something you could use?
+
+~
+225 0 1
+D2
+~
+~
+0 -1 22553
+S
+#22526
+Portal Room Into Solak~
+ As your senses clear you find yourself standing within a small portal
+gate that is invisible to the naked eye. You know that your dangerous 
+situation is over and that you are safe again in town. You see exits of north 
+and pit on south. You wonder yourself what is that. 
+
+
+~
+225 20 1
+D0
+~
+~
+0 -1 22505
+D2
+~
+~
+0 -1 22527
+S
+#22527
+The Donation Pit~
+  This area of Solak has been deemed "The Donation Pit", for it is the place
+where the Legends of Solak come to pay homage to the Children of the Sun, and
+to leave free donations to those who are in need.   
+
+~
+225 4 1
+D0
+~
+~
+0 -1 22526
+S
+#22529
+Warrior Training Grounds Of Solak~
+ Huge training dummies with slashes are leaning against pedestals here. 
+Other strange implements of destruction can be seen sitting in various 
+well placed spots in this room. Warriors may train and practise here. 
+~
+225 0 1
+D1
+~
+~
+0 -1 22514
+S
+#22530
+Guildhall Of Rangers~
+ A forest has somehow managed to grow on only half the room. It seems the
+rangers can train here in this building. Diagrams and charts noting
+various body parts are pinned on the walls. The arts of healing are
+important to survive the war.   
+~
+225 0 1
+D3
+~
+~
+0 -1 22514
+S
+#22531
+The Guild Of Magic~
+ A dark and foreboding room. Books, mortars and strange bubbly machines
+sit on the desks of pupils deep in study. Nothing moves in this room
+but it feels charged with the most subtle magic.  
+~
+225 0 1
+D1
+~
+~
+0 -1 22515
+S
+#22532
+The Guild Of Healing~
+ As the name implies this is the place where all natural processes
+and unnatural processes are studied. Knowledge and art of healing
+may be learned about the body here. In order to win the war
+the king hired the best for training. 
+
+~
+225 0 1
+D3
+~
+~
+0 -1 22515
+S
+#22533
+Guildhall Of The Knight~
+ This is the training hall of the knights. Many wall paintings decorate
+this place with scenes of great battles. There is also a bunch of swords
+and armors mounted along the walls as decoration.   
+~
+225 0 1
+D3
+~
+~
+0 -1 22516
+S
+#22534
+Guildhall Of Unarmed Combat~
+ First year of Solak history was poor and covered with blood. 
+Martial arts were main weapon of Solak. In that honour guildhall 
+of unarmed combat was built here. 
+~
+225 0 1
+D1
+~
+~
+0 -1 22516
+S
+#22535
+Street Crossing Solak~
+ You are walking along Briar Street, with Harbor Square nearby to the
+north. You can see a Healing Center has been constructed nearby.  
+Also, you have a great view of the harbor from here.   
+
+~
+225 0 1
+D0
+~
+~
+0 -1 22555
+D2
+~
+~
+0 -1 22561
+D3
+~
+~
+0 -1 22556
+S
+#22537
+Harbor Square~
+ This is the square nearest the harbor, therefore people simply call it
+Harbor Square.  From here you can see Nobleman's Avenue running north. 
+Smell of sea solt is strong, telling you that you are near to banks of Solak. 
+~
+225 0 1
+D0
+~
+~
+0 -1 22557
+D1
+~
+~
+0 -1 22511
+D3
+~
+~
+0 -1 22538
+S
+#22538
+Solak Harbor~
+ This is the lower docks of the harbor, and up above here is Briar Street. 
+To the west of here, you can see the busy harbor of Solak. Many ships are
+coming in and dropping off supplies which are then carried onto the harbor
+decks by cranes. This harbor is a very busy place almost always. 
+~
+225 0 1
+D1
+~
+~
+0 -1 22537
+D2
+~
+~
+0 -1 22539
+S
+#22539
+Solak Harbor~
+ This is the lower decks of the Harbor, and up above here is Briar Street. 
+To the west of here, you can see the busy harbor of Solak. Many ships are
+coming in and dropping off supplies which are then carried onto the harbor
+decks by large cranes. This harbor is a very busy place almost always.   
+On east you see pretty dark house,asking yourself what is there. Solak bank 
+continues on south. 
+~
+225 0 1
+D0
+~
+~
+0 -1 22538
+D1
+~
+~
+0 -1 22571
+D2
+~
+~
+0 -1 22540
+S
+#22540
+Solak Harbor~
+ This is the lower decks of the harbor, and up above here is Briar Street. 
+To the west of here, you can see the busy harbor of Solak. Many ships are
+coming in and dropping off supplies which are then carried onto the harbor
+decks by large cranes. This harbor is a very busy place almost always.   
+
+~
+225 0 1
+D0
+~
+~
+0 -1 22539
+D2
+~
+~
+0 -1 22542
+S
+#22542
+Streets In The Merchant District~
+ This is the southwest corner of Solak, where the only streets are those
+leading to the houses of Solak citizens and the nobility of Solak. This is
+also the street that leads to the docks of Solak, where rumor has it one can
+purchase passage to another land.   
+~
+225 0 1
+D0
+~
+~
+0 -1 22540
+D2
+~
+~
+0 -1 22543
+S
+#22543
+Solak Docks~
+ You are at the dock that appears to have been very recently built. The
+stones that have been laid here are of a higher quality than the rest of the
+stonework in Solak. This is possibly the work of new masons brought in from
+overseas. Near the dockside are a pair of newly erected statues. They are
+beautifully crafted Gods, looking out towards the sea.   
+
+
+~
+225 0 1
+D0
+~
+~
+0 -1 22542
+D1
+~
+~
+0 -1 22544
+S
+#22544
+Solak Houses~
+ Main population od Solak lives here, representing new spirit of small
+and proud town. Houses are small, with huge windows with view to beautiful 
+sea. On north you see entrance to famous Marduk's shop.  
+~
+225 0 1
+D0
+~
+~
+0 -1 22545
+D3
+~
+~
+0 -1 22543
+S
+#22545
+Thivan's Shop~
+  You are standing in a rather small shop that has rather fine wares. 
+At least by the looks of them anyway, many are unlike any you have
+ever seen before. Stories about this shop made your attention higher. 
+
+~
+225 0 1
+D2
+~
+~
+0 -1 22544
+S
+#22549
+Main Street Of Solak~
+ You are standing on the main street of Solak. The hustle and bustle of
+traffic from the day and night has worn deep ruts into the road. You can
+also see that the rain and snow of the seasons has eroded away much of the
+dirt.   
+~
+225 0 1
+D1
+~
+~
+0 -1 22550
+D3
+~
+~
+0 -1 22508
+S
+#22550
+Gateway Of Solak~
+ This is the only way into Solak.  The grand entrance was one of the first
+pieces of work destroyed in the attacks.   A scared people hastily rebuilt it
+into what it is today.  Fairly good at withstanding attack, Solak stands as
+the only defensible protection in the nearby area.   
+
+~
+225 0 1
+D1
+~
+~
+0 -1 22551
+D3
+~
+~
+0 -1 22549
+S
+#22551
+Old Stone Bridge~
+  This is the original stone bridge that was built to cross the small
+channel. It stretches out above the water into the heart of Solak. The
+castle looms in the distance. On north and south are placed stairs to two 
+towers. 
+
+~
+225 0 1
+D0
+~
+~
+0 -1 22558
+D1
+~
+~
+0 -1 22552
+D2
+~
+~
+0 -1 22559
+D3
+~
+~
+0 -1 22550
+S
+#22552
+East Of Solak~
+ You are standing just to the east side of the city of Solak. You can see
+the great entrance just to the west. What dangers lie ahead into the lands
+of unknown. One cannot say until one has introduced himself to the world. 
+~
+225 0 1
+D3
+~
+~
+0 -1 22551
+S
+#22553
+Square In The Market District~
+ You are standing on the north side of the courtyard. You can smell
+freshly baked foods and salted meat nearby. You can also hear the familiar
+clangs of a blacksmith as he molds another piece of armor. 
+
+~
+225 0 1
+D0
+~
+~
+0 -1 22525
+D1
+~
+~
+0 -1 22519
+D3
+~
+~
+0 -1 22560
+S
+#22554
+Tavern Of Solak~
+ This tavern is really just a drinking bar, with an extra large common
+room complete with tables, chairs, and a bar at which to drink. The place
+is clean and well-kept, as the owner doesn't want anything to detract from
+his sales. Patrons can relax at one of the tables, or simply drink away
+their worries at the polished walnut bar.   
+
+~
+225 0 1
+D2
+~
+~
+0 -1 22505
+S
+#22555
+Main Street Of Solak~
+ This is the street in town that grants access to every location in Solak.  
+You can get all the way across town from east to west and south along this 
+particular. On south this street continues with Briar Street. 
+
+ 
+ 
+~
+225 0 1
+D1
+~
+~
+0 -1 22505
+D2
+~
+~
+0 -1 22535
+D3
+~
+~
+0 -1 22510
+S
+#22556
+Healing Center Of Solak~
+ You are in the healing center of Solak. In here anyone can sleep and heal
+their wounds of battle away. Just sleep on one of the comfortable beds.  
+You may find that sleeping on a bed makes a big difference.  
+~
+225 0 1
+D1
+~
+~
+0 -1 22535
+S
+#22557
+Start Of Nobleman's Avenue~
+ Nobleman's Avenue is oldest street in Solak. It connects old founder's houses 
+with Headquarter of Solak placed at Elite Troop Barracks. Main power of Solak
+is situated there, telling you on what land City of Solak lives it's life. 
+Every stranger in Solak with good intentions must feel respect for them. 
+~
+225 0 1
+D0
+~
+~
+0 -1 22563
+D2
+~
+~
+0 -1 22537
+D3
+~
+~
+0 -1 22570
+S
+#22558
+Under Guard's Tower~
+ This is entrance to Guard Tower. It is consist of strong rocks, shipped from 
+distant lands. It's firmness guarantee that this first barrier of Solak's 
+defence want be easily skipped. Small stairs continues on up. 
+~
+225 0 1
+D2
+~
+~
+0 -1 22551
+D4
+~
+~
+0 -1 22573
+S
+#22559
+Under Guard's Tower~
+ This is entrance to Guard Tower. It is consist of strong rocks, shipped from 
+distant lands. It's firmness guarantee that this first barrier of Solak's 
+defence want be easily skipped. Small stairs continues on up. 
+~
+225 0 1
+D0
+~
+~
+0 -1 22551
+D4
+~
+~
+0 -1 22574
+S
+#22560
+Guild Of The Solak Druid's~
+ This is the guildhall of the peaceful druids. This hall has been
+constructed to look like a dense forest. With actual trees growing out of
+the ground, and going right up through the roof, outdoors. From outside you
+can see four tall evergreen trees. From within, you can see the base of
+each one of those trees. Also in here are rows of plants, and all kinds of
+other vegetation growing everywhere. It's like a giant garden within the
+small confines of a building.   
+~
+225 0 1
+D1
+~
+~
+0 -1 22553
+S
+#22561
+Guild Of Illusion~
+ Ancient and secret art of illusion was for a long time sacral but after
+long time Solak received that knowledge. In front of you, you see a bunch of
+mirrors, which converts your image into amazing shapes. You feel pretty
+uncomfortable expecting someone to show up. 
+~
+225 0 1
+D0
+~
+~
+0 -1 22535
+S
+#22563
+Avenue Square~
+ Northest Solak square is covered with huge stone blocks, making this part of 
+town clean and beautiful for walk. Trees are planted on both sides of the 
+street, smelling pleasant. On east you see huge shadows of castles, making
+their size much bigger. 
+~
+225 0 1
+D0
+~
+~
+0 -1 22565
+D1
+~
+~
+0 -1 22572
+D2
+~
+~
+0 -1 22557
+S
+#22565
+Near Residence~
+ Passengers adrenaline starts moving faster, as he steps closer to 
+throne of Solak. Presence of his majesty you can feel on every step you move
+to north. Surrounded by wals this place is more protected from sun, making it 
+colder. 
+~
+225 0 1
+D0
+~
+~
+0 -1 22568
+D2
+~
+~
+0 -1 22563
+S
+#22568
+In Front Of Residence~
+ Prince's residence is near and you see bodyguard's room in front of it,
+making approach to him much harded. Bodyguard room is painted with mosaics
+from latest Solak wars for freedom,which were bloody,but succesfull. 
+~
+225 0 1
+D1
+~
+~
+0 -1 22569
+D2
+~
+~
+0 -1 22565
+S
+#22569
+Throne Room Of Solak~
+ Here is the large well-decorated throne room for the Prince. Ruling the
+land with an iron fist did not seem to help the Prince to win the war.  
+Perhaps with the might of the new taxation law and the recruits from back
+east, the war will finally turn in his favor. The king is preparing to move
+his home to a larger more promising spot of land closer to the harbor. 
+~
+225 0 1
+D3
+~
+~
+0 -1 22568
+S
+#22570
+Elite Troop Barracks~
+ Huge barracks made of solid wood are placed here. They are builted in 
+classic order, one beside one, in same line. Huge roofs are dominating
+telling you how strong Solak's whirlwind may be in winter time. Barracks 
+and Headquarter are placed near Prince's residence to help quick responding 
+for some danger. 
+~
+225 0 1
+D1
+~
+~
+0 -1 22557
+S
+#22571
+Guild Of Stealth~
+ After sneaking past the door of the outer room, you are now standing in a 
+room that is completely empty, and almost as dark. There are few light 
+shadows provided by the cracks in the walls behind you. Watch yourself, you
+can easily be looted. 
+~
+225 0 1
+D3
+~
+~
+0 -1 22539
+S
+#22572
+Castles Of Nobility~
+ Beautiful castles of nobleman founder's of Solak are here. They are pretty 
+high with pair of small towers on each side. Huge fountain placed here makes 
+your vision so unreal. You hear rumorous that thier life from first poor 
+founders to rich noblemans was very hard, connected with huge danger of 
+trading in dangerous sea. 
+~
+225 0 1
+D3
+~
+~
+0 -1 22563
+S
+#22573
+Tower Of Solak~
+ Gate Tower of Solak dominates above Solak. Nice look spreads all around, 
+ making easier to spot undesirable enemies and react adequat. Tower's
+were very important in past for Solak's good defence. Solak folks hope that 
+that fact will be continued in the future. 
+~
+225 0 1
+D5
+~
+~
+0 -1 22558
+S
+#22574
+Tower Of Solak~
+ Gate Tower of Solak dominates above Solak. Nice look spreads all around, 
+ making easier to spot undesirable enemies and react adequat. Tower's
+were very important in past for Solak's good defence. Solak folks hope that 
+that fact will be continued in the future. 
+
+~
+225 0 1
+D5
+~
+~
+0 -1 22559
+S
+$

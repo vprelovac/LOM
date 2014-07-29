@@ -1,0 +1,364 @@
+#2200
+hatchling dragon baby~
+the dragon hatchling~
+A dragon hatchling is here, chewing on a bone.
+~
+This small dragon hisses at you as you enter the room.  Although it is only a
+few feet long, its sharp teeth make you think twice about petting it.
+~
+75 4194304 -900 E
+7 2 4 4d8+100 1d8+2
+2000 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#2201
+draconian~
+the Draconian~
+The Draconian is standing here.
+~
+This horrible creature is a bizarre cross between a man and a dragon.  He 
+has black scales and a seven foot wingspan.  He scowls at you and hefts his 
+spear as you enter the room.
+~
+46 8 -900 E
+13 -2 2 13d13+130 2d6+20
+2000 0
+8 8 1
+Str: 16
+Dex: 14
+Int: 14
+Wis: 15
+Con: 16
+E
+#2202
+master~
+the dragon master~
+The lord of this crypt is here.
+~
+He doesn't look happy to see you.
+~
+46 4194432 -1000 E
+37 -9 -9 27d27+774 3d6+27
+35000 0
+8 8 1
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#2203
+man mage wizard~
+a powerful mage~
+A man is here, studying some books.
+~
+A powerful looking mage is standing in this room studying his spells.  You are
+surprised at the fact that he is human, and realize that he must be very
+powerful to have been accepted by the creatures which live here.
+~
+10 138 -900 E
+32 -9 -7 22d22+643 1d8+28
+600 0
+8 8 1
+Str: 20
+Dex: 18
+Int: 23
+Wis: 17
+Con: 18
+Cha: 20
+E
+#2204
+cleric draconian~
+the holy Draconian~
+A Draconian is here, deep in thought.          
+~
+A Draconian stands here, dressed in simple robes.  Around his neck you 
+notice a golden medallion in the shape of a five headed dragon.
+~
+46 136 -900 E
+32 -11 -7 22d22+643 3d5+23
+400 0
+8 8 1
+Str: 20
+Dex: 18
+Int: 23
+Wis: 17
+Con: 18
+Cha: 20
+E
+#2205
+king draconian~
+the Draconian King~
+A Draconian wearing fine clothes is here, pondering his greatness.          
+~
+The king of the draconians sits here on a golden throne.  He looks as 
+though he could crush your head with a single blow.  Yet you sense that he 
+is controlled by a greater power.
+~
+15 136 -900 E
+35 -10 -10 26d26+695 2d8+26
+800 0
+8 8 1
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+#2206
+concubine draconian~
+a concubine~
+A concubine is resting here. 
+~
+This is a concubine of the king.  She is lounging here, wearing nothing at 
+all.  You find yourself strangely repulsed as she draws a knife and 
+prepares to defend herself.
+~
+10 0 -500 E
+6 6 5 6d10+50 2d3+1
+18 0
+8 8 2
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#2207
+bodyguard draconian~
+a bodyguard~
+A bodyguard is here, staring at you menacingly. 
+~
+This creature has devoted its life to defending the king.  Your intrusion has
+not pleased it.
+~
+4138 44 -800 E
+18 -7 2 18d18+180 2d6+15
+5000 0
+8 8 1
+Str: 16
+Dex: 16
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#2220
+tiamat dragon~
+Tiamat~
+A five headed dragon hisses at you as you enter this room.
+~
+You see before you the master of this Tower, Tiamat.  She frowns at you as she
+prepares to make you pay for your insolence ... with your lives!
+~
+47 168 -1000 E
+51 -30 -15 35d35+3400 6d16+41
+1000000 0
+8 8 2
+Str: 22
+Dex: 20
+Int: 20
+Wis: 19
+Con: 20
+Cha: 22
+Attacks: 5
+E
+#2221
+dragon red~
+the Great Red Dragon~
+A red dragon is here, contemplating your existence. 
+~
+This huge red dragon dominates the chamber.  As you turn to flee, he grins at
+you and invites you to stay ... forever!
+~
+47 40 -1000 E
+34 -12 -11 27d27+1001 2d8+32
+10000 0
+8 8 1
+Str: 20
+Dex: 16
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+#2222
+dragon black~
+the Great Black Dragon~
+A black dragon is here, laughing at your insolence. 
+~
+This huge black wyrm laughs at your puny weapons.  You realize that he is not
+going to roll over and die for you.
+~
+47 40 -900 E
+36 -9 -9 26d26+747 3d8+22
+20000 0
+8 8 1
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#2223
+dragon white~
+the Great White Dragon~
+A white dragon is here, waiting for you. 
+~
+This dragon towers over you.  Recalling your previous experiences with white
+dragons, you are not afraid.  She smiles at you and says 'I think you will find
+me a greater challenge than my offspring.'
+~
+47 40 -1000 E
+39 -10 -11 27d27+885 3d8+25
+35000 0
+8 8 2
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#2225
+dragon green~
+the Ancient Green Dragon~
+A green dragon is here, looking distraught. 
+~
+This huge beast appears to be the most directly related to the draconians. 
+She looks at you with sorrow in her eyes and says 'You have slaughtered my 
+children.  Prepare to die.'
+~
+47 40 -1000 E
+41 -12 -12 31d31+883 3d8+27
+20000 0
+8 8 2
+Str: 22
+Dex: 19
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+#2226
+hydra~
+a large hydra~
+A hydra is here, blocking the doorway. 
+~
+A hydra is here, guarding the entrance to a sealed vault.  You have the feeling
+it isn't happy to see you.
+~
+47 40 -800 E
+18 1 0 18d18+175 2d8+9
+5000 0
+8 8 0
+Str: 17
+Dex: 18
+Int: 17
+Wis: 15
+Con: 16
+Cha: 16
+E
+#2227
+slave human~
+a human slave~
+A Human slave is here, hard at work.          
+~
+He looks like he's under a lot of stress.  He would probably like it if you
+left him alone.
+~
+11 0 0 E
+5 8 7 1d10+50 1d6+1
+12 0
+8 8 1
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#2240
+zombie draconian~
+a Draconian zombie~
+A Draconian zombie is here, staring at nothing in particular.
+~
+This used to be one of the warriors of this tribe.  He was denied his final
+rest, however, and now guards this corridor tirelessly as a zombie.
+~
+47 40 -400 E
+9 4 4 1d100+73 1d8+5
+1500 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+E
+#2241
+dragon phase~
+the phase dragon~
+A Phase Dragon is darting around the room.          
+~
+This small dragon looks like he's up to no good.
+~
+237 40 -300 E
+10 1 3 10d10+150 2d6+6
+5000 0
+8 8 1
+Str: 16
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+E
+#2242
+fool draconian~
+the draconian fool~
+A Fool is here, making fun of you.          
+~
+This dragon man looks VERY foolish, dressed in a green and blue striped 
+suit.  As you enter the room, he points at you and laughs.
+~
+201 0 0 E
+5 6 5 1d10+50 3d3+4
+500 0
+8 8 1
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#2243
+queen draconian~
+the Draconian Queen~
+A Female Draconian sits, here, looking very important.          
+~
+This draconian looks VERY busy as she orders her slaves around.  You think 
+it might be a good idea to leave her alone.
+~
+15 168 -600 E
+27 -8 -5 20d20+462 3d4+19
+10000 0
+8 8 2
+Str: 18
+Dex: 16
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+$

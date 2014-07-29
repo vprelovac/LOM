@@ -1,0 +1,55 @@
+map
+a map of Shire
+  Gamgee
+ Residence
+     |
+     |
+   Stoney---\
+    Path    |
+            |
+/-----------/
+|
+| Bedroom---Bag------------------------------------------------------Pantry
+|           End                                                       |D|
+|            |                                                        | |
+|            |                                                        | |
+|  Chicken   DL                                                       | |
+|   Coop     |    ** DL = Delving Lane **                             | |
+|     |      |                                                        | |
+|     |      |                                                        | |
+|   Barn     |                                                        | |
+|     |      |                                                        | |
+|     |      |                                                        | |
+|   Grassy---DL----Shiriff                                            |U|
+|   Field    |      Post                                             Tunnel
+|     |      |                                                        End
+\----Pig     DL----Green    General                                    |
+     Pen     |     Dragon    Store                                     \
+             |       |U|       |                                        \
+  North  Brandywine  |D|       |          House                          \
+   End     Bridge    Top       |         of Arms                          \
+    |        |      Of Inn     |            |                              \
+E   |        |                 |            |                               |
+N--Grass-BW--BW---BW---Shire---BW-----------BW---Road---Shiriff---Thain's   |
+D  Field |   |    |   Entrance              |    Bend    Post     Office    |
+    |    |   |    |      |                  |      |                        |
+    |    |   |  Shiriff  | ** BW =    **  Kid'n    |---Shiriff              |
+  South  |   |  Post     | ** Bywater **  Keep     |   Training            /
+   End   |   |           | **  Road   **           |                      /
+         | Grocer's      |                 Smial---|---Smial             /
+         | Delight       |                         |                    /
+         |               |                         |          ----------
+     Watermill         Dimly                      Ivy        /
+     Entrance           Lit                       Bush      /
+         |             Path                                /
+         |                                                |
+     Watermill                                Halfling---Dark
+         |                                      Hole    Tunnel
+         |                                                |
+         |                                                |
+      Rear of                                  Shiriff---Dark----Halfling
+     Watermill                                  Post    Tunnel     Hole
+        |D|                                               |
+        |U|                                               |       
+        Dark-----Dark------------Dark-----------------Three Way------End of
+       Tunnel   Tunnel          Tunnel               Intersection    Tunnel

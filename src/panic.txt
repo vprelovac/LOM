@@ -1,0 +1,28 @@
+May 23 16:03:15 :: Milutin (#6130 A Narrow Trail Through The Deep, Dark Forest) F: noone cmd: w
+May 23 16:20:25 :: Lulu (#35106 Main Street) F: noone cmd: move hidd
+May 23 20:58:16 :: Milutin (#1606 Cluster Of Buildings) F: noone cmd: e
+May 24 14:43:58 :: Milutin (#6130 A Narrow Trail Through The Deep, Dark Forest) F: noone cmd: w
+Jun  4 10:47:14 :: the Immortal Postmaster (#1205 The Post Office Of The Gods) F: noone cmd: say Come and play a card game with me! Type 'gamble' to start!
+Jun  6 15:14:36 :: Milutin (#35107 Animal Attack) F: a Priest of No'ol cmd: kick
+Jun  7 14:08:37 :: Milutin (#3012 Main Street) F: noone cmd: who
+Jun  7 19:53:59 :: Paracelsus (#18634 An Intersection Of Passages) F: noone cmd: quit
+Jun 13 11:45:33 :: the blacksmith (#6654 The Blacksmiths) F: noone cmd: say I can make old things good as new!
+Jun 17 15:09:21 :: The cityguard (#3025 The Common Square) F: noone cmd: emote pulls something out of his nose. 
+Jun 18 13:54:27 :: Milutin (#2540 A Hallway) F: noone cmd: fillet cor
+Jun 18 13:56:40 :: Milutin (#2568 Below The Stairs) F: noone cmd: fillet cor
+Jun 18 14:08:05 :: Milutin (#2664 The Inner Chamber) F: noone cmd: junk fil
+Jun 23 14:22:55 :: Corwin (#36300 The Blasted Throne of the Damned Priest King of Xchantharus) F: noone cmd: cha t
+Jun 27 19:49:36 :: Jezdimir (#3010 The General Store) F: noone cmd: quit
+Jul  4 10:40:51 :: The cityguard (#3059 Behind The Temple Altar) F: noone cmd: smile Holy
+Jul  6 10:36:56 :: Spooky (#35608 East Gate of Chiiron) F: noone cmd: quit
+Aug 11 20:26:42 :: Lulu (#23007 At The Base Of The Pit) F: noone cmd: cast 'equin'
+Aug 18 16:26:32 :: Rocky (#3067 Healing Room) F: noone cmd: quit
+Aug 24 12:58:08 :: the Golem P'chaua (#36019 Pillars of Perception) F: noone cmd: mprestore self 1000
+Sep 12 18:41:04 :: the beastly fido (#3027 The Entrance Hall To The Guild Of Thieves) F: noone cmd: bark Newbie
+Sep 21 17:22:29 :: Coremwhell (#8358 The Village Courtyard) F: noone cmd: back g
+Sep 24 04:48:49 :: Heimdall (#36155 Aspect of Sol) F: noone cmd: cast 'power heal' khadgar
+Sep 24 18:53:00 :: ZVRK (#1 Limbo) F: noone cmd: showquest lulu midgaard
+Sep 24 23:01:04 :: The phoenix (#36155 Aspect of Sol) F: Khadgar cmd: c 'flamestrike' Heimdall
+Sep 26 00:28:56 :: the frost beast (#36041 The Icy Wastelands) F: noone cmd: mprestore self 1000
+Sep 26 00:37:21 :: the Golem P'chaua (#36019 Pillars of Perception) F: noone cmd: mprestore self 1000
+Sep 26 00:47:06 :: Khadgar (#36155 Aspect of Sol) F: noone cmd: sav

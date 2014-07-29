@@ -1,0 +1,55 @@
+#200
+Goblin Caves~
+20099 57 2
+D 0 20006 5 2    Set   #20006 - At the entrance door to DOWN as closed and locked
+D 0 20007 4 2    Set   #20007 - Within the Entrance door to UP as closed and locked
+D 0 20010 1 2    Set   #20010 - End of the Hallway door to EAST as closed and locked
+D 0 20011 3 2    Set   #20011 - Armory door to WEST as closed and locked
+D 0 20016 1 2    Set   #20016 - Dark Cell door to EAST as closed and locked
+D 0 20014 3 2    Set   #20014 - End of the Hallway door to WEST as closed and locked
+D 0 20018 1 2    Set   #20018 - Alcove door to EAST as closed and locked
+D 0 20019 3 2    Set   #20019 - Stairway door to WEST as closed and locked
+D 0 20031 2 1    Set   #20031 - Storage Cave door to SOUTH as closed
+O 0 20005 12 20011    Place a Goblin Breast Plate to Armory (max 0)
+O 0 20004 12 20011    Place a Goblin Sword to Armory (max 0)
+M 0 20000 1 20000    Place The Sentry to the Goblin Caves to Base of the Mountain (max 1)
+E 1 20006 99 16         Equip a Goblin Sentry's Sword, wielded as a weapon (max 0)
+M 0 20001 1 20006    Place An Ancient Wizard to At the entrance (max 1)
+G 1 20000 100         Give a granite key (max 100)
+M 0 20002 1 20007    Place Goblin Soldier to Within the Entrance (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+G 1 20001 100         Give a stone key (max 100)
+M 0 20003 1 20007    Place Goblin Soldier to Within the Entrance (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20004 1 20009    Place Goblin Soldier to Hallway (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20005 1 20011    Place Goblin Soldier to Armory (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20006 1 20012    Place Goblin Soldier to Intersection (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20007 1 20018    Place Goblin Soldier to Alcove (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20008 1 20014    Place Goblin Soldier to End of the Hallway (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20009 1 20021    Place A Goblin Soldier to Eroded Hallway (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20010 1 20023    Place A Goblin Soldier to Dark Tunnel (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20011 19 20025    Place A Goblin Soldier to Great Waterfall (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20012 1 20027    Place A Goblin Soldier to Underground Pool (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20013 1 20029    Place A Goblin Soldier to Below Waterfall (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20014 1 20031    Place A Goblin Soldier to Storage Cave (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+E 1 20005 99 5         Equip a Goblin Breast Plate, worn on body (max 0)
+M 0 20015 1 20030    Place Goblin King to Large Cave (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+M 0 20016 1 20015    Place Captain of the Goblin Soldiers to Guard Room (max 1)
+E 1 20004 99 16         Equip a Goblin Sword, wielded as a weapon (max 0)
+E 1 20005 99 5         Equip a Goblin Breast Plate, worn on body (max 0)
+G 1 20002 100         Give a Jailor's key (max 100)
+M 0 20017 1 20016    Place Captive of the Goblins to Dark Cell (max 1)
+G 1 20003 100         Give a secret looking key (max 100)
+S

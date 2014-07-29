@@ -1,0 +1,401 @@
+#23100
+The Entrance To Yggdrasil~
+  This is the entrance to Yggdrasil, the World Ash.  Through
+this tree are conduits to many other planes of existence.  The way back
+to the forest is to the north.
+~
+231 0 3
+D0
+You see the way back to the forest.
+~
+~
+0 0 10030
+D4
+You see the trunk rising up into the sky.
+~
+~
+0 -1 23101
+D5
+You see the trunk descending down into the depths of the
+earth.
+~
+~
+0 -1 23107
+S
+#23101
+The Trunk Of Yggdrasil~
+  You are traveling in Yggdrasil, the World Ash.  Who knows
+what other travelers you may encounter.
+~
+231 0 3
+D4
+The trunk continues to go up here.
+~
+~
+0 -1 23102
+D5
+The entrance to the tree is below.
+~
+~
+0 -1 23100
+S
+#23102
+The Lower Trunk Of Yggrasil~
+  You are in the lower reaches of Yggdrasil.  The tree top
+cannot be seen.  Lesser astral travelers can be seen moving
+about.
+~
+231 0 3
+D0
+A limb branches off in this direction.
+~
+~
+0 -1 23103
+D1
+A limb branches off in this direction.
+~
+~
+0 -1 23106
+D2
+A limb branches off in this direction.
+~
+~
+0 -1 23111
+D3
+A limb branches off in this direction.
+~
+~
+0 -1 23105
+D4
+The trunk continues up the tree.
+~
+~
+0 -1 23117
+D5
+The way down the tree is this way.
+~
+~
+0 -1 23101
+S
+#23103
+A Lower Branch Of Yggdrasil~
+  You are on a limb on the lower level of Yggdrasil.
+~
+231 0 3
+D2
+The main trunk is in this direction.
+~
+~
+0 -1 23102
+S
+#23104
+The Crest Of Yggdrasil~
+  You are on the top of the World Ash.  You can see in the
+distance many realms and dimensions.  This is definitely a
+crossroads to the gods.
+~
+231 0 3
+D5
+The way down the trunk of Yggdrasil lies this way.
+~
+~
+0 -1 23118
+S
+#23105
+A Lower Branch Of Yggdrasil~
+  You are on a limb on the lower level of Yggdrasil.
+~
+231 0 3
+D1
+The main trunk is in this direction.
+~
+~
+0 -1 23102
+S
+#23106
+A Lower Branch Of Yggdrasil~
+  You are on a limb on the lower level of Yggdrasil.
+~
+231 0 3
+D3
+The main trunk is in this direction.
+~
+~
+0 -1 23102
+S
+#23107
+The Roots Of Yggdrasil~
+  You are under the ground among the roots of Yggdrasil.  You
+sense a greater preponderance of evil in this area.  Your
+fellow travelers also tend to be of the evil persuasion.
+~
+231 0 3
+D0
+The roots lead off in this direction.
+~
+~
+0 -1 23123
+D1
+The roots lead off in this direction.
+~
+~
+0 -1 23109
+D2
+The roots lead off in this direction.
+~
+~
+0 -1 23108
+D3
+The roots lead off in this direction.
+~
+~
+0 -1 23110
+D4
+The entrance to the tree is in this direction.
+~
+~
+0 -1 23100
+D5
+The deepest part of the tree is down here.
+~
+~
+0 -1 23112
+S
+#23108
+The Roots Of Yggdrasil~
+  You are in the roots of the great tree.  Many odd creatures
+can be seen and felt wandering in the area.
+~
+231 0 3
+D0
+The roots continue in this direction.
+~
+~
+0 -1 23107
+S
+#23109
+The Roots Of Yggdrasil~
+  You are in the roots of the great tree.  Many odd creatures
+can be seen and felt wandering in the area.
+~
+231 0 3
+D3
+The roots continue in this direction.
+~
+~
+0 -1 23107
+S
+#23110
+The Roots Of Yggdrasil~
+  You are in the roots of the great tree.  Many odd creatures
+can be seen and felt wandering in the area.
+~
+231 0 3
+D1
+The roots continue in this direction.
+~
+~
+0 -1 23107
+S
+#23111
+A Lower Branch Of Yggdrasil~
+  You are on a limb on the lower level of Yggdrasil.
+~
+231 0 3
+D0
+The main trunk is in this direction.
+~
+~
+0 -1 23102
+S
+#23112
+The Deepest Roots Of Yggdrasil~
+  You are at the tree's deepest point.  Looking down from here
+you can almost see the foul and evil realms of the followers
+of evil.  You can faintly hear the screams of their tortured
+victims.
+~
+231 0 3
+D4
+You see the roots of the tree continue in this direction.
+~
+~
+0 -1 23107
+S
+#23113
+A Middle Branch Of Yggdrasil~
+  You are on a limb on the middle level of Yggdrasil.
+~
+231 0 3
+D1
+The main trunk is in this direction.
+~
+~
+0 -1 23117
+S
+#23114
+A Middle Branch Of Yggdrasil~
+  You are on a limb on the middle level of Yggdrasil.
+~
+231 0 3
+D2
+The main trunk is in this direction.
+~
+~
+0 -1 23117
+S
+#23115
+A Middle Branch Of Yggdrasil~
+  You are on a limb on the middle level of Yggdrasil.
+~
+231 0 3
+D3
+The main trunk is in this direction.
+~
+~
+0 -1 23117
+S
+#23116
+A Middle Branch Of Yggdrasil~
+  You are on a limb on the middle level of Yggdrasil.
+~
+231 0 3
+D0
+The main trunk is in this direction.
+~
+~
+0 -1 23117
+S
+#23117
+The Middle Trunk Of Yggrasil~
+  You are in the middle parts of Yggdrasil.  The tree top
+still cannot be seen.  Many travelers are passing you in
+fulfillment of their quests.
+~
+231 0 3
+D0
+A limb branches off in this direction.
+~
+~
+0 -1 23114
+D1
+A limb branches off in this direction.
+~
+~
+0 -1 23115
+D2
+A limb branches off in this direction.
+~
+~
+0 -1 23116
+D3
+A limb branches off in this direction.
+~
+~
+0 -1 23113
+D4
+The trunk continues towards the heavens.
+~
+~
+0 -1 23118
+D5
+The way down the tree is this way.
+~
+~
+0 -1 23102
+S
+#23118
+The Upper Trunk Of Yggrasil~
+  You are in the topmost section of Yggdrasil.  The tree top
+is just above you.  Great power can be sensed in this area. 
+There is also goodness here.
+~
+231 0 3
+D0
+A limb branches off in this direction.
+~
+~
+0 -1 23121
+D1
+A limb branches off in this direction.
+~
+~
+0 -1 23122
+D2
+A limb branches off in this direction.
+~
+~
+0 -1 23119
+D3
+A limb branches off in this direction.
+~
+~
+0 -1 23120
+D4
+The top of the tree can be seen here.
+~
+~
+0 -1 23104
+D5
+The way down the tree is this way.
+~
+~
+0 -1 23117
+S
+#23119
+An Upper Branch Of Yggdrasil~
+  You are on a limb on the upper level of Yggdrasil.
+~
+231 0 3
+D0
+The main trunk is in this direction.
+~
+~
+0 -1 23118
+S
+#23120
+An Upper Branch Of Yggdrasil~
+  You are on a limb on the upper level of Yggdrasil.
+~
+231 0 3
+D1
+The main trunk is in this direction.
+~
+~
+0 -1 23118
+S
+#23121
+An Upper Branch Of Yggdrasil~
+  You are on a limb on the upper level of Yggdrasil.
+~
+231 0 3
+D2
+The main trunk is in this direction.
+~
+~
+0 -1 23118
+S
+#23122
+An Upper Branch Of Yggdrasil~
+  You are on a limb on the upper level of Yggdrasil.
+~
+231 0 3
+D3
+The main trunk is in this direction.
+~
+~
+0 -1 23118
+S
+#23123
+The Roots Of Yggdrasil~
+  You are in the roots of the great tree.  Many odd creatures
+can be seen and felt wandering in the area.
+~
+231 0 3
+D2
+The roots continue in this direction.
+~
+~
+0 -1 23107
+S
+$

@@ -1,0 +1,66 @@
+map drow
+a map of Drow City
+                      Treasury---Dais
+                                  |
+                                  |
+                   /----------The Altar----------\
+                   |         |D| /|\ |D|         |
+                   |         | |  |  | |         |
+                   |         Pit  |  Pit         |
+                   |             / \             |
+                   |     /------/   \------\     |
+                   |     |                 |     |
+                   |     |                 |     |
+                   |     |                 |     |
+                   \--->West<---Main---->East<---/
+                        Side   Chamber   Side
+                         |    /|\ | /|\    |
+                         |     |  |  |     |
+                         \-----/  |  \-----/
+                                  |
+                                Grand
+                               StairWay
+                                 |U|
+                                 |D|
+                    Cleric's----Grand
+                    Barracks   Hallway
+                                  |
+                                  |
+                                Grand-----Mage's
+                               Hallway   Barracks
+                                 |D|
+                                 |U|
+                                Grand           WeaponsMaster's
+                               Stairway             Chamber
+                                  |                    |
+/---------------------------------H--------------------H---------------\
+|                                 |                    |               |
+\---Long------Long------Long---Hallway------Long------Long------Long---/
+   Hallway   Hallway   Hallway    |        Hallway   Hallway   Hallway
+                |                 |
+                |                 |
+             Warrior's         Entrance
+             Barracks            Way
+                                 |U|
+                                 |D|
+                                 Lloth     Mages    4th-----Throne
+            Cleric---Street     Temple   Academy   House     Room
+            Acadamy    |          |         |        |
+                       |          |         |        |
+     Main            Street-----Street----Street---Street      Dead End
+    Chamber            |                    |        |           Path
+       |               |                    |        |           |D|
+       |               |                    |        |           |U|
+     Throne----1st----Main   Warriors     Slave----Street--------City
+      Room    House   Gate   Acadamy     Chamber     |         Entrance
+                       |        |                    |
+                       |        |                    |
+                     Street---Street-----Street----Street
+                       |                   | 
+                       |                   |
+            Throne----2nd                 3rd
+             Room    House               House
+                                           |
+                                           |
+                                         Throne
+                                          Room

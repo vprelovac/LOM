@@ -1,0 +1,163 @@
+#8350
+obj ball colorful~
+a colorful ball~
+A colorful ball lies here in the dirt.~
+~
+9 64 16385
+2 0 10 0
+2 500 100
+A
+13 5
+#8351
+obj serrated short sword~
+a serrated short sword~
+A short sword with a notched blade is lying here.~
+~
+5 0 8193
+0 2 6 11
+5 1250 800
+#8352
+obj white opal ring~
+a white opal ring~
+A ring with a large with opal stone has been dropped here.~
+~
+9 256 3
+0 0 10 0
+1 500 100
+A
+12 5
+#8353
+obj pointy hat~
+a pointy hat~
+A pointy hat lies here in the dust.~
+~
+9 0 17
+2 0 10 0
+3 20 5
+#8354
+obj black pointy hat~
+a black, pointy hat covered with moons and stars~
+A black, pointy hat covered with moons and stars is laying here.~
+~
+9 1 17
+5 0 10 0
+4 5000 1000
+A
+3 1
+#8355
+obj red cloak~
+a red cloak~
+A deep red cloak lies crumpled in the dirt.~
+~
+9 1 5
+5 0 10 0
+5 3000 800
+A
+12 10
+#8356
+obj sword descendents~
+the Sword of the Descendents~
+A shiny metal sword has been carelessly dropped here.~
+undefined~
+5 2097154 8193
+0 4 5 3
+12 10000 1500
+A
+18 1
+A
+19 1
+#8357
+obj walking stick~
+a walking stick~
+A long, polished stick is lying here.~
+~
+11 0 16385
+0 0 10 0
+6 300 50
+A
+14 10
+#8358
+obj bright blue shield~
+a bright blue shield~
+A bright blue shield has been left here.~
+~
+9 0 513
+5 0 10 0
+8 300 75
+#8359
+obj bright blue leg plates~
+a pair of bright blue leg plates~
+A pair of bright blue leg plates has been dropped here.~
+~
+9 0 33
+3 0 10 0
+10 800 200
+#8360
+obj bright blue armplates~
+a pair of bright blue armplates~
+A pair of bright blue armplates has been left here.~
+~
+9 0 257
+4 0 10 0
+8 900 150
+#8361
+obj bright blue breast plate~
+a bright blue breast plate~
+A bright blue breast plate has been dropped here in the dirt.~
+~
+9 0 9
+5 0 10 0
+18 3000 800
+#8362
+obj hero's gauntlets~
+the Hero's Gauntlets~
+A pair of shiny steel gauntlets has been left here.~
+~
+9 1 129
+10 0 10 0
+10 12000 3500
+A
+1 2
+#8363
+obj cask ale~
+a cask of hearty ale~
+A large cask of ale is resting here.~
+~
+15 0 1
+10 0 10 0
+10 270 30
+#8364
+obj cask hearty ale~
+a cask of hearty ale~
+A cask of ale has been left here.~
+~
+17 0 1
+10 10 3 0
+10 270 30
+#8365
+obj little head shrunken~
+a little head~
+A shrunken, severed head has been left here.~
+~
+13 0 16385
+0 0 10 0
+1 5 5
+#8366
+obj corn cob pipe~
+a corn cob pipe~
+A corn cop pipe is lying here.~
+~
+9 0 65537
+30 0 10 0
+1 100 10000
+A
+9 15
+#8367
+obj mauve spice branch~
+some mauve spice~
+A pale purple branch lies here in the dirt.~
+~
+10 0 1
+12 0 12 0
+1 5 5
+$~

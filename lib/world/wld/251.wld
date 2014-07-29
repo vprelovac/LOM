@@ -1,0 +1,553 @@
+#25100
+The Blue Dragon Inner Chambers~
+   This is truly a magnificent place!  Signs of the Blue Dragon clan are spread 
+all over the walls and books and scrolls lie together on many shelves. Dim 
+light radiates from an enormous crystal chandelier hanging down from the 
+ceiling approximately 10 feet off the floor. There are few teleport cabins here 
+with a large sign hanged above them.
+~
+251 220 0
+D0
+~
+~
+0 0 25101
+E
+cabins~
+They look quite egzotic, a real state of the art equipment. There is some kind 
+of a sign hanged above them.
+~
+E
+sign~
+To use a teleport cabin please insert your teleportation card. To get to 
+Midgaard, you don't need a card since all the teleporters will transfer you 
+there by default (just type 'insert midgaard'). Good luck on your travels!
+~
+S
+#25101
+Blue Dragon Avenue~
+   You are standing at the begining of the Blue Dragon avenue, the most
+beatiful street in the world. Here is where the Blue Dragon clan members
+enjoy their evenings together and make jokes about the puny nightsnake
+clan.
+   You can see Papa's home to the west and Carnex's house to the east.
+~
+251 0 0
+D0
+~
+~
+0 0 25106
+D1
+~
+~
+0 0 25104
+D2
+~
+~
+0 0 25100
+D3
+~
+~
+0 0 25102
+S
+#25102
+Papa's Garden~
+   You are standing in front of the Papa's home, enjoying his beautiful
+garden. There is a wooden cottage in front of you, with one window
+and a simple door. It just looks so warm and friendly.
+~
+251 8192 0
+D1
+~
+~
+0 0 25101
+D3
+You can see a small cottage.
+~
+~
+0 0 25103
+S
+#25103
+Papa's Home~
+   Home sweet home! Yeah it feels so good to be here again. 
+It's so warm and nice in front of this fireplace, you could just lie
+down and relax for ever. As the fire crackles slowly, a smell of the 
+food comes from the kitchen making you wish never to leave this place.
+~
+251 2560 0
+D1
+~
+~
+0 0 25102
+S
+#25104
+Enterance to Carnex's house~
+   You are standing at the entrance room of a small house. One thing
+is sure, nobody cleans this room ever. It is dirty and things are
+scattered everywhere around the place. Even if you would know what are you
+searching for, you wouldnt find it in this mess. The smell of smoke is
+present so you think that it is better to leave before house burns and
+collapses on your head.
+~
+251 10752 0
+D1
+~
+~
+0 0 25105
+D3
+~
+~
+0 0 25101
+S
+#25105
+Carnex's House~
+   This room looks better. There is built in fireplace in the northern wall
+with small fire burning. Four corners are hidden by large carved chairs that
+are looking very comfortable. High on the walls there are trophy plates but
+they are empty except one with strange head titled snotling leader. But when
+you've looked around you spotted the mountains of beer and firebreather bottles
+just dropped there. Many of them are boken. Through the glass you see the
+remainings of meals eaten long time ago. In the middle of the room you notice
+a large bump on fur carpet and it feels like dirt pushed under it. Someone
+had to push it under for years to do this!
+~
+251 2560 0
+D3
+~
+~
+0 0 25104
+S
+#25106
+Blue Dragon Avenue~
+   You are standing at the begining of the Blue Dragon avenue, the most
+beatiful street in the world. Here is where the Blue Dragon clan members
+enjoy their evenings together and make jokes about the puny nightsnake
+clan.
+  A small rocky path leads west.
+~
+251 0 0
+D0
+~
+~
+0 0 25111
+D1
+~
+~
+0 0 25116
+D2
+~
+~
+0 0 25101
+D3
+~
+~
+0 0 25107
+S
+#25107
+Loturim Garden~
+You are on a rocky path wiggling through a lush garden. The garden is small,
+yet you discover that there are many plants of peculiar and unknown sorts
+here, skilfully tendered. The entire vegetation is an explosion of colors and
+scents, but you don't find it displeasing; rather, you feel overcome by the
+awesomeness of the atmosphere. It makes you feel like being close to the
+Nature and its mystic elements, and yet you don't dread Her but respect Her.
+In the bottom of the garden you see a strange formation which looks like a
+huge tree with a hollow trunk and large openings in the side. This is Aldamar,
+"Tree-house", obituary of Angelot the Druid.
+~
+251 8192 0
+D1
+~
+~
+0 0 25106
+D3
+~
+~
+0 0 25108
+S
+#25108
+Aldamar~
+  You find yourself inside a great and strong tree which looks like it has
+grown into this shape, hollow interior and windows in the sides, since it was
+but a twig in the ground. The floor is covered with soft vegetation. In one
+corner the vegetation is piled to make a comfortable place for rest.
+There are many shelves on one wall, which look as if made of branches grown
+together and into each other. On the shelves you see lots of strange
+potions, roots, flowers, leaves and peaces of wood. The air is mildly humid
+and the soft forest smell makes you feel relaxed.
+~
+251 2560 0
+D1
+~
+~
+0 0 25107
+S
+#25109
+Thorgal's garden~
+   You are standing in front of Thorgal's humble home, if you can call
+this small wooden cabin a real home, but for Thorgal it is, even this
+small as she is, she has all that you need to feel like at real home.In
+front of the cabin is garden full of flowers and small trees but not far
+to south from cabin grows an huge few hundread  years old Oak tree. Old as
+Thorgal's family is, a family of brave warriors dedicated to good and only
+good.
+~
+251 8192 0
+D1
+~
+~
+0 0 25110
+D3
+~
+~
+0 0 25106
+S
+#25110
+Thorgal's sweet little home~
+  Home, nice and warm, home of your birth and your childhood and above
+everything home of you and your family a centuries ago. This is the place
+where you have been born and you hope to die and be beried in same place
+like your father and his father and so few centuries in past, under the
+great Oak in front of the house.
+~
+251 2560 0
+D3
+~
+~
+0 0 25109
+S
+#25111
+Blue Dragon Avenue~
+   You are standing at the begining of the Blue Dragon avenue, the most
+beatiful street in the world. Here is where the Blue Dragon clan members
+enjoy their evenings together and make jokes about the puny nightsnake
+clan.  
+~
+251 0 0
+D0
+~
+~
+0 0 25116
+D1
+~
+~
+0 0 25114
+D2
+~
+~
+0 0 25106
+D3
+~
+~
+0 0 25112
+S
+#25112
+April's garden~
+   You are standing in the April's garden. While you stand on stone path
+to the small but nice wooden house, you feel something very strange about
+this place, and decide to stepout, wondering why you are stepin in the
+first place.
+
+~
+251 8192 0
+D1
+~
+~
+0 0 25111
+D3
+~
+~
+0 0 25113
+S
+#25113
+April's home~
+   This is the sweet, little home of April. The house is made of wood, 
+and it is not a very comfortable place for living. All the furniture is
+also of made of wood, handmade by April himself (beliave that!). The 
+only decoration on the walls is the ortodox cross and the old icon
+of Sveti Djordje (St.George).
+On the floor you can see a mass of April's equipment.
+On the corner of the house you can se a stairway to second floor.
+On the east you can see a door which leads to the garden.
+
+~
+251 2560 0
+D1
+~
+~
+0 0 25112
+S
+#25114
+AGrrrAghA gURRdEn~
+As you enter the misfortunate orc's garden the first thing you notice
+is a big, fat boar which grumbles something untranslatable in boarish as
+you aproach. The next thing you see is a big sign that says: BEWAAG! DAR
+BURRGH BiTEZ!! As you tiptoe past the the boar which is, luckily chained
+with a big, rusty chain that was once the main weapon of a noticable
+gangland bruiser. As you are getting closer to the house you
+can clearly see that it is not a house, at least not completely.
+
+~
+251 8192 0
+D1
+~
+~
+0 0 25115
+D3
+~
+~
+0 0 25111
+S
+#25115
+gRuntY TeNt-a-hUz~
+The house is actually as Grunt himself puts it a 'modaofayag veragzhn'
+of the humble snotling shamans tent. Of course times are indeed tough so
+Grunt didn't have much time to worry about his hobby, that is his
+inventions including this bizzare mixture of a tent and a house. In a word
+the house is a bloody mess. There are Grunt's thingz everwhere and the
+thing that mostly draws your attention is a couple of really smelly grunt
+socks...typical eh?
+The only thing in the house that is pristine and well taken care of is a
+big canabis plant in the corner of the tent-a-hause which suggests why
+Grunt's skin is so green...anyway that is another story...
+
+~
+251 2560 0
+D3
+~
+~
+0 0 25114
+S
+#25116
+Blue Dragon Avenue~
+   You are standing at the begining of the Blue Dragon avenue, the most
+beatiful street in the world. Here is where the Blue Dragon clan members
+enjoy their evenings together and make jokes about the puny nightsnake
+clan. 
+~
+251 0 0
+D0
+~
+~
+0 0 25121
+D1
+~
+~
+0 0 25119
+D2
+~
+~
+0 0 25111
+D3
+~
+~
+0 0 25117
+S
+#25117
+Max's Garden~
+This is a small yard with trees on the sides of a small rocky path. You
+can hear the nice song of birds. On a large sign here is written:
+    This is the garden of the Max's house all of you are welcome!
+    If you have anything for me please leave it here.
+The small path continues to the large stone house. The house is pretty
+with some roses on the windows and large golden statues in front of the
+entrance.
+~
+251 8192 0
+D1
+~
+~
+0 0 25116
+D3
+Nothing.
+~
+~
+0 0 25118
+S
+#25118
+Max's House~
+You are in large room. Only light here comes from the rounded windows.
+There is a large Pentium 133 Mhz computer here. There is also a large
+bed here and a closet.
+
+~
+251 2560 0
+D1
+~
+~
+0 0 25117
+S
+#25119
+Azeroth's Garden~
+You are standing in small garden, full of grass and flowers. A small path is
+going towards the house. A smell of barbacue is floating in the air... 
+Some trees are rising here and there, and under the bigest one of trees is 
+small bench, and small square table. Grill is by that bench also. 
+You feel very soft breeze on your face, which relaxes you...
+
+~
+251 8192 0
+D1
+~
+~
+0 0 25120
+D3
+~
+~
+0 0 25116
+S
+#25120
+Azeroth's House~
+Aaaah, finaly, home, sweet home..ter all those adventures, something
+you really need is a bed, and one is right in front of you... Anyway, this
+is only safe place where you can put everything you need, and not to worry
+about it. It's absolutely safe.
+
+~
+251 2560 0
+D3
+~
+~
+0 0 25119
+S
+#25121
+Blue Dragon Avenue~
+   You are standing at the begining of the Blue Dragon avenue, the most
+beatiful street in the world. Here is where the Blue Dragon clan members
+enjoy their evenings together and make jokes about the puny nightsnake
+clan.
+~
+251 0 0
+D1
+~
+~
+0 0 25126
+D2
+Nothing.
+~
+~
+0 0 25116
+D3
+~
+~
+0 0 25122
+S
+#25122
+Outside Iurg's house~
+    You find yourself inside beautiful garden, with a small fountain in
+the middle.
+~
+251 8192 0
+D1
+~
+~
+0 0 25121
+D3
+~
+~
+0 0 25123
+S
+#25123
+Inside Iurg's house!~
+    You find yourself inside large room, with a loot of space everywhere!
+~
+251 2560 0
+D1
+~
+~
+0 0 25122
+S
+#25124
+Exterior~
+After passing a large gate visitor can see a jungle of tropical plants ;(including one Carnivore taken from Wolverin's Tower) and wooden house 
+with small and very high placed windows on all sides of house. 
+~
+251 8192 0
+D1
+~
+~
+0 0 25125
+D3
+~
+~
+0 0 25218
+S
+#25125
+Interior~
+Well what You expected from Monk? Only one extremely large room, with  
+various wooden tools, benches on the floor and everything else that a 
+monk might need during training. Walls a decorated with parts from a Sun 
+Tzu's "Art of War" like 'Best Fight Is No Fight' etc. Only fanny thing is 
+a large heap of Wall Street Journals in one of the corners.
+~
+251 2560 0
+D3
+~
+~
+0 0 25124
+S
+#25126
+An Earthen garden of stone~
+ Before the great home of Yisher there is a massive growth of crystalline
+stalagmite. Golden and sparkling with an inner luminescence these stalagmite
+could lead even the most hate filled hearts to peace and tranquillity. By the
+massive, to dwarvish standards, oaken entrance of the rocky dwelling there are
+two ten foot statues raised from the surrounding stone. One statue an aging
+male dwarf of great strength and battle prowess a true testament to bravery
+and heroism, a great warrior but in the eyes, a father's love. The other a
+statue of the dwarven god of battle, bravery, heroism and family history.
+Standing tall and proud without a trace of fear or weakness with an ancient
+battle axe in one hand and his long bread in the other.
+~
+251 8192 0
+D1
+~
+~
+0 0 25127
+D3
+~
+~
+0 0 25121
+S
+#25127
+Inside the cave dwelling~
+ This earthen dwelling is deceptively small due to the abundance of objects
+inside. The walls are breath taking with rich veins of gold and silver running
+through them. A large open fire place with a large stack of oak burning,
+lights and warms the room. Books of all sorts line the walls between the
+mounted trophies and prized family heirlooms. In front of the fire a
+comfortable looking chair and a lit pipe await their owner's return. While the
+rest of the room is filled with various boxes, bags and treasure chests over
+flowing with all types of items. 
+~
+251 2560 0
+D3
+~
+~
+0 0 25126
+S
+#25128
+Empty~
+empty~
+251 0 0
+S
+#25129
+Empty~
+empty~
+251 0 0
+S
+#25130
+Empty~
+empty~
+251 0 0
+S
+#25131
+Empty~
+empty~
+251 0 0
+S
+#25132
+Empty~
+empty~
+251 0 0
+S
+$~

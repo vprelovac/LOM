@@ -1,0 +1,191 @@
+#23000
+balrog small~
+a poor harmless balrog~
+A small winged balrog is here gazing at you with demonic red eyes.
+~
+The Balrog is a winged creature with eyes which seem to pervade your being
+and tear your soul apart.
+~
+2115144 1064 -1000 E
+42 -36 -11 2d100+2500 2d50+20
+350000 0
+8 8 1
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#23001
+balrog winged elder~
+the Elder Balrog~
+The Elder Balrog is here...gnawing happily on your body.
+~
+Well hes trying to consume you, bones and all. Yuck.
+~
+2152 1064 -1000 E
+47 -69 -13 3d60+3600 3d60+20
+500000 0
+8 8 1
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#23002
+balrog winged grand~
+the Grand Balrog~
+The Grand High Balrog is here, kicking your ass
+~
+Hes umm, killing you
+~
+2152 1192 -1000 E
+52 -75 -17 3d100+3000 5d40+10
+800000 0
+8 8 2
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#23004
+slave human chained~
+a human slave~
+A human slave is chained to the wall here.
+~
+He looks pretty pathetic, maybe you should end his misery
+~
+14 0 50 E
+20 -60 0 2d300+100 2d30+20
+4000 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#23005
+kerjim lord evil~
+Kerjim~
+Kerjim, lord of the balrogs sits here on his throne.
+~
+His wings spread throughout the room blocking some exits, his demonic red
+eyes glow as red as blood. He looks very angry.
+~
+2090 557843624 -50 E
+70 -81 -20 10d100+12000 8d30+50
+50000000 0
+8 8 0
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#23006
+lilith~
+Lilith~
+Lileth stands here in all her magnificence.
+~
+She is extremely beutiful, with glowing gold hair cascading down her
+shoulders, adorned with precious jewlery from all over the cosmos.
+~
+2090 136 30 E
+65 -80 -26 3d300+3170 3d50+35
+20000000 0
+8 8 2
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#23007
+corpse undead zombie~
+the corpse~
+The Undead Corpse is here, attempting to persuade you to join the living dead
+~
+Hes just a rotted corpse, with gangly ripped arms and a detachable head
+~
+42 9256 -500 E
+50 -72 -16 3d60+1510 2d70+30
+40000 0
+8 8 0
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#23008
+balrog small guardian~
+a balrog guardian~
+A huge winged balrog is here guarding the skull chest.
+~
+The Balrog is a winged creature with eyes which seem to pervade your being
+and tear your soul apart.
+~
+4716670 20980904 -1000 E
+40 -50 -20 0d0+2000 2d40+40
+800 0
+9 9 1
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#23009
+druid khorne~
+Druid of Khorne~
+A druid of Khorne is here dancing and singing about DEATH!!!
+~
+Nothing.
+~
+4388926 135275688 -1000 E
+35 -40 -10 0d0+500 2d30+30
+612 0
+10 10 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#23010
+balrog guard guardian~
+Captain of balrog guardians~
+The captain of balrog skull chest guardians is here searching for convoy.
+~
+Nothing.
+~
+4388926 536880296 -1000 E
+50 -50 -20 0d0+5000 2d50+50
+612 0
+10 10 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+$

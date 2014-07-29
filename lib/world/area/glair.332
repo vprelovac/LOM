@@ -1,0 +1,992 @@
+#332
+Gnoll Lair~
+33299 35 2
+
+#AUTHOR Leng~
+
+#RESETMSG You hear growling in the shadows~
+
+M 0 33210 2 33202 ; Mob: #6610 the guard gnoll => #6602 mouth of the cave
+E 1 33233 1000 16 ; -- Equip: #6633 gnoll spear (Wield)
+E 1 33204 1000 11 ; -- Equip: #6604 a leather shield (Shield)
+M 0 33206 1 33217 ; Mob: #6606 the gnoll chieftain => #6617 Chieftain's lair
+E 1 33221 10000 5 ; -- Equip: #6621 a leather breast plate   (Body)
+E 1 33230 10000 6 ; -- Equip: #6630 an iron circlet (Head)
+E 1 33234 5000 16 ; -- Equip: #6634 stolen long sword (Wield)
+M 0 33200 3 33207 ; Mob: #6600 a gnoll scout => #6607 central cave
+E 1 33235 1000 3 ; -- Equip: #6635 a tatterd cloak (Neck-1)
+E 1 33206 1000 16 ; -- Equip: #6606 a rusty dirk (Wield)
+M 0 33201 3 33215 ; Mob: #6601 a gnoll warrior => #6615 Chieftain's lair
+E 1 33201 10000 6615 ; -- Equip: #6601 a simple copper bracer (Unknown=6615)
+E 1 33247 1000 16 ; -- Equip: #6647 a spiked club (Wield)
+M 0 33202 4 33226 ; Mob: #6602 a female gnoll => #6626 fire pit
+E 1 33206 10000 16 ; -- Equip: #6606 a rusty dirk (Wield)
+G 1 33232 10000 ; -- Give:  #6632 a green potion
+M 0 33203 4 33222 ; Mob: #6603 a gnoll => #6622 sleeping chamber
+E 1 33233 10000 16 ; -- Equip: #6633 gnoll spear (Wield)
+M 0 33204 1 33212 ; Mob: #6604 an ugly gnoll warrior => #6612 Chieftain's lair
+E 1 33200 10000 16 ; -- Equip: #6600 obsidian ax  (Wield)
+E 1 33201 10000 14 ; -- Equip: #6601 a simple copper bracer (Wrist-L)
+M 0 33205 3 33207 ; Mob: #6605 a gnoll youth => #6607 central cave
+E 1 33205 10000 8 ; -- Equip: #6605 a pair of fur boots (Feet)
+G 1 33244 1000 ; -- Give:  #6644 a hunk of raw meat
+M 0 33207 2 33216 ; Mob: #6607 an elite gnoll warrior => #6616 Chieftain's lair
+E 1 33204 1000 11 ; -- Equip: #6604 a leather shield (Shield)
+E 1 33233 1000 16 ; -- Equip: #6633 gnoll spear (Wield)
+E 1 33201 1000 15 ; -- Equip: #6601 a simple copper bracer (Wrist-R)
+M 0 33208 2 33218 ; Mob: #6608 an elite gnoll warrior => #6618 Chieftain's lair
+E 1 33233 1000 16 ; -- Equip: #6600 obsidian ax  (Wield)
+E 1 33201 10000 15 ; -- Equip: #6601 a simple copper bracer (Wrist-R)
+E 1 33221 10000 5 ; -- Equip: #6621 a leather breast plate   (Body)
+M 0 33209 1 33214 ; Mob: #6609 a female gnoll => #6614 Chieftain's lair
+E 1 33231 10000 2 ; -- Equip: #6631 a simple brass ring (Finger-R)
+G 1 33246 1 ; -- Give:  #6646 a black potion
+O 0 33203 500 33216 ; Object: #6603 A pile of loot => #6616 Chieftain's lair
+O 0 33218 1 33222 ; Object: #6618 A pile of pine brances serve as a gnoll bed. => #6622 sleeping chamber
+O 0 33217 1 33217 ; Object: #6617 a pile of furs => #6617 Chieftain's lair
+O 0 33219 1 33211 ; Object: #6619 A big rock => #6611 Chieftain's lair
+O 0 33220 1 33214 ; Object: #6620 a stone table => #6614 Chieftain's lair
+O 0 33245 1 33225 ; Object: #6645 a chunk of rotten meat  => #6625 trash pit
+O 0 33207 5000 33218 ; Object: #6607 A barrel of ale => #6618 Chieftain's lair
+O 0 33202 1 33201 ; Object: #6602 a small plaque => #6601 Outside of the Gnoll Lair
+S
+$~
+$end~
+
+
+#ROOMS
+#33201
+Outside of the Gnoll Lair ~
+Through a stand of hemlock trees you spot a concealed cave entrance up ahead.
+There is a plaque nailed to a tree, it looks important.
+~
+332 c 4
+D8
+You see eyes glowing in the darkness.
+~
+~
+0 0 33202
+S
+#33202
+mouth of the cave~
+You now stand in the mouth of the cave, guttural voices
+can be heard in the darkness.
+~
+332 d 0
+D7
+the light of day is up ahead
+~
+~
+0 0 33201
+D1
+Exit description
+~
+~
+0 0 33203
+D2
+Exit description
+~
+~
+0 0 33204
+S
+#33203
+the first chamber~
+The cave stinks of unwashed bodies, gnolls are
+not known for their cleanliness.
+~
+332 d 0
+D3
+Exit description~
+~
+0 0 33202
+D2
+Exit description
+~
+~
+0 0 33205
+S
+#33204
+the first chamber~
+The sandy floor of this cave is covered with the
+tracks of large humanoids with clawed feet.
+~
+332 d 0
+D0
+Exit description~
+~
+0 0 33202
+D1
+Exit description
+~
+~
+0 0 33205
+S
+#33205
+the first chamber~
+There is a passage in the southeast wall of the cave
+leading to the central chamber.
+~
+332 d 0
+D0
+Exit description~
+~
+0 0 33203
+D3
+Exit description~
+~
+0 0 33204
+D8
+Exit description
+~
+~
+0 0 33206
+S
+#33206
+central cave~
+The floor of this central chamber is covered with tracks. Tunnels
+branch off to the various living quarters. To the northwest of
+here is the lair's entrance.
+~
+332 d 0
+D7
+Exit description~
+~
+0 0 33205
+D1
+Exit description
+~
+~
+0 0 33207
+D2
+Exit description
+~
+~
+0 0 33209
+S
+#33207
+central cave~
+To the northeast of here you hear some commotion
+emanating from a large chamber.
+~
+332 d 0
+D3
+Exit description~
+~
+0 0 33206
+D2
+Exit description
+~
+~
+0 0 33208
+D6
+Exit description~
+~
+0 0 33210
+S
+#33208
+central cave~
+This place reeks of gnolls. There is a tunnel leading
+to a chamber southeast of here.
+~
+332 d 0
+D3
+Exit description
+~
+~
+0 0 33209
+D0
+Exit description
+~
+~
+0 0 33207
+D8
+Exit description~
+~
+0 0 33219
+S
+#33209
+central cave~
+You here growls echoing from the chamber to the southwest of here.
+~
+332 d 0
+D0
+Exit description
+~
+~
+0 0 33206
+D1
+Exit description~
+~
+0 0 33208
+D9
+Exit description~
+~
+0 0 33223
+S
+#33210
+Chieftain's lair~
+The tunnel opens up to reveal a large chamber swarming with gnolls.
+~
+332 d 0
+D9
+Exit description
+~
+~
+0 0 33207
+D1
+Exit description
+~
+~
+0 0 33211
+D0
+Exit description
+~
+~
+0 0 33213
+S
+#33211
+Chieftain's lair~
+Wall to wall gnolls, it looks like your going to have to hack
+your way through to the chief.
+~
+332 d 0
+D3
+Exit description~
+~
+0 0 33210
+D1
+Exit description
+~
+~
+0 0 33212
+D0
+Exit description
+~
+~
+0 0 33214
+S
+#33212
+Chieftain's lair~
+A crude wall painting on the east wall depicts a gnoll night raid.
+~
+332 d 0
+D3
+Exit description~
+~
+0 0 33211
+D0
+Exit description
+~
+~
+0 0 33215
+S
+#33213
+Chieftain's lair~
+A large painting on the west wall depicts a town in
+flames and gnolls carrying off slain humans for a feast.
+~
+332 d 0
+D1
+Exit description
+~
+~
+0 0 33214
+D2
+Exit description~
+~
+0 0 33210
+D0
+Exit description
+~
+~
+0 0 33216
+S
+#33214
+Chieftain's lair~
+In the center of the chamber is a very large and very
+ugly stone table. How many hapless adventures have
+wound up as food on this grizzly slab.
+~
+332 d 0
+D3
+Exit description~
+~
+0 0 33213
+D1
+Exit description
+~
+~
+0 0 33215
+D2
+Exit description~
+~
+0 0 33211
+D0
+Exit description
+~
+~
+0 0 33217
+S
+#33215
+Chieftain's lair~
+A horrific cave painting on the east wall shows gnolls
+butchering humanoids in preparation for a gory feast.
+~
+332 d 0
+D3
+Exit description~
+~
+0 0 33214
+D2
+Exit description~
+~
+0 0 33212
+D0
+Exit description
+~
+~
+0 0 33218
+S
+#33216
+Chieftain's lair~
+Stashed in this corner of the cave is the loot from
+the gnolls raiding activities.
+~
+332 d 0
+D1
+Exit description
+~
+~
+0 0 33217
+D2
+Exit description~
+~
+0 0 33213
+S
+#33217
+Chieftain's lair~
+This is the chieftain's seat at the head of the cave.
+You made it in but will you make it out?
+~
+332 d 0
+D3
+Exit description~
+~
+0 0 33216
+D1
+Exit description
+~
+~
+0 0 33218
+D2
+Exit description~
+~
+0 0 33214
+S
+#33218
+Chieftain's lair~
+In this corner of the cave is a stack of barrels. They contain 
+ale and mead stolen from the human settlements. After a long 
+night of killing nothing else washes down a half-elf like a tall 
+tankard of ale.
+~
+332 d 0
+D3
+Exit description~
+~
+0 0 33217
+D2
+Exit description~
+~
+0 0 33215
+S
+#33219
+entrance to the sleeping chamber~
+The stench of gnolls lays heavy in the air. Your pulse quickens
+at the thought of impending combat.
+~
+332 d 0
+D7
+Exit description
+~
+~
+0 0 33208
+D1
+Exit description
+~
+~
+0 0 33220
+D2
+Exit description
+~
+~
+0 0 33221
+S
+#33220
+sleeping chamber~
+You almost stumble over a sleeping gnoll.
+Phew... that was close.
+~
+332 d 0
+D3
+Exit description~
+~
+0 0 33219
+D2
+Exit description~
+~
+0 0 33222
+S
+#33221
+sleeping chamber~
+You can see glowing eyes peering out of the gloom.
+~
+332 d 0
+D0
+Exit description~
+~
+0 0 33219
+D1
+Exit description~
+~
+0 0 33222
+S
+#33222
+sleeping chamber~
+Rumbling snores echo around the dark chamber
+~
+332 d 0
+D0
+Exit description
+~
+~
+0 0 33220
+D3
+Exit description
+~
+~
+0 0 33221
+S
+#33223
+smokey chamber~
+There is a tunnel to the northeast of here back to the central cave.
+~
+332 d 0
+D6
+Exit description
+~
+~
+0 0 33209
+D3
+Exit description
+~
+~
+0 0 33224
+D2
+Exit description
+~
+~
+0 0 33225
+S
+#33224
+smokey chamber~
+This chamber is thick with smoke. The gnolls have built
+a fire in here and it's about all you can do to breathe.
+~
+332 d 0
+D1
+Exit description~
+~
+0 0 33223
+D2
+Exit description
+~
+~
+0 0 33226
+S
+#33225
+trash pit~
+The gnolls trash pit is in this corner of the cave.
+A foul smelling pile debris and rotten meat, deemed
+to disgusting for even the gnolls to consume.
+~
+332 d 0
+D0
+Exit description
+~
+~
+0 0 33223
+D3
+Exit description
+~
+~
+0 0 33226
+S
+#33226
+fire pit~
+There is a pit hollowed out in the floor of the cave the
+fire that crackles and sends sparks up to the ceiling of
+the cave. Hunks of meat are squired on spears and driven
+into the floor around the fire to cook.
+~
+332 d 0
+D0
+Exit description~
+~
+0 0 33224
+D1
+Exit description~
+~
+0 0 33225
+S
+$~
+$end~
+
+
+#MOBILES
+#33200
+gnoll scout~
+a gnoll scout~
+The scout is just in from a spy mission.
+~
+Slender and light this gnoll is the most stelthy of the clan.
+~
+g 0 -5 C
+3 17 6 2d10+30 1d3+6
+300 400
+8 8 1
+13 13 13 13 13 13 13
+12 3 0
+C
+#33201
+gnoll warrior~
+a gnoll warrior~
+The warrior gnoll prepares for tonights raid.
+~
+The gnoll sits in the corner checking over his weapons.
+~
+fg 0 500 C
+3 19 9 2d5+50 2d3+2
+450 75
+8 8 1
+13 13 13 13 13 13 13
+12 3 0
+C
+#33202
+female gnoll~
+a female gnoll~
+The female gnoll is not as well armed as the males.
+~
+Although she is not very well armed this female gnoll is
+no less combative than the males of her species.
+~
+g 0 300 C
+2 18 9 2d5+30 1d5+1
+150 200
+8 8 2
+13 13 13 13 13 13 13
+12 2 0
+C
+#33203
+a gnoll~
+a gnoll~
+A gnoll wanders about the lair.
+~
+The gnoll's ears lay back close to his head and his
+lips curl back to reveal a set of nasty looking teeth.
+~
+gm 0 -300 C
+3 18 7 2d5+30 2d3+2
+100 300
+8 8 1
+13 13 13 13 13 13 13
+12 3 0
+C
+#33204
+gnoll warrior~
+an ugly gnoll warrior~
+An ugly gnoll warrior snarls at you.
+~
+Burnt in some night time raid this gnoll warior's face is
+a mass of scar tissue on the right side. His blind right
+eye is a milky white. It wont be long before the clan deems
+him to week to live amongst them.
+~
+g s -400 C
+3 17 6 3d4+25 1d3+6
+300 300
+8 8 1
+13 13 13 13 13 13 13
+12 3 0
+C
+#33205
+Gnoll youth~
+a gnoll youth~
+A gnoll youth hides in the shadows.
+~
+Living off the scraps of the rest of the clan, she bides her
+time and waits to be strong enough to hold her own in the clan.
+~
+gh s -2 C
+1 20 10 2d6+20 1d3+4
+200 50
+8 8 2
+13 13 13 13 13 13 13
+12 2 0
+C
+#33206
+gnoll chieftain~
+the gnoll chieftain~
+The gnoll chieftain sits atop a pile of furs, master of all he surveys.
+~
+This Gnoll is in the prime of his life. He is the biggest,
+strongest and meanest of all of his clan.
+~
+bf 0 10 C
+5 16 6 4d6+50 1d8+2
+1000 750
+6 6 1
+13 13 13 13 13 13 13
+12 3 0
+C
+> all_greet_prog 33~
+if name ($n) == gnoll scout
+or name ($n) ==gnoll warrior
+,asks what news have you of the human intruder ?
+else
+if name ($n) == female gnoll
+mpecho $I gropes the $n gnoll and gives her a sugestive look.
+endif
+if ispc($n)
+,yells the intruder is here kill them!
+endif
+endif
+~
+|
+#33207
+gnoll elite warrior~
+an elite gnoll warrior~
+A elite gnoll guard protects the lair.
+~
+This gnoll is a big mean bully, he snaps and growels at
+all the others. He would be leader if he could kill the
+current chieftain.
+~
+f d -800 C
+4 9 2 3d5+50 3d2+3
+2500 2000
+8 8 1
+13 13 13 13 13 13 13
+12 3 0
+C
+#33208
+elite gnoll warrior~
+an elite gnoll warrior~
+A elite gnoll warrior is here looking for trouble.
+~
+This gnoll is older than most you have seen. Its a rare thing
+to see an old gnoll, as it's gnoll custom to kill the weak,
+meaning that this old gnoll must be a rather accomplished
+warrior to still be alive today.
+~
+f d -400 C
+6 18 9 2d5+65 1d3+8
+2000 50
+8 8 1
+13 13 13 13 13 13 13
+12 3 0
+C
+#33209
+female gnoll~
+a female gnoll~
+A female gnoll struts about the lair.
+~
+She is the chiftain's favorite play thing and its not
+without its advantages. None of the other warriors dare
+to touch her.
+~
+ghm 0 200 C
+3 0 0 2d5+30 2d2+3
+1500 0
+8 8 2
+13 13 13 13 13 13 13
+12 2 0
+C
+#33210
+guard gnoll~
+the guard gnoll~
+The gnoll keeps a watchfull eye on the entrance of the lair.
+~
+This gnoll is one of the younger and weaker of the warriors.
+He is stuck with the task of watching the entrance while the
+others feast.
+~
+bgm 0 -5 C
+3 17 6 2d8+30 1d3+6
+300 400
+8 8 1
+13 13 13 13 13 13 13
+12 3 0
+C
+> rand_prog 5~
+mpecho The gnoll's ears perk up as if it heard something.~
+> rand_prog 5~
+mpecho The gnoll peers into the shadows where you are standing.~
+> rand_prog 5~
+mpecho The gnoll sniffs the air and growls. . .
+mpecho He caught wind of something he didn't like.~
+|
+$~
+$end~
+
+
+#OBJECTS
+#33200
+Obsidian Ax~
+obsidian ax ~
+An axe made of dark obsidian lays here~
+~
+5 0 an
+8 2 8 3
+15 400 0
+#33201
+simple copper bracer~
+a simple copper bracer~
+A simple copper bracer lays here.~
+~
+9 b am
+1 0 0 0
+8 7000 0
+A
+1 1
+A
+13 6
+#33202
+plaque~
+a small plaque~
+~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+plaque brass~
+.                          The Gnoll's Lair
+
+           This zone is recomended for fifth level players
+          or lower. But for the young adventurer this place
+         offers valuable experience and much needed equipment.
+
+                                                     --Leng
+~
+#33203
+treasure stash loot coin~
+A pile of loot~
+A small pile of coins lay on the floor.~
+~
+8 0 a
+1 13 0 0
+15 500 0
+#33204
+leather shield~
+a leather shield~
+A simple leather shield lays here.~
+~
+9 0 aj
+2 2 0 0
+5 0 0
+A
+17 -3
+#33205
+fur boots~
+a pair of fur boots~
+A pair of thick fur boots lays here.~
+~
+9 0 ag
+1 1 0 0
+2 0 0
+A
+14 25
+#33206
+rusty dirk~
+a rusty dirk~
+A corroded blade has been discarded here.~
+~
+5 0 an
+5 2 4 11
+1 0 0
+#33207
+barrel  ale~
+A barrel of ale~
+~
+~
+17 0 a
+30 30 3 0
+25 50 0
+#33217
+pile fur~
+a pile of furs~
+A pile of foul smelling furs.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#33218
+branches~
+A pile of pine branches serve as a gnoll bed.~
+This pile of pine branches serve as a gnoll bed.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#33219
+rock~
+A big rock~
+A big rock serves as an uncomfortable seat.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+rock seat~
+It's the latest in cave furniture big, ugly and durable, 
+not to mention a pain in the ass.
+~
+#33220
+stone table~
+a stone table~
+A crude stone table sits in the middle of the lair.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+stone table crude~
+This is the sum of gnoll craftsmanship, crude and ugly. The stone table is
+little more than a rough-hewn slab propped up by a few large rocks. Its top is
+littered with the scraps of pervious meals.
+~
+#33221
+Lether breast plate~
+a leather breast plate  ~
+The leather breast plate stinks of gnolls.~
+~
+9 0 ad
+2 2 0 0
+5 200 0
+A
+5 1
+A
+13 5
+#33230
+Iron circlet~
+an iron circlet~
+The iron circlet, worn by the gnoll leader to signify rank.~
+~
+9 0 ae
+3 3 0 1
+7 1450 0
+A
+3 1
+A
+4 1
+A
+13 8
+#33231
+Brass Ring~
+a simple brass ring~
+A brass ring bering a simple design lays here.~
+~
+9 g ab
+0 0 0 0
+8 15000 0
+A
+1 1
+A
+13 6
+A
+5 1
+#33232
+green potion~
+a green potion~
+A foul smelling concoction in a crude ceramic vial has been droped here.~
+~
+10 a a
+30 16 67 -1
+2 1500 0
+#33233
+Gnoll Spear~
+gnoll spear~
+A long spear with a rough flint head lays here.~
+~
+5 0 an
+9 2 6 11
+12 750 0
+#33234
+Long Sword~
+stolen long sword~
+A heavy long sword, probably stolen on some night raid.~
+~
+5 0 an
+10 3 6 3
+5 1700 5
+#33235
+tatterd cloak~
+a tatterd cloak~
+A tatterd cloak has been carelessly dropped here.~
+~
+9 0 ak
+1 0 0 0
+5 100 0
+A
+2 1
+A
+13 12
+#33244
+hunk raw meat~
+a hunk of raw meat~
+A hunk of raw meat, waiting to be devoured  ~
+%s noisily eats$q $p.
+~
+19 0 a
+15 0 0 0
+5 15 1
+E
+meat raw~
+This hunk of meat looks fresh and juicy.
+~
+#33245
+meat rotten~
+a chunk of rotten meat ~
+A chunk of rotten meat lays here.~
+~
+19 0 a
+4 0 0 1
+5 14 1
+E
+rotten meat~
+This chunk of meat looks like it will make you blow 
+chunks if you try to eat it.
+~
+#33246
+black potion~
+a black potion~
+A black potion in a skull shaped flask lays here.~
+~
+10 0 a
+15 16 1 -1
+1 1500 0
+#33247
+spike culb~
+a spiked club~
+A heavy club with a spiked head is proped up in the corner.~
+~
+5 0 an
+9 2 3 7
+5 1700 0
+$~
+$end~
+
+
+#SHOPS
+$end~

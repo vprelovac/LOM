@@ -1,0 +1,1205 @@
+#3405
+Inside The Chapel~
+  You are in a small, dark chapel.  The dark brown glass in the tiny windows
+do not let much light through.  A few rows of worn wooden benches stand here.
+~
+34 0 1
+D0
+The chapel door is made of dark wood.
+~
+door~
+1 -1 3154
+D5
+~
+altar~
+2 3430 3421
+E
+glass windows~
+The windows must be meant to be dark.  At least they are completely clean.
+~
+E
+benches rows~
+The benches are not of the comfortable kind.
+~
+S
+#3408
+Stairwell Into Darkness~
+  You sense even more danger coming from below but are urged onward ...
+~
+34 9 0
+D3
+~
+door~
+1 3411 3449
+D5
+~
+~
+0 0 3450
+S
+#3409
+The Acolyte's Bedroom~
+  This is why you were not welcomed at the entrance by the tomb's faithful
+servants ... blood and gore is ankle deep in here.
+Oh NO! the door shut behind you!  It's a trap!
+A bloodied corpse of an acolyte is lying here ...
+A bloodied corpse of an acolyte is lying here ...
+A bloodied corpse of an acolyte is lying here ...
+~
+34 13 0
+E
+corpse corpses~
+Mauled and torn apart ... throats were ripped out and guts spilled on the
+floor ... you slip and land, planting yourself firmly in the slick wetness
+and splattering yourself with offal.
+~
+S
+#3410
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D1
+~
+~
+0 0 3415
+D2
+~
+~
+0 0 3411
+S
+#3411
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D0
+~
+~
+0 0 3410
+S
+#3412
+The Grand Hall Of Kings~
+  You are at the west end of the Grand Hall of Kings.  There is a doorway to 
+the south with something strange written above it.  Also on the floor are dried
+blood stains, but their color seems a little wrong.
+~
+34 9 0
+D1
+~
+~
+0 0 3417
+D2
+A door to the south
+~
+door~
+1 -1 3413
+E
+stain stains~
+That's odd ... they seem a little GREEN.
+~
+E
+door writing~
+Above the door is some strange writing!  It is worn with age, but it refers
+to an ancient ruler named 'Shohan'.
+~
+S
+#3413
+The Shrine Of Shohan~
+  BLOOD EVERYWHERE!
+The walls are coated with blood, bits of bloody flesh lie at your feet,
+and torn clothing is scattered about.  It wouldn't disturb you in the least
+except that it is all FRESH!  What ever used to pass as an altar here,
+lies overturned and smashed.  Doors lead to the south and to the north.
+~
+34 9 0
+D0
+~
+north~
+1 -1 3412
+D2
+~
+south~
+1 -1 3414
+S
+#3414
+The Tomb Of Shohan~
+  Once beautiful, this place has been turned into a slaughterhouse by the hands
+of evil beings ... even more blood and dead, rotting flesh.  This place looks
+like the feeding grounds of beasts and monsters.  The overturned sarcophagus
+of the once powerful King Shohan lies here.  A door leads to the north and a
+doorway has been hewn to the east.
+~
+34 9 0
+D0
+~
+door north~
+1 0 3413
+D1
+~
+~
+0 0 3419
+E
+coffin sarcophagus~
+Now destroyed ... there is writing on it: 'All hail the new king; we serve
+the ShadowLord!  Those who decline his worship shall be slaughtered!'
+~
+S
+#3415
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D1
+~
+~
+0 0 3420
+D2
+~
+~
+0 0 3416
+D3
+~
+~
+0 0 3410
+S
+#3416
+Entrance To The Lower Chambers~
+  You can tell that this area wasn't a part of the original construction.
+The walls have been hewn by a mighty force look as though they were CLAWED.
+The passage slopes upward here and also continues to the north.
+~
+34 9 0
+D0
+~
+~
+0 0 3415
+D4
+~
+tunnel~
+1 -1 3418
+E
+walls~
+Something BIG must have done this job!  There are traces of BLOOD in the
+claw marks.
+~
+S
+#3417
+The Grand Hall Of Kings~
+  This is the western wing of the Grand Hall of Kings.  Your only exits are to
+the east and west in this gloomy hallway.
+~
+34 9 0
+D1
+~
+~
+0 0 3422
+D3
+~
+~
+0 0 3412
+S
+#3418
+The Shrine Of Cristis~
+  Different than the rest, this place has not been desecrated.  An altar still
+stands here and the walls show scenes from the life of Cristis the Kind,
+a ruler of the outlying regions west of Midgaard.  There is a stone staircase
+leading down.  The Ghost of Cristis the Kind stands here.
+~
+34 9 0
+D2
+~
+~
+0 0 3419
+D5
+~
+staircase~
+1 -1 3416
+E
+altar~
+It stands 2 feet high with the remnants of candle-wax on top.  There is
+an inscription on the side:  'Praise the almighty Cristis the bringer of
+good and justice to the world.  He who fought the evilest finally is at
+peace.  May the Gods remember him forever ...'
+~
+E
+ghost cristis~
+His rest has been disturbed by evil creatures who have invaded his domain
+and grave.  He holds up a parchment for you to read:
+
+     Hello stranger and last hope for Midgaard and this tomb!
+   This is a plea for aid by a man long since dead from this Earth.
+     The forces of evil have taken control of this tomb and the
+   Kings of old need your aid to free us and deliver us to peace
+   once again.  I think that I alone have been able to appear and
+   communicate with the mortal world.
+     Roch'tar, the reincarnate Vampire, now rules these tombs.
+   You must find and defeat him and his minions!
+     May God bless you on your Quest!
+~
+S
+#3419
+The Tomb Of Cristis~
+  Everything here has simply been destroyed.   Exits lead north and west.
+~
+34 9 0
+D0
+~
+~
+0 0 3418
+D3
+~
+~
+0 0 3414
+S
+#3420
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D1
+~
+~
+0 0 3425
+D3
+~
+~
+0 0 3415
+S
+#3421
+Entrance Chamber To The Grand Hall Of Kings~
+  Whoever built this place must have been very rich indeed!  Though you did
+enter through a rather small door this place has enough room to hold several
+score of people.  The floor has a beautifully woven carpet, and the walls are
+covered in finely crafted tapestries. You can tell that these things must have
+been worth much but they have not lasted well throughout the ages.  Massive
+doors lead off to the south and a large stone staircase leads up.
+~
+34 9 0
+D2
+Finely polished oak doors stand to the south.
+~
+oak~
+1 -1 3422
+D4
+You see a large set of stone stairs leading upwards to a small stone door at
+the top. 
+~
+stone trapdoor door~
+0 -1 10105
+E
+stone door trapdoor~
+It's rather small and looks quite heavy but maybe with some kind of leverage
+you could move it.  It has a queerly shaped hole that looks big enough
+for an equally queerly shaped pole to fit inside.  If only you had it!
+~
+E
+tapestry tapestries~
+The tapestries were woven into beautiful and exciting scenes of battles
+long ago.  One on the left your shows the historic battle between Jubal the
+Benevolent and Hroth Kragen's forces that eventually Jubal's army won (of
+course).
+~
+E
+staircase stairs~
+Though quite cracked they do look very stable.
+~
+E
+oak~
+They're HUGE!  They are at least 12 feet tall and about 10 feet wide.
+If not for one thing they would be perfectly preserved.  There appears
+to be some letters crudely scratched into the wood.
+~
+E
+letters graffiti~
+'Beware here all of man, because past here lies only death.'
+
+    Insho'rkthon brsskra-lehsn Roch'tar
+
+Beneath, there are two criss-crossing scratchmarks in an X formation that
+look like someone (or something) raked their claws across the wood.
+~
+S
+#3422
+The Grand Hall Of Kings~
+  A long hallway stretches east and west.  On the southern side of the hall
+there are many doors, each with the name of a king who has died and is
+entombed here.  The hallway is beautiful yet chilling.  Even though the area
+has been kept well by acolytes, there remains a stench of the undead.
+~
+34 9 0
+D0
+~
+oak~
+1 -1 3421
+D1
+~
+~
+0 0 3427
+D2
+The door has written above it: 'May all the lands thank Crotus the Victor.
+Without his guidance this kingdom would not have stood.'
+~
+door~
+1 -1 3423
+D3
+~
+~
+0 0 3417
+S
+#3423
+The Shrine Of Crotus~
+  Mostly rubble, this place used to be the shrine of the famous king Crotus,
+who saved the northern regions from being overrun by the goblin hordes of
+100 years ago.  If not for him, Midgaard of course would have eventually been
+conquered as well.  Though Crotus was a goodly king, it was rumored that he
+turned to the dark ways in his dying years ... and died an evil man.
+~
+34 9 0
+D0
+~
+door~
+1 -1 3422
+D2
+~
+~
+0 0 3424
+S
+#3424
+The Tomb Of Crotus~
+  A sarcophagus lies in the middle of the room and seems undisturbed.
+A hole has been knocked into the east wall.
+~
+34 9 0
+D0
+~
+~
+0 0 3423
+D1
+~
+~
+0 0 3429
+S
+#3425
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D2
+~
+~
+0 0 3426
+D3
+~
+~
+0 0 3420
+S
+#3426
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D0
+~
+~
+0 0 3425
+D1
+~
+~
+0 0 3430
+S
+#3427
+The Grand Hall Of Kings~
+  You are in the western part of the Grand Hall of Kings.  To the south is a
+door and to the east and west the hall continues.
+~
+34 9 0
+D1
+~
+~
+0 0 3432
+D2
+~
+door~
+1 -1 3428
+D3
+~
+~
+0 0 3422
+S
+#3428
+The Shrine Of Mitnar~
+  Mitnar was a gruesome beast of a man ... he loved battle ... and nothing
+else.  Warriors did love Mitnar, and all fighting men honored him.
+On the wall is depicted battle after battle after battle.
+A small opening has been shaped carefully to the east.
+~
+34 9 0
+D0
+~
+door~
+1 -1 3427
+D1
+~
+~
+0 0 3433
+D2
+~
+~
+0 0 3429
+S
+#3429
+The Tomb Of Mitnar~
+  The wall paintings show men and women warriors alike bowing down to Mitnar,
+prisoners of war being put to the sword by Mitnar, and great heaps of gold
+and weapons under the feet of Mitnar.  Where his coffin was, there is now
+only a rectangular blemish on the floor of the dusty room.
+~
+34 9 0
+D0
+~
+~
+0 0 3428
+D3
+~
+~
+0 0 3424
+S
+#3430
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D1
+~
+~
+0 0 3435
+D2
+~
+~
+0 0 3431
+D3
+~
+~
+0 0 3426
+S
+#3431
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D0
+~
+~
+0 0 3430
+D1
+~
+~
+0 0 3436
+S
+#3432
+The Grand Hall Of Kings~
+  You are still walking through the gloomy hallway.
+~
+34 9 0
+D1
+~
+~
+0 0 3437
+D3
+~
+~
+0 0 3427
+S
+#3433
+The Shrine Of Frath~
+  Little chunks of dried meat are spattered throughout this room.  The walls
+are covered in gore.  Almost as if they were painted ... ICK!  You can
+almost make out the design!
+~
+34 9 0
+D1
+~
+~
+0 0 3438
+D3
+~
+~
+0 0 3428
+S
+#3434
+The Tomb Of Frath~
+  UGH!  The sarcophagus is opened up and the mummified body lies out in the
+open, ripped to pieces.  Gnawed pieces of flesh and bone are strewn here.
+~
+34 9 0
+D5
+~
+~
+0 0 3439
+S
+#3435
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D1
+~
+~
+0 0 3440
+D2
+~
+~
+0 0 3436
+D3
+~
+~
+0 0 3430
+S
+#3436
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D0
+~
+~
+0 0 3435
+D1
+~
+~
+0 0 3441
+D3
+~
+~
+0 0 3431
+S
+#3437
+The Grand Hall Of Kings~
+  You are at the western end of the Grand Hall of Kings.  There is a
+door leading north and the hallway continues west.
+~
+34 9 0
+D0
+~
+door~
+1 -1 3409
+D3
+~
+~
+0 0 3432
+S
+#3438
+The Shrine Of Jubal~
+  This was once beautiful.  Now the huge tapestries have been torn down and the
+carpeting pulled up ... the paintings on the ceiling are unreadable and the
+altar is crumbled.
+~
+34 9 0
+D2
+~
+~
+0 0 3439
+D3
+~
+~
+0 0 3433
+S
+#3439
+The Tomb Of Jubal~
+  The smell coming off of the opened sarcophagus is nauseating.  The floor is
+slightly crumpled and walls are raked ... but the worst part is the mummy ...
+Jubal the Benevolent is missing his head!
+~
+34 9 0
+D0
+~
+~
+0 0 3438
+D4
+~
+~
+0 0 3434
+S
+#3440
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D1
+~
+~
+0 0 3445
+D2
+~
+~
+0 0 3441
+D3
+~
+~
+0 0 3435
+S
+#3441
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D0
+~
+~
+0 0 3440
+D1
+~
+~
+0 0 3446
+D3
+~
+~
+0 0 3436
+S
+#3442
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D1
+~
+~
+0 0 3447
+D2
+~
+~
+0 0 3443
+S
+#3443
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D0
+~
+~
+0 0 3442
+D2
+~
+~
+0 0 3444
+S
+#3444
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D0
+~
+~
+0 0 3443
+D1
+~
+~
+0 0 3449
+S
+#3445
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D2
+~
+~
+0 0 3446
+D3
+~
+~
+0 0 3440
+S
+#3446
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D0
+~
+~
+0 0 3445
+D2
+~
+~
+0 0 3447
+D3
+~
+~
+0 0 3441
+S
+#3447
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D0
+~
+~
+0 0 3446
+D2
+~
+~
+0 0 3448
+D3
+~
+~
+0 0 3442
+S
+#3448
+The Lower Chambers And Tombs Of The Undead~
+  This room has been totally hollowed out and smoothed, and a pit has been
+drilled in the center of the floor.  There are extensive gruesome paintings
+of beasts and monsters terrorizing the countryside; vampires sucking the
+blood of beasts and humans alike.
+~
+34 9 0
+D0
+~
+~
+0 0 3447
+E
+painting paintings mural~
+There is a tiny painting of a vault in this mural ... and it seems to be a
+reflected picture of the vault ... the word in tiny print is 'rathcor'.
+~
+S
+#3449
+The Lower Chambers And Tombs Of The Undead~
+  The stench of death is heavy in these caverns.
+~
+34 9 0
+D1
+~
+door~
+2 3411 3408
+D3
+~
+~
+0 0 3444
+S
+#3450
+Entrance To The Forbidden Catacombs~
+  You have entered the forbidden catacombs.  This cave system must have been
+built long ago.  The air is dank and smells of something dead ...  or maybe
+undead.  Enter here at your own risk ... something evil abides.
+~
+34 9 0
+D0
+Too dark to tell.
+~
+~
+0 -1 3451
+D1
+Too dark to tell.
+~
+~
+0 -1 3452
+D2
+Too dark to tell.
+~
+~
+0 -1 3453
+D3
+Too dark to tell.
+~
+~
+0 -1 3454
+D4
+~
+~
+0 -1 3408
+S
+#3451
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D1
+Too dark to tell.
+~
+~
+0 -1 3455
+D2
+Too dark to tell.
+~
+~
+0 -1 3450
+S
+#3452
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D0
+Too dark to tell.
+~
+~
+0 0 3461
+D3
+Too dark to tell.
+~
+~
+0 -1 3450
+S
+#3453
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D0
+Too dark to tell.
+~
+~
+0 -1 3450
+S
+#3454
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D1
+Too dark to tell.
+~
+~
+0 -1 3450
+S
+#3455
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D2
+Too dark to tell.
+~
+~
+0 -1 3456
+D3
+Too dark to tell.
+~
+~
+0 0 3451
+S
+#3456
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D0
+Too dark to tell.
+~
+~
+0 -1 3455
+D1
+Too dark to tell.
+~
+~
+0 -1 3457
+S
+#3457
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D2
+Too dark to tell.
+~
+~
+0 -1 3458
+D3
+Too dark to tell.
+~
+~
+0 0 3456
+S
+#3458
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D0
+~
+~
+0 0 3457
+D2
+You see unfathomable blackness to the south ...
+~
+~
+0 -1 3472
+D3
+Too dark to tell.
+~
+~
+0 -1 3459
+S
+#3459
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D1
+Too dark to tell.
+~
+~
+0 -1 3458
+D3
+You see something's den.
+~
+~
+0 -1 3460
+S
+#3460
+Den Of The Vampire~
+  Your mind whirls in the hideous madness of this place.  The stench
+is horrendous and dead bodies, sucked of life, lay all over.  One coffin
+lies in the center of the room ... waiting for YOU!
+~
+34 9 0
+D1
+Too dark to tell.
+~
+~
+0 -1 3459
+D5
+A jet black coffin ... who knows what lurks beneath.
+~
+coffin~
+2 3419 3475
+S
+#3461
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D1
+Too dark to tell.
+~
+~
+0 0 3462
+D2
+Too dark to tell.
+~
+~
+0 0 3452
+S
+#3462
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D2
+Too dark to tell.
+~
+~
+0 0 3463
+D3
+Too dark too tell.
+~
+~
+0 0 3461
+S
+#3463
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D0
+Too dark to tell.
+~
+~
+0 0 3462
+D1
+Too dark to tell.
+~
+~
+0 0 3464
+S
+#3464
+The Catacombs~
+  Stone walls, musty air ... the earth seems to moan softly.
+~
+34 9 0
+D1
+There is a secret door here.
+~
+secret~
+1 -1 3470
+D2
+Too dark to tell.
+~
+~
+0 0 3465
+D3
+Too dark to tell.
+~
+~
+0 0 3463
+S
+#3465
+The Gilded Hallway~
+  Wow!  Although this hallway is quite filthy and dusty, it is noticeably
+different than the rest of the catacombs ... but you don't feel safe yet.
+The walls faintly show ancient detailed etchings in gold and silver of
+ancient rituals ... not all of which seem pleasant.  The hallway continues
+north into the catacombs and further south as long as you can see.
+~
+34 9 0
+D0
+The glow of your light reflects off the walls and you see the catacombs.
+~
+~
+0 0 3464
+D2
+The glow of your light reflects off the walls ... the gilded hallway.
+~
+~
+0 0 3466
+E
+etchings~
+Beautiful yet disturbing, they urge you to move onward.
+~
+S
+#3466
+The Gilded Hallway~
+  Ancient etchings and writing in intricate gold and silver designs fill these
+walls.  You are tempted to linger and examine them closely.  Your light source
+flickers off the walls showing you exits north and south.
+~
+34 9 0
+D0
+Your light reveals more of the hallway.
+~
+~
+0 0 3465
+D2
+Your light reveals more of the hallway.
+~
+~
+0 0 3467
+E
+etchings~
+Beautiful yet disturbing, they urge you to move onward.
+~
+S
+#3467
+The Gilded Hallway~
+  Ancient etchings and writing in intricate gold and silver designs fill these
+walls.  You are tempted to linger and examine them closely.  Your light source
+flickers off the walls showing you exits north and south.
+~
+34 9 0
+D0
+Your light reveals more of the hallway.
+~
+~
+0 0 3466
+D2
+Your light reveals more of the hallway.
+~
+~
+0 0 3468
+E
+etchings~
+Beautiful yet disturbing, they urge you to move onward.
+~
+S
+#3468
+The Gilded Hallway~
+  Ancient etchings and writing in intricate gold and silver designs fill these
+walls.  You are tempted to linger and examine them closely.  Your light source
+flickers off the walls showing you exits north and south.
+~
+34 9 0
+D0
+Your light reveals more of the hallway.
+~
+~
+0 0 3467
+D2
+Your light reveals more of the hallway.
+~
+~
+0 0 3469
+E
+etchings~
+Beautiful yet disturbing, they urge you to move onward.
+~
+S
+#3469
+The Gilded Hallway~
+  Ancient etchings and writing in intricate gold and silver designs fill these
+walls.  You are tempted to linger and examine them closely.  Your light source
+flickers off the walls showing you exits north.
+~
+34 9 0
+D0
+Your light reveals more of the hallway.
+~
+~
+0 0 3468
+E
+etchings~
+Beautiful yet disturbing, they urge you to move onward.
+~
+S
+#3470
+A Secret Passageway~
+  A secret passage!  You wonder where it may lead!
+~
+34 9 0
+D2
+Too dark to tell.
+~
+~
+0 0 3471
+E
+east secret door~
+The door closed on you so softly that you didn't even notice!
+~
+S
+#3471
+A Secret Passageway~
+  A secret passage!  You wonder where it may lead!
+~
+34 9 0
+D0
+Too dark to tell.
+~
+~
+0 0 3470
+S
+#3472
+The Short Way To Hell ...~
+  You fall ...
+            hmm .... it's getting really HOT!
+You fall ...
+                        you fall ...
+     Slowly you are cooking as you fall further ... your skin is burning and
+your hair evaporates ...
+
+                                           you fall ...
+
+                 and fall ...
+
+                                     AND STOP!
+
+Welcome to HELL!
+
+But even in Hell we give you another chance.
+~
+34 12 0
+S
+#3475
+Inside The Coffin~
+  You are inside a coffin.  It seems rather cramped in here.  You can climb
+up out of the coffin, or you can wait for here the real occupant to join you.
+~
+34 9 0
+D4
+~
+lid coffin~
+1 3419 3460
+S
+$~

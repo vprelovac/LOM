@@ -1,0 +1,227 @@
+#20000
+sentry~
+The Sentry to the Goblin Caves~
+The Sentry to the Goblin Caves stands at attention here.
+~
+He looks like a powerful man that could easily defeat an opponent.
+
+The Sentry to the Goblin Caves tells you, 'Abandon all hope ye who enter here'
+~
+2 128 500 E
+19 3 0 10d10+100 10d10+50
+1000 -100
+8 8 1
+E
+#20001
+wizard~
+An Ancient Wizard~
+An Ancient Wizard stands here as to prevent you from entering the caves.
+~
+You realize as you look upon this wizened Wizard, that you must defeat him in 
+combat before you can enter the caves.  Why waste the effort, you should really 
+take the easy way out and leave.
+~
+2 8192 0 E
+10 3 0 10d9+50 10d9+70
+1000 -100
+8 8 1
+E
+#20002
+goblin~
+Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+34 9248 0 E
+10 13 3 2d7+134 2d7+2
+1000 -100
+8 8 1
+E
+#20003
+goblin~
+Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+34 9248 0 E
+10 14 5 2d7+134 2d7+2
+1000 -100
+8 8 1
+E
+#20004
+goblin~
+Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+32 9248 0 E
+10 16 4 2d7+134 2d7+2
+1000 -100
+8 8 1
+E
+#20005
+goblin~
+Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+32 9248 0 E
+10 13 4 2d7+134 2d7+2
+1000 -100
+8 8 1
+E
+#20006
+goblin~
+Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+32 9248 0 E
+10 15 4 2d7+134 2d7+2
+1000 -100
+8 8 1
+E
+#20007
+goblin~
+Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+32 9248 0 E
+10 15 3 2d7+134 2d7+2
+1000 -100
+8 8 1
+E
+#20008
+goblin~
+Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+32 9248 0 E
+10 15 3 2d7+134 2d7+2
+1000 -100
+8 8 1
+E
+#20009
+goblin~
+A Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+32 9248 0 E
+12 13 2 3d11+168 3d17+0
+1000 -100
+8 8 1
+E
+#20010
+goblin~
+A Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+32 9248 0 E
+12 13 6 3d11+168 3d17+0
+1000 -100
+8 8 1
+E
+#20011
+goblin~
+A Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+32 9248 0 E
+13 13 5 3d11+192 3d17+0
+1000 -100
+8 8 1
+E
+#20012
+goblin~
+A Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+32 9248 0 E
+13 14 5 3d11+192 3d17+0
+1000 -100
+8 8 1
+E
+#20013
+goblin~
+A Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+32 9248 0 E
+13 13 4 6d9+180 6d9+0
+1000 -100
+8 8 1
+E
+#20014
+goblin~
+A Goblin Soldier~
+A Loyal soldier to the Goblin King stands at attention here.
+~
+You have never in your life seen anything so ugly!!!
+~
+32 9248 0 E
+13 3 0 6d9+11 6d9+15
+1000 -100
+8 8 1
+E
+#20015
+goblin king~
+Goblin King~
+The Goblin King is here ordering you to kneel.
+~
+As you bow toward this king you end up falling over in a fit of laughter.
+~
+2 9248 0 E
+23 3 -3 9d17+91 9d17+40
+1000 -100
+8 8 1
+E
+#20016
+goblin captain~
+Captain of the Goblin Soldiers~
+The Captain of the Goblin Soldiers stands here.
+~
+The Captain of the Goblin Guard appears to be drunk...
+~
+32 9248 0 E
+17 11 2 2d7+309 2d7+9
+1000 -100
+8 8 1
+E
+#20017
+captive creature~
+Captive of the Goblins~
+A poor defenseless creature is here, urging you to look at it.
+~
+The Creature tells you, 'Please kill me, my life is over and i can't take the 
+torture anymore.  In return i shall give you the key to a secret doorway that 
+leads to the king.  This door is .....'.  The poor creature faints.
+~
+2 8192 0 E
+1 19 12 2d7+1 2d7+0
+1000 -100
+8 8 1
+E
+$
+
+
+
+Mob special remarks

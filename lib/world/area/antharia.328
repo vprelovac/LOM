@@ -1,0 +1,2185 @@
+#328
+Antharia~
+32899 35 2
+
+#AUTHOR Amadeus /Aragon~
+
+M 0 32803 4 32800 
+M 0 32802 1 32802 
+M 0 32800 20 32802 
+E 1 32840 1 17 
+E 1 32816 1 16 
+E 1 32813 1 6 
+E 1 32810 1 7 
+E 1 32837 1 14 
+E 1 32804 1 1 
+M 0 32818 4 32802 
+E 1 32840 1 17 
+E 1 32818 1 16 
+E 1 32815 1 6 
+E 1 32812 1 7 
+E 1 32839 1 14 
+E 1 32806 1 1 
+M 0 32800 4 32804 
+E 1 32840 1 17 
+E 1 32816 1 16 
+E 1 32813 1 6 
+E 1 32810 1 7 
+E 1 32807 1 14 
+E 1 32804 1 1 
+M 0 32803 4 32806 
+M 0 32800 4 32807 
+E 1 32840 1 17 
+E 1 32816 1 16 
+E 1 32813 1 6 
+E 1 32810 1 7 
+E 1 32837 1 14 
+E 1 32804 1 1 
+M 0 32803 4 32810 
+G 1 32801 1 
+M 0 32809 4 32811 
+M 0 32800 4 32812 
+E 1 32840 1 17 
+E 1 32816 1 16 
+E 1 32813 1 6 
+E 1 32810 1 7 
+E 1 32837 1 14 
+E 1 32804 1 1 
+M 0 32810 4 32812 
+E 1 32831 1 13 
+M 0 32814 5 32814 
+E 1 32832 1 7 
+M 0 32814 5 32814 
+M 0 32814 5 32814 
+E 1 32832 1 7 
+M 0 32815 5 32814 
+E 1 32832 1 7 
+M 0 32815 5 32814 
+M 0 32815 5 32814 
+E 1 32832 1 7 
+M 0 32823 4 32815 
+E 1 32840 1 17 
+E 1 32817 1 16 
+E 1 32814 1 6 
+E 1 32811 1 7 
+E 1 32838 1 14 
+E 1 32805 1 2 
+M 0 32823 4 32815 
+E 1 32840 1 17 
+E 1 32817 1 16 
+E 1 32814 1 6 
+E 1 32811 1 7 
+E 1 32838 1 14 
+E 1 32805 1 2 
+M 0 32803 4 32817 
+G 1 32801 1 
+M 0 32818 4 32818 
+E 1 32840 1 17 
+E 1 32818 1 16 
+E 1 32815 1 6 
+E 1 32812 1 7 
+E 1 32809 1 14 
+E 1 32806 1 1 
+M 0 32800 4 32819 
+E 1 32816 1 16 
+E 1 32813 1 6 
+E 1 32810 1 7 
+E 1 32837 1 14 
+E 1 32804 1 1 
+M 0 32809 4 32819 
+M 0 32810 4 32820 
+E 1 32831 1 13 
+M 0 32800 4 32821 
+E 1 32840 1 17 
+E 1 32816 1 16 
+E 1 32813 1 6 
+E 1 32810 1 7 
+E 1 32837 1 14 
+E 1 32804 1 1 
+M 0 32803 4 32822 
+D 0 32822 4 2 
+M 0 32823 4 32823 
+E 1 32840 1 17 
+E 1 32817 1 16 
+E 1 32814 1 6 
+E 1 32811 1 7 
+E 1 32838 1 14 
+E 1 32805 1 2 
+M 0 32823 4 32823 
+E 1 32840 1 17 
+E 1 32817 1 16 
+E 1 32814 1 6 
+E 1 32811 1 7 
+E 1 32838 1 14 
+E 1 32805 1 2 
+M 0 32800 4 32826 
+E 1 32840 1 17 
+E 1 32816 1 16 
+E 1 32813 1 6 
+E 1 32810 1 7 
+E 1 32837 1 14 
+E 1 32804 1 1 
+M 0 32818 4 32826 
+E 1 32840 1 17 
+E 1 32818 1 16 
+E 1 32815 1 6 
+E 1 32812 1 7 
+E 1 32839 1 14 
+E 1 32806 1 1 
+M 0 32823 4 32828 
+E 1 32840 1 17 
+E 1 32817 1 16 
+E 1 32814 1 6 
+E 1 32811 1 7 
+E 1 32838 1 14 
+E 1 32805 1 2 
+M 0 32803 4 32832 
+M 0 32810 4 32832 
+M 0 32823 4 32833 
+E 1 32840 1 17 
+E 1 32817 1 16 
+E 1 32814 1 6 
+E 1 32811 1 7 
+E 1 32838 1 14 
+E 1 32805 1 2 
+M 0 32823 4 32833 
+E 1 32840 1 17 
+E 1 32817 1 16 
+E 1 32814 1 6 
+E 1 32811 1 7 
+E 1 32838 1 14 
+E 1 32805 1 2 
+M 0 32800 4 32834 
+E 1 32840 1 17 
+E 1 32816 1 16 
+E 1 32813 1 6 
+E 1 32810 1 7 
+E 1 32837 1 14 
+E 1 32804 1 1 
+M 0 32800 4 32836 
+E 1 32840 1 17 
+E 1 32816 1 16 
+E 1 32813 1 6 
+E 1 32810 1 7 
+E 1 32837 1 14 
+E 1 32804 1 1 
+M 0 32803 4 32837 
+M 0 32809 4 32837 
+E 1 32830 1 12 
+M 0 32840 1 32840 
+G 1 32835 1 
+G 1 32803 1 
+M 0 32841 1 32841 
+G 1 32822 1 
+G 1 32821 1 
+G 1 32820 1 
+G 1 32819 1 
+M 0 32844 1 32844 
+M 0 32845 1 32845 
+G 1 32802 1 
+M 0 32848 1 32848 
+G 1 32800 1 
+G 1 32836 1 
+G 1 32834 1 
+M 0 32800 4 32852 
+E 1 32840 1 17 
+E 1 32816 1 16 
+E 1 32813 1 6 
+E 1 32810 1 7 
+E 1 32837 1 14 
+E 1 32804 1 1 
+M 0 32809 4 32852 
+E 1 32830 1 12 
+M 0 32818 4 32852 
+E 1 32840 1 17 
+E 1 32818 1 16 
+E 1 32815 1 6 
+E 1 32812 1 7 
+E 1 32839 1 14 
+E 1 32806 1 1 
+M 0 32818 4 32854 
+E 1 32840 1 17 
+E 1 32818 1 16 
+E 1 32815 1 6 
+E 1 32812 1 7 
+E 1 32839 1 14 
+E 1 32806 1 1 
+M 0 32860 1 32860 
+M 0 32861 1 32861 
+M 0 32862 1 32862 
+M 0 32863 1 32863 
+M 0 32864 1 32864 
+M 0 32865 1 32865 
+O 0 32833 1 32866 
+M 0 32870 1 32870 
+M 0 32871 1 32871 
+S
+$~
+$end~
+
+
+#ROOMS
+#32800
+Entrance Street~
+As you enter from the sea, you suddenly are aware of a type of
+stability and balance that is not typical of being underwater.
+Standing and walking is now almost like being in the open air, thanks
+to the power of the Gem of Salvation.
+    Looking ahead you can see the Temple of Anthar just a bit further
+to the north.  The city looks huge from here, even though you know
+that a great portion of the northern section of the city is now in
+ruins, with the waning power of the Gem.  Antharians are walking
+everywhere, a serious people.  They do not seem to be totally
+heartless, just aware of what they have to do to survive.  "Work
+before play" is the motto that Antharians live by.
+    Looking directly up..you can see a clear shot right to the
+surface..you're amazed at how easy it is to notice the sun at this
+depth.  More Antharian magic, you think.
+~
+328 0 2
+D0
+The entrance street continues.
+~
+~
+0 -1 32801
+S
+#32801
+Entrance Street~
+As you get closer to the Temple of Anthar, the power of the gem
+becomes more and more resonate.  The Temple of Anthar is just a bit
+further to the north, and from here you can see the big Gem of
+Salvation mounted on top of it.  The Gem looks, from here, to be a
+huge red stone mounted in a golden tripod.  There is a faint, but
+visible ray of light that emits from the gem, blanketing the city in a
+protective aura.  The sheer power that emits from the gem is awesome
+in iteslf, the wizards of ancient Antharia must have been akin to
+gods.
+    The street continues north from here to the Temple, or south back
+to the Sea.
+~
+328 0 2
+D0
+The Temple of Anthar
+~
+~
+0 -1 32802
+D2
+Entrance street to Antharia.
+~
+~
+0 -1 32800
+S
+#32802
+Temple of Anthar~
+You are standing just south of the grand temple of Anthar.  This seems
+to be the center of life in the city of Antharia -- Antharians are
+passing by here on a regular basis.  Also, you can almost hear the
+humming power radiating from the Gem of Salvation mounted upon the
+Temple.  
+    From here you can walk around the temple to the east or west...or
+you can return to the Sea by going south.  There is also a Magical
+sign posted here, put up by the councils of Antharia after the initial
+contact with Anon.
+~
+328 fh 2
+D1
+One of the main roads of Antharia.
+~
+~
+0 -1 32803
+D2
+The entrance road of Antharia.
+~
+~
+0 -1 32801
+D3
+One of the main roads of Antharia.
+~
+~
+0 -1 32809
+E
+Sign~
+**ATTENTION NON-ANTHARIANS**
+
+    At this point in time, it is illegal for any non-Antharian to
+enter the Temple of Antharia.  As we speak, democratic relations with
+the other races are making progress to allow this policy to be
+removed.  Please bear with us and do not attempt to enter the most
+holy temple.
+
+				     The Joint Councils of Antharia
+~
+S
+#32803
+Main Road of Antharia~
+You are walking around the grand Temple of Anthar towards the
+east.  The road here is very well kept, and protected day and night by
+the guards of Antharia.  Antharians flash you a quick smile as they
+pass, busy in their work.  Looking around there are many private
+residents visible, their houses hugging the road just like any other
+city of this size.  Although old, they are well kept and in good
+condition.
+~
+328 0 2
+D0
+Temple Circle.
+~
+~
+0 -1 32804
+D1
+Main road of Antharia.
+~
+~
+0 -1 32837
+D3
+Temple of Anthar.
+~
+~
+0 -1 32802
+S
+#32804
+Temple Circle~
+This road circles around the Grand Temple of Anthar.  Just
+standing here, you feel the magnitude of just how much was put into
+its building.  You can only imagine at the amount of labor force it
+took to build something of this magnitude.  Now, with the Gem of
+Salvation mounted on the top of the temple, it is even more
+impressive.  The temple seems to be a focus of tremendous power, you
+feel that if you could just get inside, you could aquire some of that
+power.  
+    The road continues to the north and south.
+~
+328 0 2
+D0
+Temple Circle.
+~
+~
+0 -1 32805
+D2
+Main street of Antharia.
+~
+~
+0 -1 32803
+S
+#32805
+Temple Circle~
+Taking a closer look at the temple from this angle, you can tell
+that it is made of many different levels. It seems to be built almost as
+a pyramid:  large at the base, and getting smaller as it goes up.  The
+connections between the levels seems to be implicable, almost perfect
+in their accuracy.  You wonder, did the wizards help in this
+accomplishment, or were the Antharian masons of that time incredibly
+good?  Maybe the secret lies within the temple....
+~
+328 0 2
+D2
+Temple Circle.
+~
+~
+0 -1 32804
+D3
+Temple Circle.
+~
+~
+0 -1 32806
+S
+#32806
+Temple Circle at Kaer's Bridge~
+You are standing just north of the Temple of Anthar, and just
+south of Kaer's Bridge.  According to Antharian history, Kaer was a
+king just prior to the catastrophy that forced Antharia underwater.
+Wanting to be remembered for all time, he had this bridge built in his
+name.  It is a bridge made of the same material as the Temple --
+something that we have no knowledge of today.  However, you can feel
+the material, and it feels smooth and glossy..almost like ivory.  You
+assume that this bridge once spanned a river or something of that
+nature; however, now this bridge spannes a channel filled with the
+same water that you are now breathing.
+~
+328 0 2
+D0
+Kaer's Bridge.
+~
+~
+0 -1 32818
+D1
+Temple Circle.
+~
+~
+0 -1 32805
+D3
+Temple Circle.
+~
+~
+0 -1 32807
+S
+#32807
+Temple Circle~
+Taking a closer look at the the temple from this angle, you can
+tell that it is made of many different levels.  Seems to be built
+almost as a pyramid:  large at the base, and getting smaller as it
+goes up.  The connections between the levels seems to be implicable,
+almost perfect in its accuracy.  You wonder, did the wizards help in
+this accomplishment, or were the Antharian masons of that time
+incredibly good?  Maybe the secret lies within the temple...
+~
+328 0 2
+D1
+Temple circle.
+~
+~
+0 -1 32806
+D2
+Temple circle.
+~
+~
+0 -1 32808
+S
+#32808
+Temple Circle~
+This road circles around the grand Temple of Anthar.  Just
+standing here, you feel the magnitude of just how much was put into
+its building.  You can only imagine at the amount of labor it took to
+build something of this magnitude.  Now, with the Gem of Salvation
+mounted on the top of the temple, it is even more impressive.  The
+temple seems to be a focus of tremendous power, you fell that if you
+could just get inside, you could aquire some of that power.
+~
+328 0 2
+D0
+Temple circle.
+~
+~
+0 -1 32807
+D2
+Main street of Antharia.
+~
+~
+0 -1 32809
+S
+#32809
+Main Street of Antharia~
+You are walking around the grand Temple of Anthar towards the
+east.  The road here is very well kept, and protected day and night by
+the guards of Antharia.  Antharians flash you a quick smile as they
+pass, busy in their work.  Looking around, there are many private
+residents visible, their houses hugging the road just like any other
+city of this size.  Although old, they are well kept and in good
+condition.
+~
+328 0 2
+D0
+Temple Circle.
+~
+~
+0 -1 32808
+D1
+Before the Temple of Anthar.
+~
+~
+0 -1 32802
+D3
+Main street of Antharia.
+~
+~
+0 -1 32810
+S
+#32810
+Main Street Before Zaertses'~
+Here the main street of Antharia goes past the shop of Zaertses.
+Just south of here is a building, simple and rustic -- with a sign
+hanging on it stating: Zaertses House of Relics.
+      The street continues east and west.
+~
+328 0 2
+D1
+Main street of Antharia.
+~
+~
+0 -1 32809
+D2
+Zaertses' House of Relics.
+~
+~
+0 -1 32840
+D3
+Main street of Antharia.
+~
+~
+0 -1 32811
+S
+#32811
+Main Street of Antharia~
+Here the street makes a sharp turn to the north and east.
+~
+328 0 2
+D0
+Main street of Antharia
+~
+~
+0 -1 32812
+D1
+Main street of Antharia
+~
+~
+0 -1 32810
+S
+#32812
+Main Street of Antharia~
+The main street of Antharia continues north and south.
+~
+328 0 2
+D0
+Main street of Antharia.
+~
+~
+0 -1 32814
+D2
+Main Street of Antharia.
+~
+~
+0 -1 32811
+S
+#32814
+Main Street of Antharia~
+In this particular section of street there are children playing
+games.  Running and playing, they make you remember your childhood.
+Just like all children, these children have that internal need to
+play IN the street -- instead of in the park or other, more sensible
+places.  
+     Instead of running in fright, these children seem to be intrigued
+by your presence.  Looking at you in curiosity, they almost look as
+though they might talk to you.
+~
+328 0 2
+D0
+East intersection
+~
+~
+0 -1 32815
+D2
+Main street of Antharia
+~
+~
+0 -1 32812
+S
+#32815
+East Intersection -- Main and Center~
+This is the busy east intersection of Antharia.  From here one and
+go north, south, east or west.  This seems to be a very busy section
+of town.
+     There is a small street sign posted here.
+~
+328 0 2
+D0
+Main street of Antharia.
+~
+~
+0 -1 32820
+D1
+Center street.
+~
+~
+0 -1 32816
+D2
+Main street of Antharia.
+~
+~
+0 -1 32814
+D3
+Street of Guilds.
+~
+~
+0 -1 32850
+E
+sign~
+Ertuvia the weaponsmith........East
+Heaustf the Armorer............East
+Cyrtpea the Sorceress..........North
+Zaertses house of relics.......South
+
+Guilds of races................West
+
+~
+S
+#32816
+Center Street~
+This street seems to split modern Antharia right through the
+middle, connecting the eastern part of the city to the western.  
+Antharians are passing by continually, possibly on their way to see
+Heaustf, or maybe to visit the Temple of Anthar.  Walking on Center
+street leaves you no doubt that this is really a major city.
+~
+328 0 2
+D1
+Center street.
+~
+~
+0 -1 32817
+D3
+Main street of Antharia.
+~
+~
+0 -1 32815
+S
+#32817
+Center Street~
+You are standing here in the exact center of modern Antharia.
+There is a heavy amount of traffic, as people go to and from the
+Temple of Anthar via the bridge, and also this street is a shortcut
+across town.
+     Just north of here is a dignified building of Ertuvia the
+Weaponsmith.  Instead of the clanging of metal that is usually
+associated with weaponsmiths, there is only the sound of talking
+coming from the building.
+    There is a small street sign here.
+~
+328 0 2
+D0
+Ertuvia's shop.
+~
+~
+0 -1 32844
+D1
+Center street.
+~
+~
+0 -1 32819
+D2
+Kaer's Bridge.
+~
+~
+0 -1 32818
+D3
+Center street.
+~
+~
+0 -1 32816
+E
+sign~
+Ertuvia the weaponsmith........north
+Hearstf the armorer............east
+
+Kaer's bridge..................south
+
+Temple of Anthar...............south
+
+Street of Guilds...............west
+
+~
+S
+#32818
+Kaer's Bridge~
+As with most bridges built in the past, the bridge rises in the
+center and comes down on both ends.  From here it is a little easier
+to see parts of the city.  Two things stand out more than the rest
+though: the Temple of Anthar to the south, and a larger, more
+spectacular building to the far north.  You assume that this northern
+building is part of the ruins of grand Antharia.
+    This bridge is used heavily, as it connects the Temple Circle to
+Center street.
+~
+328 0 2
+D0
+Center street.
+~
+~
+0 -1 32817
+D2
+Temple Circle.
+~
+~
+0 -1 32806
+S
+#32819
+Center Street~
+This street seems to split modern Antharia right in the middle,
+making the connection from the eastern part of the city, to the
+western.  Antharians are passing by continually, on their way to see
+Ertuvia or maybe visit the Temple of Anthar.  Walking on Center street
+leaves you know doubt that this is really a bustling city.
+   Just north of here is the shop of Heaustf the Armorer.  As with the
+case with Ertuvia, there is no sound of metal upon metal coming from
+the building..just the sound of Antharian voices.
+~
+328 0 2
+D0
+Heaustf's armory.
+~
+~
+0 -1 32845
+D1
+Main street of Antharia.
+~
+~
+0 -1 32833
+D3
+Center street.
+~
+~
+0 -1 32817
+S
+#32820
+Main Road of Antharia~
+Walking along this road is never boring.  Even though it is very
+symetrical in form, the houses and people that you pass never leave
+you with nothing to study.  Just the fact that this city could have
+survived at all under these conditions is amazing in itself, but for
+their artwork and architecture to survive is a miracle.
+     Antharians are very good at making simple houses look like
+mansions.  After the house is built (all of which are quite old now),
+the Antharian family spends the rest of their life adding carvings and
+paintings to their individual houses.  As generations pass, this
+artwork gets more and more impressive.  Antharians are very proud of
+their heritage.
+~
+328 0 2
+D0
+Main street of Antharia.
+~
+~
+0 -1 32821
+D2
+East intersection.
+~
+~
+0 -1 32815
+S
+#32821
+Main Road of Antharia~
+Here the road makes a sharp turn to the east and south.  This
+seems to be a less traveled section of the city.
+~
+328 0 2
+D1
+Main road of Antharia.
+~
+~
+0 -1 32822
+D2
+Main road of Antharia.
+~
+~
+0 -1 32820
+S
+#32822
+Main Road of Antharia~
+Walking along the northern edge of the current Antharia, you can
+look north and see the ruins of what was the rest of the grand
+Antharia.  Antharians now call what Antharia was in the past, "grand
+Antharia", and they tell the story of grand Antharia not unlike
+gospel.  The Antharians are very proud of their heritage and grand
+Antharia is a major part of that heritage.  Right now, there is a kind
+of magic wall between this section of the city, and the older ruined
+section.  Representatives from the other races and the city of
+Anon are working to gain permission to explore this section of
+Antharia.  
+    At this point in time, on Zaertses is allowed to explore these
+ruins.  He is known to tell stories sometimes; however, he is usually
+very quiet about the things that he has seen.  What wanders await us
+in the ruins of grand Antharia?
+~
+328 0 2
+D1
+The main street of Antharia.
+~
+~
+0 -1 32823
+D3
+Bend in the main road.
+~
+~
+0 -1 32821
+D4
+~
+~
+-15 32815 32866
+S
+#32823
+Main Road of Antharia~
+Standing here are two Antharians guarding the portal into the ruins of
+grand Antharia.   Not that anyone could enter without the key -- the
+portal is magically locked by a very powerful wizard.  Right now, only
+Zaertses owns a copy of this key, and it's secret is guarded with
+incredible zeal.  One day it is hoped that anyone can apply for
+admission into the ruins, but not now.
+~
+328 0 2
+D1
+Main road of Antharia.
+~
+~
+0 -1 32824
+D3
+Main road of Antharia.
+~
+~
+0 -1 32822
+S
+#32824
+Main Road of Antharia~
+Walking along the northern edge of the current Antharia, you can
+look north and see the ruins of what was the rest of the grand
+Antharia.  Antharians now call what Antharia was in the past, "grand
+Antharia", and they tell the story of grand Antharia not unlike gospel.
+The Antharians are very proud of their heritage and grand Antharia is
+a major part of that heritage.  Right now, there is a kind of magic
+wall between this section of the city, and the older ruined section.
+Representatives from the other races and the city of Anon are
+working to gain permission to explore this section of Antharia.
+    At this point in time, only Zaertses is allowed to explore these
+ruins.  He is known to tell stories sometimes; however, he is usually
+very quiet about the things that he has seen.  What wanders await us
+in the ruins of grand Antharia?
+    To the south you see the shop of the Sorceress Cyrtpea.  The
+building seems to radiate with power.
+~
+328 0 2
+D1
+Small intersection.
+~
+~
+0 -1 32826
+D2
+Shop of Cyrtpea.
+~
+~
+0 -1 32848
+D3
+Main road of Antharia.
+~
+~
+0 -1 32823
+S
+#32826
+Small Intersection~
+Here the main bends to the west, with a less traveled road going to
+the east.  There is a small sign here.
+~
+328 0 2
+D1
+a new road.
+~
+~
+0 -1 32827
+D2
+Main street of Antharia.
+~
+~
+0 -1 32832
+D3
+Main road of Antharia.
+~
+~
+0 -1 32824
+E
+sign~
+**The Great Antharian Zoo  ----------------------------->>>
+
+~
+S
+#32827
+A New Road~
+This road seems to be recently built, leading from the Main street
+to some location to the east.
+~
+328 0 2
+D1
+Zoo gate.
+~
+~
+0 -1 32828
+D3
+Main street of Antharia.
+~
+~
+0 -1 32826
+S
+#32828
+Zoo Gate~
+You are standing at the gate of the zoo of Antharia.  Looking
+through the gate, you get a glimpse of known and unknown animals
+contained therein.  According to the Antharians, the zoo was built
+before the catastophy -- as hard as that might be to believe.  It is
+said that the Council of Clerics at that time insisted that the zoo be
+one of the protected areas.  They wished to preserve the endangered and
+unusual animals that they had aquired through the generations.  Now,
+this is the most extensive and important zoo in the world, as it
+contains animals that is found nowhere else.
+    As with many of aspects of the Antharian culture, this zoo is not
+currently opened to non-Antharians.  Hopefully, the other races can
+convince the Antharians to allow other races to explore and
+investigate the zoo.
+~
+328 0 2
+D3
+a new road.
+~
+~
+0 -1 32827
+S
+#32832
+Main Road of Antharia~
+Walking along this road is never boring.  Even though it is very
+symetrical in form, the houses and people that you pass never leave
+you with nothing to study.  Just the fact that this city could have
+survived at all under these conditions is amazing in itself, but for
+their artwork and architecture to survive is a miracle.
+    Antharians are very good at making simple houses look like
+mansions.  After the house is built (all of which are quite old), the
+Antharian family spends the rest of their life adding carvings and
+paintings to their individual houses.  As generations pass, this
+artwork gets more and more impressive.  Antharians are very proud of
+their heritage.
+~
+328 0 2
+D0
+Main street of Antharia.
+~
+~
+0 -1 32826
+D2
+East intersection of Antharia.
+~
+~
+0 -1 32833
+S
+#32833
+East Intersection -- Main and Center~
+This is the east intersection of the city of Antharia.  The road
+continues to the north and south, and Center Street goes to the west.
+    There is a road sign posted here.
+~
+328 0 2
+D0
+Main street of Antharia.
+~
+~
+0 -1 32832
+D2
+Main street of Antharia.
+~
+~
+0 -1 32834
+D3
+Center street.
+~
+~
+0 -1 32819
+E
+sign~
+Cyrtpea the Sorceress........North
+Heaustf the Armorer..........East
+Ertuvia the Weaponsmith .....East
+Irghum's Eatery .............South      
+
+~
+S
+#32834
+Main Street of Antharia~
+Leaving the wonderful smell of the eatery, the road continues
+north.  Just ahead you can see a big intersection.
+~
+328 0 2
+D0
+Main street of Antharia.
+~
+~
+0 -1 32833
+D2
+Main street of Antharia.
+~
+~
+0 -1 32835
+S
+#32835
+Main Road at Eatery~
+Standing here, you can smell the fantastic foods that is being
+prepared and sold inside the shop to the east.  Sometimes it's hard to
+find a smiling Antharian; however, every one that comes out of this
+shop has a very big smile on..and usually something in their hand that
+looks VERY good.
+   The main road continues to the north and south, if you ever want to
+leave.
+~
+328 0 2
+D0
+Main road of Antharia.
+~
+~
+0 -1 32834
+D1
+Irghum's Antharian Eatery.
+~
+~
+-1 -1 32841
+D2
+Main road of Antharia.
+~
+~
+0 -1 32836
+S
+#32836
+Turn in the Main Road~
+Here the main road makes a sharp turn to the north, following the
+high walls surrounding the city.  The road also continues back to the
+west towards the Temple of Anthar.
+    After standing here a moment you decide that it IS food that you
+are smelling.  Your mouth waters as you smell an aroma of fine
+Antharian food coming from the north.
+~
+328 0 2
+D0
+MAin road of Antharia.
+~
+~
+0 -1 32835
+D3
+Main road of Antharia.
+~
+~
+0 -1 32837
+S
+#32837
+Main Road of Antharia~
+The paved road of Antharia continues to the west.  There are
+houses of every shape form and fashion lining the sides of the street.
+Every so often you can hear the cry of an infant Antharian coming from
+these houses.  Although they are different from the other races, they
+still have a lot in common with them.  Moreover, the Antharian seem
+content with their lives underwater, showing no signs of resentment
+that their once great empire was completely forgotton on the surface.
+    The road continues from here to the west and to the east.
+~
+328 0 2
+D1
+Main road of Antharia
+~
+~
+0 -1 32836
+D3
+Main road of Antharia
+~
+~
+0 -1 32803
+S
+#32840
+Zaertses' House of Relics~
+This one room shop is absolutely amazing.  There are cases and
+shelves filled with trinkets and other unusual objects.  Zaertses
+himself is studying a new piece of artwork that he found in the ruins
+of Grand Antharia.  Zaertses is the only person allowed, at this point
+in time, to visit those ruins north of current Antharia.  Some of the
+things he displays here in his shop, very few (of which there are
+many) he sells, and the most valuble objects are displayed in a museum
+Antharians are convinced is located in the heart of the Temple of
+Anthar.
+~
+328 0 2
+D0
+Main street of Antharia.
+~
+~
+0 -1 32810
+S
+#32841
+Irghum's Antharian Eatery~
+Heaven.  Every type of Antharian food can be found here, from
+simple breads to complex meals.  Irghum is standing behind the counter
+fixing something as you stand there.  Working as a master craftsman,
+he produces a product that would make any chef red with envy.  Looking
+around, it is obvious that Irghum is not hurting for business.  It is
+said that every Antharian visits Irghum at least once a month, and on
+special occasions.  Antharians love their food and love Irghum.
+~
+328 d 2
+D3
+Main street of Antharia.
+~
+~
+-1 -1 32835
+S
+#32844
+Ertuvia's Weapon Shop~
+You are standing in the shop of the distingushed Antharian,
+Ertuvia.  Ertuvia is considered, by the Antharians, to be a
+artist -- and he commands respect from them.  There are weapons lining
+the walls, of every shape and form.  There are also certain weapons
+that are obviously of Antharian origin.  You wonder what exactly those
+weapons are, and what kind of price Ertuvia will charge you for them.
+~
+328 0 2
+D2
+Center street.
+~
+~
+0 -1 32817
+S
+#32845
+Heaustf's Armory~
+You are standing in a shop that looks more like a museum than an
+armory.  In Antharian society, the art of making Armor is very highly
+respected.  Heaustf is one of the most important people in Antharian
+society, being the maker of this armor.  His shop does not look like
+an regular armory would -- dirty, smelly, or dark.  Rather, it is
+clean, with Heaustf running the shop like a king running his kingdom.
+~
+328 0 2
+D2
+Center street.
+~
+~
+0 -1 32819
+S
+#32848
+Workplace of Cyrtpea the Sorceress~
+It is said that Cyrtpea actually has knowledge of some of the
+magics of ancient Antharia, although she denies this to the fullest
+degree.  However, she does keep her workplace as close to the ruins
+of grand Antharia as possible, and is known to to make special visits
+to Zaertses.  Common Antharians are convinced that Cyrtpea will make
+the discovery that will bring Antharia back to the splendor that it
+once knew.  
+    The building itself seems to radiate with magical power, even
+touching you -- a non Antharian.  Cyrtpea sits at her desk, looking at
+books that you are sure hold the secrets of the world.
+~
+328 0 2
+D0
+Main road of Antharia
+~
+~
+0 -1 32824
+S
+#32850
+Guild Street~
+You are walking along Guild street, where all the different races in
+the world are represented.  This street is fairly new, built after the
+meeting between Antharia and the rest of the overwater world.
+   The street continues to the west, and goes back to the West
+intersection directly to the east.
+~
+328 0 2
+D1
+West intersection.
+~
+~
+0 -1 32815
+D3
+Guild street.
+~
+~
+0 -1 32851
+S
+#32851
+Guild Street~
+You are walking along Guild street, where all the races of the
+world have representatives to help you along while you're here.  They
+can answer any questions and help you with diplomatic problems.  
+   Just to the north is the Human guild.  The street continues to the
+east and west. The Illithid guild lies to the south.
+~
+328 0 2
+D0
+Human guild.
+~
+~
+0 -1 32860
+D1
+Guild street.
+~
+~
+0 -1 32850
+D2
+Illithid Guild.
+~
+~
+0 -1 32870
+D3
+Guild street.
+~
+~
+0 -1 32852
+S
+#32852
+Guild Street~
+You are walking along Guild street, where all the races of the
+world have representatives to help you along while you're here.  They
+can answer any questions and help you with diplomatic problems.
+    The Dwarven guild is just south.  Guild street goes east and west.
+The Avian guild is due north of here.
+~
+328 0 2
+D0
+Avian Guild.
+~
+~
+0 -1 32871
+D1
+Guild street.
+~
+~
+0 -1 32851
+D2
+Dwarven guild.
+~
+~
+0 -1 32865
+D3
+Guild street.
+~
+~
+0 -1 32853
+S
+#32853
+Guild Street~
+You are walking along Guild street, where all the races have
+representatives to help you while you're here.  They can answer and
+questions, and help you with any diplomatic problems.
+    The Druid guild is to the north, while the Elven guild is to the
+south.  Guild street runs east and west.
+~
+328 0 2
+D0
+Druid guild.
+~
+~
+0 -1 32861
+D1
+Guild street.
+~
+~
+0 -1 32852
+D2
+Elven guild.
+~
+~
+0 -1 32864
+D3
+Guild street.
+~
+~
+0 -1 32854
+S
+#32854
+Guild Street~
+You are at the end of Guild street, where all the races of the
+world have representatives to help you while you're here.  They can
+answer any questions, and help you with any diplomatic problems.
+   The Kender guild is to the north, while the Antharian guild is to
+the south.  Guild street runs towards the east.
+~
+328 0 2
+D0
+Kender guild.
+~
+~
+0 -1 32862
+D1
+Guild street.
+~
+~
+0 -1 32853
+D2
+Antharian guild.
+~
+~
+0 -1 32863
+S
+#32860
+Human Guild~
+You are standing in the small, bare building of the human guild.
+The representative from the human race is standing here willing to
+help any of her fellow humans here in Antharia.
+   The exit door to the south leads back to guild street.
+~
+328 0 2
+D2
+Guild street.
+~
+~
+0 -1 32851
+S
+#32861
+Druid's Guild~
+You are standing in the small, bare building of the Druidic guild.
+The representative from the Druids is standing here willing to help
+any of his fellow druids here in Antharia.
+   The exit directly to the south leads to Guild street.
+~
+328 0 2
+D2
+Guild street.
+~
+~
+0 -1 32853
+S
+#32862
+Kender Guild~
+You are standing in the small, bare building that houses the
+Kender guild.  The representative from the Kender is standing here
+willing to help any of her fellow Kender in Antharia.
+    The exit directly to the south leads to Guild street.
+~
+328 0 1
+D2
+Guild street.
+~
+~
+0 -1 32854
+S
+#32863
+Antharian Guild~
+You are standing in the building that houses the Antharian guild.
+This building is a little less bare than the other guilds, being
+financed directly by the Antharian government.  The Antharian
+representative is here helping his fellow Antharians in dealing with
+the other races, and with dealing with YOU.  This Antharian is
+important in the diplomatic relationship between Antharia and the
+other races of the world.
+   The exit directly to the north leads back to guild street.
+~
+328 0 2
+D0
+Guild street.
+~
+~
+0 -1 32854
+S
+#32864
+Elven Guild~
+You are standing in the small, bare building that houses the Elven
+guild.  The representative from the Elves is standing here willing to
+help any of her fellow elves here in Antharia.
+    The exit directly to the north leads back to Guild street.
+~
+328 0 2
+D0
+Guild street.
+~
+~
+0 -1 32853
+S
+#32865
+Dwarven Guild~
+You are standing in the small, bare building of the Dwarven guild.
+The representative from the Dwarves is standing here willing to help
+any of his fellow Dwarves here in Antharia.
+   The exit directly to the north leads to Guild street.
+~
+328 0 1
+D0
+Guild street.
+~
+~
+0 -1 32852
+S
+#32866
+Forgotten Room~
+This room is full of cobwebs and dust..as no one has been here in
+such a long time.   You have obviously stumbled upon a part of
+Antharian history, as the room still looks like it did 2000 yrs ago.
+~
+328 ce 1
+S
+#32870
+Illithid Guild~
+You are standing in the small, bare building that houses the
+Illithid guild.  The representative from the Illithid is standing here
+willing to help any of her fellow Illithids in Antharia.
+    The exit directly to the north leads to Guild street.
+~
+328 0 1
+D0
+Guild street.
+~
+~
+0 -1 32851
+S
+#32871
+Avian Guild~
+You are standing in the small, bare building that houses the
+Avian guild.  The representative from the Avian is standing here
+willing to help any of her fellow Avian in Antharia.
+    The exit directly to the south leads to Guild street.
+~
+328 0 1
+D2
+Guild street.
+~
+~
+0 -1 32852
+S
+$~
+$end~
+
+
+#MOBILES
+#32800
+Antharian Peace Guard~
+an Antharian Peace Guard~
+An Antharian Peace guard is watching you here.
+~
+A tall Antharian is standing before you.  You have no doubt that this
+being can keep the peace...his presence is enough in itself.
+~
+gm 0 800 S
+25 20 -10 1d1+999 2d10+20
+12000 0
+8 8 1
+#32802
+Suretin~
+Suretin~
+Suretin, a healer-priest of Anthar, is here.
+~
+You see an older Antharian, not too old, just old enough to command
+your respect.  He is here healing people in the name of Anthar, the
+god of the Antharians.
+~
+m 0 1000 S
+35 21 -10 1d1+999 2d10+20
+3000 0
+8 8 1
+#32803
+Sucker fish~
+a sucker fish~
+A sucker fish is here keeping the streets clean.
+~
+These sucker fish have been trained and domesticated to roam the
+streets of Antharia and keep them clean.  They seem to like it and the
+Antharians seem to like it.  All in all, these fish are pretty
+content.
+~
+cgm 0 0 S
+10 5 0 1d1+999 2d10+20
+12000 0
+8 8 0
+#32809
+Antharian citizen~
+an Antharian citizen~
+An Antharian citizen is standing here.
+~
+All Antharians share a standard trait: curiosity.  Instead of being
+frightened of you, a foreigner, the Antharian will study you --
+looking at every detail.  
+   This Antharian seems to be a simple citizen, going about on his
+daily schedule.
+~
+gm 0 0 S
+15 15 -2 1d1+999 2d10+20
+12000 0
+8 8 1
+#32810
+Antharian citizen~
+an Antharian citizen~
+An Antharian citizen is standing here.
+~
+All Antharians share a standard trait: curiosity.  Instead of
+being frightened of you, a foriegner, the Antharian will study you --
+looking at every detail.
+    This Antharian seems to be a simple citizen, going about with her
+daily schedule.
+~
+gm 0 0 S
+16 16 -3 1d1+999 2d10+20
+12000 0
+8 8 2
+#32814
+Antharian child~
+an Antharian child~
+An Antharian child is playing here.
+~
+Like children of any race, these Antharian children's sole interest
+right now in life is play.  PLAY PLAY PLAY!   They try to drag you
+into the fray to play with them.
+~
+gm 0 0 S
+9 9 0 1d1+999 2d10+20
+12000 0
+8 8 1
+#32815
+Antharian child~
+an Antharian child~
+An Antharian child is playing here.
+~
+Like children of any race, the sole interest in these children's
+mind right now is play.  PLAY PLAY PLAY!  They try to drag you into
+their games.
+~
+m 0 0 S
+9 9 0 1d1+999 2d10+20
+12000 0
+8 8 2
+#32818
+Antharian Knight~
+an Antharian Knight~
+An Antharian knight is here.
+~
+These Antharians are impressive.  The only information that
+non-Antharians have of the knights are that they are very good, and
+very mysterious.   It is said that they are knighted in a very intense
+ceremony in the Temple of Anthar.
+~
+m 0 0 S
+42 20 -20 1d1+999 2d10+20
+12000 0
+8 8 1
+#32823
+High Guard~
+High Guard of Antharia~
+A High Guard of Antharia is here.
+~
+Having been promoted to High Guard, these guards are even more
+powerful and impressive than the Peace Guards.  These guards are here
+to make sure that law and order is maintained, and so it shall.
+~
+gm d 250 S
+32 16 -10 1d1+999 2d10+20
+12000 0
+8 8 1
+#32840
+Zaertses~
+Zaertses~
+Zaertses is here trying to sell you an old Antharian relic.
+~
+Zaertses spends most of his life trying to collect and restore old and
+powerful Antharian relics.  Of these, he will sell some, and keep the
+others for himself.  He also donates some relics to the Antharian
+councils, which are said to be displayed in a museum inside the
+Temple.
+~
+bm 0 400 S
+99 20 -10 1d1+999 2d10+20
+12000 0
+8 8 1
+#32841
+Irghum~
+Irghum~
+Irghum is here fixing fine Antharian foods.
+~
+You see a smiling Antharian, whose sole purpose in life is to make and
+sell Antharian food.  He is highly respected, as producing good food
+in this underwater world is not easy.
+~
+bm 0 500 S
+99 20 -15 1d1+999 2d10+20
+12000 0
+8 8 1
+#32844
+Ertuvia~
+Ertuvia~
+Ertuvia is here, a master of the Antharian weapons of war.
+~
+You see a tall, strong Antharian, with a presence that even seems
+heavy compared to the other Antharians.  In this society, weaponsmiths
+are artists of war, and he looks like he could paint a very clear
+portrait of death.
+~
+bm 0 800 S
+32 20 -10 1d1+999 2d10+20
+12000 0
+8 8 1
+#32845
+Heaustf~
+Heaustf~
+Heaustf, the maker of fine Antharian armor, is here.
+~
+Here stands an Antharian who seems to know more than you could ever
+dream.  In Antharian society, the art of making fine armor has been
+passed from generation to generation.  The secret is well kept, and
+rightly so -- for their's is the best.
+~
+bm 0 500 S
+99 20 -10 1d1+999 2d10+20
+12000 0
+8 8 1
+#32848
+Cyrtpea~
+Cyrtpea~
+Cyrtpea, sorceress of Antharia, is here staring into your soul.
+~
+Cyrtpea is one of the few Antharians that still have any knowledge of
+Antharian magic.  Most of their magic was lost in the Great
+Transformation, and Cyrtpea and her colleages work hard to recover as
+much of this lost magic as possible.
+~
+bm m 400 S
+99 25 -20 1d1+999 2d10+20
+12000 0
+8 8 2
+#32860
+Human Representative~
+a human representative~
+A human representative is standing here.
+~
+A young human is here looking at you.  She is the representative
+from the human race here in Antharia.
+~
+bm 0 0 S
+40 5 5 1d1+999 2d10+20
+12000 0
+8 8 2
+#32861
+Druidic Representative~
+a druidic representative~
+A representative from the druids is standing here.
+~
+A young druid is here looking at you.   He is the representative
+from the druids here in Antharia.
+~
+bm 0 0 S
+40 8 0 1d1+999 2d10+20
+12000 0
+8 8 1
+#32862
+Kender Representative~
+a kender representative~
+A kender representative is standing here.
+~
+A young Kender is standing here looking at you.  She is the
+representative from the Kender race here in Antharia.
+~
+bm 0 0 S
+40 8 0 1d1+999 2d10+20
+12000 0
+8 8 2
+#32863
+Antharian Representative~
+an antharian representative~
+An atharian beaurocrat is standing here.
+~
+A young Antharian is standing here looking for you.  He is the
+representative from the Antharian government here to answer questions
+from visitors.
+~
+bm 0 0 S
+40 9 0 1d1+999 2d100+20
+12000 0
+8 8 1
+#32864
+Elven Representative~
+an elven representative~
+An elven representative is standing here.
+~
+A young elf is here looking at you.  She is the representative from
+the elven race here in Antharia.
+~
+bm 0 0 S
+40 5 5 1d1+999 2d10+20
+12000 0
+8 8 2
+#32865
+Dwarven Representative~
+a dwarven representative~
+A dwarven representative is standing here.
+~
+A young Dwarf is here looking at you.  He is the representative
+from the Dwarven race here in Antharia.
+~
+bm 0 0 S
+40 5 5 1d1+999 2d10+20
+12000 0
+8 8 1
+#32870
+illithid Representative~
+an illithid representative~
+An illithid representative is standing here.
+~
+A young Illithid is standing here looking at you.  She is the
+representative from the Illithid race here in Antharia.
+~
+bm 0 0 S
+40 8 0 1d1+999 2d10+20
+12000 0
+8 8 2
+#32871
+avian Representative~
+an avian representative~
+An avian representative is standing here.
+~
+A young avian is standing here looking at you.  She is the
+representative from the avian race here in Antharia.
+~
+b 0 0 S
+40 8 0 1d1+999 2d10+20
+12000 0
+8 8 2
+$~
+$end~
+
+
+#OBJECTS
+#32800
+mother pearl~
+mother of pearl~
+A Mother of Pearl is shining here.~
+~
+9 g ao
+8 0 0 0
+10 4000 400
+A
+5 3
+A
+17 -20
+#32801
+green gem~
+a green gem~
+A green gem is here.~
+~
+9 i ao
+8 0 0 0
+10 4000 400
+A
+2 1
+A
+1 1
+#32802
+sea shell armor~
+a sea turtle shell~
+A shell from a sea turtle works as a nice piece of armor.~
+~
+9 b ad
+8 0 0 0
+10 4000 400
+A
+17 -20
+A
+18 1
+#32803
+giant clamshell~
+a giant clamshell~
+This is a giant clamshell used to store things.~
+~
+15 a ao
+8 1 24100 0
+20 4000 400
+#32804
+Antharian Signet ring~
+an Antharian signet ring~
+This is an Antharian Signet ring, worn by all defenders of Antharia.~
+~
+9 a ab
+8 0 0 0
+5 5000 500
+A
+17 -5
+#32805
+Antharian Signet ring~
+an Antharian signet ring~
+This is an Antharian Signet ring, worn by all defenders of Antharia.~
+~
+12 ao ab
+8 0 0 0
+5 5000 500
+A
+17 -10
+#32806
+Antharian Signet ring~
+an Antharian signet ring~
+This is an Antharian Signet ring, worn by all defenders of Antharia.~
+~
+12 ao ab
+8 0 0 0
+5 1000 100
+A
+17 -20
+A
+9 -10
+A
+12 10
+#32807
+Antharian plate mail~
+Antharian plate mail~
+This is a piece of fine Antharian plate mail.~
+~
+9 fs ad
+8 0 0 0
+50 1000 100
+A
+2 1
+A
+14 40
+A
+18 1
+A
+19 1
+A
+6 -1
+#32808
+Antharian plate mail~
+Antharian plate mail~
+A fine piece of Antharian plate mail is here.~
+~
+9 fs ad
+8 0 0 0
+50 1000 100
+A
+2 1
+A
+18 2
+A
+14 40
+A
+17 -10
+#32809
+Antharian plate mail~
+Antharian plate mail~
+A fine piece of Antharian plate mail is here.~
+~
+9 k ad
+8 0 0 0
+50 5000 500
+A
+2 1
+A
+19 2
+A
+6 -1
+#32810
+synthetic fin~
+a pair of synthetic fins~
+A pair of fins, of Antharian make, are here.~
+~
+9 i af
+8 0 0 0
+15 1000 100
+A
+14 150
+#32811
+synthetic fin~
+a pair of synthetic fins~
+A pair of fins, of Antharian make, are here.~
+~
+9 i af
+8 0 0 0
+15 1000 100
+A
+14 200
+#32812
+synthetic fin~
+a apir of synthetic fins~
+A pair of fins, of Antharian make, are here.~
+~
+9 i af
+8 0 0 0
+15 1000 100
+A
+14 250
+#32813
+Antharian helmet~
+an Antharian helmet~
+A helmet made of Antharian metals is here.~
+~
+9 a ae
+8 0 0 0
+15 1000 100
+A
+12 20
+#32814
+Antharian helmet~
+an Antharian helmet~
+A helmet made of Antharian metals is here.~
+~
+9 a ae
+8 0 0 0
+15 1000 100
+A
+12 30
+#32815
+Antharian helmet~
+an Antharian helmet~
+A helmet made of Antharian metals is here.~
+~
+9 a ae
+8 0 0 0
+15 1000 100
+A
+12 40
+A
+24 -5
+#32816
+Trident~
+a sparkling trident~
+A sparkling trident, of Antharian make, is here.~
+~
+5 i ajn
+0 0 0 11
+10 1000 100
+A
+13 20
+#32817
+trident~
+a sparkling trident~
+A sparkling trident, of Antharian make, is here.~
+~
+5 i ajn
+0 0 0 11
+10 1000 100
+A
+13 30
+#32818
+trident~
+a sparkling trident~
+A sparkling trident, of Antharian make, is here.~
+~
+5 i ajn
+0 0 0 11
+15 1000 100
+A
+13 40
+#32819
+Seafood platter~
+a seafood platter~
+A big plate of Seafood is here.~
+~
+19 0 ad
+6 0 0 0
+4 15 1
+#32820
+Caviar~
+a dish of caviar~
+A small dish of Caviar is here.~
+~
+19 0 ad
+5 0 0 0
+4 500 50
+#32821
+Special~
+today's special~
+This is the special of the day....NOT to be missed.~
+~
+19 0 ad
+10 0 0 0
+5 15 1
+#32822
+Sushi~
+some sushi~
+This is sushi.~
+~
+19 0 ad
+3 0 0 0
+5 15 1
+#32830
+Antharian robe~
+an Antharian robe~
+This is an Antharian robe, woven by hand.~
+~
+9 0 ak
+8 0 0 0
+10 1000 100
+A
+2 1
+A
+1 -1
+A
+19 1
+#32831
+Antharian belt~
+an Antharian belt~
+An Antharian belt, just your size, is here.~
+~
+9 0 al
+8 0 0 0
+10 1000 100
+A
+24 -4
+A
+3 1
+#32832
+Antharian trousers~
+Antharian trousers~
+A pair of simple Antharian trousers are here.~
+~
+9 0 af
+8 0 0 0
+5 1000 100
+A
+5 1
+A
+18 1
+A
+17 -5
+#32833
+Piece Metal~
+a round piece of metal~
+A round piece of some unknown metal is here.~
+~
+3 f ao
+50 7 7 -1
+10 100000 10000
+#32834
+Crystal potion~
+a crystal potion~
+A liquid substance in a crystal container is here.~
+~
+10 o af
+20 -1 -1 -1
+3 1000 100
+#32835
+crystal scroll~
+a crystal scroll~
+An amazing scroll of crystal is here.~
+~
+2 a ai
+13 -1 -1 -1
+3 1000 100
+#32836
+glowing seashell~
+a glowing seashell~
+A glowing seashell is here.~
+~
+2 a ae
+5 -1 -1 -1
+3 1000 100
+#32837
+antharian bracer~
+an Antharian style bracer~
+An Antharian style bracer is here.~
+~
+9 g am
+8 0 0 0
+5 1000 100
+A
+18 1
+A
+4 1
+#32838
+antharian bracer~
+an Antharian style bracer~
+An Antharian style bracer is here.~
+~
+9 g am
+8 0 0 0
+5 1000 100
+A
+18 2
+A
+4 1
+#32839
+antharian bracer~
+an Antharian style bracer~
+An Antharian style bracer is here.~
+~
+9 g am
+8 0 0 0
+5 1000 100
+A
+18 3
+A
+4 2
+#32840
+net~
+a net~
+A glowing net is here.~
+~
+4 a ao
+25 10 10 -1
+5 1000 100
+A
+22 5
+$~
+$end~
+
+
+#SHOPS
+CircleMUD v3.0 Shop File~
+#32801~
+32835
+32803
+-1
+1.25
+0.75
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+32840
+0
+32840
+-1
+4
+20
+0
+0
+#32802~
+32822
+32821
+32820
+32819
+-1
+1.25
+0.75
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+32841
+0
+32841
+-1
+4
+20
+0
+0
+#32803~
+32802
+-1
+1.25
+0.75
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+32845
+0
+32845
+-1
+4
+20
+0
+0
+#32804~
+32800
+32836
+32834
+-1
+1.25
+0.75
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+32848
+0
+32848
+-1
+4
+20
+0
+0
+$~
+$end~

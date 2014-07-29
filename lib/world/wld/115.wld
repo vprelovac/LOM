@@ -1,0 +1,3339 @@
+#11500
+Entrance To A Valley In The Highlands.~
+  Before you the path just stops. It doesn't go any further. A mysterious bog 
+begins here, if you dare entering it's at your own risk. 
+Also in the distance you see a vague contour of hills. On the top of 
+the hills you see lights.
+~
+115 4 4
+D0
+~
+~
+0 0 11501
+D4
+~
+~
+0 0 4036
+S
+#11501
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11509
+D1
+~
+~
+0 0 11502
+D2
+~
+~
+0 0 11500
+D3
+~
+~
+0 0 11506
+S
+#11502
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11510
+D1
+~
+~
+0 0 11503
+D2
+~
+~
+0 0 11516
+D3
+~
+~
+0 0 11501
+S
+#11503
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11511
+D2
+~
+~
+0 0 11515
+D3
+~
+~
+0 0 11502
+S
+#11504
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11512
+D1
+~
+~
+0 0 11505
+D2
+~
+~
+0 0 11518
+S
+#11505
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11507
+D1
+~
+~
+0 0 11506
+D2
+~
+~
+0 0 11513
+D3
+~
+~
+0 0 11504
+S
+#11506
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11508
+D1
+~
+~
+0 0 11501
+D2
+~
+~
+0 0 11514
+D3
+~
+~
+0 0 11505
+S
+#11507
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11513
+D1
+~
+~
+0 0 11508
+D2
+~
+~
+0 0 11505
+D3
+~
+~
+0 0 11512
+S
+#11508
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11514
+D1
+~
+~
+0 0 11509
+D2
+~
+~
+0 0 11506
+D3
+~
+~
+0 0 11507
+S
+#11509
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11515
+D1
+~
+~
+0 0 11510
+D2
+~
+~
+0 0 11501
+D3
+~
+~
+0 0 11508
+S
+#11510
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D2
+~
+~
+0 0 11502
+D3
+~
+~
+0 0 11509
+S
+#11511
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11517
+D1
+~
+~
+0 0 11512
+D2
+~
+~
+0 0 11503
+D3
+~
+~
+0 0 11510
+S
+#11512
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11518
+D1
+~
+~
+0 0 11507
+D2
+~
+~
+0 0 11504
+D3
+~
+~
+0 0 11511
+S
+#11513
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11505
+D1
+~
+~
+0 0 11514
+D2
+~
+~
+0 0 11507
+D3
+~
+~
+0 0 11518
+S
+#11514
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11506
+D1
+~
+~
+0 0 11515
+D2
+~
+~
+0 0 11508
+D3
+~
+~
+0 0 11513
+S
+#11515
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11503
+D1
+~
+~
+0 0 11516
+D2
+~
+~
+0 0 11509
+D3
+~
+~
+0 0 11514
+S
+#11516
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11502
+D1
+~
+~
+0 0 11517
+D2
+~
+~
+0 0 11510
+D3
+~
+~
+0 0 11515
+S
+#11517
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11519
+D1
+~
+~
+0 0 11518
+D2
+~
+~
+0 0 11511
+D3
+~
+~
+0 0 11516
+S
+#11518
+The Bog.~
+  Nothing, only bog is here.
+~
+115 1 10
+D0
+~
+~
+0 0 11504
+D1
+~
+~
+0 0 11513
+D2
+~
+~
+0 0 11512
+D3
+~
+~
+0 0 11517
+S
+#11519
+A Path.~
+  On solid ground again. You have entered a valley, in the distance you hear 
+sheep. Also you hear the distinct sound of a bagpipe.
+~
+115 1 4
+D0
+~
+~
+0 0 11520
+D2
+~
+~
+0 0 11517
+S
+#11520
+A Path.~
+  You are walking on a path leading into the valley. You can see the rugged landscape
+also you notice the weather must always be rainy in these regions.
+~
+115 1 4
+D0
+~
+~
+0 0 11521
+D2
+~
+~
+0 0 11519
+S
+#11521
+A Path.~
+  You are approaching to a crossroad in the valley. The ground gets noticably level
+here so you must be coming to the lowest point of the valley.
+~
+115 1 4
+D0
+~
+~
+0 0 11522
+D2
+~
+~
+0 0 11520
+S
+#11522
+The Crossroads.~
+  The guards here look nasty, better not make any trouble. There is a roadsign
+planted in the center of the crossing. To the north you see a lake.
+~
+115 1 4
+D0
+~
+~
+0 0 11537
+D1
+~
+~
+0 0 11523
+D2
+~
+~
+0 0 11521
+D3
+~
+~
+0 0 11531
+E
+sign roadsign~
+North -> Loch
+East  -> Southeastern Beacon Tower
+West  -> Southwestern Beacon Tower
+~
+S
+#11523
+Path To The Southeastern Beacon Tower.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. many big rocks lie on the way
+making it harder to get on.
+~
+115 1 4
+D1
+~
+~
+0 0 11524
+D3
+~
+~
+0 0 11522
+S
+#11524
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. It's getting slippery you might
+fall on your face and hurt yourself.
+~
+115 1 4
+D1
+~
+~
+0 0 11525
+D3
+~
+~
+0 0 11523
+S
+#11525
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. But the tower is getting more
+distinct.
+~
+115 1 4
+D1
+~
+~
+0 0 11526
+D3
+~
+~
+0 0 11524
+S
+#11526
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. Almost there.
+~
+115 1 4
+D1
+~
+~
+0 0 11527
+D3
+~
+~
+0 0 11525
+S
+#11527
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. A bit further still.
+~
+115 1 4
+D1
+~
+~
+0 0 11528
+D3
+~
+~
+0 0 11526
+S
+#11528
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. Almost there.
+~
+115 1 4
+D1
+~
+~
+0 0 11529
+D3
+~
+~
+0 0 11527
+S
+#11529
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle.
+~
+115 1 4
+D2
+~
+~
+0 0 11530
+D3
+~
+~
+0 0 11528
+S
+#11530
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. The tower is nearby.
+~
+115 1 4
+D0
+~
+~
+0 0 11529
+D2
+~
+door~
+1 11518 11592
+S
+#11531
+The Path To The Southwestern Beacon Tower.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. You also see some scorch marks
+on the vegetation.
+~
+115 1 4
+D1
+~
+~
+0 0 11522
+D3
+~
+~
+0 0 11532
+S
+#11532
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. Again a steep trail on a hill.
+~
+115 1 4
+D1
+~
+~
+0 0 11531
+D3
+~
+~
+0 0 11533
+S
+#11533
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. Watch the rocks they're 
+slippery.
+~
+115 1 4
+D1
+~
+~
+0 0 11532
+D3
+~
+~
+0 0 11534
+S
+#11534
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. A light rabbit is sitting on 
+the trail watching you intently.
+~
+115 1 4
+D1
+~
+~
+0 0 11533
+D3
+~
+~
+0 0 11535
+S
+#11535
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. Almost there.
+~
+115 1 4
+D1
+~
+~
+0 0 11534
+D3
+~
+~
+0 0 11536
+S
+#11536
+A Path Uphill.~
+  The path is getting steeper and steeper while it continues uphill. Also the
+terrain is getting more difficult to handle. The tower is before you.
+~
+115 1 4
+D0
+~
+door~
+1 11519 11593
+D1
+~
+~
+0 0 11535
+S
+#11537
+A Muddy Path.~
+  The path is getting muddier towards the lake. In front of you can see
+a big lake and also almost not to be seen in the middle of the lake 
+is a small turf of land.
+~
+115 1 4
+D0
+~
+~
+0 0 11538
+D2
+~
+~
+0 0 11522
+S
+#11538
+A Muddy Path~
+  The muddy path continues. It's getting more and more muddy, you wonder
+if you will be able to get our boots clean again they are muddy all over.
+The sound of bagpipes is getting much more clearer now.
+~
+115 1 2
+D0
+~
+~
+0 0 11539
+D2
+~
+~
+0 0 11537
+S
+#11539
+Crossroads At The Lake.~
+  You stand on a crossroads in front of you is a lake. A highlander is here
+he says 'Ay mi lads the loch is not safe, turn back lads, much safer.' 
+his wife says:
+'Mind you don't go to the castle it is not safe.' The man goes on playing 
+his bagpipes.
+A barely readable roadsign is here.
+~
+115 1 2
+D0
+~
+~
+0 0 11573
+D1
+~
+~
+0 0 11540
+D2
+~
+~
+0 0 11538
+D3
+~
+~
+0 0 11572
+E
+sign roadsign~
+E.st Ro.d a...ng L.ch and Nor..ea.... To...
+West R..d al.... Loch ... No.t.w.st... To.er
+North .och a.d N.ss.'s Is..
+south O.t of ... va..ey
+~
+S
+#11540
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D1
+~
+~
+0 0 11541
+D3
+~
+~
+0 0 11539
+S
+#11541
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11542
+D3
+~
+~
+0 0 11540
+S
+#11542
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D1
+~
+~
+0 0 11543
+D2
+~
+~
+0 0 11541
+S
+#11543
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11544
+D3
+~
+~
+0 0 11542
+S
+#11544
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D1
+~
+~
+0 0 11545
+D2
+~
+~
+0 0 11543
+S
+#11545
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11546
+D3
+~
+~
+0 0 11544
+S
+#11546
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11547
+D2
+~
+~
+0 0 11545
+S
+#11547
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D2
+~
+~
+0 0 11546
+D3
+~
+~
+0 0 11548
+S
+#11548
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D1
+~
+~
+0 0 11547
+D3
+~
+~
+0 0 11549
+S
+#11549
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11550
+D1
+~
+~
+0 0 11548
+S
+#11550
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11551
+D2
+~
+~
+0 0 11549
+S
+#11551
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11552
+D2
+~
+~
+0 0 11550
+S
+#11552
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+Also the path branches of to the east up a hill.
+~
+115 1 2
+D1
+~
+~
+0 0 11585
+D2
+~
+~
+0 0 11551
+D3
+~
+~
+0 0 11553
+S
+#11553
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11554
+D1
+~
+~
+0 0 11552
+S
+#11554
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D2
+~
+~
+0 0 11553
+D3
+~
+~
+0 0 11555
+S
+#11555
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D1
+~
+~
+0 0 11554
+D3
+~
+~
+0 0 11556
+S
+#11556
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You don't hear
+bagpipes and sheep. It's so quiet you dont't even can hear the quietness.
+The birds have completely stopped singing and you get a feeling of 
+total dread. This place must inhabit some kind of great evil 
+and it surrounds you. Towards the north you see castle, it looks 
+quite evil.
+~
+115 1 2
+D1
+~
+~
+0 0 11555
+D3
+~
+~
+0 0 11557
+E
+castle~
+It is a big black castle. It radiates evil like nothing you have seen 
+before. Surely the man who rules here must be some satanic ego-tripper.
+~
+S
+#11557
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D1
+~
+~
+0 0 11556
+D3
+~
+~
+0 0 11558
+S
+#11558
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D1
+~
+~
+0 0 11557
+D2
+~
+~
+0 0 11559
+S
+#11559
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11558
+D3
+~
+~
+0 0 11560
+S
+#11560
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D1
+~
+~
+0 0 11559
+D2
+~
+~
+0 0 11561
+S
+#11561
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+To the west a path branches off up hill.
+~
+115 1 2
+D0
+~
+~
+0 0 11560
+D2
+~
+~
+0 0 11562
+D3
+~
+~
+0 0 11578
+S
+#11562
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11561
+D2
+~
+~
+0 0 11563
+S
+#11563
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11562
+D3
+~
+~
+0 0 11564
+S
+#11564
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D1
+~
+~
+0 0 11563
+D2
+~
+~
+0 0 11565
+S
+#11565
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11564
+D2
+~
+~
+0 0 11566
+S
+#11566
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11565
+D2
+~
+~
+0 0 11567
+S
+#11567
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11566
+D1
+~
+~
+0 0 11568
+S
+#11568
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D2
+~
+~
+0 0 11569
+D3
+~
+~
+0 0 11567
+S
+#11569
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11568
+D1
+~
+~
+0 0 11570
+S
+#11570
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D2
+~
+~
+0 0 11571
+D3
+~
+~
+0 0 11569
+S
+#11571
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D0
+~
+~
+0 0 11570
+D1
+~
+~
+0 0 11572
+S
+#11572
+Path Along Lake.~
+  This path is muddy in the muddiest sense of the word. You still hear
+bagpipes and sheep but its quieter now, you would say too quiet.
+The birds have stopped singing and you get a feeling of dread.
+This place must inhabit some kind of evil and it surrounds you.
+~
+115 1 2
+D1
+~
+~
+0 0 11539
+D3
+~
+~
+0 0 11571
+S
+#11573
+Near The Shore.~
+  You're on the Lake. The water is calmer then it looks suprisingly. You like
+to the shore the Highlander waves at you like he won't be seeing again
+this life.
+~
+115 4 7
+D0
+~
+~
+0 0 11574
+D2
+~
+~
+0 0 11539
+S
+#11574
+On The Lake.~
+  You are on the lake heading towards the island.
+~
+115 4 7
+D0
+~
+~
+0 0 11575
+D2
+~
+~
+0 0 11573
+S
+#11575
+Near The Isle.~
+  You are on the lake near the Isle. You are nearing the shore.
+~
+115 4 7
+D0
+~
+~
+0 0 11576
+D2
+~
+~
+0 0 11574
+S
+#11576
+On Nessy's Isle.~
+  Your on the Isle, It's just a small Isle, there seems to be little vegetation
+or anything really. It's just god forsaken place where probably nothing
+worthwhile is to be gotten. To the north is another bit of Isle maybe
+something is there.
+~
+115 4 4
+D0
+~
+~
+0 0 11577
+D2
+~
+~
+0 0 11575
+S
+#11577
+On Nessy's Isle.~
+  Nothing here also but a hole in the ground.
+~
+115 4 4
+D2
+~
+~
+0 0 11576
+D5
+~
+~
+0 0 11596
+S
+#11578
+A Path Into The Hills.~
+  Your are facing a hill upon which the northwestern tower is built.
+~
+115 4 5
+D1
+~
+~
+0 0 11561
+D3
+~
+~
+0 0 11579
+S
+#11579
+A Path.~
+  You enter a forest. It's extremely dark in there so mind your 
+step and don't trip over any tree stumps.
+~
+115 8 4
+D1
+~
+~
+0 0 11578
+D3
+~
+~
+0 0 11580
+S
+#11580
+At A Cliff.~
+  In front of you is a cliff. The cliff goes straight up. On closer examination
+you find there a steps carved out of the cliffwall.
+~
+115 5 4
+D1
+~
+~
+0 0 11579
+D3
+~
+~
+0 0 11581
+S
+#11581
+On Top Of The Cliff.~
+  Your climbed the cliff and are quite exhausted. The tower stands clear now
+since there is virtually nothing here, a bloody barren place.
+~
+115 4 5
+D1
+~
+~
+0 0 11580
+D3
+~
+~
+0 0 11582
+S
+#11582
+In A Hilltop.~
+  Your on the top of the hill, the tower is only a bit further now.
+~
+115 4 2
+D1
+~
+~
+0 0 11581
+D3
+~
+~
+0 0 11583
+S
+#11583
+Near The Tower.~
+  You almost have reached the tower. You can see the lake from up here, the 
+other towers are also visible so far goes your sight. If this was
+a valley full of trees and birds and such it would have been a magnificent 
+sight but alas the reality is different it is a dead and barren place
+like Gorgoroth is in the Lord of the Rings.
+But enough sightseeing concentrate on the problems before you, you 
+reluctantly decide to continue your travels.
+~
+115 4 5
+D0
+~
+~
+0 0 11584
+D1
+~
+~
+0 0 11582
+S
+#11584
+In Front Of The Tower.~
+  The keeper greets you stiffly warmly and takes another tug from his bottle of scotch.
+'A that makes the stomach burn,' the keeper says. You think you could
+use some of the drought too the cold weather chill to the bone.
+~
+115 4 5
+D0
+~
+door~
+1 11520 11594
+D2
+~
+~
+0 0 11583
+S
+#11585
+A Path Along A Cliff.~
+  Watch out here there are mountain goats up the cliff they will
+once in a while kick ricks down, if they fall on your head you
+are history.
+~
+115 0 5
+D1
+~
+~
+0 0 11586
+D3
+~
+~
+0 0 11552
+S
+#11586
+A Path Along A Cliff.~
+  WATCH IT a rock just fell down, missing you by a few centimeters.
+~
+115 0 5
+D1
+~
+~
+0 0 11587
+D3
+~
+~
+0 0 11585
+S
+#11587
+A Steep Climb.~
+  A steep hill forcing you to much exertion to get up the hill. 
+A feeling of dread comes over you but you have no idea where it comes form.
+~
+115 0 5
+D0
+~
+~
+0 0 11588
+D3
+~
+~
+0 0 11586
+S
+#11588
+On The Hill.~
+  You are on a hill, just to see you are on the wrong one.
+~
+115 0 5
+D0
+~
+~
+0 0 11589
+D2
+~
+~
+0 0 11587
+S
+#11589
+Down Hill.~
+  You are walking down hill with so much speed you can will probably
+break some bone if you are not carefull and fall over a rock or
+something.
+~
+115 0 5
+D0
+~
+~
+0 0 11590
+D2
+~
+~
+0 0 11588
+S
+#11590
+On Another Path Up Hill.~
+  Again you must force yourself to great exertion. The terrain changed
+suddenly from some plants and rocks to a barren place.
+~
+115 0 5
+D0
+~
+~
+0 0 11591
+D2
+~
+~
+0 0 11589
+S
+#11591
+On A Hill.~
+  You are again on a hill. This time it's the correct one.
+The tower is to the east.
+~
+115 0 5
+D1
+~
+door~
+1 11521 11595
+D2
+~
+~
+0 0 11590
+S
+#11592
+In The Southeastern Tower.~
+  The room is in disorder, the keeper must be a lousy housekeeper, the way
+things look, broken chairs, tables, cabinets and the sort. Also
+there is a crate of bottles upon closer inspection it seem the
+bottles are filled with scotch.
+~
+115 8 0
+D0
+~
+door~
+1 11518 11530
+D4
+~
+~
+0 0 11606
+D5
+~
+~
+0 0 11605
+S
+#11593
+In The Southwestern Tower.~
+  The room is totally clean not a atom of dust to be seen. The keeper must
+be a terrific housekeeper quite the opposite of some of his fellow-keepers.
+~
+115 8 0
+D2
+~
+door~
+1 11519 11536
+D4
+~
+~
+0 0 11610
+D5
+~
+~
+0 0 11609
+S
+#11594
+In The Northwestern Tower.~
+  The Keeper must be a real scrouge only the minimal requirements of
+a room has he one simple chair, one simple table, one plate, one spoon
+and even for a bed does he use a bit of straw in the corner.
+~
+115 8 0
+D2
+~
+~
+1 11520 11584
+D4
+~
+~
+0 0 11616
+D5
+~
+~
+0 0 11615
+S
+#11595
+In The Northeastern Tower.~
+  The Keeper must be a rose lover everywere are rosey stuff. Roses painted on
+everything the plates, the chairs, the bed in short on everything.
+~
+115 8 0
+D3
+~
+door~
+1 11521 11591
+D4
+~
+~
+0 0 11620
+D5
+~
+~
+0 0 11619
+S
+#11596
+In Nessy's Cave.~
+  A dark place is this, nothing grows, nothing lives here.
+~
+115 8 0
+D2
+~
+~
+0 0 11597
+D4
+~
+~
+0 0 11577
+S
+#11597
+In Nessy's Cave.~
+  You hear faint sounds coming from the west. And a light shines towards the 
+south.
+~
+115 8 0
+D2
+~
+~
+0 0 11598
+D3
+~
+~
+0 0 11602
+S
+#11598
+In Nessy's Cave.~
+  The light grows stronger. You also begin to hear queer noices form the south
+maybe she's awake.
+~
+115 8 0
+D0
+~
+~
+0 0 11597
+D2
+~
+~
+0 0 11599
+S
+#11599
+In Nessy's Cave.~
+  The light just went out, strange very strange. Is it possible she heard you,
+you tried to be as silent as possible.
+~
+115 8 0
+D0
+~
+~
+0 0 11598
+D2
+~
+~
+0 0 11600
+S
+#11600
+Near Nessy's Cave.~
+  You are just outside her cave, you can see a big creature rising in
+the shadows.
+~
+116 8 0
+D0
+~
+~
+0 0 11599
+D3
+~
+~
+0 0 11601
+S
+#11601
+In Nessy's Nest.~
+  You see a big hulking form smiling at you. Beware she might smile freindly
+but don't let looks deceive you, she can easily kill you and devour you.
+~
+116 8 0
+D1
+~
+~
+0 0 11600
+S
+#11602
+In Nessy Cave.~
+  The snoring gets more and more louder the more you walk in this direction.
+~
+116 8 0
+D1
+~
+~
+0 0 11597
+D3
+~
+~
+0 0 11603
+S
+#11603
+In Nessy's Cave.~
+  The snoring gets louder towards the south, you think you see some small
+DRAGONlike creature there.
+~
+116 8 0
+D1
+~
+~
+0 0 11602
+D2
+~
+~
+0 0 11604
+S
+#11604
+The Cave Of Nessy's Kid.~
+  In the cave here you see a smaller replica of her mother, she will awake soon
+and then it will be really hungry, dragonlike hungry.
+~
+116 8 0
+D0
+~
+~
+0 0 11603
+S
+#11605
+In The Cellar.~
+  You entered a cellar, there is nothing here but a few supllies, they prob-
+ably belong to the keeper.
+~
+116 9 0
+D4
+~
+~
+0 0 11592
+S
+#11606
+On The First Floor.~
+  You went up, the sleepingroom is here it's as much a disorder here as
+the livingroom was.
+~
+116 8 0
+D4
+~
+~
+0 0 11607
+D5
+~
+~
+0 0 11592
+S
+#11607
+On The Second Floor.~
+  You are not yet on the top, you have still to open the trap-door to get up.
+~
+116 8 0
+D4
+You see a trap-door.
+~
+trap door trapdoor~
+2 0 11608
+D5
+~
+~
+0 0 11606
+S
+#11608
+On The Top Of The Tower.~
+  There is a bright light here, this must be the light the keeper keeps.
+You can look in all directions here.
+~
+116 0 1
+D5
+~
+~
+1 0 11607
+E
+north~
+You can see another tower to the north.
+~
+E
+east~
+You see nothing, nothing at all.
+~
+E
+south~
+Nothing there absolutely nothing.
+~
+E
+west~
+You see the lake, there appears to be a Isle in the middle of the lake.
+In the distance you see another tower.
+~
+E
+up~
+The sky.
+~
+S
+#11609
+In The Cellar.~
+  The supllies of the keeper are stacked here neatly, everything but a
+shelf, it sticks out strangely.
+~
+116 8 0
+D0
+You see a shelf with supplies on it but the shelf lies wrong.
+~
+shelf north~
+1 0 11613
+D4
+~
+~
+0 0 11593
+S
+#11610
+On The First Floor.~
+  The bedroom is like you expected just like the livingroom totally clean.
+~
+116 8 0
+D4
+~
+~
+0 0 11611
+D5
+~
+~
+0 0 11593
+S
+#11611
+On The Secondfloor.~
+  You are almost on the top. Looking around you see that there is nothing here
+as if to keep them from possible harm from above.
+~
+116 8 0
+D4
+There is a trap-door above you.
+~
+trap trap-door up door~
+2 0 11612
+D5
+~
+~
+0 0 11610
+S
+#11612
+On The Top Of The Tower.~
+  You see a mage saying some arcane words, making strange jestures and stuff.
+You reluctantly come closer to look hoping the bright light from the beacon
+will cover your approach.
+~
+116 0 1
+D5
+There is a trap-door here.
+~
+trap door down trap-door~
+2 0 11611
+E
+north~
+You see another tower on another hill.
+~
+E
+east~
+You see the valley, the lake the path you walked on and another tower.
+~
+E
+south~
+Nothing there.
+~
+E
+west~
+A somber void is there.
+~
+S
+#11613
+In A Secret Walkway.~
+  You find yourself in a moist walkway, it seems to be man made.
+~
+116 9 0
+D0
+~
+~
+0 0 11626
+D2
+The backside of something is blocking the way.
+~
+door cabinet backside something~
+1 0 11609
+S
+#11614
+A Dead End.~
+  The walkway ends here in front of a large rock.
+~
+116 9 0
+D0
+A rock blocks the way.
+~
+rock north~
+1 0 11615
+D2
+~
+~
+0 0 11640
+S
+#11615
+In The Cellar.~
+  There is nothing here but some supllies in a few racks.
+~
+116 8 0
+D1
+A rack blocks the way.
+~
+rack east~
+1 0 11625
+D2
+A rock stands in your way.
+~
+rock south~
+1 0 11614
+D4
+~
+~
+0 0 11594
+S
+#11616
+On The First Floor.~
+  This room servs as a bedroom. The bed is a mess he must making beds and
+cleaning blankets the way that place stinks and looks.
+~
+116 8 0
+D4
+~
+~
+0 0 11617
+D5
+~
+~
+0 0 11594
+S
+#11617
+On The Second Floor.~
+  Nothing here worth you while you already feel the heat of the beaconlight on 
+the top.
+~
+116 8 0
+D4
+a trap-door is above you.
+~
+up trap door trapdoor~
+2 0 11618
+D5
+~
+~
+0 0 11616
+S
+#11618
+On The Top Of The Tower.~
+  The beacon burns brightly. It makes the air surrounding it very warm
+You feel good here it's nice to feel some kind of warmness.
+~
+116 0 1
+D5
+A trap-door is here.
+~
+door trap trapdoor down~
+2 0 11617
+S
+#11619
+In The Cellar.~
+  A fine mess the keeper made of this room, how he can find anything here
+is a complete mistery, food bottle scotch everything lies through another.
+~
+116 8 0
+D0
+A big heap of mess blocks the way.
+~
+mess north~
+1 0 11624
+D3
+A big cabinet blocks the way.
+~
+cabinet west~
+1 0 11623
+D4
+~
+~
+0 0 11595
+S
+#11620
+On The First Floor.~
+  Everything is here rosey too, you get nuts looking at those roses.
+A easal stands in the middle of the room, when you look at it
+you see it's a half finished painting of a rose.
+~
+116 8 0
+D4
+~
+~
+0 0 11621
+D5
+~
+~
+0 0 11595
+S
+#11621
+On The Second Floor.~
+  The walls are covered with paintings and as you already figured they are of 
+roses, christ small rose, big roses, a bunch of roses, a single rose, 
+a rose in a field of petunias, a rose in a vase, a rose on a table, a rose
+in a hand and lot's more of them.
+~
+116 8 0
+D4
+A trap-door is above you.
+~
+door trapdoor up~
+2 0 11622
+D5
+~
+~
+0 0 11620
+S
+#11622
+On The Top Of A Tower.~
+  The light shines brightly here.
+~
+116 0 1
+D5
+A trapdoor is here.
+~
+door trapdoor down~
+2 0 11621
+E
+north~
+A big forest stretches before as far as you can see.
+~
+E
+east~
+A void through which you can discern nothing.
+~
+E
+south~
+You look at another tower.
+~
+E
+west~
+You see a large castle it's totally black. Also a bit further is an-
+other tower.
+~
+S
+#11623
+A Dead End~
+  A dead end, the secret gangway stops abruptly.
+~
+116 9 0
+D1
+A big rock stands in your way.
+~
+rock east big~
+1 0 11619
+D3
+~
+~
+0 0 11656
+S
+#11624
+Another Gangway.~
+  This gangway is finely carved and it's smooth, must be a master
+who made it.
+~
+116 9 0
+D0
+~
+~
+0 0 11657
+D2
+Something is blocking your way.
+~
+something south~
+1 0 11619
+S
+#11625
+In A Secret Gangway.~
+  The gangway is carved out of rock. The rocks are slippery and covered with a
+strange vegetation.
+~
+116 9 0
+D1
+~
+~
+0 0 11641
+D3
+The wooden backside of somekind of furniture is here.
+~
+backside furniture west~
+1 0 11615
+S
+#11626
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D2
+~
+~
+0 0 11613
+D3
+~
+~
+0 0 11627
+S
+#11627
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11628
+D1
+~
+~
+0 0 11626
+S
+#11628
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11629
+D2
+~
+~
+0 0 11627
+S
+#11629
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11630
+D2
+~
+~
+0 0 11628
+S
+#11630
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D2
+~
+~
+0 0 11629
+D3
+~
+~
+0 0 11631
+S
+#11631
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11630
+D3
+~
+~
+0 0 11632
+S
+#11632
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11631
+D2
+~
+~
+0 0 11633
+S
+#11633
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11632
+D3
+~
+~
+0 0 11634
+S
+#11634
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11635
+D1
+~
+~
+0 0 11633
+S
+#11635
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11636
+D2
+~
+~
+0 0 11634
+S
+#11636
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11637
+D2
+~
+~
+0 0 11635
+S
+#11637
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11638
+D2
+~
+~
+0 0 11636
+S
+#11638
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11639
+D2
+~
+~
+0 0 11637
+S
+#11639
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11640
+D2
+~
+~
+0 0 11638
+S
+#11640
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11614
+D2
+~
+~
+0 0 11639
+S
+#11641
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11642
+D3
+~
+~
+0 0 11625
+S
+#11642
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11643
+D3
+~
+~
+0 0 11641
+S
+#11643
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11644
+D3
+~
+~
+0 0 11642
+S
+#11644
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11645
+D3
+~
+~
+0 0 11643
+S
+#11645
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11646
+D3
+~
+~
+0 0 11644
+S
+#11646
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11647
+D2
+~
+~
+0 0 11645
+S
+#11647
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11648
+D3
+~
+~
+0 0 11646
+S
+#11648
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11649
+D3
+~
+~
+0 0 11647
+S
+#11649
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11650
+D3
+~
+~
+0 0 11648
+S
+#11650
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11651
+D3
+~
+~
+0 0 11649
+S
+#11651
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11652
+D3
+~
+~
+0 0 11650
+S
+#11652
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11653
+D3
+~
+~
+0 0 11651
+S
+#11653
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11654
+D3
+~
+~
+0 0 11652
+S
+#11654
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11655
+D3
+~
+~
+0 0 11653
+S
+#11655
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D0
+~
+~
+0 0 11656
+D2
+~
+~
+0 0 11654
+S
+#11656
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+~
+116 9 0
+D1
+~
+~
+0 0 11623
+D2
+~
+~
+0 0 11655
+S
+#11657
+In A Secret Gangway.~
+  You can barely see something in front of you so dark is it,
+even with a light it's difficult to look ahead.
+But it's smooth here so you needn't be afraid of stumbling 
+over something.
+~
+116 9 0
+D0
+~
+~
+0 0 11658
+D2
+~
+~
+0 0 11624
+S
+#11658
+In A Secret Gangway.~
+  You can see a light over a porch to the west.
+~
+116 9 0
+D2
+~
+~
+0 0 11657
+D3
+~
+~
+0 0 11659
+S
+#11659
+In A Secret Gangway.~
+  The light brightens but doen't help much yet. Above you you think you
+that it is raining again.
+~
+116 8 0
+D1
+~
+~
+0 0 11658
+D3
+~
+~
+0 0 11660
+S
+#11660
+In A Secret Gangway.~
+  You see better now. You can even discern a some strangely shaped
+something ahead but as of yet you can't make anything of it.
+~
+116 8 0
+D1
+~
+~
+0 0 11659
+D3
+~
+~
+0 0 11661
+S
+#11661
+In A Secret Gangway.~
+  You can clearly see what is ahead of you now you can also see that
+the porch is guarded by some creatures. You think you have seen them 
+before in a nightmare or something. They appear not to be moving
+could it be that they are statues just to scare people of.
+~
+116 8 0
+D1
+~
+~
+0 0 11660
+D3
+~
+~
+0 0 11662
+S
+#11662
+At The Porch.~
+  You see a porch in front of you. It appears locked but some
+weird dust lies here probably from the mage who passed here
+some time back. Maybe this is the way into the castle.
+~
+116 8 0
+D1
+~
+~
+0 0 11661
+D3
+You see a porch.
+~
+porch west door~
+1 11517 11663
+S
+#11663
+In A Sleeping Room.~
+  The porch slams shut behind you, so there'll be no going back.
+You entered the mage's room. Everywhere are he signs of it, potions,
+dried leaves, examples of animals and stuff. The mage doesn't appear
+to be home. (no wonder since you killed her)
+~
+116 8 0
+D3
+A door.
+~
+door~
+2 0 11665
+S
+#11665
+In A Hallway.~
+  Just another hallway leading from someplace to someplace, nothing peculiar
+about this one either. The mage was kept here for good reason the evil
+witch. Compared to her even a satanic demon would be of extreme good
+alignment.
+~
+116 8 0
+D0
+~
+~
+0 0 11666
+D1
+A door.
+~
+door~
+2 0 11663
+S
+#11666
+In The Hallway.~
+  You notice some noise coming from the north. It appears there is some
+kind of party going on, and where a party is you want to be there.
+~
+116 8 0
+D0
+~
+~
+0 0 11667
+D2
+~
+~
+0 0 11665
+S
+#11667
+In The Hallway.~
+  A door is to the north, from behind comes the noise, some party must it be.
+~
+116 8 0
+D0
+A heavy door.
+~
+door~
+2 0 11668
+D2
+~
+~
+0 0 11666
+D3
+~
+~
+0 0 11669
+S
+#11668
+The Guard Barracks.~
+  OOOOOOOOOOOOOooops, the barracks of the guards, they fall silent and
+look at you, they snarl at you for intruding upon them and attack.
+~
+116 8 0
+D2
+A heavy door.
+~
+door~
+2 0 11667
+S
+#11669
+In A Hallway.~
+  You are in a hallway a bit further on you can see a flight of stairs.
+~
+116 8 0
+D1
+~
+~
+0 0 11667
+D3
+~
+~
+0 0 11670
+S
+#11670
+In A Hallway.~
+  A heavy door is to the north. But from the outward you can't find a clue
+about it's occupants.
+~
+116 8 0
+D0
+A heavy door.
+~
+door~
+2 0 11671
+D1
+~
+~
+0 0 11669
+D3
+~
+~
+0 0 11672
+S
+#11671
+A Guard Barracks.~
+  A troop of guards is in here busy with the upkeep of their equipment.
+At first they don't notice you but then one looks up and screams
+an alarm, they all look up and attack you on sight. It was
+not very smart move coming in here.
+~
+116 8 0
+D2
+A heavy door.
+~
+door~
+2 0 11670
+S
+#11672
+At A Flight Of Stairs.~
+  You can go up towards the ground floor of the castle.
+~
+116 8 0
+D1
+~
+~
+0 0 11670
+D4
+~
+~
+0 0 11673
+S
+#11673
+At A Flight Of Stairs.~
+  You are on the ground floor of the castle. You can go to the foyer
+or take the stairs down. In the foyer you see the shimmering of many
+teleporters.
+~
+116 8 0
+D2
+~
+~
+0 0 11677
+D5
+~
+~
+0 0 11672
+S
+#11674
+In The Northwestern Corner Of The Foyer.~
+
+~
+116 8 0
+D1
+~
+~
+0 0 11677
+D2
+~
+~
+0 0 11675
+S
+#11675
+In The West Of The Foyer.~
+
+~
+116 8 0
+D0
+~
+~
+0 0 11674
+D1
+~
+~
+0 0 11678
+D2
+~
+~
+0 0 11676
+S
+#11676
+In The Southwestern Corner Of The Foyer.~
+
+~
+116 8 0
+D0
+~
+~
+0 0 11675
+D1
+~
+~
+0 0 11679
+S
+#11677
+In The North Of The Foyer.  To The North, You See Stairs.~
+
+~
+116 8 0
+D0
+~
+~
+0 0 11673
+D1
+~
+~
+0 0 11681
+D2
+~
+~
+0 0 11678
+D3
+~
+~
+0 0 11674
+S
+#11678
+In The Center Of The Foyer.~
+
+~
+116 8 0
+D0
+~
+~
+0 0 11677
+D1
+~
+~
+0 0 11682
+D2
+~
+~
+0 0 11679
+D3
+~
+~
+0 0 11675
+S
+#11679
+In The South Of The Foyer.  To The South, You See Some Stairs.~
+
+~
+116 8 0
+D0
+~
+~
+0 0 11678
+D1
+~
+~
+0 0 11683
+D2
+~
+~
+0 0 11680
+D3
+~
+~
+0 0 11676
+S
+#11680
+A Flight Of Stairs.~
+  You can go up here or north to the foyer.
+~
+116 8 0
+D0
+~
+~
+0 0 11679
+D4
+~
+~
+0 0 11684
+S
+#11681
+In The Northeastern Corner Of The Foyer.~
+
+~
+116 8 0
+D2
+~
+~
+0 0 11682
+D3
+~
+~
+0 0 11677
+S
+#11682
+In The East Of The Foyer.~
+
+~
+116 8 0
+D0
+~
+~
+0 0 11681
+D2
+~
+~
+0 0 11683
+D3
+~
+~
+0 0 11678
+S
+#11683
+In The Southeastern Corner Of The Foyer.~
+
+~
+116 8 0
+D0
+~
+~
+0 0 11682
+D3
+~
+~
+0 0 11679
+S
+#11684
+At A Flight Of Stairs.~
+  You can go down here to the foyer and to the south is a hallway.
+~
+116 8 0
+D2
+~
+~
+0 0 11685
+D5
+~
+~
+0 0 11680
+S
+#11685
+A Hallway On The First Floor.~
+  In the hall lies a red carpet. There are tapestries on the walls between
+the doors, all in a pleasant hall one would say.
+~
+116 8 0
+D0
+~
+~
+0 0 11684
+D2
+~
+~
+0 0 11687
+S
+#11686
+In An Unused Room.~
+  Nothing here but cobwebs and dust.
+~
+116 8 0
+D1
+~
+~
+0 0 11687
+S
+#11687
+In A Hallway.~
+  There are doors here to the left and to the right but they appear to be
+OPEN.
+~
+116 8 0
+D0
+~
+~
+0 0 11685
+D1
+~
+~
+0 0 11688
+D2
+~
+~
+0 0 11689
+D3
+~
+~
+0 0 11686
+S
+#11688
+In The Lord's Bedroom.~
+  Just a normal bedroom is here. The Lord of the castle himself
+appears to be absent, so look around and see how the nobility
+sleep.
+~
+116 8 0
+D3
+~
+~
+0 0 11687
+S
+#11689
+In A Hallway.~
+  A painting picturing a ugly man is on the left and an even uglier
+painting of a woman is to the right, God almighty these guys are 
+ugly. The note beneath the paintings have only one numeral on them
+so the man and the woman must be still alive (you silently hope
+never to encounter them).
+~
+116 8 0
+D0
+~
+~
+0 0 11687
+D2
+~
+~
+0 0 11691
+S
+#11690
+A Bedroom.~
+  The cleric's room, but this time the occupant is home. The cleric turns
+around to look at you upon recognizing you as intruders he charges forth.
+~
+116 8 0
+D1
+~
+~
+0 0 11691
+S
+#11691
+In A Hallway.~
+  To the left and to the right are doors, both seem open. On the door
+to the east you see a pentagon and on the door to the west you see
+a picture of a woman, just like the one on the painting.
+~
+116 8 0
+D0
+~
+~
+0 0 11689
+D1
+~
+~
+0 0 11692
+D2
+~
+~
+0 0 11693
+D3
+~
+~
+0 0 11690
+S
+#11692
+The Lady's Bedroom.~
+  You entered the bedroom of the Lady of the castle. She has her eyes
+fixed on the mirror before her. God is she awful to look upon.
+You accidently move a quarter of an inch and she notices you
+and without thinking charges forth.
+~
+116 8 0
+D3
+~
+~
+0 0 11691
+S
+#11693
+In A Hallway.~
+  The tapestries here depict battles in long forgotten years in long
+forgotten lands for long forgotten causes.
+~
+116 8 0
+D0
+~
+~
+0 0 11691
+D2
+~
+~
+0 0 11694
+S
+#11694
+A Bend In The Hallway.~
+  The hallway turns eastwards. Nothing further here but paintings of animals
+and plants, strangly as you look closer all the lifeforms are carnivorous.
+~
+116 8 0
+D0
+~
+~
+0 0 11693
+D1
+~
+~
+0 0 11695
+S
+#11695
+In A Hallway.~
+  In front of you is a flight of stairs.
+~
+116 8 0
+D1
+~
+~
+0 0 11696
+D3
+~
+~
+0 0 11694
+S
+#11696
+At A Flight Of Stairs.~
+  You can go up here or go west to the hallway.
+~
+116 8 0
+D3
+~
+~
+0 0 11695
+D4
+~
+~
+0 0 11697
+S
+#11697
+At A Flight Of Stairs.~
+  You can go down here or continue on to the ante-room. You see
+a farmer waiting in the room.
+~
+116 8 0
+D2
+~
+~
+0 0 11698
+D5
+~
+~
+0 0 11696
+S
+#11698
+In The Ante-Room.~
+  A bench is here where you can sit on. presently just a farmer is sitting on  
+it. The farmer doesn't even glance in your direction.
+~
+116 8 0
+D0
+~
+~
+0 0 11697
+D2
+~
+~
+0 0 11699
+S
+#11699
+A Room In Between The Throne And The Ante-room.~
+  Here you are searched for weapons and the likes so that the Lord is safe
+but the guards look at ou and decide yo cannot possibly have good intentions
+so they decide to kill you on the spot.
+~
+116 8 0
+D0
+~
+~
+0 0 11698
+D2
+~
+~
+0 0 11700
+S
+#11700
+The Throne Room.~
+  At last you found the Lord of this region. He's sits on his throne
+and looks at you while his elite guards attack you.
+~
+117 8 0
+D0
+~
+~
+0 0 11699
+S
+$

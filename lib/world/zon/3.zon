@@ -1,0 +1,23 @@
+#3
+Plains of the North~
+399 44 2
+O 0 300 10 327    Place a small dusk of timian herbs to The Foothills (max 10)
+O 0 301 10 319    Place a small dusk of black gyvel to Grassy Plains (max 10)
+O 0 304 3 316    Place wild flowers to Grassy Plains (max 3)
+O 0 304 3 323    Place wild flowers to The Steep Foothills (max 3)
+O 0 304 3 338    Place wild flowers to Grassy Plains (max 3)
+M 0 305 1 344    Place Shudde-M'ell to The Hall Of G'harne (max 1)
+G 1 310 5         Give a strange template (max 5)
+G 1 311 5         Give a clear potion (max 5)
+M 0 309 10 324    Place the cute rabbit to The Steep Foothills (max 10)
+M 0 309 10 318    Place the cute rabbit to Grassy Plains (max 10)
+M 0 309 10 334    Place the cute rabbit to The Ancient Path (max 10)
+M 0 300 1 323    Place Aruncus the Druid to The Steep Foothills (max 1)
+E 1 308 2 17         Equip a druish staff, held (max 2)
+E 1 307 2 3         Equip a strange amulet, first object worn around neck (max 2)
+G 1 312 1         Give a scroll titled 'jhyfrdow' (max 1)
+G 1 302 10         Give a small dusk of poison ivy (max 10)
+M 0 301 1 331    Place Sorbus the Hermit to Hermit's Hut (max 1)
+G 1 303 2         Give a dark red jar (max 2)
+O 0 309 30 331    Place a rabbit roast to Hermit's Hut (max 30)
+S

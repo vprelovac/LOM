@@ -1,0 +1,226 @@
+12c12
+< 35 0 -300 20d20+1000 3d3+20
+---
+> 30 0 -300 20d20+1000 3d3+20
+21c21
+< if level($n) < 30
+---
+> if level($n) < 20
+31c31
+< if level($n) < 30
+---
+> if level($n) < 20
+45c45
+< if level($n) < 30
+---
+> if level($n) < 20
+53,54c53,57
+< c 'blind'
+< c 'weaken' 
+---
+> c unravel
+> c feebleness
+> c blindness
+> c weaken 
+> c 'faerie fire'
+58,59c61,62
+< c 'harm'
+< c 'heal'
+---
+> c harm
+> c heal
+61c64
+< mpat 3 c 'remove poison'
+---
+> mpat 3 c 'cure poison'
+64c67
+< if level($n) < 30
+---
+> if level($n) < 20
+69c72
+< mpoload 35001 25
+---
+> mpoload 3101 15
+89c92
+< 18 0 0 6d5+150 2d4+4
+---
+> 10 0 0 6d5+150 2d4+4
+122c125
+< 20 0 0 1d1+200 2d4+6
+---
+> 11 0 0 1d1+200 2d4+6
+151c154
+< 20 0 0 6d5+150 2d4+4
+---
+> 10 0 0 6d5+150 2d4+4
+180c183
+< 32 0 -100 10d10+500 4d4+20
+---
+> 22 0 -100 10d10+500 4d4+20
+189,191c192,194
+< c 'poison' $n
+< c 'weaken' $n
+< c 'feebleness' $n
+---
+> c poison $n
+> c weaken $n
+> c feebleness $n
+219c222
+< if cha($n) < 18
+---
+> if luck($n) < 14
+239c242
+< 20 0 0 6d5+150 2d4+4
+---
+> 10 0 0 6d5+150 2d4+4
+254c257
+< kick
+---
+> gouge
+279c282
+< 30 0 -100 10d10+500 2d4+12
+---
+> 20 0 -100 10d10+500 2d4+12
+287,288c290,291
+< c 'acid blast'
+< c 'fireball'
+---
+> c feebleness
+> c 'energy drain'
+296c299
+< c 'intesify'
+---
+> c 'faerie fire'
+297a301,302
+> c ill $n
+> c lethargy $n
+309,312c314,319
+< c 'haste'
+< c 'blink'
+< c 'fire shield'
+< c 'magical p'
+---
+> c shield
+> c stone
+> c armor
+> c bless
+> c kin
+> c slink
+326c333
+< 24 0 0 1d1+300 2d6+10
+---
+> 14 0 0 1d1+300 2d6+10
+336a344
+> gouge
+345a354
+> stun
+362c371
+< 23 0 0 5d5+250 1d4+12
+---
+> 13 0 0 5d5+250 1d4+12
+400c409
+< 28 0 -75 1d1+400 1d10+10
+---
+> 18 0 -75 1d1+400 1d10+10
+419c428,429
+< kick
+---
+> stun
+> gouge
+423a434
+> punch
+424a436
+> gouge
+425a438
+> stun
+438c451
+< 30 0 0 1d1+500 2d6+12
+---
+> 20 0 0 1d1+500 2d6+12
+446c459
+< mpat 3 c 'heal'
+---
+> mpat 3 c heal
+448c461
+< mpat 3 c 'cure remove poison'
+---
+> mpat 3 c 'cure blindness'
+474c487
+< 23 13 0 0 6d5+150 2d4+4
+---
+> 13 0 0 6d5+150 2d4+4
+489c502
+< 23 0 0 6d5+150 2d4+4
+---
+> 13 0 0 6d5+150 2d4+4
+496,497c509,511
+< c 'chill'
+< c 'fireball'
+---
+> c chill
+> c 'galvanic whip'
+> c 'black hand'
+515c529
+< 25 0 0 1d1+400 1d10+10
+---
+> 15 0 0 1d1+400 1d10+10
+546c560
+< 25 0 0 6d5+180 2d4+4
+---
+> 15 0 0 6d5+180 2d4+4
+562c576
+< grin
+---
+> evilgrin
+579c593
+< 18 0 0 6d5+150 2d4+4
+---
+> 8 0 0 6d5+150 2d4+4
+600c614
+< 26 0 0 1d1+400 1d10+10
+---
+> 16 0 0 1d1+400 1d10+10
+629c643
+< 28 0 0 6d5+220 2d8+8
+---
+> 18 0 0 6d5+220 2d8+8
+674c688
+< 28 0 0 6d5+350 4d3+14
+---
+> 18 0 0 6d5+350 4d3+14
+695c709
+< mpoload 35036 1
+---
+> mpoload 3136 1
+713c727
+< 28 0 0 10d10+200 1d10+10
+---
+> 18 0 0 10d10+200 1d10+10
+728c742
+< mpoload 35037 1
+---
+> mpoload 3137 1
+732c746
+< mpoload 35038
+---
+> mpoload 3138
+736c750
+< mpoload 35039 
+---
+> mpoload 3139 
+740c754
+< mpoload 35040
+---
+> mpoload 3140
+743c757
+< mpoload 35041
+---
+> mpoload 3141
+764c778
+< 24 0 0 6d5+180 2d4+4
+---
+> 14 0 0 6d5+180 2d4+4
+785c799
+< 15 0 0 10d10+50 1d4+2
+---
+> 5 0 0 10d10+50 1d4+2

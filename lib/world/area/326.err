@@ -1,0 +1,82 @@
+Zone 326 - The Caverns of Akivasha~ 0
+Finished Converting Mobs.
+
+Object 32600 has unsupported apply - APPLY_WEAPONSPELL. Removed
+Unsupported Obj Flag -  ITEM_INVENTORY at obj 32601. Removing
+Unsupported Obj Flag -  ITEM_NOLOCATE at obj 32601. Removing
+Unsupported Obj Flag -  ITEM_NOLOCATE at obj 32603. Removing
+Object 32603 has unsupported apply -  APPLY_BLOOD. Removed
+Object 32604 has unsupported apply -  APPLY_WEARSPELL. Removed
+Unsupported Obj Flag -  ITEM_NOLOCATE at obj 32605. Removing
+Object 32606 has unsupported apply -  APPLY_WEARSPELL. Removed
+Object 32606 has unsupported apply - APPLY_WEAPONSPELL. Removed
+Object 32606 has unsupported apply - APPLY_WEAPONSPELL. Removed
+Unsupported Obj Flag - ITEM_HIDDEN at obj 32608. Removing
+Potion/Scroll object 32611  needs spell assigned.
+SPELLS: Unsupported SMAUG SPELL (502) found in obj 32612. Set to -1.
+SPELLS: Unsupported SMAUG SPELL (516) found in obj 32612. Set to -1.
+Potion/Scroll object 32612  needs spell assigned.
+Unsupported ITEM Type (ITEM_BLOOD) found at obj 32613. Setting to Other.
+Unsupported Obj Flag -  ITEM_NOLOCATE at obj 32615. Removing
+Object 32615 has unsupported apply -  APPLY_STUN. Removed
+Unsupported Obj Flag -  ITEM_NOLOCATE at obj 32616. Removing
+Object 32616 has unsupported apply - APPLY_WEAPONSPELL. Removed
+Finished Converting Objects.
+
+Sectortype UNDERGROUND at room 32600 set to INSIDE.
+NOTICE: Room 32600, exit leads out of zone (to room 3551)
+Sectortype UNDERGROUND at room 32601 set to INSIDE.
+Sectortype UNDERGROUND at room 32602 set to INSIDE.
+Sectortype UNDERGROUND at room 32603 set to INSIDE.
+Sectortype UNDERGROUND at room 32604 set to INSIDE.
+Sectortype UNDERGROUND at room 32605 set to INSIDE.
+Unsupported EXIT FLAG (EX_xSEARCHABLE) in room 32605. It has been removed.
+Nonstandard MERC Sector at room 32607. Setting to Field.
+Unsupported EXIT FLAG (EX_xSEARCHABLE) in room 32607. It has been removed.
+Nonstandard MERC Sector at room 32608. Setting to Field.
+Nonstandard MERC Sector at room 32609. Setting to Field.
+Nonstandard MERC Sector at room 32610. Setting to Field.
+Unsupported EXIT FLAG (EX_xSEARCHABLE) in room 32610. It has been removed.
+Unsupported ROOM FLAG (ROOM_NOFLOOR) in room 32614. It has been removed.
+Unsupported ROOM FLAG (ROOM_NOFLOOR) in room 32615. It has been removed.
+Unsupported ROOM FLAG (ROOM_NOFLOOR) in room 32616. It has been removed.
+ROOM PROTOTYPE flag on room 32618.
+Sectortype UNDERGROUND at room 32630 set to INSIDE.
+Unsupported ROOM FLAG (ROOM_NOFLOOR) in room 32631. It has been removed.
+Sectortype UNDERGROUND at room 32631 set to INSIDE.
+Unsupported ROOM FLAG (ROOM_NOFLOOR) in room 32632. It has been removed.
+Sectortype UNDERGROUND at room 32632 set to INSIDE.
+Sectortype UNDERGROUND at room 32633 set to INSIDE.
+Sectortype UNDERGROUND at room 32634 set to INSIDE.
+Sectortype UNDERGROUND at room 32635 set to INSIDE.
+Sectortype UNDERGROUND at room 32636 set to INSIDE.
+Sectortype UNDERGROUND at room 32637 set to INSIDE.
+Sectortype UNDERGROUND at room 32638 set to INSIDE.
+Sectortype UNDERGROUND at room 32639 set to INSIDE.
+Sectortype UNDERGROUND at room 32640 set to INSIDE.
+Sectortype UNDERGROUND at room 32641 set to INSIDE.
+Sectortype UNDERGROUND at room 32642 set to INSIDE.
+Sectortype UNDERGROUND at room 32643 set to INSIDE.
+Sectortype UNDERGROUND at room 32644 set to INSIDE.
+Sectortype UNDERGROUND at room 32645 set to INSIDE.
+Sectortype UNDERGROUND at room 32646 set to INSIDE.
+Sectortype UNDERGROUND at room 32647 set to INSIDE.
+Sectortype UNDERGROUND at room 32648 set to INSIDE.
+Sectortype UNDERGROUND at room 32649 set to INSIDE.
+Sectortype UNDERGROUND at room 32650 set to INSIDE.
+Sectortype UNDERGROUND at room 32651 set to INSIDE.
+Sectortype UNDERGROUND at room 32652 set to INSIDE.
+Sectortype UNDERGROUND at room 32653 set to INSIDE.
+Sectortype UNDERGROUND at room 32654 set to INSIDE.
+Sectortype UNDERGROUND at room 32655 set to INSIDE.
+Nonstandard MERC Sector at room 32662. Setting to Field.
+Nonstandard MERC Sector at room 32663. Setting to Field.
+ROOM PROTOTYPE flag on room 32664.
+Finished Converting Rooms.
+
+Finished Converting Resets.
+
+Finished Converting Shops.
+
+Finished Converting Specials.
+

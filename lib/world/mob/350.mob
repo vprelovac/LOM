@@ -1,0 +1,795 @@
+#35000
+priestess forest~
+the priestess of the forest~
+A middle aged woman with handsome features awaits you.
+~
+A handsome woman of middle years, the priestess was ousted from her
+tower by a band of marauding orcs, who are too powerful for her to combat
+alone. She would be extremely grateful to any who aided her in liberating
+her tower.
+~
+bm cdfhkmw 765 C
+35 0 -300 20d20+1000 3d3+20
+100000 0
+8 8 2
+13 18 22 13 13 22 18
+0 1 2
+C
+> all_greet_prog 100~
+if isnpc($n)
+else
+if level($n) < 30
+sayto $n Greetings, neophyte adventurer. Doubtless you wander these 
+sayto $n woods in search of a way to prove your worth. Well I have
+sayto $n a quest for you, if you are interested. Are you?
+smile
+else
+endif
+endif
+~
+> speech_prog p yes~
+if level($n) < 30
+say Excellent!
+smile
+say Now pay close attention- To the north of here lies a tower of
+say stone, a magnificent structure that the current evil occupants
+say are far from worthy of. I bid thee enter this tower, slay the
+say evil within, and return to me the key, with which I may bar it
+say to further intruders. In return, I shall reward you well...
+else
+shake
+say You would find my mission to be too easy, friend.
+endif
+~
+> speech_prog p no~
+if level($n) < 30
+sigh
+say Ah well, I shall have to keep this priceless artifact for someone
+say with more courage and skill, 'twould seem...
+else
+endif
+~
+> fight_prog 33~
+c 'blind'
+c 'weaken' 
+c 'dispel magic' $n
+~
+> fight_prog 20~
+c 'harm'
+c 'heal'
+mpat 3 c 'cure blindness'
+mpat 3 c 'remove poison'
+~
+> give_prog large silver key~
+if level($n) < 30
+smile
+say Well done! Truly you have the potential to be a great hero!
+say As a reward, take this, my holy symbol.
+mpjunk key
+mpoload 35001 25
+give gift $n
+clap
+else
+smirk
+say Thanks, I'm sure you found that REAL tough...
+mpjunk key
+endif
+~
+|
+#35001
+orc sentry~
+an orc sentry~
+A burly orc stands guard here.
+~
+This burly goblinoid creature guards a key area of the tower's defense
+orcs may not be very intelligent but they are excellent tacticians and
+battle masters.
+~
+bfm k -700 C
+18 0 0 6d5+150 2d4+4
+120 0
+8 8 1
+13 13 13 13 13 13 13
+9 3 0
+C
+> fight_prog 10~
+yell Intruders in the tower! Alarum!
+, leaps for an alarm bell haning inside the doorway.
+if rand(60)
+, grabs the chain and pulls it hard! An orc appears to assist him!
+mpmload 35001
+else
+endif
+~
+> fight_prog 25~
+pull lever
+~
+> rand_prog 2~
+yawn
+mutter
+~
+|
+#35002
+orc sergeant~
+an orc sergeant~
+An orcish sergeant keeps an eye on the rabble he commands.
+~
+This burly goblinoid creature guards a key area of the tower's defense
+orcs may not be very intelligent but they are excellent tacticians and
+battle masters.
+~
+bfm k -700 C
+20 0 0 1d1+200 2d4+6
+200 0
+8 8 1
+18 13 13 13 13 13 13
+9 3 0
+C
+> rand_prog 2~
+say Hoi! You lot! Look alive there!
+mutter
+say Bleedin' ingrates...
+~
+> greet_prog 100~
+if ispc($n)
+say Well wot you want then, 'ay?
+mutter
+snarl
+endif
+~
+|
+#35003
+orc guard~
+an orcish guard~
+An offduty orc sits here playing cards.
+~
+This burly goblinoid creature guards a key area of the tower's defense
+orcs may not be very intelligent but they are excellent tacticians and
+battle masters.
+~
+bfm k -700 C
+20 0 0 6d5+150 2d4+4
+120 0
+8 8 1
+13 13 13 13 13 13 13
+9 3 0
+C
+> fight_prog 20~
+wield longsword
+grunt
+disarm
+~
+> rand_prog 2~
+smile
+say GIN!
+cackle
+mpe The other orcs throw down their cards in disgust.
+~
+> rand_prog 2~
+mutter
+say What a crap hand!
+~
+|
+#35004
+black pudding~
+a black pudding~
+An amorphous mass of black goo slides towards you.
+~
+(null)~
+fm dfk 0 C
+32 0 -100 10d10+500 4d4+20
+0 0
+8 8 0
+20 13 13 13 13 13 13
+12 3 0
+C
+> fight_prog 20~
+mea $n A pseudopod lunges from the mass, striking you!
+mpdamage $n 75
+c 'poison' $n
+c 'weaken' $n
+c 'feebleness' $n
+~
+> fight_prog 2~
+mea $n Suddenly the pudding lunges, and engulfs you! You dissolve in
+mea $n seconds, till only a pile of bones and equipment is left.
+mpslay $n
+~
+|
+#35005
+ballista orc~
+a ballista orc~
+An orc stands ready near the ballista.
+~
+This burly goblinoid creature guards a key area of the tower's defense
+orcs may not be very intelligent but they are excellent tacticians and
+battle masters.
+~
+bfm k -700 C
+10 0 0 6d5+150 2d4+4
+120 0
+8 8 1
+13 13 13 13 13 13 13
+9 3 0
+C
+> fight_prog 10~
+, dashes for the ballista, and wheels it to point back at you!
+mpforce $n cringe
+, pulls the trigger! A ballista bolt comes hurtling forwards...
+if cha($n) < 18
+mea $n Striking you in the chest!
+mpechoar $n Striking $n in the chest!
+mpdamage $n 125
+else
+mpe And it sails over the edge of the battlements!
+curse
+endif
+~
+|
+#35006
+orc guard~
+an orcish guard~
+An offduty orc sits here playing craps.
+~
+This burly goblinoid creature guards a key area of the tower's defense
+orcs may not be very intelligent but they are excellent tacticians and
+battle masters.
+~
+bfm k -700 C
+20 0 0 6d5+150 2d4+4
+120 0
+8 8 1
+13 13 13 13 13 13 13
+9 3 0
+C
+> rand_prog 2~
+mutter
+, shakes the bone dice vigorously in one gnarled hand.
+say Lady give me new shoes...
+mpe He throws...seven!
+cackle
+~
+> fight_prog 20~
+wield longsword
+kick
+cackle
+~
+> rand_prog 1~
+, slurps noisily from a greasy jack of ale.
+burp
+say 'Scuse me!
+~
+> act_prog p Loud snoring, interspersed by hiccups, can be heard.~
+say Shaddup!
+, hurls a tin can at someone to the west.
+mutter
+~
+|
+#35007
+boss hobgoblin shaman~
+the "Boss"~
+A massive hobgoblin shaman stands here roaring at his lackeys.
+~
+This vile sorcerer masterminded the takeover of the tower from its
+rightful owners, and now uses it as a base from which to send his troops
+on raids through the surrounding regions. Crafty, belligerent and quite
+ruthless, he is unlikely to go down without a fight.
+~
+bfm dfhks -1000 C
+30 0 -100 10d10+500 2d4+12
+15000 0
+8 8 1
+18 13 18 18 18 13 13
+0 1 2
+C
+> fight_prog 50~
+if rand(20)
+c 'acid blast'
+c 'fireball'
+else
+if rand(25)
+stun
+disarm
+gouge
+else
+if rand(30)
+c 'intesify'
+c 'dispel magic' $n
+else
+endif
+endif
+endif
+~
+> greet_prog 100~
+snicker
+if ispc($n)
+say Wretched adventurer, you have sealed your doom by coming here!
+cackle
+, utters a series of incantations, encasing himself in protective magics.
+c 'haste'
+c 'blink'
+c 'fire shield'
+c 'magical p'
+else
+endif
+~
+|
+#35008
+elite hobgoblin guard~
+an elite hobgoblin guard~
+A massive hobgoblin stands guard near the stairwell.
+~
+These are the personal guards of the Boss and his staff, and are fanatically
+loyal to their employers.
+~
+bfm dk -500 C
+24 0 0 1d1+300 2d6+10
+500 0
+8 8 0
+18 13 13 13 13 13 13
+12 3 0
+C
+> rand_prog 2~
+peer
+wield crossbow
+~
+> fight_prog 20~
+, fires his crossbow!
+mpdamage $r 50
+~
+> act_prog p from the north.~
+if ispc($n)
+yell INTRUDERS AT THE BOSS! SEND REINFORCEMENTS!
+say BANZAI! CHARGE!
+scream
+murder $n
+else
+say Go 'way!
+mpforce $n n
+endif
+~
+|
+#35009
+orc captain~
+an orc captain~
+An orcish captain narrows his eyes and sneers in contempt.
+~
+This burly goblinoid creature guards a key area of the tower's defense
+orcs may not be very intelligent but they are excellent tacticians and
+battle masters.
+~
+bm k -700 C
+23 0 0 5d5+250 1d4+12
+500 0
+8 8 1
+18 13 13 18 18 13 13
+9 3 0
+C
+> fight_prog 10~
+, fires his crossbow into the melee.
+zap $n
+mpdamage $n 20
+if rand(30)
+stun
+else
+wield sword
+endif
+~
+> greet_prog 100~
+if ispc($n)
+snarl
+say Foolish, yes, foolish, to enter here.
+cackle
+say I will kill you, when I finish my meal.
+else
+mutter
+endif
+~
+|
+#35010
+ogre captain~
+the ogre captain~
+The captain of the ogrish garrison sits here drinking.
+~
+This towering humanoid has the strength of ten humans, and knows how
+to use it to inflict maximum pain and suffering upon his hapless
+opponents, be they small or large. Too stupid to know fear, these 
+ogres make perfect shock troops.
+~
+bm dfk -1000 C
+28 0 -75 1d1+400 1d10+10
+1000 0
+8 8 1
+22 13 13 13 20 13 13
+7 3 2
+C
+> all_greet_prog 100~
+if ispc($n)
+say Go 'way. Me no feel like fightin' now.
+burp
+stretch
+else
+, snorts in derision.
+endif
+~
+> fight_prog 25~
+say Want fight, eh? Me fight then. HARD!
+cackle
+disarm
+kick
+~
+> hitprcnt_prog 10~
+say That HURT! Ogre MAD!
+, roars in anger and pain, and makes a last effort to best you.
+kick
+disarm
+~
+|
+#35011
+troll~
+a troll~
+A ten foot tall troll is smashing furniture over his head.
+~
+This foul brute is the representative of a band of trolls from the
+Kore who is considering joining his tribe with the forces in the tower
+in assaulting the hated humans and elves.
+~
+bfm fk -1000 C
+30 0 0 1d1+500 2d6+12
+10000 0
+8 8 1
+22 13 13 22 22 13 13
+8 3 2
+C
+> fight_prog 10~
+mpe The trolls wounds heal almost as fast as you inflict them!
+mpat 3 c 'heal'
+mpat 3 c 'cure blind'
+mpat 3 c 'remove poison'
+cackle
+~
+> fight_prog 20~
+feed
+if rand(40)
+stun
+else
+gouge
+endif
+~
+> rand_prog 2~
+scream
+grunt
+drool
+~
+|
+#35012
+orc shaman~
+an orcish shaman~
+The shaman is seated here behind a desk, drafting a letter.
+~
+The orcish spellcasters are a valued asset to the tower forces,
+capable of healing them as well as doing great harm to their enemies.
+~
+bfm k -750 C
+23 0 0 6d5+150 2d4+4
+500 0
+8 8 1
+13 13 18 13 13 13 13
+9 1 0
+C
+#35013
+orc witchdoctor~
+an orcish witchdoctor~
+The orcish witchdoctor is asleep in bed.
+~
+The orcish spellcasters are a valued asset to the tower forces,
+capable of healing them as well as doing great harm to their enemies.
+~
+bm k -750 C
+23 0 0 6d5+150 2d4+4
+500 0
+8 8 1
+13 18 13 13 13 13 13
+9 0 0
+C
+> fight_prog 10~
+c 'chill'
+c 'fireball'
+~
+> rand_prog 2~
+snore
+mpasound You hear someone snoring loudly behind the door to the west.
+~
+|
+#35014
+ogre ~
+an ogre~
+A hulking ogre tosses a large rock around.
+~
+This brutish thug is more than capable of tearing the heads off most
+humanoids and using them instead of the rock in his game. Thus most
+of the other troops garrisoned in the tower prefer to avoid him and
+his ilk.
+~
+bfm k 0 C
+25 0 0 1d1+400 1d10+10
+1000 0
+8 8 1
+20 13 13 13 13 13 13
+7 3 0
+C
+> greet_prog 33~
+if ispc($n)
+grunt
+mpe The ogre appears to be angered by your presence!
+say Here...catch!
+mea $n The ogre hurls a large rock at you!
+mpdamage $n 25
+mpforce $n say Oof!
+stun
+else
+say Go 'way, $n. We busy!
+endif
+~
+|
+#35015
+orc smith~
+a drunken orcish smith~
+A drunken orcish smith snores loudly.
+~
+The orcs keep a smith here to repair any items that they feel are
+worth the effort; such is his state of inebriation that he cannot
+readily distinguish between friend or foe, and will most probably repair
+anything thrust at him.
+~
+bgm k 0 C
+25 0 0 6d5+180 2d4+4
+1200 0
+8 8 0
+18 13 13 13 13 13 13
+9 3 0
+C
+> greet_prog 100~
+mea $n $I stares at you through bloodshot eyes.
+say Huh? Whazzat? 
+mutter
+hic
+say Need sumptin repaired, then?
+burp
+, wipes his filthy mouth on an equally filthy sleeve.
+~
+> rand_prog 2~
+grin
+hic
+~
+> rand_prog 5~
+mpasound Loud snoring, interspersed by hiccups, can be heard.
+~
+|
+#35016
+goof orc sleeping sentry~
+a lazy orc~
+A small orc sits in one of the chairs snoring away.
+~
+This burly goblinoid creature guards a key area of the tower's defense
+orcs may not be very intelligent but they are excellent tacticians and
+battle masters.
+~
+bm k -700 C
+18 0 0 6d5+150 2d4+4
+10 0
+8 8 1
+13 13 13 13 13 13 13
+9 3 0
+C
+> rand_prog 2~
+giggle
+sigh
+~
+|
+#35017
+ogre sentry~
+an ogre~
+An ogre sentry stands guard before the north door.
+~
+Paying remarkably good attention for an ogre, this fellow has determined
+to successfully prevent any intrusion- by killing anyone who comes near
+him.
+~
+bfm dfk 0 C
+26 0 0 1d1+400 1d10+10
+1000 0
+8 8 1
+20 13 13 13 13 13 13
+7 3 0
+C
+> greet_prog 100~
+if ispc($n)
+snarl
+say Intruder! Die!
+, raises a meaty fist and slams it into your midsection!
+mpdamage $n 45
+else
+endif
+~
+> rand_prog 2~
+peer
+smile
+~
+|
+#35018
+orc cook~
+the orc cook~
+A burly cook hefts a bloodstained cleaver.
+~
+This huge orc is the cook; he has to be huge to escape being slain for
+the consistently inedible quality of his meals.
+~
+bfm k -700 C
+28 0 0 6d5+220 2d8+8
+200 0
+8 8 1
+18 13 13 13 13 13 13
+9 3 0
+C
+> greet_prog 100~
+if ispc($n)
+say Orc chop!
+snarl
+cackle
+slaughter
+else
+endif
+~
+> fight_prog 75~
+disarm
+wield cleaver
+~
+> fight_prog 20~
+cackle
+drool
+yell FRESH MEAT!
+~
+> death_prog 100~
+mpe _lbl The orc cook says 'Whoops, looks like I'm next in the stew!'
+~
+> rand_prog 2~
+chuckle
+say Nice stew... Halfling guts!
+muhaha
+mpe The halfling groans weakly, and is smashed in the face for his efforts.
+say QUIET, little greasy OIK!
+mutter
+~
+|
+#35019
+elf warrior~
+an elven warrior~
+An elven warrior is chained to the wall.
+~
+This unfortunate was captured whilst scouting on behalf of Malathar.
+He knows he is next in the stew, and is eager to escape.
+~
+bm dfkm 0 C
+28 0 0 6d5+350 4d3+14
+0 0
+8 8 1
+13 13 13 13 13 13 13
+1 3 0
+C
+> all_greet_prog 100~
+if ispc($n)
+mpe The elf's eyes flick open as you enter.
+say Pray stranger, release me, I beseech thee!
+say Your reward will be great. Simply say you will release me.
+, stares imploringly at you.
+else
+endif
+~
+> speech_prog p i will release you~
+smile
+say Excellent!
+mea $n You draw your weapon and smash the chains binding the elf.
+, rubs his sore wrists and glances about nervously.
+say I must be off from this dark place. But first, take this...
+mpoload 35036 1
+give token $n
+say Take that to Captain Allethandra in Malathar, and he will
+say reward you for your assistance in our mission.
+wave
+mpe The elf dashes out the door and disappears.
+mpgoto 2
+~
+|
+#35020
+gelatinous cube~
+a gelatinous cube~
+A massive transparent cube of gelatinous matter oozes along.
+~
+This horror is a transparent mass of... goo that devours anything
+and everything in its path, especially adventurers.
+~
+fgm k 0 C
+28 0 0 10d10+200 1d10+10
+0 0
+8 8 0
+13 13 13 13 13 13 13
+12 3 0
+C
+> fight_prog 10~
+mea $n A pseudopod from the cube lashes out striking you in the chest!
+mea $n You feel a mild tingling sensation... paralysis!
+stun
+mpdamage $n 50
+~
+> death_prog 100~
+mpe As the beast dies, an item falls loose from within its guts.
+if rand(10)
+mpoload 35037 1
+drop ring
+else
+if rand(15)
+mpoload 35038
+drop helmet
+else
+if rand(20)
+mpoload 35039 
+drop greaves
+else
+if rand(25)
+mpoload 35040
+drop buckler
+else
+mpoload 35041
+drop potion
+endif
+endif
+endif
+endif
+~
+> rand_prog 2~
+mpasound A horrid slurping sound can be heard further down the corridor.
+~
+|
+#35021
+closet skeleton~
+a closet skeleton~
+As you enter, a skeleton leaps out of the cupboard!
+~
+This is the remains of a poor soul who was hiding from the orcs
+and perished from starvation. Now his animated form seeks revenge
+on those who it blames for its fate- everyone.
+~
+bfm dfkst 0 C
+24 0 0 6d5+180 2d4+4
+7500 0
+8 8 0
+13 13 13 13 13 13 13
+13 3 0
+C
+> greet_prog 100~
+mpe As you enter, the door of the wardrobe is flung open!
+, chatters its teeth menacingly and stalks forward, bones creaking.
+mpkill $n
+~
+|
+#35022
+peasant girl~
+a peasant girl~
+A filthy girl, her face stained with tear streaked dirt, grovels here.
+~
+This harmless wench was stolen from the tavern she worked at while she
+was outside chopping wood. She wants only to return home.
+~
+bm k 0 C
+15 0 0 10d10+50 1d4+2
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 3 0
+C
+> rand_prog 2~
+, sobs uncontrollably.
+~
+|
+$~

@@ -1,0 +1,438 @@
+#19001
+Entrance To The Elven Forest~
+  Huge green trees are everyware. An enormous wooden gate rises 
+up to the north.
+~
+190 0 3
+D0
+~
+~
+0 -1 19002
+D2
+~
+~
+0 -1 7873
+S
+#19002
+Guarded Path Through The Forest~
+  The path runs straight through the forest from south to north. 
+You feel yourself observed by someone. To the east you see a 
+wooden door in a large tree, and to the west you see a rope 
+hanging down from a tree.
+~
+190 0 3
+D0
+~
+~
+0 -1 19007
+D1
+~
+~
+0 -1 19003
+D2
+~
+~
+0 -1 19001
+D4
+~
+~
+0 -1 19006
+S
+#19003
+Guard Room~
+  In the north-east corner of this dimly lit room stands a large 
+round stone table. To the east and west you can see doors.
+~
+190 8 3
+D1
+~
+~
+0 -1 19004
+D3
+~
+~
+0 -1 19002
+D5
+the carpet is made of wool.
+~
+secret carpet wool~
+1 8000 9005
+S
+#19004
+Guard Chiefs Bed Room~
+  This room is apparantly the chief of the elvenguards bedroom. 
+In a corner stands a large bed and there is a door to the west.
+~
+190 8 3
+D3
+~
+~
+0 -1 19003
+S
+#19005
+Cellar~
+  In this damp cellar are some food and other things stored.
+~
+190 9 3
+D4
+~
+~
+0 -1 19003
+S
+#19006
+On The Platform~
+  You are standing on a wooden platform above the entrance of 
+the elven forest. From here you can see as far as Thewston.
+~
+190 4 5
+D5
+~
+~
+0 -1 19002
+S
+#19007
+Guarded Path Through The Forest~
+  The path runs straight through the forest from south to north.
+~
+190 0 3
+D0
+~
+~
+0 -1 19008
+D2
+~
+~
+0 -1 19002
+S
+#19008
+Path Crossing~
+  the path splits up into four paths, one in every direction. 
+In the middle on the crossing stands a gigantic stone obelisk 
+with some runes on it.
+~
+190 0 3
+D0
+~
+~
+0 -1 19009
+D2
+~
+~
+0 -1 19007
+E
+runes obelisk stone~
+If you had been an old elven sage you might have known what the 
+runes told, but you are not, so this means nothing to you....
+~
+S
+#19009
+A Fine Path Through The Elven Forest~
+  On both sides of this path is doors. Over the eastern door is a 
+sign telling you this must be the weapon shop, and over the western 
+door is a similar sign telling you it's the armoury.
+~
+190 0 3
+D0
+~
+~
+0 -1 19012
+D1
+~
+~
+0 -1 19010
+D2
+~
+~
+0 -1 19008
+D3
+~
+~
+0 -1 19011
+S
+#19010
+The Elven Armoury~
+  On the walls of this large room are fine elven armours hanging.
+~
+190 8 0
+D3
+~
+~
+0 -1 19009
+S
+#19011
+The Elven Weaponary~
+  On the counter and upon the walls hang fine weapons of elven quality.
+~
+190 8 0
+D1
+~
+~
+0 -1 19009
+S
+#19012
+A Fine Path Through The Elven Forest~
+  On both sides of this path are doors. Over the eastern door is a sign 
+telling you this must be the magic shop of the elven village, and 
+over the western door is a similar sign telling you it's Quintors 
+fine shop. To the north the path continues.
+~
+190 0 3
+D0
+~
+~
+0 -1 19015
+D1
+~
+~
+0 -1 19014
+D2
+~
+~
+0 -1 19009
+D3
+~
+~
+0 -1 19013
+S
+#19013
+Quintors Fine Shop~
+  In this fine room you can see all kinds of equipment. Everything 
+from bags to torches can bee seen on the shelves.
+~
+190 8 0
+D1
+~
+~
+0 -1 19012
+S
+#19014
+The Magic Shop~
+  As you enter this store you feel a sensation in your stomach. 
+There is something wrong here or is it just the powers of all 
+magic in here? All around this room you see objects of different 
+shapes and sizes.
+~
+190 8 0
+D3
+~
+~
+0 -1 19012
+S
+#19015
+The End Of The Fine Path~
+  On both sides of this path are doors. Over the eastern door is a 
+sign telling you this must be the tavern of the village, and to 
+the north you see a large house, about two stores high.
+~
+190 0 3
+D0
+~
+~
+0 -1 19017
+D1
+~
+~
+0 -1 19016
+D2
+~
+~
+0 -1 19012
+S
+#19016
+The Tavern Of Hope~
+  You are standing in the bar of the Tavern. The bar is set against 
+the northern wall, old elven writings, carvings and symbols cover 
+its top. A fireplace is built into the eastern wall, and through 
+the door in the western wall you se the fine path. This place 
+really makes you feel at home.
+~
+190 8 0
+D3
+~
+~
+0 -1 19015
+D4
+~
+~
+0 -1 19090
+S
+#19017
+Inside The Fine House~
+  You stand in a large foaye whith large stairs leading up and doors 
+to the east and west.
+~
+190 8 0
+D1
+~
+~
+0 -1 19019
+D2
+~
+~
+0 -1 19015
+D3
+~
+~
+0 -1 19018
+D4
+~
+~
+0 -1 19020
+S
+#19018
+Guard Room~
+  This room looks much like a guard room, and it must be for in the 
+room you can see:
+~
+190 8 0
+D1
+~
+~
+0 -1 19017
+S
+#19019
+Trophy Room Of The Elven King~
+  You stand in the trophy room of the King. On the walls of the room 
+hunting trophies and gifts of all sorts are hanging.
+~
+190 8 0
+D3
+~
+~
+0 -1 19017
+S
+#19020
+The Grand Stairs~
+  You are climbing up the grand stairs of the house. The stairs 
+continue up and down.
+~
+190 8 0
+D4
+~
+~
+0 -1 19021
+D5
+~
+~
+0 -1 19017
+S
+#19021
+The Upper Floor Of The House~
+  You are standing in a corridor leading to the east. On the north 
+and south walls are doors.
+~
+190 8 0
+D0
+~
+~
+0 -1 19023
+D1
+~
+~
+0 -1 19022
+D2
+~
+~
+0 -1 19024
+D5
+~
+~
+0 -1 19020
+S
+#19022
+The Corridor~
+  You are standing in a corridor with wooden floor and ceiling. To 
+the north and to the south are doors. Fo the east you see a window.
+~
+190 8 0
+D0
+~
+~
+0 -1 19026
+D1
+~
+~
+0 -1 19025
+D2
+~
+~
+0 -1 19027
+D3
+~
+~
+0 -1 19021
+S
+#19023
+The Library~
+  Book shelves line the walls of this room. In the center of the 
+room is a large desk and some chairs. The shelves are filled with 
+books and scrolls.
+~
+190 8 0
+D2
+~
+~
+0 -1 19021
+S
+#19024
+The Livingroom~
+  In this room you feel the warmth from the fireplace and there is 
+some nice chairs in front of the fireplace. You feel relaxed, why 
+not rest a while?
+~
+190 8 0
+D0
+~
+~
+0 -1 19021
+S
+#19025
+Falling Down To The Ground~
+  IT'S NO GOOD!!! YOU'RE NOT A BIRD, YOU WILL NOW DIE SQUATED ON THE 
+GROUND. ASK A WIZARD TO GET A SPATULA!
+~
+190 518 0
+D3
+~
+~
+0 -1 19022
+S
+#19026
+Guards Bed Room~
+  This looks like an ordinary bed room with about twenty beds in it. 
+There are no other exits than the one to the south.
+~
+190 8 0
+D0
+~
+~
+0 -1 19027
+D2
+~
+~
+0 -1 19022
+S
+#19027
+The Training Room~
+  In the middle of this room there is some training equipment, and 
+there are currently:
+~
+190 8 0
+D0
+~
+~
+0 -1 19022
+S
+#19090
+The Reception In The Tavarn Of The Hope~
+   You are standing in the reception.  The staircase leads down to 
+the entrance hall.  There is a small sign on the counter.
+~
+190 12 0
+D5
+You see the Tavern of Hope.
+~
+~
+0 -1 19016
+S
+$

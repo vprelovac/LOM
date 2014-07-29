@@ -1,0 +1,454 @@
+#35348
+kobold cage~
+The kobold~
+A short kobold cowers in the corner.
+~
+This kobold is a short, sadistically cowardly representation of a humanoid
+creature. He is barely three feet tall and is covered in a dark, rusty-
+brown, scaly hide.
+~
+bfm 0 0 C
+1 0 0 11d1+0 0d0+0
+100 0
+8 8 1
+13 13 13 13 13 13 13
+12 0 0
+C
+#35349
+teenage orc cage teen~
+The orc~
+A teenage orc awaits the next fight.
+~
+Orc's are the ultimate warriors. Large, strong and dumb as a rock, orcs
+make one tough opponent. Luckily this orc is very young.
+~
+bfm 0 0 C
+1 0 0 11d1+0 0d0+0
+100 0
+8 8 1
+13 13 13 13 13 13 13
+12 0 0
+C
+#35350
+neanderthal caveman cage~
+The neanderthal~
+A caveman has been captured for you to kill.
+~
+This appears to be an ancient human. His big and stupid. Wonder where he
+came from?
+~
+bfm 0 0 C
+1 0 94 11d1+0 0d0+0
+100 0
+8 8 1
+13 13 13 13 13 13 0
+12 0 0
+C
+#35351
+halfling cage thief~
+The halfling~
+A halfling thief is here to pay for his crimes.
+~
+Halflings are short and quick. They make the ultimate thieves. Something that
+obviously didn't bode well for this halfling.
+~
+bgm 0 0 C
+1 0 94 11d1+0 0d0+0
+100 0
+8 8 0
+13 13 13 13 13 13 13
+4 0 0
+C
+#35352
+lizardman cage~
+The lizardman~
+A scaly lizardman would be easy prey.
+~
+Lizardmen are very rare around here. This one must have taken a very large
+hunt to catch. You think on this shortly before you decide to cut off his
+head.
+~
+bfm 0 0 C
+1 0 0 11d1+0 0d0+0
+100 0
+8 8 1
+13 13 13 13 13 13 13
+12 0 0
+C
+#35354
+skeleton~
+The skeleton~
+A stack of bones shambles to attack!
+~
+Dragged back from their eternal rest, these nagas were Queen Asp's personal
+bodyguards.  Known to be fierce fighters in their past lifetime, they now
+possess an "undying" loyalty to their Queen.
+Skeletons are magically animated undead monsters, created by a powerful mage
+as guardians or warriors. Wonder who this skeleton is guardian?
+~
+fm 0 0 C
+7 0 60 1d1+50 0d0+0
+300 0
+8 8 0
+13 13 13 13 13 13 0
+12 0 0
+C
+> death_prog 100~
+mpe The piles of bones shatters to dust!
+~
+|
+#35355
+ghast~
+A ghast~
+A horrible ghast stammers by.
+~
+A ghast is an undead creature, once human who now feeds on the flesh of
+corpses. His teeth have become elongated, his nails sharp and curved,
+resembling claws and he exudes an awful stench.
+~
+fgm dfk 0 C
+8 11 25 2d7+130 1d4+6
+1000 2000
+8 8 1
+15 13 13 17 13 13 13
+13 0 0
+C
+#35356
+wraith undead powerful~
+the wraith~
+A powerful undead being grasps at you with fiendish claws
+~
+This wraith is a powerful undead creature. He was once a powerful mage in
+life, but now he is an undead creature who feeds on the dead.
+~
+bfm 0 0 C
+7 0 80 60d1+0 0d0+0
+500 0
+8 8 2
+13 13 13 13 13 13 0
+4 0 0
+C
+#35357
+zombie~
+the zombie~
+A zombie with skin dripping from its body moans as it makes its way towards you.
+~
+This zombie apears to be a walking corpse. He is powered by some unknown
+magic. His sole thought appears to be his urge to eat flesh.
+~
+fgm dfk 0 C
+8 11 25 2d7+130 1d4+6
+1000 2000
+8 8 1
+15 13 13 17 13 13 13
+13 0 0
+C
+#35300
+Act Mob~
+Act Mob~
+An Act Mob is here, but can not be seen by Pre-Auths.
+~
+(null)~
+bm bdkt 0 C
+53 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0
+C
+#35301
+Abygail Lady~
+The Lady Abygail~
+A beautiful woman stands here, welcoming those new to the world.
+~
+This lady is an effigy of all that is grand in the world. She stands, flowing
+in an extravagant gown of pure gold. He golden hair reflects light as if
+her head is the sun itself. She glows with an aura of goodness and beauty.
+She is truly a beautiful creature.
+~
+bgm dfh 1000 C
+54 0 -200 1d1+30000 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0
+C
+> act_prog p arrives from above.~
+mpapplyb $n
+~
+> act_prog p arrives from the north.~
+tell $n There is nothing more for you here.
+mea $n Return to choose your path $n.
+~
+|
+#35305
+Treblon~
+Treblon the guide~
+A tall man stands here, waiting to guide you further.
+~
+Treblon is a large man, well over 6 feet tall and obviously very
+powerful. But he stands forever by with a large smile on his face,
+eager to help any who need it.
+~
+bgm df 1000 C
+54 0 0 1d1+30000 0d0+0
+0 0
+8 8 1
+25 15 25 25 25 25 25
+0 0 0
+C
+> all_greet_prog 100~
+tell $n Welcome $n.
+mea $n I am glad you have made it this far. I hope you have chosen your
+mea $n destiny wisely. You have yet to face any real challenges. Those
+mea $n will come soon. Ahead of you lies many challenges. You will be
+mea $n forced to make many more decisions and some will decide if you
+mea $n live or die. You have been protected from harm in this small
+mea $n area here, ahead we cannot protect you anymore. Your decisions
+mea $n and your life will be your own responsibility. If you are ready
+mea $n to face these challenges and you are satisfied with your choices thus
+mea $n far, simply say "I wish to leave" and I will take you to the newbie
+mea $n academy, where you will be trained and prepared for your many
+mea $n battles. If you are not satisfied with your choices however, simply
+mea $n say "take me back" and I will send you back to Abygail so you may
+mea $n choose again. Your destiny is your own. Make your chose.
+c 'refresh' $n
+c 'refresh' $n
+~
+> speech_prog p back~
+tell $n Very well. Choose more wisely this time.
+mptransfer $n 35301
+~
+> speech_prog p leave~
+tell $n Very well. I will take you to the academy where you can train
+tell $n yourself for the many battles ahead. Happy hunting $n!
+mea $n With a wave of his hand Treblon wisks you to new surroundings.
+mptransfer $n 35306
+mpat 35306 mpforce $n look
+~
+|
+#35308
+Havelstaff Trainer~
+Havelstaff the trainer~
+Havelstaff the trainer waits for new student to teach the art of warfair.
+~
+(null)~
+bgm 0 1000 C
+51 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0
+C
+> all_greet_prog 100~
+tell $n Welcome $n! Are you ready to practice your skills?
+~
+|
+#35309
+Edrath Librarian Teacher Scholar~
+Edrath the scholar~
+A beautiful woman stands here, looking for someone to teach.
+~
+This has to be one of the most beautiful women in these Realms, both inside
+and out. Her eyes have a sparkle of amusement and her face an easy smile.
+She knows you are admiring her, and she does not seem to mind. She is
+comfortable and confident that the picture she makes is breath taking. Her
+voice at last breaks the spell. Her voice is like satin, you can hardly
+wait for your lessons to begin. Any reason to hear her speak the tongues
+foreign to your ears.
+~
+bm dfh 0 C
+51 16 5 1000d1+0 1d6+3
+50 450
+8 8 2
+13 13 13 13 13 13 13
+0 0 0
+C
+> all_greet_prog 100~
+tell $n Hi $n! Are you ready to for a lesson?
+smile $n
+~
+|
+#35315
+Gibberling~
+The gibberling~
+A gibberling stammers to attack!
+~
+A gibberling is short, hunchbacked humanoid figure. He rages and stammers at
+all that pass in his range with no apparent thought to his own safety.
+~
+gm 0 -200 C
+5 0 88 55d0+1 0d0+0
+100 0
+8 8 0
+13 13 13 13 13 13 0
+0 0 0
+C
+#35316
+Ettercap~
+The ettercap~
+An ugly, spiny ettercap wanders aimlessly by.
+~
+This ettercap is tall, bipedal creature. He has short, spindly legs and arms
+that reach nearly to his knees. He is truly a grotesque creature.
+~
+gm def 0 C
+5 0 -1 55d0+1 0d0+0
+1000 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0
+C
+#35317
+giant spider~
+The giant spider~
+A giant spider is here, venom dripping from its fangs.
+~
+This is an oversized giant spider. It has eight legs and eight eyes, all
+which seem to be staring angrily at you. You can make out the gling of
+venom off its fangs.
+~
+bm 0 0 C
+4 0 35 50d1+0 0d0+0
+1000 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+> death_prog 33~
+mpoload 35316 1
+mpe The spider's fangs are cut from his mouth!
+~
+|
+#35318
+wild dog~
+the wild dog~
+A wild dog has wandered in.
+~
+This is one of the area's wild dogs. In the wilderness they roam in large packs
+and have been known to attack travellers. As a result of their danger they are
+herded into the academy to be killed.
+~
+gm 0 0 C
+4 0 45 44d0+1 0d0+0
+500 0
+8 8 0
+13 13 13 13 13 13 13
+12 0 0
+C
+#35319
+newbie insane~
+an insane newbie~
+An insane newbie screams and hacks like a madman!
+~
+This is a prime example of "when good newbies go bad(tm)". A horrible
+craze has compounded this newbie, inciting him into battle craze of
+unnerving mutterings and god-awful spasms.
+~
+gm def 0 C
+5 0 -1 55d0+1 0d0+0
+1000 0
+8 8 1
+13 13 13 13 13 13 13
+0 0 0
+C
+> fight_prog 10~
+say ahhhhhhh....whhhhaaaaaaaa....
+yell AHHAHAHAHHHAHHAHAHA!!!!!!KILLLLLL!!!!
+~
+|
+#35343
+Martin newbie guide newbieguide~
+Martin, the newbie guide~
+Martin is here to guide you on your way.
+~
+Martin is a tall, powerful human. At one time he was one of the most feared
+warriors of his time. Now he has taken up the art of healing and has
+dedicated his life to aiding newbie's in their quest.
+~
+bgm df 1000 C
+54 0 0 1d1+30000 0d0+0
+0 0
+8 8 1
+25 15 25 25 25 25 25
+0 0 0
+C
+> all_greet_prog 100~
+if wasinroom($n) == 35342
+tell $n Welcome $n.
+mea $n Directly below you will find several cages housing monsters
+mea $n we have captured for you to kill. We have placed a piece of equipment on
+mea $n each of the monsters that will aid you in your journey. When you're
+mea $n ready to try your hand at battle proceed down.
+c 'refresh' $n
+c 'refresh' $n
+else
+tell $n Happy hunting $n!
+c 'refresh' $n
+c 'refresh' $n
+endif
+~
+|
+#35344
+Trillan healer~
+Trillan the healer~
+Trillan will heal you before you fight.
+~
+Trillan is a dedicated healer. He is here to heal you before and
+after you fight.
+~
+bm 0 0 C
+50 0 94 11d1+0 0d0+0
+100 0
+8 8 1
+13 13 13 13 13 13 0
+0 0 0
+C
+#35345
+Hobgoblin cage~
+the hobgoblin~
+A wiry hobgoblin is inprisoned here.
+~
+This hobgoblin appears to be juvenile in age. He stands slightly over 6
+feet tall and is covered in thick, red hair. His face is dark red and he
+seems to wear a face of perpetual hatred towards you.
+~
+bfm 0 0 C
+1 0 94 11d1+0 0d0+0
+100 0
+8 8 1
+13 13 13 13 13 13 0
+12 0 0
+C
+#35346
+goblin cage~
+The goblin~
+A dirty juvenile goblin scowls at you in disgust
+~
+Goblins are the perpetual enemies of all other humanoid races. He has been
+sent here as a prisoner of that war.
+~
+bgm 0 0 C
+1 0 94 11d1+0 0d0+0
+100 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0
+C
+#35347
+gnoll cage~
+The gnoll~
+A small gnoll is ready to steal your gold.
+~
+The gnoll is small and grubby. He has been sentenced to die here for his
+thieving ways. You start to feel bad for him, but as he eyes your weapons
+and coinpurse, you decide he deserves to die.
+~
+bgm 0 0 C
+1 0 94 11d1+0 0d0+0
+100 0
+8 8 0
+13 13 13 13 13 13 13
+0 0 0
+C
+$~

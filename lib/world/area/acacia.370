@@ -1,0 +1,7579 @@
+#370
+The Great Forest of Acacia~
+37299 35 2
+
+#AUTHOR Ophelia~
+
+#RESETMSG &GThe magic of the forest renews itself.&g~
+
+M 0 37001 1 37021 
+E 1 37003 1 12 
+E 1 37004 1 16 
+E 1 37005 1 3 
+M 0 37000 1 37006 
+E 1 37002 1 6 
+D 0 37006 1 1 
+M 0 37002 1 37196 
+E 1 37006 1 0 
+M 0 37006 2 37069 
+M 0 37006 3 37067 
+M 0 37006 5 37064 
+M 0 37006 7 37060 
+M 0 37008 2 37038 
+M 0 37008 2 37038 
+M 0 37008 5 37073 
+M 0 37008 5 37073 
+M 0 37008 5 37079 
+M 0 37009 1 37079 
+M 0 37010 2 37079 
+M 0 37010 2 37079 
+M 0 37011 3 37049 
+M 0 37011 3 37049 
+M 0 37011 4 37057 
+M 0 37011 7 37055 
+M 0 37011 7 37055 
+M 0 37011 8 37051 
+M 0 37011 11 37052 
+M 0 37011 11 37052 
+M 0 37011 13 37047 
+M 0 37011 14 37054 
+M 0 37011 15 37044 
+M 0 37012 1 37046 
+M 0 37006 11 37070 
+M 0 37012 2 37070 
+M 0 37012 4 37068 
+M 0 37012 4 37068 
+M 0 37006 11 37066 
+M 0 37012 5 37066 
+M 0 37012 6 37065 
+M 0 37006 11 37062 
+M 0 37012 7 37062 
+M 0 37012 8 37061 
+M 0 37011 15 37056 
+M 0 37012 11 37056 
+M 0 37011 15 37053 
+M 0 37012 12 37053 
+M 0 37011 15 37050 
+M 0 37012 14 37050 
+M 0 37012 14 37050 
+M 0 37012 16 37043 
+M 0 37012 16 37043 
+M 0 37011 15 37045 
+M 0 37012 17 37045 
+M 0 37006 11 37040 
+M 0 37012 19 37040 
+M 0 37013 1 37023 
+E 1 37011 1 16 
+E 1 37012 1 3 
+M 0 37014 1 37028 
+M 0 37014 2 37027 
+M 0 37014 3 37026 
+M 0 37014 4 37025 
+M 0 37014 5 37024 
+M 0 37014 6 37030 
+M 0 37014 7 37031 
+M 0 37014 8 37032 
+M 0 37014 9 37033 
+M 0 37014 10 37034 
+M 0 37014 11 37035 
+M 0 37014 12 37036 
+M 0 37014 13 37037 
+M 0 37015 1 37156 
+E 1 37013 1 16 
+E 1 37016 1 5 
+M 0 37003 1 37072 
+E 1 37007 1 5 
+E 1 37010 1 14 
+E 1 37021 1 6 
+M 0 37004 1 37072 
+E 1 37007 1 5 
+E 1 37009 1 3 
+E 1 37021 1 6 
+M 0 37005 1 37072 
+E 1 37007 1 5 
+E 1 37008 1 1 
+E 1 37021 1 6 
+M 0 37017 3 37092 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37017 4 37086 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37017 7 37124 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37017 8 37113 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37017 11 37171 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37017 13 37177 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37017 14 37191 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37018 5 37096 
+E 1 37015 1 16 
+E 1 37017 1 11 
+M 0 37018 8 37122 
+E 1 37017 1 11 
+E 1 37015 1 16 
+M 0 37018 10 37175 
+E 1 37017 1 11 
+E 1 37015 1 16 
+M 0 37018 11 37184 
+E 1 37015 1 16 
+E 1 37017 1 11 
+M 0 37018 12 37186 
+E 1 37017 1 11 
+E 1 37015 1 16 
+M 0 37020 2 37199 
+M 0 37020 2 37199 
+M 0 37020 4 37197 
+M 0 37020 4 37197 
+M 0 37020 6 37198 
+M 0 37020 6 37198 
+M 0 37020 7 37194 
+M 0 37020 8 37195 
+M 0 37019 1 37200 
+E 1 37023 1 10 
+G 1 37024 1 
+M 0 37020 9 37200 
+M 0 37017 17 37160 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37021 6 37185 
+M 0 37021 7 37192 
+M 0 37021 8 37187 
+M 0 37021 9 37163 
+M 0 37021 10 37123 
+M 0 37021 11 37120 
+M 0 37021 12 37110 
+M 0 37021 13 37097 
+M 0 37021 15 37093 
+M 0 37021 16 37083 
+M 0 37022 1 37102 
+E 1 37025 1 8 
+M 0 37022 3 37091 
+E 1 37025 1 8 
+M 0 37022 4 37111 
+E 1 37025 1 8 
+M 0 37022 6 37131 
+E 1 37025 1 8 
+M 0 37022 8 37127 
+E 1 37025 1 8 
+M 0 37022 9 37081 
+E 1 37025 1 8 
+M 0 37021 18 37114 
+M 0 37022 11 37143 
+E 1 37025 1 8 
+M 0 37022 13 37158 
+E 1 37025 1 8 
+M 0 37017 18 37180 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37022 14 37180 
+E 1 37025 1 8 
+M 0 37022 16 37137 
+E 1 37025 1 8 
+O 0 37001 1 37071 
+D 0 37000 4 1 
+M 0 37023 1 37139 
+M 0 37023 2 37189 
+M 0 37023 3 37142 
+M 0 37021 18 37159 
+M 0 37023 5 37159 
+M 0 37023 6 37170 
+M 0 37023 8 37178 
+M 0 37023 9 37183 
+M 0 37023 12 37116 
+M 0 37023 14 37088 
+M 0 37023 15 37094 
+M 0 37018 17 37098 
+E 1 37015 1 16 
+E 1 37017 1 11 
+M 0 37023 19 37098 
+M 0 37021 18 37075 
+M 0 37024 1 37075 
+E 1 37026 1 6 
+M 0 37023 19 37077 
+M 0 37024 2 37077 
+E 1 37026 1 6 
+M 0 37017 18 37087 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37024 3 37087 
+E 1 37026 1 6 
+M 0 37018 17 37090 
+E 1 37015 1 16 
+E 1 37017 1 11 
+M 0 37024 4 37090 
+E 1 37026 1 6 
+M 0 37022 16 37106 
+E 1 37025 1 8 
+M 0 37024 5 37106 
+E 1 37026 1 6 
+M 0 37024 6 37117 
+E 1 37026 1 6 
+M 0 37024 7 37129 
+E 1 37026 1 6 
+M 0 37024 8 37132 
+E 1 37026 1 6 
+M 0 37017 18 37121 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37024 9 37121 
+E 1 37026 1 6 
+M 0 37018 17 37119 
+E 1 37017 1 11 
+E 1 37015 1 16 
+M 0 37024 10 37119 
+E 1 37026 1 6 
+M 0 37023 19 37179 
+M 0 37024 12 37179 
+E 1 37026 1 6 
+M 0 37021 18 37174 
+M 0 37024 13 37174 
+E 1 37026 1 6 
+M 0 37024 15 37154 
+E 1 37026 1 6 
+M 0 37024 18 37146 
+E 1 37026 1 6 
+M 0 37018 17 37085 
+E 1 37015 1 16 
+E 1 37017 1 11 
+M 0 37025 12 37085 
+M 0 37025 15 37100 
+M 0 37025 16 37103 
+M 0 37025 18 37107 
+M 0 37025 24 37128 
+M 0 37025 24 37128 
+M 0 37022 16 37140 
+E 1 37025 1 8 
+M 0 37025 25 37140 
+M 0 37023 19 37145 
+M 0 37025 26 37145 
+M 0 37025 28 37162 
+M 0 37024 18 37169 
+E 1 37026 1 6 
+M 0 37025 29 37169 
+M 0 37018 17 37173 
+E 1 37017 1 11 
+E 1 37015 1 16 
+M 0 37025 30 37173 
+M 0 37017 18 37188 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37025 31 37188 
+M 0 37018 17 37193 
+E 1 37017 1 11 
+E 1 37015 1 16 
+M 0 37025 32 37193 
+M 0 37025 32 37013 
+M 0 37026 7 37013 
+M 0 37026 7 37013 
+M 0 37017 18 37074 
+E 1 37019 1 16 
+E 1 37022 1 7 
+M 0 37018 17 37074 
+E 1 37015 1 16 
+E 1 37017 1 11 
+M 0 37026 10 37074 
+M 0 37017 18 37076 
+E 1 37019 1 16 
+E 1 37022 1 7 
+M 0 37025 33 37076 
+M 0 37026 11 37076 
+M 0 37026 12 37080 
+M 0 37017 18 37099 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37023 19 37099 
+M 0 37026 13 37099 
+M 0 37018 17 37112 
+E 1 37017 1 11 
+E 1 37015 1 16 
+M 0 37026 16 37112 
+M 0 37017 18 37109 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37026 18 37109 
+M 0 37025 33 37130 
+M 0 37026 19 37130 
+M 0 37017 18 37150 
+E 1 37022 1 7 
+E 1 37019 1 16 
+M 0 37026 23 37150 
+M 0 37026 23 37150 
+M 0 37026 25 37161 
+M 0 37026 25 37161 
+M 0 37024 18 37141 
+E 1 37026 1 6 
+M 0 37026 26 37141 
+M 0 37021 18 37182 
+M 0 37026 27 37182 
+M 0 37025 33 37147 
+M 0 37022 16 37147 
+E 1 37025 1 8 
+M 0 37006 11 37041 
+M 0 37012 19 37041 
+M 0 37006 11 37041 
+M 0 37006 11 37059 
+M 0 37012 19 37059 
+M 0 37012 19 37059 
+M 0 37007 1 37063 
+M 0 37006 12 37063 
+O 0 37028 1 37022 
+M 0 37018 17 37082 
+E 1 37015 1 16 
+E 1 37017 1 11 
+M 0 37017 18 37082 
+E 1 37022 1 7 
+E 1 37019 1 16 
+O 0 37028 1 37082 
+M 0 37023 19 37084 
+O 0 37028 1 37084 
+M 0 37021 18 37089 
+O 0 37028 1 37089 
+M 0 37018 17 37104 
+E 1 37017 1 11 
+E 1 37015 1 16 
+O 0 37028 1 37104 
+M 0 37018 17 37105 
+E 1 37015 1 16 
+E 1 37017 1 11 
+M 0 37025 33 37105 
+M 0 37026 28 37105 
+O 0 37028 1 37105 
+O 0 37028 1 37095 
+M 0 37023 19 37118 
+M 0 37025 33 37118 
+O 0 37028 1 37118 
+M 0 37022 16 37108 
+E 1 37025 1 8 
+M 0 37025 33 37108 
+O 0 37028 1 37108 
+M 0 37022 16 37133 
+E 1 37025 1 8 
+M 0 37025 33 37133 
+O 0 37028 1 37133 
+M 0 37023 19 37126 
+M 0 37026 28 37126 
+O 0 37028 1 37126 
+M 0 37026 28 37101 
+M 0 37026 28 37101 
+O 0 37028 1 37101 
+M 0 37025 33 37078 
+M 0 37025 33 37078 
+O 0 37028 1 37078 
+M 0 37026 28 37136 
+O 0 37028 1 37136 
+O 0 37028 1 37138 
+M 0 37022 16 37190 
+E 1 37025 1 8 
+M 0 37024 18 37190 
+E 1 37026 1 6 
+O 0 37028 1 37190 
+M 0 37018 17 37181 
+E 1 37015 1 16 
+E 1 37017 1 11 
+O 0 37028 1 37181 
+M 0 37021 18 37172 
+O 0 37028 1 37172 
+M 0 37024 18 37144 
+E 1 37026 1 6 
+O 0 37028 1 37144 
+M 0 37021 18 37149 
+M 0 37023 19 37149 
+O 0 37028 1 37149 
+M 0 37016 4 37167 
+E 1 37014 1 14 
+E 1 37018 1 17 
+E 1 37020 1 13 
+M 0 37016 4 37164 
+E 1 37014 1 14 
+E 1 37018 1 17 
+E 1 37020 1 13 
+M 0 37016 4 37151 
+E 1 37014 1 14 
+E 1 37018 1 17 
+E 1 37020 1 13 
+M 0 37016 4 37155 
+E 1 37014 1 14 
+E 1 37018 1 17 
+E 1 37020 1 13 
+M 0 37026 28 37001 
+O 0 37030 1 37001 
+M 0 37025 33 37002 
+M 0 37026 28 37002 
+O 0 37029 1 37002 
+M 0 37025 33 37003 
+M 0 37027 3 37003 
+E 1 37027 1 9 
+O 0 37030 1 37003 
+M 0 37026 28 37004 
+O 0 37029 1 37004 
+M 0 37025 33 37009 
+O 0 37030 1 37009 
+M 0 37026 28 37010 
+M 0 37027 3 37010 
+E 1 37027 1 9 
+O 0 37029 1 37010 
+M 0 37025 33 37011 
+M 0 37025 33 37011 
+O 0 37030 1 37011 
+M 0 37026 28 37012 
+O 0 37029 1 37012 
+M 0 37025 33 37017 
+O 0 37030 1 37017 
+M 0 37026 28 37014 
+O 0 37030 1 37014 
+O 0 37029 1 37014 
+M 0 37025 33 37015 
+M 0 37027 3 37015 
+E 1 37027 1 9 
+O 0 37030 1 37015 
+O 0 37029 1 37015 
+M 0 37025 33 37016 
+M 0 37025 33 37016 
+M 0 37026 28 37016 
+O 0 37030 1 37016 
+O 0 37029 1 37016 
+M 0 37025 33 37005 
+M 0 37026 28 37005 
+O 0 37029 1 37005 
+O 0 37030 1 37005 
+M 0 37025 33 37134 
+M 0 37024 18 37134 
+E 1 37026 1 6 
+S
+$~
+$end~
+
+
+#ROOMS
+#37000
+Ophelia's Padded Cell~
+You walk into Ophelia's office, and find it like no other room you've seen.  
+Thick padding covers the entire room:  walls, floor, ceiling.  Could it be
+that it is to protect herself, or could it have some other, some kinky
+function?  You feel the walls and floor, their surface is made of satin and the
+filling feels soft as a cloud.  It is so comfortable you could sleep on it...
+or do other things.  There is no furniture in the room, only pillows and 
+blankets of various sizes and textures.  A chandelier hangs from the ceiling
+in the center of the room; it's dim candles bestow the room with it's only
+source of light.
+~
+370 cd 0
+S
+#37001
+A Path into the Forest~
+You are on a path into the Forest of Acacia.  Wildflowers grow on either side
+of the path in between the berry bushes.  The cobblestone path looks rather
+worn beneath your feet, yet looks like it will last many more years.  Up in the
+distance you spot the forest, and sigh with relief.  The forest is a peaceful
+place to relax in.  You pick up your tired feet and tread onward.
+~
+370 0 3
+D1
+~
+~
+0 -1 37002
+D3
+~
+~
+0 -1 33004
+S
+#37002
+A Path into the Forest~
+You are on a path into the Forest of Acacia.  Wildflowers grow on either side 
+of the path in between the berry bushes.  The cobblestone path looks rather
+worn beneath your feet, yet looks like it will last many more years.  Up in the
+distance you spot the forest, and sigh with relief.  The forest is a peaceful
+place to relax in.  You pick up your tired feet and tread onward.
+~
+370 0 3
+D0
+~
+~
+0 -1 37003
+D3
+~
+~
+0 -1 37001
+S
+#37003
+A Path into the Forest~
+You are on a path into the Forest of Acacia.  Wildflowers grow on either side
+of the path in between the berry bushes.  The cobblestone path looks rather
+worn beneath your feet, yet looks like it will last many more years.  Up in the
+distance you spot the forest, and sigh with relief.  The forest is a peaceful
+place to relax in.  You pick up your tired feet and tread onward.
+~
+370 0 3
+D0
+~
+~
+0 -1 37004
+D2
+~
+~
+0 -1 37002
+S
+#37004
+An Intersection of Paths~
+While walking along the path towards the forest, you come across an old
+interestion.  The path is worn in this area more than the along rest of the
+paths, but the scenery is still abundant with fragrant wildflowers and berry
+bushes.  You peer in each of the directions you could go, but find it hard to
+decide.  You could either continue north, or go east onto the side path.
+~
+370 0 3
+D0
+~
+~
+0 -1 37009
+D1
+~
+~
+0 -1 37005
+D2
+~
+~
+0 -1 37003
+S
+#37005
+A Small Side Path~
+This dirt path you find yourself on is narrow and looks like it hasn't been
+used in years.  Wildflowers and plants grow wild and rampant along the side of
+the path.  There are also some plants creeping onto the path itself.  You
+almost decide to turn around and go back onto the main path, but as you peer
+above the tall weeds you see a building up ahead.  With caution, you venture
+further along towards the building.
+~
+370 0 3
+D1
+~
+~
+0 -1 37006
+D3
+~
+~
+0 -1 37004
+S
+#37006
+Before a Small Cottage~
+You stand in front of an old cottage.  The flowers around the front have been
+overtaken by weeds and the shingles on the roof are falling apart.  You imagine
+that this cottage must have been in good shape while in its prime, but years of
+neglet have left this building a mere shadow of its former glory.  You are
+unable to make out anything through the dust-covered windows, so you decide to
+try entering through the creaky door.
+~
+370 0 3
+D1
+~
+door~
+-3 -1 37007
+D3
+~
+~
+0 -1 37005
+S
+#37007
+Mina's Cottage~
+This is the cottage of Mina, who lives alone at the edge of the forest.  Legend
+has it that she went insane after she was abandoned by her lover.  This entry-
+way is covered with a thick layer of dust, and cobwebs are in every corner.
+The once clean tile floor is not cracked and stained.  This room doesn't look
+like it has been entered in years, you you hear odd sounds coming from above.
+~
+370 cd 0
+D0
+~
+~
+0 -1 37018
+D1
+~
+~
+0 -1 37020
+D2
+~
+~
+0 -1 37019
+D3
+~
+door~
+-3 -1 37006
+D4
+~
+~
+0 -1 37021
+S
+#37008
+A Druid's Circle~
+Looking up and around, you find yourself surrounded by large pillars of stone.
+The pillars tower high above your head, and are arranged into a large circle.
+They look very heavy, and hard to move.  The druid's of the area must have done
+it, but you can't imagine how--the pillars are so big!  Standing in the very
+center of the circle, you feel a magical power surround you.  You feel safe
+here, and wouldn't mind staying. 
+~
+370 e 3
+D1
+~
+~
+0 -1 37009
+S
+#37009
+A Path into the Forest~
+You are on a path into the Forest of Acacia.  Wildflowers grow on either side
+of the path in between the berry bushes.  The cobblestone path looks rather
+worn beneath your feet, yet looks like it will last many more years.  Up in the
+distance you spot the forest, and sigh with relief.  The forest is a peaceful
+Place to relax in.  You pick up your tired feet and tread onward.  Should you
+continue?  You see something odd just west of the path.
+~
+370 0 3
+D2
+~
+~
+0 -1 37004
+D3
+~
+~
+0 -1 37008
+D6
+~
+~
+0 -1 37010
+S
+#37010
+A Path into the Forest~
+You are on a path into the Forest of Acacia.  Wildflowers grow on either side
+of the path in between the berry bushes.  The cobblestone path looks rather
+worn beneath your feet, yet looks like it will last many more years.  Up in the
+distance you spot the forest, and sigh with relief.  The forest is a peaceful
+place to relax in.  You pick up your tired feet and tread onward.
+~
+370 0 3
+D0
+~
+~
+0 -1 37011
+D9
+~
+~
+0 -1 37009
+S
+#37011
+A Path into the Forest~
+You are on a path into the Forest of Acacia.  Wildflowers grow on either side
+of the path in between the berry bushes.  The cobblestone path looks rather
+worn beneath your feet, yet looks like it will last many more years.  Up in the
+distance you spot the forest, and sigh with relief.  The forest is a peaceful
+place to relax in.  You pick up your tired feet and tread onward.
+~
+370 0 3
+D0
+~
+~
+0 -1 37012
+D2
+~
+~
+0 -1 37010
+S
+#37012
+An Intersection of Paths~
+While walking along the path towards the forest, you come across an old
+interestion.  The path is worn in this area more than the along rest of the
+paths, but the scenery is still abundant with fragrant wildflowers and berry
+bushes.  You peer in each of the directions you could go, but find it hard to
+decide.  You could either continue north, or go east or west onto one of the
+side paths.
+~
+370 c 3
+D0
+~
+~
+0 -1 37017
+D1
+~
+~
+0 -1 37014
+D2
+~
+~
+0 -1 37011
+D3
+~
+~
+0 -1 37013
+S
+#37013
+A Dead End in the Path~
+You find yourself on a little side path, but you discover that you can go no
+further.  A huge rotting log has fallen over the path, preventing you from
+going further.  Getting up on your toes, you manage to barely see above the
+massive log.  The forest looks dark and spooky past the log, and you feel
+grateful that something is blocking your way.  You turn around and go back to
+the main path.
+   A HUGE log is here, blocking your way.
+~
+370 0 3
+D1
+~
+~
+0 -1 37012
+E
+rotted log~
+Towering before you is a giant log, old and rotting.  It is so large in
+diameter that it must have been alive for thousands of years before finding
+it's final resting place on this path, blocking your way.  You see no visible
+way to get around it.
+~
+S
+#37014
+A Trail to the Fountain~
+This trail is much more luxurious than the path you just came off of.  Looking
+down at your feet, the trail is covered with an expensive looking tile--it
+looks like the tile has gold inlay.  The flowers are well kept and trimmed
+nicely, much different from other parts of the path.  You wonder to yourself
+why this area looks so much nicer, then walk further on towards the fountain.
+~
+370 0 3
+D1
+~
+~
+0 -1 37015
+D3
+~
+~
+0 -1 37012
+S
+#37015
+Before the Fountain~
+You have come to the end of this trail, and find yourself before the courtyard
+of the once magnificent fountain.  This area is landscaped just as nice as the
+trail and courtyard, with many colorful flowers and large shade trees.  This
+area would be a nice place to stay in, but you decide to move on and see the
+beauty of the great old fountain.
+~
+370 0 3
+D2
+~
+~
+0 -1 37016
+D3
+~
+~
+0 -1 37014
+S
+#37016
+The Gilded Fountain~
+You find yourself in a small courtyard filled with many colorful flowers and
+surrounded by trees that shelter it from the rest of the forest.  In the center
+of the courtyard stands an old fountain, surrounded by statues of pixies and
+forest animals, and gilded in gold.  This old fountain is no longer functional,
+but it is still a beautiful place to sit and rest your feet.
+  An old gilded fountain is here, depicting pixies playing with forest animals.
+~
+370 0 3
+D0
+~
+~
+0 -1 37015
+E
+gilded gold fountain~
+You stand before an aging fountain, gilded in beautiful gold.  Along it's base
+are small statues of pixies playing with the native animals of the forest.  You
+are dissapointed to find that this fountain no longer can refresh you with
+life-giving water, mostly because it no longer has ANY water to give.
+~
+S
+#37017
+A Path into the Forest~
+You are on a path into the Forest of Acacia.  Wildflowers grow on either side
+of the path in between the berry bushes.  The cobblestone path looks rather
+worn beneath your feet, yet looks like it will last many more years.  Up in the
+distance you spot the forest, and sigh with relief.  The forest is a peaceful
+place to relax in.  You pick up your tired feet and tread onward.
+~
+370 0 3
+D0
+~
+~
+0 -1 37022
+D2
+~
+~
+0 -1 37012
+S
+#37018
+The Kitchen~
+Upon entering the cottage's kitchen, you think to yourself that someone must
+still live in this old place.  The floors and walls are covered with a thick
+layer of dust, but the dishes and plated are all newly cleaned and set out to
+dry.  The tabletop is still dusty, but there are two places set on the wood
+table, complete with wine glasses and candleabra.
+~
+370 d 0
+D2
+~
+~
+0 -1 37007
+S
+#37019
+A Sitting Room~
+At one time, this room must have been a wonderful place to sit and relax.
+Years of neglet has taken its toll on Mina's sitting room, leaving it dusty and
+full of cobwebs.  On the wall, you see a portrait of a man and a woman.  The
+woman's eyes are full of love, but the man shows no love in return.  The woman
+must be Mina, and the man her lover.  You rub your finger across the dusty
+canvas, feeling pity for this poor woman.
+~
+370 d 0
+D0
+~
+~
+0 -1 37007
+S
+#37020
+An Overgrown Garden~
+As you step out the back door of the cottage, you find yourself in a garden
+that has been neglected for many years.  At one time it must have been a
+beautiful fragrant garden, with bushes of lavender, peppermint, and basil.
+But now, the garden is overrun with weeds and the plants grown wild and
+unattended.  Beneath your feet you see a small path leading through the garden,
+but it is completely covered with thorny weeds.
+~
+370 0 3
+D3
+~
+~
+0 -1 37007
+S
+#37021
+The Bedroom~
+You now find yourself in Mina's bedroom.  Like the rest of the cottage, there
+are cobwebs and dust everywhere.  What is different, however, is that this
+room looks like it has been lived in.  There are clothes gently layed on the
+poster bed, and there are perfume and make-up bottles neatly arranged on the
+vanity.  The disgustingly strong smell of gardenia hits your nose.
+~
+370 d 0
+D5
+~
+~
+0 -1 37007
+S
+#37022
+The Enterance to the Forest of Acacia~
+You have finally made it--before you stands the lovely Forest of Acacia.
+The many different trees and flowers in full bloom give you a wonderful first
+impression; you imagine that the sights will only get better as you enter the
+forest and go deeper into it.  Bright sunshine shines down upon you, and bathes
+the forest in light.  You enter the forest feeling safe and secure.
+~
+370 c 3
+D0
+~
+~
+0 -1 37074
+D2
+~
+~
+0 -1 37017
+D6
+~
+~
+0 -1 37085
+D7
+~
+~
+0 -1 37075
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37023
+A Dark Dead End~
+You have come to the end of the dark trail.  A huge rotted log has blocked your
+way, preventing you from going further.  Soon you realize that you are on the
+other side of the large log that blocked your way before you entered the
+forest.  This dark corner is full of creepy shadows and strange noises--you
+can't wait to get away from here.  Your only option is to turn around and head
+back the way you came.
+   A HUGE log is here, blocking your way.
+~
+370 a 3
+D3
+~
+~
+0 -1 37024
+E
+rotted log~
+Towering before you is a giant log, old and rotting.  It is so large in
+diameter that it must have been alive for thousands of years before finding
+it's final resting place on this path, blocking your way.  You see no visible
+way to get around it.
+~
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37024
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D1
+~
+~
+0 -1 37023
+D3
+~
+~
+0 -1 37025
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37025
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D1
+~
+~
+0 -1 37024
+D3
+~
+~
+0 -1 37026
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37026
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D1
+~
+~
+0 -1 37025
+D7
+~
+~
+0 -1 37027
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37027
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises 
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D3
+~
+~
+0 -1 37028
+D8
+~
+~
+0 -1 37026
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37028
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D1
+~
+~
+0 -1 37027
+D7
+~
+~
+0 -1 37029
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37029
+A Dangerous Bridge~
+This bridge you now stand on is very unstable!  It is only a small rope bridge,
+and it appears that the ropes are going to snap at any moment.  The density of
+the tree branches above you shuts out almost all light, making it difficult to
+see in front of you.  One wrong move and you are in the river below.  You had
+better run to the other side quickly, or try your luck down below in the river.
+~
+370 ac 3
+D5
+~
+~
+0 -1 37040
+D7
+~
+~
+0 -1 37030
+D8
+~
+~
+0 -1 37028
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37030
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D0
+~
+~
+0 -1 37031
+D8
+~
+~
+0 -1 37029
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37031
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D2
+~
+~
+0 -1 37030
+D6
+~
+~
+0 -1 37032
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37032
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D0
+~
+~
+0 -1 37033
+D9
+~
+~
+0 -1 37031
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37033
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D0
+~
+~
+0 -1 37034
+D2
+~
+~
+0 -1 37032
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37034
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D1
+~
+~
+0 -1 37035
+D2
+~
+~
+0 -1 37033
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37035
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D0
+~
+~
+0 -1 37036
+D3
+~
+~
+0 -1 37034
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37036
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D2
+~
+~
+0 -1 37035
+D6
+~
+~
+0 -1 37037
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37037
+A Darkened Trail~
+This trail is much darker, and scarier, then any other place in the forest.
+The trees are much closer together here, making it almost impossible for you to
+go into the forest itself.  Even if you could, you decide that going into the
+forest here would be a bad idea anyway, because you hear many strange noises
+coming from inside the forest.  While the trail is still dark and spooky, you
+decide to stay on it because the forest is even spookier.
+~
+370 a 3
+D1
+~
+~
+0 -1 37148
+D9
+~
+~
+0 -1 37036
+>
+rand_prog 5~
+mpecho A large, impressive howl comes from within the dark forest.
+~
+|
+S
+#37038
+A Beaver's Dam~
+The watery path you were taking comes to an abrupt end when you find yourself
+at a beaver dam.  The dam is built very well with many branches and logs.
+Beaver ingenuity is amazing, you realize, because the entire dam appears to be
+completely waterproof.  There are noises coming from inside the dam, noises
+most likely made by a beaver family.  You hold your breath and dive down to
+take a look at them.
+~
+370 0 6
+D1
+~
+~
+0 -1 37039
+D5
+~
+~
+0 -1 37073
+S
+#37039
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is 
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 c 6
+D3
+~
+~
+0 -1 37038
+D6
+~
+~
+0 -1 37040
+S
+#37040
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D6
+~
+~
+0 -1 37041
+D9
+~
+~
+0 -1 37039
+S
+#37041
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D6
+~
+~
+0 -1 37042
+D9
+~
+~
+0 -1 37040
+S
+#37042
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 c 6
+D6
+~
+~
+0 -1 37043
+D9
+~
+~
+0 -1 37041
+S
+#37043
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire. 
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+   To the southeast you see a continuation of the river flow out of the lake.
+~
+370 0 6
+D0
+~
+~
+0 -1 37052
+D1
+~
+~
+0 -1 37044
+D6
+~
+~
+0 -1 37051
+D8
+~
+~
+0 -1 37045
+D9
+~
+~
+0 -1 37042
+S
+#37044
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D0
+~
+~
+0 -1 37051
+D1
+~
+~
+0 -1 37047
+D2
+~
+~
+0 -1 37045
+D3
+~
+~
+0 -1 37043
+D6
+~
+~
+0 -1 37050
+D7
+~
+~
+0 -1 37052
+D8
+~
+~
+0 -1 37046
+S
+#37045
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D0
+~
+~
+0 -1 37044
+D1
+~
+~
+0 -1 37046
+D6
+~
+~
+0 -1 37047
+D7
+~
+~
+0 -1 37043
+S
+#37046
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D0
+~
+~
+0 -1 37047
+D3
+~
+~
+0 -1 37045
+D6
+~
+~
+0 -1 37048
+D7
+~
+~
+0 -1 37044
+S
+#37047
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D0
+~
+~
+0 -1 37050
+D1
+~
+~
+0 -1 37048
+D2
+~
+~
+0 -1 37046
+D3
+~
+~
+0 -1 37044
+D6
+~
+~
+0 -1 37049
+D7
+~
+~
+0 -1 37051
+D9
+~
+~
+0 -1 37045
+S
+#37048
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D0
+~
+~
+0 -1 37049
+D3
+~
+~
+0 -1 37047
+D7
+~
+~
+0 -1 37050
+D9
+~
+~
+0 -1 37046
+S
+#37049
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D0
+~
+~
+0 -1 37058
+D2
+~
+~
+0 -1 37048
+D3
+~
+~
+0 -1 37050
+D7
+~
+~
+0 -1 37057
+D9
+~
+~
+0 -1 37047
+S
+#37050
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D0
+~
+~
+0 -1 37057
+D1
+~
+~
+0 -1 37049
+D2
+~
+~
+0 -1 37047
+D3
+~
+~
+0 -1 37051
+D6
+~
+~
+0 -1 37058
+D7
+~
+~
+0 -1 37054
+D8
+~
+~
+0 -1 37048
+D9
+~
+~
+0 -1 37044
+S
+#37051
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D0
+~
+~
+0 -1 37054
+D1
+~
+~
+0 -1 37050
+D2
+~
+~
+0 -1 37044
+D3
+~
+~
+0 -1 37052
+D6
+~
+~
+0 -1 37057
+D7
+~
+~
+0 -1 37053
+D8
+~
+~
+0 -1 37047
+D9
+~
+~
+0 -1 37043
+S
+#37052
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D0
+~
+~
+0 -1 37053
+D1
+~
+~
+0 -1 37051
+D2
+~
+~
+0 -1 37043
+D6
+~
+~
+0 -1 37054
+D8
+~
+~
+0 -1 37044
+S
+#37053
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D1
+~
+~
+0 -1 37054
+D2
+~
+~
+0 -1 37052
+D6
+~
+~
+0 -1 37055
+D8
+~
+~
+0 -1 37051
+S
+#37054
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D0
+~
+~
+0 -1 37055
+D1
+~
+~
+0 -1 37057
+D2
+~
+~
+0 -1 37051
+D3
+~
+~
+0 -1 37053
+D6
+~
+~
+0 -1 37056
+D8
+~
+~
+0 -1 37050
+D9
+~
+~
+0 -1 37052
+S
+#37055
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D1
+~
+~
+0 -1 37056
+D2
+~
+~
+0 -1 37054
+D8
+~
+~
+0 -1 37057
+D9
+~
+~
+0 -1 37053
+S
+#37056
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.  
+~
+370 0 6
+D2
+~
+~
+0 -1 37057
+D3
+~
+~
+0 -1 37055
+D8
+~
+~
+0 -1 37058
+D9
+~
+~
+0 -1 37054
+S
+#37057
+Sapphire Lake~
+You are now on the beautiful surface of Sapphire Lake.  The lake is
+appropriately titled, you discover, because the depths of the lake are the most
+magnificent deep blue you have even seen--like that of a brilliant sapphire.
+The water in the lake is a bit chilly, but you find it refreshing after your
+adventures.  Looking down, you don't see a bottom, only endless blue.  With
+this in mind, you decide to stay on the surface.
+~
+370 0 6
+D0
+~
+~
+0 -1 37056
+D1
+~
+~
+0 -1 37058
+D2
+~
+~
+0 -1 37050
+D3
+~
+~
+0 -1 37054
+D7
+~
+~
+0 -1 37055
+D8
+~
+~
+0 -1 37049
+D9
+~
+~
+0 -1 37051
+S
+#37058
+The Mouth of the River~
+You have come to the end of the river.  It's water flows gracefully through the
+mouth and into the beautiful Sapphire Lake.  The water feels nice and
+refreshing as it rushes past your body.  As the river's clear water flows past
+you, it is immediately swallowed up by the deep blue waters of the lake.  All
+around you are the shimmering waters of Sapphire Lake, and northeast will take
+you into the river. 
+~
+370 c 6
+D2
+~
+~
+0 -1 37049
+D3
+~
+~
+0 -1 37057
+D6
+~
+~
+0 -1 37059
+D7
+~
+~
+0 -1 37056
+D9
+~
+~
+0 -1 37050
+S
+#37059
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D0
+~
+~
+0 -1 37060
+D9
+~
+~
+0 -1 37058
+S
+#37060
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to 
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D2
+~
+~
+0 -1 37059
+D6
+~
+~
+0 -1 37061
+S
+#37061
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D6
+~
+~
+0 -1 37062
+D9
+~
+~
+0 -1 37060
+S
+#37062
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D1
+~
+~
+0 -1 37063
+D9
+~
+~
+0 -1 37061
+S
+#37063
+Underneath the Bridge~
+You are underneath the bridge, but find nothing special.  The clear water of
+the river reaches just below your waist, but is not quite strong enough to
+sweep you downstream.  Still, you must be careful because the water could pick 
+up and knock you off your feet, and then it is doubtful you would survive.
+Looking up past the bridge and the river's bank, you see the forest.  You could
+go up to the bridge, or go along the river and see where it leads.
+~
+370 0 6
+D1
+~
+~
+0 -1 37064
+D3
+~
+~
+0 -1 37062
+D4
+~
+~
+0 -1 37135
+S
+#37064
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D3
+~
+~
+0 -1 37063
+D6
+~
+~
+0 -1 37065
+S
+#37065
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D6
+~
+~
+0 -1 37066
+D9
+~
+~
+0 -1 37064
+S
+#37066
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D6
+~
+~
+0 -1 37067
+D9
+~
+~
+0 -1 37065
+S
+#37067
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D0
+~
+~
+0 -1 37068
+D9
+~
+~
+0 -1 37066
+S
+#37068
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D2
+~
+~
+0 -1 37067
+D6
+~
+~
+0 -1 37069
+S
+#37069
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D6
+~
+~
+0 -1 37070
+D9
+~
+~
+0 -1 37068
+S
+#37070
+A Small Flowing River~
+You are in a small river, which is flowing at a semi-swift pace.  Its water is
+crystal clear and you can see down to the rocky bottom.  On either side of you,
+past the river's bank, is the forest.  The river's flowing water reaches to
+just below your waist.  If the currents were any stronger, you would be swept
+downstream with little chance of survival.  Knowing this, you decide to be
+extra careful.
+~
+370 0 6
+D1
+~
+~
+0 -1 37071
+D9
+~
+~
+0 -1 37069
+S
+#37071
+A Bubbling Spring~
+This spring is the source of all water flowing through the river and Sapphire
+Lake.  It bubbles up from a underground source, making the water pure and
+clear.  The water in the spring is shallow enough for you to stand up and walk
+around easily.  Below the surface you see something sparkle, but as you reach
+your hand down to grab it, the sparkling thing disappears.  As this happens,
+you hear giggling to the north, in the trees.
+~
+370 c 6
+D0
+~
+~
+-16 -1 37072
+D3
+~
+~
+0 -1 37070
+>
+entry_prog 100~
+mpecho Sweet sounding laughter floats in from the north, filling your ears.
+~
+>
+rand_prog 5~
+mpecho Gentle gurgling fills the air as the spring feeds the river.
+~
+|
+S
+#37072
+The Nymph's Meadow~
+You have found a small meadow next to the spring, completely hidden by the
+surrounding trees.  It could also be the perfect little romantic hideaway.  The
+meadow is filled with flowers of every color and style imaginable.  It is truly
+one of the most beautiful places you've ever been to.  Also, with the gentle
+sound of the gurgling spring, it is a very relaxing and peaceful place to be.
+~
+370 0 3
+D2
+~
+~
+0 -1 37071
+S
+#37073
+Inside the Dam~
+You are now inside the beaver's dam.  It is small in here, but cozy.  The walls
+are made of the same material as the dam itself, and not a drop of water is
+leaking through the walls.  The only way in or out of the dam is the small hole
+that you just swam through.  The rest of the dam has a soft floor made of
+small twigs and hay.  You try to stand up on the floor, but find that there is
+only room enough for you to kneel.
+~
+370 a 6
+D3
+~
+~
+0 -1 37079
+D4
+~
+~
+0 -1 37038
+S
+#37074
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37083
+D2
+~
+~
+0 -1 37022
+D3
+~
+~
+0 -1 37075
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37075
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37082
+D1
+~
+~
+0 -1 37074
+D3
+~
+~
+0 -1 37076
+D6
+~
+~
+0 -1 37083
+D7
+~
+~
+0 -1 37081
+D8
+~
+~
+0 -1 37022
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37076
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37081
+D1
+~
+~
+0 -1 37075
+D3
+~
+~
+0 -1 37077
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37077
+Overlooking the Lake~
+You stand on a cliff overlooking Sapphire Lake.  The cliff is perfectly 
+vertical, making it impossible to climb down it.  The forest surrounds the lake
+and cliffs.  The lake is an incredible sight from where you stand; the deep
+blue water shimmers brilliantly.  You step toward the edge of the cliff, but as
+you do some of it crumbles and falls.  You decide to stay away from there.
+~
+370 0 3
+D1
+~
+~
+0 -1 37076
+D3
+~
+~
+0 -1 37078
+D6
+~
+~
+0 -1 37081
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37078
+Overlooking the Lake~
+You stand on a cliff overlooking Sapphire Lake.  The cliff is perfectly
+vertical, making it impossible to climb down it.  The forest surrounds the lake
+and cliffs.  The lake is an incredible sight from where you stand; the deep
+blue water shimmers brilliantly.  You step toward the edge of the cliff, but as
+you do some of it crumbles and falls.  You decide to stay away from there.
+~
+370 0 3
+D1
+~
+~
+0 -1 37077
+D7
+~
+~
+0 -1 37080
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37079
+Inside the Dam~
+You are now inside the beaver's dam.  It is small in here, but cozy.  The walls
+are made of the same material as the dam itself, and not a drop of water is
+leaking through the walls.  The only way in or out of the dam is the small hole
+that you just swam through.  The rest of the dam has a soft floor made of
+small twigs and hay.  You try to stand up on the floor, but find that there is
+only room enough for you to kneel.
+~
+370 a 6
+D1
+~
+~
+0 -1 37073
+S
+#37080
+A Crumbling Arch~
+Upon examining the cliffs here, you can see that there used to be a natural
+bridge extending northwest to the other side.  The middle section of the arch
+has crumbled and fallen into the water below, making it impossible for you to
+cross.  You walk out as far as you can go and look down; below you is where the
+river and lake meet.  It is a magnificent view here, and would you like to stay
+and enjoy it; however, the rest of the arch could crumble at any moment.
+~
+370 0 3
+D8
+~
+~
+0 -1 37078
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37081
+Overlooking the Lake~
+You stand on a cliff overlooking Sapphire Lake.  The cliff is perfectly
+vertical, making it impossible to climb down it.  The forest surrounds the lake
+and cliffs.  The lake is an incredible sight from where you stand; the deep
+blue water shimmers brilliantly.  You step toward the edge of the cliff, but as
+you do some of it crumbles and falls.  You decide to stay away from there.
+~
+370 0 3
+D2
+~
+~
+0 -1 37076
+D6
+~
+~
+0 -1 37100
+D8
+~
+~
+0 -1 37075
+D9
+~
+~
+0 -1 37077
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37082
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully 
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37100
+D1
+~
+~
+0 -1 37083
+D2
+~
+~
+0 -1 37075
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37083
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37099
+D1
+~
+~
+0 -1 37084
+D2
+~
+~
+0 -1 37074
+D3
+~
+~
+0 -1 37082
+D6
+~
+~
+0 -1 37098
+D8
+~
+~
+0 -1 37085
+D9
+~
+~
+0 -1 37075
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37084
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37087
+D3
+~
+~
+0 -1 37083
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37085
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D7
+~
+~
+0 -1 37083
+D9
+~
+~
+0 -1 37022
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37086
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37087
+D1
+~
+~
+0 -1 37089
+D6
+~
+~
+0 -1 37088
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37087
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D2
+~
+~
+0 -1 37086
+D3
+~
+~
+0 -1 37084
+D7
+~
+~
+0 -1 37098
+D8
+~
+~
+0 -1 37089
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37088
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37096
+D2
+~
+~
+0 -1 37089
+D9
+~
+~
+0 -1 37086
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37089
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37088
+D1
+~
+~
+0 -1 37090
+D3
+~
+~
+0 -1 37086
+D7
+~
+~
+0 -1 37087
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37090
+An Empty Meadow~
+This place you have stumbled upon looks nothing like the rest of the forest: 
+there is nothing here except grass!  You would expect to find trees here,
+considering it is a forest you are in, but no.  There are not even flowers or 
+shrubbery in here.  As you bend down to feel the grass, you discover that it
+is prickly, and not at all pleasant.  In fact, one of the blades of grass
+drew blood from your finger! 
+~
+370 0 3
+D0
+~
+~
+0 -1 37093
+D1
+~
+~
+0 -1 37091
+D3
+~
+~
+0 -1 37089
+D6
+~
+~
+0 -1 37092
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37091
+An Empty Meadow~
+This place you have stumbled upon looks nothing like the rest of the forest:
+there is nothing here except grass!  You would expect to find trees here,
+considering it is a forest you are in, but no.  There are not even flowers or
+shrubbery in here.  As you bend down to feel the grass, you discover that it 
+is prickly, and not at all pleasant.  In fact, one of the blades of grass 
+drew blood from your finger!
+~
+370 0 3
+D0
+~
+~
+0 -1 37092
+D3
+~
+~
+0 -1 37090
+D7
+~
+~
+0 -1 37093
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37092
+An Empty Meadow~
+This place you have stumbled upon looks nothing like the rest of the forest: 
+there is nothing here except grass!  You would expect to find trees here,
+considering it is a forest you are in, but no.  There are not even flowers or 
+shrubbery in here.  As you bend down to feel the grass, you discover that it
+is prickly, and not at all pleasant.  In fact, one of the blades of grass 
+drew blood from your finger!  
+~
+370 0 3
+D0
+~
+~
+0 -1 37094
+D2
+~
+~
+0 -1 37091
+D3
+~
+~
+0 -1 37093
+D9
+~
+~
+0 -1 37090
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37093
+An Empty Meadow~
+This place you have stumbled upon looks nothing like the rest of the forest:
+there is nothing here except grass!  You would expect to find trees here,
+considering it is a forest you are in, but no.  There are not even flowers or 
+shrubbery in here.  As you bend down to feel the grass, you discover that it
+is prickly, and not at all pleasant.  In fact, one of the blades of grass 
+drew blood from your finger!
+~
+370 0 3
+D1
+~
+~
+0 -1 37092
+D2
+~
+~
+0 -1 37090
+D6
+~
+~
+0 -1 37094
+D8
+~
+~
+0 -1 37091
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37094
+An Empty Meadow~
+This place you have stumbled upon looks nothing like the rest of the forest:
+there is nothing here except grass!  You would expect to find trees here,
+considering it is a forest you are in, but no.  There are not even flowers or
+shrubbery in here.  As you bend down to feel the grass, you discover that it
+is prickly, and not at all pleasant.  In fact, one of the blades of grass
+drew blood from your finger!  
+~
+370 0 3
+D2
+~
+~
+0 -1 37092
+D9
+~
+~
+0 -1 37093
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37095
+The Great Oak Tree~
+Surrounded by smaller, less majestic trees, you see a giant oak tree.  It
+towers high above any other tree in the forest, making the forest look like it 
+is just a bunch of saplings.  You feel a strange presence here, a spiritual 
+one.  Could it be the Great Oak itself?  While asking yourself this question,
+you see small notches made into the side of the tree.  They are just big enough
+for you to fit your hands and feet into.  Should you climb up?
+~
+370 c 3
+D4
+~
+~
+0 -1 37194
+D6
+~
+~
+0 -1 37107
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37096
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D2
+~
+~
+0 -1 37088
+D3
+~
+~
+0 -1 37097
+D6
+~
+~
+0 -1 37106
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37097
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37104
+D1
+~
+~
+0 -1 37096
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37098
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D6
+~
+~
+0 -1 37104
+D7
+~
+~
+0 -1 37102
+D8
+~
+~
+0 -1 37087
+D9
+~
+~
+0 -1 37083
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37099
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D2
+~
+~
+0 -1 37083
+D3
+~
+~
+0 -1 37100
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37100
+Overlooking the Lake~
+You stand on a cliff overlooking Sapphire Lake.  The cliff is perfectly
+vertical, making it impossible to climb down it.  The forest surrounds the lake
+and cliffs.  The lake is an incredible sight from where you stand; the deep
+blue water shimmers brilliantly.  You step toward the edge of the cliff, but as
+you do some of it crumbles and falls.  You decide to stay away from there.
+~
+370 0 3
+D0
+~
+~
+0 -1 37101
+D1
+~
+~
+0 -1 37099
+D2
+~
+~
+0 -1 37082
+D6
+~
+~
+0 -1 37102
+D9
+~
+~
+0 -1 37081
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37101
+Overlooking the Lake~
+You stand on a cliff overlooking Sapphire Lake.  The cliff is perfectly
+vertical, making it impossible to climb down it.  The forest surrounds the lake
+and cliffs.  The lake is an incredible sight from where you stand; the deep
+blue water shimmers brilliantly.  You step toward the edge of the cliff, but as
+you do some of it crumbles and falls.  You decide to stay away from there.
+~
+370 0 3
+D0
+~
+~
+0 -1 37114
+D1
+~
+~
+0 -1 37102
+D2
+~
+~
+0 -1 37100
+D6
+~
+~
+0 -1 37113
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37102
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37113
+D1
+~
+~
+0 -1 37103
+D3
+~
+~
+0 -1 37101
+D8
+~
+~
+0 -1 37098
+D9
+~
+~
+0 -1 37100
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37103
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37112
+D1
+~
+~
+0 -1 37104
+D3
+~
+~
+0 -1 37102
+D7
+~
+~
+0 -1 37113
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37104
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37111
+D2
+~
+~
+0 -1 37097
+D3
+~
+~
+0 -1 37103
+D9
+~
+~
+0 -1 37098
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37105
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 c 3
+D0
+~
+~
+0 -1 37110
+D6
+~
+~
+0 -1 37109
+D7
+~
+~
+0 -1 37111
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37106
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D9
+~
+~
+0 -1 37096
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37107
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully 
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D7
+~
+~
+0 -1 37109
+D9
+~
+~
+0 -1 37095
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37108
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 c 3
+D0
+~
+~
+0 -1 37120
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37109
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D8
+~
+~
+0 -1 37107
+D9
+~
+~
+0 -1 37105
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37110
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37118
+D2
+~
+~
+0 -1 37105
+D3
+~
+~
+0 -1 37111
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37111
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37117
+D1
+~
+~
+0 -1 37110
+D2
+~
+~
+0 -1 37104
+D3
+~
+~
+0 -1 37112
+D8
+~
+~
+0 -1 37105
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37112
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37111
+D2
+~
+~
+0 -1 37103
+D3
+~
+~
+0 -1 37113
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37113
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37115
+D1
+~
+~
+0 -1 37112
+D2
+~
+~
+0 -1 37102
+D8
+~
+~
+0 -1 37103
+D9
+~
+~
+0 -1 37101
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+|
+S
+#37114
+A Crumbling Arch~
+Upon examining the cliffs here, you can see that there used to be a natural
+bridge extending northwest to the other side.  The middle section of the arch
+has crumbled and fallen into the water below, making it impossible for you to
+cross.  You walk out as far as you can go and look down; below you is where the
+river and lake meet.  It is a magnificent view here, and would you like to stay
+and enjoy it; however, the rest of the arch could crumble at any moment.
+~
+370 0 3
+D2
+~
+~
+0 -1 37101
+D6
+~
+~
+0 -1 37115
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37115
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D0
+~
+~
+0 -1 37126
+D1
+~
+~
+0 -1 37116
+D2
+~
+~
+0 -1 37113
+D9
+~
+~
+0 -1 37114
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37116
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37125
+D3
+~
+~
+0 -1 37115
+D6
+~
+~
+0 -1 37124
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37117
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37124
+D2
+~
+~
+0 -1 37111
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37118
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant 
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37123
+D1
+~
+~
+0 -1 37119
+D2
+~
+~
+0 -1 37110
+D7
+~
+~
+0 -1 37124
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37119
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37120
+D3
+~
+~
+0 -1 37118
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37120
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37121
+D2
+~
+~
+0 -1 37108
+D3
+~
+~
+0 -1 37119
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37121
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D2
+~
+~
+0 -1 37120
+D7
+~
+~
+0 -1 37130
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37122
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37130
+D7
+~
+~
+0 -1 37129
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37123
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37129
+D2
+~
+~
+0 -1 37118
+D3
+~
+~
+0 -1 37124
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37124
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37123
+D2
+~
+~
+0 -1 37117
+D3
+~
+~
+0 -1 37125
+D8
+~
+~
+0 -1 37118
+D9
+~
+~
+0 -1 37116
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37125
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37127
+D1
+~
+~
+0 -1 37124
+D2
+~
+~
+0 -1 37116
+D3
+~
+~
+0 -1 37126
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37126
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D1
+~
+~
+0 -1 37125
+D2
+~
+~
+0 -1 37115
+D6
+~
+~
+0 -1 37127
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37127
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D1
+~
+~
+0 -1 37128
+D2
+~
+~
+0 -1 37125
+D9
+~
+~
+0 -1 37126
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37128
+Before the Bridge~
+While standing along the bank of the river, you look north and see a wooden
+bridge.  You look back the way you came and towards the section of the bank you
+have not yet explored, and determine that this is the only way to get across
+the river and to the rest of the forest.  From here, the bridge looks strong
+enough to hold your weight and then some; you decide to make your way towards
+it, eager to see what lies beyond.
+~
+370 0 3
+D0
+~
+~
+0 -1 37135
+D1
+~
+~
+0 -1 37129
+D3
+~
+~
+0 -1 37127
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37129
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D1
+~
+~
+0 -1 37130
+D2
+~
+~
+0 -1 37123
+D3
+~
+~
+0 -1 37128
+D6
+~
+~
+0 -1 37133
+D8
+~
+~
+0 -1 37122
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37130
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37131
+D2
+~
+~
+0 -1 37122
+D3
+~
+~
+0 -1 37129
+D8
+~
+~
+0 -1 37121
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37131
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37132
+D3
+~
+~
+0 -1 37130
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37132
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37134
+D2
+~
+~
+0 -1 37131
+D3
+~
+~
+0 -1 37133
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37133
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D1
+~
+~
+0 -1 37132
+D6
+~
+~
+0 -1 37134
+D9
+~
+~
+0 -1 37129
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37134
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 c 3
+D2
+~
+~
+0 -1 37132
+D7
+~
+shrub~
+-16 -1 78000
+D9
+~
+~
+0 -1 37133
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37135
+A Wooden Bridge~
+Beneath your feet is an old wooden bridge.  It is painted a crisp white, and is
+a great contrast from the greens and browns of the forest.  There is also a
+railing that reaches your waist.  On the left side of the bridge you see a hole
+in this railing.  You examine the hole, and see that it is big enough for you
+to go through.  You could also reach the river from the hole.  Should you go
+into the river, or stay on the bridge?
+~
+370 c 3
+D0
+~
+~
+0 -1 37136
+D2
+~
+~
+0 -1 37128
+D5
+~
+~
+0 -1 37063
+>
+entry_prog 100~
+mpecho A loud, gruff roar echoes through the air, shaking the bridge under you.
+~
+|
+S
+#37136
+Before the Bridge~
+While standing along the bank of the river, you look south and see a wooden
+bridge.  You look back the way you came and towards the section of the bank you
+have not yet explored, and determine that this is the only way to get across
+the river and to the rest of the forest.  From here, the bridge looks strong
+enough to hold your weight and then some; you decide to make your way towards
+it, eager to see what lies beyond.
+~
+370 0 3
+D1
+~
+~
+0 -1 37139
+D2
+~
+~
+0 -1 37135
+D3
+~
+~
+0 -1 37140
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37137
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D0
+~
+~
+0 -1 37193
+D3
+~
+~
+0 -1 37192
+D7
+~
+~
+0 -1 37191
+D9
+~
+~
+0 -1 37138
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37138
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D6
+~
+~
+0 -1 37137
+D7
+~
+~
+0 -1 37189
+D9
+~
+~
+0 -1 37139
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37139
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D0
+~
+~
+0 -1 37188
+D3
+~
+~
+0 -1 37136
+D6
+~
+~
+0 -1 37138
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37140
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.  
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D0
+~
+~
+0 -1 37182
+D1
+~
+~
+0 -1 37136
+D3
+~
+~
+0 -1 37181
+D9
+~
+~
+0 -1 37141
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37141
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down to the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D3
+~
+~
+0 -1 37173
+D6
+~
+~
+0 -1 37140
+D9
+~
+~
+0 -1 37142
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37142
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D0
+~
+~
+0 -1 37173
+D3
+~
+~
+0 -1 37172
+D6
+~
+~
+0 -1 37141
+D9
+~
+~
+0 -1 37143
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37143
+The Bank of the River~
+You are on the river's bank; it is covered with a blanket of soft, deep green
+grasses.  The clear water below looks inviting and refreshing, but a steep,
+almost vertical cliff prevents you from climbing down to the river.  Even if
+you did slide down into the river, you see no visible way of getting out.
+Instead, you decide to stay in the soft grass and relax a moment.
+~
+370 0 3
+D0
+~
+~
+0 -1 37172
+D2
+~
+~
+0 -1 37144
+D3
+~
+~
+0 -1 37145
+D6
+~
+~
+0 -1 37142
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37144
+A Crumbling Arch~
+Upon examining the cliffs here, you can see that there used to be a natural
+bridge extending southeast to the other side.  The middle section of the arch
+has crumbled and fallen into the water below, making it impossible for you to
+cross.  You walk out as far as you can go and look down; below you is where the
+river and lake meet.  It is a magnificent view here, and would you like to stay
+and enjoy it; however, the rest of the arch could crumble at any moment.
+~
+370 0 3
+D0
+~
+~
+0 -1 37143
+D7
+~
+~
+0 -1 37145
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37145
+Overlooking the Lake~
+You stand on a cliff overlooking Sapphire Lake.  The cliff is perfectly
+vertical, making it impossible to climb down it.  The forest surrounds the lake
+and cliffs.  The lake is an incredible sight from where you stand; the deep
+blue water shimmers brilliantly.  You step toward the edge of the cliff, but as
+you do some of it crumbles and falls.  You decide to stay away from there.
+~
+370 0 3
+D0
+~
+~
+0 -1 37161
+D1
+~
+~
+0 -1 37143
+D3
+~
+~
+0 -1 37146
+D8
+~
+~
+0 -1 37144
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37146
+Overlooking the Lake~
+You stand on a cliff overlooking Sapphire Lake.  The cliff is perfectly
+vertical, making it impossible to climb down it.  The forest surrounds the lake
+and cliffs.  The lake is an incredible sight from where you stand; the deep
+blue water shimmers brilliantly.  You step toward the edge of the cliff, but as
+you do some of it crumbles and falls.  You decide to stay away from there. 
+~
+370 0 3
+D1
+~
+~
+0 -1 37145
+D6
+~
+~
+0 -1 37161
+D7
+~
+~
+0 -1 37149
+D9
+~
+~
+0 -1 37147
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37147
+Overlooking the Lake~
+You stand on a cliff overlooking Sapphire Lake.  The cliff is perfectly
+vertical, making it impossible to climb down it.  The forest surrounds the lake
+and cliffs.  The lake is an incredible sight from where you stand; the deep
+blue water shimmers brilliantly.  You step toward the edge of the cliff, but as
+you do some of it crumbles and falls.  You decide to stay away from there.
+~
+370 0 3
+D0
+~
+~
+0 -1 37148
+D6
+~
+~
+0 -1 37146
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37148
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in 
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 c 3
+D0
+~
+~
+0 -1 37149
+D2
+~
+~
+0 -1 37147
+D3
+~
+~
+0 -1 37037
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37149
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37150
+D1
+~
+~
+0 -1 37160
+D2
+~
+~
+0 -1 37148
+D8
+~
+~
+0 -1 37146
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37150
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the 
+forest, preventing you from going in certain directions.  You look carefully 
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37159
+D2
+~
+~
+0 -1 37149
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37151
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow,
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave. 
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D0
+~
+~
+0 -1 37152
+D6
+~
+~
+0 -1 37157
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+S
+#37152
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow,
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave.
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D0
+~
+~
+0 -1 37153
+D1
+~
+~
+0 -1 37157
+D2
+~
+~
+0 -1 37151
+D6
+~
+~
+0 -1 37156
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37153
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow,
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave.
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D0
+~
+~
+0 -1 37154
+D1
+~
+~
+0 -1 37156
+D2
+~
+~
+0 -1 37152
+D6
+~
+~
+0 -1 37155
+D8
+~
+~
+0 -1 37157
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37154
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow,
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave. 
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D1
+~
+~
+0 -1 37155
+D2
+~
+~
+0 -1 37153
+D8
+~
+~
+0 -1 37156
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37155
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow,
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave.
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D1
+~
+~
+0 -1 37166
+D2
+~
+~
+0 -1 37156
+D3
+~
+~
+0 -1 37154
+D8
+~
+~
+0 -1 37165
+D9
+~
+~
+0 -1 37153
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37156
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow,
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave.
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D0
+~
+~
+0 -1 37155
+D1
+~
+~
+0 -1 37165
+D2
+~
+~
+0 -1 37157
+D3
+~
+~
+0 -1 37153
+D6
+~
+~
+0 -1 37166
+D7
+~
+~
+0 -1 37154
+D8
+~
+~
+0 -1 37164
+D9
+~
+~
+0 -1 37152
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37157
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a 
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow,
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave.
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D0
+~
+~
+0 -1 37156
+D1
+~
+~
+0 -1 37164
+D3
+~
+~
+0 -1 37152
+D6
+~
+~
+0 -1 37165
+D7
+~
+~
+0 -1 37153
+D9
+~
+~
+0 -1 37151
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37158
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully 
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37163
+D2
+~
+~
+0 -1 37159
+D8
+~
+~
+0 -1 37162
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+|
+S
+#37159
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the 
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37158
+D1
+~
+~
+0 -1 37162
+D2
+~
+~
+0 -1 37160
+D3
+~
+~
+0 -1 37150
+D8
+~
+~
+0 -1 37161
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37160
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37159
+D1
+~
+~
+0 -1 37161
+D3
+~
+~
+0 -1 37149
+D6
+~
+~
+0 -1 37162
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+|
+S
+#37161
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully 
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D2
+~
+~
+0 -1 37145
+D3
+~
+~
+0 -1 37160
+D7
+~
+~
+0 -1 37159
+D9
+~
+~
+0 -1 37146
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37162
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37163
+D3
+~
+~
+0 -1 37159
+D7
+~
+~
+0 -1 37158
+D9
+~
+~
+0 -1 37160
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37163
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37170
+D2
+~
+~
+0 -1 37162
+D3
+~
+~
+0 -1 37158
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37164
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow,
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave. 
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D0
+~
+~
+0 -1 37165
+D1
+~
+~
+0 -1 37169
+D3
+~
+~
+0 -1 37157
+D6
+~
+~
+0 -1 37168
+D7
+~
+~
+0 -1 37156
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37165
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow,
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave. 
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D0
+~
+~
+0 -1 37166
+D1
+~
+~
+0 -1 37168
+D2
+~
+~
+0 -1 37164
+D3
+~
+~
+0 -1 37156
+D6
+~
+~
+0 -1 37167
+D7
+~
+~
+0 -1 37155
+D8
+~
+~
+0 -1 37169
+D9
+~
+~
+0 -1 37157
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37166
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and 
+don't come up with much.  There aren't any trees here; this must be a meadow, 
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave.
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D1
+~
+~
+0 -1 37167
+D2
+~
+~
+0 -1 37165
+D3
+~
+~
+0 -1 37155
+D8
+~
+~
+0 -1 37168
+D9
+~
+~
+0 -1 37156
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37167
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow,
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave. 
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D2
+~
+~
+0 -1 37168
+D3
+~
+~
+0 -1 37166
+D9
+~
+~
+0 -1 37165
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37168
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a 
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow, 
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave. 
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D0
+~
+~
+0 -1 37167
+D2
+~
+~
+0 -1 37169
+D3
+~
+~
+0 -1 37165
+D7
+~
+~
+0 -1 37166
+D9
+~
+~
+0 -1 37164
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37169
+Surrounded by Mist~
+This section of forest is certainly special, you realize, because there is a
+strange mist enveloping you.  The mist is so thick that you can barely see.
+You feel around with your hands to get a better idea of where you are, and
+don't come up with much.  There aren't any trees here; this must be a meadow,
+but you don't think that's right, either.  Instead of grass, there is moss
+beneath your feet.  You can't decide whether you should stay or leave. 
+   An odd, swirling mist is here, dancing around you.
+~
+370 0 3
+D0
+~
+~
+0 -1 37168
+D2
+~
+~
+0 -1 37170
+D3
+~
+~
+0 -1 37164
+D7
+~
+~
+0 -1 37165
+E
+odd swirling swirl mist~
+Surrounding you is this rather strange mist.  It seems to be almost alive, yet,
+it is not.  It dances around you almost happily, and successfully prevents you
+from seeing more than three feet in any direction.  Looking closely at the
+mist, you see tiny sparkles; they twinkle as if to say hello.  Truly magical.
+~
+>
+rand_prog 5~
+mpecho The mist rises up around you, playing with your senses.
+~
+>
+rand_prog 5~
+mpecho A wall of mist surrounds you, making it difficult to see!
+~
+|
+S
+#37170
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully 
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37169
+D1
+~
+~
+0 -1 37174
+D2
+~
+~
+0 -1 37171
+D3
+~
+~
+0 -1 37163
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37171
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without 
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37170
+D2
+~
+~
+0 -1 37172
+D6
+~
+~
+0 -1 37174
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37172
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37171
+D1
+~
+~
+0 -1 37142
+D2
+~
+~
+0 -1 37143
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37173
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37174
+D1
+~
+~
+0 -1 37141
+D2
+~
+~
+0 -1 37142
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37174
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant 
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37181
+D2
+~
+~
+0 -1 37173
+D3
+~
+~
+0 -1 37170
+D9
+~
+~
+0 -1 37171
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37175
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D6
+~
+~
+0 -1 37179
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37176
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant 
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without 
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37177
+D1
+~
+~
+0 -1 37179
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37177
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37178
+D2
+~
+~
+0 -1 37176
+D8
+~
+~
+0 -1 37179
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37178
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37184
+D3
+~
+~
+0 -1 37177
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37179
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D2
+~
+~
+0 -1 37180
+D3
+~
+~
+0 -1 37176
+D7
+~
+~
+0 -1 37177
+D9
+~
+~
+0 -1 37175
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37180
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the 
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37179
+D1
+~
+~
+0 -1 37182
+D2
+~
+~
+0 -1 37181
+D6
+~
+~
+0 -1 37183
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37181
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully 
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37180
+D1
+~
+~
+0 -1 37140
+D3
+~
+~
+0 -1 37174
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37182
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without 
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully 
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37183
+D2
+~
+~
+0 -1 37140
+D3
+~
+~
+0 -1 37180
+D6
+~
+~
+0 -1 37186
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+|
+S
+#37183
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37184
+D1
+~
+~
+0 -1 37186
+D2
+~
+~
+0 -1 37182
+D8
+~
+~
+0 -1 37187
+D9
+~
+~
+0 -1 37180
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37184
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D2
+~
+~
+0 -1 37183
+D3
+~
+~
+0 -1 37178
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37185
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant 
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37190
+D2
+~
+~
+0 -1 37186
+D8
+~
+~
+0 -1 37189
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37186
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37185
+D1
+~
+~
+0 -1 37189
+D2
+~
+~
+0 -1 37187
+D3
+~
+~
+0 -1 37183
+D9
+~
+~
+0 -1 37182
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37187
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37186
+D1
+~
+~
+0 -1 37188
+D7
+~
+~
+0 -1 37183
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37188
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37189
+D2
+~
+~
+0 -1 37139
+D3
+~
+~
+0 -1 37187
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37189
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D0
+~
+~
+0 -1 37190
+D1
+~
+~
+0 -1 37192
+D2
+~
+~
+0 -1 37188
+D3
+~
+~
+0 -1 37186
+D7
+~
+~
+0 -1 37185
+D8
+~
+~
+0 -1 37138
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37190
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37191
+D2
+~
+~
+0 -1 37189
+D3
+~
+~
+0 -1 37185
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37191
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D1
+~
+~
+0 -1 37193
+D3
+~
+~
+0 -1 37190
+D8
+~
+~
+0 -1 37137
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37192
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully 
+to see which ways the forest has allowed you to travel in this area. 
+~
+370 0 3
+D1
+~
+~
+0 -1 37137
+D3
+~
+~
+0 -1 37189
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37193
+In the Forest of Acacia~
+You are inside a forest full of soaring trees, fragrant flowers, and abundant
+berry bushes--the Forest of Acacia.  The trees have grown up in clumps in
+certain places, rows in others, while still other areas seem to be without
+trees at all.  These unusual arrangements make natural paths throughout the
+forest, preventing you from going in certain directions.  You look carefully 
+to see which ways the forest has allowed you to travel in this area.
+~
+370 0 3
+D2
+~
+~
+0 -1 37137
+D3
+~
+~
+0 -1 37191
+>
+rand_prog 5~
+mpecho Giant oak leaves float down from the trees in a gentle wave.
+~
+>
+rand_prog 5~
+mpecho The sweet sound of a robin's chirping can be heard.
+~
+|
+S
+#37194
+Climbing the Great Oak~
+You are climbling the Greak Oak, gingerly keeping your hands and feet in the
+small notches on the tree's east side.  The drop to the bottom is a long one;
+you must be extra careful.  Looking to each side of you, you have a magnificent
+view of the forest.  It must look far more grand from the top of the tree.  You
+decide continue climbling to see for yourself.
+   There is a small hole in the side of the tree, leading inside.
+~
+370 0 3
+D3
+~
+hole~
+0 -1 37196
+D4
+~
+~
+0 -1 37195
+D5
+~
+~
+0 -1 37095
+E
+small hole~
+You look and see a small hold carved into the east side of the tree.  It
+appears just big enough for you to squeeze through, and looks like it leads
+into a cavern inside the tree.  There is a bright luminescence coming from the
+hole.  Do you dare crawl through to see where the light is coming from?
+~
+S
+#37195
+Climbing the Great Oak~
+You are climbling the Greak Oak, gingerly keeping your hands and feet in the
+small notches on the tree's east side.  The drop to the bottom is a long one;
+you must be extra careful.  Looking to each side of you, you have a magnificent
+view of the forest.  It must look far more grand from the top of the tree.  You
+decide continue climbling to see for yourself.
+   Branches grow out of the trunk here, going in different directions.
+~
+370 0 3
+D2
+~
+~
+0 -1 37199
+D4
+~
+~
+0 -1 37200
+D5
+~
+~
+0 -1 37194
+D6
+~
+~
+0 -1 37198
+D7
+~
+~
+0 -1 37197
+E
+branch branches~
+Large, sturdy branches grow out from the trunk.  You only see three large 
+enough to climb out onto:  to the south, northeast, and northwest.  Climbing
+out onto them may give you a better look of the forest, and will give you
+varying viewpoints.  Now you must decide which one to venture onto first.
+~
+S
+#37196
+Inside the Great Oak~
+You stand inside a large cave inside the Great Oak.  The cave appears to be
+carved out, but the walls look and feel like white marble.  How is this
+possible if you are inside a tree?  The cave is bathed in a blinding white
+light which seems to permeate through the walls, yet there are no visible
+cracks capable of bringing the light through.  Could it be that the walls are
+glowing bright enough to light the room?  Or could it be some unseen presence?
+~
+370 0 3
+D1
+~
+~
+0 -1 37194
+>
+rand_prog 2~
+mpecho The room hums and vibrates as it is filled with pure white light.
+~
+|
+S
+#37197
+On a Large Branch~
+Beneath your feet is a large and sturdy branch.  It is strong enough to hold
+your weight, but jumping up and down would be a bad idea.  You get an even more
+wonderful view here than while climbing up the tree itself, but you still
+desire more.  You see the forest and it's trees, but you do not see the whole
+forest:  trees, lake, river, meadows.  You will have to climb even higher to
+see the forest in all it's glory and splendor.
+~
+370 0 3
+D8
+~
+~
+0 -1 37195
+S
+#37198
+On a Large Branch~
+Beneath your feet is a large and sturdy branch.  It is strong enough to hold 
+your weight, but jumping up and down would be a bad idea.  You get an even more
+wonderful view here than while climbing up the tree itself, but you still
+desire more.  You see the forest and it's trees, but you do not see the whole 
+forest:  trees, lake, river, meadows.  You will have to climb even higher to
+see the forest in all it's glory and splendor.
+~
+370 0 3
+D9
+~
+~
+0 -1 37195
+S
+#37199
+On a Large Branch~
+Beneath your feet is a large and sturdy branch.  It is strong enough to hold
+your weight, but jumping up and down would be a bad idea.  You get an even more
+wonderful view here than while climbing up the tree itself, but you still
+desire more.  You see the forest and it's trees, but you do not see the whole 
+forest:  trees, lake, river, meadows.  You will have to climb even higher to
+see the forest in all it's glory and splendor.
+~
+370 0 3
+D0
+~
+~
+0 -1 37195
+S
+#37200
+High Above the Forest~
+You finally have reached the top of the Great Oak.  Looking around you, you are
+able to see the entire Forest of Acacia.  From here, you can see everything
+from Sapphire Lake to the empty meadows.  The view here is truly magnificent;
+it is more wonderful than anything you could have imagined.  The large leaves
+of the tree provide shade for you, and a comfortable place for you to sit down
+and rest while you enjoy the view.
+~
+370 0 3
+D5
+~
+~
+0 -1 37195
+S
+$~
+$end~
+
+
+#MOBILES
+#37000
+gnome lawn sparky~
+Sparky the Lawn Gnome~
+A small lawn gnome is here, nipping at your ankles.
+~
+You look down on the ground and see a tiny gnome:  he couldn't be more than two
+feet tall!  He wears a tiny red hat and red pointed shoes.  The little guy
+certainly seems to be alive, but he looks like he is made of stone.  Some sort
+of magic must have brought little Sparky to life.
+~
+bcg d 123 C
+15 0 0 5d30+161 3d5+8
+20 0
+8 8 1
+13 13 13 13 13 13 13
+5 2 0
+C
+> rand_prog 5~
+if ispc($n)
+mpechoat $n Ouch! That tiny gnome just took a piece of flesh from your ankle!
+endif
+~
+|
+#37001
+woman crazy mina~
+Mina~
+Mina stands here, frantically pacing and muttering to herself.
+~
+Before you stands Mina, who went insane after being abandoned by her lover.
+Once a beautiful woman, Mina now looks old; very old.  Her white hair is pulled
+back into a messy bun, and her dresses are ragged at the hems.  She reeks of
+gardenia perfume, and is wearing way too much make-up.  You feel almost sorry
+for her, only able to guess at the trauma's she went through.
+~
+bgm df 500 C
+30 0 0 10d61+416 5d6+15
+75 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 2
+C
+> all_greet_prog 100~
+if ispc($n)
+say Oh $n! I am not nearly ready, and my darling will be here at any moment!
+say Whatever shall I do?
+emote looks around worried, trying to figure out what to do.
+endif
+~
+> rand_prog 5~
+emote rushes to the vanity to spray more gardenia perfume on herself.
+~
+> rand_prog 5~
+emote runs around frantically, trying to prepare herself for her 'date'.
+~
+|
+#37002
+spirit great oak~
+The Spirit of the Oak~
+The Great Oak's spirit is here, radiating light.
+~
+Before you is the all-powerful spirit of the Great Oak.  It is neither male nor
+female, and has no distinctive features whatsoever.  It it simply a blinding
+white light that surrounds you and fills the room.  The spirit is all around
+you, yet you cannot find where it begins and ends.  You feel safe around this
+great spirit, it is a good spirit with soothing abilities.
+~
+bg bdhkw 1000 C
+30 0 0 10d61+416 5d6+15
+75 0
+8 8 0
+13 13 13 13 13 13 13
+12 1 1
+C
+> all_greet_prog 100~
+if ispc($n)
+say Hello, $n my child. Why dost thou seek me, the great spirit of thy forest?
+endif
+~
+|
+#37003
+nymph sister callys~
+Callys~
+The youngest nymph sister Callys is here, picking daisies.
+~
+Before you is the youngest of the three nymph sisters, Callys.  She is just a
+small girl, only appearing to be the age of twelve:  if she were human, that
+is.  Callys may appear young, but she has far more wisdom than the eldest of
+the human race.  Her blue eyes sparkle as you look at them, and her blonde hair
+shines as the light falls on it.  She wears a robe of silk, with a wreath of
+flowers adorn her head.
+~
+bg dk 750 C
+20 0 0 7d43+225 4d5+10
+25 0
+8 8 2
+13 13 13 13 13 13 13
+19 3 1
+C
+> rand_prog 3~
+if ispc($n)
+emote dances merrily amongst the flowers.
+endif
+~
+|
+#37004
+nymph sister brynn~
+Brynn~
+The middle of the nymph sisters, Brynn, sits here amongst the flowers.
+~
+Before you is the middle nymph sister, Brynn.  She looks up at you, but doesn't
+pay you much heed.  Perfectly content to sit in the flowers while her sisters
+frolic, Brynn keenly observes her surroundings.  She sits cross-legged before
+you, her silken robe flowing gracefully around her.  She has black hair and
+piercing green eyes.  A single flower adorns her hair.
+~
+bg dk 750 C
+25 0 0 8d50+300 5d6+11
+50 0
+8 8 2
+13 13 13 13 13 13 13
+19 3 1
+C
+> rand_prog 5~
+if ispc($n)
+mpechoat $n Brynn eyes you curiously, then goest back to her flowers.
+endif
+~
+|
+#37005
+nymph sister adalya~
+Adalya~
+The eldest nymph sister Adalya is here, skipping happily.
+~
+This is the oldest of the three nymph sisters, Adalya.  She gracefully skips
+around the meadow as you approach.  Her robe of silk flows smoothly along her
+body, accentuating her curves.  She flashes you a bright smile, warm but 
+mischevious at the same time.  She has hazel eyes, and curly brown hair with
+flowers randomly placed.  Because she is the oldest, it would be wise to assume
+that she is in charge, and plans any pranks the trio do.
+~
+bg dk 750 C
+30 0 0 10d61+416 5d6+15
+75 0
+8 8 2
+13 13 13 13 13 13 13
+19 3 1
+C
+> rand_prog 5~
+if ispc($n)
+smile $n
+endif
+~
+|
+#37006
+river otter~
+A furry river otter~
+A cute and furry river otter floats along the river.
+~
+This cute little creature floating on his back along the river is a small river
+otter.  They have soft brown fur and big black eyes.  Reaching down to pet one,
+you find them to be cheerful and happy.  They are so cute, you don't want to
+hurt them; instead, you'd like to take one or two home with you as a pet.
+~
+gh dkx 0 C
+17 0 0 6d35+180 4d5+6
+0 0
+8 8 0
+13 13 13 13 13 13 13
+15 3 1
+C
+#37007
+ugly troll~
+The bridge troll~
+An ugly troll sits here beneath the bridge, eyeing you suspiciously.
+~
+This is certainly one ugly troll standing before you.  It is said that every
+bridge must have a troll, and this troll is the grand daddy of them all.  He
+stares at you with red beady eyes, and he snarls at you exposing his crooked
+yellowed teeth.  His clothes are in tatters, pieced together from whatever he
+could find.  Fate has dealt this troll some bad times, but he makes up for it
+by devouring any unfortunate person to come his way.
+~
+b dkw -500 C
+19 0 0 6d43+200 4d5+9
+0 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 1
+C
+> greet_prog 100~
+if ispc($n)
+emote roars loudly.
+say What do you think you're doing underneath MY bridge!?
+say Begone from this place!
+emote roars.
+endif
+~
+> rand_prog 5~
+if ispc($n)
+emote scowl $n
+endif
+~
+|
+#37008
+rabid beaver~
+A rabid beaver~
+A large beaver peeks out from the water, foaming at the mouth.
+~
+This large adult beaver looks like any other:  flat tail, soft fur.  However,
+his eyes look wild and when you glance at his mouth, foam drips out of the
+corners.  He must be rabid, and approached with extreme caution.  Taking any
+advances towards him could be very harmful to your health.
+~
+0 kx -425 C
+22 0 0 7d45+235 4d5+13
+0 0
+8 8 1
+13 13 13 13 13 13 13
+15 3 1
+C
+> greet_prog 75~
+if ispc($n)
+emote snarls angrily, with foam running down his mouth.
+endif
+~
+|
+#37009
+mama beaver~
+The mama beaver~
+The mama beaver is here, protecting her young.
+~
+Standing before you, acting as a shield for her newborns, is the mama beaver.
+She looks in your eyes pleadingly; she would rather have you kill her than
+harm her babies in the slightest way.  She is selfless, and brave, to put her
+babies lives infront of her own.  She smiles at you, hoping you will spare 
+both her and her children.
+~
+b dfkx 500 C
+20 0 0 7d41+224 4d5+10
+0 0
+8 8 2
+13 13 13 13 13 13 13
+15 3 1
+C
+> greet_prog 100~
+if ispc($n)
+emote moves in front of her helpless children to shield them from harm.
+endif
+~
+|
+#37010
+baby beaver newborn~
+A newborn beaver~
+A newly born beaver lies here, innocent and helpless.
+~
+~
+b kx 750 C
+15 0 0 5d30+161 3d5+7
+0 0
+8 8 0
+13 13 13 13 13 13 13
+15 3 0
+C
+> fight_prog 5~
+emote cries helplessly for $l mama.
+~
+|
+#37011
+spotted trout fish~
+A giant spotted trout~
+A giant trout, covered in multi-colored spots, swims past you.
+~
+This breed of trout is like none you've ever seen before.  It is about two feet
+long, and covered with a rainbow array of large spots!  In the fish's large
+cavernous mouth are two rows of sharp teeth.  You wonder if this fish is
+carniverous, because he could certainly do major harm to you with those pointy
+canines.  They look cuddly enough, but petting them wouldn't be advised.
+~
+gh kx 200 C
+26 0 0 8d52+325 5d6+12
+0 0
+8 8 0
+13 13 13 13 13 13 13
+22 3 1
+C
+#37012
+white swan~
+A graceful swan~
+A large white swan floats by you, gracefully flapping his wings.
+~
+Floating along the surface of the water, this swan tilts his head to take a 
+better look at you.  Doing the same, you see a large swan covered in crisp
+white feathers.  He has a long, graceful neck and large wings tucked neatly at
+his sides.  He floats gracefully and effortlessly by, only glancing at you in
+passing.  The swans in this area are highly serf-absorbed, and only concerned
+about themselves.
+~
+0 kw 0 C
+27 0 0 8d54+350 5d6+12
+0 0
+8 8 1
+13 13 13 13 13 13 13
+15 3 0
+C
+> entry_prog 75~
+emote arches $l long neck to get a better look at the area.
+~
+|
+#37013
+elf thief~
+The elvish thief~
+Hiding amongst the shadows is an elvish thief, his dagger drawn.
+~
+Always looking for a good opportunity, this elf has looked all over the world
+for the perfect place to ambush and steal.  He has found it in this darkened
+dead end in Acacia.  Just a small elf, only about four and a half feet in
+height, this elf has made it an artform to hide in the shadows and wait for an
+unsuspecting traveler to come opon this dead end.
+~
+b dfkt 0 C
+25 0 0 8d50+300 5d6+11
+0 0
+8 8 1
+13 13 13 13 13 13 13
+1 2 1
+C
+> greet_prog 100~
+if ispc($n)
+say So, hast thou come for me!?
+emote laughs diabolically.
+say I will never be captured alive!!
+endif
+~
+|
+#37014
+small bat~
+A small bat~
+Hanging upside down from a tree is a small bat.
+~
+Hanging upside down above your head in the trees is a little bat.  The bat is
+just a bit larger than the palm of your hand, with a wing span of about twice
+that.  Furry from head to toe, the bat looks cute enough.  But once he opens
+his mouth you think otherwise.  Two sharp fangs hang down, ready to bite.
+~
+gh kw 0 C
+24 0 0 7d45+240 5d6+10
+0 0
+8 8 0
+13 13 13 13 13 13 13
+23 3 0
+C
+> rand_prog 5~
+emote screeches loudly and flaps it's wings at everyone in the room.
+~
+|
+#37015
+druid cedric~
+Head druid Cedric~
+An old and wise dwarven druid is here, contemplating nature.
+~
+Hunched over a dwindling plant is Cedric, the leader of the Druid's here in
+the Forest of Acacia.  He is an old draven man, with stooped shoulders and
+grey hair.  He wears a long robe and carries with him many different natural
+components for his magical endeavours.  Maybe if you are lucky Cedric will
+teach you some of his specialty.
+~
+g ck 0 C
+25 0 0 8d50+300 5d6+11
+0 0
+8 8 1
+13 13 13 13 13 13 13
+3 1 1
+C
+> greet_prog 100~
+if ispc($n)
+say Welcome, $n, to this beautiful forest!
+else
+say Welcome, $I.
+endif
+~
+|
+#37016
+assistant dwarf druid~
+An assistant druid~
+A young female dwarf is here, walking through the mist.
+~
+Hand picked by Cedric himself,  this dwarven girl is one of the best druids in
+the forest.  She stands tall, proud of her newfound status, eyes sparkling
+brightly as you approach.  She stays in the misty area that Cedric likes to
+reside in, leaving the rest of the forest to the lesser druids.  She carries
+with her many organic materials that would make the perfect brew.
+~
+cg dfk 0 C
+19 0 0 6d43+200 4d5+9
+0 0
+8 8 2
+13 13 13 13 13 13 13
+3 1 2
+C
+> greet_prog 100~
+if ispc($n)
+curtsey
+say Hello $n.
+endif
+~
+|
+#37017
+lesser druid dwarf~
+A lesser druid~
+A young dwarven druid walks around here, taking in scenery.
+~
+A young man of the druidic following, this dwarf has been taught by Cedric
+himself.  He wears a robe similar to ones worn by the higher druids, but these
+wear far less ornate.  He looks up at you with interest; all his life, he has
+only known of what lies within the forest's borders.  He carries with him a
+small treasure that he hopes to impress one of Cedric's assistants with.
+~
+c dk 0 C
+18 0 0 6d39+190 4d5+7
+0 0
+8 8 1
+13 13 13 13 13 13 13
+3 1 2
+C
+#37018
+dwarf child druid~
+A druid-in-training~
+A dwarven child sits here, eager to learn the druidic arts.
+~
+Tiny and eager, this child of the dwarf race is ready to take on the task
+ahead:  to become a druid.  All dwarves from the areas surrounding the forest
+learn to become druids, and this child is no different.  Being only a child,
+not much has been learned yet, and playing is still a favorite pasttime.  A
+toy or two may be found about.
+~
+c k 0 C
+16 0 0 5d35+172 3d5+9
+0 0
+8 8 0
+13 13 13 13 13 13 13
+3 1 1
+C
+#37019
+golden eagle~
+The Golden Eagle~
+A large eagle with gold feathers is perched on top of the Great Oak.
+~
+This eagle is one of the largest you have ever seen--it's wing span could
+easily be twenty feet.  He is covered in bright golden feathers, and looks
+down at you with a regal look in his eyes.  He goes back to surveying the land
+after looking you over briefly.  The brightness of his feathers looks almost
+magical; something that crisp a gold couldn't be produced by nature.
+~
+b dkw 0 C
+27 0 0 8d54+350 5d6+12
+0 0
+8 8 1
+13 13 13 13 13 13 13
+15 3 2
+C
+> rand_prog 5~
+emote flaps his wings proudly.
+~
+> rand_prog 5~
+emote surveys the forest from his tree-top perch.
+~
+|
+#37020
+red robin~
+A red robin~
+A robin rests here, singing a song.
+~
+This robin has found her permanent residence among the leaves of the Great
+Oak.  Some magical quality must fill any animal that lives on the magnificent
+tree, because this robin is much larger than normal.  She is plump and happy;
+her red feathers ruffle as she sings a song that echos throughout the entire
+forest.
+~
+0 kw 0 C
+20 0 0 7d43+225 4d5+10
+0 0
+8 8 2
+13 13 13 13 13 13 13
+15 3 1
+C
+> rand_prog 5~
+emote chirps a happy tune.
+~
+|
+#37021
+baby pixie~
+A pixie baby~
+A baby pixie makes an attempt at flight here.
+~
+A baby pixie has been left here to roam the forest and take in all the beauty
+that lies within.  She is small, about the size of a human toddler, with 
+piercing green eyes and tiny wisps of brown hair.  She struggles before you to
+take a few steps, then tries in vain to take flight.  Her tiny wings are very
+colorful and pretty, but not yet strong enough to fly.
+~
+h k 0 C
+15 0 0 5d30+161 3d5+8
+0 0
+8 8 2
+13 13 13 13 13 13 13
+12 3 1
+C
+> rand_prog 5~
+emote giggles as she topples over after a failed flight attempt.
+~
+> rand_prog 5~
+emote hobbles over to you and smiles happily.
+~
+|
+#37022
+male pixie man~
+A male pixie~
+A man with large wings sits next to a tree, listening to the wind.
+~
+Before you is a large strapping man, towering to about six feet in height.
+Large, dignified wings adorn his back, and he wears an outfit of greens and
+browns, perfect for the forest that is his home.  He looks at you with a 
+cautious look in his eyes, wondering if you will harm his family or the forest
+that he loves so dearly.
+~
+0 dkw 0 C
+24 0 0 7d45+240 5d6+10
+0 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 2
+C
+#37023
+female pixie woman~
+A female pixie~
+A pixie woman flutters her wings about here.
+~
+This pixie woman is incredibly beautiful.  Her body is voluptuous, with a
+perfect hourglass figure.  Her hair flows down mid-back, as bright as the noon-
+day sun.  She is also a hopeless flirt.  She will do anything to get the
+attention of a man.  She may even flirt with women just for the sheer fun of
+it.  She wears little clothing, and looks ready for a good time.
+~
+c dkw 0 C
+21 0 0 7d44+228 4d5+11
+0 0
+8 8 2
+13 13 13 13 13 13 13
+12 3 0
+C
+> greet_prog 100~
+if ispc($n)
+if sex($n) == 1
+emote flutters over to you and bats her eyelashes, flirting shamelessly.
+else
+emote smiles impishly and bats her eyelashes at you.
+endif
+endif
+~
+> rand_prog 5~
+if ispc($n)
+if sex($n) == 1
+say Oh $n! You are so brave and handsome!
+blush $n
+else
+emote winks suggestively at you.
+endif
+endif
+~
+|
+#37024
+white unicorn~
+A majestic white unicorn~
+A large white unicorn grazes here, it's horn shining brilliantly.
+~
+Before you stands a mythical unicorn.  Except, it isn't quite a myth anymore,
+because the unicorn is here before your very eyes.  It is a docile creature,
+allowing you to walk up to it and pet it's mane.  You could even mount the 
+beautiful creature.  The unicorn is a silvery-white, with a silky mane and
+tail.  Adorning it's head is a large, golden horn.  Be wary of this horn, for 
+it is sharp enough to cause major harm to you.
+~
+0 dk 0 C
+28 0 0 9d56+365 5d6+13
+0 0
+8 8 0
+13 13 13 13 13 13 13
+15 3 1
+C
+#37025
+tiny chipmunk~
+A tiny chipmunk~
+A chattering chipmunk scurries past your feet.
+~
+Rushing quickly past your feet in at attempt not to be stepped on, the little
+chipmunk stops underneath a bush to chatter at you.  A very small guy, only
+reaching your ankle, the chipmunk has to raise it's head far to see your head.
+It has big, puffed-up cheeks and a twitching nose.  Before running into the
+foliage, it smiles at you.
+~
+gh k 0 C
+17 0 0 6d35+180 4d5+6
+0 0
+8 8 0
+13 13 13 13 13 13 13
+15 3 0
+C
+#37026
+foul smelling skunk~
+A foul-smelling skunk~
+A small black-and-white creature is here, emitting a foul odor.
+~
+This little skunk may be small, but it is capable of make a large commotion.
+It is black and white in color, and is only a few feet long.  However, if you
+get too close to it, be forewarned that you will be in store for a very un-
+pleasant surprise.
+~
+g dk 0 C
+21 0 0 7d44+231 4d5+12
+0 0
+8 8 0
+13 13 13 13 13 13 13
+15 3 1
+C
+> entry_prog 50~
+if ispc ($n)
+mpecho Oh no! A skunk has entered! Hopefully it won't spray you.
+endif
+~
+|
+#37027
+weary man traveler~
+A weary traveler~
+A man rests here, weary from his journey.
+~
+Resting his tired feet on a rock at the side of the path, this man looks about
+ready to take a nap right here and now!  He looks up at you with tired eyes;
+his hair is in disarray, as are his clothes.  He carries with him only what he
+requires for a long journey like the one he is imbarked on.  It is possible
+that he has traveled all this way to visit the Great Oak, or speak to the
+highly knowledgable druids.
+~
+g dfk 0 C
+23 0 0 7d45+235 4d5+13
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 1
+C
+$~
+$end~
+
+
+#OBJECTS
+#37001
+spring bubbling water~
+A bubbling spring~
+A bubbling spring is here, bringing forth refreshing water from it's depths.~
+~
+23 b 0
+20000 20000 0 0
+1 0 0
+E
+spring bubbling water~
+This little spring is bubbling and gurgling happily as it brings water up from
+beneath the surface.  This spring feeds the river and Sapphire Lake, so there
+must be plenty of water in the underground rivers.  The water coming through
+the spring is crystal clear, and looks refreshing.  It looks perfect for taking
+a quick drink and cooling off.
+~
+#37002
+beard fake white~
+A fake white beard~
+A fake beard lies here, discarded by it's owner.~
+~
+9 z ae
+0 0 0 10
+1 300 30
+E
+beard fake white~
+This little white beard, worn by the gnome Sparky, is obviously a fake.  It
+looked real on him, however.  It is kept together by pieces of wire, and two of
+those pieces of wire curl into small earpieces for you to place behind your
+ears.  It is a snug fit, and it looks like your own beard instead of a phony.
+~
+A
+4 2
+A
+2 -1
+#37003
+lacy lace corset~
+A lace corset~
+An old and faded lace corset is here, gathering dust.~
+~
+9 a ak
+0 0 0 8
+2 2000 200
+E
+lacy lace old corset~
+Once a bright and crisp white, this corset is now a dull and faded ivory.
+Metal bars run lengthwise through the corset, providing it with a sturdiness
+that is excellent for helping a woman keep her hourglass figure.  Looking down
+on it, it appears like a device meant for a torture chamber.
+~
+A
+14 -10
+A
+6 2
+#37004
+metal hairbrush hair brush~
+A metal hairbrush~
+A metal brush lies here, its bristles old and frayed.~
+~
+5 w an
+9 8 4 7
+1 1000 100
+E
+metal hairbrush hair brush~
+You are looking at an old metal hairbrush.  At one time it was excellent at 
+making hair soft and shiny, but now the bristles are rotting away.  The silver
+handle is tarnished, and has seen better days.  It has been neglected, and
+would no longer be useful for hair brushing.  However, it's the perfect weapon.
+~
+#37005
+gold necklace heart pendant~
+A golden heart pendant~
+A golden heart-shaped pendant attached to a tiny chain lies here.~
+~
+9 w ac
+0 0 0 11
+1 5000 500
+E
+gold necklace heart pendant~
+This is a delicate gold necklace, with a heart-shaped pendant attached.  Even
+though it must be old, it is still in great shape.  The gold sparkles like the
+day it was created.  You open the pendant and see a small, faded picture.  It
+is a picture of Mina's lover, you realize, the man that left her and drove her
+to insanity.
+~
+A
+5 -1
+#37006
+white light blinding~
+The blinding white light~
+A glowing mass of blinding white light is here, filling the entire room.~
+~
+1 afi ao
+0 0 1000 0
+1 500 50
+E
+white light blinding~
+This light originates from the essence of the Great Oak's spirit.  Just like
+the spirit, it produces enough blinding white light to brighten even the
+darkest world.  It has no distinguishable features or form; rather, it is all
+around you, engulfing you in its peaceful aura.
+~
+A
+12 25
+A
+17 -10
+#37007
+silk robe silken~
+Beautiful silk robes~
+A luxurious set of silken robes lie here, discarded by one of the nymph sisters.~
+~
+9 bi ad
+0 0 0 12
+1 1500 150
+E
+silk silken robe robes beautiful~
+These beautiful silk robes are worn by the nymph sisters Callys, Brynn, and
+Adalya.  The silk is soft to the touch, and very sheer.  You can see through it
+to see the curvaceous forms of the sisters, or anyone else that wears it.  The
+silk is the color of a breathtaking sunset, with many colors combined to make a
+dramatic effect.
+~
+A
+6 2
+A
+1 -1
+#37008
+magical ring sapphire magic~
+A magical sapphire ring~
+A golden sapphire ring is here, shining brilliantly.~
+~
+9 gw ab
+0 12 0 12
+1 3000 300
+E
+magical ring sapphire magic gold~
+A small delicate band of gold holds on top of it a large sapphire.  The stone
+is a deep blue, much like the lake named after it.  The sapphire is cut so that
+it is shaped like a teardrop, and a beautiful one at that.  The band of gold is
+small, and you are barely able to fit your pinky finger through it.  It was 
+worn originally by one the nymph sisters, the eldest Adalya, and has a magical
+aura around it.
+~
+#37009
+magical ruby necklace~
+A magical ruby necklace~
+A bright ruby necklace sparkles on the ground.~
+~
+8 gw ac
+0 0 0 0
+1 3000 300
+E
+magical necklace magic ruby gold~
+You see a gold chain with a single ruby for a pendant.  The ruby is a bright
+and brilliant red, much like the reddest rose.  The gold is polished nicely,
+shining as the sun hits it.  The chain is thin and long, the pendant ending up
+right in the middle of the chest of whomever wears it.  Originally, this 
+necklace was worn by Brynn, the middle of the three nymph sisters.
+~
+A
+5 2
+A
+4 -2
+#37010
+magical bracelet emerald~
+A magical emerald bracelet~
+A golden bracelet adorned with a striking emerald lies here.~
+~
+9 gw am
+0 0 0 12
+1 3000 300
+E
+magic magical emerald bracelet~
+This bracelet shines brightly as light hits it.  A rather large emerald is at
+the center of the bracelet, as bright and striking as the forest of Acacia 
+itself.  The emerald is cut squarely in a princess cut, and looks stunning on 
+the cuff-like bracelet.  The cuff is fairly small, and it is almost impossible
+for you to get it around your wrist.  The fit is very snug.  This particular
+bracelet was worn by Callys, the youngest of the three nymph sisters.
+~
+#37011
+blood dagger~
+A blood-stained dagger~
+A sharp dagger, dripping with fresh blood, lies here discarded.~
+~
+5 w an
+10 10 2 11
+2 200 20
+E
+blood-stained blood dagger~
+This dagger looks like it has been used often; very often.  Not only is it
+covered with dried blood, there is also fresh blood dripping off of it's tip.
+The dagger is so covered with blood that you can't even see what metal it was
+made of.  Even the wooden handle has blood caked on it.
+~
+#37012
+black cape~
+A black flowing cape~
+In a crumpled pile on the ground is a long black cape.~
+~
+9 0 ac
+0 0 0 12
+1 500 50
+E
+black flowing cape~
+Long, jet black, and flowing gently in the breeze, this cape is perfect for
+anyone sneaking along in the shadows.  The cape itself is made of soft velvet,
+and falls straight to the ground.  The bottom of the cape is dirty from being
+dragged along the ground as it's wearer moves.
+~
+#37013
+oak cane~
+An oak cane~
+A cane crafted from the Great Oak is propped against a tree.~
+~
+5 az an
+12 9 3 7
+1 750 75
+E
+oak cane~
+The cane you see in front of you is rather small.  It isn't even large enough
+for a normal-sized dwarf.  It was, however, the trusty cane of Cedric, head
+druid of the Forest of Acacia.  The cane itself if finely carved from a branch
+off of the Great oak.  Down the length of the cane are intricite carvings of
+forest pixies and animals.
+~
+#37014
+river rock bracelet~
+A bracelet carved from river rocks~
+A small circlet crafted from a river rock lies here.~
+~
+9 bi am
+0 0 0 12
+1 900 90
+E
+river rock bracelet~
+This small bracelet has been carved from a single rock from the river that
+flows through the forest.  It is a perfect circle, and hums slightly as you
+touch it.  Could some artisan have been able to carve this bracelet with such
+percision and perfection?  Or was it made by the magical powers of the forest?
+Either way, it appears that it carries with it all the magic of the river in
+it's beauty.
+~
+A
+2 -2
+F
+8388608 0 0
+#37015
+white toy whip~
+A child's whip~
+A small white toy whip lies in the dirt here.~
+~
+5 z an
+11 5 3 7
+1 100 10
+E
+white toy whip~
+A very small toy whip, used by dwarf children, is here before you.  It is
+white in color, and looks to be made of leather.  Holding it in your hand, the
+whip feels small and useless.  It isn't large enough to do anything even
+remotely destructive with it... or is it?
+~
+#37016
+wool robe~
+Woolen robes~
+A robe made from thick wool lies here, neatly folded.~
+~
+9 z ad
+0 0 0 12
+4 400 40
+E
+wool robe~
+Think and warm, this woolen robe is made from the finest wool the dwarven
+community has to offer.  To the touch, it is soft, and is colored a light grey.
+This robe is particularly short; considering this, it must have been made for
+Cedric exclusively.  No other robe like this, with such fine artisanship, has
+ever been made.
+~
+F
+8 0 0
+A
+5 -2
+#37017
+shield small oak~
+A small oak shield~
+A child's shield, constructed of oak, rests against a tree.~
+~
+9 z aj
+0 0 0 12
+2 100 10
+E
+small oak shield~
+This shield is part of a dwarven child's toy fighting set.  It is small and
+round, and is made of the oak which is so abundant in the forest.  On the
+shield is a painted scene depicting dwarven warriors fighting victoriously.
+Odd, you thought that all dwarves in this area were druids.  Why would they be
+giving their children, who themselves are supposed to be druids, items which
+show such violence?
+~
+#37018
+cloth bag~
+A simple cloth bag~
+A bag used solely for collecting herbs and flowers lies here.~
+~
+15 i ao
+15 0 33000 12
+1 300 30
+E
+cloth bag~
+This bag was sown together from simple dwarven textiles for the assistants of
+head druid Cedric.  Long handles make for easy carrying over the shoulder,
+while a wide bottom allowed for many different herbs, leaves, and flowers to be
+stored comfortably while out on foraging trips.  The bag is a cream color with
+green embroidered stripes along the handles and circumference.
+~
+#37019
+staff oak druid~
+A druid's staff~
+A staff used by the druids of the forest rests here.~
+~
+5 gz an
+12 6 3 7
+2 200 20
+E
+staff oak druid~
+Every druid is givin the task of making his own staff.  Venturing out into the
+forest, each druid must pick a piece of oak from the forest and make it into a
+functional and elegant staff.  Much care is taken when these staves are
+prepared; the slightest detail isn't gone unnoticed.  This staff in particular
+is sleekly carved with a large round knob on the top for easy holding and a
+sharp point at the end, perfect for a walking stick or weapon.
+~
+#37020
+green sash~
+A bright green sash~
+A strip of cloth, brightly colored green, is folded neatly here.~
+~
+9 i al
+0 0 0 12
+1 500 50
+E
+green sash~
+This sash, made of dwarven cloth, has been dyed green to fit in with the 
+forest.  Flowered embroidery has been carefully applied to the entire sash,
+with accents of small emeralds.  They were made by talented artisans from the
+nearby dwarven villages.  The only ones of their kind are worn by high ranking
+female druids.
+~
+#37021
+flower wreath~
+A wreath of flowers~
+A wreath made from many fragrant flowers is here.~
+~
+9 z ae
+0 0 0 12
+1 325 32
+E
+wreath flowers flower~
+Many different flowers, lilies, roses, daisies, among others, make up this
+beautiful wreath.  Swigs of green ivy set the basis for which the flowers are
+added.  The fragrant aroma of the flowers can be smelt from far away, but
+nothing compares to the delightful smell as you hold it in your hands or place
+it upon your head.
+~
+#37022
+wool pants~
+A pair of wool pants~
+A pair of wool pants, made to fit dwarves, lies here.~
+~
+9 z af
+0 0 0 12
+3 200 20
+E
+wool pants~
+These wool pants are thick enough to keep it's wearer warm during the cold
+nights and winter, but it's also light enough to be worn through the summer
+months.  This pair of pants are a soft heather grey in color, and are cut to
+fit a dwarven body.  There are large cuffs on the bottoms, however, which
+could be unrolled for larger wearers if necessary.
+~
+A
+13 -5
+#37023
+golden wings feathers~
+Golden Wings~
+A large pile of golden feathers lie here, glittering in the sun.~
+~
+9 az ai
+0 0 0 12
+1 2000 200
+E
+golden wings feathers~
+These wings have been taken off of the Golden Eagle, who surveys the Forest of
+Acacia from high above on top of the Great Oak.  The wings are huge, possibly
+possessing a twenty foot wingspan, and are covered in bright golden feathers.
+The feathers are so bright that anyone that looks at them in direct sunlight
+could very well be blinded.  However, they are a magnificent sight, and still
+wonderful to behold.
+~
+A
+1 -1
+F
+4194304 0 0
+#37024
+golden gold feather~
+A gold feather~
+A single golden feather is here, being carried along by a breeze.~
+~
+8 bz ao
+0 12 0 0
+1 250 25
+E
+golden gold feather~
+Plucked from the body of the Golden Eagle, this feather contains magical
+qualities.  The large feather you behold is of the brightest golden color, and
+is almost as long as your arm.  Placed on the ground, whether or not a breeze
+is present, the feather will float on it's own!  Surely if you possess the
+feather it will do something remarkable.
+~
+F
+4194304 0 0
+#37025
+forest boots~
+The boots of the forest~
+A pair of boots made from forest leaves rests here.~
+~
+9 bz ag
+0 0 0 11
+1 0 0
+E
+forest boots leaves~
+Large boots, made from the oak leaves that are so abundant in the forest, rest
+here.  The boots are large enough for a full grown man to wear, but they are
+woven in such a way that leaves could easily be taken out and woven back into
+place for smaller feet.  The leaves of the boots emit a slight humming.  Could
+they possibly be leaves from the great oak?
+~
+A
+2 1
+A
+3 -2
+#37026
+gold horn unicorn~
+A golden horn~
+The horn of a unicorn lies here, severed from the unicorn's head.~
+~
+5 gi an
+12 9 3 11
+2 1000 100
+E
+gold horn unicorn~
+This large, gold-colored horn was taken from a fallen unicorn as a trophy.  It
+is about two feet in length, with a sharp point at the end.  This horn would be
+useful as a dagger of some sort.  There is a feeling of sadness along with this
+trophy horn, because it was wrongfully taken from such a majestic creature.
+Perhaps it could be used to gain vengeance for the unicorn's death.
+~
+#37027
+leather glove gloves~
+Worn leather gloves~
+A pair of rather worn leather gloves has been discarded here.~
+~
+9 z ah
+0 0 0 7
+1 500 50
+E
+leather glove gloves~
+These gloves have gotten a lot of use during it's lifetime.  The soft brown
+leather has been worn almost completely down, and even has a hole or two on
+the fingertips.   They are somewhat large; the large hands that occupied them
+must have worn out their original shape.  Nevertheless, they will make a
+suitable pair of gloves for anyone in need.
+~
+#37028
+oak leaf~
+An oak leaf~
+The leaf of an oak tree lies here.~
+~
+13 z a
+0 0 0 0
+1 100 10
+E
+oak leaf~
+This leaf has fallen from one of the many oak trees in the Forest of Acacia.
+It is a bright green, and looks like it has just recently fallen from the tree
+that was it's home.  These leaves are large, and an skilled artisan could
+surely make something useful out of it.
+~
+#37029
+white flower lily~
+A white lily~
+A white lily sways in the breeze.~
+~
+13 z a
+0 0 0 0
+1 100 10
+E
+white flower lily~
+A beautiful white lily has been plucked from the ground.  It smells divine,
+and is possibly one of the sweetest smelling flowers you have smelt.  The
+scent mingles with the other flowers, trees, and bushes to give the forest it's
+delightful smell.
+~
+#37030
+yellow flower daisy~
+A daisy~
+A bright yellow daisy rests here on it's stem.~
+~
+13 z a
+0 0 0 0
+1 100 10
+E
+yellow flower daisy~
+A beautiful yellow daisy has been plucked from the ground.  It smells divine,
+and is possibly one of the sweetest smelling flowers you have smelt.  The
+scent mingles with the other flowers, trees, and bushes to give the forest it's
+delightful smell.
+~
+$~
+$end~
+
+
+#SHOPS
+$end~

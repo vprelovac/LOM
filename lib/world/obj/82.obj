@@ -1,0 +1,142 @@
+#8200
+key small brass~
+a small brass key~
+A small brass key lies here.~
+~
+18 0 1
+0 0 0 0
+10 4 0
+E
+key~
+It is a small, simple brass key with no inscriptions  
+or marks of any kind.
+~
+#8201
+tee shirt tee-shirt~
+a tee-shirt~
+A plain white tee-shite with large multi-coloured writting on the front is here.~
+~
+12 0 1025
+0 0 0 0
+20 50 0
+E
+writting~
+The writting on the tee-shirt reads  
+"I've been to the Midgaard Zoo"
+~
+A
+17 -1
+#8202
+china mug~
+a mug~
+A china mug with multi-coloured writting on it.~
+~
+17 0 16385
+3 3 6 0
+10 10 0
+E
+writting~
+The writting on the mug reads
+"I've been to the Midgaard Zoo"
+~
+#8203
+fountain water~
+a fountain~
+A small white fountain gushes forth here.~
+undefined~
+23 0 0
+20000 20000 0 0
+20005 0 0
+E
+fountain~
+It is very nice.  Made from fine white marble.
+~
+#8204
+map zoo foldable~
+a map of Midgaard Zoo~
+A small foldable map lies here.~
+~
+12 0 16385
+0 0 0 0
+12 200 0
+E
+map zoo~
+The Midgaard Zoo
+                                   
+             [ ]                               
+            / |           [7]          G = Gift Shop      1 = Feed Hut
+           /  |            |           W = Wishing well   2 = Engraver
+         [G]-[W]--[K]     [6]          K = Kiddies Zoo    3 = Assassins
+              |            |           X = Keeper         4 = Embalmer 
+        [X]--[ ]--[4] [3]-[ ] [h]-[h]  C = Crocodile      5 = Questmaster
+              |            |   |   |   D = Dolphin        6 = Abrams
+     [C]      |   [G] [5]-[ ]-[h]-[h]  T = Tiger          7 = Wheel of Destiny
+      |       |    |       |           U = Unicorn   
+ [2]-[ ]-----[ ]--[ ]-----[ ]-[1]      B = Baby Dragon  
+      |       |    |       |           G = Gorilla  
+     [D] [E]-[ ]  [b]      |           E = Elephant  
+              |           [ ]-[B]      b = Bear  
+             [T]           |           h = Hydra cages
+                          [U]       
+
+~
+#8205
+zoo dagger~
+a zoo dagger~
+A small, iron dagger with multi-coloured writting lies here.~
+undefined~
+5 0 8193
+0 2 6 11
+4 750 0
+E
+writting~
+The writting on the tee-shirt reads
+"I've been to the Midgaard Zoo"
+~
+#8207
+hydra tooth~
+a hydra tooth~
+A hydra tooth lies here.~
+~
+11 0 5
+0 0 0 0
+5 30000 0
+A
+18 3
+A
+19 3
+#8208
+hydra tooth~
+a hydra tooth~
+A hydra tooth lies here.~
+~
+11 0 5
+0 0 0 0
+5 40000 0
+A
+18 4
+A
+19 4
+#8209
+hydra tooth~
+a hydra tooth~
+A hydra tooth lies here.~
+~
+11 0 5
+0 0 0 0
+5 50000 0
+A
+18 5
+A
+19 5
+#8210
+fine dagger~
+a fine dagger~
+A fine dagger rests here.~
+~
+5 66048 8193
+4 3 5 11
+10 50000 0
+A
+2 1
+$~

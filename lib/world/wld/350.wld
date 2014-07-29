@@ -1,0 +1,1746 @@
+#35000
+A Lightly Wooded Field~
+The path passes from rolling fields into a light wood at this point;
+a scattering of aspen, oak and pine that stretches for several acres
+to the north and west. To the north, a tall stone tower can be seen,
+rising up from amongst the trees. You think you can see several
+birdlike creatures soaring about its spire.
+~
+350 c 3
+D0
+~
+~
+0 -1 35001
+S
+#35001
+Footprints in the Dirt~
+The path continues into the wood, the trees gradually becoming more
+densely packed the further you progress. Small song birds trill
+noisily from the boughs of the leafy trees to either side, some of
+them occasionally depositing unwelcome packages upon passers-by below.
+The path bears many sets of footprints, most of them made by flat
+footed humanoids; orcs, perhaps, or goblins.
+~
+350 0 3
+D0
+~
+~
+0 -1 35003
+D2
+~
+~
+0 -1 35000
+D3
+~
+~
+0 -1 35002
+E
+footprints~
+You notice that the tracks head north and south, conspiciously avoiding
+a narrow path that runs westward.
+~
+S
+#35002
+A Clearing in the Woods~
+At this point someone or something has cleared a number of trees,
+creating a small grassy area, roughly circular in shape, within
+which a series of circles of standing stones, some as high as five
+feet, have been arranged, surrounding a small raised dais, upon
+which rests a stone chair bearing a soft cushion. A place of meditation
+and rest, it would seem.
+~
+350 0 2
+D1
+~
+~
+0 -1 35001
+>
+rand_prog 33~
+mpe _lbl A sense of well being pervades you.
+~
+|
+S
+#35003
+Approaching the Tower~
+As you draw nearer the tower, you are better able to accurately 
+appraise its dimensions and defenses. It is roughly eighty feet in
+height, and thirty feet wide at the base. Several parapets jut from
+the walls, and upon these stand alert guards, near heavy ballistas
+trained on the ground below. The path runs directly north, crossing
+a narrow drawbridge which spans a wide, deep moat full of murky
+water.
+~
+350 0 1
+D0
+~
+~
+0 -1 35004
+D2
+~
+~
+0 -1 35001
+S
+#35004
+The Drawbridge~
+A rather creaky drawbridge spans the moat here, heading north towards
+a raised portcullis that marks the entrance into the tower. Peering
+down into the waters of the moat, you see many scores of tiny fish
+with razor sharp teeth, eager to tear into anyone foolish enough to
+enter their watery lair. You shudder and prepare to press on.
+~
+350 0 2
+D0
+~
+~
+0 -1 35005
+D2
+~
+~
+0 -1 35003
+D5
+~
+~
+0 -1 35099
+S
+#35005
+A Portcullis~
+The drawbridge ends here, before a portcullis which has been raised
+enough to allow creatures of medium height to walk underneath without
+impedement. It is almost as if the inhabitants within were expecting
+someone or something's return; undoubtedly not an adventurer, however!
+A foul smell, as of unwashed clothing, can be detected even from here;
+whatever resides within is not exactly a stickler for cleanliness and
+hygiene.
+~
+350 0 0
+D0
+~
+portcullis~
+-1 -1 35006
+D2
+~
+~
+0 -1 35004
+S
+#35006
+The Courtyard~
+You pass into a broad courtyard, which extends in all directions, 
+filling the entire first level of the tower. A staircase is visible
+to the north, while little of interest can be seen to the east and
+west. The ground is littered with broken weapons and food scraps,
+indicating frequent usage by some assortment of creatures. The smell
+is stronger here than outside, and is now mingled with a far more
+unpleasant, but uncomfortably familiar, odor; that of orcs.
+~
+350 d 0
+D0
+~
+~
+0 -1 35009
+D1
+~
+~
+0 -1 35008
+D2
+~
+portcullis~
+-1 -1 35005
+D3
+~
+~
+0 -1 35007
+S
+#35007
+The Courtyard~
+Debris is scattered across the ground of the courtyard, deposited over
+a period of months by the current occupants, who were undoubtedly not
+the original ones; no orc would build a construct such as this- far
+too much attention has been paid to architectural detail and such. It
+smacks of a human fortification, built as a barracks for a garrison,
+perhaps, or by a human lord to house his family and possessions.
+~
+350 d 0
+D1
+~
+~
+0 -1 35006
+S
+#35008
+The Courtyard~
+Debris is scattered across the ground of the courtyard, deposited over
+a period of months by the current occupants, who were undoubtedly not
+the original ones; no orc would build a construct such as this- far
+too much attention has been paid to architectural detail and such. It
+smacks of a human fortification, built as a barracks for a garrison,
+perhaps, or by a human lord to house his family and possessions.
+~
+350 d 0
+D3
+~
+~
+0 -1 35006
+S
+#35009
+The Stairwell~
+At this point you come across a wide staircase that winds up and down
+the tower, allowing access to the various other levels of this 
+structure. The passage of many thousands of pairs of booted feet has
+worn the stones smooth here, evidence of habitation over a long period.
+Despite this, the stair appears to be in good condition; evidently the
+orcs have not been here long enough to wreak their trademark havoc upon
+the structure's condition yet.
+~
+350 cd 0
+D2
+~
+~
+0 -1 35006
+D4
+~
+~
+0 -1 35011
+D5
+~
+~
+0 -1 35010
+S
+#35010
+The Basement~
+The stairs terminate in the lower level of the tower, a basement
+wherein a variety of goods are stored in a series of storerooms set
+either side of a long corridor lit by smoky torches that runs north
+south through the tower. You doubt you will find little of interest
+stored down here.
+~
+350 d 0
+D2
+~
+~
+0 -1 35012
+D4
+~
+~
+0 -1 35009
+S
+#35011
+The Second Level~
+The stairs end here, at a long narrow corridor that runs past several
+large iron cauldrons, towards a second stairwell far to the south,
+which presumably heads up to the upper levels. No orcs are visible here;
+perhaps there are other defenses here.
+~
+350 d 0
+D2
+~
+~
+0 -1 35024
+D5
+~
+~
+0 -1 35009
+S
+#35012
+The Basement~
+The corridor continues, passing several doors to the east and west, ending
+to the south at a stone wall which bears a grinning skull insignia; doubtless
+the totem of the orc clan currently living here.
+~
+350 d 0
+D0
+~
+~
+0 -1 35010
+D1
+~
+~
+-3 -1 35016
+D2
+~
+~
+0 -1 35013
+D3
+~
+~
+-3 -1 35017
+S
+#35013
+The Basement~
+The corridor continues, passing several doors to the east and west, ending
+to the south at a stone wall which bears a grinning skull insignia; doubtless
+the totem of the orc clan currently living here.
+~
+350 d 0
+D0
+~
+~
+0 -1 35012
+D1
+~
+~
+-3 -1 35018
+D2
+~
+~
+0 -1 35014
+D3
+~
+~
+-3 -1 35019
+S
+#35014
+The Basement~
+The corridor continues, passing several doors to the east and west, ending
+to the south at a stone wall which bears a grinning skull insignia; doubtless
+the totem of the orc clan currently living here.
+~
+350 d 0
+D0
+~
+~
+0 -1 35013
+D1
+~
+~
+-3 -1 35020
+D2
+~
+~
+0 -1 35015
+D3
+~
+~
+-3 -1 35021
+S
+#35015
+The Basement~
+The corridor continues, passing several doors to the east and west, ending
+to the south at a stone wall which bears a grinning skull insignia; doubtless
+the totem of the orc clan currently living here.
+~
+350 d 0
+D0
+~
+~
+0 -1 35014
+D1
+~
+~
+-3 -1 35022
+D3
+~
+~
+-3 -1 35023
+S
+#35016
+A Storage Room~
+This room is used to store the various supplies needed by the inhabitants
+of the tower, including but not limited to casks of ale and spirits, barrels
+of dried meat taken from a variety of animals, piles of hemp rope and rows
+of pole arms and swords, set in racks along the walls at regular intervals.
+~
+350 ad 0
+D3
+~
+~
+-3 -1 35012
+S
+#35017
+A Storage Room~
+This room is used to store the various supplies needed by the inhabitants
+of the tower, including but not limited to casks of ale and spirits, barrels
+of dried meat taken from a variety of animals, piles of hemp rope and rows
+of pole arms and swords, set in racks along the walls at regular intervals.
+~
+350 ad 0
+D1
+~
+~
+-3 -1 35012
+S
+#35018
+A Storage Room~
+This room is used to store the various supplies needed by the inhabitants
+of the tower, including but not limited to casks of ale and spirits, barrels
+of dried meat taken from a variety of animals, piles of hemp rope and rows
+of pole arms and swords, set in racks along the walls at regular intervals.
+~
+350 ad 0
+D3
+~
+~
+-3 -1 35013
+S
+#35019
+A Storage Room~
+This room is used to store the various supplies needed by the inhabitants
+of the tower, including but not limited to casks of ale and spirits, barrels
+of dried meat taken from a variety of animals, piles of hemp rope and rows
+of pole arms and swords, set in racks along the walls at regular intervals.
+~
+350 ad 0
+D1
+~
+~
+-3 -1 35013
+S
+#35020
+A Storage Room~
+This room is used to store the various supplies needed by the inhabitants
+of the tower, including but not limited to casks of ale and spirits, barrels
+of dried meat taken from a variety of animals, piles of hemp rope and rows
+of pole arms and swords, set in racks along the walls at regular intervals.
+~
+350 ad 0
+D3
+~
+~
+-3 -1 35014
+S
+#35021
+A Storage Room~
+This room is used to store the various supplies needed by the inhabitants
+of the tower, including but not limited to casks of ale and spirits, barrels
+of dried meat taken from a variety of animals, piles of hemp rope and rows
+of pole arms and swords, set in racks along the walls at regular intervals.
+~
+350 ad 0
+D1
+~
+~
+-3 -1 35014
+S
+#35022
+A Storage Room~
+This room is used to store the various supplies needed by the inhabitants
+of the tower, including but not limited to casks of ale and spirits, barrels
+of dried meat taken from a variety of animals, piles of hemp rope and rows
+of pole arms and swords, set in racks along the walls at regular intervals.
+~
+350 ad 0
+D3
+~
+~
+-3 -1 35015
+S
+#35023
+A Storage Room~
+This room is used to store the various supplies needed by the inhabitants
+of the tower, including but not limited to casks of ale and spirits, barrels
+of dried meat taken from a variety of animals, piles of hemp rope and rows
+of pole arms and swords, set in racks along the walls at regular intervals.
+~
+350 ad 0
+D1
+~
+~
+-3 -1 35015
+S
+#35024
+The Cauldrons~
+Arrayed to either side of this long narrow stone corridor are a series
+of narrow chutes, angled downwards to allow whoever is defending the
+tower to pour the contents of several conspicuously large iron cauldrons
+onto the besieging army below. A variety of substances are known to be
+particularly effective for such a defense, including boiling oil, acid
+and firewater.
+~
+350 d 0
+D0
+~
+~
+0 -1 35011
+D2
+~
+~
+0 -1 35025
+S
+#35025
+The Cauldrons~
+A considerable amount of thought has been put into the tower defenses
+by whomever constructed it; any besieging army would have to overcome
+the piranha infested moat, then face whatever the defenders tipped 
+down onto them from the iron cauldrons placed here. You shudder at the
+thought- siege warfare is one of the nastiest forms of battle known to
+the world.
+~
+350 d 0
+D0
+~
+~
+0 -1 35024
+D2
+~
+~
+0 -1 35026
+S
+#35026
+The Cauldrons~
+The iron cauldrons, positioned near the chutes, are still visible here,
+along with several wooden weapon racks bearing halberds, bows, clubs 
+and swords. Several suits of leather armor and hide shields are arranged
+nearby, all for usage by the occupants in times of crisis. Judging by
+the advanced state of preparation, such times are evidently all to
+frequent.
+~
+350 d 0
+D0
+~
+~
+0 -1 35025
+D2
+~
+~
+0 -1 35027
+S
+#35027
+The Cauldrons~
+Rows upon rows of weapons are interspersed between the large iron
+cauldrons, which to your surprise do not boast any method of heating.
+Evidently these cauldrons contain some volatile substance quite capable
+of inflicting serious harm to would be attackers without any preparation.
+Curiosity begins to nag at you; what is it in these pots that makes them
+such effective deterrents?
+~
+350 d 0
+D0
+~
+~
+0 -1 35026
+D2
+~
+~
+0 -1 35028
+S
+#35028
+The Stairwell~
+A second stairwell beckons here, winding upward into the higher levels.
+A secondary defense measure, the placement means that even if anyone
+managed to breach the gates below they would have to battle through
+the corridor north of here, which would be packed with well prepared
+soldiers. 
+~
+350 d 0
+D0
+~
+~
+0 -1 35027
+D4
+~
+~
+0 -1 35029
+S
+#35029
+Barracks Level~
+Shouts, screams and an odor not unlike that of burning socks heralds
+the location of the tower barracks, behind a rather battered door to
+the north. Whoever was the former master of this place would surely
+be horrified by what now resides within its white stone walls.
+~
+350 d 0
+D0
+~
+~
+-3 -1 35030
+D4
+~
+~
+0 -1 35036
+D5
+~
+~
+0 -1 35028
+S
+#35030
+Orc Barracks~
+A series of unmade beds covered with scraps of clothing and various
+other products line each wall of this chamber, which bears a second
+door to the north, presumably leading to more barracks. The majority 
+of the tower guards can usually be found here, drinking small beer
+and playing cards.
+~
+350 d 0
+D0
+~
+~
+-3 -1 35033
+D1
+~
+~
+0 -1 35032
+D2
+~
+~
+-3 -1 35029
+D3
+~
+~
+0 -1 35031
+S
+#35031
+Orc Barracks~
+A rather disgusting smell is exuded by the bedding here; a combination
+of dirt, sweat and grease, in varying proportions. A variety of weapons
+of poor quality litter the floor, or depend from hooks set in the stained
+stone walls.
+~
+350 d 0
+D1
+~
+~
+0 -1 35030
+S
+#35032
+Orc Barracks~
+This part of the barracks is deserted; the beds have been pulled back
+to form a small enclosure, within which the orcs place animals or small
+humanoids, and force them to fight, placing bets upon the outcome. Blood
+stains cover the floor and walls; the sickly sweet odor of death is quite
+strong here.
+~
+350 d 0
+D3
+~
+~
+0 -1 35030
+S
+#35033
+Orc Barracks~
+More beds line this chamber, as in the last, in equally poor states
+of cleanliness. Piles of unwashed (and more than likely never to be
+washed) clothing cover the floor, broken only occasionally by a keg
+of cheap spirits or a plate covered in food scraps.
+~
+350 d 0
+D1
+~
+~
+0 -1 35034
+D2
+~
+~
+-3 -1 35030
+D3
+~
+~
+0 -1 35035
+S
+#35034
+Orc Barracks~
+Two small tables sit here, between the beds, an attempt by a more than
+usually innovative orc to make their card games more enjoyable; in reality
+it just gives the loser something new to break in frustration.
+~
+350 d 0
+D3
+~
+~
+0 -1 35033
+S
+#35035
+Sergeant's Quarters~
+This section of the barracks boasts but one bed; that of the burly
+orc sergeant in charge of this level. He is a brutish sort, even by
+orcish standards, and the other orcs for the most part steer well
+clear of him and his short temper. 
+~
+350 d 0
+D1
+~
+~
+0 -1 35033
+S
+#35036
+Barracks Level~
+More barracks fill this level, quarters for the remainder of the orcish
+garrison not housed on the level below. The smell and noise is equally
+appalling, if not as predominant. Perhaps if you are lucky you will not
+have to go into the foul lair.
+~
+350 d 0
+D0
+~
+~
+-3 -1 35037
+D2
+~
+~
+-3 -1 35045
+D4
+~
+~
+0 -1 35044
+D5
+~
+~
+0 -1 35029
+S
+#35037
+Orc Barracks~
+This section of the barracks is curiously deserted; not a single scrap
+or piece of broken furniture can be seen. Evidently it is some sort of
+marshalling area for the orcs, and judging by the absence of weapons
+normally found on the walls such a marshalling has just taken place.
+Some unfortunate human settlement will once more suffer the wrath of these
+vile creatures. They must be stopped!
+~
+350 d 0
+D0
+~
+~
+-3 -1 35040
+D1
+~
+~
+0 -1 35039
+D2
+~
+~
+-3 -1 35036
+D3
+~
+~
+0 -1 35038
+S
+#35038
+Orc Barracks~
+Piles of ash and charred wood indicate that the occupants here either
+became disgruntled with their furnishings and incinerated them, or were
+making a crude attempt to prepare and cook their own food, as a (more
+healthy) alternative to the slop they serve in the mess hall. Knowing orcs,
+either alternative is a distinct possibility.
+~
+350 d 0
+D1
+~
+~
+0 -1 35037
+S
+#35039
+Orc Barracks~
+A small arena, similar in composition to the one you saw below, has
+been fashioned here, but the orcs that currently reside here seem to
+be more interested in dice games than blood sports. No blood covers
+the floor, only scraps of paper covered in scribble and several pairs
+of bone dice, most of them loaded.
+~
+350 d 0
+D3
+~
+~
+0 -1 35037
+S
+#35040
+Orc Barracks~
+The majority of the beds in this section of the barracks sit empty and
+unused, as the full complement of the clan that has conquered the tower
+has yet to be achieved; losses were great in the initial siege, and
+the knights of Maritshome inflicted devastating losses in a recent
+raid that came closer to the city than the king would like.
+~
+350 d 0
+D0
+~
+~
+0 -1 35043
+D1
+~
+~
+0 -1 35042
+D2
+~
+~
+-3 -1 35037
+D3
+~
+~
+0 -1 35041
+S
+#35041
+Orc Barracks~
+This section of the barracks is deserted, save for some unwanted scraps
+of clothing and discarded armor, damaged in battle and left here, not
+worth the effort of repairing to the orcs. Glancing about you notice that
+the armor, while crude, is practical and efficient, and you realize that
+orcs may be slovenly but they can forge arms that perform well when the 
+need arises.
+~
+350 d 0
+D1
+~
+~
+0 -1 35040
+S
+#35042
+Orc Barracks~
+This section of the barracks is deserted; the beds have been pushed to
+one side, and a large pile of goods, of low value and high encumberance,
+have been placed in their stead. Doubtlessly the spoils of some recent
+raid.
+~
+350 d 0
+D3
+~
+~
+0 -1 35040
+S
+#35043
+Floating in a void~
+(null)~
+350 0 1
+D2
+~
+~
+0 -1 35040
+S
+#35044
+Banquet Hall~
+This landing faces onto a door which leads into the main dining area
+of the tower. No sound can be heard from within; evidently it isn't meal
+time, as orcs are anything but silent diners. The stairs continue to the
+upper levels of the tower.
+~
+350 d 0
+D0
+~
+~
+-3 -1 35050
+D4
+~
+~
+0 -1 35063
+D5
+~
+~
+0 -1 35036
+S
+#35045
+Floating in a void~
+(null)~
+350 0 1
+D0
+~
+~
+-3 -1 35036
+D1
+~
+~
+0 -1 35046
+D3
+~
+~
+0 -1 35047
+S
+#35046
+Floating in a void~
+(null)~
+350 0 1
+D3
+~
+~
+0 -1 35045
+D6
+~
+~
+0 -1 35049
+S
+#35047
+Floating in a void~
+(null)~
+350 0 1
+D1
+~
+~
+0 -1 35045
+D7
+~
+~
+0 -1 35048
+S
+#35048
+Floating in a void~
+(null)~
+350 0 1
+D8
+~
+~
+0 -1 35047
+S
+#35049
+Floating in a void~
+(null)~
+350 0 1
+D9
+~
+~
+0 -1 35046
+S
+#35050
+The Banquet Hall~
+At one stage this was a grand hall, serving as a banquet hall and a
+ball room, where the guests of the tower could revel with their hosts.
+Now it is a crude mess hall for the orcish garrison, and it looks it.
+Furniture smashed to flinders litters the floor, while deep gouges
+mar the walls and the remaining tables and chairs.
+~
+350 d 0
+D0
+~
+~
+0 -1 35051
+D2
+~
+~
+-3 -1 35044
+S
+#35051
+The Banquet Hall~
+It is said that even a Drachensgrab troll will baulk at the smell of
+orcish cooking, and at this particular juncture you do not doubt the
+truth of that rumour. A vile smell, one that evokes memories of burning
+underwear that has never been cleaned in three years, combined with putrid
+animal guts, brings tears to your eyes and cramps to your stomach. You are
+certainly glad that you brought your own rations, though at this present
+moment eating is probably the last thing you want to do.
+~
+350 d 0
+D0
+~
+~
+0 -1 35054
+D2
+~
+~
+0 -1 35050
+S
+#35052
+The Banquet Hall~
+This section of the hall is usually deserted, and thus sometimes lazier
+orcs sneak in here while on duty to catch a quick nap or just laze
+about, idly destroying the art or scribbling nonsense on the walls.
+~
+350 d 0
+D1
+~
+~
+0 -1 35054
+S
+#35053
+The Banquet Hall~
+This section of the hall is usually deserted, and thus sometimes lazier
+orcs sneak in here while on duty to catch a quick nap or just laze
+about, idly destroying the art or scribbling nonsense on the walls.
+~
+350 d 0
+D3
+~
+~
+0 -1 35054
+S
+#35054
+The Banquet Table~
+A massive oak table, scarred and splintered, fills the majority of this
+massive hall, and around its perimeter are arranged dozens of wooden 
+chairs in varying states of disrepair. A large chandelier depends from
+thick wooden supports set in the high ceiling, while large tapestries,
+slashed to ribbons, decorate the walls.
+~
+350 d 0
+D0
+~
+~
+0 -1 35055
+D1
+~
+~
+0 -1 35053
+D2
+~
+~
+0 -1 35051
+D3
+~
+~
+0 -1 35052
+S
+#35055
+The Head of the Table~
+In a grossly ostentatious display, the original inhabitant of the
+tower placed a golden throne for his or her seat at the end of the table.
+It is covered in blood stains, and you presume that whoever commissioned
+it as a seat also unconsciously used it as a death bed. Large grooves
+mark the floor to either side of the throne, as if something heavy had been
+dragged along it but recently.
+~
+350 d 0
+D2
+~
+~
+0 -1 35054
+S
+#35056
+A Secret Area~
+The throne clicks shut behind you as you step into a narrow stairwell
+that winds up to a secret area of the tower. It is more than likely that
+the most powerful residents of the tower may well reside here, but to 
+balance the unease of that thought is the notion that where there are
+powerful foes there is usually also an abundance of gold and gems.
+~
+350 d 0
+D4
+~
+~
+0 -1 35057
+S
+#35057
+A Landing~
+The stairs end at a small landing, to the south of which is a heavy
+steel door, doubtlessly well guarded, and equally doubtlessly the
+entrance to the lair of someone large and tough. At one stage this was
+most likely the residence of the tower masters, and it may well still
+serve that purpose for the current despot.
+~
+350 d 0
+D2
+~
+~
+0 -1 35058
+D5
+~
+~
+0 -1 35056
+S
+#35058
+The Steel Door~
+The door lies directly south of here, masking whatever threats may lie
+within. It is with a large degree of caution that you approach the portal,
+ever wary of any imminent danger, or the presence of armed guards. Whoever
+was cunning enough to mount an army of orcs and ogres certainly wouldn't be
+foolish enough to reside in an unsafe area.
+~
+350 d 0
+D0
+~
+~
+0 -1 35057
+D2
+~
+~
+-3 -1 35059
+S
+#35059
+A Conference Table~
+The despot of the tower uses this central area, dominated by a hard
+wood table, as a conference area, where he issues orders to his minions.
+The leaders of the various factions in the tower can usually be found
+here, awaiting the bidding of their master.
+~
+350 d 0
+D0
+~
+~
+-3 -1 35058
+D1
+~
+~
+0 -1 35061
+D2
+~
+~
+0 -1 35060
+D3
+~
+~
+0 -1 35062
+S
+#35060
+The Bedchamber~
+This was once the bedchamber of the tower master, but now serves as
+the lair of a large, vile hobgoblin shaman, the cunning mastermind of
+the takeover of the tower and establishment of it as a base from which
+to raid the surrounding area. The bedding is still in reasonable 
+condition; evidently the shaman enjoys creature comforts as much as the
+next chaotic humanoid.
+~
+350 d 0
+D0
+~
+~
+0 -1 35059
+S
+#35061
+A Storage Area~
+A small room used to keep more interesting items acquried by the orcs,
+this chamber is currenlty empty, as the shaman and his minions have
+already divided up the loot that was stored here, or have moved it
+elsewhere.
+~
+350 d 0
+D3
+~
+~
+0 -1 35059
+S
+#35062
+A Guest Room~
+This area is used to quarter visiting monsters, who the shaman has
+invited in an effort to convince them to join his cause. At the present
+it houses the chieftain of a tribe of trolls from the Kore, and it smells
+exactly as you would expect a rancid troll lair to. Partially devoured
+halflings hang from iron hooks set in the ceiling, a favorite delicacy
+of trolls everywhere.
+~
+350 d 0
+D1
+~
+~
+0 -1 35059
+S
+#35063
+A Series of Private Chambers~
+This landing boasts a long corridor to the north, off of which several
+doors lead, to the east and west. This is where the more important
+tower occupants reside, in private quarters. The staircase continues
+upward, to the highest levels of the tower.
+~
+350 cd 0
+D0
+~
+~
+0 -1 35064
+D4
+~
+~
+0 -1 35076
+D5
+~
+~
+0 -1 35044
+S
+#35064
+A Long Corridor~
+Doors to the east and west lead into various sleeping quarters of some
+of the more important tower denizens, including the clan spellcasters,
+who would doubtless be wily and dangerous foes. The corridor is totally
+silent, and appears to have been swept clean fairly recently, very clean.
+A curious occurence in an orc lair...
+~
+350 d 0
+D0
+~
+~
+0 -1 35065
+D1
+~
+~
+-3 -1 35074
+D2
+~
+~
+0 -1 35063
+D3
+~
+~
+-3 -1 35075
+S
+#35065
+A Long Corridor~
+The bare walls and floor are an unusual occurence even in a tower
+inhabited by humans, let alone filthy, fecund orcs and their unhygenic
+companions. No odiferous stench assaults your nostrils, nor are there
+the telltale piles of debris that accompanies any orc settlement. It is
+almost as if something had swept through here, collecting everything in
+its path.
+~
+350 d 0
+D0
+~
+~
+0 -1 35066
+D1
+~
+~
+-3 -1 35072
+D2
+~
+~
+0 -1 35064
+D3
+~
+~
+-3 -1 35073
+S
+#35066
+A Long Corridor~
+The long corridor continues, past more doors, and still as unnaturally
+clean as to the south. You are beginning to feel distinctly uneasy, and
+proceed slower and slower as you consider what may lay ahead.
+~
+350 d 0
+D0
+~
+~
+0 -1 35067
+D1
+~
+~
+-3 -1 35070
+D2
+~
+~
+0 -1 35065
+D3
+~
+~
+-3 -1 35071
+S
+#35067
+A Long Corridor~
+The corridor ends here, at the last pair of doors, which lead into more
+private quarters. Considerable noise can be heard nearby, as if a meeting
+was taking place, albeit a boisterous one.
+~
+350 d 0
+D1
+~
+~
+-3 -1 35068
+D2
+~
+~
+0 -1 35066
+D3
+~
+~
+-3 -1 35069
+S
+#35068
+The Common Room~
+The captain holds meetings here with his troops, discussing tactics and
+distributing of loot. Orcs are not ones much for such a degree of 
+organization, and such meetings are usually accompanied by frequent
+beatings and admonishments as the orcs nod off or start bickering.
+~
+350 d 0
+D3
+~
+~
+-3 -1 35067
+S
+#35069
+An Empty Bedroom~
+This dusty room contains nothing of value. It looks as if it has not
+been inhabited for decades, even by the previous owners of the tower.
+~
+350 d 0
+D1
+~
+~
+-3 -1 35067
+S
+#35070
+The Captain's Quarters~
+This room contains no furniture; instead there is a large pile of skins
+that serves as bedding for the ogre captain who resides here. He is usually
+to be found drinking with the tower master, or, more rarely, out raiding with
+his lackeys. The smell from the skins is almost unbearable.
+~
+350 d 0
+D3
+~
+~
+-3 -1 35066
+S
+#35071
+The Captain's Quarters~
+This moderately well furnished chamber is home to the captain of the
+orc guards stationed here, and shows signs of reasonable care. Higher
+ranking orcs are generally more intelligent (as well as vastly stronger)
+than their underlings, and have gained a certain coarse appreciation for
+the finer things in life.
+~
+350 d 0
+D1
+~
+~
+-3 -1 35066
+S
+#35072
+The Shaman's Study~
+Rows and rows of shelves crammed with mutilated texts dealing with a
+variety of subjects cover the walls, and more tomes, dealing with 
+pleasant topics such as animal sacrifice, cannibalism and demonic
+summonings litter the floor. Most of them have been rendered quite
+illegible by the numerous tears and stains that have been inflicted
+upon them.
+~
+350 d 0
+D3
+~
+~
+-3 -1 35065
+S
+#35073
+The Witchdoctor's Laboratory~
+A sickly aroma stings your sensitive nostrils as you enter, a vile
+combination of burning animal fat and sulfurous chemicals. A pile of
+bubbling beakers cover every item of furniture in this chamber, save
+for the bed, which shows signs of having been slept in recently by someone
+with very dirty clothing.
+~
+350 d 0
+D1
+~
+~
+-3 -1 35065
+S
+#35074
+An Empty Guest Room~
+This unassuming chamber contains a small bed, actually well made,
+an open (empty) chest, and a wardrobe. It is used to quarter guests of
+the tower, and has not been as yet used (sullied?) by the orcs. There
+doesn't appear to be anything of interest in here.
+~
+350 d 0
+D3
+~
+~
+-3 -1 35064
+S
+#35075
+An Empty Guest Room~
+This unassuming chamber contains a small bed, actually well made,
+an open (empty) chest, and a wardrobe. It is used to quarter guests of
+the tower, and has not been as yet used (sullied?) by the orcs. There
+doesn't appear to be anything of interest in here.
+~
+350 d 0
+D1
+~
+~
+-3 -1 35064
+S
+#35076
+The Ogre Barracks~
+The landing here boasts a large wooden door, nearly eleven feet
+high. In days of old it was another banquet area, but now it serves as
+a barracks chamber for the taller residents of the tower on account of
+its high ceilings. Loud thudding noises emanate from behind the portal,
+as of something hard being hurled about, and colliding with walls or
+bodies.
+~
+350 d 0
+D0
+~
+~
+-3 -1 35077
+D4
+~
+~
+0 -1 35084
+D5
+~
+~
+0 -1 35063
+S
+#35077
+Catch!~
+The ogres use this large central area to play a primitive (and potentially
+deadly) form of football, which involves the passing around of a large,
+heavy boulder, which more often than not catches players in the head or
+chest, or misses and tears a chunk of masonry from the battered walls.
+Powdered stone covers the floor, the result of countless encounters between
+boulder and wall.
+~
+350 d 0
+D0
+~
+~
+-3 -1 35080
+D1
+~
+~
+0 -1 35079
+D2
+~
+~
+-3 -1 35076
+D3
+~
+~
+0 -1 35078
+S
+#35078
+The Playing Field~
+A crude goal has been built here from beds (which are far too small for
+the ogres, who prefer to sleep on the floor anyway) arranged to create
+an endzone. The walls here are deeply gouged by the impact of boulders and
+ogre players.
+~
+350 d 0
+D1
+~
+~
+0 -1 35077
+S
+#35079
+The Playing Field~
+A crude goal has been built here from beds (which are far too small for
+the ogres, who prefer to sleep on the floor anyway) arranged to create
+an endzone. The walls here are deeply gouged by the impact of boulders and
+ogre players.
+~
+350 d 0
+D3
+~
+~
+0 -1 35077
+S
+#35080
+Sleeping Quarters~
+Several large piles of smelly hides and furs litter the floor here,
+scattered haphazardly by the ogres when they wish to sleep for a few
+hours. Ogres require much less sleep than most other humanoids, and thus
+they put little care into their resting area. Some half eaten shanks of
+lamb covered in flies add a particularly unpleasant aroma to the place.
+~
+350 d 0
+D1
+~
+~
+0 -1 35082
+D2
+~
+~
+-3 -1 35077
+D3
+~
+~
+0 -1 35081
+S
+#35081
+An Empty Chamber~
+Nothing of note is here; this section is rarely used by the ogres, as
+there are not enough of them to require that much sleeping or playing
+space.
+~
+350 d 0
+D1
+~
+~
+0 -1 35080
+S
+#35082
+Rec Room~
+More ogres play their favorite sport here, practicing for the games
+held in the chambers to the south. Sometimes halflings are substituted
+for the boulders, to add a bit of fun to the routine, and blood and guts
+smear the walls, marking the places where halflings have been dashed to
+pieces by the forceful hurlings of the ogres.
+~
+350 d 0
+D3
+~
+~
+0 -1 35080
+S
+#35084
+A Stout Wooden Door~
+The stairs break here at yet another landing, this one bearing a single
+wooden door, bound in heavy bands of iron, that probably bars entrance
+to a reasonably important area. It doesn't appear to be locked, however.
+The stairs continue to the top level of the tower, and back down to the
+barracks and halls below.
+~
+350 d 0
+D0
+~
+~
+-3 -1 35085
+D4
+~
+~
+0 -1 35089
+D5
+~
+~
+0 -1 35076
+S
+#35085
+A Guard Room~
+The door opens onto a small foyer, which serves as quarters for two
+ogres, assigned to keep an eye on whatever lies behind the locked door
+to the north of here. It is of similar construct to the other door,
+save that it is somewhat smaller and less imposing. No noise can be
+heard from behind it; whatever it protects is not a humanoid inhabitant.
+Treasure, perhaps?
+~
+350 d 0
+D0
+~
+~
+-7 -1 35086
+D2
+~
+~
+-3 -1 35084
+S
+#35086
+An Armory~
+The walls of this small stone chamber are covered in racks containing
+dozens of orcish weapons, all of inferior quality to your own current
+weaponry. Boar hide helms rest atop long stakes that have suits of leather
+armor bound to them, most of them badly stained. Another locked door bars
+progress north.
+~
+350 d 0
+D0
+~
+~
+-7 -1 35087
+D2
+~
+~
+-7 -1 35085
+S
+#35087
+The Treasure Room~
+This chamber is bare save for three container arranged about a small
+wooden table, the purpose of which is not clear. A musty odor pervades
+this area; obviously this room is not visited often, or maybe it has yet
+to be visited by the orcs, as the chests are of obvious human design yet
+bear no signs of violence. Yet another door lies to the north. It is a 
+simple affair, of plain wood with no bands.
+~
+350 d 0
+D0
+~
+~
+-3 -1 35088
+D2
+~
+~
+-7 -1 35086
+S
+#35088
+The Key Room~
+A rather strange feeling comes over you as you enter, and you instantly
+deduce that some sort of powerful dweomer is in effect here, negating
+most magicks and causing anyone using magical abilities considerable 
+pain. A small box rests in the center of the floor, the only furniture
+in the place.
+~
+350 dhxy 0
+D2
+~
+~
+-11 -1 35087
+>
+act_prog p from the south.~
+if class($n) == warrior
+mea $n You feel a slight tingling along your spine as you enter.
+else
+if class($n) == thief
+mea $n You feel a faint sense of unease as you enter.
+else
+mea $n A fierce stabbing pain enters your mind, causing you great harm!
+mpforce $n scream
+mpforce $n say My magicks! I cannot access them!
+mpechoar $n $n panics as $s magic is torn from $m.
+mpdamage $n 75
+endif
+endif
+~
+|
+S
+#35089
+The Top of the Stairs~
+The stairs end here before a final door, which leads into a series of
+chambers used by the inhabitants for storage of food and prisoners.
+Grunts, shouts and screams interspersed with sporadic splattering of
+hot animal fat indicate that an orcish kitchen also lies within.
+~
+350 d 0
+D0
+~
+~
+-3 -1 35090
+D5
+~
+~
+0 -1 35084
+S
+#35090
+Mess Hall~
+This room is where many of the orcs prefer to sup, away from the boss
+and his ogre praetorian guard downstairs in the banquet hall. A kitchen
+lies to the west, while foodstuffs are stored to the east. A vile odor
+emanates from both directions. A heavy oak door blocks passage north,
+into the tower cells.
+~
+350 d 0
+D0
+~
+~
+-3 -1 35093
+D1
+~
+~
+0 -1 35092
+D2
+~
+~
+-3 -1 35089
+D3
+~
+~
+0 -1 35091
+S
+#35091
+Kitchens~
+Your stomach almost rebels as you enter the stinking cesspit that
+serves as the food preparation area, in the most general sense, for
+the garrison of orcs quartered below. You have been in cleaner (and more
+pleasant) sewers than this slop hall. Orcish cuisine has never been 
+regarded as particularly wholesome or healthy, but the standards of this
+kitchen have succeeded in bringing it to even lower depths. You try not
+to look at the half-disemboweled halfling still writhing feebly on the
+filthy benchtop, his guts being slowly drawn out and into a bubbling pot
+by a greasy orc chef.
+~
+350 d 0
+D1
+~
+~
+0 -1 35090
+S
+#35092
+Pantry~
+This room is almost toally bare; orcish knowledge of methods of food
+preservation is limited, and thus they prefer to hunt and eat their prey
+on a day to day basis, rather than stockpile as is the wont of humans.
+A few barrels of cheap beer and vinegary wine litter the stone floor.
+~
+350 d 0
+D3
+~
+~
+0 -1 35090
+S
+#35093
+Holding Cells~
+Stout iron doors to the east and west prevent the emaciated occupants
+within from escaping their fate at the hands of their fell captors;
+the next meal, a victim for a night's whoring, or maybe they await the
+payment of a ransom to the mercenary orcs. The smell here is, not very
+surprisingly, quite unbearable.
+~
+350 d 0
+D0
+~
+~
+0 -1 35094
+D1
+~
+~
+-7 -1 35096
+D2
+~
+~
+-3 -1 35090
+D3
+~
+~
+-7 -1 35097
+S
+#35094
+A Long Corridor~
+The corridor continues north, past more cells that stand open and vacant,
+heading towards a staircase to the north, that leads, presumably to the
+tower roof. Expectation pervades your thoughts; you have almost cleared
+the entire tower!
+~
+350 d 0
+D0
+~
+~
+0 -1 35095
+D2
+~
+~
+0 -1 35093
+S
+#35095
+A Trapdoor~
+The corridor ends here, at the aforementioned staircase, which ends at
+a stout iron trapdoor, closed but not barred (the orcs figured out they
+couldn't get back in from the roof when people barred it, so they removed
+the bindings). You think you can hear someone or something talking up on
+the roof, though the thickness of the portal prevents much noise from 
+issuing downwards. 
+~
+350 d 0
+D2
+~
+~
+0 -1 35094
+D4
+~
+~
+-3 -1 35098
+S
+#35096
+A Holding Cell~
+The floor of this tiny chamber is covered in filthy straw, scraps of
+meat and piles of gnawed bones. You shudder to think of the horrid fate
+that awaits any imprisoned here.
+~
+350 d 0
+D3
+~
+~
+-7 -1 35093
+S
+#35097
+A Holding Cell~
+The floor of this tiny chamber is covered in filthy straw, scraps of
+meat and piles of gnawed bones. You shudder to think of the horrid fate
+that awaits any imprisoned here.
+~
+350 d 0
+D1
+~
+~
+-7 -1 35093
+S
+#35098
+The Roof~
+At last! Free of the confines of the miserable tower, your spirits suddenly
+soar, and you almost laugh out loud as you gaze out over the beautiful
+vista that stretches around all sides nearly eighty feet below. Far to the
+east you see the tall trees of the Dark Forest, while to the south the 
+main highway of Estroglia ribbons towards the spires of Maritshome, jewel
+of the Ocean of Dreams. To the west the forbidding slopes of the Kore beckon,
+and beyond them the great Walls of Defiance border the northern frontier
+of the Empire. The mighty Phlugistrum slashes through the land as of the
+wake of a razor slashing through skin; were human blood blue, the effect
+would be chilling indeed! Smiling, you turn to gaze northwards once more,
+and halt in your tracks as you see several large orcs staring at you...
+~
+350 0 1
+D5
+~
+~
+-3 -1 35095
+S
+#35099
+The Moat~
+You don't get very far in the moat before you quickly realize that
+the water is literally swarming with thousands of tiny piranhas,
+their razor sharp teeth sinking into every inch of exposed flesh on
+your body, devouring most of your quickly dying body in seconds, your
+armor and weapons sinking to the bottom of the moat, never to be seen
+again.
+~
+350 abcxy 0
+S
+$~

@@ -1,0 +1,2045 @@
+#35200
+The Main Gate~
+As you reach the top of the hill, you come upon a large, three-story manor.
+Past the gate, you can see a nice, well-maintained yard, with trees and
+flowers.  The house is red brick with white trim, and two candle lamps are
+on either side of the door.  You could turn around and go back the way you 
+came, or enter the yard through the gate.  As you look to your right, you
+see a small bronze plaque embedded in a rock.
+~
+352 d 0
+D0
+You see the front of a manor.
+~
+gate~
+-1 -1 35201
+D5
+This direction leads back down the hill.
+~
+~
+0 -1 35267
+E
+plaque~
+Welcome!  This area is intended for levels 1 to 10.  Remember, LOOK at 
+everything.  There is a lot you will miss if you don't stop and examine your
+surroundings.  Good luck and have fun!
+-Cedrick 4/96
+~
+E
+rock~
+The rock has a small plaque embedded in it.
+~
+S
+#35201
+Before the Front Door~
+As you pass through the gate, you come up to the house's front door.  The
+white lacy blinds are drawn across the front windows, preventing you from
+peeking inside.  You peer through the window in the door.  Apparently
+nobody is home.  It really is a nice looking house.  It wouldn't hurt to
+take a quick look inside, would it?  Or, you could wander into the yard,
+which extends east and west.
+~
+352 d 0
+D0
+The door leads into the house.
+~
+door~
+-1 -1 35206
+D1
+The yard continues on to the east.
+~
+~
+0 -1 35202
+D2
+The main gate is this way.
+~
+gate~
+-1 -1 35200
+D3
+The yard continues on to the west.
+~
+~
+0 -1 35203
+E
+door~
+The door has a small square window built into it.
+~
+E
+window~
+Looks pretty empty.
+~
+S
+#35202
+East of the Front Door~
+You walk around the east side of the house.  Looking in the windows, you
+can see a parlor.  To the west is the front door to the home, and east takes
+you around the house.
+~
+352 cd 0
+D1
+The yard continues to the east.
+~
+~
+0 -1 35205
+D3
+You see the front of the house.
+~
+~
+0 -1 35201
+S
+#35203
+West of the Front Door~
+You are standing in the yard, west of the front door.  A small well is
+full of cold, clear water.  The beautiful lawn takes you around the manor
+to the west, or back east to the main enterance.
+~
+352 cd 0
+D1
+The main enterance is this way.
+~
+~
+0 -1 35201
+D3
+The yard continues west.
+~
+~
+0 -1 35204
+S
+#35204
+Southwest Corner of the Manor~
+This is the southwest corner of the manor house.  To the north, you see the
+yard extends far back into the distance.  A large fence prevents movement
+to the west.  More yard lies north, or you could return the way you came.
+~
+352 cd 0
+D0
+The yard continues north.
+~
+~
+0 -1 35212
+D1
+The yard continues east.
+~
+~
+0 -1 35203
+E
+fence~
+The fence is about fifteen feet high.  Looks like the owners don't want
+anyone wandering around here.
+~
+S
+#35205
+Southeast Corner of the Manor~
+You are standing at the southeast corner of the manor.  A large fence prevents
+movement to the east.  Your only choices are to go around the house to the
+north, or to return west to the front door.
+~
+352 cd 0
+D0
+The yard continues north.
+~
+~
+0 -1 35215
+D3
+The yard continues to the west.
+~
+~
+0 -1 35202
+S
+#35206
+The Foyer~
+As you step into the house, you take a look around.  You are standing in
+what appears to be the front hallway.  A mirror hangs on the wall to the
+east, and a coat stand sits in the corner.  On the floor, a beautiful rug
+draws your attention.  Wait!  What's that?  You hear noises coming from
+within the house.  Maybe somebody is home after all.  You consider this
+as you decide whether or not to continue on.
+~
+352 d 0
+D0
+You see a comfortable room ahead.
+~
+~
+0 -1 35208
+D1
+A parlor lies this way.
+~
+~
+0 -1 35264
+D2
+This leads out of the house.
+~
+~
+-1 -1 35201
+D5
+~
+trapdoor~
+-17 -1 35207
+E
+rug~
+As you lift up the rug, you see...a trapdoor!
+~
+E
+mirror~
+You see...YOU!
+~
+E
+trapdoor~
+The trapdoor leads into darkness.
+~
+E
+stand~
+Would you care to hang your coat?
+~
+S
+#35207
+The Basement~
+Oops!  You wonder why you went down without looking first.  You slide down a
+chute, and land with a *THUMP* on the well-padded floor.  As you look at the 
+opening well above your head, you realize that you will have to find another
+way out of here.  Other than a small safe built into the wall, there does
+not seem to be anything else of interest here.
+~
+352 dxy 0
+D2
+South leads to a staircase.
+~
+~
+-1 -1 35274
+S
+#35208
+A Luxurious Living Room~
+You find yourself in a comfortable living room.  Beautiful artwork adorns
+the walls, and you take a second to look at it all.  A crackling fire burns
+in the fireplace.  A large, sturdy oak chair and a nice couch makes this
+place feel like home.  Turning around, you see the curtains which prevented
+you from looking through the windows.  There are also a few potted plants
+sitting next to the windows, soaking up sunlight.  A beautiful grandfather
+clock sits against the west wall.  A staircase leads up from here.
+~
+352 d 0
+D0
+The kitchen is this way.
+~
+~
+0 -1 35211
+D1
+You see the study.
+~
+~
+-1 -1 35210
+D2
+The foyer lies to the south.
+~
+~
+0 -1 35206
+D3
+~
+passage secret clock~
+-19 -1 35209
+D4
+The staircase leads to the second floor.
+~
+staircase~
+0 -1 35219
+E
+artwork~
+Wow!  A real Picasso!
+~
+E
+fireplace~
+This brick fireplace appears to get a lot of use.
+~
+E
+fire~
+It looks like....well, a fire.
+~
+E
+couch~
+Makes you really want a nap.
+~
+E
+curtains~
+White lace curtains are drawn across the windows.
+~
+E
+plant~
+Just your run-of-the-mill houseplant.
+~
+E
+chair~
+A sturdy, oak chair.
+~
+E
+clock ~
+You place your hands on the clock, and...it moves!  There's a secret passage
+behind here!
+~
+E
+art~
+Wow!  A real Picasso!
+~
+S
+#35209
+The Secret Room~
+Well what do you know?  A secret room!  It is quite dark in here, although
+the living room windows provide enough light to see with.  It is very damp
+in this room, and there is a tunnel leading down from here.  You try to peer
+down, but can not penetrate the blackness.  You shiver unconsciously and 
+decide to move on.
+~
+352 cd 0
+D1
+~
+~
+-3 -1 35208
+D5
+You see darkness.
+~
+~
+0 -1 35229
+S
+#35210
+A Comfortable Study~
+As you enter a large room, all you see is books, books, and more books!
+Every wall is lined with bookshelves.  They run from the ceiling to the
+floor, all completely full.  You glance over some of the titles.  Two
+leather chairs sit in the corner with a coffee table between them.
+Underneath your feet is a large Persian rug.  A window in the east wall
+reveals the yard outside.
+~
+352 d 0
+D3
+West takes you back to the living room.
+~
+~
+-1 -1 35208
+E
+books~
+Some of the titles include "Immortality on the Realms of Despair", "How to
+Build an Area In Less Than 80 Days", "1,001 Ways to Annoy Taboo", "50 Reasons
+Why All Areas Should Have DT's", "The Sad Life of an Avatar", and "Arkin's
+Coding: A SlaveDriver Speaks".
+~
+E
+bookshelves~
+Never in your life have you seen so many shelves.
+~
+E
+window~
+You can see the yard outside.
+~
+E
+rug~
+This thing must have cost a fortune!
+~
+S
+#35211
+The Kitchen~
+Upon entering the kitchen, you begin to feel very warm.  A huge oven
+dominates the entire west wall.  Looking under it, you see the large
+amount of wood fueling the flame.  Along the north wall is a small
+basin, with a pitcher and towel alongside.  There are cabinets above
+the basin, which probably contain dishes and glassware.  Hanging on
+the south wall is a large array of knives.  In the middle of the
+room is a large wooden table.  You may leave the house to the north,
+or enter the pantry to the east.
+~
+352 d 0
+D0
+The door leads outside.
+~
+~
+-1 -1 35218
+D1
+There is quite a bit of food this way.
+~
+~
+-3 -1 35263
+D2
+You see a spacious living room.
+~
+~
+0 -1 35208
+S
+#35212
+West of the Manor~
+You are standing west of the manor.  Other than a toolshed sitting here,
+there is nothing of interest.  The fence prevents your going west.
+~
+352 cd 0
+D0
+yard continues north.
+~
+~
+0 -1 35213
+D2
+The yard continues south.
+~
+~
+0 -1 35204
+S
+#35213
+Continuing Along the West Side of the Manor~
+The yard continues north around the house.
+~
+352 cd 0
+D0
+The yard continues north.
+~
+~
+0 -1 35214
+D2
+The yard continues south.
+~
+~
+0 -1 35212
+S
+#35214
+Northwest Corner of the Manor~
+This is the northwest corner of the manor.  The fence prevents your
+movement north and west.  To the east, you can see the back door to the
+home.  
+~
+352 cd 0
+D1
+East takes you to the backyard.
+~
+~
+0 -1 35218
+D2
+The yard continues south.
+~
+~
+0 -1 35213
+S
+#35215
+East of the Manor~
+You are walking around the east side of the house.  The fence runs along
+to your right.
+~
+352 cd 0
+D0
+The yard continues north.
+~
+~
+0 -1 35216
+D2
+The yard continues south.
+~
+~
+0 -1 35205
+S
+#35216
+Continuing Along the East Side of the Manor~
+You are following the yard around the east side of the house.  You can see a
+study through a window to the west.  The fence still runs to your right. 
+~
+352 cd 0
+D0
+The yard continues north.
+~
+~
+0 -1 35217
+D2
+The yard continues south.
+~
+~
+0 -1 35215
+S
+#35217
+Northeast Corner of the Manor~
+You are standing at the northeast corner of the house.  Going west leads to
+more yard.  South takes you back towards the front of the house.
+~
+352 cd 0
+D2
+The yard continues south.
+~
+~
+0 -1 35216
+D3
+West leads to the backyard.
+~
+~
+0 -1 35218
+S
+#35218
+The Backyard~
+You are standing behind the manor.  The yard stretches out to the north.
+Looking that way, you see two small structures standing next to each other.
+Farther on, you see a small garden, and beyond that, you think you can see
+another building but can't quite make it out behind all the hedges.  The
+yard splits off in all directions here.  East and west takes you back
+around the manor,  and south leads back into the house.
+~
+352 cd 0
+D0
+North leads farther into the backyard.
+~
+~
+0 -1 35251
+D1
+The yard continues east.
+~
+~
+0 -1 35217
+D2
+The door leads into the rear of the house.
+~
+~
+-1 -1 35211
+D3
+~
+~
+0 -1 35214
+S
+#35219
+The Second Floor Landing~
+The second floor branches off in all directions.  The carpeting here is
+worn and stained.  It evidently gets quite a bit of use, because you can
+see the wood floor in the spots where the carpet has worn through.  You see
+paintings on the wall, along with a portrait of the entire family.  Looking
+north, you see another hallway.  To the west is a playroom, and east looks
+like a bathroom.  Turning around, you notice yet another hallway leading
+south, and also a staircase leading up.  You wonder which way to go.
+~
+352 d 0
+D0
+You see another hallway.
+~
+~
+0 -1 35222
+D1
+You see a bathroom.
+~
+~
+-3 -1 35220
+D2
+You see another hallway.
+~
+~
+0 -1 35258
+D3
+West leads to the playroom.
+~
+~
+-3 -1 35221
+D4
+It is really dark...
+~
+staircase~
+0 -1 35226
+D5
+The staircase takes you back to the living room.
+~
+staircase~
+0 -1 35208
+S
+#35220
+A Large Bathroom~
+This is just a standard bathroom.  A wash basin, complete with a pitcher
+and towel, sits to your left.  Above that is a small, but adequate mirror.
+Linen cabinets line the wall.  A large tub sits along the wall to your right.
+A candle chandelier provides overhead illumination.
+~
+352 d 0
+D3
+The landing lies in this direction.
+~
+~
+-3 -1 35219
+E
+basin~
+Just a standard basin, used for washing up.
+~
+E
+cabinets~
+The cabinet probably has towels and linens.
+~
+E
+mirror~
+Yup...it's you all right.
+~
+E
+chandelier~
+It appears to be made of diamond.
+~
+E
+pitcher~
+The pitcher is used to fill the basin.
+~
+E
+tub~
+You aren't sure if you're looking at a tub or a swimming pool.
+~
+S
+#35221
+The Playroom~
+What a mess!  There are toys strewn about the room, and children are 
+everywhere.  You carefully aviod stepping on anything.  The windows to the
+west offer you a view of the endless forest beyond the house.  A toybox sits
+along the north wall.
+~
+352 d 0
+D1
+East will return you to the landing.
+~
+~
+-3 -1 35219
+E
+window~
+You see a sprawling forest.
+~
+S
+#35222
+A Hallway on the Second Floor~
+You are in a hallway on the second floor.  To the east, you can see
+a fairly large bed and a dresser.  It doesn't appear to be in use, and you
+figure that it is a guest room.  To the west is a room filled with beds and
+several dressers.  North you can see a huge room with an enormous bed and
+a shield hanging on the wall.  
+~
+352 d 0
+D0
+North leads you to the Master Bedroom.
+~
+~
+-1 -1 35225
+D1
+Just another bedroom.
+~
+~
+-3 -1 35224
+D2
+South leads to the landing.
+~
+~
+0 -1 35219
+D3
+You see a room full of beds and dressers.
+~
+~
+-1 -1 35223
+S
+#35223
+The Children's Bedroom~
+Here is where all the children in the house sleep.  Beds line the wall to the
+north, and rows of dressers sit to the south.  It is brightly painted, giving
+a sense of happiness and warmth.  Hanging on the walls are whimsical drawings
+which the children created.  
+~
+352 d 0
+D1
+You see the hallway.
+~
+~
+-1 -1 35222
+E
+drawing painting drawings~
+What a cute drawing!  You see a picture of the entire family, mom, dad,
+and all the siblings.
+~
+S
+#35224
+The Guest Bedroom~
+This room is small and spartan, containing a bed, a chair, and a tiny
+Oriental rug.  The master of the manor must not entertain a lot of house
+guests.  The tiny window in the east wall provides a poor view of the 
+outlying forest. 
+~
+352 d 0
+D3
+You see the hallway.
+~
+~
+-3 -1 35222
+E
+bed~
+Your baby crib was bigger than this.
+~
+E
+chair~
+This chair has no cushion, no arm rests, and does not look comfortable at all.
+~
+E
+window~
+Peering through the tiny window, you get a glimpse of the yard and surrounding 
+forest.
+~
+E
+oriental rug~
+A remnant of the Ming dynasty.
+~
+S
+#35225
+The Master Bedroom~
+Well, you have found your way to the master bedroom.  The owner would not be
+pleased with your intrustion.  You see a huge, comfortable king-sized bed, 
+along with a large desk, two dressers, and a full-length mirror.  Several
+large windows offer you a wonderful view of the outlying forest.  Hanging
+on the wall is a shield with the crest of a panther.  Crossed over the shield
+are two deadly scimitars.
+~
+352 d 0
+D1
+~
+~
+-1 -1 35266
+D2
+You see the hallway.
+~
+~
+-1 -1 35222
+E
+bed~
+The king-sized bed looks VERY inviting.
+~
+E
+mirror~
+You look into the mirror, and a horrible beast stares back!  You draw your
+weapon and prepare for battle!  Oh, wait, that's just you.
+~
+E
+window~
+You see a sprawling forest.
+~
+E
+scimitar~
+This blade could do some serious damage.
+~
+E
+shield~
+A large shield, crested with a panther.
+~
+S
+#35226
+The Attic~
+You are in the attic.  It is cold, damp, and really dark.  You can
+barely see five feet in front of your face.  As you walk on the floorboards,
+you can feel them bending beneath your feet.  Apparently nobody comes up here.
+It does not look like this place has been entered in years.  The layer of
+dust on the walls is thick enough to write your name in.  The attic continues
+to the west, where it is pitch black.  You could leave back down the stairs.
+A cold chill runs down your spine as you decide what to do. 
+~
+352 acd 0
+D3
+It is REALLY dark that way.
+~
+~
+0 -1 35227
+D5
+You can leave down.  The concept entices you.
+~
+staircase~
+0 -1 35219
+S
+#35227
+Further Into the Attic~
+You really feel scared now.  The boards are bending more now, and making
+odd creaking sounds.  There aren't even rats up here.  The darkness is
+so thick that your light can't penetrate more than two meters.  As you try
+to peer north, you get a really bad feeling.  Maybe you should turn back 
+right now.
+~
+352 acd 0
+D0
+The darkness gives you a bad feeling...
+~
+~
+0 -1 35228
+D1
+You can leave to the east.  Maybe that's a good idea.
+~
+~
+0 -1 35226
+S
+#35228
+Oops~
+On your next step, your foot goes right through the floorboard.  Unable to keep
+you balance, you fall forward.  Fortunately, you fall onto a solid part of the
+floor.  The part of the floor by the door crumbles away, leaving a gaping
+hole!  There's no way out...
+~
+352 cd 0
+S
+#35229
+The Sub-Basement~
+It is really dark down here.  You can't see a thing.  You seriously
+consider turning around immediately.  As a matter of fact, that might
+be a good idea.
+~
+352 acd 0
+D1
+It is so dark...
+~
+~
+0 -1 35230
+D4
+You think you can see light above.
+~
+~
+0 -1 35209
+S
+#35230
+The Labyrinth~
+Looking up, you see a burning torch mounted high on the wall.  Maybe that's
+why it was so dark in the room to the west.  The torch must have gone out.
+This room is utterly empty.  Damp, moldy walls make this place reek.  Your 
+only choice is to continue on or turn back.
+~
+352 cd 0
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35231
+D3
+West leads out of here.
+~
+~
+0 -1 35229
+S
+#35231
+The Laybrinth~
+You are in some sort of maze underneath the manor house.  The dark gray, moldy
+walls are disorienting.  You realize that it would be very easy to get 
+hopelessly lost in here.  Looking back, you see the way you came, the path
+back to safety.  In the other directions, all you see is corridors, dark
+and dismal.
+~
+352 cd 0
+D0
+The exit to this place is north.
+~
+~
+0 -1 35230
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35234
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35232
+S
+#35232
+The Laybrinth~
+The laybrinth branches off in many directions.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35231
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35238
+D3
+This is the enterance to the wine cellar.
+~
+~
+0 -1 35233
+D6
+You see nothing but darkened corridors.
+~
+~
+0 -1 35234
+D8
+You see nothing but darkened corridors.
+~
+~
+0 -1 35239
+S
+#35233
+The Wine Cellar~
+This room is cold and damp.  Wooden kegs of wine are stacked from the floor
+to the ceiling.  Along one wall is a huge wine rack, filled with various
+bottles of choice vintages.
+~
+352 d 0
+D1
+~
+~
+0 -1 35232
+S
+#35234
+An Intersection~
+The dark corridors branch off here.  You have no way of knowing which path
+to choose.  You can only pick one, and hope...
+~
+352 d 0
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35235
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35240
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35231
+D6
+You see nothing but darkened corridors.
+~
+~
+0 -1 35237
+D9
+You see nothing but darkened corridors.
+~
+~
+0 -1 35232
+S
+#35235
+The Laybrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35237
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35236
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35245
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35234
+S
+#35236
+The Laybrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35246
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35235
+D7
+You see nothing but darkened corridors.
+~
+~
+0 -1 35237
+S
+#35237
+The Laybrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35241
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35235
+D8
+You see nothing but darkened corridors.
+~
+~
+0 -1 35236
+D9
+You see nothing but darkened corridors.
+~
+~
+0 -1 35234
+S
+#35238
+The Laybrinth~
+As you come up on a corner, you begin to feel completely lost.  Which way
+did you come from?  You can't remember.  What could be lurking down here?
+You shudder at the thought.  Best to keep moving.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35232
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35239
+S
+#35239
+The Laybrinth~
+You are really lost now.  As you come up on yet another intersection, you
+spy a massive slate-grey metal door to the south.  Curious, you pull on the
+handle, but it does not budge.  Pressing your ear to the door, you hear 
+the sound of...machinery?  
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35240
+D2
+~
+~
+-143 35250 35250
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35238
+D7
+You see nothing but darkened corridors.
+~
+~
+0 -1 35232
+S
+#35240
+The Laybrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35234
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35245
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35239
+S
+#35241
+The Laybrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35242
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35237
+S
+#35242
+The Laybrinth~
+You are lost in a maze of corridors.  An absolutely repulsive stench drifts in
+from the west.  From the east, you hear a fearsome hissing and rattling.  You 
+shiver as you decide what to do.
+~
+352 d 0
+D1
+~
+~
+0 -1 35244
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35241
+D3
+~
+~
+0 -1 35243
+S
+#35243
+The Laybrinth~
+This is the final resting point of some poor adventurer.  Built into the
+wall is a small niche in which the corpse of a man lies.  The body is beginning
+to decompose, making the whole room stink.  You think about searching the 
+corpse for anything useful, but the very idea repulses you.
+~
+352 d 0
+D1
+~
+~
+0 -1 35242
+S
+#35244
+A Gruesome Lair~
+What a disgusting, horrible place!  Blood covers every square centimeter
+of the walls.  The decaying guts of several animals...or maybe people...
+are scattered across the floor.  Bones are everywhere.  This whole room
+reminds you of only one thing - DEATH.
+~
+352 d 0
+D3
+~
+~
+0 -1 35242
+S
+#35245
+The Laybrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35235
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35240
+D8
+You see nothing but darkened corridors.
+~
+~
+0 -1 35268
+S
+#35246
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35236
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35247
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35268
+S
+#35247
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35248
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35246
+S
+#35248
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35247
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35249
+S
+#35249
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35248
+D7
+You see nothing but darkened corridors.
+~
+~
+0 -1 35268
+S
+#35250
+Torture Room~
+Now you've done it.  Maybe you shouldn't have been so curious about
+this room.  Deadly looking machines and instruments are everywhere.
+You see equipment for every type of torture imaginable.  Cringing,
+you turn around and are greeted with an array of whips, spears,
+and chains.  A chill runs down your spine as you contemplate
+the evil that can occur here.
+~
+352 d 0
+D0
+North will take you out of this horrible place.
+~
+~
+0 0 35239
+S
+#35251
+Farther into the Backyard~
+You find yourself standing right outside two wooden shacks.  The one to 
+the west smells horrible.  The shack to the north appears to be a residence
+of some sort.  The yard continues to the east, and also leads back south to
+the manor.
+~
+352 cd 0
+D0
+You see the servants' home.
+~
+~
+-3 -1 35262
+D1
+Several paths intersect this way.
+~
+~
+0 -1 35253
+D2
+South takes you closer to the house.
+~
+~
+0 -1 35218
+D3
+You catch a whiff of a putrid odor...
+~
+~
+-3 -1 35252
+S
+#35252
+The Outhouse~
+Phew!  You really want to get out of here.  The whole place absolutely 
+reeks.  How can the servants stand living right next to such a stench?
+Apparently, the master of the house does not care.  At least the walls seem
+to be solid, and the roof is relatively whole.  You hold your nose, for the
+smell is starting to gag you.  
+~
+352 cd 0
+D1
+East leads to the yard...and fresh air!
+~
+~
+-3 -1 35251
+>
+rand_prog 10~
+mpecho The horrid stench has overcome you. You feel very sick.
+mpforce all puke
+~
+|
+S
+#35253
+An Intersection~
+A few paths intersect here.  The north one brings you to a small, but very
+beautiful garden.  Heading west brings you back to the manor.  From the 
+east, you catch a whiff of...hay?  
+~
+352 cd 0
+D0
+You see a garden.
+~
+~
+0 -1 35265
+D1
+You see the stables.
+~
+~
+0 -1 35254
+D3
+West will take you back toward the house.
+~
+~
+0 -1 35251
+S
+#35254
+The Stable Entrance~
+This is the gate to the stables.  Oddly enough, the stables seem to be in 
+better condition than the servants' quarters.  It doesn't smell as bad either.
+As you peer past the gate, you think that you see some motion from within. 
+Maybe somebody's in there.
+~
+352 cd 0
+D1
+The horses are corraled here.
+~
+gate~
+-1 -1 35255
+D3
+You see an intersection of paths.
+~
+~
+0 -1 35253
+S
+#35255
+The Horse Stalls~
+This is the private stables for the manor.  You see 5 separate stalls,
+each with it's own bed of hay and feeding trough.  The floor is kept 
+incredibly clean.  The owner must take really good care of the horses.
+~
+352 cd 0
+D0
+~
+gate~
+-9 -1 35257
+D2
+You see lots of horse equimpent.
+~
+~
+0 -1 35256
+D3
+You see the enterance to the stables.
+~
+gate~
+-1 -1 35254
+S
+#35256
+Equipment Storage~
+This room is used to store extra equipment for the horses.  On the northern
+wall you see several saddles and bridles.  An array of horseshoes dominates
+the west wall.  Hanging on the south wall are several pieces of jockey
+equipment:  whips, riding sticks, and chaps.  The only way out of here is
+back to the north.
+~
+352 cd 0
+D0
+You see the horse stalls.
+~
+~
+0 -1 35255
+S
+#35257
+The Field~
+You are in a large field.  This is the area in which the horses are ridden.
+You see several obstacles in various spots in the field.  The grass is fairly
+worn.  The owner is obviuosly an avid equestrian.  The field continues north
+and west, and the stables lie to the south.
+~
+352 0 2
+D0
+~
+~
+0 -1 35283
+D2
+You see horse stalls.
+~
+gate~
+-1 -1 35255
+D3
+~
+~
+0 -1 35282
+S
+#35258
+A Darkened Hallway on the Second Floor~
+You are in a hallway on the second floor.  It is much darker here than the
+rest of the house.  This must be the servant's section of the manor.  East
+and south appear to be bedrooms, and to the west lies another bathroom.
+Apparently, the owners do not want the servants to use the same bathroom.
+~
+352 d 0
+D0
+The landing lies in this direction.
+~
+~
+0 -1 35219
+D1
+You see a bedroom.
+~
+~
+-3 -1 35259
+D2
+You see a bedroom.
+~
+~
+-3 -1 35260
+D3
+This leads to a ridiculously small bathroom.
+~
+~
+-3 -1 35261
+S
+#35259
+The Cook's Bedroom~
+This room is absolutely pathetic.  You've seen prison cells with more
+furniture than this.  The only things in the room are the bed, one chair, 
+and a mirror that probably would fit into your pocket.  
+~
+352 d 0
+D3
+The hallway lies in this direction.
+~
+~
+-3 -1 35258
+S
+#35260
+Nanny's Bedroom~
+This is where the nanny retires for the evening.  It is a sparse room, with
+a bed, a small rocking chair, and a rug.  Nothing hangs on the cold, white
+walls.  A tiny window provides minimal light during the daytime.  A single
+candle is on a nightstand next to the bed, and a chest of drawers sits in
+the corner.  The only way out of here is back the way you came.
+~
+352 d 0
+D0
+lead back into the hall.
+~
+~
+-3 -1 35258
+E
+bed~
+A tiny bed with a cheap mattress.
+~
+E
+chair~
+Your typical nanny's rocking chair.
+~
+E
+rug~
+You see a small rug, which prevents what little heat in the room from escaping 
+through the floor
+~
+S
+#35261
+A Tiny Bathroom~
+You can't believe how small this room is.  You barely have room to walk, 
+let alone do anything else.  There is one candle on the wall, providing 
+scant light for the room.  You can not imagine anyone older than 5 fitting
+into that minute tub.  The washing basin is no wider than a dinner plate.
+Even the pitcher is small.  You start getting claustrophobic, and want to
+leave.
+~
+352 d 0
+D1
+You desperately want to get out of this TINY room.
+~
+~
+-3 -1 35258
+E
+candle~
+It provides a little light for the room.
+~
+E
+tub~
+~
+S
+#35262
+Servants' Quarters~
+You walk through the doorway into a wooden shack.  You know that servants
+don't usually get the best accomodations, but this is ridiculous.  The whole
+room is virtually empty, except for a small straw mat and a cabinet, and
+underneath your feet is clay;  the poor servants don't even have a floor to
+their house.  Poorly built walls have no chance of keeping any heat within
+the shack, and the windows aren't even windows; they're small squares cut in
+the wall covered with animal skin.  Above you is a straw roof, which has
+holes in several places.  The only exit is to the south.  
+~
+352 cd 0
+D2
+This way leads you out of this wretched place.
+~
+~
+-3 -1 35251
+E
+mat~
+A simple straw mat serves as a bed.
+~
+S
+#35263
+The Pantry~
+You have never seen so much food.  It is everywhere, stacked on the floor,
+and on shelves.  You see flour, dried meat, and grain on one wall.  On the
+other side sits pastries, cheese, and baskets full of fruit.  Stacked on
+the floor are a few barrels of portwine.  You become really hungry, and
+decide to take something.
+~
+352 d 0
+D3
+West will take you back to the kitchen.
+~
+~
+-3 -1 35211
+S
+#35264
+The Parlor~
+You are in a small, comfortable room.  Several high-backed chairs line the
+walls, and between them are solid cherry coffee tables.  The walls are made
+of oak paneling, with stunning crystal candlelamps providing light.  In
+the center of the room sits a round table with several chairs surrounding
+it.  There is a deck of cards sitting on it.  The floor is carpeted, and
+meticulously maintained.  Some works of art are hanging on the walls.  The
+only exit is west, which takes you back to the main foyer.
+~
+352 d 0
+D3
+West will return you to the foyer.
+~
+~
+0 -1 35206
+E
+lamp~
+Within the beautiful crystal lamp burns a solitary white candle.
+~
+E
+chair~
+A rather large chair, upholstered with red velvet.
+~
+E
+art~
+Looks like a genuine Breugel.
+~
+S
+#35265
+The Garden~
+You are standing in a beautiful garden.  Row upon row of flowers stretch
+off into the distance.  A small patch of vegetables grows here as well.  
+A wall standing six meters tall surrounds the garden.  Just beyond the wall
+is a small forest of trees. 
+~
+352 0 0
+D2
+~
+~
+0 -1 35253
+S
+#35266
+The Master Bathroom~
+Never in your life have you seen a more expensive bathroom.  The elegance and
+ostentatiousness of this room astounds you.  Almost everything in the room is
+made of marble.  The mirror hanging on the wall is framed in gold.  Overhead,
+a diamond chandelier provides light.
+~
+352 d 0
+D3
+~
+~
+-1 -1 35225
+E
+mirror~
+Just looking at this thing makes you feel rich.
+~
+E
+chandelier~
+The chandelier is made totally of gold and diamonds.
+~
+S
+#35267
+A Gentle Hill~
+Your progress becomes a little difficult as the ground slopes up into a hill.
+To the east and west, all you can see is forest, and at the top of the hill
+you think you can make out a gate and a large fence.  You can continue on
+and explore what lies ahead, or return south toward the pond.
+~
+352 0 4
+D2
+You see a small path.
+~
+~
+0 -1 35292
+D4
+You think you see a small gate ahead.
+~
+~
+0 -1 35200
+S
+#35268
+An Intersection~
+The dark corridors branch off here.  You have no way of knowing which 
+path to choose.  You can only pick one, and hope...
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35246
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35269
+D7
+You see nothing but darkened corridors.
+~
+~
+0 -1 35245
+D8
+You see nothing but darkened corridors.
+~
+~
+0 -1 35249
+S
+#35269
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35268
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35270
+D8
+You see nothing but darkened corridors.
+~
+~
+0 -1 35291
+S
+#35270
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35269
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35271
+S
+#35271
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35270
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35273
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35272
+S
+#35272
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35271
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35275
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35278
+S
+#35273
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35271
+D8
+You see nothing but darkened corridors.
+~
+~
+0 -1 35288
+S
+#35274
+A Staircase~
+Ah!  You knew there had to be a way out!  You climb the stairs and come to 
+a door.  You push the door open, and finds that it opens into the parlor.
+Looking at the other side of the door, you find that it is ingeniously 
+concealed in the wall.  You realize that you will not be able to re-enter
+this room from the parlor.
+~
+352 cd 0
+D0
+North will take you back into the basement.
+~
+~
+-1 -1 35207
+D4
+~
+~
+0 -1 35264
+S
+#35275
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35272
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35276
+S
+#35276
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35275
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35287
+S
+#35277
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35278
+S
+#35278
+An Intersection~
+The dark corridors branch off here.  You have no way of knowing which
+path to choose.  You can only pick one, and hope...
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35277
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35272
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35279
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35281
+S
+#35279
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35278
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35287
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35280
+S
+#35280
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35281
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35279
+S
+#35281
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35278
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35280
+S
+#35282
+The Field~
+The field leads north and east from here.  The ground does not appear to be
+as worn here.  You can see a water trough to the north.
+~
+352 0 2
+D0
+~
+~
+0 -1 35286
+D1
+~
+~
+0 -1 35257
+S
+#35283
+The Field~
+You are in the northeast corner of the field.  There is nothing here but
+open grass.  Well, it used to be grass.  It has been used so much that now
+there is just a large area of mud.
+~
+352 0 2
+D2
+~
+~
+0 -1 35257
+D3
+~
+~
+0 -1 35286
+S
+#35284
+Final Judgment~
+You have really done it now.  You are floating, helpless, in a void. 
+The judge sits behind his desk, ready to pass judgment on you.
+~
+352 cdxy 0
+S
+#35285
+An Antechamber~
+You are in a room with no walls at all.  Looking around, you see nothing. 
+Complete and total nothingness.  A chill envelops your body.  Down below, 
+you can see an important-looking man sitting in a chair.  He doesn't look too
+happy, and you would just as soon leave.
+~
+352 cdhxy 0
+D5
+~
+~
+0 -1 35284
+>
+speech_prog p Help!~
+mpforce $n down
+~
+|
+S
+#35286
+The Field~
+This is the northwest corner of the field.  The mud is ankle deep here, and
+is sticking to your shoes.  Apparently, the horses like to walk around the 
+water trough.
+~
+352 0 2
+D1
+~
+~
+0 -1 35283
+D2
+~
+~
+0 -1 35282
+S
+#35287
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35279
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35276
+S
+#35288
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D1
+You see nothing but darkened corridors.
+~
+~
+0 -1 35289
+D7
+You see nothing but darkened corridors.
+~
+~
+0 -1 35273
+S
+#35289
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35290
+D3
+You see nothing but darkened corridors.
+~
+~
+0 -1 35288
+S
+#35290
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D0
+You see nothing but darkened corridors.
+~
+~
+0 -1 35291
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35289
+S
+#35291
+The Labyrinth~
+You are lost in a maze of corridors.
+~
+352 d 0
+D2
+You see nothing but darkened corridors.
+~
+~
+0 -1 35290
+D7
+You see nothing but darkened corridors.
+~
+~
+0 -1 35269
+S
+#35292
+A Small Path in the Forest~
+You find yourself wandering along a small path through the forest.  Ahead of
+you is a gently sloping hill.  You can't quite make out what is at the top.
+Trees and brush surround you to the east and west.  You can investigate
+what lies ahead, or return south to the pond.
+~
+352 0 3
+D0
+A gentle hill rises ahead.
+~
+~
+0 -1 35267
+D9
+~
+~
+0 -1 34896
+S
+#35293
+Floating in a void~
+~
+352 cd 0
+S
+#35294
+Floating in a void~
+~
+352 cd 0
+S
+#35295
+Floating in a void~
+~
+352 cdxy 0
+S
+#35296
+Floating in a void~
+~
+352 cd 0
+S
+#35297
+Floating in a void~
+~
+352 cd 0
+S
+#35298
+Floating in a void~
+~
+352 cd 0
+S
+#35299
+Floating in a void~
+~
+352 cd 0
+S
+$~

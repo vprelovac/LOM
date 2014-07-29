@@ -1,0 +1,47 @@
+* Gotovo pola erija iz starog muda je izbaceno. Pokusavamo da stvorimo
+autenticnu fantasy atmosferu i temu, tako da su sve erije koje nisu bile
+u sklada sa tim izostavljene i bice zamenjene novim, jos ne vidjenim erijama.
+Od erija koje su otisle a mnogima su prirasle za srce su chessboard, camelot, 
+smurf village, king welmar's castle...
+
+* Experience sistem je promenjen. Bazicno svi startuju sa odredjenom
+'potrebom' exp-a da bi levelovali. Ta cifra je uvek konstantna a menja
+se koliko monsteri daju expa - sto su veci novo u odnosu na vas davace
+vise a sto su manji davace manje. To je prva stvar. Druga stvar je da
+ce mud "inteligentno" rasporedjivati exp po erijama. Znaci ako svi ulaze
+u samo jednu eriju po exp, ona ce posle nekog vremena poceti da 'daje'
+mnogo manje expa. Vazi i obrnuto, igraci koji istrazuju ce biti nagradjeni
+extra expom u tim novim, manje 'prometnim' erijama. Igraci imaju nove
+komande 'areas', 'mobtop', 'mobpk', 'show bestzones', 'show worsezones'
+
+* U skladu sa promenama u exp, i skill sistem je doziveo promene. Da bi
+igrac naucio neki skill potrebno je da ga plati novcem i expom - nema
+practice poena. Kada se neki skill 'kupi', racuna se da ce igrac trositi deo
+svog vremena na njegovo ucenje i poboljsavanje i samim tim ce trositi
+deo svog expa. To znaci da ce svaki novi nauceni skill povecati potreban exp
+po nivou. Igraci ce imati izbor koje skillove da uce a koje ne i time
+balansiraju svog karaktera - vise skillova znaci i vise expa po nivou. 
+Za one koji su se ponadali da prvo leveluju brzo bez ijednog skilla pa posle
+nauce sve, neka znaju da ce ih to na kraju kostati vise expa nego da su ucili
+skill odmah kada su ga dobili. Mozda deluje komplikovano, ali je u stvari
+vrlo prosto kad se nauci.
+
+* Razne stvari. Itemi se sada ostecuju i mogu da se uniste i popravljaju. 
+Nova komanda 'replay' prikazuje poslednjih 10 tellova. Ubacene sitne
+"zezancije" kao sto su 'walkin' i 'walkout' tekst, obican i combat prompt
+itd.  
+  
+* Postojati ce razliciti gradovi u kojima ce igraci pocinjati. Ideja je
+da se igraci posle udruzuju u klanove. Svaki klan ce moci da izabere svoje
+ime, 'logo' za who listu... Moci ce cak i da napravi citavu svoju eriju u
+kojoj ce biti smesten klan sve sa prodavnicama i kucama clanova klana.
+Takodje klan ce moci da "izumi" novi skill i spell koji ce biti posebno
+uradjen (uz saglasnost immortala) i moci ce ga nauciti samo clanovi
+tog klana.
+
+* MUD ce biti full PK (player-kill). Pored klanova novina je da kada se
+zagine igracu ostaje (gotovo) sva oprema - nesto ce po randomu ostati
+u lesu.
+  
+* Trebaju nam neke lepe ASCII slicice sa fantasy temom i/ili LOM logom
+za 'naslovnu' stranu. Ako neko moze da napravi nesto neka posalje. 

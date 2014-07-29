@@ -1,0 +1,490 @@
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 40
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 42
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 48
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 94
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 116
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 121
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 163
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 218
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 219
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 220
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 570
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 572
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 574
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 575
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 576
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 577
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 578
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 579
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 27
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 33
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 70
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 123
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 153
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 175
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 184
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 186
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 188
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 24
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 87
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 91
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 95
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 100
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 107
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8003, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'O' cmd in zone #402, line 124
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 210
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 212
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 214
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 55
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 112
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 144
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 172
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 179
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 221
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 276
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 288
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 290
+Jul 29 09:50:01 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 385
+Jul 29 09:50:01 :: ZONE: file invalid equipment pos number
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'E' cmd in zone #332, line 20
+Jul 29 09:50:01 :: ZONE: file door does not exist
+Jul 29 09:50:01 :: ZONE: ...offending cmd: 'D' cmd in zone #370, line 182
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 40
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 42
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 48
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 94
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 116
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 121
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 163
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 218
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 219
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 220
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 570
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 572
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 574
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 575
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 576
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 577
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 578
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 579
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 27
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 33
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 70
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 123
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 153
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 175
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 184
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 186
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 188
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 24
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 87
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 91
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 95
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 100
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 107
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8003, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'O' cmd in zone #402, line 124
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 210
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 212
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 214
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 55
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 112
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 144
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 172
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 179
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 221
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 276
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 288
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 290
+Jul 29 10:13:48 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 385
+Jul 29 10:13:48 :: ZONE: file invalid equipment pos number
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'E' cmd in zone #332, line 20
+Jul 29 10:13:48 :: ZONE: file door does not exist
+Jul 29 10:13:48 :: ZONE: ...offending cmd: 'D' cmd in zone #370, line 182
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 40
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 42
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 48
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 94
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 116
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 121
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 163
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 218
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 219
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 220
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 570
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 572
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 574
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 575
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 576
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 577
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 578
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 579
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 27
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 33
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 70
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 123
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 153
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 175
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 184
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 186
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 188
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 24
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 87
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 91
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 95
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 100
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 107
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8003, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'O' cmd in zone #402, line 124
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 210
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 212
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 214
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 55
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 112
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 144
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 172
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 179
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 221
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 276
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 288
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 290
+Jul 29 10:19:41 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 385
+Jul 29 10:19:41 :: ZONE: file invalid equipment pos number
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'E' cmd in zone #332, line 20
+Jul 29 10:19:41 :: ZONE: file door does not exist
+Jul 29 10:19:41 :: ZONE: ...offending cmd: 'D' cmd in zone #370, line 182
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 40
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 42
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 48
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 94
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 116
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 121
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 163
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 218
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 219
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 220
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 570
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 572
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 574
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 575
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 576
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 577
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 578
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 579
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 27
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 33
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 70
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 123
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 153
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 175
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 184
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 186
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 188
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 24
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 87
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 91
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 95
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 100
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 107
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8003, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'O' cmd in zone #402, line 124
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 210
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 212
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 214
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 55
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 112
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 144
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 172
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 179
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 221
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 276
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 288
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 290
+Jul 29 10:22:31 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 385
+Jul 29 10:22:31 :: ZONE: file invalid equipment pos number
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'E' cmd in zone #332, line 20
+Jul 29 10:22:31 :: ZONE: file door does not exist
+Jul 29 10:22:31 :: ZONE: ...offending cmd: 'D' cmd in zone #370, line 182
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 40
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 42
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 48
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 94
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 116
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 121
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 163
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 218
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 219
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23900, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #351, line 220
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 570
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 572
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 574
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 575
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 576
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 577
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 578
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 23500, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #360, line 579
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 27
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 33
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 70
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 123
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 153
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 175
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 184
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 186
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 10200, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #400, line 188
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 24
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 87
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 91
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 95
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 100
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 107
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8003, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'O' cmd in zone #402, line 124
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 210
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 212
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8000, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #402, line 214
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 55
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 112
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 144
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 172
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 179
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 221
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 276
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 288
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 290
+Jul 29 10:23:14 :: ZONE: file Invalid vnum 8300, cmd disabled
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'P' cmd in zone #403, line 385
+Jul 29 10:23:14 :: ZONE: file invalid equipment pos number
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'E' cmd in zone #332, line 20
+Jul 29 10:23:14 :: ZONE: file door does not exist
+Jul 29 10:23:14 :: ZONE: ...offending cmd: 'D' cmd in zone #370, line 182

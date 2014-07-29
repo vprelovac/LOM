@@ -1,0 +1,1291 @@
+#35101
+beholder skin shield~
+beholder skin shield~
+A strip of ridged red skin lies here.~
+~
+9 gjop aj
+15 0 0 0
+5 5000 500
+A
+5 1
+A
+13 25
+A
+12 25
+A
+19 3
+#35102
+illithid purple robes~
+purple robes~
+Some long purple robes have been tossed here.~
+~
+9 gjop ad
+8 0 0 0
+2 750 75
+A
+3 3
+A
+12 30
+A
+24 -3
+A
+19 2
+#35103
+adamantium rod~
+an adamantium rod~
+This rod is used to channel ambient magical energies.~
+~
+9 bgopw ao
+10 0 0 0
+1 0 0
+A
+12 50
+#35104
+barbed whip~
+a barbed whip~
+A barbed whip is coiled up on the floor.~
+~
+5 0 an
+0 0 0 4
+3 45 4
+A
+18 4
+A
+19 3
+A
+2 1
+#35105
+stained leather armor~
+stained leather armor~
+This armor has seen better days. And years.~
+~
+9 z ad
+8 0 0 0
+5 5 0
+A
+17 -10
+A
+13 20
+#35106
+gaol key~
+a gaol key~
+This key opens a gaol cell.~
+~
+18 w a
+0 0 0 0
+4 423 42
+#35107
+guild token~
+a guild token~
+This token marks the bearer as a friend in high standing of the guild.~
+~
+8 w ao
+0 0 0 0
+1 50 5
+#35108
+missive~
+a missive~
+A letter addressed to Captain Allethandra lies in the dirt.~
+~
+12 gz a
+0 0 0 0
+1 0 0
+E
+missive~
+The letter is written in a clear, flowing script, stained in parts by
+what appears to be blood. It is of course written in elvish.
+~
+>
+exa_prog 100~
+if race($n) == elf
+mea $n The letter reads-
+mea $n My dear friend Allethandra,
+mea $n The Situation is even worse than we predicted. A vile
+mea $n beholder, with Illithid help, has ensorcelled the villagers
+mea $n of Hochenyana with some sort of ancient artifact, the power
+mea $n of which is greatly enhanced by the mental abilities of the
+mea $n Illithids. I am not sure who, or what, may be behind these
+mea $n creatures; whether they are renegades or agents of a greater
+mea $n power is as yet unclear. I would advise we notify the
+mea $n Estroglian mage council immediately, and...
+mea $n The letter suddenly stops here. Hmm...
+else
+mea $n You cannot make heads or tails of the elaborate elven script.
+endif
+~
+|
+#35109
+sturdy oak club~
+a sturdy oak club~
+A wooden cudgel lies on the ground.~
+~
+5 z an
+0 0 0 7
+7 100 10
+A
+19 2
+#35110
+battered iron helmet~
+a battered iron helmet~
+This helmet has seen better days.~
+~
+9 w ae
+8 0 0 0
+10 0 0
+#35111
+ring mail coat~
+a ring mail coat~
+A suit of ring mail armor has been spread out on the floor.~
+~
+9 w ad
+10 0 0 0
+18 500 50
+A
+5 1
+A
+13 20
+A
+19 1
+A
+22 -2
+#35112
+wooden shield~
+a wooden shield~
+A shield made of strips of wood lashed together has been left here.~
+~
+9 z aj
+5 0 0 0
+4 120 12
+A
+17 -5
+A
+21 -3
+A
+23 3
+#35113
+robes mayor~
+the mayor's robes~
+A full set of the mayor's official robes lie here.~
+~
+9 gik ak
+12 0 0 0
+12 15000 1500
+A
+3 1
+A
+4 1
+A
+12 25
+A
+13 25
+A
+19 3
+#35114
+broadsword~
+a broadsword~
+A fine broadsword lies on the ground.~
+~
+13 gkw an
+0 0 0 3
+5 5000 500
+A
+1 1
+A
+18 3
+A
+19 5
+A
+24 -2
+#35115
+fine chain mail~
+fine chain mail~
+This chain mail was a gift from the elves to their friend Mayor Hiln.~
+~
+9 gkow ad
+8 0 0 0
+1 25000 2500
+A
+5 1
+A
+13 25
+A
+17 -20
+A
+12 30
+A
+18 3
+A
+19 3
+#35116
+study key~
+the study key~
+A key to the mayor's private office lies here.~
+~
+18 w a
+0 0 0 0
+1 50 5
+#35117
+shop counter~
+the shop counter~
+A wooden shop counter covered in deep gouge marks blocks one corner.~
+~
+31 0 0
+0 0 0 0
+1 0 0
+E
+counter~
+You notice that the counter is not set flush with the floor, and with 
+a little effort could be pushed aside...
+~
+>
+push_prog 100~
+mpe As the shop counter is pushed aside, a hidden trapdoor is revealed.
+mpopenpassage 35129 35188 5
+mpopenpassage 35188 35129 4
+~
+>
+pull_prog 100~
+mpe As the shop counter is pulled back into place, it bars a trapdoor.
+mpclosepassage 35129 5
+mpclosepassage 35188 4
+~
+|
+#35118
+barrel~
+a wine barrel~
+A large wine barrel rests in one corner.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+barrel~
+As you peer closely, you note that the lid is loose, and could be 
+easily pried off.
+The barrel looks large enough to clamber into...
+~
+#35119
+copper lantern~
+a copper lantern~
+A copper lantern hangs from a wooden beam.~
+~
+1 aw a
+0 0 120 0
+1 500 50
+A
+12 22
+A
+21 -2
+#35120
+shelf~
+a shelf laden with empty cans~
+A shelf laden with empty cans lines the north wall.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+shelf~
+The shelf is only a think piece of wood, mounted on a couple of nails.
+Peering closer, you notice that the shelving actually blocks a door
+set in the north wall, set so flush that the edges are but barely
+visible in the poor light.
+~
+#35121
+pinking shears~
+pinking shears~
+A pair of sharp tailor's shears rest on the dusty floor.~
+~
+5 w an
+0 0 0 2
+4 150 15
+A
+2 1
+A
+18 3
+A
+19 4
+#35122
+embroidered belt~
+an embroidered belt~
+This belt bears the inscription- 'Seven in one blow'.~
+~
+9 g al
+12 0 0 0
+3 5000 500
+A
+5 2
+A
+13 10
+A
+12 10
+A
+19 2
+>
+wear_prog 100~
+c 'elven' $n
+~
+|
+#35123
+bloodstained cleaver~
+a bloodstained cleaver~
+A bloodstained butcher's cleaver is buried in the floor.~
+~
+5 jw an
+0 0 0 1
+10 500 50
+A
+1 1
+A
+18 3
+A
+19 5
+A
+13 35
+>
+wear_prog 100~
+mea $n Visions of blood and mutilation flood your mind.
+mpforce $n evilgrin
+mpforce $n cackle
+~
+|
+#35124
+butcher chain mail glove~
+a butcher's glove~
+A chain mail glove covered in blood lies on the ground.~
+~
+9 w ah
+5 0 0 0
+3 1500 150
+A
+1 1
+A
+17 -10
+A
+19 3
+A
+6 -3
+#35125
+butcher apron~
+a butcher's apron~
+A long leather apron spattered with blood hangs from a hook.~
+~
+9 0 ad
+8 0 0 0
+7 120 12
+A
+1 1
+A
+5 1
+A
+13 20
+A
+17 -10
+#35126
+cupboard~
+a cupboard~
+A large cupboard rests against one wall.~
+~
+15 0 0
+500 13 35127 0
+1 0 0
+#35127
+key tiny brass~
+a tiny brass key~
+A tiny brass key lies on the floor.~
+~
+18 w ao
+0 0 0 0
+1 100 10
+#35128
+tea pot~
+a tea pot~
+An empty tea pot rests on the oak table.~
+~
+15 0 ao
+11 1 23899 0
+1 150 15
+#35129
+diamond earring~
+a diamond earring~
+A diamond earring with a gold clasp lies here.~
+~
+9 ag ar
+5 0 0 0
+1 150000 15000
+A
+3 1
+A
+4 1
+A
+12 15
+A
+13 15
+A
+24 -3
+#35130
+wand~
+a wand of silver~
+A silver wand has been dropped here.~
+~
+3 gw ao
+20 1 1 18
+1 1500 150
+#35131
+wand~
+a wand of gold~
+A gold wand has been dropped here.~
+~
+3 gw ao
+20 1 1 18
+1 1500 150
+#35132
+fountain~
+a fountain~
+A small stone fountain bubbles with fresh water.~
+~
+23 0 0
+50 50 0 0
+500 3000 300
+E
+fountain~
+It is very nice.  Made from fine white marble.
+~
+#35133
+corpse smith~
+the corpse of the smith~
+A decaying corpse is slumped over the anvil.~
+~
+15 0 0
+1000 1 23899 0
+1 0 0
+#35134
+silver hammer~
+a silver hammer~
+A large silver hammer lies on the ground.~
+~
+5 gkow an
+0 0 0 5
+24 15750 1575
+A
+1 2
+A
+12 30
+A
+18 4
+A
+19 4
+#35135
+signet ring merchant guild maritshome~
+A Merchant's Guild Signet Ring~
+A signet ring lies in the dust.~
+~
+9 gw ab
+3 0 0 0
+1 45000 4500
+A
+2 1
+A
+3 1
+A
+12 25
+A
+19 1
+#35136
+pile rubbish~
+a pile of rubbish~
+A large pile of rubbish fills most of the street here.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+pile rubbish~
+As you poke through the debris, you notice an iron grate half buried 
+in the muck, which leads down into a sewer. Evidently at some stage
+someone must empty this rubbish into the sewers below. But who..?
+~
+#35137
+shiny steel leggings~
+shiny steel leggings~
+A pair of shiny steel leggings lies half-buried in the muck.~
+~
+9 gw af
+11 0 0 0
+10 500 50
+A
+1 1
+A
+2 1
+A
+5 1
+A
+17 -20
+A
+19 2
+#35138
+silver greaves~
+silver greaves~
+A pair of silver greaves lies in a puddle of water.~
+~
+9 gw af
+6 0 0 0
+10 15000 1500
+A
+2 2
+A
+12 20
+A
+18 1
+A
+19 2
+A
+24 -1
+#35139
+thieves dirk~
+a thieves' dirk~
+A sharp narrow blade has been dropped here.~
+~
+5 w an
+0 0 0 2
+1 450 45
+A
+18 2
+A
+19 3
+#35140
+bladed boots~
+bladed boots~
+A pair of boots with daggers imbedded in the toes rests here.~
+~
+9 0 ag
+5 0 0 0
+4 1000 100
+A
+19 3
+A
+-349 5
+A
+14 -45
+#35141
+camoflagued cape~
+a camoflagued cape~
+A camoflague cape has been dropped here. You can hardly see it.~
+~
+9 fg ak
+4 0 0 0
+4 15400 1540
+A
+2 1
+A
+-353 5
+A
+-348 5
+A
+22 -2
+>
+wear_prog 2~
+c 'invis' $n
+~
+|
+#35142
+weatherbeaten sign~
+a weatherbeaten sign~
+A weatherbeaten sign bearing a name and a symbol swings in the breeze.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+sign~
+The sign reads, in an ornate script-
+ 
+Badwick the Tailor, purveyor of fine clothing and repair of the same
+ 
+Below that is a picture of a coiled belt embossed with the words-
+FIVE IN ONE BLOW.
+~
+#35143
+a foul nest~
+a foul nest~
+A foul nest fills most of this burnt out pub.~
+~
+15 0 0
+1000 0 23899 0
+1 0 0
+#35144
+leather wristband~
+a leather wristband~
+This simple wristband is covered in druidic runes.~
+~
+9 gkoz am
+4 0 0 0
+1 1503 150
+A
+1 1
+A
+4 1
+A
+12 10
+A
+24 -3
+#35145
+mace~
+a mithril mace~
+A sturdy mithril headed mace lies here.~
+~
+5 gkow an
+0 0 0 8
+14 25000 2500
+A
+3 1
+A
+4 1
+A
+12 30
+A
+18 5
+A
+19 5
+A
+24 -2
+#35146
+leather jerkin~
+a leather jerkin~
+A stout leather jerkin lies here.~
+~
+9 z ad
+8 0 0 0
+5 5 0
+A
+17 -10
+A
+13 20
+#35147
+goblin totem~
+a goblin totem~
+A miniature totem of skulls and feathers lies here.~
+~
+9 bgz ao
+8 0 0 0
+1 100 10
+A
+1 1
+A
+3 2
+A
+12 40
+A
+18 3
+A
+19 3
+A
+24 -3
+>
+wear_prog 100~
+c 'sagacity' $n
+~
+|
+#35148
+evil eye~
+the evil eye~
+A bloody eye stares up at you from the ground.~
+~
+9 gjs as
+4 0 0 0
+1 500 50
+A
+6 -3
+A
+3 1
+A
+4 1
+A
+12 20
+A
+18 2
+A
+19 2
+F
+24 0 0
+>
+wear_prog 100~
+mea $n As you wear the eye, it sinks into your own eye, absorbing it!
+~
+|
+#35149
+head stag~
+a stag's head~
+A massive stag's head is mounted on the west wall.~
+~
+15 0 0
+1000 5 23899 0
+1 0 0
+E
+head~
+You think you can see a small panel near the Stag's thick neck.
+~
+#35150
+key mayor bedroom~
+the key to the mayor's bedroom~
+A small key has been dropped here.~
+~
+18 0 a
+0 0 0 0
+1 10 1
+#35151
+iron bound chest~
+an iron bound chest~
+A heavy iron bound chest rests near the bed.~
+~
+15 bgw 0
+275 13 35150 0
+1 0 0
+#35152
+shield douglas~
+the Shield of Douglas~
+The shield of Geoffrey's grandfather rests here.~
+~
+9 gikl aj
+11 0 0 0
+22 175000 17500
+A
+17 -20
+A
+5 2
+A
+4 2
+A
+12 45
+A
+19 2
+A
+22 -2
+A
+23 -2
+A
+24 -2
+#35153
+bethesda almanac book~
+A volume of Bethesda's Almanac~
+A volume of Bethesda's Almanac has fallen from its shelf.~
+~
+2 g ao
+40 15 56 125
+5 400 40
+E
+almanac~
+Leafing through a few pages, you note that the volume details the 
+history and culture of a place known as "Daggerfall"; from what little
+you peruse, you decide that it must be a very colorful and interesting
+place! You make a vow to one day venture to this strange world.
+~
+#35154
+spell book~
+the mage's spell book~
+A torn, stained tome lies on the floor.~
+~
+2 abgop ao
+33 67 70 68
+20 15000 1500
+A
+12 50
+A
+24 -5
+A
+3 2
+A
+4 2
+>
+exa_prog 100~
+if class($n) == mage
+mea $n As you scan the runes enscribed within, you trigger them!
+mpforce $n recite spell
+chuckle
+say Silly me...;)
+else
+mea $n You cannot make heads or tails of the cryptic runes.
+endif
+~
+|
+#35155
+crate~
+a long metal crate~
+A long metal crate rests on one of the benches.~
+~
+15 gw 0
+10000 5 23899 0
+1000 0 0
+#35156
+wand good health~
+a wand of good health~
+A slender wooden wand lies here.~
+~
+3 g ao
+30 5 5 28
+1 5750 575
+#35157
+wand poor health~
+a wand of poor health~
+A slender wooden wand lies here.~
+~
+3 g ao
+30 5 5 33
+1 5750 575
+#35158
+wand perception~
+a wand of perception~
+A slender wooden wand lies here.~
+~
+3 g ao
+30 1 1 44
+1 5750 575
+#35159
+sigil no'ol nool~
+the Sigil of No'ol~
+A glowing sigil hovers in mid-air.~
+~
+1 abfgj a
+0 0 -1 0
+1 157500 15750
+F
+4194312 0 0
+A
+13 20
+A
+12 20
+A
+18 2
+A
+19 2
+A
+6 -3
+>
+damage_prog 50~
+mpe The sigil reforms even as it is damaged!
+mpoload 35159
+drop nool
+mpforce $n get nool
+mpforce $n wear nool
+~
+|
+#35160
+razor whip~
+razor whip~
+A leather cat-o-nine tails set with razor blades lies here.~
+~
+5 jnwx an
+0 0 0 4
+1 1540 154
+A
+2 1
+A
+18 5
+A
+19 5
+#35161
+cell key~
+cell keys~
+A ring of metal keys lies here.~
+~
+18 w ao
+0 0 0 0
+10 100 10
+#35163
+wraith light~
+a wraith light~
+A shimmering sphere of energy hovers here.~
+~
+1 afgj a
+0 0 -1 0
+1 0 0
+A
+18 2
+A
+19 2
+A
+12 30
+A
+24 -3
+#35164
+dark robes~
+dark robes~
+These magical robes seem to absorb all light.~
+~
+9 gjop ak
+6 0 0 0
+3 15000 1500
+A
+3 1
+A
+12 60
+A
+13 10
+A
+24 -5
+#35165
+dark cowl~
+a dark cowl~
+This dark cowl appears to absorb all the light in the room.~
+~
+9 gjop ae
+5 0 0 0
+1 15500 1550
+A
+3 2
+A
+4 2
+A
+12 25
+A
+19 3
+#35166
+iron shod staff~
+an iron shod staff~
+An iron shod staff lies on the floor.~
+~
+5 jopw an
+0 0 0 6
+4 5000 500
+A
+1 1
+A
+5 1
+A
+12 50
+A
+18 2
+A
+19 2
+#35167
+unholy tome~
+an unholy tome~
+A blackened book covered in glowing red runes lies here.~
+~
+9 jlop ao
+11 0 0 0
+12 17500 1750
+A
+4 2
+A
+12 60
+A
+19 2
+A
+21 -3
+#35168
+ebony dagger~
+an ebony dagger~
+A short ebony blade with an adamantium handle lies here.~
+~
+5 bjnpx an
+0 0 0 11
+2 175000 17500
+A
+2 1
+A
+13 25
+A
+12 25
+A
+18 4
+A
+19 4
+>
+wear_prog 100~
+c 'slink' $n
+~
+|
+#35169
+desk~
+a desk~
+A desk piled high with books fills most of this room.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+desk~
+There is at least six months of paperwork and cataloguing to be done
+just on this desk alone. If everything ever does return to normal here,
+someone is going to have one hell of a job before them in here!
+~
+#35170
+torn page~
+a paeg torn from a book~
+A page torn from some old book lies on the floor.~
+~
+2 g ao
+30 103 1 67
+1 100 10
+#35171
+hat stand~
+a hat stand ~
+A hat stand sits near the encumbered desk.~
+~
+31 0 0
+0 0 0 0
+1 0 0
+E
+stand~
+This hat stand is curiously unencumbered by hats. It doesn't appear too
+sturdy, a good shove would send it tumbling over, it seems...
+~
+>
+pull_prog 100~
+mea $n A panel slides shut in the north wall.
+mpclosepassage 35172 0
+~
+>
+push_prog 100~
+mea $n As you shove the hatstand around, a secret panel opens!
+mpechoar $n A panel suddenly opens in the north wall!
+mpopenpassage 35172 35182 0
+~
+|
+#35172
+necronomicon~
+the Necronomicon~
+A black book filled with vile text stains the air around it.~
+~
+9 abgjlopx ao
+12 0 0 0
+22 137500 13750
+A
+3 2
+A
+12 125
+A
+6 -5
+A
+24 -5
+A
+21 -5
+A
+20 -5
+A
+19 7
+A
+13 80
+#35173
+twisted claw ~
+the twisted claw of Xeratzl~
+A claw torn from a demon's arm lies here.~
+~
+5 jl an
+0 0 0 5
+1 0 0
+E
+claw~
+Xeratzl regenerates missing limbs, and one day decided to hack her own
+claw off and use it as a weapon.
+~
+A
+1 1
+A
+2 1
+A
+13 88
+A
+18 8
+A
+19 8
+#35174
+gloves thievery~
+gloves of thievery~
+Some black silk gloves lie here.~
+~
+9 gmnpx ah
+5 0 0 0
+1 50000 5000
+A
+2 2
+A
+18 6
+A
+19 2
+A
+-354 5
+A
+-350 5
+A
+-346 5
+#35175
+book knowledge~
+the Book of Knowledge~
+A tome of inestimable knowledge lies here.~
+~
+9 gop ao
+4 0 0 0
+12 750000 75000
+A
+3 2
+A
+4 2
+A
+12 100
+A
+24 -3
+A
+21 -3
+#35176
+shadow ring~
+a shadow ring~
+An indistinct loop of black energy hums quietly.~
+~
+9 fgjnpx ab
+4 0 0 0
+1 12750 1275
+A
+3 1
+A
+2 1
+A
+5 1
+#35177
+portal shadow cache~
+shadow cache~
+A shimmering portal, three feet by three feet, hovers here.~
+~
+15 fg 0
+10000 1 23899 0
+1 0 0
+#35178
+mound garbage~
+a towering mound of garbage~
+A towering mound of garbage, both organic and inorganic, fills the room.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+garbage~
+Yuck. Piles and piles of splintered wood and mutilated corpses. The
+stench is almost as bad as an orc latrine. Almost.
+~
+>
+exa_prog 100~
+mea $n As you stick your head in to have a look around, a rather large
+mea $n rat leaps out and bites you on the nose, then scurries away!
+mpforce $n say OUCH! Damn rats!
+mpdamage $n 10
+mpechoar $n $n rubs $s nose ruefully.
+~
+|
+#35179
+necklace bones~
+a necklace of bones~
+This necklace has been designed to rend the flesh of its wearer.~
+~
+9 z ac
+6 0 0 0
+4 100 10
+A
+12 25
+A
+13 25
+A
+19 2
+#35180
+black opal stud~
+black opal stud~
+A tiny black opal earring lies here.~
+~
+9 bj ar
+3 0 0 0
+1 25000 2500
+A
+17 -13
+A
+12 33
+A
+13 -10
+A
+14 -25
+A
+19 2
+#35181
+mace asteh~
+the Mace of Asteh~
+A white metal mace lies abandoned here.~
+~
+5 iklw an
+0 0 0 7
+10 56750 5675
+A
+4 2
+A
+12 30
+A
+18 5
+A
+19 5
+#35182
+plate air~
+Plate of the Air~
+A suit of shimmering white metal armor rests here.~
+~
+9 gikmow ad
+22 0 0 0
+2 500000 50000
+A
+17 -30
+A
+13 50
+A
+12 50
+A
+18 6
+A
+19 6
+A
+24 -5
+>
+wear_prog 100~
+if deity($n) == asteh
+mea $n The power of your god fills you with strength!
+c 'kin' $n
+c 'troll' $n
+else
+endif
+~
+|
+#35183
+rosary beads~
+rosary beads~
+A priest's rosary beads have been dropped here.~
+~
+9 giko ac
+5 0 0 0
+2 1230 123
+A
+12 50
+A
+24 -6
+#35184
+boulder~
+a boulder~
+A large boulder blocks a hole in the south wall.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#35185
+potion black~
+a black potion~
+A vial of thick black liquid lies on the floor.~
+~
+10 g a
+30 70 16 16
+2 1500 150
+#35186
+staff ensorcellment~
+the staff of ensorcellment~
+A long metal staff is leaned up against a wall.~
+~
+4 bgjpw ao
+50 20 13 7
+7 150000 15000
+A
+6 5
+$~

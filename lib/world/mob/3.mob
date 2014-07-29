@@ -1,0 +1,129 @@
+#300
+druid Aruncus~
+Aruncus the Druid~
+Aruncus the Druid is walking around here, searching for herbs.
+~
+Aruncus is a tall, skinny druid with a face marked by nature.
+He seems to be in peace with himself and his surroundings.
+~
+196 134217736 1000 E
+28 4 -6 13d13+1500 3d5+19
+50000 -140
+8 8 1
+Class: 2
+Int: 25
+E
+#301
+hermit sorbus~
+Sorbus the Hermit~
+Sorbus the Hermit is sitting here, roasting a rabbit.
+~
+Sorbus bares the marks of a long, hard life in solitude.
+He is dressed in simple clothing and looks like he has little
+or nothing to say.
+~
+6 0 0 E
+4 16 6 4d4+40 1d9+2
+1 -100
+8 8 1
+E
+#303
+citizen~
+the citizen~
+There is a citizen of Ofcol here glaring at you ... stranger!
+~
+He seems like a nice person with no interest in harming you or others.
+He wears normal, light clothing and has an anonymous face.
+~
+196 0 0 E
+6 15 6 6d6+60 2d4+2
+200 -100
+8 8 1
+E
+#304
+citizen~
+the citizen~
+There is a citizen of Ofcol here glaring at you ... stranger!
+~
+She seems like a nice person with no interest in harming you or others.
+She wears a minimum of clothing and has big ... eyes.
+~
+196 0 0 E
+5 16 5 5d5+50 2d4+1
+100 -100
+8 8 2
+E
+#305
+worm Shudde-M'ell~
+Shudde-M'ell~
+Shudde-M'ell the Giant worm of G'harne is guarding his treasure.
+~
+Shudde-M'ell is about 15 ft long and is surrounded by an evil stench,
+The worm is the protector of the treasure of G'harne and has been so
+for as long anyone can remember.
+~
+34 8 -1000 E
+24 -2 0 24d24+240 3d8+8
+13666 -100
+8 8 1
+E
+#306
+luxan shopkeeper~
+Luxan~
+Luxan the Shopkeeper is here, eager to sell you anything.
+~
+Luxan is dressed in a strange jacket.
+He looks like a mean trader from the outskirts of Midgaard.
+His life is seems to be totally occupied with trading.
+He looks very fit and capable of protecting his goods.
+~
+6 0 400 E
+23 8 -2 1d1+30000 2d10+0
+8000 -100
+8 8 1
+E
+#308
+keeper innkeeper~
+the Innkeeper~
+An Innkeeper is here waiting for your order.
+~
+The Innkeeper looks skilled in brewing different beers and mixing the
+weirdest drinks known. He also looks very big.
+~
+2 0 -100 E
+23 8 -2 1d1+30000 2d10+1
+100 -100
+8 8 1
+E
+#309
+rabbit~
+the cute rabbit~
+A cute rabbit is here.
+~
+It is a small, furry creature with long ears and big feet.
+~
+64 0 0 E
+1 20 6 1d4+1 1d4+0
+0 -100
+8 8 0
+BareHandAttack: 4
+E
+#350
+dragon pet~
+the pet dragon~
+Ravan's pet dragon is bouncing around here flapping her cute wings.
+~
+Ravan's pet dragon is about 3 ft. tall with small pointy teeth.
+The small wings are eagerly trying to lift her from the ground,
+but so far they haven't succeeded.
+~
+130 4194440 1000 E
+10 15 5 10d10+100 10d10+0
+0 -100
+8 8 2
+E
+$
+
+
+
+Mob special remarks

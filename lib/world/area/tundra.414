@@ -1,0 +1,2548 @@
+#414
+Tundra Circle~
+41499 30 2
+M 0 41405 1 41433
+E 1 41404 30 12
+G 1 41404 30 -1
+M 0 41421 4 41475
+M 0 41421 4 41475
+M 0 41421 4 41475
+M 0 41421 4 41476
+M 0 41406 1 41476
+E 1 41417 1 3
+E 1 41406 1 16
+O 0 41405 1 41476
+D 0 41476 0 2
+M 0 41410 4 41410
+G 1 41411 30 -1
+M 0 41410 4 41411
+G 1 41411 30 -1
+M 0 41404 1 41434
+E 1 41421 5 16
+E 1 41404 30 12
+G 1 41415 3 -1
+G 1 41416 1 -1
+M 0 41409 2 41427
+E 1 41420 1 16
+O 0 41418 1 41422
+P 1 41419 1 41418
+P 1 41409 30 41418
+P 1 41409 30 41418
+M 0 41419 1 41468
+E 1 41424 5 8
+M 0 41407 1 41469
+E 1 41413 1 11
+E 1 41400 1 17
+E 1 41425 2 6
+M 0 41401 14 41467
+E 1 41401 50 5
+M 0 41420 1 41463
+E 1 41423 5 16
+M 0 41408 1 41461
+G 1 41422 4 -1
+M 0 41403 1 41432
+E 1 41403 30 8
+E 1 41404 50 12
+G 1 41412 1 -1
+G 1 41410 1 -1
+G 1 41408 1 -1
+G 1 41407 1 -1
+M 0 41401 14 41456
+E 1 41401 50 5
+M 0 41401 14 41448
+E 1 41401 50 5
+M 0 41416 1 41445
+G 1 41415 15 -1
+M 0 41402 2 41425
+E 1 41402 3 6
+M 0 41401 14 41425
+E 1 41401 50 5
+M 0 41401 14 41421
+E 1 41401 50 5
+M 0 41401 14 41418
+E 1 41401 50 5
+M 0 41401 14 41405
+E 1 41401 50 5
+M 0 41412 6 41439
+M 0 41414 1 41462
+M 0 41415 4 41462
+M 0 41415 4 41462
+M 0 41417 4 41417
+M 0 41417 4 41417
+M 0 41418 4 41417
+M 0 41418 4 41417
+M 0 41411 4 41442
+M 0 41411 4 41443
+M 0 41412 6 41437
+M 0 41412 6 41437
+M 0 41413 1 41437
+M 0 41412 6 41436
+S
+$
+$end~
+
+
+#ROOMS
+#41401
+A cold part in the forest.~
+As you walk along, the ground and the air start to get cold.  You shiver and
+pull your cloak around you, so as to keep warm.  Walking along further, you
+are startled to see very fine snowflakes falling softly, noiselessly, to
+the ground.  You would stay and watch, but the air is getting so cold that
+you feel you must move on.  You can go back the way you came, or go west
+into the snow-capped forest.
+~
+207 0 3
+D0
+You see more forest, branches laden with ice.
+~
+~
+0 0 41402
+D2
+~
+~
+0 -1 30150
+S
+#41402
+A frozen conifer forest~
+The air is DEFINITELY getting colder... so cold, in fact, that the branches
+on the trees are beginning to freeze, and you can feel the ground crack from
+the cold underneath you.  You can go further into the forest by going east,
+along a small path of dirt which leads west, or back the way you came, 
+south.
+~
+207 0 3
+D1
+The trees seem to get noticeably colder in this direction.
+~
+~
+0 0 41403
+D2
+The trees south have less ice on them.
+~
+~
+0 0 41401
+D3
+The trail leads through the trees, and slightly upwards.
+~
+~
+0 0 41406
+S
+#41403
+Further into the frozen forest...~
+The snow-storm is getting much worse, but you persevere.  You can still make
+your way east, but you are thinking about going back west.  All about you
+are frozen trees, near-arctic wilflife, and snow.
+~
+207 0 3
+D1
+Things are definitely colder in that direction.
+~
+~
+0 0 41404
+D3
+The snow seems to be less over there.
+~
+~
+0 0 41402
+S
+#41404
+Frozen trees, frozen trees, everywhere...~
+There are frozen trees, snow and ice everywhere you look.  The snowstorm has
+become so bad it's hard to see anything.  You forge on through the snow, but
+it really is getting hard to see.  You can go east or west.
+~
+207 0 3
+D1
+The air gets still colder, and the trees are creaking.
+~
+~
+0 0 41405
+D3
+The ground seems less snow-laden.
+~
+~
+0 0 41403
+S
+#41405
+Too much snow...~
+The snowstorm has become too harsh for you to go any further.  You must go
+back.  There is a massive heap of snow that has fallen right in front of
+you, and it's cold enough to make you pray for a dragon.  You'd better go
+west before you die of frostbite.
+~
+207 0 3
+D3
+You're just glad to be headed out of there.
+~
+~
+0 0 41404
+S
+#41406
+Along the path.~
+You're walking through a light coverlet of snow, just enough to cool a 
+hobbit's toes.  It seems like the air is getting a lot colder though, and
+as you travel for what seems like ages, the trees' branches are bent
+lower and lower with the cold and snow and ice.  Soon, though, you stop
+for rest.  The path leads east-west.
+~
+207 0 3
+D1
+The trail ends to the east.
+~
+~
+0 0 41402
+D3
+The trail leads off into the trees.
+~
+~
+0 0 41407
+S
+#41407
+Rocky Path~
+Here the path gets rocky, and you stumble and nearly fall several times
+over the loose scree.  You seem to be travelling steadily up a slope, though
+not very steep, and the snow and ice are getting a lot thicker.  The path
+goes on east and west from here.
+~
+207 0 3
+D1
+The trail leads through the trees, slightly downwards.
+~
+~
+0 0 41406
+D3
+The trail winds through the trees, still upwards.
+~
+~
+0 0 41408
+S
+#41408
+Mountaintop Plateau~
+You must have gone up more than you thought!  You stand at the edge of the
+coniferous forest, laden down with ice, and look along a plateau that runs
+along the very top of quite a high mountain.  The mountain is snow-capped,
+and you look out from the summit of it towards a massive snowfield that
+appears as a dazzling flash of white.  You breathe heavily and sink down
+onto a nearby rock to rest - you're in the Polar Circle.  You can go north onto
+the summit of the mountain, or you can go east back into the forest.
+~
+207 4 3
+D0
+You see the mountain's summit.
+~
+~
+0 0 41409
+D1
+The trail winds into the forest easterly and down a slope.
+~
+~
+0 0 41407
+S
+#41409
+The summit of Whitefire Mountain~
+You stand on the summit of the legendary Whitefire Mountain, and as you
+look down onto the snowfields, tales of your childhood, of the horrible
+species of creatures that have evolved here, float back to you.  Goats
+of the mountains wander about here and there, but not even they look like
+easy prey.  There are two paths that lead north and east from here, or you
+can go back south towards the forest.
+~
+207 0 5
+D0
+A trail, probably wandered along by goats, leads down the mountain.
+~
+~
+0 0 41411
+D1
+The trail leads west and down, towards a great field of snow.
+~
+~
+0 0 41410
+D2
+You see the treeline of the forest.
+~
+~
+0 0 41408
+S
+#41410
+Down the Eastward track~
+You are on a track going up and down the mountain in an eastward direction,
+and the rocks seem rather loose here.  They don't seem dangerously loose,
+and the mountain goats seem to be enjoying themselves.  The track leads
+west up the mountain, or down towards a snowfield.
+~
+207 0 5
+D3
+The trail leads back to the summit.
+~
+~
+0 0 41409
+D5
+The track drops sharply here, and heads down the mountain.
+~
+~
+0 0 41412
+S
+#41411
+Along the northward track~
+The track here goes downward towards a wide plain of snow, and even from here
+you can see another great snowfield off to the east.  The two seem to be 
+separated by a huge snowdrift that seems almost unpassable.  You can go
+back south to the mountaintop, or down towards the snowfield.
+~
+207 0 5
+D2
+You see the mountain top.
+~
+~
+0 -1 41409
+D5
+The trail winds down the mountain.
+~
+~
+0 -1 41413
+S
+#41412
+The goat track~
+You're close to the snowfield now, and the goats don't seem to be around...
+The snowfield itself stretches like a great expanse of whiteness all around
+on the ground.  This is the territory of the fiercely predatory bardelot,
+a creature with sabre teeth resembling polar bears, but a lot nastier.
+The path goes up, or down.
+~
+207 4 5
+D4
+The track goes back up the mountain
+~
+~
+0 0 41410
+D5
+The track leads down onto the snowfield.
+~
+~
+0 0 41414
+S
+#41413
+A goat track~
+The track you are on is getting rockier and rockier, but much lower.  You
+could easily go north to step onto the snowfield from here, and as there don't
+seem to be any animals around, it seems like a safe place for sleeping, and
+indeed there are signs of previous camps not yet wiped out of the frigid
+polar snow.  The only other exit is up.
+~
+207 4 5
+D4
+The goat trail leads upwards towards the mountaintop.
+~
+~
+0 0 41411
+D5
+The track ends below.
+~
+~
+0 0 41447
+S
+#41414
+The Great White Snowfield~
+The snowfield lays open to you, bare, white and snowy, and the reflected
+sun causes a mean amount of glare.  You have to shade your eyes before you
+go on.  The snowfield stretches out quite a way, but is barred to the
+north-west by a huge snowdrift that ALMOST looks traversable directly north
+of here,barred to the south by a huge glacial wall, and bordered on the 
+north-east by an Ice floe, beyond which is the Great Polar Ocean.  You can
+go east, north or south - up will take you back up the mountain.
+~
+207 0 2
+D0
+You see a massive bank of snow, a snowdrift.
+~
+Near the Snow Drift~
+0 -1 41415
+D1
+You look out on the snowfield.
+~
+Snowfield~
+0 -1 41419
+D2
+You see a small cave in the mountainside.
+~
+Outside a Cave~
+0 -1 41416
+D4
+The trail winds its way back up the mountain.
+~
+Back Up The Mountain~
+0 -1 41412
+S
+#41415
+At The Snow Drift~
+You have reached the snow drift, and high as it looks, you THINK you can make
+it over this bit.  It seems low enough, and sturdy enough (for snow) for you
+to climb.  Up will take you onto the snow drift, or you can go south or east
+along the snowfield.
+~
+207 0 2
+D1
+You see the snowdrift stretching out in this direction.
+~
+Along the Snow Drift~
+0 -1 41418
+D2
+You look upon Whitefire Mountain.
+~
+Near the Mountain~
+0 -1 41414
+D4
+You look up the height of the snow drift.....
+~
+Onto the Snow Drift~
+0 -1 41446
+S
+#41416
+Outside the Cave~
+You stand at the foot of the mighty mountain Whitefire, and in the rock foot
+of the majestic monolith is a tiny cave, which you could just about squeeze
+into.  Small foot marks are evident in the snow outside the cave, but they
+don't look like they belong to anything dangerous.
+~
+207 0 2
+D0
+You see a small goat track terminating at the base of the mountain.
+~
+At The End Of The Goat Track~
+0 -1 41414
+D1
+You look along the glacial wall.
+~
+Along the Glacial Wall~
+0 -1 41420
+D3
+You attempt to peer into the depths of the cave.  It seems small.
+~
+The Tiny Cave~
+0 -1 41417
+S
+#41417
+A Small Cave In The Mountainside~
+The small cave you're in is, well, small.  Tiny, in fact.  There's not
+even much in it, except for the odd bowl made from ice and a few scattered
+pieces of fur, presumably scavenged, for bed covers.  They had to be 
+scavenged, because the owners of this tiny cave surely couldn't have killed
+anything, let alone something with fur.  You can leave east.  Looking 
+around, you notice some pictures on a wall.
+~
+207 13 2
+D1
+You look through the cave entrance and see the snowfields.
+~
+Snowfields~
+0 -1 41416
+E
+pictures wall~
+They look like cave paintings of funny-looking creatures with fur, that
+obviously hop.  Another figure is there, too, one that looks human, but 
+seems to be riding... a hang glider???  And there's what looks like a
+goat there, as well...
+~
+S
+#41418
+Up Against The Snow Drift~
+You halt in mid-stride - there is a huge snowdrift preventing any further
+passage west.  It is far too high to climb, but if you could find a
+lower point of it, maybe you could climb over it...  Actually, it seems
+to be a little lower to the west of here.  You can go any way bar north,
+as the snow drift kind of stops you.
+~
+207 0 2
+D1
+You look out on the snowfields.
+~
+Snowfields~
+0 -1 41421
+D2
+You look out on the snowfields.
+~
+Snowfields~
+0 -1 41419
+D3
+You look along the length of the drift.
+~
+Along the Snow Drift~
+0 -1 41415
+S
+#41419
+Snowfields~
+You stand on a burning white snowfield, and the bright whiteness stretches out
+in all directions.  You hug yourself in order to stay warm, and wonder what to
+do next.  Northward you can see a great snow drift, to the south a sheer wall
+of ice, a glacier.  The snow to the east has been stained red, and the 
+Whitefire Mountain is to the west.
+~
+207 0 2
+D0
+You see the huge snowdrift.
+~
+By the Drift~
+0 -1 41418
+D1
+The snow is stained red with blood, and you think you see something...
+~
+Blood-stained snowfield~
+0 -1 41422
+D2
+You see a sheer wall of ice.
+~
+By the Glacier~
+0 -1 41420
+D3
+You see a massive mountain.
+~
+Whitefire Mountain~
+0 -1 41414
+S
+#41420
+Along the Glacial Wall~
+You are walking along the foot of a glacier, and the wall-like cliff
+completely prevents you from travelling south.  You turn and look into the
+ice of the glacier wall, and jump back, startled.  There's a figure in
+there!!!  It must have been someone who upset a God pretty badly...  You
+can go west, north or east.
+~
+207 0 2
+D0
+You look out on the snowfields.
+~
+Snowfield~
+0 -1 41419
+D1
+You look along the glacier wall.
+~
+Along the Glacier Wall~
+0 -1 41423
+D3
+You see a small cave in the mountainside.
+~
+Outside a Cave~
+0 -1 41416
+S
+#41421
+Snowfield at the Drift~
+You stand at the foot of a massive snow drift, and hug yourself in order
+to keep warm.  The snow has been stained red with blood here, and you can
+see the blood going along the ground in streaks as if a huge body had
+been pulled south from here.  You can go south, east or west.
+~
+207 0 2
+D1
+You see the snow to the east give way to ice.
+~
+Near the Ice Floe~
+0 -1 41425
+D2
+You can see something large and furry southwards, and it seems to be just
+lying there.
+~
+Snowfield with Blood On It~
+0 -1 41422
+D3
+You see the snowdrift.
+~
+By the Snow Drift~
+0 -1 41418
+S
+#41422
+Bloody Snowfield~
+The snow here is totally stained red, and even in the frigid polar air
+you can smell the odor of decay.  Scraps of fur lay all around, as if this 
+were a regular feeding place.  You gag, and look for a way out.  You can
+go in any of the four cardinal directions.
+~
+207 0 2
+D0
+You see the snowdrift.
+~
+Near the Drift~
+0 -1 41421
+D1
+You see snow.  Boring, really.
+~
+Snowfields~
+0 -1 41426
+D2
+You look along the glacial wall.
+~
+Along the Glacial Wall~
+0 -1 41423
+D3
+You see snow.  Oh, how fun.
+~
+Snowfield~
+0 -1 41419
+S
+#41423
+Along the Glacier Wall~
+You walk along the glacier wall a while before you see any end to it.  To
+the east you see it curve slightly.  There are a fair number of footprints
+of the local Mammoths here, and at some points they look rather hurried.
+Smaller, clawed footprints mark the passage of the bear-like Bardelots,
+and you deem this not a good place to rest.  You can go east, north or 
+west.
+~
+207 0 2
+D0
+You see snow.  Oh, what fun.
+~
+Snowfield~
+0 -1 41422
+D1
+You look along the length of a wall made of ice.
+~
+Along the Glacier Wall~
+0 -1 41427
+D3
+You look along a wall made of ice.
+~
+Along the Glacier Wall~
+0 -1 41420
+S
+#41424
+Near the Ice Floe~
+The snow here hardens into ice, and to the north and east of here is an
+ice floe, past which you can see a huge ocean filled with enormous bits
+of iceberg.  You can step onto the ice floe from here, or leave and go south
+along the plain here.
+A sign has been planted here by the native Eskimoes.
+~
+207 4 2
+D0
+You see ice, past which is an ocean.
+~
+~
+0 0 41435
+D1
+This is a beach made of ice.
+~
+~
+0 0 41438
+D2
+You see snow.  Ugh.....
+~
+~
+0 0 41425
+E
+sign~
+ It says,   REST HERE, O WEARY WANDERER,
+	    FOR THE TEETH OF THE BARDELOT
+	    AND PLODDING STEP OF THE 
+	    MAMMOTH SHALL NOT HARM YE.
+~
+S
+#41425
+The Snowfield~
+You can see, from here, a great ocean to the north, and wonder if there's
+anything to kill there.  You can go north, west or south, as a great
+chasm prevents you from going east.
+~
+207 0 2
+D0
+You look, and see ice in the distance.
+~
+Approaching the Ice floe~
+0 -1 41424
+D2
+You see snow type 156.
+~
+Snowfields~
+0 -1 41426
+D3
+More snow...
+~
+Snowfields~
+0 -1 41421
+S
+#41426
+Snowfield~
+You tromp ever onwards through the snow, glad not to have frozen to death
+by now.  You can see, to the east, what looks like a small village -
+probably Eskimoes.  There is blood on the snow to the west - the thought
+does not inspire much confidence.  To the south is the Glacier, and to
+the north you can see the start of an ice floe.
+~
+207 0 2
+D0
+You see ice in the distance.
+~
+Near the Ice Floe~
+0 -1 41425
+D1
+You can see signs of a settlement up ahead.
+~
+Near the Eskimo Village~
+0 -1 41428
+D2
+You see a wall of ice.
+~
+Near the Glacier~
+0 -1 41427
+D3
+You see snow with blood on it.  Something huge and bulky can be seen...
+~
+Bloody Snowfield~
+0 -1 41422
+S
+#41427
+Near a Glacial Wall~
+You are right up against a glacier, and the sheer cliff-face is impossible
+to climb.  There are a lot of very large footprints here, kind of round
+and quite deep, as if a large elephant had been through here.  You can
+go north or west, and you get a sudden feeling that you wouldn't like to
+hang around here too much longer.
+~
+207 0 2
+D0
+You see snow.
+~
+Snowfield~
+0 -1 41426
+D3
+You see snow.
+~
+Snowfields~
+0 -1 41423
+S
+#41428
+Near the Eskimo Village~
+You are nearing the Eskimo village, and the sight of some form of 
+civilization warms your heart, though you must admit, not a great deal.
+The Eskimoes are well known for their fishing abilities, fur trading,
+and their unrivalled Milk Bars, with an enormous variety of Icy-Poles
+in each.  The village lies to the east, and the snowfield lies to the west.
+~
+207 0 2
+D1
+You see a small village.
+~
+The Eskimo Village~
+0 -1 41429
+D3
+You see more snow.
+~
+Snowfield~
+0 -1 41426
+S
+#41429
+An Eskimo Village~
+You have entered the little Village of the friendly Eskimoes who live
+here.  As you know quite well, eskimoes are expert hunters, trappers,
+fisherpeople and Milk bar owners, and they have over three hundred words
+for snow.  As you shuffle through type 3 snow, you see a fabled Eskimo
+Milk Bar to your south, and the road, which advances to type 136 snow,
+goes on to the east.
+~
+207 4 1
+D1
+You look along the street of snow.
+~
+Eskimo Village~
+0 -1 41430
+D2
+You see a store.
+~
+Eskimo Milk Bar~
+0 -1 41432
+D3
+You see the outskirts of the village.
+~
+Outside the Eskimo Village~
+0 -1 41428
+S
+#41430
+Eskimo Village~
+Walking through the type 256 snow, you see to the south a fur trader's
+shop.  The road goes west and east from here.
+~
+207 0 1
+D1
+You see a street of snow.
+~
+Eskimo Village~
+0 -1 41431
+D2
+You see a store.
+~
+Fur Trader~
+0 -1 41433
+D3
+You see more street.
+~
+Eskimo Village~
+0 -1 41429
+S
+#41431
+An eskimo Village~
+You have reached the end of the tiny road, and it terminates in Snow Type
+17.  Looking around, you see that there is a fishmonger's shop to the south,
+and an Ice floe to the north, which stretches out to the north-west.  This
+is probably where the Eskimoes get their copious supply of fish.  The road
+goes west from here.
+~
+207 0 1
+D0
+You see an enormous sheet of frozen ice.
+~
+Ice Floe~
+0 -1 41440
+D2
+You spy a store with your little eye.
+~
+FishMonger~
+0 -1 41434
+D3
+You look down the meagre street.
+~
+Eskimo Village~
+0 -1 41430
+S
+#41432
+An Eskimo Milk Bar~
+You step into the milk bar, and the oddly warm atmosphere comes as a
+welcome surprise to you.  Lollies, magazines and general odds and ends
+are displayed all around for your convenient perusal, and the entire
+wall plastered with Icy-Pole adverts is a dazzle of colors and words.
+The exit is north.
+~
+207 8 1
+D0
+You see the doorway.
+~
+Out the door.~
+0 -1 41429
+S
+#41433
+Eskimo Fur Trader~
+The air in this room is quite warm - this could be because the walls, on
+all sides, are lined with animal furs of all kinds.  Cloaks of fur lay on
+racks and in piles, ready for inspection and purchase.
+~
+207 8 1
+D0
+You see the doorway.
+~
+Out the door.~
+0 -1 41430
+S
+#41434
+Fishmonger's~
+The smell in this room is incredible.  All kinds of seafood are on display,
+and for once you know the wares are fresh.  How?  Well, half of it is 
+displayed in solid blocks of ice, and you assume the fishmonger hacks it
+out of the iceblock for you with that nasty looking ice pick in his
+hands.  The door is north.
+~
+207 8 1
+D0
+You see the doorway.
+~
+Out the door.~
+0 -1 41431
+S
+#41435
+At the Edge of the Ocean~
+You stand at the edge of the Ice floe, and look out at the frigid waters
+of the Great Polar Ocean.  You wonder what's out there, and if it's easy to
+kill...  You can go north into the water, if you have a boat, or south or
+east if you don't.
+~
+207 0 2
+D0
+You look out upon a vast expanse of water.
+~
+The Great Polar Ocean~
+0 -1 41442
+D1
+You see the Ice floe.
+~
+Along the Ice Floe~
+0 -1 41436
+D2
+You see snow.
+~
+Near the Ice Floe~
+0 -1 41424
+S
+#41436
+Along the Ocean's Edge~
+You are walking along what is in effect a shoreline of ice, and all to the
+north is water, frigid, cold and bright blue.  The ice is smooth enough
+here to launch a boat, but your feet are getting cold.  You decide to move
+on, but where?  You can go east, west, south or north.
+~
+207 0 2
+D0
+You see polar water.
+~
+The Great Polar Ocean~
+0 -1 41444
+D1
+You see the ice floe.
+~
+Ice Floe~
+0 -1 41437
+D2
+You see the ice floe.
+~
+Ice Floe~
+0 -1 41438
+D3
+You see ice.
+~
+Ice Floe~
+0 -1 41435
+S
+#41437
+The Jagged Bit Of Shoreline~
+You have reached a bit of the shoreline where jagged pieces of ice make 
+launching a boat impossible, and you look out at the Great Polar Ocean
+stretching far out to the north and east of here.  You can go west or
+south.
+~
+207 0 2
+D2
+You see ice.
+~
+Along the Ice floe~
+0 -1 41439
+D3
+You see a huge chasm, but think you could get a bit closer.
+~
+Near the Chasm~
+0 -1 41438
+S
+#41438
+Ice Floe Near The Chasm~
+You are on the Ice floe, near a huge glacial chasm the likes of which
+you've never seen before, except here.  This kind of impedes southerly
+movement the way an axe through the forehead impedes clear thought.  You
+can, however, go north, east or west, the latter taking you back onto the
+snowfield.
+~
+207 0 2
+D0
+You see ice.
+~
+Ice Floe~
+0 -1 41436
+D1
+The ice gets quite jagged over there.
+~
+The Jagged Bit~
+0 -1 41437
+D3
+You see snowfields.
+~
+The Snowfield~
+0 -1 41424
+S
+#41439
+Ice Floe near The Chasm~
+You are edging your way around the Chasm that opens out to the west and
+south of you, watching a procession of penguins go past.  They seem happy
+enough and (thank Gods) normal enough.  You can go either north or south
+from here.
+~
+207 0 2
+D0
+The ice gets jagged there.
+~
+The Jagged Bit~
+0 -1 41437
+D2
+You see a hole cut in the ice.
+~
+The Fishing Hole~
+0 -1 41440
+S
+#41440
+Fishing Hole in the Ice~
+You stand on the ice floe near the village, and just to the right you see a
+large hole cut in the ice, obviously for fishing through.  A discarded rod
+lies off to one side - you don't bother getting it.  You think, if you took
+a deep breath, you could take a dip and see what's under the ice, but you
+REALLY don't think it's a good idea.  It seems to actually be a really BAD
+idea, but the option's open.  Otherwise, you can enter the eskimo village
+by going south, or you can go north along the ice.
+~
+207 4 2
+D0
+You look along the ice floe.
+~
+Along the Ice Floe~
+0 -1 41439
+D2
+You see the village.
+~
+Eskimo Village~
+0 -1 41431
+D5
+You look into the water.  It looks quite cold.
+~
+Under the water...~
+0 -1 41441
+S
+#41441
+Under the Ice~
+Well, that was really dumb.  As soon as you go through the hole, you hear
+the ice creak ominously... the water soaks through your clothes and you
+freeze into an iceblock.  Just when you thnk you can crack free, the ice
+above you shifts and you are trapped under the ice forever...
+YOU are DEAD.
+So NYEAH.
+But congratulations in finding the only DT in this zone.
+~
+207 2 8
+S
+#41442
+The Great Polar Ocean~
+You are travelling by the shoreline, and it occurs to you that it'd be a
+bad idea to lose sight of the shore, so you decide to play it safe.  The
+water is freezing cold but blessedly still, and you think you could risk 
+going north a bit more, but going west is definitely not a good idea.  Or,
+you could go east along the shoreline.
+~
+207 64 7
+D0
+You see polar water.
+~
+The Great Polar Ocean~
+0 -1 41443
+D1
+You see polar water.
+~
+The Great Polar Ocean~
+0 -1 41444
+D2
+You see ice.
+~
+Back On The Ice Floe~
+0 -1 41435
+S
+#41443
+The Great Polar Ocean~
+This is about as far north as you're willing to go.  The water is getting a 
+fair bit more turbulent, and the only land you can see is the Ice floe, so
+you decide not to go any further north.  You can only really go south, and 
+the flying spray and constant rocking is giving you seasickness.
+~
+207 64 7
+D2
+You see the ice floe a fair way in the distance.
+~
+Near the Ice Floe~
+0 -1 41444
+S
+#41444
+The Great Polar Ocean~
+You are near the shoreline, and the water is breaking against the ice 
+gently, in waves.  Chunks of ice float about in the water, and on the
+shore, penguins play.  You can go north, east, south or west.
+~
+207 64 7
+D0
+You see the Great Polar Ocean.
+~
+The Great Polar Ocean~
+0 -1 41443
+D1
+You see the Great Polar Ocean.
+~
+The Great Polar Ocean~
+0 -1 41445
+D2
+You see a platform of ice.
+~
+Ice Floe~
+0 -1 41436
+D3
+You see the Great Polar Ocean.
+~
+The Great Polar Ocean~
+0 -1 41442
+S
+#41445
+The Great Polar Ocean~
+You have gone as far east as you're game.  The water is choppy, as if there
+is a great deal of ocean wildlife around here.  The chunks of ice are
+getting dangerously close to your boat....  You can only go west, as the
+ice is hemming you in.
+~
+207 64 7
+D3
+You see the Great Polar Ocean.
+~
+The Great Polar Ocean~
+0 -1 41444
+S
+#41446
+The Snow Drift~
+You made it!  It took a struggle, but you made it!  You now stand on top of
+the snow drift, looking down onto the snowy hills below to the west.  The
+only way you can really go is, well, down.
+~
+207 4 4
+D5
+You see hills, covered with snow...
+~
+Snowy Hills~
+0 -1 41447
+S
+#41447
+The Snow Slopes At the Foot of Mt. Whitefire~
+You stand at the base of Mt. Whitefire, and all out to the north there are
+sloping hills covered with snow.  To the far north there are impassable 
+hills, and to the east is a huge snow drift.  The hills stretch out to the
+north and west, and a small goat track goes up the mountain.
+~
+207 0 4
+D0
+You see snowy hills.
+~
+Snowy hills~
+0 -1 41448
+D3
+You see snowy hills.
+~
+Snowy Hills~
+0 -1 41450
+D4
+You see a worn goat track winding up the mountainside.
+~
+Up the Track~
+0 -1 41413
+S
+#41448
+The Snow Slopes~
+You stand on a smallish hill of snow, and all to the north the hills are
+impassable.  To the east lies the snow drift, and with one look you can see
+that you've not a hope of getting over that.  From here you can go south or
+west, and as you look across the snowy hills you hear the ominous, raucous
+cry of hunting ravenes.
+~
+207 0 4
+D2
+You see a goat trail leading up the mountain.
+~
+By the Goat Trail~
+0 -1 41447
+D3
+You look across the snowy hills.
+~
+Across the Snowy Hills~
+0 -1 41449
+S
+#41449
+The Snow Slopes~
+You cannot go any further west - a huge chunk of ice prevents any further
+passage that way.  There seem to be odd markings in the ice chunk....  You
+can go south or east.
+~
+207 0 4
+D1
+You see the snow drift.
+~
+By the Snow Drift~
+0 -1 41448
+D2
+You see snow-covered hills.
+~
+The Snow Slopes~
+0 -1 41450
+E
+ice chunk markings~
+There seem to be a large number of scratching marks in the ice chunk, as if
+something with rather large claws has been stropping on it....
+~
+S
+#41450
+The Snow Slopes~
+The snow is quite bright here, and there are a number of areas where it 
+gives way to ice.  They look like small mirrors.  The mountain prevents you
+from going south, but you can go north, east and west.
+~
+207 0 4
+D0
+You see snow-covered hills.
+~
+The Snow Slopes~
+0 -1 41449
+D1
+You see a goat track.
+~
+By the Goat Track~
+0 -1 41447
+D3
+You see snow-covered hills.   
+~
+The Snow Slopes~
+0 -1 41451
+E
+areas ice mirror mirrors~
+You see, much as you expected, yourself.
+~
+S
+#41451
+The Snow Slopes~
+You stand in the snowy slopes, and look around.  There are impassable hills
+to the north, but you can proceed unhindered south, east and west.  There is
+a great range of mountains south of here, and there seem to be a number of
+caves in them.
+~
+207 0 4
+D1
+You see snow-covered hills.
+~
+The Snow Slopes~
+0 -1 41450
+D2
+You see a mountainline up ahead.
+~
+By the Mountains~
+0 -1 41452
+D3
+You see more snow-covered hills.
+~
+The Snow Slopes~
+0 -1 41453
+S
+#41452
+By the Mountain Range~
+You stand at a sheer cliff face, and look about for something to do.  There
+seems to be an opening in the rock to the west.
+~
+207 0 4
+D0
+You see more snow.  Yippee.
+~
+The Snow Slopes~
+0 -1 41451
+D3
+You see a cave in the mountainside.
+~
+Outside a Cave~
+0 -1 41454
+S
+#41453
+The Snow Slopes~
+The snow slopes continue here, and there are a number of animals running 
+about here and there - you could swear you caught a glimpse of an arctic
+fox just before...  You can go south, east or west.
+~
+207 0 4
+D1
+You see snow.  Oh joy.
+~
+The Snow Slopes~
+0 -1 41451
+D2
+You see a cave in the mountainside.
+~
+Outside the Cave~
+0 -1 41454
+D3
+You see snow still.
+~
+The Snow Slopes~
+0 -1 41455
+S
+#41454
+Outside A Cave~
+You stand outside a decent-sized cave in the mountainside.  There are a few
+scraps of bone and fur lying around outside, so you don't have much hope of
+the inhabitants being vegetarians.  You can go south into the cave, or
+north, east or west into the slopes.
+~
+207 0 4
+D0
+You see more snow.
+~
+The Snowy Slopes~
+0 -1 41453
+D1
+You see a cliff.
+~
+Along the Foot of the Cliff~
+0 -1 41452
+D2
+You peer into the murky depths of the cave...
+~
+Inside the Cave~
+0 -1 41462
+D3
+You see more cliff.
+~
+Along the Foot of the Cliff~
+0 -1 41456
+S
+#41455
+The Snow Slopes~
+From here you can see a small conifer forest to the west, and a rather large
+cave is easily apparent to the south.  You can still see the snow drift to
+the east, and the hills to the north are still impassable.
+~
+207 0 4
+D1
+You see more snow.
+~
+The Snow Slopes~
+0 -1 41453
+D2
+You see a cliff.
+~
+By the Cliff~
+0 -1 41456
+D3
+More snow.
+~
+The Snow Slopes~
+0 -1 41457
+S
+#41456
+By the Cliff~
+You stand in front of a cliff face as high as you can comfortably see.  To
+the west you can se a quite large cave, and to the east a smaller cave.  You
+can re-enter the slopes by going north.
+~
+207 0 4
+D0
+Still more snow.
+~
+The Snow Slopes~
+0 -1 41455
+D1
+You see a cave in the mountainside.
+~
+Outside a Cave~
+0 -1 41454
+D3
+You see a cave in the mountainside.
+~
+Outside a Cave~
+0 -1 41458
+S
+#41457
+The Snow Slopes~
+You're not far from the forest now, and there is a quite large cave directly
+south of here... to the east are more hills.
+~
+207 0 4
+D1
+STILL more snow.
+~
+The Snowy Slopes~
+0 -1 41455
+D2
+You see a cave in the mountainside.
+~
+Outside a Cave~
+0 -1 41458
+D3
+You see the edge of a small but dark conifer forest.
+~
+Edge of the Forest~
+0 -1 41459
+S
+#41458
+Outside a Cave~
+You stand outside a large cave that leads into the mountain, and the sight of
+a large pile of bones outside does not do much to help your confidence.  
+There are a large number of unpleasant scratch marks around the entrance,
+and you figure that the creature that lives in here must be quite large.  You
+can go west towards the forest, east along the cliff base, or north into the
+hills... but the sight of this cave has made you rather inquisitive.
+~
+207 0 4
+D0
+MORE snow.
+~
+The Snow Slopes~
+0 -1 41457
+D1
+You see a cliff.
+~
+The Cliff Face~
+0 -1 41456
+D2
+You peer hesitantly into the cave.
+~
+Inside a Cave~
+0 -1 41461
+D3
+You look towards the forest.
+~
+The Forest's Edge~
+0 -1 41460
+S
+#41459
+The Forest's Edge~
+Glad to be out of those boring, repetitive hills, you stand at the border of 
+a small conifer forest.  The trees fold over thickly, and all inside is dark.
+There is a cliff face to the south, and you can re-enter the hills to the
+east.
+~
+207 4 4
+D1
+You're sick of snow.
+~
+The Snowy Slopes~
+0 -1 41457
+D2
+You see a cliff.
+~
+The Cliff Face~
+0 -1 41460
+D3
+You peer into the forest.
+~
+The Forest~
+0 -1 41465
+S
+#41460
+The Forest's Edge~
+You are at the edge of a dark, forbidding conifer forest, where the trees
+let in no sun and there come odd sounds of equally odd wildlife... You can
+enter the forest by going west, or go along the cliff base east, or along
+the forest's edge north.
+~
+207 0 4
+D0
+You look along the forest's edge.
+~
+The Forest's Edge~
+0 -1 41459
+D1
+You see a cave.
+~
+Outside a cave~
+0 -1 41458
+D3
+You peer into the darkness.
+~
+Into the Forest~
+0 -1 41466
+S
+#41461
+Inside a Cave~
+You were right - the creature who lives in this cave is BIG.  The roof of
+the cave is high above you, so high that it's hard to see, and it is as big
+as a ballroom.  Treasures of various sorts lay scattered about, and so do
+bones that look uncomfortably human, and you get a nasty feeling that you're 
+being watched.  The only exit is north.
+~
+207 525 0
+D0
+This leads back into the snowy hills.
+~
+Snowy Hills~
+0 -1 41458
+S
+#41462
+Inside a Cave~
+The interior of this cave is not exactly rank, but your nose does squint a
+bit in revulsion. Scraps of fur and bone lay all around, and the cave is 
+only just big enough for you to stand in.  A fair amount of dried vegetation
+lies around, presumably for nesting in, and you assume it was gathered in
+the nearby forest.  The only exit is north.
+~
+207 9 0
+D0
+You look back outside and see... SURPRISE!!! SNOW!!!
+~
+Outside the Cave~
+0 -1 41454
+S
+#41463
+The Cold, Dark Forest~
+You have come as far as you can go through the close-growing trees, and the
+only way to get out of this cold, lonely forest is by going west.
+~
+207 1 3
+D3
+You look through the trees.
+~
+The Cold, Dark Forest~
+0 -1 41464
+S
+#41464
+The Cold, Dark Forest~
+You stand at the northern-most point of this short belt of conifers, and you
+shiver as sounds of ominous life echo all around you.  You can go east, west
+or south.
+~
+207 1 3
+D1
+You see dark, forbidding trees.
+~
+The Cold, Dark Forest~
+0 -1 41463
+D2
+You see dark, forbidding trees.
+~
+The Cold, Dark Forest~
+0 -1 41465
+D3
+Damn all these trees!!  You can't see the forest!!!
+~
+The Cold, Dark Forest~
+0 -1 41468
+S
+#41465
+The Cold, Dark Forest~
+You are on the verge of the cold, dark forest, and the cries of polar forest
+life echo between the trees and scare you immensely.  You have heard long,
+painful things happen to people who wander in unbidden.  You can leave the
+forest by going east, or enter in north, south or west.
+~
+207 1 3
+D0
+You'd be able to see the forest, if it wasn't for these damn trees...
+~
+The Cold, Dark Forest~
+0 -1 41464
+D1
+You look at a flash of white.
+~
+The Snow Slopes~
+0 -1 41459
+D2
+You'd be looking at a forest, if all these trees weren't in the way.
+~
+The Cold Dark Forest~
+0 -1 41466
+D3
+The trees get in the way - you can't see the forest.
+~
+The Cold Dark Forest~
+0 -1 41468
+S
+#41466
+The Cold, Dark Forest~
+You are at the southern edge of the forest, and to your east there are slopes
+of white snow.  To the north and west there is more forest, and you shiver as
+glowing dots, like eyes, appear in the darkness and disappear again.  You
+get rather uncomfortable as a scream of some hunting night bird rings through
+the trees...
+~
+207 5 3
+D0
+Where's that darn forest?  Can't see it for these trees...
+~
+The Cold, Dark Forest~
+0 -1 41465
+D1
+You look out on...  more snow.
+~
+The Snow Slopes~
+0 -1 41460
+D3
+You try to find the forest, but the trees get in the way.
+~
+The Cold, dark Forest~
+0 -1 41467
+S
+#41467
+The Cold, Dark Forest~
+The forest to the west of here thins out, but oddly enough you can't see any
+snow beyond it - in fact, you can't even see any trace of white!!  Odd, eh?
+The Forest continues to the north and east.
+~
+207 1 3
+D0
+You can't see a single bit of the forest, and all because the trees are in 
+the way.....
+~
+The Cold, Dark Forest~
+0 -1 41468
+D1
+Damn trees... Now, where's that forest?
+~
+The Cold, Dark Forest~
+0 -1 41465
+D3
+You look beyond the trees, and see something strange.....
+~
+~
+0 -1 41478
+S
+#41468
+The Cold, Dark Forest~
+As you walk in here, you notice the trees begin to thin off to the west, but
+no matter how hard you try, you can't spot any glimpse of the whiteness of 
+snow.  This is, understandably, confusing.  The trees to the north become 
+unpassable, but the forest continues to the east and south of here.
+~
+207 1 3
+D1
+You curse the trees - they spoil the view of the forest.
+~
+The Cold Forest~
+0 -1 41464
+D2
+You can't see the forest because of these accursed trees!!!!!!!!!!!!!!
+~
+The Cold Forest~
+0 -1 41467
+D3
+You look beyond the trees, and see something strange.....
+~
+~
+0 -1 41477
+S
+#41469
+The Field of Black Ice~
+You have reached the far north-west corner of this field of ice, and black
+cliffs of ice impede any movement in those directions.  The field continues
+south and east.
+~
+207 64 2
+D1
+You see that weird black ice.
+~
+The Field of Black Ice~
+0 -1 41470
+D2
+You see only weird black ice, and wonder how it'd go in a cocktail...
+~
+The Field of Black Ice~
+0 -1 41471
+S
+#41470
+The Field of Black Ice~
+This is the top north-east corner of the Black Ice-Field.  The only way for
+you to go is sotuh or west.
+~
+207 64 2
+D2
+You stare at that... WEIRD ice.
+~
+The Field Of Black Ice~
+0 -1 41472
+D3
+You stare in bewilderment at the ice.
+~
+The Field of Black Ice~
+0 -1 41469
+S
+#41471
+The Field of Black Ice~
+You are up against a black glacier wall, and can't go any further west, but
+you can move north or east along the coal-black ice.  You can see a cave
+entrance in the ice a little way off to the south.
+~
+207 64 2
+D0
+You see more of that strange ice.
+~
+The Field of Black Ice~
+0 -1 41469
+D1
+You can't understand how that ice got black.
+~
+The Field of Black Ice~
+0 -1 41472
+D2
+You see the entrance to a cave cut into the face of the black glacier.  A
+feeling of evil radiates out from it.....
+~
+Outside the cave~
+0 -1 41473
+S
+#41472
+The Field of Black Ice~
+You stand on the border between a thin strip of dark, forboding forest and
+a field of ice.  BLACK ice.  Somehow, by some feat of magic or miracle of
+nature, the entire ice field is as black as night.  Your eyes boggle as you
+feebly attempt to make a focal change between the white snow of the hills
+you've just been in to the powerful black of the ice you now stand on.  This
+impossible field of ice continues north, south and west.
+~
+207 64 2
+D0
+You see more Ice, black as night.
+~
+The Field of Black Ice~
+0 -1 41470
+D1
+You can see a whole heap of trees, but unfortunately they ruin the view of 
+the forest.
+~
+~
+0 -1 41477
+D2
+More of that odd ice is over there...
+~
+The Field of Black Ice~
+0 -1 41474
+D3
+STILL more of that curious ice...
+~
+The field of Black Ice~
+0 -1 41471
+S
+#41473
+The Field of Black Ice~
+You stand outside a cave entrance that has been carved into the west wall of 
+the jet-black glacier that stands here.  The interior is lit by a strange,
+eldritch glow, which confuses you, because an old witch who lived in your
+home town always told you that the word 'eldritch' meant 'oblong'.  The 
+silent but spooky field of ice goes on to the north and east.
+~
+207 64 2
+D0
+You're looking over a field of black ice.  You get the shivers.
+~
+The Field of Black Ice~
+0 -1 41471
+D1
+You look at the black ice.
+~
+The Field of Black Ice~
+0 -1 41474
+D3
+Into the cave of Black Ice.....~
+Into the Cave of Black Ice...~
+0 -1 41475
+S
+#41474
+The Field of Black Ice~
+You see now why you couldn't see any snow - because the entire area you've
+just walked into is made of night-black ice.  You look around, but hear no
+noise, not the faintest whisper, and you get a very bad case of nerves for 
+some reason.  You get an unnerving sensation that you are being watched, as
+if the entire area was under some evil power.  You can go north or west 
+along the ice, or east back into the forest.
+~
+207 64 2
+D0
+This black ice is starting to unnerve you.
+~
+The Field of Black Ice~
+0 -1 41472
+D1
+That forest is still covered up by all those trees.
+~
+~
+0 -1 41478
+D3
+More Black Ice.....
+~
+The Black Field of Ice~
+0 -1 41473
+S
+#41475
+Inside the Ice Cave~
+You stand inside a great hollow in the glacial wall, and all about is black
+ice.  The room is somehow lit by an odd light, and you for some reason can't
+find its source.  There is a door made of the same jet-black ice that the
+rest of the cave is made out of to the south - the only other exit from this
+place is east.
+~
+207 236 1
+D1
+You look out through the entrance to see the black ice field.
+~
+Out to the Field~
+0 -1 41473
+D2
+The door is covered thickly with runes of what look like an evil nature.
+~
+Door black ice~
+2 41400 41476
+S
+#41476
+The Inner Room of Ice~
+You have unwittingly walked into a massive room of black ice, lit from above 
+by that same, unusual source, and inhabited by a dark, demonic being.  Pots, 
+cauldrons and vials of various and often unsavoury description are arranged 
+about the walls, and the temperature in this room is incredibly low.  
+Presumably the owner likes it that way.  In the centre of the room is a huge 
+pentagram, obviously used for magical purposes, and the runes written in the 
+outer edge certainly don't say, 'Have a nice day'.
+~
+207 104 1
+D0
+The door is heavily inscribed with evil-looking runes.
+~
+Door black ice~
+2 41400 41475
+S
+#41477
+The Plain of Black Ice~
+You stand on the very verge of a massive plain of black ice, and to the
+east all you see is a dark, cold strip of conifer forest, that blocks your
+sight completely.  The air is freezing, and you have trouble breathing
+momentarily.
+~
+0 4 2
+D1
+~
+~
+0 -1 41468
+D2
+~
+~
+0 -1 41478
+D3
+~
+~
+0 -1 41472
+S
+#41478
+The Verge of a Plain of Black Ice~
+You stand at the verge of a plain of black ice, which glints oddly in the
+light. Something very fell must have happened here, to stain the ice so...
+To the east is a cold strip of conifers, and the air is oddly thin and it
+grows noticably colder to the west.
+~
+0 4 2
+D0
+~
+~
+0 -1 41477
+D1
+~
+~
+0 -1 41467
+D3
+~
+~
+0 -1 41474
+S
+$~
+$end~
+
+
+#MOBILES
+#41401
+arctic fox~
+an arctic fox~
+A white-coated fox pads along the frozen ground here.
+~
+This sprightly fox bears a pelt of silvery white, blending with the snow.
+~
+deghiq 819366 500 E
+20 11 -130 1d1+6600 4d40+45
+15 1385500
+8 8 0
+BareHandAttack: 4
+Dex: 18
+E
+#41402
+bardelot~
+a female bardelot~
+A huge bardelot is hunting mammoths here.
+~
+This creature is a descendant of common rodents, but is about the size
+and shape of a polar bear.  It has white fur, and its huge sabre teeth
+declare it to be a female.
+~
+defgoq 32896 0 E
+50 0 -200 1d1+20420 5d80+70
+0 25300000
+8 8 2
+BareHandAttack: 9
+Con: 18
+Str: 18
+E
+#41403
+Eskimo shopkeep~
+an Eskimo shopkeep~
+A fur-coated eskimo awaits your request.
+~
+This is an eskimo, hardened from her life in the freezing conditions,
+but still cheerful and friendly.
+~
+bdg 8 0 E
+44 -20 -300 30000d2+1 50d50+50
+15 20000000
+8 8 2
+E
+#41404
+Eskimo fishmonger~
+an Eskimo fishmonger~
+A fur-coated eskimo stands here, displaying his fish.
+~
+He looks well-wrapped against the chilly atmosphere of his shop.  He
+holds a sharp ice pick for cutting the fish and meat out of the huge
+blocks of ice in which they are kept.
+~
+bdg 8 0 E
+1 1 -300 30000d2+1 50d50+50
+15 20
+8 8 1
+E
+#41405
+Eskimo fur trader~
+an Eskimo fur trader~
+The hard-hearted Fur trader stands here, in no mood for Animal Rights
+Activists.
+~
+He definitely looks hard-hearted.  You wonder what it'd look like out of
+his body.
+~
+bdg 8 0 E
+1 1 -300 30000d2+1 50d50+50
+15 20
+8 8 1
+E
+#41406
+Ice Devil~
+the Ice Devil~
+A hellish Ice Devil stands here, performing an evil rite.
+~
+A greater Devil from the eighth plane of hell, the Ice Devil has an
+insectile face, barbed tail and huge claws on its hands and feet.
+~
+abcdefglnopqr 33928 -1000 E
+101 -5 -850 305000d1+1 80d60+2000
+1000000 260050000
+8 8 0
+BareHandAttack: 8
+Str: 18
+StrAdd: 100
+Con: 18
+E
+#41407
+Giant black ice~
+the Giant of Black Ice~
+A massive fist of black ice hurtles out of nowhere and smashes at the
+ground by your feet!
+~
+This massive humanoid seems to be composed entirely of coal-black ice, and
+it blends in perfectly with the ground.
+~
+acdefgloq 525480 -500 E
+99 0 -800 300000d1+1 79d50+2000
+800000 245000000
+8 8 0
+BareHandAttack: 13
+Str: 18
+Con: 18
+E
+#41408
+Ice wyrm snake~
+the Ice wyrm~
+A huge, coiled snake with ice-white scales turns to watch you enter.
+~
+The Ice wyrm says, 'MMMMmmmmmm, adventurer for lunch!!'
+The Ice wyrm coils to strike!!
+
+Ice wyrms are huge creatures, and this one is one of the biggest.  It is a
+gigantic reptile, covered in glittering scales of white and light blue, and
+it has six inch long fangs.
+~
+abdefgmnopq 558268 -600 E
+100 -3 -450 52500d1+0 50d55+1000
+10000000 80000000
+8 8 0
+BareHandAttack: 4
+Str: 18
+Int: 18
+E
+#41409
+mighty massive mammoth~
+a massive mammoth~
+A huge, mighty mammoth stands here, knee-deep in snow.
+~
+It looks like a huge elephant with thick shaggy fur, and it glares at you
+through tiny, mad, red eyes.  It waves its huge curved tusks menacingly.
+~
+adghlmnopqr 188 0 E
+60 0 -300 1d1+26450 5d80+70
+0 25300000
+8 8 0
+BareHandAttack: 5
+Str: 18
+Con: 18
+E
+#41410
+mountain goaty goat~
+a mountain goat~
+You see a goat with wooly fur traversing the rocks.
+~
+It looks at you, startled, and carefully begins to back away.
+~
+deghpq 32776 0 E
+30 12 -130 1d1+7000 4d40+50
+35 1385500
+8 8 0
+BareHandAttack: 7
+Con: 18
+Dex: 18
+E
+#41411
+penguin swimming~
+a penguin~
+A small penguin darts quickly through the water.
+~
+It must be hunting for fish.
+~
+bdgopqr 32832 0 E
+20 5 -90 1d1+3500 3d25+2
+15 800000
+8 8 0
+BareHandAttack: 4
+Dex: 18
+E
+#41412
+sliding penguin~
+a penguin~
+You watch as a penguin happily slides along the ice on his belly.
+~
+He tobogans along quite happily.  Despite your previous encounters with
+penguins, this one seems entirely normal.
+~
+bdeghl 128 0 E
+20 5 -90 1d1+3500 3d25+2
+15 800000
+8 8 0
+BareHandAttack: 4
+Dex: 18
+E
+#41413
+judge penguin~
+a penguin~
+A penguin wearing zinc cream and holding a notepad sits here.
+~
+He SEEMS to be judging the toboganing penguins.  He must be on holiday from
+Dreamplace.
+~
+abdeghl 13404 0 E
+20 10 -110 1d1+4000 3d30+10
+15 805000
+8 8 0
+BareHandAttack: 4
+E
+#41414
+polar ravene cave~
+a polar ravene~
+A white-furred polar ravene snarls at you as you enter.
+~
+This fox-sized predator is a descendant of the common rat, and is the size
+and shape of a wolverine, with less temper.  You have just entered its den.
+~
+bcdefgmnoq 296064 0 E
+60 11 -100 1d1+11600 5d60+55
+0 12543500
+8 8 0
+BareHandAttack: 9
+Str: 18
+Con: 18
+E
+#41415
+polar ravene hunting~
+a polar ravene~
+A white-furred polar ravene is out hunting...
+~
+This fox-sized predator is a descendant of the common rat, and is the size
+and shape of a wolverine, with less temper.  You are on its menu.  Uh oh...
+~
+cdefgnoq 787616 0 E
+60 11 -100 1d1+11600 5d60+55
+0 12543500
+8 8 0
+BareHandAttack: 9
+Str: 18
+Con: 18
+E
+#41416
+vortex~
+the Vortex~
+Your boat rocks violently as a majestic VORTEX comes up for air!!!
+~
+Descended from polar birds, this massive creature looks like a 12-metre-plus
+whale, with a huge beak used for straining the plankton that are this
+gentle creature's food.
+~
+bdglnopqr 33020 0 E
+50 -2 -300 50000d4+1 20d55+500
+0 100000000
+8 8 0
+BareHandAttack: 10
+Str: 18
+StrAdd: 100
+Con: 18
+E
+#41417
+wooly figment~
+a wooly figment~
+A figment with shaggy fur shivers here, trying desperately to evolve.
+~
+Half rabbit and half... something? with shaggy white fur.  It is too cold to
+hop.
+~
+bdhnopr 787584 0 E
+20 2 -80 1d1+2050 2d26+4
+15 700000
+8 8 0
+Dex: 18
+E
+#41418
+young wooly figment~
+a juvenile wooly figment~
+A young wooly figment shivers here, trying desperately to evolve.
+~
+Awwww, how cute.....
+~
+bdeghlnopqr 786560 0 E
+15 2 -30 30d1+1800 2d25+2
+15 650000
+8 8 0
+Dex: 18
+E
+#41419
+wooly figment outcast~
+the outcast wooly figment~
+A wooly figment, outcast from his tribe, skis along here.
+~
+This figment was thrown out of his tribe after DARING to go about on new,
+evil blasphemous devices he calls 'SKEES' instead of doing the decent thing
+that all good wooly figments do - hop along in the snow, fall down a hole
+and freeze to death.
+~
+acdeglnopqr 263356 0 E
+25 -1 -100 1d1+3050 2d30+6
+15 750000
+8 8 0
+Dex: 18
+E
+#41420
+huge hairy yeti~
+a huge hairy yeti~
+A huge hairy shape leaps out at you and attacks!!!
+~
+Now's not the time to be taking pictures!  It's trying to EAT you!!!
+~
+abdflnopqr 820412 0 E
+50 10 -200 40000d1+1 16d50+300
+15 75000000
+8 8 0
+BareHandAttack: 8
+Str: 18
+Con: 18
+E
+#41421
+guardian ice~
+an ice guardian~
+A great figure, made from ice, opens its fell maw and roars at you!!
+~
+This is a huge figure made completely of ice.  Ice guardians come from
+some evil nether world, and although they are usually white, this one is
+as black as its unholy surroundings.  It looks hungry, and seems to think
+that your warmth would make a nice feast.
+~
+abdefgq 532668 -1000 E
+100 -10 -600 150000d1+1 50d50+1000
+10000 170000000
+8 8 0
+BareHandAttack: 6
+Str: 18
+StrAdd: 100
+E
+$~
+$end~
+
+
+#OBJECTS
+#41400
+ice key~
+a key of black ice~
+A key of strange black ice lays here, refusing to melt.~
+~
+18 acdeq a
+0 0 0 0
+3 0 0
+E
+key ice black~
+This strange key is made of black ice, a kind of ice that looks quite 
+capable of refusing to melt.
+~
+#41401
+pelt fur~
+a pelt of white fur~
+A beautiful pelt of dazzlingly white fur lies here.~
+~
+11 cde ak
+0 0 0 0
+5 0 0
+R
+5 5
+A
+2 1
+A
+17 -1
+#41402
+sabre teeth~
+a pair of sabre teeth~
+A pair of ivory sabre-like teeth lie here.~
+~
+12 0 ao
+0 0 0 0
+10 0 0
+R
+25 25
+A
+18 2
+A
+19 3
+#41403
+Snowshoes snow shoes~
+a pair of snowshoes~
+A pair of well-made snowshoes rest here, snow melting on them.~
+~
+9 deop ag
+1 0 0 0
+3 0 0
+A
+14 20
+#41404
+jacket fur lined~
+a fur lined jacket~
+A heavy, warm-looking furlined jacket lies here.~
+~
+9 emo ak
+4 0 0 0
+8 0 0
+A
+5 1
+#41405
+pentagram~
+an evil-looking pentagram~
+An evil-looking pentagram has been chalked onto the floor here.~
+~
+12 abg 0
+0 0 0 0
+200 0 0
+E
+pentagram~
+It seems that the chalk used to mark this pentagram was mixed with blood
+prior to being compounded, as the pentagram smells sickly-sweet and is an
+ugly red color.  The runes around it definitely look evil in nature, and
+seem to twist as you look at them, almost as if they don't want to be read.
+~
+#41406
+spear iron~
+a great iron spear~
+A great iron spear lies here, ice crystals forming on its blade.~
+~
+5 adegjlnoqr an
+7 5 3 14
+22 0 0
+R
+65 65
+E
+spear iron blade ice crystals~
+This is a huge iron spear, radiating an aura of unnatural cold.  It is
+wreathed in cold air, and ice crystals are forming slowly on its blade,
+stained red from the blood of some poor creature.  It is covered with
+evil looking runes.
+~
+A
+18 5
+A
+19 5
+A
+5 2
+#41407
+icy pole green~
+a green icy pole~
+A green icy pole has been left to melt here.~
+~
+19 0 a
+3 0 0 0
+2 8 0
+#41408
+icy pole cola~
+a cola icy pole~
+A cola icy pole has been left here, and it melts slowly.~
+~
+19 0 a
+4 0 0 0
+2 8 0
+#41409
+meat chunk~
+a chunk of meat~
+A chunk of meat lies here, steaming gently.~
+~
+19 0 a
+8 0 0 0
+7 0 0
+#41410
+icy pole red~
+a red icy pole~
+A red icy pole rests here, melting fast.~
+~
+19 0 a
+4 0 0 0
+2 8 0
+#41411
+goatskin goat skin strips~
+two strips of goatskin~
+Two strips of goatskin lie here.~
+~
+9 ehq af
+3 0 0 0
+5 0 0
+R
+5 5
+A
+14 3 
+A
+2 1
+#41412
+sno cone~
+a Sno Cone~
+A Sno Cone melts softly here.~
+~
+19 0 a
+5 0 0 0
+2 0 0
+#41413
+shield black ice~
+a shield of black ice~
+A great shield of ice stained black lies here, not melting.~
+~
+9 degjmnoq aj
+15 0 0 0
+20 0 0
+R
+65 70
+A
+1 2
+A
+5 2
+A
+19 2
+A
+24 -6
+#41414
+squid polar~
+a polar squid~
+A hideous polar squid lies here, dead.~
+~
+19 0 a
+15 0 0 0
+8 20 0
+#41415
+meat slab~
+a slab of meat~
+A huge slab of meat lies here, steaming.~
+~
+19 0 a
+30 0 0 0
+12 35 0
+#41416
+fish~
+a fish~
+A fish lies here, quite dead.~
+~
+19 0 a
+12 0 0 0
+4 20 0
+#41417
+talisman ice~
+a talisman of black ice~
+A talisman carved of strange black ice lies here, unmelted.~
+~
+11 0 ac
+0 0 0 0
+12 0 0
+R
+35 35
+A
+5 3
+A
+4 1
+A
+2 -2
+#41418
+carcass huge~
+a huge carcass~
+The huge carcass of a mammoth lies here, blood seeping into the snow.~
+~
+15 0 0
+2000 0 -1 0
+2000 0 0
+E
+carcass huge mammoth~
+This huge carcass has been badly savaged, but doesn't seem completely
+finished. Ragged chunks of meat still hang here and there.
+~
+#41419
+intestines coils~
+some long, coiling intestines~
+A pile of meaty coils lie here, steaming and smelling slightly.~
+~
+19 cdehq a
+8 0 0 5
+8 0 0
+E
+coils intestines~
+These long coils of intestines seem to have been laid aside by whatever
+beasts were savaging this carcass.  They smell slightly, but look almost
+edible.
+~
+#41420
+trunk mammoth~
+a huge trunk~
+The huge trunk of a mammoth lies here, bleeding.~
+~
+5 0 n
+0 0 0 0 
+0 0 0
+R
+300 300
+#41421
+ice pick~
+an ice pick~
+A slim ice pick lies here.~
+~
+5 0 an
+5 3 5 11
+6 0 0
+#41422
+scales icy~
+some icy scales~
+Some icy scales lie here, glittering.~
+~
+9 deiq ai
+9 0 0 0
+8 0 0
+R
+45 45
+A
+19 1
+#41423
+claws yeti~
+some huge claws~
+A set of huge black claws lie on the ground here.~
+~
+5 deq an
+10 6 8 8
+10 0 0
+R
+50 50
+#41424
+skees planks~
+a pair of skees~
+A pair of small planks lie here - they have 'SKEES' written on them.~
+~
+9 dekmnpq ag
+2 0 0 0
+12 0 0
+R
+15 15
+A
+2 2
+A
+14 30
+#41425
+helm ice black~
+a helm of black ice~
+A helm of black ice lies here.  It isn't melting.~
+~
+9 degmnoq ae
+12 0 0 0
+14 0 0
+R
+50 50
+A
+1 1
+A
+5 1
+A
+4 -3
+$~
+$end~
+
+
+#SHOPS
+CircleMUD v3.0 Shop File~
+#41432~
+41407
+41408
+41410
+41412
+-1
+1.30
+0.90
+-1
+%s Haven't got that, but I've got some nice Icy Poles.~
+%s Umm, what are you on?  You don't have that.~
+%s Sorry, this is a Milk Bar.  Would you like a Sno Cone?~
+%s Sorry - that's beyond my budget.~
+%s You ain't got the coins, sorry.~
+%s That'll cost %d coins.  Would you like a bag for that?~
+%s I'm not supposed to, but I'll give you %d coins for it.~
+0
+2
+41403
+0
+41432
+-1
+0
+28
+0
+0
+#41433~
+41401
+41404
+-1
+1.80
+0.80
+11pelt
+-1
+%s What do I look like, a magician?~
+%s Come back when you HAVE it.~
+%s I'm not buying that.~
+%s You expect me to buy something that expensive??~
+%s You don't get nothing until I see the cash.~
+%s It'll cost you %d coins, kiddo.~
+%s You'll get %d coins, no more.~
+0
+2
+41405
+0
+41433
+-1
+0
+28
+0
+0
+#41434~
+41414
+41409
+41416
+41415
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+41404
+0
+41434
+-1
+0
+28
+0
+0
+$~
+$end~

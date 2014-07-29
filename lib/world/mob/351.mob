@@ -1,0 +1,1661 @@
+#35101
+umber hulk~
+an umber hulk~
+A massive, purple skinned beast with multiple eyes and huge tusks lurks here.
+~
+These powerfully built creatures are feared foes of any subterranean
+dwellers, for their muscular arms and huge tusks are capable of rending
+many creatures in seconds. To find them so boldly outside their natural
+habitat is bad for two reasons; one, it means all regular methods of
+monster control have collapsed, making this a perilous place indeed to
+be. And secondly, umber hulks are usually found outside of their lairs
+only as lackeys of more powerful evil creatures such as Illithids and
+Beholders. And if either of those fell creatures is about you could be
+in serious trouble indeed...
+~
+bfm dfk -600 C
+28 0 -50 0d0+0 0d0+0
+1000 0
+8 8 0
+22 13 13 13 13 13 13
+15 3 2
+C
+#35102
+illithid mage~
+an illithid mage~
+A purple skinned illithid clad in the robes of a mage stands here.
+~
+Three illithid mages assist the beholder mage xyrtog in his insidious
+schemes. One of them is usually away, recruiting new slaves or similar,
+while the other two work here on ways to increase the sphere of the
+ensorcellment's influence. And they are in a state of excitement, as
+they have finally succeeded.
+~
+bfgm dfkmw -600 C
+30 0 0 0d0+0 0d0+0
+125000 0
+8 8 1
+13 25 13 22 13 3 3
+12 0 0
+C
+> greet_prog 50~
+if isimmort($n)
+else
+mea $n As you enter, you feel an alien presence enter your mind!
+mea $n A voice speaks inside your head, telling you it is futile to continue.
+if wis($n) < 14
+mea $n Being a creature of little willpower, you readily agree.
+mpforce $n say It's hopeless. I must surrender...
+mpforce $n remove all
+mpforce $n say I YIELD!
+cackle
+else
+mea $n But you are made of sterner stuff than the weak willed fools of
+mea $n Hochenyana! Grinning, you marshal your mental reserves and prepare
+mea $n to do battle with these alien foes.
+endif
+endif
+~
+> fight_prog 20~
+mea $n The illithid launches a devastating psionic assault!
+mpdamage $n 125
+mpforce $n scream
+if rand(10)
+mpechoaround $n $n's will has been broken! $n attempts to flee!
+mpforce $n flee
+mpforce $n yell LET ME OUT OF HERE!!!!
+mpforce $n scream
+else
+endif
+~
+> hitprcnt_prog 20~
+mpe The illithid is sorely injured. Closing its eyes, it summons its
+mpe Considerable psionic power to heal itself.
+mprestore self 100
+~
+|
+#35103
+giant two headed troll ~
+a giant two-headed troll~
+A giant two headed troll stares slackjawed into space.
+~
+(null)~
+bfgm fk -400 C
+32 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+22 13 13 13 22 13 13
+8 3 2
+C
+> greet_prog 100~
+if ispc($n)
+mpe The troll suddenly notices you, and lurches forward.
+mpe Its movements are jerky, and uncoordinated (even for a troll);
+mpe Some sort of enchantment is at work here!
+, roars in anger, but doesn't seem to have his heart in it.
+else
+endif
+~
+|
+#35104
+half-ogre warrior gaoler~
+the gaoler~
+A half-ogre of immense size lumbers about.
+~
+Truly a warrior of formidable strength and skill, the gaoler is not
+a foe to be easily dismissed. However, his movements are jerky, and
+sluggish, as if he were doing this against his will, and this lack
+of co-ordination can only benefit people who would do battle with him.
+~
+bfgm k -500 C
+28 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+22 13 13 8 22 13 13
+7 3 1
+C
+> fight_prog 33~
+bash
+~
+> rand_prog 2~
+grunt
+~
+|
+#35105
+elven noble~
+an elven noble~
+An elven male attempts to remain dignified amidst the squalor.
+~
+(null)~
+bm ks 750 C
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 18 13 18 13
+1 0 0
+C
+> greet_prog 100~
+if race($n) == elf
+say Fellow elf, or friend of the elves, if you can understand, you must aid me.
+say i am on a mission of great importance, sent by Allethandra of
+say Malathar. I was sent here to investigate claims of an insurgence
+say of Chaos. However, what I found was much worse. Please, you must
+say travel to Malathar, and give this missive to Allethandra. He
+say will know what to do. I shall remain here and attempt to glean
+say more information from my captors. For some reason they are most
+say reluctant to do me any harm, save for their blasted mental probes.
+say In the name of the Elven nation I beseech thee, go!
+mpoload 35108
+give missive $n
+else
+say Stranger, tarry not in this dreadful place of evil...
+endif
+~
+> death_prog 100~
+mpe As the elf dies, a letter slips from his hand, and floats to the ground.
+mpoload 35108
+~
+|
+#35106
+crazed merchant~
+a crazed merchant~
+A crazed merchant begs to be freed.
+~
+This filthy, rag clad human has been imprisoned here for almost a year,
+after ignorantly attempting to trade with the town. He is being held
+in the hopes that his wealthy guild will pay a ransom, but it now
+looks as if that is not going to happen. 
+~
+bm k -200 C
+22 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 2 0
+C
+> greet_prog 100~
+scream
+if ispc($n)
+say Oh... I thought you were one of THEM...
+say You aren't.. are you?
+mpforce $n shake
+say Thank the Gods! Please, free me from this fell place!
+say You will be richly rewarded if you do! Will you free me?
+else
+faint
+endif
+~
+> speech_prog p yes~
+if ispc($n)
+say You are a saint! 
+grovel $n
+say Here, take this token to the merchant's guild in Irilian.
+say They will reward you for rescuing me!
+mpoload 35107 1
+give token $n
+wink
+mpe With that, the merchant slips out the door and is away!
+mpgoto 2
+else
+sigh
+say You cannot rescue me...
+endif
+~
+> speech_prog p no~
+if ispc($n)
+and isgood($n)
+say Alas! How could a noble adventurer of good heart abandon me??
+cry
+else
+sigh
+say I am not surprised. What else should one expect from amoral 
+say characters such as yourself?
+endif
+~
+|
+#35107
+peasant~
+a peasant~
+A peasant grimly awaits his fate.
+~
+This fellow was unfortunate enough to be made of sterner stuff than
+most of his neighbours, and resisted the enthrallment of the evil
+powers who subverted Hochenyana. Thus he has been imprisoned here, and
+decreed to serve as their next meal...
+~
+bgm k 400 C
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 16 13 13 13 13
+0 3 0
+C
+> rand_prog 2~
+sigh
+~
+> rand_prog 2~
+mutter
+~
+> rand_prog 2~
+roll
+~
+|
+#35108
+dog~
+a village dog~
+A sinewy hunting dog wanders the streets in a daze.
+~
+(null)~
+gm k 0 C
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 0
+C
+#35109
+dazed villager~
+a dazed villager~
+A dazed villager stumbles along.
+~
+This poor soul appears to have no willpower left. He shuffles along
+oblivious to his surroundings.
+~
+gm k -200 C
+21 0 0 0d0+0 0d0+0
+100 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+#35110
+dazed villager~
+a dazed villager~
+A dazed villager stares blankly into space.
+~
+This poor woman has no willpower left; she appears to be in a trance,
+or a zombie like state.
+~
+gm k -200 C
+20 0 0 0d0+0 0d0+0
+100 0
+8 8 2
+13 13 13 13 13 13 13
+0 3 0
+C
+#35111
+guard~
+a village guard~
+A stout human clad in mismatched armor stares into space.
+~
+This stout, dependable chap was once one of Hochenyana's famed
+militia, a sturdy guard who have fended off countless orcish raids.
+But now he seems more interested in studying a passing fly than in
+well armed intruders in his village...
+~
+bgm k -200 C
+24 0 0 0d0+0 0d0+0
+200 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> rand_prog 2~
+say Look at the pretty insects...
+drool
+~
+> greet_prog 100~
+mpe The guard doesn't even appear to register your presence.
+~
+> fight_prog 25~
+say Gaaaaahhhh...
+mea $n The guard lurches awkwardly at you, striking clumsily but hard!
+bash
+mpdamage $n 25
+~
+|
+#35112
+mayor geoffrey hiln doppleganger~
+Geoffrey Hiln~
+A heavy-set, bearded man welcomes you into his office.
+~
+Geoffrey Hiln, veteran of countless battles against Chaos, is by
+repute a loud spoken bear of a man, who is just as likely to deck
+someone who insults him as try to talk them down. He is abrupt, curt
+and rude, but loved and respected by his villagers, whom he would give
+his life to protect. However, the obsequious panderer who is addressing
+you now does not exactly fit the bill, even if he is the spitting image
+of Geoffrey Hiln physically. 
+~
+bgm dfk -200 C
+32 0 0 0d0+0 0d0+0
+17500 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 1
+C
+> act_prog p from the east.~
+if ispc($n)
+say Ah, $n. Well met! Word reached me that you had entered
+say my humble village, and i was hoping you would stop by here.
+say We seldom receive visitors of your repute; we are honored.
+bow $n
+mea $n Noting the expression on your face, he sighs and continues.
+say Ah I suppose you are wondering what ails the simple townsfolk?
+hmm
+say Well, its a simple... malady, an infection that causes 
+say drowsiness and lethargy... Oh don't worry, it isn't contagious.
+say Clerics from the Cathedral of St. Pietre are in fact en route
+say to administer a cure.
+smile
+say Now, if that is all, I must return to my work. Good day!
+else
+tap
+say What do you want, $n?
+endif
+~
+> rand_prog 2~
+hum
+twiddle
+~
+> fight_prog 20~
+say Attack the mayor in his own office would you?
+snarl
+disarm
+cackle
+wield broadsword
+~
+> hitprcnt_prog 25~
+mpe As the injuries mount upon the mayor, a curious change takes place.
+mpe Sporadic flashes of light flicker across his body, and occasionally
+mpe his appearance will shift and distort, as if it were being morphed.
+growl
+~
+> death_prog 100~
+mpe As the death blow lands, the mayor's appearance changes radically.
+mpe Where once lay the dying body of the mayor now lies the corpse of
+mpe a strange creature with pale white skin, devoid of any physical
+mpe features. Revolted, you turn away, and realize the awful truth.
+mpe Someone has replaced the good mayor of Hochenyana with a vile
+mpe shapeshifter!
+mpforce $n say Alas! What treachery is afoot here?
+~
+> act_prog p leaves up.~
+mpat 0.$n t $n Ahem!
+mpat 0.$n mea $n The mayor grabs you and firmly escorts you downstairs.
+mpe The Mayor grabs $n and escorts $m back down.
+mpat 0.$n mpforce $n d
+~
+> act_prog p floats up.~
+mpat 0.$n t $n Ahem!
+mpat 0.$n mea $n The mayor grabs you and firmly escorts you downstairs.
+mpe The Mayor grabs $n and escorts $m back down.
+mpat 0.$n mpforce $n d
+~
+> act_prog p flies up.~
+mpat 0.$n t $n Ahem!
+mpat 0.$n mea $n The mayor grabs you and firmly escorts you downstairs.
+mpe The Mayor grabs $n and escorts $m back down.
+mpat 0.$n mpforce $n d
+~
+|
+#35113
+mayor secretary~
+the mayor's secretary~
+A plump, middle aged woman sits here behind a huge desk.
+~
+This woman appears to be unusually bright and cheerful, for this place;
+you wonder for a second if she somehow resisted the malediction plaguing
+her peers, then you notice that her smile is forced, her eyes emotionless,
+and realize it is almost as if she is just acting out a preprogrammed 
+series of activities and responses.
+~
+bm k 0 C
+24 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 3 0
+C
+> greet_prog 100~
+smile
+say Greetings, $n, I am sorry, you cannot see the mayor today.
+say He is very busy you know!
+, busies herself arranging blank sheets of paper.
+~
+|
+#35114
+giant spider~
+a giant spider~
+A spider of immense size scuttles across the dusty floor.
+~
+You cannot believe that such a hideous beast has managed to lurk here
+undetected for so long; perhaps it has been placed here as a guardian?
+~
+fgm kst -400 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+17 3 0
+C
+> fight_prog 20~
+mea $n The spider sinks its fangs into your calf!
+mea $n You feel the venom course through your veins.
+mpdamage $n 75
+~
+|
+#35115
+true mayor geoffrey hiln~
+Geoffrey Hiln~
+A heavy-set, bearded man sits on a chair, fuming.
+~
+Geoffrey Hiln, veteran of countless battles against Chaos, is by
+repute a loud spoken bear of a man, who is just as likely to deck
+someone who insults him as try to talk them down. He is abrupt, curt
+and rude, but loved and respected by his villagers, whom he would give
+his life to protect. His imprisonment has done little to dull his senses,
+or his temper.
+~
+bgm dfk 500 C
+32 0 0 0d0+0 0d0+0
+1000 0
+8 8 1
+18 13 13 13 18 13 13
+0 3 1
+C
+> greet_prog 100~
+if isnpc($n)
+snarl
+else
+say At last! Someone not under the spell of those accursed illithids!
+mutter
+say Come on.. we have a village to save!
+mpe As Geoffrey Hiln leaps to his feet, he cries out and grasps his leg.
+wince
+say The bastards... broke my leg... in my excitement I...
+curse
+say You will have to go without me. Will you help stop the evil?
+endif
+~
+> speech_prog p yes~
+if ispc($n)
+say Good! Knew you would, you look the sort.
+say Let me fill you in- as you probably noticed the villagers
+say are acting all weird and like... well they are under a spell!
+nod
+say Yes, they tried to work their sorceries on me too, but it
+say didn't work. Being the smart fellow I am, I decided to play
+say along, pretend it worked and such. THAT was how I found out
+say some purple skinned muck swilling mind flayers have invaded
+say MY village! 
+, fumes for a second, then continues.
+say I sent a call to my friends in Malathar and Maritshome, I know
+say not whether they received my pleas for aid. I have many friends
+say in Malathar, I had hoped they would aid me. But now it falls upon
+say you, and whatever allies you can muster. Seek out the illithids,
+say and whoever they serve, and destroy them! I know not where they
+say may lurk, but I overheard them mentioning old Badwick the tailor...
+say Go now! Hurry!
+, grimaces and collapses into a half-faint, delirious from pain.
+else
+endif
+~
+> give_prog missive~
+gasp
+say So Allethandra DID send help! 
+smile
+say The old dog! Quickly, return this note to him with all due
+say haste. Even if you manage to destroy the evil here, only he can
+say help you find the higher enemy at work here.
+give missive $n
+~
+> speech_prog p no~
+if ispc($n)
+growl
+say You cowardly vermin! I should tear your guts out!
+say How can you stand by while evil forces destroy your homes?
+say Leave, then, and to hell with you!
+else
+endif
+~
+> fight_prog 33~
+stun
+scream
+~
+> rand_prog 5~
+mpasound Muffled cries for help come from behind the door to the north.
+~
+|
+#35116
+zombie badwick~
+the zombie of Badwick~
+A decaying corpse lurches across the dusty workshop!
+~
+Poor Badwick has certainly seen better days; such was the anguish and
+unnatural nature of his death that the body refused to die, and cannot
+now rest.
+~
+bfgm dfk 0 C
+28 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 13 13 13 13
+13 3 0
+C
+> greet_prog 100~
+drool
+say Gaaaaaahhh.... no more paiiiiiinnnn.... killllll....
+mpe The zombie lurches forward at a good clip, stabbing wildly!
+~
+|
+#35117
+insane butcher clegg~
+Clegg~
+An insane butcher foams at the mouth as he hacks into a slab of meat.
+~
+The butcher was never the most stable of people, having a rather
+unhealthy attraction to hacking up carcasses, but something has now
+quite broken what mind he has, and he has become a homicidal maniac.
+~
+bfgm k -400 C
+28 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+18 13 13 18 18 13 13
+0 3 2
+C
+> rand_prog 2~
+say CHOP! CHOP! CHOP!
+drool
+cackle
+~
+> greet_prog 100~
+if isimmort($n)
+else
+if ispc($n)
+yell FRESH MEAT! I LIKE 'EM FRESH! COME AND GET CHOPPED $n!
+muhaha
+cackle
+mea $n The butcher hurls a cleaver at you, striking you in the chest!
+mpdamage $n 75
+else
+mpforce $n e
+endif
+endif
+~
+> fight_prog 20~
+say CHOP CHOP CHOP! CHOP TILL YOU DROP!
+cackle
+disarm
+punch
+~
+> fight_prog 33~
+bash
+gouge
+, howls with maniacal glee!
+mpforce $n say This is surely a most trying foe!
+~
+> fight_prog 5~
+mea $n Clegg slashes you deep across the chest, striking bone!
+mpdamage $n 50
+cackle
+~
+|
+#35118
+mariah~
+Mariah~
+A young woman is seated here, singing softly to herself.
+~
+Despite your best efforts to attract her attention, the pretty 
+shopkeeper ignores you, staring into space and singing softly. As you
+watch, tears begin to flow down her face, as if something was upsetting
+her greatly, and her voice wavers.
+~
+bm k 0 C
+24 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 3 0
+C
+#35119
+bear~
+a brown bear~
+A brown bear lumbers out from behind a table, blood on its fur.
+~
+This bear wandered into town a few days ago, and was astonished at the
+lack of resistance it met. It decided to devour the family that once lived
+here, and has laired here since, enjoying the easy meals.
+~
+bfm k 0 C
+26 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+18 13 13 13 13 13 13
+15 3 0
+C
+> rand_prog 5~
+, rumbles deep in its chest.
+mpasound A low growl can be heard from a house to the north...
+~
+|
+#35120
+patron~
+a patron~
+A sober patron sits silently at one of the long tables.
+~
+This fellow is seated, as was his wont for years, in the pub, but is
+not drinking or eating; he just stares into space, as if waiting for
+something.
+~
+bgm k -200 C
+21 0 0 0d0+0 0d0+0
+100 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+#35121
+silus bartender~
+Silus~
+A slender elf, the proprieter of this establishment, stares blankly at you.
+~
+Silus is the proprieter of what was once a happy and prosperous pub,
+but now being here makes you depressed and uneasy. He and his patrons
+just sit and stare into space, no expression gracing their faces. Even
+slapping and shaking them provokes only the briefest response.
+~
+bm k 0 C
+24 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+12 3 0
+C
+#35122
+maddax ~
+Maddax~
+An elderly man clad in wizard's robes hawks his wares.
+~
+Two things strike you as unusual about this fellow; firstly, he is
+talking, and no one else in the village you have met has actually
+addressed you in a polite manner. Secondly, his eyes do not appear to
+be glazed over as the others are.
+~
+bm dkmw 760 C
+25 0 -76 0d0+0 0d0+0
+15750 0
+8 8 1
+13 20 20 13 13 13 13
+0 0 0
+C
+> greet_prog 100~
+if ispc($n)
+smile
+say Welcome, welcome, feel free to browse, or buy!
+wink
+, stops suddenly and peers closely.
+say Psst! You aren't affected either, are you? C'mere!
+mea $n As you move closer the wizard begins to whisper to you.
+say I believe some supernatural entity has possessed the souls
+say of these poor folks. My tower was infested by goblins, and so
+say I fled, and disguised myself as the alchemist Potrax, the
+say poor devil who disappeared first. You must help me rid the
+say village of this evil! Will you? Yes or no will do!
+else
+mpe $I stares blankly at $n.
+endif
+~
+> speech_prog p yes~
+if ispc($n)
+say Excellent! Knew you would! Now listen closely...
+say Through magical divination I was able to determine that the
+say mayor is not what he appears! I fear something evil has taken
+say his place, and may be behind the fell enchantment placed 'pon
+say Hochenyana, or at least may know who is. Seek out the mayor, the
+say true mayor, and he may be able to tell you more. Hurry!
+, digs into his robes and produces a couple of wands.
+say Here, take these! They may help you...
+mpoload 35130
+mpoload 35131
+give wand $n
+give wand $n
+else
+endif
+~
+> speech_prog p no~
+if ispc($n)
+sigh
+say Then, we are all doomed...
+else
+endif
+~
+|
+#35123
+skeleton horse~
+a skeletal horse~
+The skeleton of a dead horse rises from the ground!
+~
+Although its physical form is long dead, the remains of the horse
+arise by the dint of some foul necromancy to assault any who intrude
+upon its place of death!
+~
+bfm k -400 C
+26 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+13 3 0
+C
+> greet_prog 100~
+mpe The bones of a warhorse arise from the ground and form a skeleton!
+~
+|
+#35124
+insane merchant~
+an insane merchant~
+A ragged, dishevelled old man sits weeping on the dirty floor.
+~
+This poor fellow appears to have suffered mightily at the hands of
+whatever has taken over this town; his mind has been broken by what
+he has been subjected to.
+~
+bm k 0 C
+24 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> rand_prog 2~
+say They took her, took my wife... and slew her... NOOOO!!!
+scream
+drool
+~
+> greet_prog 100~
+mpe The poor fellow is so engulfed in his grief he doesn't notice you.
+~
+> fight_prog 12~
+say NO! You have taken enough! You shan't take me!
+scream
+gouge
+stun
+~
+|
+#35125
+edmund armorer~
+Edmund~
+A short, stocky man is lying on the floor, stunned.
+~
+Someone or something large has smashed into the armorer, and he lies on
+the floor, struggling back to consciousness. As you enter, you notice the
+dazed look that fills the eyes of most of the people here disappearing...
+~
+bm k 0 C
+26 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+16 13 13 16 16 13 13
+0 3 0
+C
+> greet_prog 100~
+if ispc($n)
+mpe As you enter $I slowly stands up.
+say Huh? Who? What? Where am I? Gods, my HEAD!
+wince
+peer
+say Hoi, you there! What date is it?
+mutter
+else
+endif
+~
+> speech_prog day~
+gasp
+say I ...it cannot be... I cannot remember the last 4 months!
+say All I can remember is the robed strangers coming to town...
+frown
+~
+> speech_prog p robed strangers~
+say Yes, three of them, didn't say much, not as there is much to
+say for a stranger in a foreign town. 
+shrug
+say Wore purple robes, covered their faces and hands too. One of
+say them didn't seem to have any legs, he just kinda -floated-...
+boggle
+say That's about all I can remember...
+, scratches his head in puzzlement.
+~
+|
+#35126
+otyugh~
+an otyugh~
+A horrid, tentacled blob arises from the muck.
+~
+Lurking in this sewer is a horrid otyugh, not at all common to this
+region, and undoubtledly released here by the infiltrators of the city
+to dispose of unwanted waste. This foul mobile garbage devouring monster
+has ultra keen senses, with which it can detect hidden or concealed foes,
+though magical invisibility still confounds it.
+~
+bcfm fk -400 C
+28 0 -50 0d0+0 0d0+0
+36570 0
+8 8 0
+18 13 13 13 13 13 13
+12 3 0
+C
+> fight_prog 15~
+mea $n The otyugh's tentacle catches you in the chest. You begin to feel ill.
+bash
+c 'poison' $n
+mpdamage $n 50
+~
+|
+#35127
+englebert~
+Englebert~
+A balding middle aged man is seated by a blazing fire.
+~
+This harmless old coot sits by his fire, mumbling about the bitter cold,
+despite it being hotter than the inside of a smith's forge in his cramped
+shop. 
+~
+bm k 0 C
+24 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> rand_prog 2~
+say So cold... cold....
+shiver
+~
+|
+#35128
+giant frog~
+a giant frog~
+A massive frog croaks angrily.
+~
+This massive amphibian is the size of an alsatian, and has a tongue
+long enough to wrap three times around you, its favorite method of
+snaring prey.
+~
+bfm k -225 C
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+16 13 13 13 13 13 13
+12 3 0
+C
+> fight_prog 100~
+if rand(10)
+mea $n $I's tongue lashes out, snaring you and constricting!
+disarm
+mpdamage $n 33
+else
+endif
+~
+> rand_prog 2~
+, croaks loudly.
+mpasound A loud croaking, as of a massive amphibian, can be heard.
+~
+|
+#35129
+thief~
+a thief~
+A thief cautiously searches the room for any valuables.
+~
+This amoral rogue is taking advantage of the senseless townsfolk to
+search for loot; he is a little perturbed by their unusual behaviour,
+but his greed is overriding his uneasiness, which may be to his regret...
+~
+bm dfkst -400 C
+24 0 0 0d0+0 0d0+0
+13000 0
+8 8 1
+13 13 13 20 13 13 13
+12 2 0
+C
+> fight_prog 10~
+say No, you won't cut in on my action!
+snarl
+mea $n The thief slips in under your guard and delivers a serious blow!
+mpdamage $n 40
+wield dirk
+~
+> rand_prog 2~
+mutter
+~
+|
+#35130
+wild boar~
+a wild boar~
+A wild boar grunts in displeasure.
+~
+This aggressive brute wandered into town one day, and was surprised at
+the lack of resistance and decided to stay to enjoy the easy pickings.
+Estroglian boars are by nature quite carniverious, and their bloodlust
+is exacerbated by easy prey.
+~
+bfm k -209 C
+25 0 -33 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 18 13 13
+15 3 0
+C
+> rand_prog 2~
+grunt
+~
+> fight_prog 15~
+mea $n The boar charges at you, and gores you with its tusks!
+gouge
+bash
+~
+|
+#35131
+holst brecker~
+Holst Brecker~
+A stern, middle aged man stands rigidly at attention here.
+~
+The constable of Hochenyana, Holst was ironically one of the first to
+fall under the influence of the foul enchantments placed 'pon this place.
+Now he stands here, as if nothing was amiss, awaiting further orders.
+~
+bm km 0 C
+28 0 -60 0d0+0 0d0+0
+0 0
+8 8 1
+16 13 13 13 13 13 13
+0 3 0
+C
+> greet_prog 100~
+bow $n 
+Say Greetings, citizen. Nothing is amiss. Carry on with your business.
+, stares into space.
+~
+|
+#35132
+goblin shaman~
+a goblin shaman~
+A rather mangy, bedragged goblin covered in white paint screams at the sky.
+~
+This cunning shaman took advantage of the helplessness of the townsfolk
+to move his tribe into the mage's tower; accomodations he has long desired.
+He is dimly aware that something is seriously wrong with the villagers, and
+that some sort of enchantment is in affect, but ignores it as it has yet ot
+affect him.
+~
+bfm dfhk -800 C
+30 0 -100 0d0+0 0d0+0
+17500 0
+8 8 1
+13 16 16 16 13 3 6
+2 0 0
+C
+> fight_prog 66~
+if rand(40)
+c 'chill' $r
+c 'weaken' $r
+c 'curse' $r
+say Ooga Booga!
+else
+if rand(15)
+gouge
+wink
+c 'blind' $n
+else
+if rand(25)
+c 'curse' $r
+c 'poison' $r
+else
+endif
+endif
+endif
+~
+> rand_prog 2~
+snarl
+drool
+~
+> greet_prog 100~
+if ispc($n)
+scream
+mea $n The shaman hisses menacingly at you.
+say Gah wa jeri 'nlingreru!
+cackle
+else
+endif
+~
+|
+#35133
+guard~
+a town guard~
+A town guard wanders past in a daze.
+~
+This stout, dependable chap was once one of Hochenyana's famed
+militia, a sturdy guard who have fended off countless orcish raids.
+But now he seems more interested in studying a passing fly than in
+well armed intruders in his village...
+~
+bgm k -200 C
+24 0 0 0d0+0 0d0+0
+200 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+#35134
+grinning goblin~
+a grinning goblin~
+A grinning goblin cackles maniacally.
+~
+This fecund member of the Gutripper Clan is here under the auspices of
+the clan shaman, who took it upon himself to invade the mage's tower
+when the town came under the influence of whatever malady besets them.
+Ferocious even by goblin standards, this sinewy foe is quite capable of
+rending strong adventurers in two.
+~
+bfm k -500 C
+25 0 0 0d0+0 0d0+0
+10000 0
+8 8 1
+13 13 13 13 13 13 13
+2 3 0
+C
+> rand_prog 2~
+cackle
+~
+> greet_prog 33~
+cackle
+say Die die, goodie goodie!
+snarl
+~
+|
+#35135
+goblin~
+a small goblin~
+A small, but strong, goblin creeps through the hovels.
+~
+This fecund member of the Gutripper Clan is here under the auspices of
+the clan shaman, who took it upon himself to invade the mage's tower
+when the town came under the influence of whatever malady besets them.
+Ferocious even by goblin standards, this sinewy foe is quite capable of
+rending strong adventurers in two.
+~
+bfm k -500 C
+21 0 0 0d0+0 0d0+0
+1000 0
+8 8 1
+13 13 13 13 13 13 13
+2 3 0
+C
+> greet_prog 25~
+snarl
+say Humantypes! Die! Shaman commands!
+cackle
+~
+> fight_prog 5~
+yell Humantypes in the clan place! Die!
+~
+|
+#35136
+brass golem~
+a brass golem~
+A brass golem stands before the two doors.
+~
+Lacking many of the powers and immunities of its more powerful cousins,
+the brass golem is nevertheless a competent and hardy defender of any
+mage's chambers.
+~
+bm dfkm 0 C
+34 0 -45 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 13 13 13 13
+12 0 0
+C
+> act_prog p from the north.~
+if ispc($n)
+say My master prohibits any from disturbing his chambers!
+c 'gas'
+else
+say Intruder! 
+mpe $n flees from the golem!
+mpforce $n n
+chuckle
+endif
+~
+|
+#35137
+fire elemental~
+a fire elemental~
+A towering pillar of flame fills this chamber with heat.
+~
+This semi intelligent being from the plane of fire seeks only to destroy
+by fire all it encounters.
+~
+fm kwCD -400 C
+32 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+12 3 0
+C
+#35138
+minion nool~
+a minion of No'ol~
+A winged demon hovers above the bloodstained altar.
+~
+Sent by the Chaotic Lord to observe the goings-on in this temple,
+the minion was pleased to note the extent to which chaos had taken
+advantage of the evil enchantments placed upon the town. No'ol is aware
+of who is behind the enchantment, and his priests have hammered out a
+pact of mutual benefit, though Chaos does not always co operate with
+forces of purer Evil.
+~
+bfm dfhkC -1000 C
+35 0 -100 0d0+0 0d0+0
+564000 0
+8 8 0
+13 13 13 13 13 13 13
+13 2 0
+C
+> fight_prog 75~
+if rand(30)
+c 'frost breath' $r
+cackle
+else
+if rand(10)
+c 'chill' $r
+c 'chill' $r
+c 'chill' $r
+c 'weaken' $r
+else
+if rand(25)
+gouge
+bash
+kick
+punch
+else
+endif
+endif
+endif
+~
+> rand_prog 2~
+mpe The minion infuses its weapon with demonic power.
+rem whip
+c 'enchant w' whip
+wield whip
+cackle
+~
+> rand_prog 5~
+mpasound Horrid shrieks and howls come from all around you.
+~
+> greet_prog 100~
+if isimmort($n)
+sneer
+say Pawn of the higher powers, you may defeat me, but not NO'OL!
+cackle
+else
+if ispc($n)
+chuckle
+say Poor, poor pitiful $n. Tell me, how do you wish to die???
+cackle
+mpe _red A hellish glow suffuses $I as $e rises to $s full height.
+else
+mpforce $n n
+endif
+endif
+~
+|
+#35139
+wraith~
+a wraith~
+The enraged spirit of a man who starved to death has returned!
+~
+This poor soul was doomed to a slow death by starvation, and it now
+cannot rest due to the indignity of such a death.
+~
+bfm dfkmwC -200 C
+28 0 -75 0d0+0 0d0+0
+45000 0
+8 8 0
+13 13 13 13 13 13 13
+13 3 0
+C
+> fight_prog 20~
+c 'chill' $r
+c 'blindness' $r
+c weaken $r
+~
+> death_prog 100~
+mpe _lbl As the death blow is struck, the wrait dissipates, aggrieved.
+mpgoto 3
+~
+> death_prog 50~
+mpoload 35163
+~
+|
+#35140
+illithid disguised librarian~
+an illithid scientist~
+A tall figure shrouded completely in dark robes stands reading a book.
+~
+This scholar appears to be totally engrossed in his work. As you approach,
+however, you see a long blue clawed hand protrude from the robe, and a slimy
+tentacle inches out of the cowled robe...
+~
+bm dfkwC -800 C
+30 0 -50 0d0+0 0d0+0
+15750 0
+8 8 1
+13 22 13 22 13 13 13
+12 0 0
+C
+> greet_prog 100~
+if ispc($n)
+, hisses angrily!
+say Intrudersssss! Monks! Repel this creature of Law!
+mpe $I throws back his cowl, and reveals the hideous features of an illithid!
+cackle
+else
+endif
+~
+> fight_prog 33~
+mea $n $I attacks you with a psionic assault!
+mpdamage $n 50
+mpforce $n scream
+c 'blindness' $n
+c 'weaken' $n
+c 'energy drain' $n
+~
+|
+#35141
+dark monk~
+a dark monk~
+A wizened old man shambles through the aisles, searching.
+~
+The forces behind the conquest of Hochenyana have brought in the infamous
+dark monks, collectors and translators of ancient unholy texts, some of
+which they hope to find in this old library.
+~
+fgm k -800 C
+28 0 0 0d0+0 0d0+0
+1000 0
+8 8 1
+13 13 13 13 13 13 13
+0 1 0
+C
+#35142
+rogue~
+a rogue~
+A svelte elven woman clad in a black catsuit slinks out of the shadows.
+~
+This evil woman was hired by the powers in control to keep an eye on
+the library and destroy any unwanted intruders, a task she relishes in.
+~
+bcfm bdfkst -675 C
+28 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+13 22 13 22 13 22 22
+0 2 0
+C
+> greet_prog 100~
+if isimmort($n)
+else
+if ispc($n)
+snarl
+mpe $I steps out of the shadows, and strikes!
+backstab $n
+cackle
+else
+endif
+endif
+~
+> fight_prog 20~
+circle $n
+gouge
+~
+> rand_prog 33~
+sneak
+hide
+mpat 3 c invis
+~
+|
+#35143
+Xeratzl~
+Xeratzl~
+A short, grumpy demon squats in the middle of null-space.
+~
+Xeratzl was imprisoned here by an old mage centuries ago, who desired
+her tome but had not the strength to wrest it from her grasp. He has
+since entrusted the beast to the library, and the new owners have yet
+to discover her little prison.
+~
+bfgm dfhkmswCD -666 C
+50 0 -210 1d1+8500 0d0+0
+1000000 0
+8 8 2
+13 13 13 13 13 13 13
+12 0 0
+C
+> greet_prog 100~
+if ispc($n)
+mea $n A shimmering mass of energy coalesces into a hunched demon.
+mea $n When it speaks, its voice seems to come from everywhere all at once.
+say wElcOmE tO mY pRiSoN, mOrTaL...
+chuckle
+mpe The air shifts subtly, and the demon arises.
+say dO uS bOtH a FaVoR aNd SlAy Me...
+mpe Torrents of energy arc and sizzle about $I's form.
+mpe $I suddenly moves, and with a mighty effort rips her own hand off!
+mea $n Your eyes widen as another claw grows to replace it. Smiling she turns.
+mpoload 35173 48
+wield claw
+mpforce $n faint
+else
+endif
+~
+> death_prog 100~
+mpe A hole is torn in the fabric of this place as $I dies.
+mpopenpassage 35182 1056 4
+~
+> rand_prog 33~
+rem claw
+drop claw
+sac claw
+c gas
+~
+> fight_prog 25~
+c 'chill' $r
+c 'weaken' $r
+gouge
+c 'energy drain' $r
+~
+> fight_prog 33~
+disarm
+wield claw
+gouge
+~
+> fight_prog 100~
+if isnpc($n)
+mpslay $n
+cackle
+else
+endif
+~
+> act_prog circle~
+mprestore self 300
+say tHe aTtAcK oF a ThIeF iNfUsEs Me WiTh StReNgTh...
+~
+> fight_prog 10~
+mpe Cracks appear in the void, and gas seeps through them!
+mpgoto $i 
+c 'frost breath' $r
+~
+|
+#35144
+devrel paladin~
+Devrel~
+A naked man has been tossed into a corner of this room like so much garbage.
+~
+Once the finest Paladin of Asteh, Devrel is now a quivering wreck, his
+mind destroyed by the usurpers. However, the rigors did not affect his
+physical form, and he can still defend himself on an animal like
+instinctive level.
+~
+bm fkm 1000 C
+32 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+16 16 16 16 16 16 16
+0 1 0
+C
+> greet_prog 100~
+if ispc($n)
+drool
+say Gaaaahhhh.....
+shiver
+mpe $I's mind has been destroyed by psychic assault.
+mpe The poor bastard cannot even form a simple sentence...
+else
+endif
+~
+> fight_prog 20~
+say GAAAAAAAHHHHH!
+stun
+~
+> rand_prog 2~
+drool
+~
+|
+#35145
+shadow~
+a shadow~
+An indistinct form coalesces from the shadows before you.
+~
+(null)~
+bfm dfkstw -670 C
+25 0 0 0d0+0 0d0+0
+15756 0
+8 8 0
+13 13 13 25 13 13 13
+13 2 0
+C
+> fight_prog 33~
+mpe The shadow's icy hands grasp you!
+c 'chill'
+c 'weaken'
+c 'energy drain'
+~
+> death_prog ~
+mpe As the shadow perishes, its form dissipates, disappearing into the gloom.
+mpgoto 2
+~
+|
+#35146
+priest no'ol~
+A Priest of No'ol~
+A naked, screaming female prostrates herself before her god.
+~
+Utterly evil, inutterably insane, this vile she-witch is a priest of
+No'ol, and she works herself into unholy frenzies in worship of her
+deity.
+~
+m dfkCD -1000 C
+28 0 0 0d0+0 0d0+0
+120000 0
+8 8 2
+17 13 13 22 22 13 13
+0 1 0
+C
+> greet_prog 100~
+if ispc($n)
+, gibbers madly.
+say Come witness the power of No'ol!
+drool
+faint
+else
+endif
+~
+> fight_prog 100~
+if isnpc($n)
+mpe $I shrieks a horrible incantation, causing $n to flee in panic!
+mpforce $n flee
+else
+if rand(20)
+bite
+kick
+gouge
+else
+endif
+~
+|
+#35147
+avatar asteh~
+an avatar of Asteh~
+A glowing humanoid stands trapped behind a shimmering force field.
+~
+The avatar was summoned during the taking of the temple by the clergy
+in a last ditch effort to save their church. However the avatar was
+overcome and entrapped here, where the faithful of No'ol can scorn and
+deride it. The force field bars only it from moving; all others may pass
+freely. Her armor bears many dents, and her skin is burned badly in several
+places, punishment from her captors.
+~
+bm dfhkmw 450 C
+40 0 -100 22d10+3800 0d0+0
+0 0
+8 8 2
+16 16 16 16 16 25 16
+0 1 0
+C
+> fight_prog 25~
+say Stepping inside my prison was foolish, $n!
+say Now I shall destroy you for your cowardly attack!
+stun
+c 'frost breath' 
+if rand(25)
+mpat 3 c heal
+disarm
+wield mace
+else
+endif
+~
+> greet_prog 100~
+say if you have come to torment me, save your breath.
+say Nothing you can say or do can hurt me anymore...
+stare
+~
+> rand_prog 5~
+mpat 3 c 'heal'
+wield mace
+sigh
+~
+|
+#35148
+ghost bishop~
+the ghost of the bishop~
+The ghost of the bishop of Asteh haunts this place.
+~
+This poor soul was slain here, and his enraged spirit refuses to rest;
+indeed it cannot until the evil here has been laid to rest.
+~
+bm dfhkmwC 1000 C
+33 0 -200 0d0+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+12 1 0
+C
+> greet_prog 100~
+if isgood($n)
+say Lawful creature, flee this place of evil!
+, moans loudly.
+else
+say Alas, more pawns of evil and darkness...
+endif
+~
+|
+#35149
+mud man~
+a mud man~
+A humanoid form arises from the muck.
+~
+This magical creature is only semi-intelligent, but it is imbued with
+a strong desire to destroy anything not like itself.
+~
+bfm k -200 C
+24 0 0 0d0+0 0d0+0
+1000 0
+8 8 0
+13 13 13 13 13 13 13
+12 3 0
+C
+#35150
+giant leech~
+a giant leech~
+A massive leech rises from the smelly waters.
+~
+(null)~
+bfm kstwx 0 C
+27 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+22 3 0
+C
+#35151
+beholder mage xyrtog~
+Xyrtog~
+A beholder of immense size utters an incantation.
+~
+This foul creature of evil is the ringleader of the evil influence that
+has taken over the peaceful town of Hochenyana. A mage of considerable
+power, Xyrtog is also a highly influential force in the Beholder City
+of Qu'gphtek M'gyhr. With his illithid allies, he intends to expand
+the range of his ensorcellment, and achieve what chaos has failed to
+do for centuries, and without even having to spill a drop of blood, though
+that does not worry the evil tyrant.
+~
+bfgm dfhkmw -875 C
+35 0 -192 10d1+4000 10d2+20
+175000 0
+8 8 0
+13 13 13 13 13 13 13
+12 0 2
+C
+> greet_prog 100~
+if ispc($n)
+grin
+say So, you have caught on to our little ruse, eh? Found us out,
+say so to speak. Weeeeell, its too late to stop me now, adventurer!
+cackle
+say When this latest incantation is finished, I shall have every
+say soldier along the Walls of Defiance under my sway! And then...
+muhaha
+say Guards! Destroy the intruders!
+mpe Two large Umber Hulks emerge from the shadows, and stride forth.
+mpmload 35101 
+mpmload 35101
+mpforce umber c 'poison' $n
+mpforce 2.umber c 'weaken' $n
+c shadowform
+c 'eldritch sphere'
+c blazeward
+c inner
+c dragonskin
+c demonskin
+else
+endif
+~
+> death_prog 100~
+mpe As the great beholder shrieks and dies, a strip of its skin is torn loose.
+mpoload 35101 30
+~
+> fight_prog 100~
+if rand(20)
+cackle
+say Taste my magical powers, $n!
+c 'fireball'
+c 'acid blast'
+c 'chill'
+else
+if rand(25)
+mpe Beams of energy surge forth from $I's eyestalks, striking randomly!
+mpdamage $r 50
+else
+if rand(40)
+c 'blindness '
+muhaha
+else
+c 'colour spray'
+endif
+endif
+endif
+~
+|
+$~

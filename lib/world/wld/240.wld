@@ -1,0 +1,1281 @@
+#24000
+Room #24000~
+This description is yet unfinished...
+~
+240 0 2
+D1
+~
+~
+0 -1 24001
+D2
+~
+~
+0 -1 24008
+S
+#24001
+Room #24001~
+This description is yet unfinished...
+~
+240 0 2
+D1
+~
+~
+0 -1 24002
+D2
+~
+~
+0 -1 24009
+D3
+~
+~
+0 -1 24000
+S
+#24002
+Room #24002~
+This description is yet unfinished...
+~
+240 0 2
+D1
+~
+~
+0 -1 24003
+D2
+~
+~
+0 -1 24010
+D3
+~
+~
+0 -1 24001
+S
+#24003
+Room #24003~
+This description is yet unfinished...
+~
+240 0 2
+D1
+~
+~
+0 -1 24004
+D2
+~
+~
+0 -1 24011
+D3
+~
+~
+0 -1 24002
+S
+#24004
+Room #24004~
+This description is yet unfinished...
+~
+240 0 2
+D1
+~
+~
+0 -1 24005
+D2
+~
+~
+0 -1 24012
+D3
+~
+~
+0 -1 24003
+S
+#24005
+Room #24005~
+This description is yet unfinished...
+~
+240 0 2
+D1
+~
+~
+0 -1 24006
+D2
+~
+~
+0 -1 24013
+D3
+~
+~
+0 -1 24004
+S
+#24006
+Room #24006~
+This description is yet unfinished...
+~
+240 0 2
+D1
+~
+~
+0 -1 24007
+D2
+~
+~
+0 -1 24014
+D3
+~
+~
+0 -1 24005
+S
+#24007
+Room #24007~
+This description is yet unfinished...
+~
+240 0 2
+D2
+~
+~
+0 -1 24015
+D3
+~
+~
+0 -1 24006
+S
+#24008
+Room #24008~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24000
+D1
+~
+~
+0 -1 24009
+D2
+~
+~
+0 -1 24016
+S
+#24009
+Room #24009~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24001
+D1
+~
+~
+0 -1 24010
+D2
+~
+~
+0 -1 24017
+D3
+~
+~
+0 -1 24008
+S
+#24010
+Room #24010~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24002
+D1
+~
+~
+0 -1 24011
+D2
+~
+~
+0 -1 24018
+D3
+~
+~
+0 -1 24009
+S
+#24011
+Room #24011~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24003
+D1
+~
+~
+0 -1 24012
+D2
+~
+~
+0 -1 24019
+D3
+~
+~
+0 -1 24010
+S
+#24012
+Room #24012~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24004
+D1
+~
+~
+0 -1 24013
+D2
+~
+~
+0 -1 24020
+D3
+~
+~
+0 -1 24011
+S
+#24013
+Room #24013~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24005
+D1
+~
+~
+0 -1 24014
+D2
+~
+~
+0 -1 24021
+D3
+~
+~
+0 -1 24012
+S
+#24014
+Room #24014~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24006
+D1
+~
+~
+0 -1 24015
+D2
+~
+~
+0 -1 24022
+D3
+~
+~
+0 -1 24013
+S
+#24015
+Room #24015~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24007
+D2
+~
+~
+0 -1 24023
+D3
+~
+~
+0 -1 24014
+S
+#24016
+Room #24016~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24008
+D1
+~
+~
+0 -1 24017
+D2
+~
+~
+0 -1 24024
+S
+#24017
+Room #24017~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24009
+D1
+~
+~
+0 -1 24018
+D2
+~
+~
+0 -1 24025
+D3
+~
+~
+0 -1 24016
+S
+#24018
+Room #24018~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24010
+D1
+~
+~
+0 -1 24019
+D2
+~
+~
+0 -1 24026
+D3
+~
+~
+0 -1 24017
+S
+#24019
+Room #24019~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24011
+D1
+~
+~
+0 -1 24020
+D2
+~
+~
+0 -1 24027
+D3
+~
+~
+0 -1 24018
+S
+#24020
+Room #24020~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24012
+D1
+~
+~
+0 -1 24021
+D2
+~
+~
+0 -1 24028
+D3
+~
+~
+0 -1 24019
+S
+#24021
+Room #24021~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24013
+D1
+~
+~
+0 -1 24022
+D2
+~
+~
+0 -1 24029
+D3
+~
+~
+0 -1 24020
+S
+#24022
+Room #24022~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24014
+D1
+~
+~
+0 -1 24023
+D2
+~
+~
+0 -1 24030
+D3
+~
+~
+0 -1 24021
+S
+#24023
+Room #24023~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24015
+D2
+~
+~
+0 -1 24031
+D3
+~
+~
+0 -1 24022
+S
+#24024
+Room #24024~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24016
+D1
+~
+~
+0 -1 24025
+D2
+~
+~
+0 -1 24032
+S
+#24025
+Room #24025~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24017
+D1
+~
+~
+0 -1 24026
+D2
+~
+~
+0 -1 24033
+D3
+~
+~
+0 -1 24024
+S
+#24026
+Room #24026~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24018
+D1
+~
+~
+0 -1 24027
+D2
+~
+~
+0 -1 24034
+D3
+~
+~
+0 -1 24025
+S
+#24027
+Room #24027~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24019
+D1
+~
+~
+0 -1 24028
+D2
+~
+~
+0 -1 24035
+D3
+~
+~
+0 -1 24026
+S
+#24028
+Room #24028~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24020
+D1
+~
+~
+0 -1 24029
+D2
+~
+~
+0 -1 24036
+D3
+~
+~
+0 -1 24027
+S
+#24029
+Room #24029~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24021
+D1
+~
+~
+0 -1 24030
+D2
+~
+~
+0 -1 24037
+D3
+~
+~
+0 -1 24028
+S
+#24030
+Room #24030~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24022
+D1
+~
+~
+0 -1 24031
+D2
+~
+~
+0 -1 24038
+D3
+~
+~
+0 -1 24029
+S
+#24031
+Room #24031~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24023
+D2
+~
+~
+0 -1 24039
+D3
+~
+~
+0 -1 24030
+S
+#24032
+Room #24032~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24024
+D1
+~
+~
+0 -1 24033
+D2
+~
+~
+0 -1 24040
+S
+#24033
+Room #24033~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24025
+D1
+~
+~
+0 -1 24034
+D2
+~
+~
+0 -1 24041
+D3
+~
+~
+0 -1 24032
+S
+#24034
+Room #24034~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24026
+D1
+~
+~
+0 -1 24035
+D2
+~
+~
+0 -1 24042
+D3
+~
+~
+0 -1 24033
+S
+#24035
+Room #24035~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24027
+D1
+~
+~
+0 -1 24036
+D2
+~
+~
+0 -1 24043
+D3
+~
+~
+0 -1 24034
+S
+#24036
+Room #24036~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24028
+D1
+~
+~
+0 -1 24037
+D2
+~
+~
+0 -1 24044
+D3
+~
+~
+0 -1 24035
+S
+#24037
+Room #24037~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24029
+D1
+~
+~
+0 -1 24038
+D2
+~
+~
+0 -1 24045
+D3
+~
+~
+0 -1 24036
+S
+#24038
+Room #24038~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24030
+D1
+~
+~
+0 -1 24039
+D2
+~
+~
+0 -1 24046
+D3
+~
+~
+0 -1 24037
+S
+#24039
+Room #24039~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24031
+D2
+~
+~
+0 -1 24047
+D3
+~
+~
+0 -1 24038
+S
+#24040
+Room #24040~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24032
+D1
+~
+~
+0 -1 24041
+D2
+~
+~
+0 -1 24048
+S
+#24041
+Room #24041~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24033
+D1
+~
+~
+0 -1 24042
+D2
+~
+~
+0 -1 24049
+D3
+~
+~
+0 -1 24040
+S
+#24042
+Room #24042~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24034
+D1
+~
+~
+0 -1 24043
+D2
+~
+~
+0 -1 24050
+D3
+~
+~
+0 -1 24041
+S
+#24043
+Room #24043~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24035
+D1
+~
+~
+0 -1 24044
+D2
+~
+~
+0 -1 24051
+D3
+~
+~
+0 -1 24042
+S
+#24044
+Room #24044~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24036
+D1
+~
+~
+0 -1 24045
+D2
+~
+~
+0 -1 24052
+D3
+~
+~
+0 -1 24043
+S
+#24045
+Room #24045~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24037
+D1
+~
+~
+0 -1 24046
+D2
+~
+~
+0 -1 24053
+D3
+~
+~
+0 -1 24044
+S
+#24046
+Room #24046~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24038
+D1
+~
+~
+0 -1 24047
+D2
+~
+~
+0 -1 24054
+D3
+~
+~
+0 -1 24045
+S
+#24047
+Room #24047~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24039
+D2
+~
+~
+0 -1 24055
+D3
+~
+~
+0 -1 24046
+S
+#24048
+Room #24048~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24040
+D1
+~
+~
+0 -1 24049
+D2
+~
+~
+0 -1 24056
+S
+#24049
+Room #24049~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24041
+D1
+~
+~
+0 -1 24050
+D2
+~
+~
+0 -1 24057
+D3
+~
+~
+0 -1 24048
+S
+#24050
+Room #24050~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24042
+D1
+~
+~
+0 -1 24051
+D2
+~
+~
+0 -1 24058
+D3
+~
+~
+0 -1 24049
+S
+#24051
+Room #24051~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24043
+D1
+~
+~
+0 -1 24052
+D2
+~
+~
+0 -1 24059
+D3
+~
+~
+0 -1 24050
+S
+#24052
+Room #24052~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24044
+D1
+~
+~
+0 -1 24053
+D2
+~
+~
+0 -1 24060
+D3
+~
+~
+0 -1 24051
+S
+#24053
+Room #24053~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24045
+D1
+~
+~
+0 -1 24054
+D2
+~
+~
+0 -1 24061
+D3
+~
+~
+0 -1 24052
+S
+#24054
+Room #24054~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24046
+D1
+~
+~
+0 -1 24055
+D2
+~
+~
+0 -1 24062
+D3
+~
+~
+0 -1 24053
+S
+#24055
+Room #24055~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24047
+D2
+~
+~
+0 -1 24063
+D3
+~
+~
+0 -1 24054
+S
+#24056
+Room #24056~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24048
+D1
+~
+~
+0 -1 24057
+S
+#24057
+Room #24057~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24049
+D1
+~
+~
+0 -1 24058
+D3
+~
+~
+0 -1 24056
+S
+#24058
+Room #24058~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24050
+D1
+~
+~
+0 -1 24059
+D3
+~
+~
+0 -1 24057
+S
+#24059
+Room #24059~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24051
+D1
+~
+~
+0 -1 24060
+D3
+~
+~
+0 -1 24058
+S
+#24060
+Room #24060~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24052
+D1
+~
+~
+0 -1 24061
+D3
+~
+~
+0 -1 24059
+S
+#24061
+Room #24061~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24053
+D1
+~
+~
+0 -1 24062
+D3
+~
+~
+0 -1 24060
+S
+#24062
+Room #24062~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24054
+D1
+~
+~
+0 -1 24063
+D3
+~
+~
+0 -1 24061
+S
+#24063
+Room #24063~
+This description is yet unfinished...
+~
+240 0 2
+D0
+~
+~
+0 -1 24055
+D3
+~
+~
+0 -1 24062
+S
+$

@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+&GMovement:&0                          |&G Communication:&0
+NORTH SOUTH EAST WEST UP DOWN      | SAY SAYTO GSAY SHOUT HOLLER TELL CTELL ASK 
+LOOK EXITS ENTER LEAVE             | MAIL RECEIVE CHECK GOSSIP AUCTION WHISPER
+SLEEP WAKE REST SIT STAND          | NOTELL NOSHOUT NOGOSSIP NOGRATS NOAUCTION
+(LOCK UNLOCK OPEN CLOSE)           | BROADCAST CHAT NOARENA REPLAY 
+-------------------------------------------------------------------------------
+&GObjects:&0                           | &GInformation: &0
+GET DROP JUNK DONATE PUT GIVE WEAR | SCORE TOGGLE WHO GWHO PKS MKS CKS GRAPH
+HOLD THROW DIG BURY COMPARE        | PROMPT AUTO WARCRY VICTIM MOOD WORTHY
+INVENTORY EQUIPMENT REMOVE LABEL   | PRAC LEARNED INFO AC TIME WEATHER 
+EXAMINE EAT DRINK TASTE SIP POUR   | AFFECTS NEWS EQUIP SHOPS CONSIDER
+-------------------------------------------------------------------------------
+&GCombat:&0                            | &GUtility:&0
+KILL WIELD FLEE ASSIST TRACK CAST  | ! TITLE BUG IDEA TYPO QUIT SAVE BRIEF 
+CONSIDER CLEAR WARM EXTINGUISH     | DISPLAY RESIZE WIMP LEVELS NAME COMPACT
+FIRE THROW ORDER                   | NOSUMMON NOSPAM COMMANDS SOCIAL 
+-------------------------------------------------------------------------------
+Further information available by HELP <keyword>, keyword being a command or 
+(for example) one of the following:
+&cCLAN PKILL HALL INFO SPECIAL GROUP DAMAGE SPELLS SKILLS MULTI LINK AREAS STATS&0
+-------------------------------------------------------------------------------

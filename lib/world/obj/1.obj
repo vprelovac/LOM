@@ -1,0 +1,643 @@
+#100
+box~
+the small wooden box~
+A small wooden box is placed here, with some letters on it.~
+~
+12 16 0
+0 0 0 0
+0 0 0
+E
+box letters~
+This box contains teleport cards for this area. You can use it later to
+instantly teleport to this location from many teleport stations in the
+Lands like the one in the Midgaard, for example. Just type 'pull card' 
+and you'll get one.
+~
+#101
+card rome~
+the teleport card for Rome~
+The teleport card for Rome is lying here.~
+~
+27 2162696 1
+0 0 0 0
+1 0 0
+E
+card~
+It is a teleport card which will transfer you to Rome.
+~
+#102
+card drow city~
+the teleport card for Drow city~
+The teleport card for Drow city is lying here.~
+~
+27 2162696 1
+0 0 0 0
+1 0 0
+E
+card~
+It is a teleport card which will transfer you to Drow city.
+~
+#103
+card new thalos~
+the teleport card for New Thalos~
+The teleport card for New Thalos is lying here.~
+~
+27 2162696 1
+0 0 0 0
+1 0 0
+E
+card~
+It is a teleport card which will transfer you to New Thalos.
+~
+#104
+blue rune~
+a blue rune~
+A blue rune is on the ground here.~
+undefined~
+29 75 1
+0 0 0 0
+2 0 0
+#105
+red rune~
+a red rune~
+A red rune is on the ground here.~
+undefined~
+29 75 1
+0 0 0 0
+2 0 0
+#106
+green rune~
+a green rune~
+A green rune is on the ground here.~
+undefined~
+29 75 1
+0 0 0 0
+2 0 0
+#107
+potion blazing~
+a blazing potion~
+A blazing potion is on the ground here.~
+undefined~
+10 3 1
+50 81 106 104
+0 0 0
+#108
+ring sglup~
+a ring of magi power~
+A shining ring is here.~
+undefined~
+11 2097217 3
+0 0 0 0
+2 0 0
+A
+12 200
+#109
+ring~
+a wedding ring~
+A beatiful wedding ring lies here.~
+undefined~
+11 0 3
+0 0 0 0
+0 0 0
+A
+6 5
+A
+17 -20
+#110
+hammer~
+Golden Warhammer~
+A beautiful hammer lies here with a strange symbol on it.~
+undefined~
+5 323 8193
+100 100 20 5
+20 1 0
+A
+18 1000
+A
+19 1000
+F
+2014577812 0 0
+#111
+ring heroism~
+a blazing ring of heroism~
+A blazing ring is left here.~
+undefined~
+11 2097411 3
+100 100 20 5
+1 0 0
+A
+18 10
+A
+19 10
+#112
+bog~
+the BOG~
+Soemthing unseemingly powerful lies here.~
+undefined~
+5 131331 8193
+100 100 20 5
+60 0 0
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+18 50
+A
+19 50
+A
+17 -500
+F
+2014314624 0 0
+#113
+bog~
+the BOG~
+Soemthing unseemingly powerful lies here.~
+undefined~
+5 131331 8193
+100 100 20 5
+60 0 0
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+18 50
+A
+19 50
+A
+17 -500
+F
+2014314624 0 0
+#114
+valaya wraith~
+Wraith of Valaya~
+A hammer is lies here, looking so cute, godly cute.~
+undefined~
+5 1152573699 8193
+1001 5000 1 6
+1 0 0
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+19 500
+A
+18 500
+A
+10 1500
+F
+2014314624 0 0
+#115
+ring~
+the Curse of Hendel~
+Something that might have been a ring once lies here.~
+undefined~
+9 387 3
+20 0 0 0
+1 0 0
+A
+6 5
+#116
+blue rune~
+a blue rune~
+A blue rune is on the ground here.~
+undefined~
+29 75 1
+0 0 0 0
+2 0 0
+#117
+blue rune~
+a blue rune~
+A blue rune is on the ground here.~
+undefined~
+29 75 1
+0 0 0 0
+2 0 0
+#118
+blue rune~
+a blue rune~
+A blue rune is on the ground here.~
+undefined~
+29 75 1
+0 0 0 0
+2 0 0
+#119
+blue rune~
+a blue rune~
+A blue rune is on the ground here.~
+undefined~
+29 75 1
+0 0 0 0
+2 0 0
+#120
+letter valaya~
+letter named "Valaya"~
+You see a letter in the corner with "Valaya" written all over it.~
+undefined~
+16 0 0
+0 0 0 0
+2 0 0
+E
+letter valaya~
+
+10.00 PM 
+I am walking along the path in Haon-Dor forest. I think only of IT. IT
+is very strong and I am filled with desire to go there again. I had a lots of 
+problems in my life but this is too much. The power of IT is even too strong 
+for me... i just hope that Valaya will have the power to destoy it. I don't
+want to think what would happend if I'm wrong.
+
+12.00 PM
+It's dark in here... I keep hear voices of druids calling me... I can
+feel them near me.... they will get me... I just hope that IT wont be lost.
+I'm spending my valuable time to write this in case I don't reach Midgaard.
+Then, I'll hope, this letter will find it's way to Valaya's hands. Just then
+I wont be sad, 'couse my life is traded for the lives of all beings....
+
+13.00 PM
+They got me!!! They are taking me to the altar. I tried but I couln't
+let go of IT. IT was too strong. I don't care about my life anymore. I'll die
+but they shell not have IT!!! I'll eat IT instead... I hope Valaya will save
+the world when I'm gone...
+~
+#121
+altar~
+altar~
+A great alter rises in front of you. There is a huge statue mouted on it. It represents a Khorne, the Chaos blood god. It's eyes glow in the strange maner. There are some parts of the half eathen corpse on the altar.~
+undefined~
+26 1149300801 0
+0 0 0 0
+2000 0 0
+E
+eye eyes statue~
+The eyes of the deamon are glowing red. You remember the stories about 
+road to west and a guardian knight who had a beast pet. The description
+of beast's eyes were something that your mother used to tell you when 
+you were just a little kid. These eyes were the same. You can feel it's 
+whispers going around your head and stabing into your mind. A strange feeling 
+flooded your body... Suddenly you can see Valaya's face in your mind, and new
+strength helpes you to turn your head away.
+~
+E
+corpse~
+Semi eaten corpse lies there. You can see that it's hand is in the strange
+position. As you move it's hand you see inscription written with the blood 
+of the victim. 
+
+They took IT. I tried to stop them buy I was too weak. They took it away.
+I hope that anyone will read this. You must stop them from taking IT to 
+the Kerjim. STOP THEM!!!...."
+
+This wrote Alt Silverhand as he dies...
+~
+F
+270532608 0 0
+#122
+khorne mark armour~
+mark of Khorne~
+Dark armour lies here. Across it's plate it is written KHORNE.~
+undefined~
+9 60895808 9
+25 0 0 0
+30 1000000 0
+A
+19 10
+A
+18 10
+A
+5 2
+A
+24 -20
+F
+8192 0 0
+#123
+valaya mark armour~
+mark of Valaya~
+Shining armour blessed with the power of Valaya lies here.~
+undefined~
+9 35717200 9
+25 0 0 0
+2 0 0
+A
+3 2
+A
+6 2
+A
+4 2
+A
+12 100
+A
+25 20
+F
+4096 0 0
+#124
+dark ring~
+the ring of destruction~
+Dark, too dark ring is here calling for you...~
+undefined~
+9 35913928 3
+200 0 0 0
+2 0 0
+A
+18 100
+A
+19 100
+A
+13 500
+A
+12 500
+A
+8 -30
+A
+7 5
+F
+18945 0 0
+#125
+skull chest~
+a skull chest~
+A white skull chest with a large keyhole lies here firmly on the ground.~
+undefined~
+15 67 0
+2000 15 126 0
+1000 0 0
+E
+chest~
+The chest is made of polished white skull of Great Dark Minotaur.
+There is a message engraved on it. It says:
+
+How dare you to even look at this chest. Don't you known that it
+carries THE most powerfull item in the world. Don't even think of 
+wearing it... Only the immortals have that power. If you even look at
+IT, I shell be forced to hunt you down and kill you in a cold blood.
+You can't even find the key to it becouse she will not let you have it.
+The keyhole is sealed by me and should not be opened by a mortal.
+
+Lord Kerjim
+~
+E
+hole keyhole~
+This is a very large keyhole. It is glowing with a soft light. 
+Around it you can see circular pattern whit inscription:
+
+She wont care about your cry,
+She can charm you with a smile.
+She'll play with you just like a toy
+She's a mother of the golden boy.
+~
+#126
+skull key~
+a skull key~
+A skull key lies here.~
+~
+18 67 1
+0 0 0 0
+50 0 0
+#127
+belt flash~
+a belt of flash~
+A belt lies here, fastly vibrating.~
+undefined~
+11 18874432 2049
+0 0 0 0
+20 0 0
+A
+18 10
+A
+19 -10
+A
+10 -50
+A
+2 3
+A
+14 100
+F
+64 0 0
+#128
+feamor present birthday~
+Feamor's birthday present~
+A small package is here with Feamor's name on it.~
+undefined~
+4 18874432 16385
+40 20 20 27
+1 0 0
+E
+feamor present~
+You see a small parcel tied with a blue ribbon. "SUPRISE"
+~
+A
+12 50
+A
+6 5
+A
+25 5
+F
+33562624 0 0
+#129
+feamor present birthday~
+Feamor's birthday present~
+A small package is here with Feamor's name on it.~
+undefined~
+4 18874432 16385
+40 20 20 27
+1 0 0
+E
+feamor present~
+You see a small parcel tied with a blue ribbon. "SUPRISE"
+~
+A
+12 50
+A
+6 5
+A
+25 5
+F
+33562624 0 0
+#130
+feamor present birthday~
+Feamor's birthday present~
+A small package is here with Feamor's name on it.~
+undefined~
+4 18874432 16385
+40 20 20 27
+1 0 0
+E
+feamor present~
+You see a small parcel tied with a blue ribbon. "SUPRISE"
+~
+A
+12 50
+A
+6 5
+A
+25 5
+F
+33562624 0 0
+#131
+feamor present birthday~
+Feamor's birthday present~
+A small package is here with Feamor's name on it.~
+undefined~
+4 18874432 16385
+40 20 20 27
+1 0 0
+E
+feamor present~
+You see a small parcel tied with a blue ribbon. "SUPRISE"
+~
+A
+12 50
+A
+6 5
+A
+25 5
+F
+33562624 0 0
+#132
+feamor present birthday~
+Feamor's birthday present~
+A small package is here with Feamor's name on it.~
+undefined~
+4 18874432 16385
+40 20 20 27
+1 0 0
+E
+feamor present~
+You see a small parcel tied with a blue ribbon. "SUPRISE"
+~
+A
+12 50
+A
+6 5
+A
+25 5
+F
+33562624 0 0
+#133
+feamor present birthday~
+Feamor's birthday present~
+A small package is here with Feamor's name on it.~
+undefined~
+4 18874432 16385
+40 20 20 27
+1 0 0
+E
+feamor present~
+You see a small parcel tied with a blue ribbon. "SUPRISE"
+~
+A
+12 50
+A
+6 5
+A
+25 5
+F
+33562624 0 0
+#134
+armor~
+the Stygian battle armor~
+Powerfull looking plate is here shimering on a morning sun.~
+undefined~
+9 18874432 9
+-100 0 0 0
+50 100000000 0
+E
+feamor present~
+You see a small parcel tied with a blue ribbon. "SUPRISE"
+~
+A
+17 -500
+A
+18 100
+A
+19 100
+A
+25 100
+F
+1074790528 0 0
+#135
+sword steel~
+a Sword of Steel~
+A dark sword lies here glowing softly in the dark.~
+undefined~
+5 67 8193
+10 10 10 3
+20 0 0
+E
+feamor present~
+You see a small parcel tied with a blue ribbon. "SUPRISE"
+~
+A
+18 10
+A
+19 10
+A
+25 5
+A
+1 2
+A
+2 2
+#136
+axe~
+a Battle Axe~
+An enormous piece of metal shimmers on the ground.~
+undefined~
+5 258 8193
+10 8 10 3
+30 0 0
+E
+feamor present~
+You see a small parcel tied with a blue ribbon. "SUPRISE"
+~
+A
+19 10
+A
+1 3
+A
+18 3
+A
+10 50
+#137
+club~
+a Spiked Club~
+Long piece of finest wood lies here.~
+undefined~
+5 2 8193
+10 8 9 7
+5 0 0
+E
+feamor present~
+You see a small parcel tied with a blue ribbon. "SUPRISE"
+~
+A
+2 3
+A
+18 10
+A
+19 5
+#138
+hammer~
+a Great Hammer of War~
+Mighty hammer lies on the ground waiting for a head to smash.~
+undefined~
+5 16777280 8193
+10 10 9 7
+25 0 0
+E
+feamor present~
+You see a small parcel tied with a blue ribbon. "SUPRISE"
+~
+A
+18 10
+A
+19 10
+A
+25 5
+$~

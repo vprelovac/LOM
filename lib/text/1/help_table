@@ -1,0 +1,3448 @@
+! ] ^
+
+Use ! or ] to repeat the last command typed at the keyboard. Use !<text> to 
+append your last command with <text> and repeat it.
+
+Use ^ to replace a string from the last command with a new string.  The
+syntax is the same as in csh: "^old-string^replacement"  For example:
+
+> tell rasmusse Hi there, how are you?
+No-one by that name here.
+
+> ^rasmusse^rasmussen
+You tell Rasmussen, 'Hi there, how are you?'
+
+> ^you^you doing^
+You tell Rasmussen, 'Hi there, how are you doing?'
+
+>! tonight?
+You tell Rasmussen, 'Hi there, how are you doing tonight?'
+
+See also: ALIAS
+#
+!AUTOQUEST
+
+#
+!BET
+
+#
+!BROADCAST
+
+#
+"CLERIC ABILITES"
+
+Clerics can learn the following prayers to:
+
+&P   Heal and protect            Fight enemies               Help your quest&w
+
+&c 1&w Cure                     &c 9&w Punishment               &c 5&w Sense Alignment      
+&c 2&w Minor Protection         &c13&w Dispel Evil              &c 7&w Quench Thirst            
+&c10&w Protection               &c17&w Spiritual Hammer         &c 8&w Sate Hunger              
+&c15&w Heal                     &c24&w Judgment                 &c11&w Illumination             
+&c20&w Major Protection         &c28&w Smite Evil               &c14&w Sense Life                                  
+&c25&w Sanctuary                &c31&w Hammer of Justice        &c16&w Recall          
+&c30&w Greater Protection       &c38&w Rapture                  &c18&w Peace                    
+&c33&w Invigorate               &c42&w Wrath of God             &c19&w Summon                   
+&c40&w Divine Protection        &c46&w Divine Intervention      &c21&w Voice of Truth           
+&c41&w Invigorate All                                       &c22&w Visions                  
+&c45&w Miracle                                              &c23&w Rejuvenate      
+                                                        &c26&w Blinding Light  
+                                                        &c27&w Inspiration     
+                                                        &c29&w Spiritual Asylum
+                                                        &c32&w Revelation                      
+                                                        &c34&w Guiding Light   
+                                                        &c35&w Divine Presence          
+                                                        &c36&w Retrieve Corpse   
+                                                        &c37&w True Seeing     
+                                                        &c39&w Summon Avatar        
+                                                        &c43&w Ressurection      
+                                                        &c48&w Wish
+&0
+#
+"CLERIC ABILITIES OLD"
+
+&P    Heal and protect            Fight enemies           Help your quest&w                                                                          
+                                                                        
+&c 1:&w  Cure                           &0-&w                       &0-&w  
+&c 2:&w  Minor Protection               &0-&w                       &0-&w  
+&c 5:&w      &0-&w                          &0-&w                   Sense Alignment  
+&c 7:&w      &0-&w                          &0-&w                   Quench Thirst
+&c 8:&w      &0-&w                          &0-&w                   Sate Hunger
+&c 9:&w      &0-&w                      Punishment                  &0-&w
+&c10:&w  Protection                     &0-&w                       &0-&w
+&c11:&w      &0-&w                          &0-&w                   Illumination
+&c13:&w      &0-&w                      Dispel Evil                 &0-&w
+&c14:&w      &0-&w                          &0-&w                   Sense Life
+&c15:&w  Heal                           &0-&w                       &0-&w
+&c16:&w      &0-&w                          &0-&w                   Recall
+&c17:&w      &0-&w                      Spiritual Hammer            &0-&w
+&c18:&w      &0-&w                          &0-&w                   Peace
+&c19:&w      &0-&w                          &0-&w                   Summon
+&c20:&w  Major Protection               &0-&w                       &0-&w
+&c21:&w      &0-&w                          &0-&w                   Voice of Truth
+&c22:&w      &0-&w                          &0-&w                   Visions
+&c23:&w      &0-&w                          &0-&w                   Rejuvenate
+&c24:&w      &0-&w                      Judgment                    &0-&w
+&c25:&w  Sanctuary                      &0-&w                       &0-&w
+&c26:&w      &0-&w                          &0-&w                   Blinding Light
+&c27:&w      &0-&w                          &0-&w                   Inspiration
+&c28:&w      &0-&w                      Smite Evil                  &0-&w
+&c29:&w      &0-&w                          &0-&w                   Spiritual Asylum
+&c30:&w  Greater Protection             &0-&w                       &0-&w
+&c31:&w      &0-&w                      Hammer of Justice           &0-&w
+&c32:&w      &0-&w                          &0-&w                   Revelation
+&c33:&w  Invigorate                     &0-&w                       &0-&w
+&c34:&w      &0-&w                          &0-&w                   Guiding Light
+&c35:&w      &0-&w                          &0-&w                   Divine Presence
+&c36:&w      &0-&w                          &0-&w                   Retrieve Corpse
+&c37:&w      &0-&w                          &0-&w                   True Seeing
+&c38:&w      &0-&w                      Rapture                     &0-&w
+&c39:&w      &0-&w                          &0-&w                   Summon Avatar
+&c40:&w  Divine Protection              &0-&w                       &0-&w
+&c41:&w  Invigorate All                 &0-&w                       &0-&w
+&c42:&w      &0-&w                      Wrath of God                &0-&w
+&c43:&w      &0-&w                          &0-&w                   Ressurection
+&c45:&w  Miracle                        &0-&w                       &0-&w
+&c46:&w      &0-&w                      Divine Intervention         &0-&w 
+&c48:&w      &0-&w                          &0-&w                   Wish
+&0                                                                  
+#
+"DIRTY TRICKS"
+
+These are set of skills, known only to skilled assassins. There are only two
+ways to learn about them - practice them yourself, or let an assassin
+demonstrate you (tip: you want the first way).
+#
+"MAGIC USER" MAGE
+
+   The User of Magic is an intelligent individual, in perpetual striving
+to uncover forgotten lore and learn to channel new, more powerful
+energies.  The Magic User, or Mage, channels the untapped mystical
+energies of the universe through a procedure called 'casting'.
+
+   The mysterious arcane knowledge that these persons wield is         
+frightening.  At the outset, these people may not seem to present a    
+challenge for a good sword or a stout club, but as their studies grow, 
+they have been found to be formidable opponents.                      
+The following skills and multi spells are available to magi:
+
+Level    Skill                        Level    Multi Spell
+----------------------------          -------------------------------------
+1       Fillet                        15      RAY OF DISRUPTION
+        Cook                          20      MATERIALIZE
+        Scribe                                PRISMATIC SPHERE
+22      Spell Recovery                25      ULTRA DAMAGE
+30      Shield Block
+32      Quick Chant
+45      Greater enchant
+
+The following spells are available to magi:
+Level    Spell                         Level    Spell
+---------------------------------------------------------------------------
+1 : Magic missile                      22: Recharge, Gate
+2 : Infravision                        23: Haste, Mass sleep
+3 : Chill touch                        24: Fire shield
+4 : Invisibility, Faerie fire          25: Acid blast, Mass charm
+5 : Armor, Burning hands               26: Enchant armor, Enchant weapon
+6 : Strength, Detect invisibility      27: Mirror image 
+7 : Detect magic, Shocking grasp       28: Gust of wind
+8 : Blindness                          29: Magical protection
+9 : Fly, Lightning bolt                30: Dispel magic
+10: Control weather, Locate object     31: Meteor swarm
+11: Color spray, Sense life            32: Slow
+12: Curse, Fortress                    33: Intesify
+13: Mystic shield, Faerie fog          34: Clairvoyance
+14: Sleep, Local teleport              35: Portal
+15: Fireball, Identify                 36: Summon ancient dragon
+16: Group invisibility, Weaken         37: Group fire shield
+17: Stoneskin, Teleport                38: Shroud of obscurement
+18: Charm person, Waterbreathe         39: Clone
+19: Locate creature, Giant strength    40: -
+20: Wraithform, Web                    41: Disintigrate
+21: Death dance, Blink                 47: Equinox
+
+See also: MULTI, DRUID, CLERIC, PRACTICE
+#
+"TAO"
+
+Tao is the most misterious of all monks. His origin is unknown, but the
+rumors say that he is the son of Snow Queen and the White Dragon. Thus he
+has the power of Dragons and has the quickness of Snow Queen.
+He is very thin, and has long arms and long brown hair. But, don't let his
+appereance fool you, cause he is hiding the forces and powers to you
+unknown and is able to kill a Black Dragon with single punch!
+In Lands of Myst he is also known as the Snow King!
+
+#
+"THIEF ABILITIES OLD"  
+
+                                                 
+    &POffensive             Defensive             Utility                Traps&0 
+    &p---------             ---------             -------                -----&0
+    
+&c1 :&w Backstab                  &0-&w                     &0-&w             
+&c4 :&w     &0-&w                     &0-&w                 Steal             
+&c6 :&w     &0-&w                     &0-&w                 Sneak             
+&c7 :&w Second attack             &0-&w                     &0-&w             
+&c9 :&w     &0-&w                     &0-&w                 Spy                      &y???&0
+&c10:&w     &0-&w                     &0-&w                 Pick lock         
+&c11:&w     &0-&w                 Duck                  Hide              
+&c12:&w Trip                      &0-&w                 Peek                     &y???&0 
+&c13:&w     &0-&w                     &0-&w                 Track             
+&c14:&w Throw dagger              &0-&w                 Spot traps
+&c15:&w     &0-&w                     &0-&w                    &y???&0                   &y???&0
+&c16:&w Circle backstab           &0-&w                 Move hidden
+&c17:&w     &0-&w                     &0-&w                 Haggle            
+&c18:&w     &0-&w                     &0-&w                    &y???&0                   &y???&0  
+&c19:&w     &0-&w                     &0-&w                 Blind Fighting
+&c20:&w Dual wield                &0-&w                    &y???&0
+&c21:&w     &0-&w                 Dodge mastery         Scare                    &y???&0 
+&c22:&w    &y???&w                    &0-&w                 Eavesdrop             
+&c23:&w     &0-&w                     &0-&w                 Escape            
+&c24:&w     &0-&w                     &0-&w                 Listen                   &y???&0         
+&c25:&w Ambush                    &0-&w                 Improved steal                    
+&c26:&w     &0-&w                     &0-&w                 Hunt            
+&c27:&w Third attack              &0-&w                     &0-&w                    &y???&0
+&c28:&w     &0-&w                 Distract                 &y???&w        
+&c29:&w Dance of daggers          &0-&w                    &y???&w
+&c30:&w     &0-&w                     &0-&w                 Forge                    &y???&0
+&c32:&w Dual backstab             &0-&w                     &0-&w             
+&c33:&w     &0-&w                     &0-&w                    &y???&0                   &y???&0
+&c34:&w     &0-&w                     &0-&w                 Gouge                
+&c36:&w     &0-&w                     &0-&w                     &0-&w                    &y???&0
+&c37:&w Dual circle               &0-&w                     &0-&w                      
+&c38:&w     &0-&w                 Tumble                    &0-&w     
+&c39:&w Assassinate               &0-&w                     &0-&w                    &y???&0  
+&c40:&w     &0-&w                     &0-&w                 Stun 
+&c42:&w    &y???&0                    &0-&w                     &0-&w
+
+&0"&y???&0" represent special thief "&ydirty tricks&0" skills.
+#
+"THIEF ABILITIES"                                                     
+
+Thief can master the following abilities:
+
+   &POffensive                Defensive              Utility               Traps&0 
+
+ &c1&w Backstab              &c11&w Duck                 &c4&w Steal               &c9&w &y???&w
+ &c7&w Second Attack         &c14&w Lodge                &c6&w Sneak              &c12&w &y???&w
+&c12&w Trip                  &c21&w Dodge Mastery        &c9&w Spy                &c15&w &y???&w
+&c14&w Throw Dagger          &c28&w Distract            &c10&w Pick Lock          &c18&w &y???&w
+&c16&w Circle Backstab       &c38&w Tumble              &c11&w Hide               &c21&w &y???&w
+&c20&w Dual Wield                                   &c12&w Peek               &c24&w &y???&w
+&c22&w &y???&w                                          &c13&w Track              &c27&w &y???&w
+&c25&w Ambush                                       &c14&w Spot Traps         &c30&w &y???&w
+&c27&w Third Attack                                 &c15&w &y???&w                &c33&w &y???&w
+&c29&w Dance of Daggers                             &c16&w Move Hidden        &c36&w &y???&w
+&c32&w Dual Backstab                                &c17&w Haggle             &c39&w &y???&w
+&c37&w Dual Circle                                  &c18&w &y???&w
+&c39&w Assassinate                                  &c19&w Blind Fighting
+&c42&w &y???&w                                          &c20&w &y???&w 
+                                                &c21&w &y???&w
+                                                &c22&w Eavesdrop
+                                                &c23&w Escape
+                                                &c24&w Listen
+                                                &c25&w Steal Mastery
+                                                &c26&w Hunt
+                                                &c28&w &y???&w
+                                                &c29&w &y???&w
+                                                &c30&w Forge
+                                                &c33&w &y???&w
+                                                &c34&w Gouge
+                                                &c40&w Stun
+                                                
+&0"&y???&0" represent secret "&ydirty tricks&0".                      
+This table may be incorrect - use 'skills' command to get your skills.
+#
+"TWISTER"
+
+  He was met at the gate of Hades by the Guardian of the Lost Souls,
+  The Keeper of the Unavenged and He did say to him: "Let you not pass
+  abandon, return to the world from once you came and seek payment not
+  only for thy known anguish but to vindicate the souls of the Unavenged"
+  And they placed in his hands a sword made for him called: Vengeance
+  forged in brimstone and tempered by the Wolf in tears of the Unavenged
+  And to carry him up on his journey back to the upper world they brought
+  forth their Demon horse called: Black Death a grim steed so fiercely
+  might and black in colour that he could stand as one: Darkness... save
+  from his burning eyes of grims and fire...
+  And on that night they rode up from Hell, the pounding of his hooves
+  did clap like thunder!
+
+#
+"WARRIOR ABILITIES OLD
+
+                                 
+    &POffensive                  Defensive                  Practical&0 
+    &p---------                  ---------                  ---------&0 
+
+&c2 :&w Kick                           &0-&w                          &0-&w
+&c5 :&w Bash                           &0-&w                          &0-&w
+&c8 :&w     &0-&w                          &0-&w                      Rescue
+&c10:&w Second attack                  &0-&w                          &0-&w
+&c12:&w Combat tactics                 &0-&w                          &0-&w
+&c13:&w     &0-&w                          &0-&w                      Grip
+&c15:&w Dual wield                     &0-&w                          &0-&w
+&c16:&w Lunge                          &0-&w                          &0-&w      
+&c17:&w     &0-&w                          &0-&w                      Switch
+&c18:&w Gut                            &0-&w                          &0-&w	
+&c19:&w Power Kick                     &0-&w                          &0-&w	
+&c20:&w Third attack                   &0-&w                          &0-&w
+&c21:&w     &0-&w                      Shield mastery                 &0-&w	
+&c22:&w Charge                         &0-&w                          &0-&w
+&c23:&w     &0-&w                          &0-&w                      Leadership       
+&c24:&w     &0-&w                          &0-&w                      Battlecry 
+&c25:&w     &0-&w                          &0-&w                      Bashdoor
+&c26:&w Feint                          &0-&w                          &0-&w      
+&c27:&w     &0-&w                          &0-&w                      Disarm
+&c28:&w Archirage                      &0-&w                          &0-&w
+&c30:&w Second dual attack             &0-&w                          &0-&w
+&c31:&w     &0-&w                      Art of combat                  &0-&w      
+&c32:&w Berserk                        &0-&w                          &0-&w  
+&c33:&w Counterstrike                  &0-&w                          &0-&w
+&c34:&w     &0-&w                          &0-&w                      Forge
+&c35:&w     &0-&w                          &0-&w                      Knockout	
+&c36:&w Melee                          &0-&w                          &0-&w
+&c38:&w     &0-&w                          &0-&w                      Guard
+&c39:&w Fourth attack                  &0-&w                          &0-&w
+&c42:&w Behead                         &0-&w                          &0-&w
+&c43:&w     &0-&w                      Sixth sense                    &0-&w	
+&c45:&w     &0-&w                          &0-&w                      Fame&0
+#
+"WARRIOR ABILITIES"
+
+Warriors can learn following skills:
+
+  &P Offensive                  Defensive                  Other&0
+     
+ &c2&w Kick                    &c21&w Shield Mastery           &c8&w Rescue
+ &c5&w Bash                    &c23&w Combat Jump             &c12&w Enhanced Damage
+&c10&w Second Attack           &c29&w Ground Control          &c13&w Grip      
+&c15&w Dual Wield              &c31&w Art of Combat           &c19&w Bashdoor                    
+&c16&w Lunge                                              &c24&w Battlecry  
+&c17&w Counterstrike                                      &c25&w Feint      
+&c18&w Gut                                                &c26&w Push, Drag      
+&c20&w Third Attack                                       &c27&w Disarm     
+&c22&w Charge                                             &c34&w Forge      
+&c23&w Power Kick                                         &c35&w Knockout   
+&c28&w Archirage                                          &c37&w Leadership 
+&c30&w Second Dual Attack                                 &c38&w Guard      
+&c32&w Berserk                                            &c43&w Sixth Sense    
+&c33&w Headbutt                                           &c45&w Fame       
+&c36&w Melee             
+&c39&w Fourth Attack     
+&c42&w Behead                                                                    
+&0
+
+This table may be incorrect - use 'skills' command to get your skills.
+#
+/ PRIVATE POPEN PCLOSE PADD PREMOVE PWHO
+
+LOM supports so called private-channels. You can open one with 'popen'.
+You can then add people to it with 'padd' and remove them with 'premove'. Use
+'private' or '/' to communicate. You can also type 'phelp' to get a brief help
+on commands. 
+#
+=
+
+   Typing '=' will clear the input buffer of all pending commands.  You will
+still be subject to any spell/command delays from the command currently being
+processed.
+
+See also: FLEE
+#
+AC
+
+AC means armor class. The greater it is the more damage is your armor
+absorbing.
+
+See also:  SCORE
+#
+ACTION ABORT
+
+Use 'abort' command to abort currently performed action (like wearing 
+objects, reciting scroll).
+#
+AFFECTS
+
+This command will show what spells are currently affecting you together 
+with the time the affect will remain.
+
+
+See also: PROMPT, DISPLAY, RESIZE
+#
+AFK
+
+This command will put you AFK (Away From Keyboard). Type AFK again to 
+return. 
+While AFK you wont receive any tells.
+#
+ALIAS ALIASES
+
+An alias is a single command used to represent one or more other commands.
+The ALIAS command can be used to manipulate your character's aliases.  Type
+ALIAS alone to see a list of your currently defined aliases.
+
+> alias
+
+Type ALIAS <alias name> <command> to create a new alias.  The alias name 
+must be one word.  The command can be any string.  Aliases may not be 
+nested or used recursively.  Any command may be overriden by an alias 
+(other than the ALIAS command itself, of course).
+
+> alias gbb get bread bag
+> alias gac get all corpse
+
+Type ALIAS <alias-name> to delete an alias that has already been defined.
+
+> alias gbb
+
+A semicolon (";") can be used to define multiple actions to be taken with
+a single alias.
+
+> alias eat get bread bag; eat bread
+
+Note that the 'eat' contained within the eat alias is interpreted as the 
+MUD's internal eat command; aliases may not be nested or used recursively. 
+The variables $1, $2, ... $9 may be used to represent arguments given with
+an alias.  For example:
+
+> alias killem cast 'fireball' $1; cast 'harm' $2
+> killem fido mage
+
+Would cast fireball on fido, followed by casting harm on mage.  Variables
+may be used repeatedly and in any order:
+
+> alias helpem cast 'heal' $1; cast 'bless' $1; cast 'armor' $1
+
+The special variable $* represents the entire input line after an alias:
+
+> alias tr tell rasmussen $*
+> tr hi there, how are you today?
+You tell Rasmussen, 'hi there, how are you today?'
+
+See also:  ! ^
+#
+ALIGNMENT
+
+Alignment ranges:
+
+Evil Incarnate
+Demonic
+Evil
+Nasty
+Naughty
+Neutral
+Nice
+Helpful
+Good
+Saintly   
+God's child
+#
+ANGALOT
+
+The History of Angalot, Heroic Druid from the Rain Forest
+
+        Many tales of brave and heroic adventurers are told in these days
+of thunder. Many tales of struggle for prevail, of treason, of stealth,
+murder and sinister plans; but also, stories about strong, brave, 
+courageous, and wise ones, those who use the power of their arms and their
+minds to ruthlessly fight against evil forces that threaten to eternally
+darken the skies above and souls within.
+        These tales are told among the common people, and a-many of them
+is about one powerful adventurer who fights his way through the cruel
+world, seeking for vengeance upon those who made him suffer. But one story
+is different of all others; it is told with upper delight and with strange
+glinting in the eye, as the character the tale is about is a young and
+brave female.
+        Once upon a time, there was a small village of gnomes who lived
+their merry lives on the edge of a little forest. They were foragers,
+lived peacefully and had almost no idea about the meaning of the incoming
+news (which weren't many) about the threat that has started to spread
+along the country.
+It has happened that a troup of savage Orcs was passing near their village
+while on a scouting assignment. Gnomes spotted them and, frightened by
+their ugly faces, foul stench and big swords, and since they never have
+seen anything like them before, thought that Orcs were on their way to
+slay them.
+Mothers began to run with their children in their arms and with fear in
+their eyes, while males stood before the village, trembling, with wooden
+clubs in their hands.
+Orcs were ruthless and longed for battle, so they slaughtered the entire
+village, both men and women, elders and children. Nobody had survived to
+warn about the incoming enemy troops.
+Actually, there was one survivor, a small baby, a girl named Rineltha.
+She would have died there, alone in the forest, in the pool of blood of
+her dead mother, if it wasn't for a pair of elves who were friends with
+her village and lived nearby. They heard the sounds of battle, and
+mourning of wounded, and silence, and they set out to see if there were
+any survivors. And they found Rineltha there, at the very brink of her
+life...
+
+        Rineltha grew in a nice family, surrounded by love and in direct
+contact with Nature. Her foster-parents named her "Angalot", meaning "iron
+flower" in high-elven. She grew more beautiful and wise as the years
+passed; when, on her 17th birthday, her parents told her everything they
+knew about her. Determined as she was, she told them goodbye, as they were
+afraid she will do, took a few of her belongings she thought she might use
+in the cold outside world and set out to seek revenge...
+          
+#
+ANSI COLOR
+
+If you have a color-capable terminal and wish to see useful color-coding
+of information, use the COLOR command to set the level of coloring you see.
+
+> color off
+This command disables all color.
+
+> color on
+This command enables colors.
+
+You can use these color codes in your PROMPT or in your TITLE:
+Color sequence starts with the & character (SHIFT+7) followed by a
+color code. Color codes are given below.
+                                            
+Using color will slow down the speed at which you see messages VERY 
+slightly. The effect is more noticable on slower connections.  Even if you 
+have color turned on, non-colorized messages will not be slowed down at 
+all.
+
+Color codes:
+
+l - &l Black&0
+r - &r Red&0
+g - &g Green&0
+y - &y Yellow &0
+b - &b Blue     &0
+p - &p Purple (magenta)&0
+c - &c Cyan&0
+w - &w White (looks grey in normal terminals, use W &Wfor white)&0
+0 - &0 Turn the color off&0
+You can use big letters for BOLD variants (eg. G is &Gbold green&0).
+
+Other special codes:
+u - &u Underline (on Xterminals)
+f - &f Flashing text (on normal terminals)
+v - &v Reverse mode&0
+
+
+See also: COLORSPRAY
+#
+AREAS ZONE WORLD
+
+Use the 'areas' command instead.
+
+See Also: MIDGAARD
+#
+ARENA CTF
+
+Lands of Myst MUD features a fully funcional "Capture the Flag" arena. The
+rules are simple: Players join two teams (RED and BLUE) after the arena has
+been opened.  Players are then randomly thrown into the arena maze, ready to
+begin with the game. Each team has it's base; RED Team base is always in the
+north-west corner, BLUE Team base is in the south-east corner. RED and BLUE
+flags are randomly placed in the maze. RED team's job is to capture the BLUE
+flag, by bringing it to RED base and typing 'capture' (and vice-versa for
+the blue team. If a player dies, he/she will be transfered to a random
+location in arena, and fully restored while keeping all the equpment he/she
+had. Scoring:
+- Killing an enemy team member counts 1 point
+- Capturing enemy flag counts 5 points
+
+Winner is the team with higher score after the arena closes.
+
+Players may use 'teamtell' command (shortcut is '', just left of number 1 on
+keyboard) to talk to their team members.
+
+usage of ctf command (which starts the arena):
+ctf lo hi delay cost length | standard
+lo - min level allowed in arena
+hi - maximum level allowed in arena
+delay - time in mud hours before arena starts
+cost - (100-1000) relative cost in coins and quest points to enter arena
+length - arena length in mud hours
+
+using option 'standard' will invoke this configuration:
+lo: 7
+hi: 50
+delay: 3
+cost: 100
+length: 15
+
+NOTICE:
+There must be at least 4 players (two on both sides) to start the arena.
+#
+ASSASSIN HIRE
+
+You can hire assassins for a certain amount of money to do a "job" for you.
+You must first seek for a assassin's hideout (there is one in the Zoo for 
+example). When in there, type 'list' to get a list of mercenaries and then 
+hire <assassin> <victim> to arrange a job. Victim is a player visible to 
+you.
+
+#
+ASSIST
+
+Usage: ASSIST <person in need>
+
+If Quifael is being beaten senseless by a warg and you feel brave enough
+to help him, type ASSIST QUIFAEL to hit the warg.  Note that the warg will
+keep hitting Quifael; assist only makes you start to fight whomever you're
+trying to assist.
+
+> assist quifael
+
+See also:  RESCUE, FLEE
+#
+AUTO AUTOEXIT AUTODIR AUTOSAC AUTOLOOT AUTOSPLIT AUTOGRAT AUTOASSIST AUTOSCAN AUTOMAP AUTOSAVE
+
+AUTOEXIT shows a verbose list of available exits at your location.
+AUTODIR shows you a brief list of exits that are available at your location.
+AUTOSAC allows you to perform the ritual of corpse sacrifice, which will 
+disintegrate the dead body of your victim and allow the goodies contained 
+within to spill out onto the floor.
+AUTOLOOT will allow you to get all the items from your victim when it dies.
+AUTOSPLIT will split the looted coins among the members of your GROUP.
+AUTOGRAT will congratulate when some player gains a level. 
+AUTOASSIST will determine if you'll autoassist your group leader when he/she 
+attacks. If you are head of a group it will determine will your pets 
+autoassist you.
+AUTOSCAN will make you scan whenever you move into a new location.
+AUTOMAP shows you a graphical map of your surroundings.
+AUTOSAVE will automatically save your character every three minutes.
+
+You can turn everything on by typing auto all, also you can disable it all 
+by typing auto none.
+
+See also: TOGGLE
+#
+AWHO
+
+This commad is exactly like 'who' but shows only players in arena
+with some additional information.
+#
+BANK WITHDRAW DEPOSIT BALANCE CASHCARD
+
+Commands to take money out of the bank, put money in the bank, or see how
+much money you have in the bank.  Can be used at any branch of the First
+National Bank of (wherever you see an automatic teller machine) or with the 
+cashcard.
+
+> deposit 400
+> withdraw 1000
+> balance
+#
+BID
+
+Use this command to bid on auction item. Use 'bid more' to match next price.
+
+Example:
+
+> bid 200
+> bid more
+#
+BOARDS
+
+Bulletin boards are the forum of interplayer communication on the MUD.
+There are different bulletin boards for different purposes -- for example,
+a standard mortal board, a board for immortals, a board for fun "social"
+messages, etc.  Naturally, not all players may be allowed to read all
+types of boards.
+
+Type "LOOK BOARD" to see the messages already posted on a board.  Type
+"WRITE <subject>" to post a message to a board; terminate a message with
+a '@' as the first character on a line.  Type "READ <number>" to read a
+post.  Type "REMOVE <number>" to remove your own messages.
+
+> look at board
+> write Am I using these boards correctly?
+[writes the message; terminates with a '@']
+> look at board
+> read 6
+> remove 6
+#
+BOSS
+
+This command will output a standard unix directory listing on your screen
+Handy if you have to hide what you do.
+#
+BRIEF
+
+Toggle "brief mode".  When in brief mode, you don't see the descriptions of
+the room you are in; only the name of the room and the people and objects
+there.  Unless you're very familiar with the area in which you're 
+travelling, however, it is not advisable to use this command.  Frequently, 
+you will find small but vital hints in the descriptions of the rooms: An 
+extra peek at your surroundings could mean the difference between life and 
+death!
+
+If you explicitly type 'look', you will always see the full room 
+description, even in BRIEF mode.
+
+See also: COMPACT, LOOK, DISPLAY, TOGGLE
+#
+BUG TYPO IDEA
+
+For making useful suggestions to the Powers that Be.
+
+{bug | typo | idea} <text>
+
+> bug the entire game crashes when I type 'put bag in bag'
+> idea make a restaurant in Midgaard
+> typo 'sence' should be spelled 'sense'
+#
+BURY DIG
+
+Syntax: dig | bury  <object>
+
+This commands will allow you to dig and bury objects, if it is possible on 
+the terrain you are currently standing. Object that is burried can not be 
+seen buy anyone, and only digging at that exact location will reveal it.
+You won't be able to issue commands sometime after you dig or bury, while 
+you aren't finished with it.
+#
+BUY
+
+If you'd like to purchase an item from a shop and have the money, you can 
+buy it.  Items can be bought by name, or by their number in the shop 
+listing, and can be bought in quantity.
+ 
+Examples:
+ 
+> buy sword        (buy the first sword on the list)
+> buy #3           (buy the third item on the list)
+> buy 4.sword      (buy the fourth sword on the list)
+> buy 10 bread     (buy 10 pieces of bread)
+> buy 10 #2        (buy 10 of the second item on the list)
+ 
+See also: SHOPS SELL LIST VALUE
+#
+CAST
+
+For "magical" people. If you want to throw a spell at someone or something.
+Example : cast 'burning hands' <player>
+
+Note that the name of the spell must be enclosed by "'"s. Each spell will 
+use some of your MANA points.
+
+See also : help on each individual spell, for example:
+  > help cure ligh
+  > help fireball
+  > help energy drain
+#
+CHANNEL AUCTION GOSSIP CHAT BID CHANNELS
+
+These are channels reserved for specific purposes.  Except for Chat, 
+Messages on these channels reach everyone who is monitoring them.
+Chat only reaches people monitoring the gossip channel and shares your 
+race.
+
+auction <item> <price>
+gossip <string>
+chat <string>
+
+> auction sword 100
+> gossip Hey, is that a short sword on your belt or are you happy?
+
+If there is something already on AUCTION you use the BID command to 
+participate. You can also type 'auction info' to see what's on auction.
+
+
+You can use gossip for emotes and socials:
+
+> gossip @is very happy today.
+> gossip #pat fido
+
+To find out out what channels you are listening type TOGGLE
+See also:  BID SAY GSAY
+#
+CLAN OUTLAW "BLUE DRAGON" NIGHTSNAKE CLANS
+
+There are 4 clans in the Lands of Myst. There are some common rules of 
+engagement you should know of.
+
+   NEWBIE is the basic clan, everyone gots into when they start a new 
+character. Newbies can not kill other players, nor can be killed by other 
+players. When you reach level 7 you become an OUTLAW. Then you have to 
+search for Abrams, enter the Wheel of Destiny room, and have your destiny 
+decide your future clan.
+   
+   BLUE DRAGON and NIGHTSNAKE are two clans that have been in war as far as 
+the world exists. As a member of these clans, you enjoy your clan's 
+protection and are to slaughter as many of the opposite clan members you 
+can. That's it. Simple. You can also freely attack any of the OUTLAWS buy 
+may not attack NEWBIES. Also members of thiese clans have the privilege to
+own a HOUSE (see help on 'houses' and 'house').
+
+   OUTLAWS aren't actually a clan, rather a bunch of rebels that couldn't 
+fit anywhere. You become an OUTLAW in either of the two ways. When you 
+reach level 7 you become an OUTLAW but you can decide to choose one of the 
+clans. You don't have to do it right away. The second way to become an 
+OUTLAW is to be expelled from your clan (either BLUE DRAGON or the 
+NIGHTSNAKE). You do that by going to Abrams and typing 'expell'. Once 
+expelled, you can not join any clan ever after, and you stay an OUTLAW 
+forever. OUTLAWs can attack everyone (except NEWBIEs) and can be attacked 
+by everyone. The strongest OUTLAW should be their leader (because he has 
+the power of teaching others the lesson *grin*).
+
+See also: CLANLIST, CLANINFO, CTELL, PKSCORE
+#
+CLANLIST CLANINFO
+
+CLANLIST will show list all of your clanmembers, together with their 
+location. CLANINFO will show basic information about clans. 
+
+See also: CLAN
+#
+CLASS CLASSES
+
+Classes (professions) available in Land of Myst are the following:
+
+Warrior...............Ancient fighter trusting nothing but his weapon
+Mage..................The ruler of mystical energies
+Cleric................Powerful priest in service to his deity
+Druid.................The protector of Nature elements
+Thief.................Always finds a way to get what he wants
+Monk..................Master of the unarmed combat
+Ranger................Elite forest trooper
+
+See help on them to learn more.
+#
+CLEAR CLS
+
+Clears the screen on many terminals.
+#
+CLEAR WARM EXTINGUISH
+
+Syntax: clear|warm|extinguish <person>
+
+Use clear to try to clean off the acid of someone's body. Use warm towarm 
+up someone who is freezing. Use extinguish to try to put out the flames on 
+someone's body.
+In either case the success depends upon your dexterity.
+#
+CLERIC
+
+  The Cleric is a holy (or unholy) defender of the tenets of his or her
+faith. The arts of healing as well as calling upon the powers of dieties,
+these have often been looked at as the saviours of towns and the
+diseased.  In these hard times though, some have abused their powers to
+inflict harm upon others, summon wild beasts to peaceful villages and
+spreading plague and disease over the land.
+
+  Clerics have an ancient belief in not carrying sharp weapons. This class
+gives you the wisdom of peace, blessing and healing, though it is possible
+to learn and use more violent spells.
+The following skills and multi spells are available to cleric:
+
+Level    Skill                        Level    Multi Spell
+----------------------------          -------------------------------------
+1       Fillet                        5       CREATE RAIN
+        Cook                          10      AREA EARTHQUAKE
+        Brew                          20      PETRIFY
+23      Spell recovery                25      RESSURECTION
+28      Shield block
+31      Quick chant
+
+The following spells are available to cleric:
+Level    Spell                         Level    Spell
+---------------------------------------------------------------------------
+1 : Armor, Cure Light                  22: Animate dead
+2 : Quench                             23: Force field, Refresh
+3 : Sate                               24: Adrenaline
+4 : Cure Blind                         25: Baptize, Cure plague
+5 : Bless, Cure serious                26: Group heal, Group recall
+6 : Blindness                          27: Enhanced heal, Holy armor
+7 : Det invis and poison, Prot lightn. 28: Shroud of darkness
+8 : Cure drunk, Cure critic, Poison    29: Domination
+9 : Barkskin, Remove poison            30: Plague
+10: Dispel evil, Dispel good           31: Regenerate
+11: Call lightning, Prot coldness      32: Dimension walk
+12: Earthquake, Fortress               33: Benediction, Darkening
+13: Control weather, Sanctuary         34: Holy aura
+14: Heal, Prot fire                    35: Power word
+15: Detect alignment, Harm             36: Enlightment, Group force field
+16: Word of recall                     37: Hand of God, Hold monster
+17: Summon, Locate object              38: Power heal
+18: Vitality                           39: Divinity
+19: Flamestrike                        40: Group power heal
+20: Identify, Remove curse             41: Retrieve corpse
+21: Spiritual hammer                   45: Restoration
+
+See also: MULTI, DRUID, MAGE, PRACTICE
+#
+COMMANDS
+
+The COMMANDS command gives a canonical list of all the known verbs.
+
+> commands
+
+Each command listed should have help available by typing "HELP <command>".
+#
+COMPACT
+
+This command toggles the extra blank line output to your screen after each
+command.  Useful if you have a small display.
+
+See also: BRIEF
+#
+COMPARE
+
+Syntax: compare <item1> <item2>
+
+Use compare to compare two weapons or armors. The comparation is rather 
+rough and does consider the magical attributes some items may have, but 
+still may be useful in many cases.
+If you are wielding something and want to compare that weapon with one in 
+your inventory, you don't have to remove it it is enough to type 
+'compare <obj in inventory>'.
+#
+CONNECT
+
+WIZHELP:
+
+Connects current room to the destination room.
+#
+CONSIDER
+
+Usage: consider monster
+
+This command will compare your level with the monsters level.  You will then
+receive a rough estimate, which is by no means exact.  Consider does not take
+hitpoints/special attacks/damage into account.
+
+Example:
+
+   consider fido
+
+See also: HIT, KILL
+#
+COPYTO
+
+WIZHELP:
+
+Copies the current room description to destination room.
+#
+CTELL
+
+Will transfer a tell to all of your clan members.
+#
+CTHULHU
+
+   
+Of Ye Old Ones and their Spawn
+
+   The Old Ones were, the Old Ones are and the Old Ones shall be. From
+   the dark stars They came were man was born, unseen and loathsome They
+   descended to primal earth.
+   
+   Beneath the oceans They brooded while ages past, till seas gave up the
+   land, whereupon They swarmed forth in Their multitudes and darkness
+   ruled the Earth.
+   
+   At the frozen Poles They raised mighty cities, and upon high places
+   the temples of Those whome nature owns not and the Gods have cursed.
+   
+   And the spawn of the Old Ones covered the Earth, and Their children
+   endureth throughout the ages. Ye shantaks of Leng are the work of
+   Their hands, the Ghasts who dwelleth in Zin's primordial vaults know
+   Them as their Lords. They have fathered the Na-Hag and the Gaunts that
+   ride the Night; Great Cthulhu is Their brother, the shaggoths Their
+   slaves. The Dholes do homage unto Them in the nighted vale of Pnoth
+   and Gugs sing Their praises beneath the peaks of ancient Throk.
+   
+   They have walked amidst the stars and They have walked the Earth. The
+   City of Irem in the great desert has known Them; Leng in the Cold
+   Waste has seen Their passing, the timeless citadel upon the
+   cloud-vieled heights of unknown Kadath beareth Their mark.
+   
+   Wantonly the Old Ones trod the ways of darkness and Their blasphemies
+   were great upon the Earth; all creation bowed beneath Their might and
+   knew Them for Their wickedness.
+   
+   And the Elder Lords opened Their eyes and beheld the abominations of
+   Those that ravaged the Earth. In Their wrath They set their hand
+   against the Old Ones, staying Them in the midst of Their iniquity and
+   casting Them forth from the Earth to the Void beyond the planes where
+   chaos reigns and form abideth not. And the Elder Lords set Their seal
+   upon the Gateway and the power of the Old Ones prevailest not against
+   its might.
+   
+   Loathsome Cthulhu rose then from the deeps and raged with exceeding
+   great fury against the Earth Guardians. And They bound his venomous
+   claws with potent spells and sealed him up within the City of R'lyeh
+   wherein beneath the waves he shall sleep death's dream until the end
+   of the Aeon.
+   
+   Beyond the Gate dwell now the Old Ones; not in the spaces known unto
+   men but in the angles betwixt them. Outside Earth's plane They linger
+   and ever awaite the time of Their return; for the Earth has known Them
+   and shall know Them in time yet to come.
+   
+   And the Old Ones hold foul and formless Azathoth for Their Master abd
+   Abide with Him in the black cavern at the centre of all infinity,
+   where he gnaws ravenously in ultimate chaos amid the mad beating of
+   hidden drums, the tuneless piping of hideous flutes and the ceaseless
+   bellowing of blind idiot gods that shamble and gesture aimlessly for
+   ever.
+   
+   The soul of Azathoth dwelleth in Yog-sothoth and He shall beckon unto
+   the Old Ones when the stars mark the time of Their coming; for
+   Yog-sothoth is the Gate through which Those of the Void will re-enter.
+   Yog-sothoth knowest the mazes of of time, for all time is one unto
+   Him. He knowest where the Old Ones came forth in time along long past
+   and where They shall come forth again when the cycle returneth.
+   
+   After day cometh night; man's day shall pass, and They shall rule
+   where They once ruled. As foulness you shall know them and Their
+   accursedness shall stain the Earth.
+     _________________________________________________________________
+   
+
+        Ye Adjuration of Great Cthulhu
+
+     Ph'nglui mglw'nafh Cthulhu R'lyeh Wgah'nagl fhtan.
+
+ A supplication to great Cthulhu for those who would have power
+over his minions.
+
+ In the day and hour of the moon with sun in scorpio prepare thou a
+waxen tablet and enscribe thereon the seals of Cthulhu and Dagon;
+suffumigate with the incense of Zkauba and set aside.
+
+ On Hallowmas eve thou must travel to some lonely place where
+high ground overlooks the ocean. Take up the tablet in thy right hand
+and make of the sign of Kish with thy left. Recite the incantation
+thrice and when the final word of the third utterance dieth in the air
+cast thou the tablet into the waves saying:
+
+ 'In His House at R'lyeh Dead Cthulhu waits dreaming,
+ yet He shall rise and His kingdom shall cover the Earth.'
+
+ And He shall come unto you in sleep and show His sign with which
+ye shall unlock the secrets of the deep.
+
+
+
+                    Ye Incantation
+
+        O Thou that lieth dead but ever dreameth,
+        Hear, Thy servant calleth Thee.
+        Hear me O mighty Cthulhu!
+       ' Hear me Lord of Dreams !
+        In Thy tower at R'lyeh They have sealed ye,
+        but Dagon shall break Thy accursed bonds,
+        and Thy Kingdom shall rise once more.
+        The Deep Ones knoweth Thy secret Name,
+        The Hydra knoweth Thy lair;
+        Give forth Thy sign that I may know
+        Thy will upon the Earth.
+        When death dies, Thy time shall be,
+        and Thou shalt sleep no more;
+        Grant me the power to still the waves,
+        that I may hear Thy Call.
+
+
+  (At ye third repeating of ye incantation cast forth the Tablet into ye
+waves saying):
+
+  In His House at R'lyeh Dead Cthulhu waits dreaming, yet He shall
+  rise and His kingdom shall cover the Earth.
+
+#
+DAMAGE
+
+                                                          
+       Damage type       Max
+    --------------------------
+       tickle............1
+       scratch...........3
+       graze.............7
+       injure............12
+       wound.............20
+       maim..............30
+       decimate..........40
+       devastate.........50
+       MUTILATES.........65
+       DISEMBOWELS.......80
+       DISMEMBERS........100
+       MASSACRES.........130
+       MANGLES...........170
+       PULVERIZES........220   
+       DEMOLISHES........300
+       DEVASTATES........400
+       OBLITERATES.......500
+       ANNIHILATES.......600
+       ERADICATES........800
+       UNSPEAKABLE......>800
+
+#
+DEXTERITY INTELLIGENCE WISDOM CONSTITUTION CHARISMA STATS
+
+   Strength measures your pure muscle power. It determines things like how 
+much weight you can carry, how big weapons you can wield, your bonus to 
+doing damage and so on.
+   Intelligence is just that. It will measure how quick you'll be learning 
+your skills, your resistance to some magical things. It will also greatly 
+affect the destructive power of your spells as well as mana points gain per 
+level. In combat, intelligence helps you make critical hits and avoid 
+those too.
+   Wisdom measures 'the old man with long beard' in you. Depending upon 
+this stat, you'll be receiving more or less practice points for your 
+skills. It will also affect your mana gain per level as well as some other 
+spell-casting matters.
+   Dexterity mirrors your reflexes, agility and speed. If you have 
+high dexterity, you'll be hitting your opponent more often and accurate, at 
+the same time avoiding more blows. It's a general combat attribute.
+   Constitution is what decides your combat endurance. High constitution 
+character will have much more hit points to tank a combat. This is the most 
+important stat for a warriors.
+   Charisma measures your control over various situations. If you are high 
+on charisma, you have smaller chances of being attacked by an aggressive 
+monster, higher resistence to some magic stuff and so.
+#
+DIAGNOSE
+
+diagnose
+diagnose <character>
+
+The DIAGNOSE command tells you how wounded a character looks.  If you are
+fighting someone, you can use DIAGNOSE with no arguments to diagnose the
+person you're fighting.
+
+> diagnose
+> diagnose rasmussen
+#
+DIE DEAD DYING
+
+When you die few things happen. If your level is higher then level 7 you
+will lose quarter of experiance for your level. Also your equipment will
+remain in your corpse. Your body is then reborn, and you may start a new
+life.
+#
+DISABLE
+
+Usage: disable <trap name>
+
+After you noticed a trap (or you just have wild guess it is there) you may
+try to disable it. Depending on your dexterity, intelligence and knowledge
+of that trap you my either succeed or trigger it. Anyone can try their luck
+in disabling the trap, but it's best to leave it to professionals.
+
+See also: TRAP
+#
+DISPLAY
+
+Syntax: display 1 | 0
+
+You can use display command to split your screen and have a status windows 
+at the bottom of your screen. It looks really cool if you are having fast 
+connection and terminal. Display 1 will turn it on, display 0 will put it 
+back to default.
+
+See also: PROMPT
+#
+DONATE
+
+This command takes an object that you no longer want and deposits it in the
+donation room of Midgaard to assist newbies in getting started.  There is
+a 75% chance objects donated will wind up in a donation room in Midgaard,
+and a 25% chance the item will be junked.
+
+donate <object>
+donate <number> coins
+
+> donate shield
+> donate all.bread
+> donate 500 coins
+
+See also: JUNK
+#
+DROP
+
+If you lose interest in a carried item, you can drop it on the ground.
+
+drop <item>
+drop all.<item>
+drop all
+drop <number> coins
+
+> drop bottle
+> drop all.bread
+> drop all
+> drop 1000 coins
+
+See also: GET JUNK DONATE
+#
+DROW
+
+Drow elves, like their surface dwelling cousins, are very
+magical in their nature. The difference between the two lay in the fact
+that Drow elves left the surface world for a subterranean existence. Drow
+tend to dabble more in the "dark" arts of magic, and are evil in their
+nature. Some Drow however are outcasts, and have decided to venture out to
+the surface.
+
+Drow elves are extremely good spellcasters, and are resistant to magic as
+well. They are a lot weaker than humans physically, but compensate with a
+greater intelligence. Drow are not as hardy as most races, but are more
+dexterous than most as well.
+
+Drow have developed the ability to see in the dark.
+#
+DRUID
+
+ Druids draw their power from the earth, so their might stems not from dead
+magic or capricious gods, but from the lifeforce of the earth itself.
+Their abilities in some ways mimic the magical manipulative abilities of
+adepts or the god-granted power of the clerics, but they go beyond, dealing
+with primal Earthpower itself.
+ Although they may not seem formidable in battle, any such preconception
+will vanish when druid causes the very earth to open up beneath your feet!
+The following skills and multi spells are available to druid:
+
+Level    Skill                        Level    Multi Spell
+----------------------------          -------------------------------------
+1       Fillet                        5       CREATE RAIN
+        Cook                          10      AREA EARTHQUAKE
+        Brew                          20      MATERIALIZE
+5       Parry                         25      GIVE LIFE
+9       Forage                        30      RAGNAROK
+14      Track
+16      Sneak
+19      Second attack
+23      Spell recovery
+26      Shield block
+33      Quick chant
+
+The following spells are available to druid:
+Level    Spell                         Level    Spell
+---------------------------------------------------------------------------
+1 : Shillelagh                         22: Deflection shield, Agility
+2 : Burning hands                      23: Enhanced move, Astral projection
+3 : Armor, Cure blindness              24: Tornado, Mellon collie
+4 : Faerie fire                        25: Charge, Summon
+5 : Detect invisibility                26: Sunray, Enhanced Mana
+6 : Infravision, Create spring         27: Cone of cold, Giant strength
+7 : Control weather, Prot lightning    28: Synost, Atonement
+8 : Call lightning, Barkskin           29: Leech life, Primal fear
+9 : Sense life, Earthquake             30: Feeblemind
+10: Prot fire, Prot coldness           31: Enhanced heal
+11: Waterwalk, Cold arrow              32: Runic shelter
+12: Remove poison, Fortress            33: Arcane
+13: Wave of healing, Shamrock          34: Firestorm
+14: Guiness, Faerie fog                35: Relocate
+15: Flame arrow, Beautify              36: Group deflection shield
+16: Identify, Nap                      37: Omni eye
+17: Web, Locate object                 38: Intelligize
+18: Transport, Retransport             39: Energy containment
+19: Conjure elemental, Strong mind     40: -
+20: Chain lightning, Recharge          41: Power of nature
+21: Wrath of earth, Stoneskin          45: Improve stat
+
+See also: MULTI, CLERIC, MAGE, PRACTICE
+#
+DRUNK
+
+Hehe.. You are drunk?
+Try getting some smurfberries or having a cleric cure your drunkness.
+#
+DWARF
+
+Famous for deeds other than the invention of the braided beard and the
+double-bladed axe, the Dwarves are known to make fine warriors and 
+adventurers.  Strong and hardy, Dwarves also possess a certain innate 
+resistance to magic which makes members of this race particularly valuable 
+allies and extremely deadly foes.
+#
+EAT DRINK SIP TASTE
+
+If you're hungry or thirsty, these commands are for you!
+
+> eat bread
+> taste bread
+> drink from cup
+> sip fountain
+
+You can refer to all food you are carrying by 'food' no matter if it's 
+waybread, meat or potpie ie. 'eat food', 'put all.food bag'
+
+See also: FILL, POUR
+#
+EGO "EGO WEAPONS" "EGO ARMORS"
+
+There are many legends of specially crafted weapons and armors, inscribed by
+magical runes to give them potent powers and abilities. These items are
+called "ego" weapons and armors. Their secret remains unfolded, until they
+are identified. Lesser and greater egos exist each with it's own set of
+affects. Any weapon or armor can be one of the "ego" ones, so maybe that
+crummy sword you are holding is one of the {Bonebreakers}?
+
+You can use 'ego weapons' and 'ego armors' command to list known egos.
+#
+ELF
+
+This race is a more intelligent and magical race. Most of their
+kind live in the forests, depending on the natural resources for their
+existence, as well as drawing power from their surroundings to fuel their
+magic. Lately, elves have been seen walking around the settlements of the
+world using their perceptive abilities and magical natures to some great
+effect as the world's secrets are discovered.
+
+Elves are quick-footed, as well as quick of wit. They are also well liked
+if not loved by most races as well. Elves lack in strength, and can not
+take much punishment in battle; but they are magical in nature and are
+excellent spellcasters. In addition to their excellence in the use of
+magic, elves are slightly resistant to the effects of magic as well.
+
+Elves all have the ability to see in darkness.
+#
+EMBALM
+
+Gruber the Embalmer will make useful bags from the skins of dead bodies 
+(corpses) you bring him. It's really cool to have a bag made of your worst 
+enemy's skin. You can find Gruber in the Midgaard Zoo.
+#
+EMOTE :
+
+Show people what you're feeling.  The shorthand is ":".
+
+"emote <string>" will display your name, then the string.  For example,
+if your name is "Quifael",
+
+> emote is feeling very sad today.
+
+will display:
+
+Quifael is feeling very sad today.
+
+See also: SOCIALS
+#
+ENGRAVE
+
+You can use engrave command to engrave an item to yourself. After engraving 
+it, the item can only be used only by you and it will have a suffix in it's 
+name (eg. the long sword of Rassmusen). Other players can pick it but not 
+use it. It all costs, and you can also pay (and pay a lot) to unengrave an 
+item. For prices and other relevant things, seek Joe's Engraving services 
+in the Midgaard Zoo.
+#
+ENTER
+
+If you type 'enter' while you are outdoors, you'll enter any nearby 
+shelter.
+You can also follow 'enter' with an argument; for example, 'enter window'.
+#
+EQUIPMENT
+
+Gives you a list of all the equipment you're wearing, holding, and wielding.
+
+See also: INVENTORY
+#
+EXAMINE
+
+May give you some valuable information about an item.
+
+See also: LOOK
+#
+EXITS
+
+Gives you a list of the obvious exits from your location. Of course, the 
+less obvious ones won't show up here - you have to THINK in order to locate 
+those.
+#
+EXPERIENCE XP
+
+Whenever you kill a monster or a player, you earn experience points. When
+enough experience points are earned, you raise a level.
+Things you should know about experience points:
+  
+  * Every monster is worth some amount of exp. By killing them you gain
+    their exp, modified by the level difference between you and the monster.
+    If you kill a monster that is lower level then you, you will get less
+    exp for it. Also if you kill a higher level monster, you will get extra
+    exp.
+
+  * You get experience points for every point of damage you deal.
+    
+  * You are getting exp for curing and healing someone.
+
+  * See rules about group
+
+See Also: GROUP
+#
+FEAMOR
+
+zli debil..
+#
+FIGHT
+
+Fight is almost all it's about. Fight to live and live to fight.
+
+See also: DAMAGE
+#
+FILL
+
+If you want to fill a container you're holding with liquid from a fountain
+in the same room as you.
+
+> fill canteen fountain
+
+See also: POUR
+#
+FLAGS
+
+Players sometimes have FLAGS after their names in the WHO list.  These
+flags are always in parentheses, not brackets or braces.
+
+FLAG        MEANING
+----------- ---------------------------------------------------------
+(invis)     Player is invisible; you can see him/her because you are
+	    sensitive to the presence of invisible things.
+(writing)   Player is writing on the board; do not disturb.
+(mailing)   Player is writing mail; do not disturb.
+(deaf)	    Player has chosen not to hear shouts.
+(notell)    Player has chosen not to accept tells.
+(quest)     Player is participating in a quest currently being run by
+	    the Gods.
+(editing)   Player is editing a part of the game using OLC.
+
+See also:  STEAL VISIBLE TOGGLE QUEST POLICY
+#
+FLEE
+
+If you are in a fight and things are beginning to get a little 
+uncomfortable (maybe your are dying), just type 'flee', and presto! You are 
+out of harm's way - that is, IF there is a suitable exit nearby, and IF 
+that exit doesn't simply bring you from the ashes to the fire... but then, 
+who wants to live forever? 
+When fleeing you loose some experience, and you might as well throw your
+weapon in panic. Your opponent might get a chance to hit you in the back
+while you try to run away.
+#
+FLY
+
+Usage       : cast 'fly' <victim>
+
+Just what you'd think this spell would do, it lets you fly.
+
+See also: LAND, LEVITATE, WATERWALK
+#
+FOLLOW
+
+Use FOLLOW to automatically follow someone else. If your target is already 
+following someone, you will follow that someone.
+
+> follow ras
+> follow self
+#
+FRENCH
+
+Don't you know how they kiss in France?? -- try it!
+#
+GALDOR
+
+mentol..
+
+#
+GATE
+
+Usage       : cast 'gate'
+ 
+This spell summons a demon from gate that caster opens  and charms it for a 
+certain amount of time depending on characters inteligence and charisma.
+
+Other spells to note: ANIMATE DEAD, CLONE, CONJURE ELEMENTAL
+#
+GET TAKE
+
+If you find something interesting on the ground, you may use 'get' to pick
+it up.  'get' can also be used to extract items from containers.
+
+> get sword corpse
+> get all corpse
+> get all all.bag
+> get all.bread all.bag
+
+See also: DROP PUT
+#
+GIVE
+
+If you feel benevolent, you may give some stuff to someone in need.
+
+give <object> <victim>
+give <number> coins <victim>
+
+> give all ras
+> give bread onivel
+> give all.bronze romulus
+> give 400 coins aramina
+#
+GNOME
+
+Gnomes are known to be small, industrious, and excellent spell-casters. 
+They are comfortable living in an underground city or burrow, or in a
+small home on a rolling hill in some bucolic country setting.
+#
+GOBLIN
+
+Small, tough and wily, Goblins are known for being good at a lot of
+things, with the general exception of magic.  Quick and hardy, goblins
+make excellent thieves due to their generally high dexterity and small
+stature, though persistent individuals have managed in the past to
+succeed at a wide variety of careers, including magical ones.
+
+Goblins despise daylight, dwarves, elves, and humans, and prefer to
+torture and tease any creatures which they may come across.  They also
+conceive of trolls and ogres as utterly insufferable, generally because,
+like orcs, these races tend to use their superior size and strength to
+bully goblins into doing what they don't want to do.  Goblins will not
+associate with Dwarves, due to long-standing tensions and a bloody
+history between the two races, nor do they particularly like Elves (of
+any type).  Dwarves are viewed with outright hatred, due to their
+continued butchery of innocent goblins over countless centuries.  "The
+only good part of a dwarf is his scalp" states a common Goblin proverb.
+#
+GODWILL
+
+Use this command when you are in doubt of doing something.
+#
+GOUGE
+
+The most nimble and dexterous of thieves, after years of experience
+stabbing their opponents, have perfected their aim, and are able to gouge
+out their foe's eyes, rendering them blind for the duration of their
+lives. In order to perform this correctly, the thief need to wield a 
+piercing weapon such as a dagger and  only type 'gouge' followed by the 
+name of their foe.
+#
+GRAB HOLD
+
+For getting a good grip on something; a torch, for example.
+
+> hold torch
+> grab stone
+
+See also: WEAR, WIELD, EQUIPMENT, REMOVE
+#
+GRAPH
+
+Will show your current stats in graph mode.
+
+See also: VICTIM , MKSCORE
+#
+GRATS
+
+Syntax: grats <grats_message>
+
+This command will set your auto-grats message. If you have set AUTOGRATS to 
+enabled, you will automaticly congratulate whenever somebody levels.
+
+See also: AUTO TOGGLE
+#
+GROUP
+
+Usage : GROUP [player]
+        GROUP all
+
+GROUP with no arguments shows the status of your group.  GROUP <player>
+adds or removes <player> from your group.  GROUP ALL adds everyone who is
+following you to your group. Use NAME to give your group a name. Use 
+GWHO to see all the group with their members.
+
+If you are a group member, then you will share experience points for 
+killing monsters. Exp is shared in a way that the highest level character
+will get the most exp, and the lowest level one gets the least.
+Experience points will only be shared among group members that are in the
+same location, at the time of the killing blow. Sharing is regardless of
+whether the group members have been participating in the fight. 
+When you are grouped you gain extra exp for every monster, and that bonus
+grows bigger as the group is larger.
+
+Group with no argument shows a list of people with whom you are grouped.
+"group all" groups all people who are following you.
+
+To make a group, a "leader" must be selected. All members of the group
+must then "follow" the leader using the follow command. The leader should
+NOT follow anyone at all! The leader can now toggle group membership for
+each player in the group, by using "group <player_name>". The leader
+should remember to include himself in the group.
+
+Example:
+
+Quifael and Redferne wishes to group with Dragon.
+
+Quifael : "follow dragon"
+Redferne: "follow dragon"
+(Dragon should be following no one but himself)
+Dragon  : "group dragon"
+Dragon  : "group redferne"
+Dragon  : "group quifael"
+
+Later when Dragon get upset at Quifael (because he is sleeping all the 
+time) he types : "Group Quifael" to kick Quifael out of the group.
+
+See Also: GWHO XP EXPERIENCE UNGROUP NAME
+#
+GSAY GTELL
+
+Tell something to all the members of your group, even if they're not in the
+room.
+#
+GUILD
+
+The Guildhouse is the place where mortals may go to escape the troubles and
+perils of a cruel world. Each guild is heavily guarded, so that only 
+members may enter the building. Guilds are also the places where people 
+come to learn and practice the skills of their trade.
+
+See also: PRACTICE
+#
+GUILD GUILDMASTER "GUILD MASTER"
+
+Guild is a place where you practice you skills and spells. You do so by
+typing "practice <skill name>" when you are in your guild. Type "help
+midgaard" to find out where the guilds are placed in the city.
+#
+GWHO
+
+This command is similar to the WHO command only it will show all the groups 
+formed in the game. Your group must have at least one more other player in 
+order to appear in gwho list.
+
+See also: GROUP WHO
+#
+HALFLING HOBBIT
+
+  Halflings are a race of 'little people.'  They are small, hearty, and
+generally cheerful.  Being shy, they often live in small communities
+hidden deep within a forest or tunneled far into a distant hillside.
+Quick and dextrious, Halflings can move all but silently through nearly
+any terrain.
+
+Most Halflings live in their own communities, though they do trade heavily
+with Humans and Dwarves.  Halflings are common in the Human cities, often
+in taverns discussing adventure over a hearty mug of ale.  Halflings are
+fascinated by Elves.  They consider them beautiful and mysterious, though
+the Elves' strange customs are an utter cipher to the down-to-earth
+Halflings.  Gnomes and Halflings have amicable, if distant, relations.
+Goblins and Orcs are hated with a passion by Halflings and meetings
+between them are usually short and bloody.
+#
+HALL
+
+Hall of Fame score depends upon your level, mkscore and pkscore.
+#
+HEAL
+
+Usage       : cast 'heal' <victim>
+Accumulative: No
+Duration    : Instantaneous
+
+Pinnacle of a cleric's early career, this spell heals great amounts of
+damage.  By calling of the power of the cleric's god or gods, the cleric
+can channel the power of those deity or deities through himself, healing 
+himself or an ally instantly for 100 hitpoints.
+
+See also: POWER HEAL
+#
+HELP
+
+Following help is available:
+
+HELP help       - This text.
+HELP            - A list of some of the most useful commands.
+
+Help searches for a partial match of the entered word, including any
+spaces that may follow the word.
+
+Example:
+> 'help magic mis'
+    will find the help text for the magic missile spell.
+
+> 'help mag '
+   will not match anything.
+
+> 'help mag'
+   will match 'magic user' or 'magic missile' depending on first
+   occurence in the help file.
+
+See also:  COMMANDS
+#
+HENDEL
+
+Tomorrow will take us away far from homes, noone will ever know our
+names...
+
+#
+HITROLL DAMROLL
+
+HITROLL measures your bonus to making your attack a success. The higher 
+your hitroll is, the bigger is the chance you'll hit your opponent. Also 
+the lower your AC is, the smaller is chance that your opponent will hit 
+you.
+DAMROLL is your bonus to damage. It's added to the damage you make by your 
+weapon or hands.
+
+See also: AC
+#
+HOUSE
+
+The HOUSE command is used to add or remove guests from your house's guest
+list.  You must be standing in your house to use this command.  Only the
+primary owner of a house (not guests) may change the guest list using the
+HOUSE command.
+
+Usage: house [<player name>]
+
+Typing 'house' with no arguments gives a list of the people currently on
+your house's guest list.  Typing 'house' with the name of a player will add
+that player to your guest list if the player is not on the list, or will
+remove the player from the guest list if the player is already on the list.
+The player specified must be in the player database for the MUD, although
+he or she does not necessarily have to be logged on at the time.
+
+Guests of your house will be able to enter your house until you remove them
+from the guest list.
+
+See also: HOUSES
+#
+HOUSES
+
+You get a right to own a house by becoming a legal clan member (Nighstnake
+or Blue Dragon).The best thing is that you get to design the look
+of your house. You have to send it to mud@afrodita.rcub.bg.ac.yu, both
+the room description for your house and your garden in front of the house).
+People will be able to step into your garden but not into your house unless
+they are on your guest list.  A house entails two 
+things: access control and crash protection.  Only you and your guests will 
+be allowed to enter the house.  Your house will be crash-saved every five 
+minutes.  You can force your house to save by typing 'save' while standing 
+in your house. In the event of a crash, the objects in your house as of the 
+last crash-save will be loaded back into your house when the MUD reboots.  
+
+Guests of your house can be defined using the HOUSE command.  See HOUSE for
+more information.
+
+See also: HOUSE
+#
+IMPLEMENTOR
+
+The most powerful being in existence.
+#
+INFO NEWS POLICY CREDITS VERSION
+
+These commands show you important information about CircleMUD.  It is a 
+good idea to read them every once in a while.
+
+info     - useful information about the game for beginners
+news     - latest changes to the code and areas
+policy   - policies on topics like playerkilling
+credits  - the people who made CircleMUD possible!
+version  - displays the current CircleMUD version number
+#
+INN INNS CRYOGENIC CRYO RECEPTION
+
+Rent is free here. Just quit and yout items will be saved.
+#
+INVENTORY
+
+If you're uncertain about what you're carrying, or simply want to check
+that no thieves have got to your backpack.
+
+See also: EQUIPMENT
+#
+JUNK
+
+Use JUNK instead of DROP if you want to keep the world a little cleaner.  
+If you JUNK something, it will disappear and you'll get a few coins or 
+experience points, just as if you had dropped it in the dump.
+
+donate <object>
+donate <number> coins
+
+> junk cup
+> junk all.bronze
+> junk 500 coins
+
+See also: DROP DONATE
+#
+KILL HIT
+
+A good way to start a fight. During combat you can change your opponent using
+'kill <target>' again.
+#
+KISS
+
+Well can't you guess?
+#
+LABEL
+
+Syntax: label <object> <name>
+
+Using label command you can name your frequantly used containers (bags, 
+sacks and such). For example if you type 'label bag FOOD' you can later 
+access that bag by typing FOOD (eg. 'get FOOD bread').
+#
+LAND
+
+Allows you to land if you have the flying spell on.  Remove you flight
+item if you are wearing one, land only removes the spell.
+
+See Also: "LEVITATE" "FLY"
+#
+LEARNED
+
+This command is similar to the PRAC command with the difference that it 
+will show you only the spells/skills you are familiar with.
+#
+LEAVE
+
+If you feel claustrophobic, typing 'leave' will make you use the nearest
+obvious exit to the outside.
+#
+LEVELS
+
+Lists the levels of your class. 
+#
+LINK
+
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+ I. If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+
+II. If your link jams (freezes), you have a problem.  The only solution we
+    can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+
+    Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully
+    cut your link.
+#
+LIST
+
+If you'd like to see what items a shop has for sale, take a look at the
+list.  The list contains all of the items currently for sale and in
+what quantity.  The price for each item is also listed.  If you are
+interested in a particular type of item, you can specify which items to
+list.
+ 
+Examples:
+ 
+> list             (list all items for sale)
+> list sword       (list all swords for sale)
+> list 5           (list all items of level 5 and higher)
+ 
+See also: SHOPS BUY SELL VALUE
+#
+LOOK
+
+For studying your surroundings. Examples:
+look                                      
+look AT the angel
+look IN the bag
+look to the south   (or just: look south)
+
+Note that if you LOOK AT CORPSE you will not see its inventory.
+To see what's inside a container (i.e. a corpse) use LOOK IN <OBJECT>.
+
+You may even look at the sky if you are outside - type 'look sky'.
+
+See also: EXAMINE, READ
+#
+MAIL CHECK RECEIVE
+
+The commands used by the Midgaard Mail System (MMS) are MAIL, CHECK, and
+RECEIVE.  These commands can only be used while in an Official MMS Post
+Office.
+
+To write mail to Quifael:
+> mail quifael
+
+To check and see if you have any mail waiting:
+> check
+
+To ask the Postmaser to give you your mail, if you have any waiting:
+> receive
+
+Stamps cost 150 coins.
+#
+MIDGAARD
+
+                             Newbie zone
+                                  &
+                              Cheesboard
+                                 ^
+                                 | 
+                                 |
+                                 |
+                      Map  Temple Altar 
+                     Room        |                       
+                       |         | 
+ Vougon Gnomes      Reading -- Temple -- Donations
+      &              Room        of
+ Gnome Village                Midgaard     Post   Reception
+      &                          |        Office   /
+ Snotling Camp    Cleric         |            |  /            Smurf Village
+                  Guild----Temple Square----Grunting---Bar
+      ^                      (Fountain)     Boar Inn              ^
+      |          Magic           |                                |
+      |          Shop   Bakery   |    Grocer  Weaponsmith         |
+      |            |      |      |       |        |        East   |  Moria &
+   <------West-----+------+----Market----+--------+--------Gate----->Welmar's &
+          Gate     |      |    Square    |        |         |        Dwarfs &
+           |     Mage   Armory   |      Pet    Warrior    Wally's      Werith's
+         (Wall   Guild           |     Shop     Guild    World of Water
+          Road)         Monk     |
+           |            Guild    |                      Uncle Juans's
+           |              |      |                           |
+           +-(Poor-Alley)-+----Square----+(Dark-Alley)-------+----->
+           |      |       |      |       |        |          |     
+           |    Druid   Grubby   |    Thieves    Levee   Warehouse
+           |    Guild    Inn     |     Guild      |
+         (Wall                  Dump              |
+          Road)           Sewers/|                |
+           |                     |                |
+           |                Lizard Lair       Midgaard
+  <=== [Bridge] =============================== River =============>
+           |
+           |
+           +(Concourse)+------------+-------------+---------------+
+           |           |            |             |               |
+           |           +            +----Cafe     +---Penny       |
+           |           |    Park--v |             |   Lane        |
+           |   City    |         +--+--+          |               |C
+           |  Guard----+----+----+--o--+-----+----+---City Hall   |o
+           |     HQ    | |Midgaard|               | /---------\   |n
+           |           + |   Zoo  | +--(Emerald)--+-|Gangs    |   |c
+      (Concourse)      | \--------/ |               |Circus   |   |o
+           |           +------(Park-+-Road)-------+ |Fun House|   |u
+           |                        |             | \---------/   |r
+           |           +--(Emerald)-+             +---Elm         |s
+           |           |                          |  Street       |e
+           |           +                          +               |
+   South   |           |                          |               |
+     Gate  +-----------+-(Concourse)--------------+---------------+
+           |                                      |
+       Miden'Nir                              Graveyard 
+                                              Entrance
+
+#
+MKSCORE PKSCORE CKSCORE
+
+PKSCORE shows the all the players visible to you with their PLAYER KILLING 
+scores. MKSCORE will do that but with the MOB KILLING score. CKSCORE will 
+show the caln slaughter results.
+
+See also: VICTIM WHO GWHO
+#
+MONK
+
+  The Monk class is an old class of men and women who have mastered the 
+skills of hand-to-hand. Their life, from a very young age, is spent in 
+study in a dojo or monastery. At the age of 17, the masters of the martial
+artist student encourage him to leave the cloistered life and explore
+the world.
+
+  Warriors without peers, the fighting Monk learns to use all parts of his
+body as lethal weapons. After gaining experience in this class, the Monk 
+acquires skills that inflict tremendous amounts of damage to their 
+opponents. Their religion forbids them the usage of weapons and shields
+which made them unbeatable in unarmed combat.
+The following skills are available to monk:
+
+Level   Skill                   
+----------------------------------
+1 : Enhanced sight, Fillet, Cook
+3 : Dodge
+5 : Quivering palm
+6 : Consider
+8 : Kata
+10: Track
+12: Tiger claw
+13: Feign death
+15: Parry
+17: Meditation
+18: Disarm
+20: Critical hit
+24: Alfa nerve
+27: Dragon strike
+29: Fist Of doom
+31: Buddha finger
+33: Hammering
+36: Spin kick
+39: Power blow                   
+
+See also: PRACTICE
+#
+MOOD
+
+This command will show your current mood. Mood is very important. You will 
+fight with more energy when you are in a good mood and the other way 
+around.
+
+You enhance your mood by making your current alignment more closely to your 
+default alignment.
+
+See also: SCORE WORTHY GOLD
+#
+MUD
+
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another throughout
+the course of its development.  Although it's impossible for me to remember
+them all, I'd like to extend special thanks to certain people:
+
+  -- Jeff Fink, for submitting a veritable mountain of excellent code.
+  -- Chris Epler and Chris Herringshaw for extensive beta-testing and bug
+     reporting.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world files.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions.
+  -- Jean-Jack Riethoven, for porting the code to the Amiga.
+  -- Bill Bogstad and Tim Stearns, for allowing Circle to exist.
+  -- The DikuMUD folk, and the good old WhatMUD implementors Dave & Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being 
+     there in the very early days of Circle's development.
+  -- And, of course, Sharon, Ben, Erica, Aly, and Josh, for keeping me sane.
+...plus everyone else in the Circle community who has submitted material!
+Thanks everyone!
+  Anoymous FTP:  ftp.cs.jhu.edu:pub/CircleMUD
+Author's Email:  jelson@jhu.edu
+           URL:  http://www.cs.jhu.edu/~jelson/circle.html
+  Mailing List:  circle@pvv.unit.no
+#
+MULTI
+
+Multi spells are called so because they can not be cast by a single caster. 
+In order to successfuly cast the spell caster must be grouped with other 
+spell-casters (that means DRUIDS, MAGES or CLERICS). Their total mana must 
+exceed the mana needed for casting the spell. Also every single caster must 
+be at least MINLV level to participate in casting. MULTI spells are known 
+for their undescribable either destructive or defensive powers.
+
+See also: RAY OF DISRUPTION, RESSURECTION, GIVE LIFE, PRISMATIC SPHERE,
+          ULTRA DAMAGE, PETRIFY, CREATE RAIN, AREA EARTHQUAKE, RAGNAROK,
+          MATERIALIZE
+#
+MURDER
+
+Kill command to hit another player.  To avoid accidental flagging (i.e.
+trying to type "kiss redferne" but accidentally typing "kill redferne")
+Note that it is illegal to kill other players.  If you try you will get
+a KILLER flag.  If you are flagged as a killer, you are unable to do
+damage and other players will be allowed to use the MURDER command to
+kill you without being flagged themselves.
+
+See also:  FLAGS
+#
+NAME
+
+Syntax: name <group_name>
+
+This command will allow you to name your group. You can name your group 
+only when you are grouped with at least one other player. Your group will 
+then appear in the GWHO list.
+
+See also: GROUP GWHO 
+#
+NEWBIE
+
+Just type info for basic newbie information.
+Then read your guidebook ('look book').
+#
+NOALERT
+
+Not implemented yet.
+#
+NOARENA
+
+Use NOARENA if you don't want to listen to ARENA battles.
+
+See also: FLAGS WHO TOGGLE
+#
+NODAM
+
+This command toggles numerical display of damage.
+
+See also: TOGGLE
+#
+NOGOSSIP NOAUCTION NOCHAT NOGOSSIP NOGRATS NOINFO NOQUEST
+
+These commands will toggle inforamtion channels on or off.
+#
+NOINFO
+
+Use NOINFO if you want INFO channel disabled. INFO channel broadcasts news
+about players gaining a level or dying.
+#
+NOMISSE NOMISSF
+
+Use these commands to toggle display of missed hits for enemies and friends
+(including you).
+#
+NOQUIT
+
+Toggles quit protection on/off.
+#
+NOREPEAT
+
+This command toggles whether or not you see your communication echoed
+back to you (i.e., from commands such as SAY, SHOUT, HOLLER, GOSSIP, etc.)
+Useful if you have a slow connection or if it just annoys you.
+#
+NORTH SOUTH EAST WEST UP DOWN
+
+To walk in a given direction.
+#
+NOSHOUT
+
+NOSHOUT toggles whether or not you hear shouts.  (deaf) will appear after
+your name in the WHO list.
+
+See also: FLAGS SHOUT WHO
+#
+NOSUMMON
+
+Will make you summonable or not to your friends.
+#
+NOTELL
+
+Use NOTELL if you wish to prevent other players from using "tell" to
+communicate with you.  (notell) will appear after your name in the WHO
+list if you have notell on.
+
+See also: FLAGS TELL WHO TOGGLE
+#
+OFFER RENT
+
+For use in the receptions of inns.
+
+Offer makes the innkeeper tell you the cost of storing your belongings
+for one day.  Rent stores you belongings and exits you from the game.
+When you re-enter, you will start where you rented.
+
+There is a daily charge for rent.  You may store your things at the
+CRYOGENIC CENTER for a one-time charge of four days rent.  See INNS
+for details on the rent policy.
+
+> offer
+> rent
+
+See also: INNS
+#
+OGRE
+
+As a general rule, Ogres are big, mean, and dumb.  They make wonderful
+warriors but generally feeble wizards and clerics, due to their innate
+tendencies towards high strength and constitution and low intelligence
+and wisdom. Their great size is often of use in combat as well, making
+them excellent bashers. They are fond of treasure, and are often employed 
+as mercenaries by evil races in particular. They tend to have yellowish 
+hides, are covered with wart-like bumps, have black teeth and talons, and 
+purplish eyes with white pupils. Ogres are exceptionally strong and hardy, 
+but are known to be extremely dim-witted and lacking in wisdom. They are 
+excellent in melee combat, but are extremely limited when they attempt to 
+utilize magic. Ogre mages and clerics, rare though they may be,
+are not unknown to the realms.
+
+Ogres do not like little creatures, who tend to cause problems and/or
+steal things.  If they cannot be bullied, they should be smashed.
+#
+OPEN CLOSE LOCK UNLOCK
+
+To open, close, lock, and unlock doors, of course.
+
+<open | close | lock | unlock> <door [direction]>|<obj>|<direction>
+
+> open portal
+> lock door
+> unlock door south
+> close gate    
+> open chest
+> open north
+#
+ORC
+
+A bit slow and a bit dumb, Orcs are nevertheless know to be tough, wily
+and strong foes worthy of one's respect.  Slightly larger than a human,
+Orcs prefer the dark confines of underground caverns and the hidden
+realms of the underworld to the light of day, and will emerge into
+sunlight on only the dimest of days, if they can help it, and only after
+expressing their dismay at having to suffer from 'that accursed
+brightness.'
+#
+ORDER
+
+Used for ordering pets and charmed people to do your evil bidding.  You
+can order everyone under your command with "order followers".
+
+order <character> <command>
+order followers <command>
+
+> order puppy eat bread
+> order cityguard sleep
+
+See also:  CHARM
+#
+PKILL
+
+When a player (CH) kills another player (Victim) it is called a PKILL.
+CH will gain a pkscore points, cks (clan score) points if in clan and
+a message will be published on INFO channel. Of course, all of the 
+victim's equipment may now change it's owner as well. Important thing
+is that the victim does not lose any experience, but only suffers the
+humiliation and the equipment lost. You may not try to attack a player who 
+is more then ten levels below your level.
+
+See Also: CLAN
+#
+POISON
+
+Effects of poison may vary as there are many poisons known and still
+unknown. Usually poison deals some amount of damage each tick and
+reduces your regeneration significantly, while lowering your strength and
+constitution. You body will fight the poison, and depending upon your
+constitution, eventually cure it. Poison can also be removed by some
+healing spells. You should try to find a local healer should you need
+poison removed.
+#
+POUR
+
+If you want to pour some liquid from one container to another.
+
+> pour canteen cup
+
+See also: FILL
+#
+PRACTICE PRACTISE
+
+Practice is the way you improve your spells and skills. You must go to
+your guildmaster to let him/her help you improve.
+If you type practice, you will see which skills you can improve upon, and
+how good you already are at these.
+You can then use practice <skill>, to practice the appropriate skill.
+You can only practise a certain amount for each level you gain, and you
+do not have to save this, it can be accumulated.
+#
+PROMPT "COMBAT PROMPT"
+
+Usage: prompt <"combat"> <prompt string>
+
+This command sets your prompt. You may also set your combat prompt which is
+automatically switched to when you engage in combat. You may use any
+combination of characters in your prompt. Available special codes are:
+
+
+%n :  your character name                           
+%h :  current hit points                            
+%H :  maximum hit points                            
+%m :  current mana points                       
+%M :  maximum mana points                       
+%v :  current movement points                       
+%V :  maximum movement points                               
+%l :  current mana leech       
+%x :  exp until next level
+%X :  current exp
+%g :  gold carried
+
+
+                                  
+%e :  visible exits
+%w :  your wait lag in seconds (useful in combat)
+
+%d :  opponent's condition (descriptive)              
+%o :  opponent's condition (percentage)               
+%0:   opponent's name                                 
+
+%t :  tanker's condition	                                              
+%j :  group member with lowest hit points	      
+%k :  group member with lowest hit points (percentage)			
+%b :  group member with lowest movement points	      
+
+%^ :  a new line  
+%% :  percent sign
+
+There is one special code:
+%a'name' : If you are affected by skill/spell of given name, first letter of
+           that spell/skill will be returned. For example:
+           > prompt (%a'hide'%a'sanc'%a'fly') %h/%H>
+           If you want to use more then one skill/spell with the same first
+           letter, it is advisable to use color codes.
+
+&c'prompt default' will set prompt to "%hH %mM %vV %e>"
+'prompt combat default' will set combat prompt to "%hH %mM %vV [%O: %d]> "&0
+
+You can also use ANSI colors in your prompt. See help on ANSI for color codes.
+
+See also:  TOGGLE, ANSI
+#
+PUSH DRAG
+
+Usage: push <character | object> <direction>
+       drag <character | object> <direction>
+       
+       
+You may use push command to push someone or something out of the room.
+Example:
+> push guard north
+
+Drag command is similar to push except that you will also move in desired
+direction, together with your target. Also, target must be at least in
+sitting position in order to be draged (that means it must be on the ground).
+
+> drag corpse south
+> drag fido west
+
+Success depends upon your strength versus target's strength and their weight.
+PUSH and DRAG skills further improve your chances.
+#
+PUT
+
+For putting items into containers.
+
+> put bread bag
+> put all.bread bag
+> put all chest
+
+See also: GET
+#
+QSAY
+
+To tell something to everyone on the quest channel.
+
+See also: QUEST
+#
+QUAFF POTION POTIONS
+
+Usage: quaff <potion>
+
+Quaff is used to "drink" a (magical) potion.  The magic will take effect 
+immediately, for better or for worse...
+
+       
+Potions are typically used to augment spells and for healing in the aftermath
+of battles, but quaffing in combat is possible.
+  
+You may quaff in battle, but must perform a check against your dexterity
+with the following cumulative modifiers:
+  
+        -4      if fighting, as your attention is somewhat distracted by your
+                eager opponent trying to remove all your limbs from your body
+
+        -4      if wielding a weapon, as you must now defer to your offhand
+
+        -4      if wielding a weapon and a shield, as now you require a third
+                hand which you have just discovered that you do not have
+
+        +5      if you have the potion already held (hold potion)
+
+If you fail your check, the potion will break.
+
+As potions take some time to get, uncap and quaff, a slight delay will 
+result before you actually quaff the potion.
+
+See also: RECITE
+#
+QUEST
+
+QUEST commands: POINTS INFO TIME REQUEST COMPLETE LIST BUY.
+
+POINTS will show how many quest points do you have. You can also view this 
+with SCORE or WORTHY commands. You use your quest points to QUEST BUY some 
+items. You can view a list of items available for purchase with the QUEST 
+LIST command. Both of these commands are only available when you are at 
+your questmaster's location (for example Willie in the Midgaard Zoo). These 
+items can not be found or bought anywhere else. QUEST TIME will show the 
+remaining time for the completition of your quest. QUEST INFO will inform 
+you briefly about your quest. QUEST REQUEST will assign you a quest if one 
+is available. You can do only one quest at a time. When you finish your 
+quest, go to your questmaster and type QUEST COMPLETE.
+
+If there was a reboot during your quest, just type 'quest info' afterwards,
+which will make sure you don't lose any quest points.
+
+
+See also:  QSAY
+#
+QUI SHUTDOW
+
+Just to prevent accidental quittings and/or shutdowns.
+This command doesn't DO anything, it simply is.
+#
+QUICKTHROW
+
+Usage: quickthrow <object>
+
+Quickthrow can be used to throw objects at your enemy while fighting,
+causing damage. Thrown objects will deal damage proportional to their
+damage dice, or if not weapons, to their weight. To get the full effect
+of throwing things at mobs, it is best to practice the thief skill
+'knife throwing'.
+
+See also: THROW SHOOT 
+#
+QUIT
+
+When you get tired of playing, you can leave the game by typing 'quit'.
+Note that quitting this way causes any items you might be carrying to
+simply be left on the ground.  If you wish to have your equipment stored,
+you'll have to find an inn and pay rent.
+
+See also: INN
+#
+RACE
+
+Try help on a specific rade ie. 'help troll'
+#
+RANGER
+
+  The history of the ranger is as long as it is interesting. Rangers
+were first used in the great wars as quick moving, lightly armored
+scouts during the ancient wars. Later, they were known as heavy
+hitting elite strike forces with extensive training in woodcraft and
+wilderness survival. In the peaceful years before the current era
+they were primarily caretakers of the forests and wilder wilderness
+areas near the big cities. In the current era of constant conflict
+and wars, the Rangers are great survivors.
+
+The following spells are available to ranger:
+Level    Spell                         Level    Spell
+---------------------------------------------------------------------------
+4 : Cure poison                        20: Arrow rain
+6 : Infravision                        21: Protection from fire
+8 : Create spring                      22: Surcease
+9 : Protection from lightning          24: Blindness
+10: Barkskin                           26: Eagle eye
+11: Cure blindness                     28: Refresh
+13: Protection from coldness           29: Web
+15: Endurance                          31: Stoneskin
+17: Faerie fire                        33: Call lightning
+19: Sense life
+
+
+The following skills are available to ranger:
+Level    Skill                         Level    Skill
+---------------------------------------------------------------------------
+1 : Fillet, Cook, Enhanced sight       16: Elbow swing
+2 : First aid                          17: Hunt
+3 : Archery                            18: Shield block, Bash
+4 : Track                              19: Dual wield
+5 : Kick                               riposte?
+6 : Consider                           21: Retreat
+7 : Parry                              22: Knee thrust
+8 : Forage                             23: Disarm
+9 : Trip                               24: Spring leap
+10: Sneak                              25: Third attack
+11: Rescue                             27: Medic
+12: Second attack                      30: Sweepkick
+13: Cover tracks, Sharpen              32: Guard ???
+14: Map terrain                        35: Whirlwind
+15: Autopsy                            39: Combo
+
+Ranger's teacher is trusty John the Lumberjack, and he can be often found
+in Haon-Dor forest, near his wooden cabin.
+#
+READ
+
+When you want to read something.
+
+READ is also used to read messages on bulletin boards; type HELP BOARDS
+for more information.
+
+> read note
+
+See also: BOARDS
+#
+RECITE SCROLL SCROLLS
+
+Use : Recite <Scroll> [Target]
+
+Is used to "read" a magical scroll. Target can be an object, character or
+nothing (which may be yourself).
+ 
+You may recite scrolls in battle, but must perform a check against your 
+dexterity with the following cumulative modifiers:
+  
+    -4      if fighting, as your attention is somewhat distracted by your
+            eager opponent trying to remove all your limbs from your body
+
+    -4      if wielding a weapon, as you must now defer to your offhand
+
+    -4      if wielding a weapon and a shield, as now you require a third
+            hand which you have just discovered that you do not have
+
+    +5      if you already have the scroll prepared in your hand (hold scroll)
+
+If you fail your check, the scroll will probably tear apart. While reciting
+a scroll you will not be able to attack and your defense will be somewhat
+weaker.
+
+See also: QUAFF
+#
+REGENERATION
+
+This shows you how fast you regenerate your hitpoints, mana and move per
+tick.
+Maximum regeneration that you can have is 1/4 of your points. So, if you
+have 600 mana points, you have maximum regen of 150 mana per tick. 
+
+See also: REGENERATE
+#
+REMOVE
+
+If you tire of wearing some armor or wielding a weapon.
+
+> remove boots
+> remove sword
+> remove all
+> remove all.bronze
+
+See also: WEAR, WIELD
+#
+REPEAT
+
+Use REPEAT to control whether or not the mud echoes your communication 
+commands to you (i.e. the MUD will tell you what you just said, group-said,
+shouted, or told someone).  This is useful to verify what you just said, 
+but can be annoying if you have a slow link.
+
+See also:  SAY GSAY TELL SHOUT HOLLER
+#
+REPLAY
+
+REPLAY displays the last 10 tells you received. This is quite useful for
+the tells you tend to miss during battles.
+#
+REPORT
+
+This command sends a report of your current and max hp and mana to your
+group.  You can use this command to let potential rescuers know how
+low your hps are without forcing them to use the "group" command.  It is
+designed as a convenience for groups with members who get lag or have slow
+modems.
+
+> report
+#
+RESIZE
+
+Syntax: resize <number_of_lines>
+
+This command will set your current screen settings used when DISPLAY is set 
+to VT100. By default it is set to 24.
+
+See also: DISPLAY TOGGLE
+#
+RSTAT
+
+RSTAT shows room stats, just like 'STAT ROOM', but allows you to stat 
+remote rooms.  If no room is specified, you will see the stats of the 
+room you are currently in.
+
+rstat [room #]
+
+> rstat
+> rstat 3001
+
+See also:  RSET
+#
+SACRIFICE
+
+usage: sacrifice <obj>
+
+With this command you offer a sacrifice to your God. Depending on the value of
+the sacrifice you may be awarded or even punished.
+
+See also: AUTOSAC
+#
+SATE
+
+Usage       : cast 'sate'
+Duration    : Instantaneous
+
+This spell will instantly sate caster's hunger.
+
+See Also: -
+#
+SAVE
+
+Save your persona.  This includes experience points, strength, gold, etc.
+Your equipment is also saved in the (unlikely?) event of a crash.  The
+game periodically auto-saves you and your equipment, so it is not necessary
+to have your client auto-save you as well.
+
+You CANNOT load a saved version if you die -- your persona still exists,
+but you will lose experience, and all your objects stay in the game, with
+your corpse.
+
+Note that the SAVE command only saves your equipment in the event of a
+crash.  
+
+> save
+
+See also:  INN RENT
+#
+SAY TELL ASK WHISPER SHOUT YELL HOLLER ' SAYTO
+
+If you consider communicating with other beings, you might be understood
+better if you start your sentences with either say, tell, whisper or shout.
+
+<say | shout | holler> <string>
+<tell | whisper | ask | sayto> <player> <string>
+
+> say Hey, does anyone know how to get to Oz?
+> tell uncle hi, how are you?
+
+You can use ' as a shorthand for say, as in: ' hello there.
+
+Shout broadcasts your message to everyone is your geographic zone.  Holler
+broadcasts to everyone in the game but costs 20 movement points.  You must
+be level 2 before you can use shout and yell.
+
+See also: GOSSIP AUCTION GSAY NOREPEAT QSAY
+#
+SCORE
+
+Whenever you want to check whether you're still alive and healthy
+or simply want to see how much money you have left.
+#
+SELL
+
+If you'd like to sell an item to a shopkeeper, trying selling it to them.
+Most shops specialize in what they will buy, so you may have to look around
+to find a buyer for your items.
+ 
+Examples:
+ 
+> sell sword       (sell the first sword in your inventory)
+> sell 3 sword     (sell the first three swords in your inventory)
+ 
+See also: SHOPS BUY LIST VALUE
+#
+SHOOT FIRE
+
+Usage       : shoot <direction> <name>
+
+
+This allows you to fire something in the direction chosen, aiming the
+named target. You must wield something that can fire an item, and you
+must hold the item you want to launch.  For instance, you must have a
+bow wielded and hold an arrow in order to fire it. Also arrows usually
+hace increased range, allowing you to fire them to distance of several
+rooms.
+
+If no name is given you will simply fire in that direction, randomly
+hitting someone. If name is given, there is a chance you will miss
+and hit someone else.
+
+Example:	shoot east fido
+
+This will fire an item eastwards, aiming fido.
+
+See also: THROW
+#
+SHOPS
+
+Shops are places where the adventurer may purchase equipment for his 
+quests,and where he may sell his treasure if he should manage to survive 
+the perils with his life and sanity intact. Many shops trade only in a 
+specific type of merchandise. Thus, a baker may well refuse to buy your 
+armor, even if it is of high quality!
+   To some people, the prospect of obtaining the entire inventory of a shop 
+by murdering the keeper may appear tempting - but beware: The shopkeepers 
+are often rugged, capable men; roughened by years of trading and, indeed, 
+surviving in a world where the only safe prospect is death in the end.
+
+See also: BUY, SELL, LIST, VALUE
+#
+SHUTDOWN
+
+Shutdown is now timed, with a message appearing at the 5 minute mark, the 3 
+minute mark, the 1 minute mark, the 30 second mark, and a final ten second
+countdown starting at the 10 second mark.
+
+Mortals, Immortals, Gods and Greater Gods can type shutdown to see whether
+	Lostlands is shutting down, and if so, how much time is left.
+
+Implementors can specify the following type of shutdown:
+	shutdown time			reports time until shutdown.
+	shutdown <no arg>		5 Minute
+	shutdown reboot			1 Minute
+	shutdown die			10 seconds
+	shutdown remake			30 seconds, forces a make.
+	shutdown pause			30 seconds, pauses autorun indefinitely.
+	shutdown off			cancels shutdown
+#
+SKILL SKILLS COMBAT
+
+See specific help on classes.
+
+See Also: MAGE DRUID THIEF WARRIOR MONK CLERIC
+#
+SKY STARS STARMAP CONSTELLATION
+
+The night sky in the Lands of Myst is host to many stars.
+The ancients recognized patterns in these stars and named many
+constellations after them.  Throughout the year you may be able
+to 'look sky' and pick out some of the most famous ones, including:
+
+&W  Lupus   &G Gigas&M  Pyx &y Enigma&c Centaurus&B Terken&R Raptus
+&W   The    &G  The &M  The &y  The  &c   The    &B  The  &R  The  
+&WWhite Wolf&G Giant&M Pixie&y Sphinx&c  Centaur &B  Drow &R Raptor&x
+
+Starmap was written by nebseni. Hail to him.
+#
+SLIST SPELLS SKILLS
+
+Try reading help on classes to get available spells/skills for your
+profession.
+#
+SMILE
+
+Whenever you feel like smiling...
+#
+SOCIALS
+
+Socials are commands used to show your affective state to others.  The
+actor, victim and bystanders may receive different messages.  Generally,
+social commands are used only to express emotion, but it is possible that
+some mobs (or players) will take action based on the social.
+
+<social> [<victim>]
+
+> shake homer
+> applaud marge
+> doh
+
+The SOCIALS command generates a canonical listing of all available socials.
+
+> socials
+
+See also: EMOTE
+#
+SPECIAL
+
+There are some unique things you should know about. For further info see 
+help on this topics:
+
+ENGRAVE, EMBALM, HIRE, QUEST, CLAN
+#
+SPELL SPELLS MANA "SAVING THROW" SAVING_
+
+Spells are ways for spellcasters to express their powers. In order to use
+spells, one must spend some of his MANA energy.  Power of all damaging
+spells is halved if the victim save a throw versus spell. Furthermore,
+SANCTUARY will halve every damage creature is taking, so it will for the
+spells. Protection spells (like prot lightning or prot fire) will also lower
+the damage taken from corresponding spells. If fire spells are used during
+wet conditions (eg. during rain or in water conditions) their damage is also
+lowered. Also, intelligence of the caster greatly affects the destructive
+power of his spells. At INT of 18 all spells will be casted with 100% power.
+Higher INT means more power, lower INT means less.
+
+For list of spells available to your class see help on your class.
+    
+See also: MAGE CLERIC DRUID
+#
+SPLIT
+
+Usage:  SPLIT <amount to split>
+
+SPLIT is used to split money among people in your group who are in the same
+room as you.  If you are in a group with 4 other people, all of whom are in
+the same room with you, and you type SPLIT 100, you will give each of the
+other 4 group members 20 coins each.  (100 coins is split 5 ways; you keep
+your share and give everyone else their share).
+
+See also: GROUP FOLLOW
+#
+SPY
+
+  Spying helps a thief character gain information about the world 
+around him/her.  After one has typed 'spy', one can look in various 
+directions, and given that there is an exit in that direction, and nothing 
+blocking the way (like a closed door), then the contents of the other room 
+will be displayed.
+#
+STEAL
+
+Thief Only.
+
+Use steal to steal gold or items from people. The chance of not getting
+caught depends on how well you have practiced steal, and if the person
+is asleep.
+
+Due to misuse of the steal command, it is now illegal to steal from other
+players.  Doing so will get you a flag for your trouble.
+
+Example:
+
+> steal gold drunk
+
+> steal sword mercenary
+  (only possible if he is sleeping)
+
+#
+STRING
+
+For changing the text-strings associated with objects and characters. The
+format is:
+
+string <type> <name> <field> [<string> | <keyword>]
+
+Type is either 'obj' or 'char'.
+Field is one of the following(the names may be abbreviated):
+Name                  (the call-name of an obj/char - kill giant)
+Short                 (for inventory lists (obj's) and actions (char's))
+Long                  (for when obj/character is seen in room)
+Title                 (for players)
+Description           (For look at. For obj's, must be followed by a keyword)
+Delete-description    (only for obj's. Must be followed by keyword)
+
+Where a string is expected as the last argument, a newline will make you enter
+a string mode, and the game will prompt you for new lines to the string until
+you exceed the maximum length for the string or you end a line with a '@'.
+
+Mobiles and objects currently can not be strung.
+#
+STROM
+
+ 	                  STROM'S LOST LANDS
+
+STROM'S LOST LANDS was developed from CircleMUD (3.00bpl8), which was 
+developed from DikuMUD (Gamma 0.0).
+
+STROM'S LOST LANDS branched from kosher CircleMUD code by more than 20%.
+And thus can be thought of as a derivative of Circle.
+
+STROM'S LOST LANDS was developed by Billy Chan during many lunch breaks
+and staying late through the night while working at WindRiver Systems.
+
+I'd like to thank the following people for their help during the development
+of STROM'S LOST LANDS:
+  
+  -- Mike Scheel for the wonderful testing and building.
+  -- Clara Ko for understanding and giving me permission to MUD.
+  -- Joe Hull and John Wier (theTick and Rimmer) for bug testing and building.
+  -- Levork for Iedit and Redit.
+  -- Josh Steadman, for some cool areas
+  -- Silly MUD for the teleport rooms.
+  -- The friends of Strom on Mortal Realms, for giving me the idea of what
+     would make a good MUD.
+  -- The CircleMUD folks and the DikuMUD folks, for starting the ball rolling.
+
+...plus everyone else in the Circle community who has submitted material!
+	Pink Floyd <floyd@south.mit.edu> for do_scan
+	samedi for some of the OLC stuff
+Thanks everyone!
+
+  Anoymous FTP:  ftp.wrs.com   /pub/billy/LostLands1.00
+Author's Email:  bhchan@csua.berkeley.edu
+           URL:  http://www.csua.berkeley.edu/~bhchan
+
+See Also: CIRCLEMUD
+#
+STYLE
+
+This command will change your fighting style. Possible arguments are
+"normal", "evasive", "aggresive".
+#
+THIEF
+
+  The thief is a person which exists alongside society, rather than within, 
+or even necessarily without.  The thief lives by skills and cunning, and 
+relies on the elements of surprise, trickery, and stealth.
+
+  The prime requisite of thieves is dexterity which makes them very    
+slippery opponents. Strength is desirable to make their primary attack,
+the backstab, more powerful and to allow them to carry more loot.      
+Intelligence is a big plus, allowing them to learn their skills quickly
+and expertly as well as to assist their streetsmarts. And as with all  
+classes, a hardy constitution will help them survive in the lethal     
+dark alleyways and sidestreets of the big cities.                      
+
+SEE ALSO: THIEF ABILITIES
+#
+THROW
+
+Usage       : throw <direction> <target>              
+                                
+This allows you to throw something in the direction chosen, aiming the
+named target. You must hold or wield an item you want to throw. Order
+of throwing is item dual-wielded, item wielded, item held. Thrown objects
+will deal damage proportional to their damage dice, or if not weapons, 
+to their weight.
+
+If no name is given you will simply fire in that direction, randomly
+hitting someone. If name is given, there is still a slight chance you
+will miss and hit someone else.
+
+Example:	throw north goblin
+See also: QUICKTHROW SHOOT 
+#
+TIME
+
+Gives you the current game time.  Your initial reaction to the output of
+this command may be one of surprise, but you'll get used to it.  You'll
+have to, at any rate, since certain things in the game depend on this
+particular notion of time; the opening hours of the shops, for example.
+#
+TITLE
+
+Sets the title people see on the WHO list and when you're in the room with
+them.  You can't use parentheses (the "(" and ")" characters) because those
+are reserved for flags.
+
+You can use ANSI colors in your title. See help on ANSI.
+
+See also:  FLAGS, ANSI
+#
+TOGGLE
+
+TOGGLE shows you the current values of various toggles available on the 
+MUD.
+
+To change enrage message type 'enrage <mesg>'.
+To change grats message type 'grats <mesg>'.
+To change prompt see help prompt.
+
+All communication channels are toggled by using 'no' prefix before channel
+name.
+example:
+>nogossip       - toggles gossip channel on/off
+>noshout	- toggles shouts on/off
+
+Quest channel toggles automaticaly when you join or leave a quest.
+
+Flags:
+Commands to use to toggle flags are
+nosumm, nowho, brief, comact, norepeat, color, wimp, nodam, nomisse, nomissf
+
+Actions:
+Use 'auto' command to toggle automatic actions.
+
+
+Additional help files:
+	   DISPLAY BRIEF COMPACT AUTO COLOR
+           QUEST REPEAT WIMP
+           NOINFO NOARENA NOTELL NOSHOUT NOSUMMON NOGRATS NOGOSSIP
+	   
+#
+TOP HALL MOBTOP MOBPK TOPDAM TOPHURT AHALL
+
+These commands show various top-lists.
+
+TOP     - shows top players of the mud, based on their level
+HALL    - shows most fameous players of the mud
+MOBTOP  - shows most killed mobs
+MOBPK   - shows most dangeorus mobs
+TOPDAM  - shows most damages players did (also try 'topdam <class>')
+TOPHURT - shows most damages players were hurt by (also try 'tophurt <class>')
+AHALL   - shows hall of fame for arena
+#
+TRAIN
+
+There is no old fashioned way training in Land of Myst. Stats are improved
+by equipment and spells. Only way to permamently improve one's stat is
+having a powerful druid cast 'improve stat' on you.
+
+See help on STAT to learn more.
+#
+TRAP TRAPS
+
+World hides many dangers, one of them being traps. There are many kind
+of traps you can encounter from small damaging darts, over huge constructions
+filled with acid, to magical trigger devices such as teleports. So beware
+your step!                            
+
+To see traps you know type 'traps'.
+To set a trap type 'trap <trap name>'. You may set only one trap per location.
+                 
+See also: DISABLE
+#
+TROLL
+
+Trolls are big and slow.  Make that BIG.  Known for their prowess in
+battle, their superior physical attributes, and their great size, Trolls
+are known to be unsurpassed warriors.  Along with these physical traits
+comes a particular dimness of mind and of senses, and Trolls able to cast
+spells are rare, and often less than competent.
+#
+UNGROUP
+
+UNGROUP can be used by group leaders to disband the entire group, or
+to kick a specific group member out of the group (and stop him/her from
+following the leader).
+
+> ungroup
+> ungroup homer
+
+See also: GROUP
+#
+USE WAND STAFF STAFFS WANDS
+
+Use : Use <Staff>
+      Use <Wand> <Target>
+
+Using staff's will automatically target everybody (or everything) in a
+room, execpt yourself. Therefore staff's are naturally very powerful, and
+yet may be very dangerous to use around other players.
+
+Using wands require that you point it at a target, which can be eihter a
+character or an object.
+
+Both staff's and wand's must be HELD in the hand prior to use! (Use the
+grab or hold commands). You must still supply the name of the staff or
+wand to avoid confusion.
+#
+VALUE
+
+Before selling an item to a shop, you can ask the shopkeeper how much
+he or she is willing to pay for it.
+
+Also, you can value an item in the shopkeeper's inventory to see whether
+you can use that item or not.
+Example:
+ 
+> value bread
+ 
+See also: SHOPS BUY SELL LIST
+#
+VICTIM
+
+Will show your killing scores.
+#
+VISIBLE
+
+Use this command to break your spell of invisibility before it expires.
+#
+WAKE SLEEPING REST SIT STAND
+
+For changing your position.  If you feel weary, it's probably a good idea
+to sit and rest for a while, or maybe even take a nap. By doing this you 
+restore your hit, mana and movement points faster than usual.
+#
+WALKIN WALKOUT WALKSET
+
+Syntax: walkin <text> | "off"
+Syntax: walkout <text> | "off"
+
+Thic command allows you to set your custom enter and exit messages. You can use
+the '#' character in place of the proper direction. It is optional to use it in
+walkin, but is neccessary in walkout string.
+
+Examples:
+
+> walkin suddenly appears before your eyes
+> walkin arrives from the #, cheering everyone
+
+> walkout leaves #
+> walkout rides a dragon to the #
+
+See also: TOGGLE
+#
+WARCRY
+
+Syntax: warcry <text> | "off"
+
+Thic command allows you to set the text you will scream out every time you 
+attack.
+
+See also: GRATS, TOGGLE
+#
+WARRIOR FIGHTER
+
+ It seems that most cultures have one thing in common, a need      
+for warriors. These are the men and women who train from birth      
+to survive the lethal environment of close combat with weapons      
+and armor. These soldiers, mercenaries, guards, etc. utilize        
+their knowledge of armor, weapons, and tactics to great effect.     
+While they may not have a lot of skills with which to draw from,    
+the skills they do learn are extremely effective, and are generally 
+learned quite early.  The only drawback of the warrior lies in      
+its main strength, its simplicity.                                  
+  The prime requisite of Warriors is strength, giving them the      
+capacity to mete out more damage, and carry more gear and           
+equipment than any other class.    
+
+
+SEE ALSO: WARRIOR ABILITIES
+#
+WEAR
+
+If you want to wear some clothes, armor or the likes.
+
+Also, to wear everything in your inventory (or at least try to, as wearing 
+things like loaves of bread is not a good way to win friends and influence
+people) you can type "wear all".
+
+Optionally, you can specify what part of your body to wear the equipment on.
+
+> wear boots
+> wear all.bronze
+> wear all
+> wear ring finger
+
+See also: EQUIPMENT, REMOVE EQUIPMENT
+#
+WEATHER
+
+If you're uncertain whether the sun is shining or the rain is pouring down.
+#
+WHERE
+
+Immortals may type 'where' without arguments to see where everybody is.
+
+> where
+> where torch
+> where dragon
+#
+WHO
+
+Lists the people currently in the game.  Some people may be invisible.
+Command-line options can be used to limit the listing.  The parameters
+can be specified on the command-line in any order.
+
+who [minlev[-maxlev]] [-n sname] [-c classlist] [-s] [-o] [-q] [-r] [-z]
+
+minlev, maxlev : list only people whose level is at or above minlev, and
+     optionally, at or below maxlev
+-n : list only people whose names or titles contain sname
+-c : list only people of a certain class, where classlist is any      
+     combination of the letters (w)arrior, (m)age, (c)leric, (t)hief,
+     (d)ruid or m(o)nk.
+-s : list names in the short form (4 columns of names, without titles or   
+     flags)
+-q : list only people who are on the Quest
+-r : list only people who are in your room
+-z : list only people in your zone
+
+> who -c wc -s -l 20
+	List, in short form, warriors and clerics at or above level 20
+> who 15-25 -z
+	List all between levels 15 and 25 who are in your zone.
+#
+WIELD
+
+When you get tired of bashing monsters with your fists, you might consider
+wielding a weapon.
+
+> wield sword
+
+See also: EQUIPMENT, REMOVE EQUIPMENT
+#
+WIMP WIMPY
+
+Use the WIMP command to automatically wimp out of a fight.
+
+WIMP 35 will make your character automatically flee a fight if he/she has
+	less than 35 hit points.
+WIMP 0  will turn off wimpy mode.
+WIMP    will show you your current wimp status.
+
+See also:  TOGGLE
+#
+WIZLIST IMMLIST
+
+Lists the most powerful beings on the MUD.
+#
+WLIST
+
+(World list)
+
+Options
+  Wlist obj <zone> | mob <zone>
+  Wlist S   (scrolls)
+  Wlist P   (potions)
+  Wlist T   (staves)
+  Wlist W   (wands)
+  Wlist #   (wear position)
+  
+
+Wlist o | m  <zone>
+
+  This will list all of the mobs or objects available to you, whether
+loaded in the game or not.  If no zone is specified, you will see all
+mobs/objects in your current zone.  Both will display the vnum and short
+description.  For a mob, you'll be given its level.  For objects, you'll
+see the wear position.  Also, Armor will show normal and magical AC, and
+weapons will include damage dice and +damroll apply.
+  If you specify a zone that has no objects because it is the second half
+of another zone, objects from the earlier zone will be displayed.
+
+Wlist S | P | W | T
+
+  This will list all the magical items available in the game.  All four will 
+give the vnum and short description. Wand and sTaff will include the spell 
+it casts and the number of charges it holds.  Potion and Scroll will 
+list all the spells of the item.
+
+Wlist # N | ?
+
+  This will list all items which can be worn in a specific position.  To see a 
+list of the positions available, use WLIST # ?, then replace the ? with the proper number.
+
+Ex:  WLIST # ?   (List shows WRIST is position 14)
+     WLIST # 14  (displays all wrist-wear in game)
+#
+WORTHY
+
+Just type it and everything will show up to you.
+
+See also: SCORE
+#
+WRITE
+
+In order to write a note, you need a piece of blank paper (or similar), and
+a pen of some sort. You can then type something like "write on the paper 
+with the pen", whereupon you'll be asked to type in your note at the 
+keyboard.
+
+WRITE is also used to post messages to bulletin boards.  Type HELP BOARDS
+for more information.
+
+See also: BOARDS
+#
+ZALLOW
+
+Gives a builder (level "god" or "grgod") permission to edit/create objects 
+(and in the future, rooms, mobs, etc) in the specified zone.  The name you 
+specify must be spelled correctly.
+
+zallow <builder name> <zone number>
+
+> zallow Rasmussen 30
+
+See also:  OEDIT ZDENY
+#
+ZDENY
+
+Removes a builder's permission to edit/create objects in the specified 
+zone.  The name you specify must be spelled correctly.
+
+zdeny <builder name> <zone number>
+
+> zdeny Rasmussen 30
+
+See also:  OEDIT ZALLOW
+#
+ZSTAT
+
+Removes a builder's permission to edit/create objects in the specified 
+zone.  The name you specify must be spelled correctly.
+
+zdeny <builder name> <zone number>
+
+> zdeny Rasmussen 30
+
+See also:  OEDIT ZALLOW
+#
+CHANGELOG  
+
+30. 06. 2001
+------------
+* poboljsani berserk i headbutt
+* poboljsani ambush i throw dagger. novi envenom (nije jos dovrsen)
+* nova komanda quickthrow
+* uskoro nova klasa
+
+27. 06. 2001
+------------
+* ispravka bugova
+* 80% gotov jedan od novih pocetnih gradova. Mozete ga videti ako napravite
+  novog lika
+
+ 
+11.6. 2001
+----------    
+* sredjeno koliko ko moze da nosi. Oprema vise nije teska nula ako je
+  equipovana.
+* topdam i tophurt po klasama sada rade ok                         
+* promasen bash vise nije automatsko padanje na zemlju nego ako prodjete str
+  i dex nista se ne desi                         
+* sanctuary nema nikakvu funkciju do daljnega
+* ne gube se automatski svi skillovi za 1% kada se zagine, nego je random
+ (sto je veci skill veca sansa da se izgubi)
+* sredjeni neki sitniji bugovi kod skillova
+
+
+ovih dana
+---------
+* Lands of Myst MUD, zapocet jos davne 1996 kao rezultat velikog entuzijazma
+  sacice upornih ljudi, ovih dana dostigao 100.000 linija C/C++ koda. Swords
+  high!
+* ispravljeni sitniji bugovi
+* kada zaginete gubite 1% od svih combat skillova. Zahvalite izvesnoj osobi
+  za ovu odlicnu ideju.
+
+31. May 2001
+------------ 
+* svideo vam se topdam :) odsada komanda prima i klasu kao parametar.
+  Snima se sav moguc damage i criticali i sve ostalo.
+* sacrifice radi i na iteme  
+* private kanali doterani. help private
+* kad se borite unarmed, pravite damage u zavisnosti od skilla a ne neku bedu
+* Combat sistem dalje doterivan. Mobovi menjani (veci damroll i hitroll) ali
+  manji prosecan damage.
+  Sa druge strane AC armorima povecan (moguce da armori koje nosite
+  imaju stari-losiji AC)    
+* u novim erijama sredjeni leveri tj poluge. Lever mozete da 'pull' i 'push'.  
+* dodana jos dva wear positiona, eyes i ears. Opremu potrazite u novim erijama
+* warriori dobili jos jedan skill - warrior code.
+
+
+30. May 2001
+------------ 
+* Nove erije! Za sada samo dve i to u razvitku ali dovoljno da uzivate u njima
+  Pristupate im tako sto na obe kapije midgaarda postoji portal i samo kucate
+  'enter portal'.
+  new features:
+  - exiti north-west, north-east itd.
+  - hidden exiti, znaci morate provaliti iz opisa sobe
+  - za prelzanje nekih soba potrebna interakcija sa mobovima (sa npr say)
+  - jos svasta...
+* ekonomija poboljsana. Keeperi daju pouste i kupuju koliko im treba.
+  Oruzja i armori imaju vecu vrednost.
+* combat sistem imao glup bug de je mobovima dodge bio setovan na nula
+  sto je rezultovalo u tome da se u borbama sa njima retko promasuje.
+  Kako je cilj da borbe traju duze da bi moglo da se razmislja malo
+  uradjene su sledece stvari:
+  1. dodge bug sredjen. 
+  2. enhanced damage efekat umanjen za 5%
+  3. efekat snage na damage umanjen za 10%
+* two-handed oruzja su jaca i teza
+* lowest hit percent group prompt bla-truc! probaj sad. 
+* mobovi koji nose dagger a pritom su bili warriori, sada su thiefovi
+* ispravljen bug sa neprimernim kolicinama novca u objektima koje mobovi nose
+* nove komande 'topdam' i 'tophurt'. Uzivajte!
+* posle pkill-a aktivan je timer od 5 minuta koji neomogucava quitovanje  
+* death trapovi vraceni na staro (dobro?) Gines, gubis opremu koju ne mozes
+  da vratis. Osetite strah :P     
+  
+
+25. May 2001
+------------ 
+* sredjenja gomilica bugova, ukljucujuci i majorovo pijanstvo
+* dex znaci vise u combatu. gleda se vas dex u odnosu na dex protivnika 
+  pri udarcu
+* uradjeni pocetni ego armori. Vazno: sve ideje dobrodosle. Znaci ako imate
+  ideju za ego armore i ego weapone posaljite je sa idea komandom u formi
+  [ime za ego] [za koje levele otprilike] [sta bi trebao da radi/povecava]
+
+Za ostatak pogledati CHANGELOG_1
+#
+CHANGELOG_1
+
+  
+  
+18. May 2001
+------------
+* mobovi imaju ujednacenije karakteristike. Upozorenje: zbog ovoga ce drugacije tuci nego do sada
+* sredjen bug sa expom. mobovi ne daju vise toliko mnogo expa.
+* pick lock, bashdoor, envenom popravljeni
+* skillove moguce improve-ovati preko 100% - samo veoma tesko
+
+13. May 2001
+------------
+* double-death bug konacno ispravljen
+* envenom radi i na wieldovan item. inicijalni udarac sa posionovanim
+  weaponom ce praviti veci damage, zavisno od znanju u ovom skillu
+* shield mastery povecava sanse za bash
+* move hidden radi isto kao i sneak, a skill se proverava kod svakog move-a
+
+
+
+09. May 2001
+------------
+* sposobnost za combat zavisi i od healtha, tj. sto je neko vise ranjen slabije
+  ce napadati i braniti se
+* repairman prima 'repair all' komandu, posle koje ce probati da popravi sav
+  eq koji nosite
+* gutovani "trofeji" ostaju posle logovanja      
+* popravljene "nepravilnosti" u promptu 
+
+= Jack: sa '=' komandom ponistavas sve zadate komande u baferu
+= Chandalen: 'damroll' na snagu vec postoji. Radi tako sto se damage mnozi
+  za koeficijentom. Za snagu 16 koef. je 1.0, za snagu 	25 je 1.80!
+
+29. April 2001
+--------------
+* kada kucate 'combat' moci cete da vidite jos jednu stavku po imenu attack
+  roll. Ona predstavlja vas ukupan izracunati bonus u borbi.
+* logove saljete tako sto copy&pastujete sadrzaj ekrana u trenutku kada
+  se desi nesto zanimljivo i posaljete ga meni na mail  
+  
+  
+
+26. April 2001
+--------------
+* weapon shopkeeperi pravilno kupuju bow-ove sada
+* grip skill utice i na scrollove i potione
+* postanske markice pojeftinile na pristupacnih 5 coina
+* gateguardovi vise ne prave onoliku guzvu
+* male izmene na combat enginu (dex se gleda realnije, style isto)
+* CTF arena ponovo radi. Komande 'awho' i 'ahall' ponovo rade.
+* ispravljen bug kad se mud crashuje zbog ego armora
+* blacksmith u Sundhavenu takodje popravlja stvari
+* znate za mobove koji umru sami od sebe tik pre nego sto ih ubijete i ostave
+  vas bez expa? Vise to nece raditi. (nego ce naglo skociti sa zemlje i
+  pojesti vas prim. aut.)
+
+= curse i slicno na sac se dobija kada zrtva nije prigodna. Naprimer level ste
+  15 i zrtvujete puza ili snotlinga. Konkretno, gleda se level razlika izmedju
+  vas i zrtve i sto je zrtvin nivo veci Bogovi ce biti zadovoljniji i ceka vas
+  nagrada. Ako cistite neku eriju sa jako slabim mobovima onda bolje iskljucite
+  autosac jer Bogove bas briga sto vi to radite zbog expa.
+= da, 'bashdoor' radi i na sirovu snagu. To znaci ako si bas mrcina, provalices.
+= dobijanje ponovnih adv poena ima veze sa restartovanjem muda. 
+  tj. sa dodavanjem novih mobova (pomere se indexi). Za sada je to normalno
+  dok se ne finalizuju erije.
+= mobovi iz mud schoola izrazili zelju da igraju protiv nasih fudbalera
+
+
+23. April 2001
+--------------
+* cursovani itemi se na odbacuju tako lako vise
+* novac vise ne pada sa neba (penny lane, rudnik...)
+* u grad stigle "zanatlije". Tu su repairman, salesman i jedan sumnjivi lik
+* probajte ponekad 'look sky', pogotovo nocu.       
+* ispravljen wear all.nesto bug
+* za flee se od sada gubi konstantan exp (50)
+* Yoda leci i drunk od sada
+* sacrifice ima neki stvarni ucinak. Bice detaljnije kada se urade bozanstva
+
+
+? par ljudi je prijavilo da svetlo ne radi kako treba. Neka neko posalje log
+? isto vazi i za dupliranje opreme. Ako se ponovi posaljite log       
+? "dragon me zapali i ubije pa ginem dva puta jednom od dragon drugi put 
+  od vatre kod smrti". Ne mogu da ponovim ovo. Treba mi log kad se desi
+  sledeci put.
+       
+! Cim primetite bug koristite komandu 'bug'. Za korisne ideje komanda 'idea'       
+
+
+16. April 2001
+--------------
+* shopkeeperi vise ne kupuju mnogo ostecene stvari
+* objekti se teze "damaguju". repair komanda disablovana (bice poseban skill)
+* vraceno %t (stanje tankera) u prompt opcije
+* komanda 'ego' radi. Ona treba da pokaze listu poznatih (identifikovanih) ego itema         
+* kada vise ljudi/monstera bije samo jednog coveka/monstera, njemu nije lako. tj
+  uradjeno je da ga lakse pogadjaju (overhelmovan je protivnicima)
+* ispravljen bug sa improve-ovanjem combat skillova 
+
+
+See Also: NEWS
+#~

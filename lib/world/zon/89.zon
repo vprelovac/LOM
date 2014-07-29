@@ -1,0 +1,63 @@
+#89
+Holy Grove~
+8999 65 2
+M 0 8900 1 8905    Place The Hierophant to The sacred glade (max 1)
+E 1 8910 99 16         Equip a wooden staff, wielded as a weapon (max 99)
+E 1 8911 99 5         Equip a brown robe, worn on body (max 99)
+G 1 8919 99         Give some pinkish herbs (max 99)
+G 1 8918 99         Give some orangish herbs (max 99)
+M 0 8901 1 8901    Place The Hierophant to The holy grove (max 1)
+E 1 8910 99 16         Equip a wooden staff, wielded as a weapon (max 99)
+E 1 8911 99 5         Equip a brown robe, worn on body (max 99)
+G 1 8913 99         Give some bluish herbs (max 99)
+G 1 8915 99         Give some blackish herbs (max 99)
+M 0 8902 1 8902    Place an elder druid to The holy grove (max 1)
+E 1 8910 99 16         Equip a wooden staff, wielded as a weapon (max 99)
+G 1 8914 99         Give some purplish herbs (max 99)
+G 1 8916 99         Give some grayish herbs (max 99)
+M 0 8903 1 8904    Place an elder druidess to The holy grove (max 1)
+E 1 8910 99 16         Equip a wooden staff, wielded as a weapon (max 99)
+G 1 8919 99         Give some pinkish herbs (max 99)
+G 1 8917 99         Give some reddish herbs (max 99)
+M 0 8904 2 8905    Place a doe to The sacred glade (max 2)
+M 0 8905 2 8906    Place a deer to The holy grove (max 2)
+M 0 8906 1 8905    Place a stag to The sacred glade (max 1)
+M 0 8907 4 8903    Place a small bunny to A clearing in the woods (max 4)
+M 0 8907 4 8903    Place a small bunny to A clearing in the woods (max 4)
+M 0 8908 9 8906    Place a harmless snake to The holy grove (max 9)
+M 0 8909 1 8911    Place a druid to The hallway (max 1)
+G 1 8913 99         Give some bluish herbs (max 99)
+M 0 8909 2 8918    Place a druid to The dining hall (max 2)
+G 1 8916 99         Give some grayish herbs (max 99)
+M 0 8910 1 8914    Place a druidess to The red room (max 1)
+G 1 8914 99         Give some purplish herbs (max 99)
+M 0 8910 2 8917    Place a druidess to The greenhouse (max 2)
+G 1 8918 99         Give some orangish herbs (max 99)
+O 0 8901 2 8912    Place a closet to The blue room (max 2)
+O 0 8901 2 8914    Place a closet to The red room (max 2)
+O 0 8902 2 8915    Place a spice jar to The kitchen (max 2)
+P 1 8903 1 8902    Put some black powder in a spice jar (max 1)
+O 0 8902 2 8915    Place a spice jar to The kitchen (max 2)
+P 1 8904 1 8902    Put some small yellow kernels in a spice jar (max 1)
+O 0 8905 1 8915    Place a crumpled wad of paper to The kitchen (max 1)
+D 0 8914 3 1    Set   #8914 - The red room door to WEST as closed
+D 0 8913 1 1    Set   #8913 - The hallway door to EAST as closed
+D 0 8912 3 1    Set   #8912 - The blue room door to WEST as closed
+D 0 8911 1 1    Set   #8911 - The hallway door to EAST as closed
+D 0 8911 0 1    Set   #8911 - The hallway door to NORTH as closed
+D 0 8910 2 1    Set   #8910 - The foyer door to SOUTH as closed
+D 0 8910 0 1    Set   #8910 - The foyer door to NORTH as closed
+D 0 8909 2 1    Set   #8909 - The croquet lawn door to SOUTH as closed
+D 0 8913 2 1    Set   #8913 - The hallway door to SOUTH as closed
+D 0 8915 0 1    Set   #8915 - The kitchen door to NORTH as closed
+D 0 8913 3 1    Set   #8913 - The hallway door to WEST as closed
+D 0 8916 1 1    Set   #8916 - The ballroom door to EAST as closed
+D 0 8918 0 1    Set   #8918 - The dining hall door to NORTH as closed
+D 0 8916 2 1    Set   #8916 - The ballroom door to SOUTH as closed
+D 0 8918 1 1    Set   #8918 - The dining hall door to EAST as closed
+D 0 8915 3 1    Set   #8915 - The kitchen door to WEST as closed
+D 0 8918 3 1    Set   #8918 - The dining hall door to WEST as closed
+D 0 8919 1 1    Set   #8919 - The terrace door to EAST as closed
+D 0 8917 2 1    Set   #8917 - The greenhouse door to SOUTH as closed
+D 0 8919 0 1    Set   #8919 - The terrace door to NORTH as closed
+S

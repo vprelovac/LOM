@@ -1,0 +1,227 @@
+#8350
+mob gnome laborer~
+the gnome laborer~
+A gnome laborer is here, relaxing after a hard day of work.
+~
+This man is stout and pudgy. He has a long, white beard and a reddish nose.
+Although is measures only 3 feet in height, he look he looks strong for his
+size.
+~
+14 0 1000 E
+7 8 4 130d1+0 3d3+1
+500 0
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8351
+mob gnome woman~
+the gnome woman~
+A gnome woman is here, smiling at you casually.
+~
+The gnome woman stands no more than 3 feet tall. She hums softly to herself
+as she goes about her work.
+~
+14 0 1000 E
+6 9 9 110d1+0 4d3+0
+500 0
+8 8 2
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8352
+mob gnome child~
+the gnome child~
+A gnome child is here, pointing at you and laughing.
+~
+This small humanoid stands at about 2 feet in height. His mischievious grin
+seems to tell you that he is usually up to no good.
+~
+12 0 1000 E
+4 10 9 76d1+0 3d3+0
+50 0
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8353
+mob gnome guard~
+the gnome guard~
+A guard of the gnome village is here, scanning the area for intruders.
+~
+This gnome looks to be both muscular and dextrous. He has sworn upon his
+father's grave to protect the villagers with his life. He carries a stern
+expression on his face, and eyes you with slight suspicion.
+~
+4110 0 1000 E
+9 11 7 165d1+0 3d3+3
+600 0
+8 8 1
+Str: 17
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+E
+#8354
+mob gnome leader Grenlitstone~
+Grenlitstone~
+Grenlitstone, leader of the gnome people is standing here.
+~
+This is the oldest gnome you have seen here yet. His long, flowing, white
+beard hangs down to his knees, and his nose is red from years of heavy
+ale drinking. He smiles and welcomes you into his room as you approach.
+~
+262414 128 1000 E
+10 3 4 150d1+0 3d3+8
+1000 0
+8 8 1
+Str: 15
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+E
+#8355
+mob gnome infant~
+the gnome infant~
+A gnome infant is here, lying in a crib.
+~
+Aaaawwww, how cute!
+~
+14 0 1000 E
+1 12 8 40d1+0 3d1+0
+10 0
+8 8 1
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8356
+mob gnome traveller~
+the gnome traveller~
+A gnome traveller is here, getting drunk and telling tales.
+~
+The man has a worn face and a long white beard. He seems to have several
+of the people in the bar listening to his stories. From what you can here,
+most of what is he telling about his travels is probably not true.
+~
+14 0 1000 E
+8 8 6 150d1+0 5d3+0
+800 0
+8 8 1
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+E
+#8357
+mob gnome innkeeper~
+the gnome innkeeper~
+The innkeeper is here, tending to the bar and offering rooms.
+~
+This man looks rich and fat. It is obvious that his business has been 
+profitable for him. When he sees that you are not a gnome, he eyes you
+suspiciously.
+~
+14 136 1000 E
+25 -67 -25 20000d1+5000 10d10+90
+20000 0
+8 8 1
+Str: 19
+Dex: 17
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#8358
+mob gnome hero egbenchad~
+Egbenchad, Gnome hero~
+Folk hero of the gnomes, Egbenchad, stands here.
+~
+This is the largest gnome you have ever seen. Under his long beard you can
+see his bulging muscles and tough skin. Stories from town have told you that
+this man was responsible for single-handedly slaying a wyvern that once 
+plagued the village with repeated attacks. He is respected throughout the
+community, and legends of his deeds will be passed down for generations.
+~
+14 0 1000 E
+15 1 1 1d1+260 5d3+5
+1000 0
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+E
+>rand_prog   20~
+if rand(50)
+	say You wouldn't believe me...
+	say But once, I actually fought a dragon.
+	say Oh yes...
+	emo sighs.
+else
+	if rand(50)
+		say I remember those days...
+        else if rand(20)
+                say Those where days... Not like now with all this wimps around.
+	endif
+endif
+~
+|
+#8359
+mob gnome drunk drunken~
+the drunken gnome~
+A drunken Gnome is here, quaffing large quantities of ale.
+~
+It is evident from looking at this little man that he has too much to drink.
+His nose is red and his eyes are bloodshot. He desperately tries to hold on
+to his mug of ale, so that he can have a few more sips before he passes out.
+~
+14 0 1000 E
+5 10 10 90d1+0 1d7+1
+200 0
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8360
+mob Mordach~
+Mordach the Gnomish Guardian Beast~
+A HUGE beast is looking you up and down.
+~
+undefined~
+327694 100663464 0 E
+50 -11 -14 1d1+1961 5d90+0
+20000000 0
+8 8 1
+Str: 19
+Dex: 16
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+$

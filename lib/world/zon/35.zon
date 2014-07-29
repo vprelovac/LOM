@@ -1,0 +1,57 @@
+#35
+Miden'nir~
+3599 60 2
+* Field #1    Field #3   Field #4  Field #5
+* M (Mobile)  Mob-Vnum   Wld-Max   Room-Vnum
+* O (Object)  Obj-Vnum   Wld-Max   Room-Vnum
+* G (Give)    Obj-Vnum   Wld-Max   Unused
+* E (Equip)   Obj-Vnum   Wld-Max   EQ-Position
+* P (Put)     Obj-Vnum   Wld-Max   Target-Obj-Vnum
+* D (Door)    Room-Vnum  Door-Dir  Door-State
+* R (Remove)  Room-Vnum  Obj-Vnum  Unused
+M 0 3505 1 3576 	(the Innkeeper)
+G 1 3002 100 -1 	(a bottle)
+M 0 3500 3 3521 	(the wyvern)
+M 0 3500 3 3521 	(the wyvern)
+M 0 3500 3 3521 	(the wyvern)
+M 0 3501 10 3508 	(the goblin)
+E 1 3502 10 16 	(a wooden club)
+M 0 3501 10 3509 	(the goblin)
+E 1 3502 10 16 	(a wooden club)
+M 0 3501 10 3509 	(the goblin)
+E 1 3502 10 16 	(a wooden club)
+M 0 3501 10 3512 	(the goblin)
+E 1 3502 10 16 	(a wooden club)
+M 0 3501 10 3512 	(the goblin)
+E 1 3502 10 16 	(a wooden club)
+M 0 3501 10 3512 	(the goblin)
+E 1 3502 10 16 	(a wooden club)
+M 0 3501 10 3514 	(the goblin)
+E 1 3502 10 16 	(a wooden club)
+M 0 3501 10 3516 	(the goblin)
+E 1 3502 10 16 	(a wooden club)
+M 0 3501 10 3518 	(the goblin)
+E 1 3502 10 16 	(a wooden club)
+M 0 3501 10 3556 	(the goblin)
+E 1 3502 10 16 	(a wooden club)
+M 0 3502 4 3551 	(the goblin lieutenant)
+E 1 3500 10 16 	(a small sword)
+M 0 3502 4 3556 	(the goblin lieutenant)
+E 1 3500 10 16 	(a small sword)
+M 0 3503 1 3556 	(the goblin leader)
+E 1 3504 10 16 	(a small spear)
+M 0 3504 1 3575 	(the small boy)
+E 1 3508 25 17 	(the gyroscope)
+M 0 3506 1 3577 	(the bard)
+E 1 3502 2 16 	(a wooden club)
+M 0 3507 4 3584 	(the dark horseman)
+E 1 3503 8 5 	(a studded leather jacket)
+M 0 3507 4 3584 	(the dark horseman)
+E 1 3503 8 5 	(a studded leather jacket)
+O 0 3505 2 3521 	(a mutilated corpse)
+O 0 3506 1 3521 	(a mutilated corpse)
+P 1 3507 1 3506 	(an ornate dagger)
+O 0 3505 2 3521 	(a mutilated corpse)
+M 0 100 1 3550 	(the bandit)
+S
+$

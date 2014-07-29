@@ -1,0 +1,1489 @@
+#315
+Palace of the Lost Souls~
+31599 35 2
+
+#AUTHOR Sullen~
+
+#RESETMSG Sounds of pain, fright and hunger can be heard echoing through the halls of palace...~
+
+M 0 31500 1 31500 ; Mob: #31500 Guardian priest of Souls => #31500 At the entrance
+O 0 31500 1 31500 ; Object: #31500 A small silver box => #31500 At the entrance
+O 0 31503 1 31504 ; Object: #31503 Pool => #31504 By the lake
+O 0 31504 1 31508 ; Object: #31504 An iron ring => #31508 Empty room
+O 0 31507 1 31535 ; Object: #31507 A painting => #31535 Just another turn
+O 0 31508 1 31533 ; Object: #31508 A small sign => #31533 The stairs
+M 0 31505 1 31538 ; Mob: #31505 The Protector => #31538 Lookout tower
+E 1 31511 1 6 ; -- Equip: #31511 A silver helmet (head)
+E 1 31510 1 11 ; -- Equip: #31510 A silver shield (shield)
+E 1 31509 1 16 ; -- Equip: #31509 A silver sword (wield)
+M 0 31513 1 31532 ; Mob: #31513 An ubue shaman => #31532 The tribunal
+E 1 31514 11 5 ; -- Equip: #31514 An animal skin (body)
+E 1 31515 5 21 ; -- Equip: #31515 A bone earring (ears)
+E 1 31516 10 16 ; -- Equip: #31516 A bone (wield)
+M 0 31501 1 31540 ; Mob: #31501 Evil => #31540 Evil room
+M 0 31503 1 31505 ; Mob: #31503 Purple moss => #31505 Damp room
+M 0 31508 1 31529 ; Mob: #31508 A gelatinous cube => #31529 Inside the palace
+M 0 31506 5 31514 ; Mob: #31506 A broken one => #31514 Inside the palace
+M 0 31506 5 31515 ; Mob: #31506 A broken one => #31515 Inside the palace
+M 0 31507 2 31509 ; Mob: #31507 A carrion crawler => #31509 Inside the palace
+M 0 31509 2 31520 ; Mob: #31509 A feyr => #31520 Inside the palace
+M 0 31510 3 31524 ; Mob: #31510 A male ubue => #31524 A bent in the corridor
+E 1 31516 10 16 ; -- Equip: #31516 A bone (wield)
+E 1 31514 11 5 ; -- Equip: #31514 An animal skin (body)
+M 0 31511 3 31524 ; Mob: #31511 A female ubue => #31524 A bent in the corridor
+E 1 31515 5 21 ; -- Equip: #31515 A bone earring (ears)
+E 1 31514 11 5 ; -- Equip: #31514 An animal skin (body)
+M 0 31512 4 31524 ; Mob: #31512 A young ubue => #31524 A bent in the corridor
+E 1 31516 10 16 ; -- Equip: #31516 A bone (wield)
+E 1 31514 11 5 ; -- Equip: #31514 An animal skin (body)
+M 0 31510 3 31535 ; Mob: #31510 A male ubue => #31535 Just another turn
+E 1 31516 10 16 ; -- Equip: #31516 A bone (wield)
+E 1 31514 11 5 ; -- Equip: #31514 An animal skin (body)
+M 0 31510 3 31535 ; Mob: #31510 A male ubue => #31535 Just another turn
+E 1 31516 10 16 ; -- Equip: #31516 A bone (wield)
+E 1 31514 11 5 ; -- Equip: #31514 An animal skin (body)
+M 0 31511 3 31535 ; Mob: #31511 A female ubue => #31535 Just another turn
+E 1 31516 10 16 ; -- Equip: #31516 A bone (wield)
+E 1 31515 5 21 ; -- Equip: #31515 A bone earring (ears)
+E 1 31514 11 5 ; -- Equip: #31514 An animal skin (body)
+M 0 31506 5 31535 ; Mob: #31506 A broken one => #31535 Just another turn
+M 0 31504 2 31537 ; Mob: #31504 A crypt thing => #31537 Dead end
+M 0 31512 4 31516 ; Mob: #31512 A young ubue => #31516 Inside the palace
+E 1 31516 10 16 ; -- Equip: #31516 A bone (wield)
+E 1 31514 11 5 ; -- Equip: #31514 An animal skin (body)
+M 0 31512 4 31516 ; Mob: #31512 A young ubue => #31516 Inside the palace
+E 1 31516 10 16 ; -- Equip: #31516 A bone (wield)
+E 1 31515 5 21 ; -- Equip: #31515 A bone earring (ears)
+E 1 31514 11 5 ; -- Equip: #31514 An animal skin (body)
+M 0 31511 3 31522 ; Mob: #31511 A female ubue => #31522 Inside the palace
+E 1 31516 10 16 ; -- Equip: #31516 A bone (wield)
+E 1 31515 5 16 ; -- Equip: #31515 A bone earring (wield)
+E 1 31514 11 5 ; -- Equip: #31514 An animal skin (body)
+M 0 31512 4 31522 ; Mob: #31512 A young ubue => #31522 Inside the palace
+E 1 31516 10 16 ; -- Equip: #31516 A bone (wield)
+E 1 31514 11 5 ; -- Equip: #31514 An animal skin (body)
+M 0 31509 2 31539 ; Mob: #31509 A feyr => #31539 Whole room
+M 0 31506 5 31527 ; Mob: #31506 A broken one => #31527 The torture room
+M 0 31506 5 31527 ; Mob: #31506 A broken one => #31527 The torture room
+S
+$~
+$end~
+
+
+#ROOMS
+#31500
+At the entrance~
+You are standing at the entrance to an old palace. A breeze is gently blowing
+from the palace corridor and it carries with it the dust of decayed stone and
+the smell of decaying bodies. Occasionally muffled sounds can be heard,
+resembling a short piercing scream, and than total silence. Surrounded by a
+faint aura, a small, black marble pedestal, about dwarf size in height, stands
+near the entrance. A silver box is usually placed on it. Looking south, into
+the palace, you can see two corridors, one leading east, and the other leading
+west.
+~
+315 0 2
+D2
+~
+~
+0 0 31501  
+S
+#31501
+Inside the palace~
+You are inside the great palace. Well, at least once it was great. Now, all
+that is left are ruins, reminding people of long lost princess. The palace was
+made of all kinds of best quality marble brought to this place by dwarven
+masons. Remains of once beautiful tapestries hang from every wall telling
+anyone who cares stories of heroes and dragons, love and betrayal. Torch
+scones are mounted every ten feet along the passageway on altering sides, but
+none have torches. Several pots of dead plant life are on the ground.
+Strangely, even though the palace is abandoned for several centuries, the
+floor is fairly clean.
+To the north you can see exit from the palace, but here are two more
+passageways. The first one leads east, while the second extends west.
+~
+315 d 0
+D0
+~
+~
+0 0 31500
+D1
+~
+~
+0 0 31502
+D3
+~
+~
+0 0 31510
+S
+#31502
+Inside the palace~
+This looks just like any other palace corridor. It is bright enough here due
+to the vicinity of exit and you can see that there is not even a tiny trace of
+dust on the floor. Don't you think it's a bit strange?
+If you go west you'll soon find an exit, but you can also go south or east.
+The south passage seems to be drier than the east one, while the eastern has a
+hint of moisture in the air and dampness can be felt on the wall in that
+direction.
+~
+315 d 0
+D3
+~
+~
+0 0 31501
+D1
+~
+~
+0 0 31503
+D2
+~
+~
+0 0 31506
+S
+#31503
+Near the lake~
+Yes, this is just another corridor. But, unlike any other this one is moist
+and from time to time you can feel cold drops of water falling to the back of
+your neck. Traces of moss can be found on the walls, especially near
+that door leading south. Obviously, there is some sort of underground river or
+maybe a lake nearby. Oh, or it's just a bathtub someone forgot to empty...
+West side of the passageway will lead you a bit closer to the exit, but if you
+want to examine that moisture you can go south or east.
+~
+315 d 0
+D3
+~
+~
+0 0 31502
+D1
+~
+~
+0 0 31504
+D2
+~
+~
+0 0 31505
+S
+#31504
+By the lake~
+This huge cave area is filled with the sweet smell of fresh water. The source
+is obviouslya rather large grey stone pool of water that almost covers the
+entire floor of the cavern. Occasionally bubbles rise to the surface of the
+water, but apart from that the water is quiet.
+The only exit leads west.
+~
+315 ad 0
+D3
+~
+~
+0 0 31503
+S
+#31505
+Damp room~
+The walls of this room are collapsing. Moisture clings to everything and
+purple moss grows everywhere throughout the room. The air feels heavy and if
+you are usually breathe oxygen, you might have some troubles while in here. A
+sweet smell fills the room and as time passes it gets stronger. You are
+starting to feel a bit sleepy. Looking behind you can see that moss is
+covering the door. Guess you will have to fight your way out...
+~
+315 d 0
+D0
+~
+~
+0 0 31503
+S
+#31506
+Inside the palace~
+This looks just like any other palace corridor. It is bright enough here due
+to the vicinity of exit and here, too, you can see not even a tiny trace of
+dust on the floor. Don't you think it's a bit strange?
+The light is coming from the north, so exit must be there, and to the south
+this corridor is getting darker.
+~
+315 d 0
+D0
+~
+~
+0 0 31502
+D2
+~
+~
+0 0 31507
+S
+#31507
+Inside the palace~
+This looks just like any other palace corridor, though this one is dark enough
+to hide any kind of monster or trap. Perhaps you should be more careful if
+going deeper into the palace. Who knows what kind of stupid mousetrap awaits
+your toes in the dark...
+To the north, the corridor seems to bit a bit brighter, while to the south you
+can see just more darkness. There is also a door, leading east.
+~
+315 ad 0
+D0
+~
+~
+0 0 31506
+D1
+Sturdy oak door is blocking your way east.
+~
+door~
+-3 0 31508
+D2
+~
+~
+0 0 31509
+S
+#31508
+Empty room~
+This room is empty. However, there is a section of the east wall that has been
+bricked up with slightly discolored stone blocks. There is also an iron ring
+in the centre of this section.
+The only way out is that door, you just came through.
+~
+315 ad 0
+D3
+Sturdy oak door is blocking your way west.
+~
+door~
+-3 0 31507
+S
+#31509
+Inside the palace~
+This area seems to have been in some kind of explosion or earthquake. Rubble
+covers the floor. Occasionally whimpers like those from a puppy can be heard.
+They frequently start only to stop a few seconds later. Looks like this is a
+dead end and you will have to turn around and go back the way you came.
+~
+315 ad 0
+D0
+~
+~
+0 0 31507
+S
+#31510
+At the junction~
+This looks just like any other palace corridor. It is bright enough here due
+to the vicinity of exit and you can see that there is not even a tiny trace of
+dust on the floor. Don't you think it's a bit strange?
+If you go east you'll soon find an exit, but you can also go south or west.
+Looking from where you stand, it looks like the south corridor is very long
+and very dark.
+~
+315 d 0
+D1
+~
+~
+0 0 31501
+D2
+~
+~
+0 0 31515
+D3
+~
+~
+0 0 31511
+S
+#31511
+Inside the palace~
+This looks just like any other palace corridor. There are several pots
+containing something that used to be plants a long time ago. There are also
+several arrases on the walls, but what is depicted on them is beyond
+recognition.
+The corridor continues east- and westward. The eastern part is lit which could
+not be said for the western one.
+~
+315 d 0
+D1
+~
+~
+0 0 31510
+D3
+~
+~
+0 0 31512
+S
+#31512
+Inside the palace~
+This elongated hexagonal room is littered with smelly, moldy, red towels.
+There is also a lot of dried up soft pink soap in broken blue ceramic
+containers, decorated with romantic scenes of mermaids swimming about proud
+ships and singing songs to the sailors. The beautiful marble floors are white,
+veined in black and gold. Each of the six walls is decorated with ornately
+carved wooden towel racks. A bench of black marble with white and gold streaks
+occupies the center of the room. A faded red cushion, now ruined by dry rot,
+lies beside the bench.
+You can see some light to the east, but would stay in the dark if decided to
+go northwest.
+~
+315 ad 0
+D1
+~
+~
+0 0 31511
+D7
+~
+~
+0 0 31513
+S
+#31513
+Inside the palace~
+In this hexagonal room is a large pool which appears to be filled with clear
+water. The walls of the room are lavishly decorated with murals of water
+nymphs, ponds with long reeds extending upwards to the sun, and hunters
+stalking water birds. On the floor are some moldy rotten towels. There are
+also several delicately carved vials of scented bath oils, and a rather large
+peacock feather fan, now rotted, which is propped in one corner.
+There are two exits, one leading southeast, and the other, a door, leading
+southwest.
+~
+315 ad 0
+D8
+~
+~
+0 0 31512
+D9
+Small wooden door blocks your way.
+~
+door~
+-3 0 31514
+S
+#31514
+Inside the palace~
+This room is a small worship alcove. On a raised platform along the western
+wall is a carved statue of a woman holding a small girl child in her lap. The
+woman is smiling down at the child, who plays with a small ball clutched in
+her hands. the inscription on the base of the statue reads "The secret
+treasure of one's heart can be found in love."
+There is just one exit from this room - that door in the northeast corrner.
+~
+315 ad 0
+D6
+Small wooden door blocks your way.
+~
+door~
+-3 0 31513
+S
+#31515
+Inside the palace~
+This looks just like any other palace corridor. It is bright enough here due
+to the vicinity of exit and here, too, you can see not even a tiny trace of
+dust on the floor. Don't you think it's a bit strange?
+The light is coming from the north, so exit must be there, and to the south
+this corridor is getting darker.
+~
+315 d 0
+D0
+~
+~
+0 0 31510
+D2
+~
+~
+0 0 31516
+S
+#31516
+Inside the palace~
+This looks just like any other palace corridor. It is dark with copper torch
+scones mounted on the walls. The scones are now tarnished due to lack of care.
+Several ornamented painting frames are hung on the walls, but no canvas can be
+seen. Marble floor is so smooth. Be careful not to slip and fall.
+The corridor extends to the north and south.
+~
+315 ad 0
+D0
+~
+~
+0 0 31515
+D2
+~
+~
+0 0 31517
+S
+#31517
+Inside the palace~
+This looks just like any other palace corridor. It is dark with copper torch
+scones mounted on the walls. The scones are now tarnished due to lack of care.
+Several ornamented painting frames are hung on the walls, but no canvas can be
+seen. Marble floor is so smooth. Be careful not to slip and fall.
+The corridor extends to the north and south.
+~
+315 ad 0
+D0
+~
+~
+0 0 31516
+D2
+~
+~
+0 0 31518
+S
+#31518
+At the junction~
+Yes, you are still in a plain palace corridor. It is dark with copper torch
+scones mounted on the walls. The scones are now tarnished due to lack of care.
+Several ornamented painting frames are hung on the walls, but no canvas can be
+seen. Marble floor is so smooth. Be careful not to slip and fall.
+The corridor extends to the north and south, but a branch also leads east.
+~
+315 ad 0
+D0
+~
+~
+0 0 31517
+D1
+~
+~
+0 0 31519
+D2
+~
+~
+0 0 31526
+S
+#31519
+Inside the palace~
+This looks just like any other palace corridor. There are several pots
+containing something that were plants a long time ago. There are also several
+arrases on the walls, but what is depicted on them is beyond recognition.
+The corridor continues east- and westward.
+~
+315 ad 0
+D3
+~
+~
+0 0 31518
+D1
+~
+~
+0 0 31520
+S
+#31520
+Inside the palace~
+This looks just like any other palace corridor. There are several pots
+containing something that used to be plants a long time ago. There are also
+several arrases on the walls, but even with all the gazing you cannot see what
+is depicted on them.
+The corridor continues east- and westward.
+~
+315 ad 0
+D3
+~
+~
+0 0 31519
+D1
+~
+~
+0 0 31521
+S
+#31521
+A bent in the corridor~
+The corridor you are wandering through makes a turn over here. You do not
+know what is waiting behind the bent, but there is probably just another
+corridor. Just to be sure you should proceed carefully.
+The passageway goes west and south.
+~
+315 ad 0
+D3
+~
+~
+0 0 31520
+D2
+~
+~
+0 0 31522
+S
+#31522
+Inside the palace~
+Is there no end to these damn corridors? You are still in one of them, trying
+to find whatever you are looking for in this palace. Maybe next time you will
+find some other place for adventuring.
+Well, since at the moment you are here, you can as well see what can be found
+to the south. Or maybe you want to go north?
+~
+315 ad 0
+D0
+~
+~
+0 0 31521
+D2
+~
+~
+0 0 31523
+S
+#31523
+A bent in the corridor~
+The corridor you are wandering through makes a turn over here. You do not
+know what is waiting behind the bent, but there is probably just another
+corridor. Just to be sure you should proceed carefully.
+The passageway goes west and north.
+~
+315 ad 0
+D0
+~
+~
+0 0 31522
+D3
+~
+~
+0 0 31524
+S
+#31524
+A bent in the corridor~
+The corridor you are wandering through makes a turn over here. You do not
+know what is waiting behind the bent, but there is probably just another
+corridor. Just to be sure you should proceed carefully.
+The passageway goes east and north.
+~
+315 ad 0
+D1
+~
+~
+0 0 31523
+D0
+~
+~
+0 0 31525
+S
+#31525
+The staircase~
+You are standing at the base of a wide staircase. Each stair is made of a
+separate piece of black marble veined in grey and with gold and silver
+streaks. Remnants of once red carpet with silver patterns cover some of the
+steps. Balustrades made of deep black pillars of carved marble edge the
+staircase. Miscellaneous marble adornments are placed on top of the railing.
+If you take the stairs you will climb to the upper level of the palace. If you
+would prefer staying on this level, you can go south.
+~
+315 ad 0
+D2
+~
+~
+0 0 31524
+D4
+~
+~
+0 0 31539
+S
+#31526
+Inside the palace~
+Yes, you are still in a plain palace corridor. It is dark with copper torch
+scones mounted on the walls. The scones are now tarnished due to lack of care.
+Several ornamented painting frames are hung on the walls, but no canvas can be
+seen. Marble floor is so smooth. Be careful not to slip and fall.
+The corridor extends to the north and south, but there is a door leading east.
+~
+315 ad 0
+D0
+~
+~
+0 0 31518
+D1
+~
+door~
+-3 0 31527
+D2
+~
+~
+0 0 31528
+S
+#31527
+The torture room~
+This large room contains many implements of torture. An iron maiden hangs in
+one corner. Rusted, long-neglected branding irons lie scattered among the
+filthy, blood-stained straw. Assorted sizes and lengths of chain encircle
+several skeletons hanging limply against the walls. Small wooden cages hang
+from the ceiling. Caught in the door of one is a bit of what appears to be a
+tattered nightgown. Several mice peer out of holes and cracks in the grey
+stone walls.
+There is just one way out of this room, the door to the west.
+~
+315 ad 0
+D3
+~
+door~
+-3 0 31526
+S
+#31528
+Inside the palace~
+The longest corridor in the palace makes a turn here. Apart from that, it is
+no different than any other corridor you already passed in this damn place.
+Once again you notice that the floor is unusually clean.
+The corridor goes north and west.
+~
+315 ad 0
+D0
+~
+~
+0 0 31526
+D3
+~
+~
+0 0 31529
+S
+#31529
+Inside the palace~
+Here you are, in one more marble corridor. Maybe this is some kind of a maze
+since these corridors never seem to end. Good thing all these monsters are
+here, making this a bit interesting and keeping your eyes opened.
+Passageway continues west and east.
+~
+315 ad 0
+D1
+~
+~
+0 0 31528
+D3
+~
+~
+0 0 31530
+S
+#31530
+One more junction~
+You are at another junction. The corridors, looking just like those before,
+stretch west- and eastward, while a short branch leads south.
+~
+315 ad 0
+D1
+~
+~
+0 0 31529
+D2
+~
+~
+0 0 31531
+D3
+~
+~
+0 0 31534
+S
+#31531
+Inside the palace~
+You are in front of a door. You do not know what lies behind, but you can see
+light coming through cracks in the old oak wood. Maybe there is an exit behind
+this door. Or maybe it is just an overgrown glowworm...
+~
+315 ad 0
+D0
+~
+~
+0 0 31530
+D1
+Sturdy oak door is blocking your way east.
+~
+door~
+-3 0 31532
+S
+#31532
+The tribunal~
+Directly across from the western door is a huge wooden table still in good
+condition. Behind it is a huge ornately carved wooden chair. On the table is a
+candle sconce, a feathered quill, and a blank scroll. It looks like someone
+used this room to hold courts. Items on the table are in good condition and
+were obviously used when judgments were passed.
+Passage leads south, to some kind of stairs, and there is a door leading west.
+~
+315 d 0
+D3
+Sturdy oak door is blocking your way west.
+~
+door~
+-3 0 31531
+D2
+~
+~
+0 0 31533
+S
+#31533
+The stairs~
+These small, wooden stairs lead up, to some sort of a lookout. Well, maybe it
+is not the exit, but at least you can take a look at the sun or the stars and
+take a breath of fresh air. Maybe you could even rest up there, without being
+bothered.
+~
+315 d 0
+D0
+~
+~
+0 0 31532
+D4
+~
+~
+0 0 31538
+S
+#31534
+Inside the palace~
+This looks just like any other palace corridor. There are several pots
+containing something that were plants a long time ago. There are also several
+arrases on the walls, but what is depicted on them is beyond recognition.
+The corridor continues east- and westward.
+~
+315 ad 0
+D1
+~
+~
+0 0 31530
+D3
+~
+~
+0 0 31535
+S
+#31535
+Just another turn~
+The corridor you are wandering through makes a turn over here. You do not
+know what is waiting behind the bent, but there is probably just another
+corridor. Just to be sure you should proceed carefully.
+The passageway goes east and south.
+~
+315 ad 0
+D1
+~
+~
+0 0 31534
+D2
+~
+~
+0 0 31537
+S
+#31536
+Secret room~
+As you entered this room, strange feeling passed your body. Low hum can be
+heard, and looks like it is coming from above. But there is nothing up there.
+Absolutely nothing. You feel compeled to gaze at the Nothingness and soon, you
+feel as if something is pulling you up. Uh oh... Maybe you should have stayed
+out of this room. Maybe you should have stayed out of this damn place full of
+corridors and creepy rooms. Maybe you should have never leave your home...
+Well, there is no way back, now.
+~
+315 adxy 0
+S
+#31537
+Dead end~
+The walls collapsed here, filling the corridor with ruble. This is the end of
+this corridor and you won't be going further this way. All you can do now is
+turn around and try another way.
+~
+315 ad 0
+D0
+~
+~
+0 0 31535
+S
+#31538
+Lookout tower~
+This is a lookout tower that was once used to scan throught surrounding area
+for intruders. Now, it is deserted just like the rest of the palace. You have
+such a peaceful feeling. Maybe you could rest here a while without being
+interrupted by those annoying monsters.
+The only way out are the stairs you took to climb up here.
+~
+315 0 0
+D5
+~
+~
+0 0 31533
+S
+#31539
+Whole room~
+You are at the top of the grand staircase. Most of this level is destroyed and
+this looks like only room that still has walls. Rubble and debris are
+scattered all over, closing all the exits and preventing you from going
+anywhere but down. Well, maybe you could slip through that hole to the north.
+~
+315 0 0
+D0
+~
+~
+0 0 31540
+D5
+~
+~
+0 0 31525
+S
+#31540
+Evil room~
+This empty temple room is uneasily quiet. The dais oon the west wall appears
+harmless, but seems to change, in some way, each time it is looked at. Faint
+whistling can be heard from time to time. It seems to almost have a melody. A
+single pedestal with a glass case on top of it stands in the middle of this
+room. A small brown box with strange runes carved into it is inside the glass
+case.
+Exit leads south through a hole in the wall.
+~
+315 adxy 0
+D2
+~
+~
+0 0 31539
+S
+$~
+$end~
+
+
+#MOBILES
+#31500
+Arendaldan guardian priest~
+Guardian priest of Souls~
+Arendaldan, Guardian Priest of Souls is dying near the pedestal...
+~
+This poor man was once the guardian of Lost Souls. Looks like it's time to
+find someone to fill in for him since Arendaldan is dying.
+~
+bgm cdfk 600 C
+55 0 0 1d1+0 1d1+0
+0 0
+5 5 1
+13 13 13 13 13 13 13
+0 1 0
+C
+> fight_prog 100~
+moan
+if isevil($n)
+say YOU will NOT have the pleasure!!!
+mpechoat $n Before you even had a chance to hit, the priest is gone.
+mpechoar $n Before $n even had a chance to hit, the priest is gone.
+mppurge $I
+else
+smile
+say Thank you, friend...
+if rand(10)
+mpoload 31502 20
+give wand $n
+mpechoat $n Giving you a wand, the priest vanishes...
+mpechoar $n Giving a wand to $n, the priest vanishes...
+endif
+mppurge $I
+endif
+~
+> action_prog q open small silver box~
+if isimmort($n)
+say I guess you know what you are doing, my Lord...
+wait 1
+mpechoat $n Seeing you, Evil decides it is better to stay in the box.
+mpechoar $n Seeing $n, Evil decides it is better to stay in the box.
+else
+mpechoat $n As you open the box surge of energy knocks you down.
+mpechoar $n As $n opens the box surge of energy knocks $e down.
+mpforce $n sit
+if isevil($n)
+say I should have known you would do that... Damn you!!
+mpmload 31501
+mpechoat $n Deep, rumbling voice echoes around you...
+mpechoar $n Deep, rumbling voice echoes through the room
+mpforce evil say Hush, Priest! Your time has passed. Finally!!
+mpforce evil say Thank you, mortal, for setting me free.
+mpforce evil c 'curse' $n
+mpforce evil say Now... It is time to conquer the World!
+mpechoat $n With a mighty crash, Evil and the box are gone...
+mpechoaround $n With a mighty crash, Evil and the box are gone...
+mptrans evil 31540
+mppurge box
+sigh
+mpechoat $n Thick smoke fills the room. After several seconds it is gone.
+mpechoat $n But so is the Priest...
+mppurge $I
+else
+say Oh, no... What have you done... IT is released...
+mpmload 31501
+sigh
+if level($n) < 20
+say You foolish child...
+else
+say My...
+endif
+say May Gods be with us now...
+mptrans evil 31540
+mpechoat $n As you sheepishly look at the box, it disappears...
+mpechoar $n As $n sheepishly looks at the box, it disappears...
+mppurge box
+, also vanishes, leaving you alone to fight Evil...
+mppurge $I
+endif
+endif
+~
+> greet_prog 100~
+if isnpc($n)
+moan
+else
+if isimmort($n)
+say Oh... At last... Someone has heard my prayers...
+cough
+wait 1
+say You will stop them, I am sure...
+say Here, take this and guard it with all your strength...
+mpoload 31501
+give key $n
+say Now, I can die...
+, vanishes in a cloud of smoke, leaving no trace behind...
+mppurge $I
+else
+moan
+cough
+wait 1
+say Oh... Who... Who are you? Are you here to help me?
+wait 2
+say Aahh... Well, you are my only hope...
+cough
+wait 1
+say Take... You must destroy it...
+say But... Whatever you do... Do not o...
+moan
+mpoload 31501
+, passes out dropping weird key.
+wait 1
+drop key
+endif
+endif~
+|
+#31501
+evil~
+Evil~
+Pure evil hovers above you.
+~
+~
+bfgm bcdefjkw -1000 C
+25 0 -56 610d1+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+19 1 1
+C
+> all_greet_prog 100~
+if isevil($n)
+say Are you here to join me?
+wait 1
+say Kneel!
+mpforce $n kneel
+if wis($n) < 11
+wait 1
+say You are too weak.
+mpforce $n rem all
+mpforce $n drop all
+say I don't need a weakling!
+mpkill $n
+else
+wait 2
+say I do NOT trust you!
+say You are too strong and might turn against me eventually.
+wait 1
+say It is better to kill you now...
+mpkill $n
+else
+say What are YOU doing here!?
+say You should have stayed with that damn priest!
+wait 1
+say Now... YOU DIE!
+mpkill $n
+endif
+endif~
+|
+#31502
+bubble~
+A bubble~
+A large bubble is floating in the water...
+~
+It's just a bubble. What do you expect to see looking at a bubble?
+~
+cgm defkwx -200 C
+12 0 220 1d1+79 1d8+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+19 3 0
+C
+#31503
+moss purple~
+Purple moss~
+The room is full of purple moss.
+~
+Moss just like any other moss, except this one is purple and pretty deadly.
+~
+bfgm def 0 C
+12 0 250 1d1+59 1d6+3
+0 0
+8 8 0
+13 13 13 13 13 13 13
+12 3 0
+C
+> death_prog 100~
+mea $n Removing the moss from the north wall, you managed to
+mea $n uncover the door.
+mpechoar $n Removing the moss from the north wall, $n managed to
+mpechoar $n uncover the door.
+mpopenpassage 31503 31505 2
+mpopenpassage 31505 31503 0~
+> all_greet_prog 100~
+mpclosepassage 31503 2
+mpclosepassage 31505 0
+mpechoat $n You are too tired and must rest a while.
+mpechoar $n You are too tired and must rest a while.
+mpforce all rest~
+|
+#31504
+crypt thing~
+A crypt thing~
+Undead monster guards this room.
+~
+This is a strange kind of undead creature. it looks like nothing more than an
+animated skeleton, save that it is clothed in a flowing brown robe. Each eye
+socket is lit by a fierce, red pinpoint of light that is almost hypnotic in
+its intensity.
+~
+bfgm defk -1000 C
+17 0 180 1d1+129 1d12+5
+37 0
+8 8 0
+14 13 13 13 13 5 13
+13 3 0
+C
+> death_prog 100~
+if rand(20)
+mea After destroying this foul creature, some marrow has spilled from
+mea its bones. Maybe someone will want it...
+mpechoar $n After $n destroyed the crypt thing, some marrow has spilled
+mpechoar $n from creature's bones.
+mpoload 31505
+endif
+mpoload 31506~
+|
+#31505
+protector~
+The Protector~
+Guardian of the palace stalks this lookout tower.
+~
+This is a spirit of long dead guardian of the palace. Now it protects the
+lookout tower allowing no evil to step into it. All good people are safe under
+his protection.
+~
+bgm bcdefhkmstwACD 1000 C
+65 0 0 8d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 2
+C
+> hitprcnt_prog 25~
+cackle
+mprestore self 200
+disarm~
+> fight_prog 100~
+if rand(15)
+mea A well placed fist leaves you breathless.
+mpechoar $n $I used its fist to knock $n down.
+mpdamage $n 400
+mpforce $n sit
+else
+if rand(20)
+, grins as his wounds close.
+mprestore self 400
+else
+if rand(25)
+mea With incredible swiftness, $I attacks you.
+mpechoar With incredible swiftness, $I attacks $n.
+disarm
+bash
+disarm
+kick
+stun
+gouge
+endif
+endif
+endif~
+> all_greet_prog 100~
+if isgood($n)
+mpforce $n smile
+else
+tell $n Evil will find only eternal peace here...
+wait 1
+mpecho Force field appears on top of stairs, preventing any attempt to flee.
+mpclosepassage 31538 5
+grin
+wait 1
+mpslay $n
+endif~
+|
+#31506
+broken one~
+A broken one~
+An awful mixture of animal and man mutters something.
+~
+This is a tragic survivor of scientific and magical experiment gone awry.
+While it was once human, their beign have become mingled with that of animal
+and their very nature has been forever altered by the shock of this event.
+~
+hm jt -600 C
+11 0 0 8d1+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+12 2 0
+C
+> rand_prog 2~
+moan~
+|
+#31507
+crawler carrion~
+A carrion crawler~
+A carrion crawler looks for some corpses...
+~
+This monster looks like a cross between a giant green cutworm and a
+cephalopod. Like so many hybrid monsters, the carrion crawler may well be the
+result of genetic experimentation by a mad, evil wizard.
+~
+cfm 0 0 C
+13 0 0 198d1+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+12 3 1
+C
+#31508
+cube gelatinous~
+A gelatinous cube~
+Something slimy and gelatinous slithers through the corridor.
+~
+So nearly transparent that it is difficult to see, this cube travel down
+palace corridors, absorbing carrion and trash along the way. Many items can be
+seen inside its body. Guess this is the  reason why the floor is so clean...
+~
+gm st 0 C
+14 0 13 166d1+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+20 3 0
+C
+> death_prog 100~
+mpecho As slimy thing dies, the items it swalloved are droped on the ground.
+mpoload 31512
+mpoload 31513
+drop sword
+drop gauntlet~
+|
+#31509
+feyr~
+A feyr~
+A feyr is here, waiting to feed on someone's emotions.
+~
+This... "thing"... resembles humped, hunchbacked creature, grim and inhuman in
+appearance. Its hide, the sickly rainbow in shades, like light reflected off
+an oil slick, is mottled and warped like the surface of the human brain. The
+creature is supported by two main tentacles which act as legs, and by a
+handful of other tentacled limbs. Massive horizontal jaws line its underside,
+and the forepart of the beast has 4 eyes, the color of melted gold.
+~
+fgm b -1000 C
+16 0 0 8d1+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+19 0 0
+C
+#31510
+ubue male~
+A male ubue~
+Strange creature growls at you.
+~
+This being vaguely resemble humans, but have three heads, three arms and three
+legs. One of the three heads is of a different sex from the other two and is
+in the middle. The creature has pale flesh and wears animal skins and uses
+bones as jewelry.
+~
+fgm j -1000 C
+18 0 -12 403d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 1
+C
+#31511
+ubue female~
+A female ubue~
+Strange creature looks at you suspiciously
+~
+This being vaguely resemble humans, but have three heads, three arms and three
+legs. One of the three heads is of a different sex from the other two and is
+in the middle. The creature has pale flesh and wears animal skins and uses
+bones as jewelry.
+~
+fgm js -1000 C
+15 0 7 299d1+0 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 13
+12 2 1
+C
+#31512
+ubue child young~
+A young ubue~
+A child of an ubue plays with some bones.
+~
+This being vaguely resemble humans, but have three heads, three arms and three
+legs. One of the three heads is of a different sex from the other two and is
+in the middle. The creature has pale flesh and wears animal skins and uses
+bones as jewelry.
+~
+fhm j -600 C
+12 0 25 206d1+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+12 3 1
+C
+#31513
+ubue shaman~
+An ubue shaman~
+An ubue shaman mumbles something to himself.
+~
+This being vaguely resemble humans, but have three heads, three arms and three
+legs. One of the three heads is of a different sex from the other two and is
+in the middle. The creature has pale flesh and wears animal skins and uses
+bones as jewelry.
+~
+bfgm dfh -1000 C
+21 0 -31 600d1+0 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+12 1 1
+C
+$~
+$end~
+
+
+#OBJECTS
+#31500
+box small silver~
+A small silver box~
+A small silver box is placed on a pedestal, waiting to be opened.~
+~
+15 abgw 0
+1 15 31501 0
+1 0 0
+E
+box small silver~
+This is a small box made of silver. Who knows what's inside. You feel
+something strange as if some unknown force is pushing you to open the box.
+However, there is another feeling... Something tell's you that opening this
+box wouldn't be such a great idea. So, what are you going to do...
+~
+#31501
+key strange~
+A strange key~
+A strange looking key lies here... Humming...~
+~
+18 bgw a
+0 0 0 0
+1 0 0
+E
+key strange~
+This is the strangest key you have ever seen. Well, at least you think it's a
+key. It looks very evil. And it hums...
+~
+#31502
+wand black strange~
+A strange black wand~
+A strange looking wand is placed on the ground.~
+~
+3 gkz ao
+10 3 3 22
+1 105 0
+E
+wand strange black~
+This is a strange black wand given to you by the Guardian Priest of Souls.
+Perhaps it can help you in the upcoming battle against Evil.
+~
+#31503
+water pool~
+Pool~
+Greater part of this room is occupied by a pool.~
+~
+23 0 0
+20000 20000 0 0
+10000 0 0
+>
+action_prog q examine look | pool water~
+mpecho One large bubble rises to the surface of the water.
+mpmload 31502~
+|
+#31504
+ring iron~
+An iron ring~
+An iron ring is attached to the wall.~
+~
+31 w 0
+0 0 0 0
+5 0 0
+E
+ring iron~
+Rusty iron ring is attached to the wall. Maybe something would happen if you
+pull it.
+~
+>
+pull_prog 100~
+mpechoat $n As you pull the ring, the wall collapses.
+mea $n Bits of marble hit you.
+mpechoar $n As $n pulls the ring, the wall collapses.
+mpechoar $n Bits of marble hit $m.
+mpdamage $n 15
+mea $n From the secret niche comes a crypt thing.
+mpechoar $n From the secret niche comes a crypt thing.
+mpmload 31504
+mppurge ring~
+|
+#31505
+marrow bone~
+A bone marrow~
+Strange substance is spilled on the ground.~
+~
+8 z a
+0 0 0 0
+1 140 0
+#31506
+robe brown~
+Brown robe~
+Robe once worn by a crypt thing now lies on the ground~
+~
+11 hjsx ak
+0 0 0 0
+2 0 0
+E
+robe brown~
+You are looking at a tattered robe that used to be the only clothing of a
+crypt thing, and, beside a pile of bones, the only thing that is left after
+destroying the evil creature.
+~
+A
+5 -2
+A
+9 25
+#31507
+painting~
+A painting~
+Painting hangs from the wall.~
+~
+31 g 0
+0 0 0 0
+20 0 0
+E
+painting~
+Strange... Here is this BIG painting that looks like it is new. It's either
+magic or someone placed it there recently. Maybe to hide something...
+~
+>
+pull_prog 100~
+mpecho The passage is once again hidden by the large painting.
+mpclosepassage 31535 0~
+>
+push_prog 100~
+mpecho As the painting slides aside, a small secret passage is uncovered.
+mpopenpassage 31535 31536 0~
+|
+#31508
+sign small~
+A small sign~
+A small sign is attached on the wall, by the stairs.~
+~
+0 0 0
+0 0 0 0
+1 0 0
+E
+sign~
+In crooked, awkward big letters, the sign says:
+"EVIL NO GOOD ERE!"
+What does that mean? "Evil, no good here", or "Evil no, good here"? Hmmm...
+~
+#31509
+sword silver~
+A silver sword~
+Long, silver sword glitters here.~
+~
+5 fgikow an
+0 0 0 3
+7 0 0
+A
+13 120
+A
+4 1
+A
+18 8
+A
+19 5
+A
+5 2
+A
+1 2
+#31510
+shield silver~
+A silver shield~
+A large, round, silver shield lies here.~
+~
+9 fgikow aj
+0 0 0 0
+20 0 0
+A
+12 50
+A
+-347 30
+#31511
+helmet silver~
+A silver helmet~
+A strange, silver headwear is dropped here.~
+~
+9 fgikow ae
+0 0 0 0
+10 0 0
+A
+18 3
+A
+3 2
+#31512
+sword rusty~
+A rusty sword~
+An undigested sword is here.~
+~
+5 mnowx an
+0 0 0 3
+8 0 0
+A
+23 -5
+#31513
+gauntlets rusty~
+A pair of rusty gauntlets~
+A pair of rusty gauntlets, burnt by acid lies on the ground~
+~
+9 mnowx ah
+0 0 0 0
+4 0 0
+#31514
+skin animal~
+An animal skin~
+Skin of an animal is left here by an ubue.~
+~
+9 jz ad
+0 0 0 0
+15 0 0
+#31515
+earring bone~
+A bone earring~
+Someone dropped a piece of bone here.~
+~
+11 z ar
+0 0 0 0
+1 0 0
+A
+6 -1
+#31516
+bone~
+A bone~
+Long, hard bone, good for smashing heads, is on the ground.~
+~
+5 jz an
+0 0 0 7
+6 0 0
+$~
+$end~
+
+
+#SHOPS
+$end~

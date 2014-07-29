@@ -1,0 +1,32 @@
+#201
+book red~
+a red book~
+A dusty red book is laying here.~
+~
+15 64 16385
+50 1 -1 0
+5 1200 0
+E
+book red~
+~
+#202
+flask glass~
+a colorless flask~
+A flask used to hold various liquids has been left here.~
+~
+17 64 16385
+250 50 0 0
+15 500 0
+#203
+canoe~
+a canoe~
+A canoe has been left here.~
+~
+22 0 1
+0 0 0 0
+32 1000 0
+E
+canoe~
+The canoe is fairly light.
+~
+$

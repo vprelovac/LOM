@@ -1,0 +1,34 @@
+#28
+Troll Den~
+2805 41 2
+M 0 2800  2 2801         guardian beast in wastedump
+O 0 2805 10 2801         bone in wastedump
+*
+M 0 2801  2 2802         young troll in larder
+M 0 2801  2 2802         young troll in larder
+M 0 2802  1 2803         medium troll in living room
+O 0 2800 10 2804         corpse in playpen
+P 0 2804 40 2800         put belt in corpse
+*
+M 0 2800  2 2803         guardian beast in living room
+M 0 2803  4 2804         baby troll in playpen
+M 0 2803  4 2804         baby troll in playpen
+M 0 2803  4 2804         baby troll in playpen
+M 0 2803  4 2804         baby troll in playpen
+M 0 2804  1 2805         giant troll in bedroom
+E 1 2802 40 12           equip the skin on the giant troll
+*
+M 0 2805  1 2805         female troll in bedroom
+O 0 2801 10 2805         pile/bed in bedroom
+P 0 2803 40 2801         put opal ring in pile/bed
+*
+M 0 2806 20 2803         worm in living room
+M 0 2806 20 2803         worm in living room
+M 0 2806 20 2802         worm in larder
+M 0 2806 20 2802         worm in larder
+M 0 2806 20 2804         worm in playpen
+M 0 2807  1 2802         roving beast in larder
+M 0 2808  1 2803         wandering troll in living room
+S
+
+$~

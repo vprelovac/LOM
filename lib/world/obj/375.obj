@@ -1,0 +1,1261 @@
+#37500
+embrace unholy lolth~
+Lolth's unholy embrace~
+You feel a strange presence invading your mind...~
+undefined~
+9 0 1025
+18 0 0 0
+1 150000 15000
+A
+17 20
+A
+13 100
+A
+12 100
+A
+18 9
+A
+19 9
+A
+24 -10
+A
+23 -10
+F
+262150 0 0
+#37501
+umbrageous influence~
+umbrageous influence~
+A malign presence threatens to overcome you...~
+~
+9 0 17
+12 0 0 0
+1 50000 5000
+A
+3 3
+A
+4 3
+A
+12 125
+A
+18 5
+A
+19 5
+#37502
+bauble arachnid~
+arachnid bauble~
+A simple token of arachnia is caught in thick webbing.~
+~
+11 0 131073
+7 0 0 0
+1 17500 1750
+A
+2 2
+A
+13 45
+A
+18 4
+A
+19 4
+#37503
+essence yochlol~
+Essence of the Yochlol~
+The substance from which Lolth's handmaidens are formed coalesces here.~
+~
+9 0 9
+17 0 0 0
+12 175600 17560
+A
+17 30
+A
+13 100
+A
+12 100
+A
+18 7
+A
+19 7
+A
+23 -5
+A
+24 -3
+#37504
+plate mail~
+plate mail~
+A suit of stained and battered plate mail lies here.~
+~
+9 12603392 9
+12 18 0 0
+18 40000 4000
+A
+17 20
+A
+4 2
+A
+12 65
+A
+13 35
+A
+18 4
+A
+19 6
+A
+24 -3
+#37505
+wolfsbane mace~
+Wolfsbane~
+A shining silver mace glows with an intrinsic light.~
+~
+5 16704 8193
+0 0 0 7
+10 157600 15760
+A
+1 1
+A
+13 50
+A
+12 105
+A
+18 8
+A
+19 8
+F
+4096 0 0
+>
+wear_prog 100~
+if isgood($n)
+mea $n _whi Wolfsbane shines brightly, in appreciation of your purity.
+mer $n _whi Wolfsbane shines brightly, in appreciation of $n's purity.
+endif
+~
+>
+remove_prog 100~
+mpe _whi The glow infusing Wolfsbane fades to a dim lustre.
+~
+>
+damage_prog 100~
+mpe _whi Brilliant energy pours from the damaged mace!
+c 'bless' $r
+~
+>
+repair_prog 100~
+mpe _whi The mace gleams with new vigor!
+c 'bless' $r
+~
+|
+#37506
+scroll trose vellum~
+Trose's scroll~
+A shining white piece of vellum lies on the floor.~
+~
+2 320 1
+41 63 63 63
+1 5000 500
+#37507
+great axe~
+a great axe~
+A mighty axe of polished adamantium lies on the ground.~
+~
+5 64 8193
+0 0 0 7
+30 50000 5000
+A
+18 8
+A
+19 8
+#37508
+wooden club~
+a wooden club~
+A large wooden club pierced with iron nails gouges the floor.~
+~
+5 33554432 8193
+0 0 0 7
+10 50 5
+A
+19 4
+#37509
+wooden mallet~
+a wooden mallet~
+A heavy wooden mallet has been dropped here.~
+~
+5 33554432 8193
+0 0 0 7
+10 150 15
+A
+19 4
+A
+18 1
+#37510
+lever~
+a metal lever~
+A heavy metal lever is set in the far wall.~
+~
+31 0 0
+0 0 0 0
+1 0 0
+>
+push_prog 100~
+mea $n _blu The air around you crackles with electricity...
+mptrans $n 37529
+~
+>
+pull_prog 100~
+mea $n _blu The air around you crackles with electricity...
+mptrans $n 37529
+~
+|
+#37511
+adamantium short sword~
+an adamantium short sword~
+A drow short sword forged from black metal hums quietly.~
+~
+5 4194370 8193
+0 0 0 11
+4 15000 1500
+E
+adamantium sword short~
+This weapon is incredibly sharp, and virtually unbreakable, crafted as
+it is from adamantium by skilled drow smiths.
+~
+A
+2 2
+A
+18 6
+A
+19 4
+A
+24 -2
+#37512
+adamantium mace~
+an adamantium mace~
+A drow mace forged from black metal hums quietly.~
+~
+5 4194370 8193
+0 0 0 7
+4 15000 1500
+A
+18 6
+A
+19 4
+A
+24 -2
+#37513
+adamantium chain armor erelda~
+the armor of Erelda~
+A suit of magically enchanted drow mail hums with dark magics.~
+~
+9 1077985346 9
+30 0 0 0
+10 250000 25000
+E
+adamantium chain~
+This chain is forged from adamantite and is almost weightless, despite
+offering protection equivalent to heavy plate.
+~
+A
+17 30
+A
+13 50
+A
+12 50
+A
+18 6
+A
+19 6
+A
+14 50
+A
+22 -2
+A
+23 -2
+#37514
+brooch house everhate silver crossed daggers~
+the brooch of House Everhate~
+A tiny pair of crossed silver daggers lies on the ground.~
+~
+11 0 5
+3 0 0 0
+1 175000 17500
+E
+brooch drow~
+The runes on this brooch mark the wearer as a member of the indicated
+house. Priests and other women wear more ornate brooches than the less
+important males.
+~
+A
+12 100
+#37515
+hand crossbow~
+a hand crossbow~
+This tiny crossbow fires poisoned darts at its target.~
+~
+3 0 16385
+40 9 9 33
+1 17500 1750
+E
+hand crossbow ~
+These missile weapons do little damage in the conventional sense, but
+if they manage to break the skin their bolts inject potent venoms,
+that can cause madness, sickness or worse.
+~
+A
+18 5
+#37516
+ring antivenom~
+a ring of antivenom~
+A plain black ring rolls about on the floor.~
+~
+11 4194368 3
+6 0 0 0
+1 15000 1500
+A
+13 20
+A
+12 20
+A
+18 2
+A
+19 2
+A
+20 -10
+#37517
+favor lolth~
+a favor of Lolth~
+A blackened scrap of cloth serves as a crude kerchief.~
+~
+1 1 1
+0 0 100 0
+1 5000 500
+A
+13 45
+A
+12 65
+A
+18 4
+A
+19 4
+A
+24 -3
+#37518
+amulet deflection~
+the amulet of deflection~
+A jagged piece of glass dangles from a silver chain.~
+~
+11 4194401 5
+17 0 0 0
+3 15600 1560
+A
+17 20
+A
+13 10
+A
+12 60
+A
+18 3
+A
+19 3
+#37519
+crystal shard~
+a crystal shard~
+A long, jagged chunk of crystal lies on the ground.~
+~
+5 1 8193
+0 0 0 11
+10 15600 1560
+A
+13 80
+A
+18 10
+A
+19 9
+A
+24 -3
+A
+21 -3
+#37520
+white robes faith~
+robes of faith~
+A pile of white cloth covers the floor.~
+~
+9 1174454528 1025
+11 0 0 0
+4 1500 150
+A
+12 60
+A
+13 20
+A
+18 4
+A
+19 4
+A
+22 -3
+A
+20 -3
+#37521
+gold pectoral~
+a gold pectoral~
+A rectangular piece of gold set with gems glitters in the light.~
+~
+11 1077985282 5
+9 0 0 0
+12 5000 500
+A
+2 -1
+A
+5 1
+A
+13 15
+A
+12 35
+A
+19 4
+#37522
+ornate javelin~
+an ornately wrought javelin~
+A javelin of ancient design is propped up against a wall.~
+~
+5 4194304 8193
+0 0 0 11
+8 15760 1576
+A
+18 6
+A
+19 6
+#37523
+boots speed~
+boots of speed~
+A pair of tough leather boots tremble with magical energy.~
+~
+9 64 65
+6 0 0 0
+1 50000 5000
+A
+2 3
+A
+14 225
+A
+18 5
+#37524
+altar~
+an altar~
+A large white altar rests in the center of the room.~
+~
+12 256 0
+0 0 0 0
+1 0 0
+E
+altar~
+Peering closely, you see a layer of filth encrusted on the altar...
+~
+#37525
+unholy armor lolth~
+Unholy armor of Lolth~
+This adamantium plate seethes with malignant energies.~
+~
+9 64 9
+22 0 0 0
+10 500000 50000
+A
+17 30
+A
+13 50
+A
+12 50
+A
+18 6
+A
+19 6
+A
+24 -4
+A
+23 -4
+#37526
+unholy shield lolth~
+Unholy shield of Lolth~
+A blackened metal shield seethes with malignant energies.~
+~
+9 64 513
+12 0 0 0
+5 250000 25000
+A
+17 20
+A
+13 25
+A
+12 25
+A
+18 3
+A
+19 3
+A
+22 -3
+A
+21 -3
+#37527
+ring protection~
+ring of protection~
+An ensorcelled band of pure adamantium catches your eye.~
+~
+11 4194368 3
+10 0 0 0
+1 5000 500
+A
+17 10
+A
+21 -1
+A
+23 -1
+A
+24 -1
+A
+22 -1
+A
+20 -1
+>
+wear_prog 3~
+c 'shield' $n
+c 'armor' $n
+~
+|
+#37528
+death lance~
+a death lance~
+A shimmering black beam of negative energy shimmers into view.~
+~
+5 64 8193
+6 0 0 7
+5 56000 5600
+A
+18 4
+A
+19 4
+#37529
+blade adamantite~
+adamantite blade~
+A drow short sword forged from black metal hums quietly.~
+~
+5 4194370 8193
+0 0 0 11
+4 15000 1500
+E
+adamantium sword short~
+This weapon is incredibly sharp, and virtually unbreakable, crafted as
+it is from adamantium by skilled drow smiths.
+~
+A
+12 75
+A
+13 25
+A
+18 8
+A
+19 8
+#37530
+bag holding~
+bag of holding~
+A small leather bag lies innocuously on the ground.~
+~
+15 64 1
+100 5 5999 0
+1 15000 1500
+#37531
+darkmace ~
+Darkmace~
+A blackened steel mace pulses with otherworldly energy.~
+~
+5 1086373954 8193
+0 0 0 7
+18 157600 15760
+A
+1 1
+A
+13 75
+A
+12 125
+A
+18 10
+A
+19 10
+A
+24 -7
+#37532
+scorched vial~
+scorched vial~
+A scorched vial of dark liquid slowly leaks onto the floor.~
+~
+10 66 1
+40 29 56 153
+2 15000 1500
+#37533
+wings flying~
+Wings of flying~
+A pair of twisted, batlike wings lie crumpled in a heap.~
+~
+9 64 1025
+10 0 0 0
+8 15000 1500
+A
+2 2
+A
+14 175
+A
+18 6
+A
+19 6
+A
+13 66
+F
+4194304 0 0
+#37534
+wand frost black baton~
+wand of frost~
+This black baton is cool to the touch.~
+~
+3 65 16385
+40 7 7 208
+1 15000 1500
+#37535
+visage hate~
+visage of hate~
+Your heart is filled with hatred...~
+~
+11 0 262145
+9 0 0 0
+5 0 0
+E
+visage hate~
+Your soul feels tainted as you gaze deeply into the monstrous visions
+that appear before you. It would be a noble deed indeed to damn this
+infernal visage to the Gods; perhaps you may even liberate the beauty
+besieged by hatred?
+~
+A
+6 -2
+A
+1 1
+A
+13 60
+A
+18 4
+A
+19 4
+>
+wear_prog 100~
+if isevil($n)
+mea $n _red Your features twist and you snarl as hated consumes you.
+mer $n _red $n's features twist into a mask of hatred!
+mpforc $n snarl
+endif
+~
+>
+remove_prog 100~
+if isevil($n)
+mea $n A certain serenity returns to you, restoring your twisted face.
+mer $n $n is suddenly rid of the dark humor.
+endif
+~
+>
+sac_prog 33~
+mpe _whi The room is suddenly bathed in a sweet, seductive scent...
+mpoload 37537 50
+drop seductive
+~
+|
+#37537
+seductive demeanour~
+seductive demeanour~
+You look long into the eyes of lust...~
+~
+11 32833 262145
+11 0 0 0
+5 0 0
+A
+6 3
+A
+13 25
+A
+12 75
+A
+18 3
+A
+19 3
+A
+24 -4
+>
+wear_prog 100~
+if isevil($n)
+else
+mea $n _whi You smile beguilingly as you adopt the demeanour.
+mer $n _whi $n suddenly appears incredibly, incredibly attractive!
+c 'elven beauty' $n
+endif
+~
+>
+remove_prog 100~
+mea $n It is with disappointment that you return to your senses.
+mer $n $n's beauty suddenly diminishes.
+~
+>
+damage_prog 100~
+mpe _red $n's beauty appears disfigured by the blow!
+~
+>
+repair_prog 100~
+mpe _whi The room is bathed in a sweet, sensual scent.
+~
+>
+zap_prog 100~
+mea $n You cannot appreciate the beauty of love!
+~
+|
+#37538
+blood stream~
+a stream of blood~
+A stream of blood flows to the north.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#37539
+witchslayer rapier~
+Witchslayer~
+A shining steel rapier gleams in its own aura.~
+~
+5 281022784 8193
+0 0 0 11
+1 57500 5750
+A
+13 100
+A
+12 100
+A
+18 10
+A
+19 10
+F
+4100 0 0
+#37540
+flaming pit~
+the flaming pit~
+A blazing fire in the pit licks hungrily at nearby flammable substances.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#37541
+lance elven long~
+an elven long lance~
+A wooden pole 18' long, edged with bronze, is thrust into the dirt.~
+~
+5 64 8193
+0 0 0 7
+20 15000 1500
+A
+1 1
+A
+13 45
+A
+18 4
+A
+19 9
+#37542
+battle axe~
+a battle axe~
+A bronze battle axe lies discarded here.~
+~
+5 4194368 8193
+0 0 0 3
+20 15600 1560
+A
+18 8
+A
+19 8
+#37543
+elven longsword~
+an elven longsword~
+A gleaming blade of a strange metal alloy catches the light.~
+~
+5 4194369 8193
+0 0 0 3
+20 15600 1560
+A
+2 2
+A
+12 75
+A
+18 7
+A
+19 7
+#37544
+field plate~
+field plate~
+A heavy suit of ornate plate is laid out on the ground.~
+~
+9 4194368 9
+15 0 0 0
+40 15600 1560
+A
+17 30
+A
+13 60
+A
+18 6
+A
+19 5
+A
+24 -3
+A
+22 -3
+#37545
+kite shield~
+kite shield~
+A heavy bronze shield lies on the ground.~
+~
+9 4194368 513
+11 0 0 0
+12 15600 1560
+A
+17 20
+A
+23 -6
+A
+21 -6
+#37546
+runesword alfric~
+the runesword of Alfric~
+A bronze longsword covered in runes casts a dark light.~
+~
+5 4194368 8193
+0 0 0 7
+1 500000 50000
+A
+17 10
+A
+13 65
+A
+12 99
+A
+18 12
+A
+19 11
+A
+24 -5
+F
+8 0 0
+#37547
+ensorcelled bronze plate~
+ensorcelled bronze plate~
+This ancient bronze plate is suffused with arcane energies.~
+~
+9 4194368 9
+18 0 0 0
+12 15600 1560
+A
+17 40
+A
+13 50
+A
+12 50
+A
+18 7
+A
+19 7
+A
+22 -4
+A
+20 -4
+#37548
+ensorcelled bronze shield~
+ensorcelled bronze shield~
+A bronze shield covered in arcane glyphs catches your eye.~
+~
+9 4194368 513
+17 0 0 0
+10 15600 1560
+A
+17 20
+A
+13 50
+A
+18 4
+A
+19 7
+#37549
+signet caer sidi~
+the signet of Caer Sidi~
+An ensorcelled band of bronze rolls around on the floor.~
+~
+11 4194368 3
+10 0 0 0
+1 5000 500
+A
+17 12
+A
+23 -3
+A
+13 20
+A
+12 20
+A
+18 4
+A
+19 2
+#37550
+wand magic missiles~
+wand of magic missiles~
+A slender wand of bronze lies here.~
+~
+3 4194368 16385
+50 30 30 32
+2 7560 756
+#37551
+slender bronze dagger~
+a slender bronze dagger~
+A slender dagger of bronze graces the floor.~
+~
+5 4194368 8193
+0 0 0 11
+1 15600 1560
+A
+18 10
+A
+13 50
+A
+19 7
+#37552
+elven cloak~
+elven cloak~
+A drab brown cloak covered in leaves has been tossed aside.~
+~
+11 96 5
+7 0 0 0
+1 5000 500
+A
+2 1
+A
+17 12
+A
+18 3
+A
+19 3
+F
+524288 0 0
+#37553
+brass bracer~
+brass bracer~
+A narrow brass bracer has been dropped here.~
+~
+11 4194368 4097
+11 8 0 0
+1 15600 1560
+A
+2 1
+A
+17 10
+A
+13 10
+A
+12 10
+A
+18 3
+A
+19 3
+#37554
+token caer sidi~
+token of Caer Sidi~
+A simple signet has been dropped here.~
+~
+1 65 1
+0 0 -1 0
+1 0 0
+A
+13 20
+A
+12 20
+A
+18 2
+A
+19 2
+#37555
+ring warmth~
+ring of warmth~
+A glowing band of brown metal radiates intense heat.~
+~
+11 4194369 3
+9 0 0 0
+2 56000 5600
+A
+13 20
+A
+18 2
+A
+19 3
+#37556
+sabre corsair~
+the corsair's sabre~
+A shining steel blade stained with gore gleams brightly.~
+~
+5 12595264 8193
+0 0 0 3
+5 75000 7500
+A
+13 100
+A
+18 10
+A
+19 8
+A
+24 -3
+A
+23 -3
+F
+4194312 0 0
+#37557
+sleeves corsair~
+sleeves of the corsair~
+Some god dropped a newly created sleeves corsair here.~
+~
+9 75509760 257
+11 9 0 0
+3 15000 1500
+A
+17 20
+A
+13 30
+A
+18 3
+A
+19 5
+A
+-332 10
+#37558
+ring symbol lolth favor~
+symbol of Lolth's favor~
+A blackened ring covered in silvery spiderwebs lies here.~
+~
+11 4194370 3
+8 0 0 0
+3 250000 25000
+A
+18 3
+A
+19 3
+#37559
+bone dagger~
+a bone dagger~
+A jagged dagger crafted from a human bone lies here.~
+~
+5 33554432 8193
+5 0 0 11
+2 10 1
+A
+19 3
+#37560
+mithril chain shirt~
+a mithril chain shirt~
+A shirt of mithril chain catches and reflects the light.~
+~
+9 1086341184 9
+9 0 0 0
+5 50000 5000
+A
+17 20
+A
+13 30
+A
+12 30
+A
+18 4
+A
+19 4
+A
+24 -2
+#37561
+maldevian axe battle dwarven~
+a maldevian battle axe~
+An axe forged from an unknown alloy rests here.~
+~
+5 4210752 8193
+0 0 0 3
+10 25600 2560
+A
+1 3
+A
+19 7
+#37562
+pentacle fiery~
+fiery pentacle~
+A fiery pentacle of iron hangs from a metal chain.~
+~
+11 1140899907 5
+11 0 0 0
+21 157500 15750
+A
+13 30
+A
+12 60
+A
+18 3
+A
+19 3
+#37563
+grasp hellish~
+hellish grasp~
+A flaming claw scorches the ground in a wide arc.~
+~
+9 1077985347 129
+11 7 0 0
+18 75000 7500
+A
+1 -1
+A
+3 2
+A
+12 50
+A
+19 5
+#37564
+adamantite morning star~
+an adamantite morning star~
+The entirety of this morning star is crafted from pure adamantium.~
+~
+5 4198464 8193
+0 0 0 7
+12 50000 5000
+A
+18 2
+A
+19 4
+#37565
+ring mail jack~
+a ring mail jack~
+A heavy ring mail jack lies on the floor.~
+~
+9 4194304 9
+9 0 0 0
+30 2000 200
+A
+17 30
+A
+13 25
+#37566
+dwarven crossbow~
+a dwarven crossbow~
+A heavy crossbow lies cocked and loaded here.~
+~
+5 0 8193
+0 0 0 7
+10 500 50
+A
+19 3
+#37567
+catapult~
+a catapult~
+A dwarven steam catapult lobs rocks into the advancing army.~
+~
+31 0 0
+0 0 0 0
+1 0 0
+E
+catapult~
+A complex construct of gears and levers of wood and metal, it looks
+terribly complicated and quite unstable. 
+~
+>
+push_prog 100~
+mea $n The catapult fires, hurling you high into the air!
+mer $n The catapult fires, hurling $n high into the air!
+mea $n You soar far above, past dragon and pegasus, then plummet downwards!
+mea $n _red Screaming, you smash into the ground, far away!
+mptrans $n 37635
+mpat 0.$n mea 0.$n _red Bones snap as you collide with the rocky ground.
+mpat 0.$n mer 0.$n _red $n screams as $e hurtles down from the skies!
+mpat 0.$n mpdamage 0.$n 600
+~
+>
+pull_prog 100~
+mea $n The catapult fires, hurling you high into the air!
+mer $n The catapult fires, hurling $n high into the air!
+mea $n You soar far above, past dragon and pegasus, then plummet downwards!
+mea $n _red Screaming, you smash into the ground, far away!
+mptrans $n 37635
+mpat 0.$n mea 0.$n _red Bones snap as you collide with the rocky ground.
+mpat 0.$n mer 0.$n _red $n screams as $e hurtles down from the skies!
+mpat 0.$n mpdamage 0.$n 600
+~
+|
+#37568
+death's cold embrace~
+Death's Cold Embrace~
+Are you ready to slip into the embrace of Death...?~
+~
+9 1149300768 1025
+30 13 0 0
+8 0 0
+A
+2 2
+A
+13 125
+A
+18 5
+A
+19 7
+A
+23 -3
+#37569
+bone club colossus~
+the bone club of the colossus~
+A mighty bone club stretches seventeen feet across the groud.~
+~
+5 0 8193
+0 0 0 7
+1 0 0
+#37570
+bone club colossus~
+the bone club of the colossus~
+A bone club covered in dark glyphs hovers above the ground.~
+~
+5 0 8193
+0 0 0 7
+55 15000 1500
+A
+1 2
+A
+2 -1
+A
+13 150
+A
+18 8
+A
+19 8
+A
+24 -3
+A
+22 -1
+>
+wear_prog 100~
+mea $n Your muscles strain as you heft the mighty weapon.
+mer $n $n's muscles strain as $e hefts the mighty weapon.
+~
+|
+#37571
+pendant truth~
+the pendant of truth~
+A shining silver pendant shimmers into view.~
+~
+11 1082184033 5
+14 0 0 0
+12 150000 15000
+A
+4 2
+A
+13 25
+A
+12 75
+A
+18 4
+A
+19 3
+F
+36 0 0
+$~

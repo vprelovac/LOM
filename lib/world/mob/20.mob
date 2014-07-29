@@ -1,0 +1,220 @@
+#2001
+bat~
+a bat~
+A bat flaps wildly at you!
+~
+Your typical smelly, blind flying mammal.
+~
+34 32 0 E
+5 18 5 5d5+50 2d3+3
+0 -100
+8 8 0
+E
+#2002
+page templar~
+a templar page~
+A templar page in training is here looking mildly confused.
+~
+He has lost his family and everything of his former life.
+~
+128 0 200 E
+7 14 4 7d7+70 1d9+4
+600 -100
+8 8 1
+E
+#2003
+spelunker explorer~
+a spelunker~
+A spelunker knows his way around these tunnels.
+~
+He recently discovered these catacombs and wants to see where they lead.
+He just hopes he doesn't get killed in the process.  He carries only
+essential exploration gear; if there IS anything down here, he
+probably won't last long.
+~
+132 32 100 E
+8 13 4 8d8+80 2d5+1
+800 -100
+8 8 1
+E
+#2004
+gravedigger digger robber graverobber~
+a graverobber~
+A graverobber uncovers dead bodies.
+~
+Working for an evil necromancer isn't the greatest thing in the world.
+They seem like little more than zombie servants themselves.
+~
+36 0 -500 E
+9 12 3 9d9+90 2d6+1
+100 -100
+8 8 1
+E
+#2005
+mist swirling~
+some mist~
+Some mist swirls about you here ... it seems ALIVE!
+~
+In fact it IS alive in a magical sort of sense.
+~
+0 262272 0 E
+10 10 6 10d10+100 2d6+4
+200 -100
+8 8 0
+E
+#2006
+it~
+It~
+ 
+~
+ 
+~
+32 0 0 E
+10 10 2 10d10+100 3d3+6
+1000 -100
+8 8 0
+E
+#2007
+skeleton skeletal soldier~
+a skeleton~
+A skeletal soldier fights in the battle of the underworld.
+~
+Even though he has died in the physical sense of the word, the battle
+continues for him in his charmed state.
+~
+36 0 -290 E
+11 10 4 11d11+110 2d8+1
+1100 -100
+8 8 1
+E
+#2008
+templar~
+a templar~
+A templar shouts "AKK! SLAY THE INFIDEL!"
+~
+As you peer closely he peers back at you.
+
+A templar peers closely at you.
+A templar tells you, "You are an evil force trying to spread your ways!".
+A templar tells you, "You must die for your sin!".
+~
+36 0 600 E
+12 9 3 12d12+120 1d4+8
+500 -100
+8 8 1
+E
+#2009
+wraith~
+a mysterious wraith~
+A mysterious ghostly wraith forms before your eyes.
+~
+Hard to tell much about the mysterious form even upon further inspection.
+~
+292 32 0 E
+12 9 2 12d12+120 2d7+1
+600 -100
+8 8 1
+E
+#2010
+officer templar~
+the templar officer~
+A templar officer keeps an eye on things here.
+~
+A templar officer tells you "Better move along evil one!"
+~
+288 8 700 E
+13 8 2 13d13+130 1d6+8
+600 -100
+8 8 1
+E
+#2011
+zombie mage~
+zombie~
+A blank-faced zombie mage joins the battle.
+~
+He seems to lack real interest in what he is doing.
+~
+36 0 -100 E
+13 8 5 13d13+130 1d4+8
+550 -100
+8 8 1
+E
+#2012
+shadow shadows~
+the shadow~
+Eerie shadows fill the room.
+~
+Looks vaguely you-shaped.
+~
+0 262176 0 E
+14 6 1 14d14+140 2d9+1
+800 -100
+8 8 0
+E
+#2013
+bat vampire~
+The vampire~
+A bat flaps wildly at you!
+~
+A rather LARGE "bat" ...
+~
+34 32 -100 E
+15 6 5 15d15+150 1d10+7
+1000 -100
+8 8 1
+E
+#2014
+necromancer necro cleric~
+the evil necromancer~
+The evil necromancer makes undead soldiers from corpses.
+~
+Though he seems absorbed in his work, you'd bet he'd take the time out
+to kill you to get a fresh corpse!
+~
+34 0 -888 E
+15 8 -5 15d15+150 1d8+8
+1100 -100
+8 8 1
+E
+#2015
+grand templar leader~
+the grand templar~
+The grand templar stands here quietly observing your actions
+~
+A slight, tolerant smile comes briefly across his face.  In the blink
+of an eye he seems stern again.
+~
+2 1192 1000 E
+30 -1 -8 16d16+1200 1d8+26
+50000 -200
+8 8 1
+E
+#2016
+prism dragon prismdragon~
+the prism dragon~
+The light shines off a beautiful but dangerous dragon lurking here.
+~
+The spray of colored light bouncing off his scales is almost blinding.
+~
+34 168 -303 E
+20 0 -5 20d20+200 6d3+14
+30000 -120
+8 8 1
+E
+#2017
+darken dark beast darkenbeast~
+The DarkenBeast~
+You hear and smell the presence of the darkenbeast.
+~
+You see nothing more than the sense of darkness and evil.
+~
+34 0 -1000 E
+24 -2 -12 24d24+240 3d7+7
+20000 -100
+8 8 0
+E
+$
+
+
+
+Mob special remarks

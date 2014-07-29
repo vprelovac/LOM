@@ -1,0 +1,308 @@
+#35356
+Cloak Undead Malice~
+Cloak of Undead Malice~
+A dark cloak shines with an evil aura.~
+~
+9 0 ak
+7 7 0 0
+1 0 0
+#35300
+Light of Beauty~
+Light of Beauty~
+A bright light reflects the glory of the world~
+~
+1 ag a
+0 0 -1 0
+1 0 0
+A
+24 -3
+A
+5 1
+>
+wear_prog 100~
+mea $n This light will show the way to glory.
+~
+|
+#35301
+burlap sack~
+a large burlap sack~
+A sack made from a brown burlap lies here.~
+~
+15 0 ao
+75 0 33300 0
+1 0 0
+E
+sack burlap~
+To use this sack, type:  examine sack   OR   exam sack
+To get items from this sack, type:  get <item name> sack
+To put an item in this sack, type:  put <item name> sack
+ 
+You can also use get all or put all.  See help container for more information.
+~
+#35306
+Porall~
+The Portal~
+A portal shines brightly, waiting for you to enter.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#35307
+Tent~
+a camping tent~
+A camping tent has been pitched here.~
+~
+15 0 a
+1000 2500 33300 0
+10 1000 100
+#35308
+leather academy belt~
+a thick leather belt~
+A thick leather belt from the academy lies here~
+~
+9 0 al
+2 2 0 0
+2 0 0
+E
+belt leather~
+This belt is made of a fine leather, braided for strength. You can get
+it at the Darkhaven Academy.
+~
+A
+5 1
+#35309
+leggings mail academy~
+academy leggings~
+Heavy mail leggings from the Academy lie here~
+~
+9 0 af
+2 2 0 0
+3 0 0
+E
+leggings~
+These leggings will offer good protection until you can get better. They
+can be found at the Darkhaven Academy.
+~
+A
+14 50
+#35310
+helmet iron academy~
+a heavy iron helmet~
+A heavy iron helmet from the academy~
+~
+9 0 ae
+3 3 0 0
+2 0 0
+E
+helmet iron~
+This is a helmet made of fine iron, from the Darkhaven Academy.  It will
+protect you until you can find better.
+~
+A
+3 1
+#35311
+cape academy~
+a black academy cape~
+A long cape with the symbol of the academy lies here~
+~
+9 0 ak
+2 2 0 0
+3 0 0
+E
+cape brocade~
+This cape is made from a heavy brocade. It will offer you warmth and
+protection until you can find something better. You can find it at the
+Darkhave Academy.
+~
+A
+17 -10
+#35312
+neckguard guard neck academy~
+a thick neck guard~
+A thick metal collar from the academy is here~
+~
+9 0 ac
+3 2 0 0
+5 0 0
+E
+collar metal ~
+This collar fits closely around your neck. It is thick with spikes to
+protect you in battle. You can find it in the Darkhaven Academy
+~
+A
+18 5
+#35313
+gauntlets newbie academy~
+academy gauntlets~
+A pair of gauntlets from the Academy lies here~
+~
+9 0 ah
+3 0 0 0
+2 0 0
+A
+2 1
+#35314
+bracelet academy~
+Academy bracelet~
+A bracelet from the academy lies here~
+~
+9 0 am
+2 2 0 0
+2 0 0
+E
+bracelet charm~
+This is a bracelet that will bring you luck in your travels. It can
+be found at the Darkhaven Acamdemy
+~
+#35315
+boots academy black~
+a pair of black Academy boots~
+A pair of black Academy boots are here~
+~
+9 0 ag
+3 3 0 0
+3 0 0
+E
+combat boots~
+This boots are so comfortable and light, you feel you can walk a lot
+farther. The can be found at the Darkhaven Academy.
+~
+A
+14 100
+#35316
+spider fangs fang venom~
+spider fangs~
+A venomous set of spider fangs lie here.~
+~
+5 w an
+0 7 2 11
+3 354 35
+A
+17 -6
+A
+18 4
+#35317
+visor academy wisdom~
+a visor of wisdom~
+A visor of wisdom is here, glowing faintly.~
+~
+9 g as
+2 0 0 0
+1 0 0
+E
+visor wisdom~
+This visor represents the wisdom you've learned in Aragon's Illustrious
+Newbie Academy. Legend has it that wearing it makes you smarter.
+~
+A
+4 1
+A
+3 1
+#35318
+lightweight armguards armguard arm light~
+lightweight armguards~
+A set of lightweight armguards with the Academy symbol are here.~
+~
+9 0 ai
+3 3 0 0
+1 0 0
+E
+sleeves lightweight~
+This is a pair of lightweight armguards from Aragon's Illustrious Newbie
+Academy. It is rumored that they have magical powers.
+~
+A
+1 1
+#35319
+shield guidance~
+Shield of Guidance~
+A newbie shield rests on the ground here.~
+~
+9 ag aj
+12 12 0 0
+10 100000 10000
+A
+17 -15
+A
+19 2
+#35320
+breastplate academy breast plate~
+an academy-issued breastplate~
+A breastplate with the Academy symbol lies here.~
+~
+13 0 ad
+9 9 0 0
+1 0 0
+E
+breastplate academy breast plate~
+This is the standard issue armor of the academy. On the center of it is
+a large crimson eagle, the symbol of the academy.
+~
+A
+17 -3
+A
+5 1
+#35321
+anti-death antideath elixir potion~
+an anti-death elixir~
+An odd, glowing potion lays here.~
+~
+10 a a
+20 -1 -1 -1
+2 0 0
+E
+anti-death antideath elixir potion~
+This potion was made to help heal you and restore your movements points.
+~
+#35322
+dried rabbit meat~
+dried rabbit meat~
+Some sort of dried meat is on the ground here.~
+~
+19 0 a
+24 0 0 0
+1 40 4
+#35323
+dragonskin skin water~
+a dragonskin~
+You see a dragonskin water container here.~
+~
+17 0 a
+15 15 0 0
+1 30 3
+#35324
+earrign token~
+a token of a Goddesses affection~
+An earring lies here, tarnished and forgotten.~
+~
+9 ag ar
+4 2 0 0
+5 0 0
+F
+4194304 0 0
+#35325
+torch~
+a torch~
+A piece of wood, partly wrapped in cloth is here.~
+~
+1 0 a
+0 0 -1 0
+1 20 2
+#35326
+ring initial~
+A ring with the initial "V" on it~
+A large ring with initial "V" on it lies here.~
+~
+9 g ab
+5 5 0 0
+2 0 0
+E
+ring initial~
+This ring is very large and glows with an odd light. The initial "V" is
+engraved on the top in dark red letters.
+~
+A
+13 5
+A
+2 1
+$~

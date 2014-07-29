@@ -1,0 +1,11 @@
+#2
+Midgaard River~
+299 60 2
+M 0 200 1 244    Place a witch to Inside the Cottage (max 1)
+E 1 202 1 17         Equip a colorless flask, held (max 1)
+M 0 201 1 239    Place the sailor to The Dock (max 1)
+G 1 203 10         Give a canoe (max 10)
+O 0 201 1 244    Place a red book to Inside the Cottage (max 1)
+D 0 243 3 1    Set   #243 - Beside the Cottage door to WEST as closed
+D 0 244 1 1    Set   #244 - Inside the Cottage door to EAST as closed
+S

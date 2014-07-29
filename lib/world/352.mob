@@ -1,0 +1,837 @@
+#35205
+snake python~
+a python~
+A python lies here, ready to sink its fangs into you.
+~
+This snake could pick you up and swallow you whole!  You're terrified at
+the thought of coming anywhere near it. 
+~
+bgm 0 -100 C
+7 0 -20 5d4+60 2d3+1
+7000 0
+8 8 0
+13 13 13 13 13 13 13
+15 3 0
+C
+> greet_prog 85~
+mpechoat $n The python hisses blindly at you.
+~
+> rand_prog 5~
+emote hisses, flicking its tongue out.
+~
+> fight_prog 40~
+emote rears back to strike.
+~
+> death_prog 100~
+if level($n) > 19
+mpecho The python's corpse is cut to shreds!
+mpoload 35215
+else
+mpecho The python hisses loudly as the life drains from its body.
+mpecho As the python falls to the ground, a piece of its hide is severed from
+mpecho its body.
+mpoload 35214
+mpoload 35215
+endif
+~
+|
+#35207
+dog collie~
+a collie~
+A collie approaches you, looking rather dangerous.
+~
+Although friendly with family members, this collie is a superb watchdog.
+She doesn't approve of your presence in the house.
+~
+bm 0 150 C
+5 0 -10 1d1+50 1d1+1
+0 0
+8 8 2
+13 13 13 13 13 13 13
+12 3 0
+C
+> greet_prog 100~
+mpechoat $n The collie is not too happy to see you.
+bark $n
+snarl $n
+~
+> rand_prog 5~
+mpecho The dog scratches her ears.
+~
+> rand_prog 5~
+growl
+~
+> fight_prog 35~
+snarl
+growl $n
+~
+|
+#35208
+a large rat~
+a large rat~
+An enormous rat scurries around here.
+~
+Disgusting and disease-ridden fur makes this rat something that you 
+do not want to approach.
+~
+gm 0 -200 C
+4 0 -10 0d0+0 3d3+3
+75 0
+8 8 0
+13 13 13 13 13 13 13
+12 3 0
+C
+> death_prog 100~
+mpecho The rat hisses and squeals with its dying breath.
+~
+|
+#35209
+large rat~
+A large rat~
+A large rat wanders about here.
+~
+Disgusting and disease-ridden fur makes this rat something that you 
+do not want to approach.
+~
+bm 0 -1 C
+5 0 -10 5d4+60 3d2+2
+75 0
+8 8 0
+13 13 13 13 13 13 13
+12 3 0
+C
+> greet_prog 100~
+mpecho $I hisses at you.
+~
+> fight_prog 40~
+mpecho The rat hisses and squeals.
+~
+> death_prog 100~
+if level($n) > 14
+mpecho Thhe savage attack has reduced the corpse to shreds.
+else
+mpecho The final blow detaches some of the rat's skin from its body.
+mpoload 35247
+endif
+~
+|
+#35210
+grandpa man~
+old grandpa~
+An old grandpa sits here, smoking a pipe and reading a book.
+~
+This old man has been around for a long, long time.  Although ancient, a
+dangerous glimmer in his eye makes you wonder just how frail he is.
+~
+bm 0 275 C
+7 0 10 5d2+60 2d2+1
+2000 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> greet_prog 100~
+mpechoat $n Grandpa squints in your direction.
+say Who are you? I don't know you.
+if rand(50)
+mpechoat $n Grandpa tries to hit you with his book!
+mpechoaround $n Grandpa tries to hit $n with a book!
+if rand(50)
+mpechoat $n That hurt!
+mpechoaround $n Grandpa smacks $n right in the face!
+mpdamage $n 3
+else
+mpechoat $n You duck out of the way just in time!
+mpechoaround $n $n ducks just in time.
+endif
+else
+snarl $n
+endif
+~
+> fight_prog 50~
+if rand(50)
+mpecho Grandpa starts coughing with the exertion of the fight.
+if rand(75)
+mpechoat $n Your attacks seem to be causing more damage.
+endif
+else
+mpechoat $n Grandpa tries to knee you in the stomach!
+if rand(65)
+mpechoat $n Grandpa drives his knee into your gut!
+mpdamage $n 16
+mpechoaround $n Grandpa knees $n in the stomach!
+endif
+endif
+~
+> death_prog 100~
+if level($n) > 14
+mpecho The savagery of the attack reduces some of $I's belongings to scrap.
+mpjunk 'smoking jacket'
+endif
+~
+|
+#35211
+lady cook Kery~
+the fat cook~
+An old, fat lady is preparing food here.
+~
+Kery the cook looks like she really enjoys taste-testing!  She is very large,
+and very friendly.  
+~
+bm 0 250 C
+5 0 0 5d4+40 3d1+1
+2000 0
+8 8 2
+13 6 13 13 13 13 13
+0 3 0
+C
+> greet_prog 100~
+if ispc($n)
+say Hey, $n, either help me or get out of here.
+mpechoat $n The cook shoves a mop at you.
+endif
+~
+> rand_prog 5~
+grumble
+say Overworked...underpaid.
+sigh
+close cabinet
+~
+> fight_prog 60~
+if rand(50)
+mpechoat $n The cook grits her teeth and redoubles her efforts.
+else
+mpechoat $n The cook narrows her eyes into a glare of pure hate.
+endif
+if rand(50)
+mpechoat $n The cook pulls your shirt over your head!
+mpechoaround $n The cook pulls $n's shirt over $s head!
+if rand(50)
+mpdamage $n 1
+mpechoat $n The cook knees you in the face!
+mpechoaround $n The cook knees $n in the face!
+else
+mpechoat $n The cook tries to elbow you, but misses.
+mpechoaround $n The cook swings an elbow at $n, but misses.
+endif
+else
+mpecho The cook is starting to look tired.
+endif
+~
+|
+#35212
+rat large~
+a huge rat~
+An enormous rat scurries around here.
+~
+Disgusting and disease-ridden fur makes this rat something that you 
+do not want to approach.
+~
+gm 0 -200 C
+5 0 -10 5d5+52 3d2+2
+75 0
+8 8 0
+13 13 13 13 13 13 13
+12 3 0
+C
+#35220
+child~
+A small child~
+A small child washes himself in the tub.
+~
+This is one of the young children in the Tullfuhrzky family.  
+~
+bm 0 250 C
+5 0 -10 3d3+45 2d2+2
+400 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> greet_prog 100~
+hug $n
+mpechoat $n The child looks innocently up at you.
+say Hello!
+~
+> rand_prog 5~
+emote splashes water around.
+~
+> fight_prog 33~
+if rand(50)
+say You're hurting me!
+cry
+else
+cry
+yell Mommy! Help me!
+endif
+~
+> death_prog 100~
+mpechoat $n The child looks up at you, draws his last breath, and dies.
+mpechoaround $n The child looks up at $n, draws his last breath, and dies.
+~
+|
+#35221
+baby~
+a baby~
+A cute baby crawls along on the floor.
+~
+The baby is so little and helpless.  You feel a sense of calm come over you, 
+and couldn't even consider violence.  It would be a sin to harm such a precious
+little creature.
+~
+bm 0 1000 C
+3 0 -10 5d5+50 2d2+1
+10 0
+8 8 2
+13 13 13 13 13 13 13
+0 3 0
+C
+> greet_prog 100~
+mpechoat $n The baby looks up at you.
+smile $n
+~
+> fight_prog 55~
+scream
+cry
+~
+> death_prog 100~
+mpechoat $n The baby looks up pitifully at you as its life comes to an end.
+mpechoat $n Good job! You have slain a helpless baby.
+mpechoat $n A magical force has transferred you to another dimension.
+mptrans $n 35285
+mpat $n mpforce $n say Help!
+~
+> rand_prog 5~
+mpecho The baby crawls around.
+~
+|
+#35222
+Robert boy child~
+Robert~
+Robert Tullfuhrzky is drawing pictures here.
+~
+Robert Tullfuhrzky is quite a budding artist at age 4.  He is very friendly, 
+and is not afraid of anyone.
+~
+bm 0 250 C
+6 0 -10 5d6+80 2d2+2
+1000 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> greet_prog 100~
+mpechoat $n Robert looks at you.
+say Hello. Would you like to see one of my paintings?
+smile
+mpechoat $n Robert thrusts a painting in your face.
+mpechoaround $n Robert shoves a painting at $n
+~
+> fight_prog 45~
+if rand(50)
+mpecho Robert screams in pain.
+scream
+else
+if rand(50)
+cry
+yell Help! Help me!
+mpechoat $n Robert tries to flee your attack.
+else
+scream
+mpechoat $n $I looks at you, wondering why you have decided to hurt him.
+endif
+endif
+~
+|
+#35223
+young child~
+a young child~
+A young child sits on his bed.
+~
+This is a young child of the Tullfuhrzky household.
+~
+bm 0 150 C
+3 0 1 4d5+75 2d3+2
+600 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+#35225
+Joshua Tullfuhrzky master man~
+Master Tullfuhrzky~
+Master Tullfuhrzky is angered by your presence.
+~
+Mr. Joshua Tullfuhrzky is a bear of a man, standing over two meters tall.
+Although he is aging, you can see that he still has some fight left in him.
+~
+bm df 350 C
+12 0 1 7d5+130 5d3+4
+7000 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> fight_prog 50~
+, snarls in rage.
+if rand(60)
+mpechoat $n Master Tullfuhrzky swings his cane at your head!
+mpechoaround $n $I swings his cane at $n's head!
+if rand(80)
+mpechoat $n His strike glances off your shoulder
+mpechoaround $n His strike glances off $n's shoulder.
+mpdamage $n 15
+else
+if rand(45)
+mpechoat $n His strike bashes you in the face!
+mpechoaround $n His strike bashes $n in the face!
+mpdamage $n 20
+else
+if rand(20)
+mpechoat $n His strike nails you in the skull!
+mpechoaround $n His strike nails $n in the skull!
+mpdamage $n 35
+endif
+endif
+endif
+else
+mpechoat $n Master Tullfuhrzky misses you with his cane.
+mpechoaround $n $I misses $n with his cane.
+endif
+~
+> greet_prog 100~
+if ispc($n)
+snarl
+if rand(50)
+say Begone from my home! Get out!
+curse $n
+else
+say $n, you are not welcome here. LEAVE!
+glare $n
+endif
+if rand(50)
+mpechoat $n Master Tullfuhrzky slaps you across the face!
+mpechoat $n Ouch! That hurt!
+mpechoaround $n Master Tullfuhrzky slaps $n across the face!
+mpdamage $n 3
+else
+mpechoat $n Master Tullfuhrzky tries to slap you, but misses.
+mpechoaround $n Master Tullfuhrzky takes a swing at $n, but misses.
+endif
+endif
+~
+> death_prog 100~
+if level($n) > 19
+mpjunk ring
+endif
+~
+|
+#35226
+Lady Tullfuhrzky woman~
+Lady Tullfuhrzky~
+Lady Tullfuhrzky is terrified by your presence.
+~
+Lady Tullfuhrzky is one of the most beautiful women you have ever seen.
+She is tall and lithe, with dark brown hair, sparkling eyes, and a
+dazzling smile.
+~
+bm df 350 C
+10 0 1 10d2+130 5d3+4
+4000 0
+8 8 2
+13 13 13 13 13 13 13
+0 3 0
+C
+> fight_prog 30~
+if rand(50)
+yell Joshua! Children! Help me!
+else
+say Get AWAY from me!
+glare $n
+endif
+~
+> death_prog 100~
+mpechoat $n With her dying breath, Lady Tullfuhrzky looks you in the eye and
+mpechoat $n says, "Please, tell my children..."
+if level($n) > 19
+mpecho The brutality of the attack reduces $I's belongings to scraps.
+mpjunk all
+endif
+~
+> greet_prog 100~
+if ispc($n)
+mpasound A woman's scream comes from somewhere nearby.
+scream
+say Who are you?
+cringe $n
+mpechoat $n Lady Tullfhurzky tries to kick you!
+mpechoaround $n Lady Tullfuhrzky tries to kick $n!
+if rand(60)
+mpechoat $n Her kick connects with your shin!
+mpechoaround $n Lady Tullfuhrzky kicks $n in the shin!
+mpdamage $n 3
+mpforce $n wince
+else
+mpechoat $n You dodge out of the way just in time.
+mpechoaround $n $n dodges Lady Tullfhurzky's kick!
+endif
+endif
+~
+|
+#35242
+spirit~
+the corpse's spirit~
+The corpse's spirit floats above the rotting carcass.
+~
+There's not really much to see, since this is the ghost of a man.  Peering
+intently, you seem to be able to make out a vague shape of shimmering energy.
+~
+bm bdfw -200 C
+6 0 1 1d1+55 5d5+5
+100 0
+8 8 0
+13 13 13 13 13 13 13
+13 3 0
+C
+> act_prog p gets a panther-crested shield from a rotting corpse.~
+say $n, you have INVADED my privacy.
+vis
+mpecho The spirit of the corpse fades into existance.
+say You die!
+mpkill $n
+~
+> death_prog 100~
+if level($n) > 19
+else
+mpoload 35226
+endif
+~
+> rand_prog 4~
+mpecho You sense a presence moving about the room.
+~
+> rand_prog 5~
+mpecho You feel something brush past you.
+mpat 3 c 'invis'
+~
+|
+#35243
+rotting corpse~
+this mob is not used~
+A corpse slowly decomposes here.
+~
+~
+m 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 3 0
+C
+#35250
+torturer~
+an evil-looking torturer~
+A black-hooded torturer stands here, ready to massacre you.
+~
+You see a man dressed completely in black.  His entire body is covered, except
+for his mouth, which is drawn into an evil grin.  He looks like he enjoys
+dishing out pain.
+~
+bm df -500 C
+11 0 1 10d3+120 3d2+6
+25000 0
+8 8 0
+13 13 13 13 13 13 13
+0 3 0
+C
+> fight_prog 40~
+if rand(50)
+mpechoat $n The torturer snarls angrily as he tries to destroy you.
+else
+mpechoat $n The torturer cracks his whip at your face, but misses.
+endif
+if rand(70)
+else
+say You think you're pretty tough, hotshot?
+if rand(50)
+say I shall bury you in an unmarked grave, coward.
+endif
+endif
+~
+> all_greet_prog 100~
+mpechoat $n The torturer looks at you with a glint in his eye.
+grin
+say $n... you have the name of a coward.
+say Congratulations, you have found me.
+say You may now have a taste of my whip.
+mpkill $n
+~
+> death_prog 100~
+if level($n) > 29
+mpecho The corpse of this once fearsome man now lies mangled.
+mpjunk all
+endif
+~
+|
+#35255
+riding horse~
+a riding horse~
+A beautiful manor riding horse stands here.
+~
+A strong, proud, and properly groomed manor horse meets your gaze.
+You are just dying for a ride, aren't you?
+~
+m df 200 C
+8 0 1 9d3+100 3d3+2
+1000 0
+8 8 0
+13 13 13 13 13 13 13
+15 3 0
+C
+> rand_prog 4~
+mpecho The horse swishes its tail.
+~
+> rand_prog 4~
+nuzzle $n
+~
+|
+#35256
+stablehand man~
+a stablehand~
+An old stablehand is hard at work.
+~
+You see an old man with gnarled hands.  He has been performing the same
+tasks for over thirty-five years, and is quite bitter about it.
+~
+m 0 200 C
+7 0 1 5d5+80 3d2+1
+3000 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> greet_prog 100~
+mpechoat $n The stablehand looks up at you and sees nothing of interest.
+~
+|
+#35260
+Nanny Nana~
+a decrepit old nanny~
+Nana is here, rocking merrily away.
+~
+Nana can't be less than 100 years old.  Her skin is wrinkled, her eyesight
+is failing, and her hearing is poor.  In spite of this, her face has a 
+kindness to it.
+~
+gm 0 250 C
+7 0 1 10d2+60 2d2+1
+25000 0
+8 8 2
+13 13 13 13 13 13 13
+0 3 0
+C
+> all_greet_prog 100~
+if isnpc($n)
+else
+mpechoat $n Nana looks at you in confusion.
+if rand(50)
+say Joshua? Is that you?
+else
+say Robert? Come to grandma.
+smile $n
+endif
+endif
+~
+|
+#35262
+servant boy~
+a servant boy~
+A small servant boy relaxes here.
+~
+The little boy is only about five years old, and has already been introduced
+to the harsh world of forced labor.
+~
+bm d -100 C
+5 0 15 3d3+60 2d2+2
+20 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> greet_prog 100~
+mpechoat $n The little boy is terrified of you.
+cringe $n
+~
+> fight_prog 35~
+cry
+if rand(50)
+say You're hurting me!
+else
+say Stop hurting me!
+endif
+~
+> fight_prog 35~
+yell $n is killing children! Help me!
+~
+|
+#35263
+man servant~
+a house servant~
+A house servant rests after a long day.
+~
+Years of labor have worn this man down.  He looks tired and unhappy, and
+is not particularly happy to be looking at you.
+~
+bm 0 200 C
+6 0 1 4d5+60 2d3+3
+3000 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> all_greet_prog 100~
+if ispc($n)
+if rand(50)
+say What're ya doin' here? Get outta here! Go on, move yer butt.
+else
+snarl $n
+say Get LOST! This is MY house.
+endif
+mpechoat $n The servant shoves you toward the door.
+mpechoaround $n The house servant shoves $n toward the door.
+if rand(40)
+mpechoat $n The house servant kicks you out the door...literally!
+mpdamage $n 3
+mpechoat $n That hurt!
+mpechoaround $n $n gets kicked out the door!
+mpforce $n south
+endif
+endif
+~
+|
+#35265
+gardener man~
+the gardener~
+The gardener works hard to produce fresh vegetables.
+~
+The man before you has been worn down by years of tilling the soil.
+He looks old and frail, but has a glint of wisdom in his eye.
+~
+bcm 0 250 C
+9 0 1 5d5+160 4d5+5
+4000 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> act_prog p sits down.~
+say Here is what I have to offer you. Please, take your time.
+mpforce $n list
+~
+> act_prog p stands up.~
+if rand(50)
+say Leaving so soon? Have a good day, $n.
+wave $n
+else
+say Please come again.
+shake $n
+endif
+~
+> rand_prog 5~
+emote starts tilling the soil.
+~
+> all_greet_prog 100~
+if isnpc($n)
+else
+mpechoaround $n The gardener looks at $n.
+if rand(50)
+say Greetings, $n, please have a seat and examine my produce.
+smile $n
+else
+bow $n
+say Hello, $n, please sit down.
+endif
+endif
+mpechoat $n The gardener motions for you to sit.
+~
+|
+#35271
+cockroach roach~
+a giant cockroach~
+An extremely LARGE roach wanders about.
+~
+This is the biggest, most disgusting roach you have ever seen in your life.
+~
+gm 0 -275 C
+7 0 1 4d3+78 3d4+4
+100 0
+8 8 0
+13 13 13 13 13 13 13
+17 3 0
+C
+> death_prog 100~
+if level($n) > 19
+mpecho The carcass of the roach is damaged beyond recognition.
+else
+mpecho As the roach falls its exoskeleton detaches from the rest of its body.
+mpoload 35229
+endif
+~
+|
+#35272
+cockroach roach~
+this mob is not used~
+An extremely LARGE roach wanders about.
+~
+This is the biggest, most disgusting roach you have ever seen in your life.
+~
+gm 0 -275 C
+3 0 0 4d3+20 3d2+2
+0 0
+8 8 0
+13 13 13 13 13 13 13
+17 3 0
+C
+#35284
+judge~
+The Judge~
+The Final Judge glares at you.
+~
+The Judge is dressed in long, flowing robes, and has an air of arrogant
+superiority about him.
+~
+cm dfhCD -1000 C
+2 0 0 1d1+30000 1d1+1000
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 3 0
+C
+> all_greet_prog 100~
+mpechoat $n The judge looks at you with a glare of hatred in his eyes.
+say VERMIN! You SCUM! CHILD KILLER!
+yell $n Is a CHILD killer!
+say You do not deserve LIFE.
+say However, I will pardon you this time.
+mpechoat $n The Judge points his finger at you.
+say Begone, you vile murderer!
+mpechoat $n By the Judge's mercy, you have been transferred to...
+if rand(35)
+mpechoat $n Hawk Street & Law Avenue
+mptransfer $n 53816
+else
+if rand(45)
+mpechoat $n Dwarven Day Care
+mptransfer $n 39401
+else
+if rand(50)
+mpechoat $n The Miden'nir
+mptransfer $n 36304
+else
+mpechoat $n The Temple
+mptransfer $n 53801
+endif
+endif
+endif
+~
+|
+$~

@@ -1,0 +1,554 @@
+#25200
+The Nightsnake Sanctuary~
+   This is absolutely a beatiful place!  The room is almost to small for all
+the Nightsnake trophies that hang around and all the signs of the clan. Dim 
+light radiates from an enormous crystal chandelier hanging down from the 
+ceiling approximately 10 feet off the floor. There are few teleport cabins here 
+with a large sign hanged above them.
+~
+252 220 0
+D0
+~
+~
+0 0 25201
+E
+cabins~
+They look quite egzotic, a real state of the art equipment. There is some kind 
+of a sign hanged above them.
+~
+E
+sign~
+To use a teleport cabin please insert your teleportation card. To get to 
+Midgaard, you don't need a card since all the teleporters will transfer you 
+there by default (just type 'insert midgaard'). Good luck on your travels!
+~
+S
+#25201
+The Nightsnake Boulevard~
+   You find yourself walking down the most shiny and glorius street,
+of them all - the Nightsnake Boulevard. Many houses are being built
+here at this time, humble homes of the Nightsnake clan members.
+~
+252 0 0
+D0
+~
+~
+0 0 25206
+D1
+~
+~
+0 0 25211
+D2
+~
+~
+0 0 25200
+D3
+~
+~
+0 0 25202
+S
+#25202
+Findegil's Garden~
+ Located just west of Nightsnake boulevard, near the Nightsnake sanctuary
+this home features a charming turn-of-the-century residence lovingly
+maintained and updated with a touch sensitive to the orginal owner of the
+house.
+ Located on the right side of the house is a entrance probably leading
+into the basement wich is used as a storage for weapons,armor and a place
+where the owner keeps his so well famed dark blueberry wine.
+  The first floor walls made of colored stones are covered with some
+strange flourished crawling plant wich most grown roots reach across the
+second floor to the beautyfull roof covered with dark red brick . The
+second floor made of some strange black material boasts a pleasant
+pastoral views to the front and a large rear yard bordering a mature
+forest.
+~
+252 8192 0
+D1
+~
+~
+0 0 25201
+D3
+~
+~
+0 0 25203
+S
+#25203
+Findegil's Home~
+ Inside this wonderful house you can see that lower floor has been
+professionally and tastefully decorated. There is a large living room
+boasted with lovely oak flooring and covered with beautyful carpet. On the
+walls you can see three painting describing some for you fantastical
+events.
+ On second floor there are three large bedrooms including master bedroom
+with with ensuite bathroom. From this room you can enjoy the the evening
+sunsets on wonderful lakeside view, and far ahead you can see distant
+glimpses of big blue ocean.
+~
+252 2560 0
+D1
+~
+~
+0 0 25202
+S
+#25204
+Orlando's Home~
+  This is the humble home Orlando the Crusader. On the walls you can see
+pictures and posters of many famous bands, such as: Pink Floyd, Nirvana,
+R.E.M., Rollins Band, Offspring, Green Day... There is strange sign
+painted on the ceiling, the sign look soething like this (+). Also the
+floor is little bit strange it looks like it has been made of diamonds.
+There is a big note on the door which reads: WELCOME TO THE MACHINE?!?
+~
+252 2560 0
+D1
+~
+~
+0 0 25202
+S
+#25205
+Orlando's Home~
+  This is the humble home Orlando the Crusader. On the walls you can see
+pictures and posters of many famous bands, such as: Pink Floyd, Nirvana,
+R.E.M., Rollins Band, Offspring, Green Day... There is strange sign
+painted on the ceiling, the sign look soething like this (+). Also the
+floor is little bit strange it looks like it has been made of diamonds.
+There is a big note on the door which reads: WELCOME TO THE MACHINE?!?
+~
+252 2560 0
+D1
+~
+~
+0 0 25202
+S
+#25206
+The Nightsnake Boulevard~
+   You find yourself walking down the most shiny and glorius street,
+of them all - the Nightsnake Boulevard. Many houses are being built
+here at this time, humble homes of the Nightsnake clan members.
+  A small path leads toward a small castle to the west.
+~
+252 0 0
+D0
+~
+~
+0 0 25213
+D1
+~
+~
+0 0 25209
+D2
+~
+~
+0 0 25201
+D3
+~
+~
+0 0 25207
+S
+#25207
+On A Small Path~
+  Small path leads towards the massive white tower with three coloured
+flags on top of it. Flag with red, blue, and white colour lines applicated
+with white double headed eagle with huge crown above his heads is slowly
+waving on the wind. Tower is protected by strong walls and all kind of
+death traps but there is only one secure way toward the tower, narrow
+and twisted path is leading to the huge wooden gate with water channel
+in front and movable bridge over it.
+~
+252 8192 0
+D1
+~
+~
+0 0 25206
+D3
+~
+~
+0 0 25208
+S
+#25208
+Persival's Home~
+   What is it in these cold massive walls to make you feel so pleasent? Is it
+fire in the camin which makes you warm or is it all these powerfull weapons
+hanging on the walls reminding you all these glorious days of serving 
+king Arthur and reminding after all friendly knights of the round table.
+
+~
+252 2560 0
+D1
+Nothing.
+~
+~
+0 0 25207
+S
+#25209
+Corben's Yard~
+  You must step aside, for this is Corben's training fascility!
+Or maybe you can join Corben for a friendly game of soccer, basketball,
+Duke Nukem or a plain, old-fashioned fight.
+You can see Corben's house nearby.
+(bright aura) Highlander is guarding the entrance.
+~
+252 8192 0
+D1
+~
+~
+0 0 25210
+D3
+~
+~
+0 0 25206
+S
+#25210
+Corben's House~
+  The house is very, very untidy, overfilled with weapons, armory and trophys.
+Apparently, being a very busy warrior, fighting dragons and mighty beholders,
+Corben Wedge has no time for cleaning.
+Maybe the only thing that can not be seen here is Pope's Ear. (Death slowly
+...)
+But, there is always place for another head ...
+~
+252 2560 0
+D3
+~
+~
+0 0 25209
+S
+#25211
+Mid-Air~
+   You look around amazed as you fly in the air. A mighty force of unknown
+origin is taking you in the clouds. Deep down below you see distant
+ground. It is frightening, and you feel that any second you could fall
+down in the abyss.
+   In the distance a bright light appears. It emanates from what it looks
+like a throne. You now know that this is the throne of Perun, god of all
+Slavs. It looks like Perun is not home... You approach the gate.
+   *KAZAK* A lightning bolt strikes the foothold of the gate and great
+giant appears in front of you. You look up in attempt to see his face, but
+the shimmering aura around him is to bright. It is impossible to see
+anything. You know that he has his eyes on you, and suddenly you feel
+weak.
+(shimmering aura) Nebojsha, protector of Perun's plane is watching you.
+  ... he is surrounded by RAGING lightnings.
+~
+252 8192 9
+D1
+~
+~
+0 0 25212
+D3
+~
+~
+0 0 25201
+S
+#25212
+Perun's Plane~
+   As you pass Nebojsha, and enter Perun's plane, you feel REALLY
+peaceful. All the lightning, winds and thunderstorms are now behind you.
+You are surrounded by complete silence.
+   You are standing at the great archway. In front of you stands Perun's
+throne room. On the walls of this huge throne room you see weapons of all
+sorts, cabinets filled with scrolls. In the corners there are crates
+filled with gold and valuables, and sacks full of food of all sorts.
+   In the center of the room floats Perun's throne, humming discreetly. It
+is still very bright, but now the light doesn't hurt your eyes. You feel
+like at home.
+~
+252 2560 0
+D3
+~
+~
+0 0 25211
+S
+#25213
+The Nightsnake Boulevard~
+   You find yourself walking down the most shiny and glorius street,
+of them all - the Nightsnake Boulevard. Many houses are being built
+A small path leads toward a small castle to the west.
+~
+252 0 0
+D0
+~
+~
+0 0 25218
+D1
+~
+~
+0 0 25216
+D2
+Nothing.
+~
+~
+0 0 25206
+D3
+~
+~
+0 0 25214
+S
+#25214
+The Gateway to the Realm~
+ In front of you there is a huge,tall gate made of some very strange black
+metal. The metal has no shine, but on the top of the gate at the same
+center, you can see a shining shield bearing the sign of a Nightsnake
+clan. The sign is glowing with a very bright red light that can almost make
+you blind.
+Beneath the sign you can read a writing: THE REALM OF A DARK RANGER.
+On both sides of a gate, left and right, you can see two very tall and big
+statues-Statues of the Drow Gods. The statues are made of the same material
+as the gate. They are the Watchers of the Realm, and as you approach the
+gate, you can see their eyes opening,forcing you to wonder are they really
+only the statues.
+As you passed the gate,you entered at the most beautiful garden. At the 
+centre of the garden an enormous tree rises in the air. The branches
+are covering the whole garden, and the leaves on branches are letting very
+little sunlight.
+~
+252 8192 0
+D1
+~
+~
+0 0 25213
+D3
+~
+~
+0 0 25215
+S
+#25215
+The Giant Tree~
+ Your attention was attracted by the way the house was built. It seems like
+the tree itself used some of its branches to cover the crown of the
+tree, forming the magnificent house. The room is enormous. It's fantastic.
+The house is tipical for a ranger: not too many things. There is a bed in
+front of you. On your left side you can see a huge very heavy box and also
+huge bag,and on your right there is a closet. In the middle of the room
+there is a great red crystal which gives energy to whole tree.
+~
+252 2560 0
+D1
+~
+~
+0 0 25214
+S
+#25216
+Edge of great bottomles pit~
+  As you stand on the edge of great bottomles pit, long narrow path forms
+out of nowhere in front of you, it's end is shrouded in darkness. You take
+your first step on shimmering path and you feel like you are being watched
+by someone or something. Flashing colours are appearing all around you,
+magical energy makes beautiful figures in the air and strange voices start
+to sing relaxing tune on some ancient language.
+  Taking step at a time, too amazed to move quicker, magical myst suddenly
+surrounds you. You lift from the ground and fell like traveling to another
+dimension, now you become aware that you are traveling to Gates of The
+Wiseones, place of which you heard many times sitting by the camp-fire
+as your grandfather talked about every man's dream - to pass The Gates and;walk to legendary place of magic and power - The Danath's Tower.
+Great gate appears. It is made of mythical material, the true silver, Mithril.
+~
+252 8192 0
+D1
+~
+~
+0 0 25217
+D3
+Nothing.
+~
+~
+0 0 25213
+S
+#25217
+The Danath's tower~
+  As you hear sound of closing gates behind you, myst disappears and now you
+can see big white tower sorrounded with tall, green trees in front of you.
+Big flag with Nightsnake insignia is waving on top of the tower. Complete
+silence is all around you, but as you aproach porch of the tower once more
+you hear same song that you heard as you walked on shimmering path. Invisible
+servants open the massive marble door and you enter. From time too time small
+rays of force quickly fly by your head.
+Inside you pass by two guadian golems and take a step on floating disc made
+of pure magical power, it lifts you to Danath's chamber.
+Walls are inscripted by strange runes. All kind of weapons, staves, wands,
+rods, armours, rings, amulets and other equipment are floating in the air
+protected by magical curtain, there are books of arcane knowledge in the
+shelves, and enormous mounds of gold, gems are storaged in big
+crates in the corner of the chamber.
+~
+252 2560 0
+D3
+~
+~
+0 0 25216
+S
+#25218
+The Nightsnake Boulevard~
+   You find yourself walking down the most shiny and glorius street,
+of them all - the Nightsnake Boulevard. Many houses are being built
+A small path leads toward a small castle to the west.
+~
+252 0 0
+D0
+~
+~
+0 0 25221
+D1
+~
+~
+0 0 25124
+D2
+~
+~
+0 0 25213
+D3
+~
+~
+0 0 25219
+S
+#25219
+Claghorn's Garden~
+  You are standing in peaceful garden surrounded by powerful feeling. The
+fence around garden is made of strange plants with beautiful, but venemous
+flowers of blue-yellow color. There is a sign saying "Go away, I'm meditating"
+hanging on the fence. In the middle of the soft grassy cover lies  The Circle
+of Power, made of red, boiling liquid which, unexpectedly, does not harm, 
+but gives the feeling of enormous power and happiness. At the end of the garden,
+you can see a mirror-like entrance to Claghorn's house.
+~
+252 8192 0
+D1
+~
+~
+0 0 25218
+D3
+~
+~
+0 0 25220
+S
+#25220
+Claghorn's House~
+  Quite asketic, but clean and tidy enterier. In each corner there is a tiny
+cage made of gold and platinum, containing one of the elements: Water,
+Fire, Earth, Air. In the middle of the room, a huge golden chauldron
+with boiling water is set on fire. Along the walls, there are numerous
+shelfs with equipment, armour, weapons, and magic potions and scrolls.
+~
+252 2560 0
+D1
+~
+~
+0 0 25219
+S
+#25221
+The Nightsnake Boulevard~
+   You find yourself walking down the most shiny and glorius street,
+of them all - the Nightsnake Boulevard. Many houses are being built
+A small path leads toward a small castle to the west.
+~
+252 0 0
+D1
+~
+~
+0 0 25227
+D2
+Nothing.
+~
+~
+0 0 25218
+D3
+~
+~
+0 0 25224
+S
+#25222
+Empty~
+empty~
+252 0 0
+S
+#25223
+Inside Iurg's house!~
+    You find yourself inside large room, with a loot of space everywhere!
+~
+252 0 0
+D1
+~
+~
+0 0 25122
+S
+#25224
+Napalm's yard~
+  In front of you you see a large yard covered with green grass. On the center of
+yard you see a small fountain with gold fishs,which are swimming around.
+Suddently, you see a trail,which tracks to north.Track ends beetwen two
+bushes.You fill uneasy about these place.Your instinct tells you to go
+away.
+~
+252 8192 0
+D1
+~
+~
+0 0 25221
+D3
+Nothing.
+~
+~
+0 0 25225
+S
+#25225
+Napalm's cave~
+  In front you see a cave made of some strange material.On top
+of the cave you see tree torches which give light to cave.On the floor you
+see two large boxs made of wood.
+~
+252 2560 0
+D1
+~
+~
+0 0 25224
+S
+#25226
+Big dark castle~
+As you enter the house seeking for shelter you feel strange
+material of wich this building is made, it is strange material
+from demi-shadow plane, that means that this is Shadow Plane,
+under the tyranny of Tyralion The Shadowlord, the righteous
+and proud creature, but also very destructive and bloodthirsty
+when he is angry. You think So... It was Tyralion who ordered
+shadows to let me through, and then unhuman whisper says Yes
+thou are right, he let you live because he thinks of you
+as a friend, maybe he is upstairs on his shadow throne waiting
+for you, good luck... mortal. Upstairs there is a throne,
+faced on the other side, is anyone in it?
+
+~
+252 2560 0
+D3
+~
+~
+0 0 25227
+S
+#25227
+Shadow Rift...~
+You take a step off the Nightsnake Boulevard and you start
+falling, suddenly you can't see the Sun... It's shrouded in
+veil of shadows...
+Finnaly you fall on the hard ground. When you take a look at
+the place you are in you see shadows roaming around you, it
+seems that their small white eyes are waiting for a moment
+when you'll be unprepared for their attack, suddenly you can
+hear unhuman whispers... You are scared.
+Shadows start moving and make space for you to move, like
+someone ordered them to, after some time you can see something big
+at the horizont. As you come closer you see that that thing is a castle.
+Maybe there is shelter in that big dark building... or it can be
+your death...
+
+~
+252 8192 0
+D1
+~
+~
+0 0 25226
+D3
+~
+~
+0 0 25221
+S
+$~

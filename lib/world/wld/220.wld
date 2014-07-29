@@ -1,0 +1,3317 @@
+#22000
+Entrance To Ultima~
+  The blue moongate casts an strange blue light upon a huge gate to
+the south.  The gate is open and beyond it you see a simple
+village.  Around the gate there are two pedestals.  On the first
+pedestal, there is a magic scroll.  On the second there is a
+plaque.
+~
+220 12 0
+D2
+There is a huge gate
+~
+gate~
+1 -1 22001
+D5
+A blue moongate
+~
+moongate~
+1 -1 315
+E
+magic scroll~
+An image flew out of the scroll and creates a huge image of a
+face approximately ten feet off the ground.  It says, " Welcome
+to Ultima, where adventure and excitement may be found for all
+people, and all levels.  Each of the separate planes increase in
+level. Have a nice day!"
+~
+E
+plaque~
+The plaque reads, "The Ultima Area was made for Merc 2.0."
+~
+S
+#22001
+New Magincia Road~
+  This is the main road of New Magincia.  To the south the dirt
+path continues to the south and a huge gate to the north.
+~
+220 0 1
+D0
+There is a huge gate.
+~
+gate~
+1 -1 22000
+D2
+~
+~
+0 -1 22002
+S
+#22002
+New Magincia Road~
+  The path continues to the south and the north.  You see the
+tracks of sheep here.
+~
+220 0 1
+D0
+The path continues to the north.
+~
+~
+0 -1 22001
+D2
+There is a shimmering light to the south.
+~
+~
+0 -1 22003
+S
+#22003
+The New Magincia Moongate~
+  You see another moongate here, exactly between the crossing of
+two paths.
+~
+220 4 1
+D0
+~
+~
+0 -1 22002
+D1
+~
+~
+0 -1 22013
+D2
+~
+~
+0 -1 22004
+D3
+~
+~
+0 -1 22008
+D4
+Through the translucent moongate you think you see... books?
+~
+moongate~
+2 22008 22016
+S
+#22004
+New Magincia Road~
+  The path continues to the south and north.  On the east there
+seems to be administrative building.
+~
+220 0 1
+D0
+There is a shimmering light.
+~
+~
+0 -1 22003
+D1
+~
+door~
+1 -1 22014
+D2
+~
+~
+0 -1 22005
+S
+#22005
+New Magincia Road~
+  The dirt road path ends here in a grove.  You can continue back
+to the north, and there is an old abandoned house to the west.
+~
+220 0 1
+D0
+~
+~
+0 -1 22004
+D3
+~
+door~
+1 -1 22010
+S
+#22006
+Stables~
+  This is the stables for the shepherd.  There are many fine horses
+here.  You can return to the barn in to the south.
+~
+220 8 1
+D2
+The front part of the barn is to the south.
+~
+~
+0 -1 22007
+S
+#22007
+Barn~
+  This is your basic barn, with hay and stables to the north.
+~
+220 8 1
+D0
+You hear neighing, intermixed with a strange talking.
+~
+~
+0 -1 22006
+D2
+~
+door~
+1 -1 22008
+S
+#22008
+Humility Lane~
+  This is a even smaller dirt path that crosses New Maginica Road. 
+To your north there is a barn, and to the south you see a
+condemned building, though you cannot enter this way.  West is
+blocked off a herd o sheep.
+~
+220 0 1
+D0
+~
+door~
+1 -1 22007
+D1
+There is a shimmering light to the east.
+~
+~
+1 -1 22003
+S
+#22009
+Condemned House~
+  This place is wrecked, the rafters have fell, and light shines
+through a large hole in the roof.  You wonder what kinds of
+animals have taken home here.
+~
+220 8 1
+D2
+~
+~
+0 -1 22010
+S
+#22010
+Condemned House~
+  As you walk into the house, you realize that this house must not
+have been reconstructed yet from the ruin of Old Magincia.  Faint
+intimations of foolish pride still can be seen through the
+wreckage.
+~
+220 8 1
+D0
+~
+~
+0 -1 22009
+D1
+~
+door~
+1 -1 22005
+S
+#22011
+Attic~
+  The attic is dark, and you smell some vestiges of bat guano.
+~
+220 8 1
+D5
+The rest of the house is down.
+~
+trapdoor~
+1 -1 22012
+S
+#22012
+House~
+  This is a small humble house.  You do not see much here, though
+there are some faint squeaking.
+~
+220 8 1
+D2
+~
+door~
+1 -1 22013
+D4
+You see the faint outline of a trapdoor.
+~
+trapdoor~
+1 -1 22011
+S
+#22013
+Humility Lane~
+  This is a very small path.  It ends here with a fence to the
+east.  To the west is the Moongate, and to the north there is a
+small house.
+~
+220 0 1
+D0
+~
+door~
+1 -1 22012
+D3
+~
+door~
+1 -1 22003
+S
+#22014
+Entrance To The Office~
+  Though this room is small, it acts as a meeting place for Katrina
+and any other person that she has to meet.  You can exit to the
+west or enter an office to the south.
+~
+220 8 1
+D2
+~
+~
+0 -1 22015
+D3
+~
+door~
+1 -1 22004
+S
+#22015
+Katrina's Office~
+  This is office is very sparse... and humble.  There are no
+decorations, in fact the room is bare except for a simple desk
+and its chair.
+~
+220 8 1
+D0
+~
+~
+0 -1 22014
+S
+#22016
+Library~
+  This is an amazing HUGE library.  Its musty smell, and the
+collapsed bookshelf to your north, tell you that it also must be
+ancient.  In any case you can't get out of the Library (remember
+the collapsed shelves?) so just pick a book and start reading. 
+The stacks continue to the east and west.
+~
+220 8 0
+D1
+~
+~
+0 -1 22017
+D3
+~
+~
+0 -1 22036
+E
+book books shelves~
+These shelves deal with the fascinating letter A.  Among the more
+interesting books are, "Andersen's tips on Area Building."  "The
+Art of Spamming" and  "Axes and You."
+~
+S
+#22017
+Library~
+  The Library continues here, with exits to the east and west.
+~
+220 8 0
+D1
+~
+~
+0 -1 22018
+D3
+~
+~
+0 -1 22016
+E
+book books shelves~
+These books are about the letters B and C.  Some titles are:
+'Boom Boxes: How large will they become?' and 'Cutlery: The fine
+points of Killing' and of course the classic, 'Casret's Titles.'
+~
+S
+#22018
+Library~
+  The Library continues here, with exits to the east and west.
+~
+220 8 0
+D1
+~
+~
+0 -1 22019
+D3
+~
+~
+0 -1 22017
+E
+book books shelves~
+This shelf has books dealing with the 'D's'.  'Dracula, Blood
+Sucker or Beavis fan?' seems to be the most interesting book
+here.
+~
+S
+#22019
+Library~
+  The Library continues here, with exits to the east and south.
+~
+220 8 0
+D2
+~
+~
+0 -1 22020
+D3
+~
+~
+0 -1 22018
+E
+book books shelves~
+The 'E' section is here.  One book, "Howard Stern" doesn't seem
+to belong here.
+~
+S
+#22020
+Library~
+  The Library continues here, with exits to the north and west.
+~
+220 8 0
+D0
+~
+~
+0 -1 22019
+D3
+You see a big desk and a man.
+~
+~
+0 -1 22021
+E
+book books shelves~
+You find 'Fax Fun' and 'Farts: How to Blame it on the Dog.' in
+this section of the library.
+~
+S
+#22021
+Library Office~
+  A big desk dominates this room.  All books must go through this
+office before getting taken out.  Through this office, and
+through this man.
+~
+220 8 0
+D1
+~
+~
+0 -1 22020
+D3
+~
+~
+0 -1 22022
+S
+#22022
+Library~
+  The Library continues here, with exits to the west and east.
+~
+220 8 0
+D1
+You see a huge desk and man.
+~
+~
+0 -1 22021
+D3
+~
+~
+0 -1 22023
+E
+book books shelves~
+The books here start with 'G'.  'Grating Cheese with Julia
+Childs' and 'Garamond: What kind of font is this anyway?' lie
+here.
+~
+S
+#22023
+Library~
+  The Library continues here, with exits to the east and south .
+~
+220 8 0
+D1
+~
+~
+0 -1 22022
+D2
+~
+~
+0 -1 22024
+E
+book books shelves~
+The books here comprise 'H' and 'I'.  'Hiya: The Women who Use
+it, and the Man who Use the Women'  and 'Icaza Loves Ya' are here
+in a gaudy and annoying covers.
+~
+S
+#22024
+Library~
+  The Library continues here, with exits to the north and east.
+~
+220 8 0
+D0
+~
+~
+0 -1 22023
+D1
+~
+~
+0 -1 22025
+E
+book books shelves~
+These books start with the letter 'J'.  'Jokey Smurf's Greatest
+Explosions' and 'The Judge take on New York' seem to be the most
+popular books.
+~
+S
+#22025
+Library~
+  The Library continues here, with exits to the west and east.
+~
+220 8 0
+D1
+~
+~
+0 -1 22026
+D3
+~
+~
+0 -1 22024
+E
+book books shelves~
+Hmmm this is the 'K' section, and 'Kicking Vs. Bashing' is here.
+~
+S
+#22026
+Library~
+  The Library continues here, with exits to the west and east.
+~
+220 8 0
+D1
+~
+~
+0 -1 22027
+D3
+~
+~
+0 -1 22025
+E
+book books shelves~
+A book titled, 'Lick me, Lick you'  is here.
+~
+S
+#22027
+Library~
+  The Library continues here, with exits to the west and south.
+~
+220 8 0
+D2
+~
+~
+0 -1 22029
+D3
+~
+~
+0 -1 22026
+E
+book books shelves~
+'Mahatma Teachs French' and 'MC Echser: The Rap Star and
+Paradoxical Artist'.
+~
+S
+#22028
+The Library Moongate~
+  A blue moongate is here, lighting up the otherwise featureless
+room.
+~
+220 12 0
+D0
+~
+shelf~
+1 -1 22032
+D4
+Through the moongate, there is a party.
+~
+moongate~
+2 22009 22037
+S
+#22029
+Library~
+  The Library continues here, with exits to the north and west.
+~
+220 8 0
+D0
+~
+~
+0 -1 22027
+D3
+~
+~
+0 -1 22030
+E
+book books shelves~
+Hmmm... This is the 'N' section... but 'Nothing' seems to be
+here.
+~
+S
+#22030
+Library~
+  The Library continues here, with exits to the east and west.
+~
+220 8 0
+D1
+~
+~
+0 -1 22029
+D3
+~
+~
+0 -1 22031
+E
+book books shelves~
+This is the 'OP' section.  You hear moaning behind those stacks,
+yup there there on the floor there is another P.
+~
+S
+#22031
+Library~
+  The Library continues here, with exits to the east and west.
+~
+220 8 0
+D1
+~
+~
+0 -1 22030
+D3
+~
+~
+0 -1 22032
+E
+book books shelves~
+'Quai Mackdaddy Monk and 'Rhinoplasty, or The Inebriation of Wild
+Animals' are here.
+~
+S
+#22032
+Library~
+  The Library continues here, with exits to the east and west..
+~
+220 8 0
+D1
+~
+~
+0 -1 22031
+D2
+Hinges on a shelf?
+~
+Shelf~
+1 -1 22028
+D3
+~
+~
+0 -1 22033
+E
+book books shelves~
+'Secret Door: The Shelf' is on the shelf.
+~
+S
+#22033
+Library~
+  The Library continues here, with exits to the east and north.
+~
+220 8 0
+D0
+~
+~
+0 -1 22034
+D1
+~
+~
+0 -1 22032
+E
+book books shelves~
+'Textile Farming' and 'Tempting Miss. Daisy' is here.
+~
+S
+#22034
+Library~
+  The Library continues here, with exits to the south and north.
+~
+220 8 0
+D0
+There is an odd chattering to the north.
+~
+~
+0 -1 22035
+D2
+~
+~
+0 -1 22033
+E
+book books shelves~
+'Ultima: The Building of an Area' and 'Vulva Void' are here.
+~
+S
+#22035
+Web~
+  There is a Huge Web sitting here, stretching from shelf to shelf.
+And stupid you wandered into it.
+~
+220 8 0
+D0
+~
+~
+0 -1 22036
+D2
+~
+~
+0 -1 22034
+S
+#22036
+Library~
+  The Library continues here, with exits to the north and east.
+~
+220 8 0
+D1
+~
+~
+0 -1 22016
+D2
+There is a strange chattering noise to the south.
+~
+~
+0 -1 22035
+E
+book books shelves~
+"Yaz: Grooming Tips" is here.
+~
+S
+#22037
+The Center Of The Tavern~
+  The moongate has opened inside of a huge party.  There are bards
+and other townsman.  This must be Britain.  There are people
+everywhere carrying their drinks and singing everywhere.  The
+party continues to the north, east south and west.
+~
+220 8 0
+D0
+~
+~
+0 -1 22039
+D1
+~
+~
+0 -1 22042
+D2
+~
+~
+0 -1 22044
+D3
+~
+~
+0 -1 22041
+S
+#22038
+The Northwest Corner Of The Tavern~
+  This is where the tavern entrance would be if it wasn't packed
+with humans trying to get in or get out.  There is no chance of
+you leaving the tavern tonight.you can return to the part to the
+east and the south.
+~
+220 8 0
+D1
+~
+~
+0 -1 22039
+D2
+~
+~
+0 -1 22041
+S
+#22039
+The North Wall Of The Tavern~
+  Party-goers mingle here in front of the bar.  They seem to be
+having a great time and wish for you to join them.  You can
+continue on to the south, east or north.
+~
+220 8 0
+D1
+~
+~
+0 -1 22040
+D2
+~
+~
+0 -1 22037
+D3
+~
+~
+0 -1 22038
+S
+#22040
+The Northeast Corner Of The Tavern~
+  Along this east wall of the tavern are all the tables for the
+meals.  Outside the windows you see cobblestone streets.
+~
+220 8 0
+D2
+~
+~
+0 -1 22042
+D3
+~
+~
+0 -1 22039
+S
+#22041
+The West Wall Of The Tavern~
+  The band has set up here, against the west wall.  Many people
+dance to the music.
+~
+220 8 0
+D0
+~
+~
+0 -1 22038
+D1
+~
+~
+0 -1 22037
+D2
+~
+~
+0 -1 22043
+S
+#22042
+The East Wall Of The Tavern~
+  The tables are set up here, you see many couples and group just
+sitting and talking.  They have drinks on their tables and smiles
+on there face.
+~
+220 8 0
+D0
+~
+~
+0 -1 22040
+D2
+~
+~
+0 -1 22045
+D3
+~
+~
+0 -1 22037
+S
+#22043
+The Southwest Corner Of The Tavern~
+  There are many people here, but even through their scent, there
+seems to be a slight stench.
+~
+220 8 0
+D0
+~
+~
+0 -1 22041
+D1
+~
+~
+0 -1 22044
+D5
+~
+cellar~
+1 -1 22046
+S
+#22044
+The South Wall Of The Tavern~
+  The South Wall windows overlook the sea.  There seems to be a
+island far to the south, and boats just floating in the ports. 
+The party-goers just wander around here.
+~
+220 8 0
+D0
+~
+~
+0 -1 22037
+D1
+~
+~
+0 -1 22045
+D3
+~
+~
+0 -1 22043
+S
+#22045
+The Southeast Corner Of The Tavern~
+  There are tables here that continue to the north.  The
+party-goers just mingle and hit on each other.
+~
+220 8 0
+D0
+~
+~
+0 -1 22042
+D3
+~
+~
+0 -1 22044
+S
+#22046
+Cellar~
+  The stairway seems to lie down into the cellar.  It stinks of
+wine, beer and snakes here.
+~
+220 12 0
+D1
+~
+~
+0 -1 22047
+D2
+~
+~
+0 -1 22049
+D4
+~
+stairs~
+1 -1 22043
+S
+#22047
+Cellar~
+  There are huge wine casks against this wall.  Most seem intact
+though one is eaten through, and the inside seems to have a gooey
+green substance.
+~
+220 9 0
+D1
+There is the sound of singing in that corner.
+~
+~
+0 -1 22048
+D2
+There is a shimmering light to the south.
+~
+~
+0 -1 22050
+D3
+~
+~
+0 -1 22046
+S
+#22048
+Cellar~
+  There is a chair in corner.  And plenty of empty bottles.  There
+is also the evidence of the green substance here as well.
+~
+220 9 0
+D2
+~
+~
+0 -1 22051
+D3
+~
+~
+0 -1 22047
+S
+#22049
+Cellar~
+  There is a slime trail here.  There seems to be much broken glass
+down here.
+~
+220 9 0
+D0
+~
+~
+0 -1 22046
+D1
+~
+~
+0 -1 22050
+D2
+~
+~
+0 -1 22052
+S
+#22050
+The Britain Moongate~
+  The place around the moongate, as always, seems clean and neat. 
+The blue light of the moongate has become a comforting sight to
+you.
+~
+220 12 0
+D0
+~
+~
+0 -1 22047
+D1
+~
+~
+0 -1 22051
+D2
+~
+~
+0 -1 22053
+D3
+~
+~
+0 -1 22049
+D4
+Through the moongate there is a large courtroom.
+~
+moongate~
+2 22010 22056
+S
+#22051
+Cellar~
+  The walls are leaking here.  You here the bang of feet and the
+shifting of chairs from above.
+~
+220 8 0
+D0
+~
+~
+0 -1 22048
+D2
+~
+~
+0 -1 22054
+D3
+~
+~
+0 -1 22050
+S
+#22052
+Cellar~
+  The damp walls of this corner bother you... not because it's
+damp.  Because its not water!
+~
+220 9 0
+D0
+~
+~
+0 -1 22049
+D1
+~
+~
+0 -1 22053
+S
+#22053
+Cellar~
+  The smells and ventilation of this cellar are overpowering.
+~
+220 9 0
+D0
+There is a shimmering light.
+~
+~
+0 -1 22050
+D1
+~
+~
+0 -1 22054
+D3
+~
+~
+0 -1 22052
+S
+#22054
+Cellar~
+  This corner of the cellar is the ugliest.  From the smell in the
+corner it is obvious where the Drunks clear their guts.
+~
+220 9 0
+D0
+~
+~
+0 -1 22051
+D3
+~
+~
+0 -1 22053
+S
+#22055
+The Yew Entrance~
+  To the south you see a large courthouse and a small part of Yew. 
+Most of Yew is secretly hidden in the branches of the forest. 
+To the north you see one of the most dangerous parts of this same
+forest.
+~
+220 4 3
+D0
+~
+~
+0 -1 22070
+D2
+~
+~
+0 -1 22056
+S
+#22056
+In Front Of The Courthouse~
+  The immense Courthouse faces this street.  All of Brittainia's
+crime goes here to be tried.  There is little crime anymore
+though, after the great enlightenment.  There is also a pub to
+the west.
+~
+220 0 1
+D0
+~
+~
+0 -1 22055
+D1
+~
+~
+0 -1 22057
+D2
+The courthouse doors lie this way.
+~
+doors~
+1 -1 22063
+D3
+~
+~
+0 -1 22062
+S
+#22057
+Justice Row~
+  The cobblestone road leads into a clearing of the woods to the
+east and to a pub to the west.  To your south you see a great
+Courthouse, but its entrance is on the east.
+~
+220 0 1
+D1
+~
+~
+0 -1 22058
+D3
+~
+~
+0 -1 22056
+S
+#22058
+Under The Stone Arch~
+  You stand under a large stone arch.  To your east there is a
+bonfire.  Around the bonfire, are these same stone arches; they
+form a circle around the clearing.
+~
+220 0 3
+D1
+There are chanting druids and a large bonfire to the east.
+~
+~
+0 -1 22059
+D3
+~
+~
+0 -1 22057
+S
+#22059
+Bonfire~
+  The heat from the bonfire warms you even at the fringe of the
+ceremony.  Here, Druids form a circle and chant the sacred
+mantra.
+~
+220 0 3
+D3
+~
+~
+0 -1 22058
+S
+#22060
+Pub~
+  You are in a happy little pub.  There are many little tables and
+citizens are talking here.
+~
+220 8 1
+D1
+~
+~
+0 -1 22061
+S
+#22061
+Justice Row~
+  There are some citizens strolling on the road.  There is a Pub to
+the west.
+~
+220 0 1
+D1
+~
+~
+0 -1 22062
+D3
+~
+~
+0 -1 22060
+S
+#22062
+Justice Row~
+  Perhaps the only real street in a city where all the citizens
+are nestled in trees, it leads east to west.
+~
+220 0 1
+D1
+~
+~
+0 -1 22056
+D3
+~
+~
+0 -1 22061
+S
+#22063
+The Audience Room~
+  This is where people would sit to see the cases and wait for the
+Judge.  To the North you see the actual Bench.  All around are
+the pew-like seats.
+~
+220 8 1
+D0
+~
+doors~
+1 -1 22056
+D2
+~
+~
+0 -1 22064
+S
+#22064
+The Bench~
+  The Bench is one of the most imposing things you've seen.  You
+have to crane your neck to even glimpse at the Judge.  There are
+no lawyers, there is only justice.  To the east and west there
+are the prisons.
+~
+220 8 1
+D0
+~
+~
+0 -1 22063
+D1
+~
+door~
+1 -1 22065
+D3
+~
+door~
+1 -1 22066
+S
+#22065
+Prison~
+  To the north you see a cell.  Locks are unnecessary, because the
+prisoners are kept in their cells by magic.
+~
+220 8 1
+D0
+The prisoner looks at you and growls.
+~
+~
+0 -1 22068
+D3
+~
+door~
+1 -1 22064
+S
+#22066
+Prison~
+  To the north you see a cell.  Locks are unnecessary, because the
+prisoners are kept in their cells by magic.
+~
+220 8 1
+D0
+The prisoner is a small man.
+~
+~
+0 -1 22067
+D1
+~
+door~
+1 -1 22064
+S
+#22067
+Prison Cell~
+  This is a cell where they keep dangerous prisoners.
+~
+220 8 1
+D2
+~
+~
+0 -1 22066
+S
+#22068
+Prison Cell~
+  This is a cell where they keep dangerous prisoners.
+~
+220 8 1
+D2
+~
+~
+0 -1 22065
+S
+#22069
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22078
+D1
+You see trees.
+~
+~
+0 -1 22070
+D2
+You see trees.
+~
+~
+0 -1 22079
+D3
+You see trees.
+~
+~
+0 -1 22073
+S
+#22070
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22077
+D1
+You see trees.
+~
+~
+0 -1 22071
+D2
+You see the entrance to Yew.
+~
+~
+0 -1 22055
+D3
+You see trees.
+~
+~
+0 -1 22069
+S
+#22071
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22076
+D1
+You see trees.
+~
+~
+0 -1 22072
+D2
+You see trees.
+~
+~
+0 -1 22081
+D3
+You see trees.
+~
+~
+0 -1 22070
+S
+#22072
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22075
+D1
+You see trees.
+~
+~
+0 -1 22073
+D2
+You see trees.
+~
+~
+0 -1 22082
+D3
+You see trees.
+~
+~
+0 -1 22071
+S
+#22073
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22074
+D1
+You see trees.
+~
+~
+0 -1 22069
+D2
+You see trees.
+~
+~
+0 -1 22083
+D3
+You see trees.
+~
+~
+0 -1 22072
+S
+#22074
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22083
+D1
+You see trees.
+~
+~
+0 -1 22078
+D2
+You see trees.
+~
+~
+0 -1 22073
+D3
+You see trees.
+~
+~
+0 -1 22075
+S
+#22075
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22082
+D1
+You see trees.
+~
+~
+0 -1 22074
+D2
+You see trees.
+~
+~
+0 -1 22072
+D3
+You see trees.
+~
+~
+0 -1 22076
+S
+#22076
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22081
+D1
+You see trees.
+~
+~
+0 -1 22075
+D2
+You see trees.
+~
+~
+0 -1 22071
+D3
+You see trees.
+~
+~
+0 -1 22077
+S
+#22077
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22080
+D1
+You see trees.
+~
+~
+0 -1 22076
+D2
+You see trees.
+~
+~
+0 -1 22070
+D3
+You see trees.
+~
+~
+0 -1 22078
+S
+#22078
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22079
+D1
+You see trees.
+~
+~
+0 -1 22077
+D2
+You see trees.
+~
+~
+0 -1 22069
+D3
+You see trees.
+~
+~
+0 -1 22074
+S
+#22079
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22069
+D1
+You see trees.
+~
+~
+0 -1 22080
+D2
+You see trees.
+~
+~
+0 -1 22078
+D3
+You see trees.
+~
+~
+0 -1 22083
+S
+#22080
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+There is a shimmering light.
+~
+~
+0 -1 22084
+D1
+You see trees.
+~
+~
+0 -1 22081
+D2
+You see trees.
+~
+~
+0 -1 22077
+D3
+You see trees.
+~
+~
+0 -1 22079
+S
+#22081
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22071
+D1
+You see trees.
+~
+~
+0 -1 22082
+D2
+You see trees.
+~
+~
+0 -1 22076
+D3
+You see trees.
+~
+~
+0 -1 22080
+S
+#22082
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22072
+D1
+You see trees.
+~
+~
+0 -1 22083
+D2
+You see trees.
+~
+~
+0 -1 22075
+D3
+You see trees.
+~
+~
+0 -1 22081
+S
+#22083
+Yew Forest~
+  This is the Yew Forest.  The trees look all the same.  Consequently
+you are lost.
+~
+220 1 3
+D0
+You see trees.
+~
+~
+0 -1 22073
+D1
+You see trees.
+~
+~
+0 -1 22079
+D2
+You see trees.
+~
+~
+0 -1 22074
+D3
+You see trees.
+~
+~
+0 -1 22082
+S
+#22084
+The Yew Moongate~
+  There is your way out, through the blue moongate.
+~
+220 4 3
+D2
+You see trees.
+~
+~
+0 -1 22080
+D4
+Through the moongate you see a cave opening.
+~
+moongate~
+2 22011 22085
+S
+#22085
+Dungeon Entrance~
+  There is a huge maw of an entrance to one of the terrible
+Dungeons.  After the Age of Enlightenment only 8 sources of evil
+still survive in the world.  These are the eight Dungeons.  Now
+they are being cleaned out.
+~
+220 4 3
+D4
+A cold draft pours out of the dungeon.
+~
+~
+0 -1 22087
+D5
+~
+~
+0 -1 22084
+S
+#22086
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D0
+~
+~
+0 -1 22090
+S
+#22087
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D0
+~
+~
+0 -1 22091
+D5
+~
+~
+0 -1 22085
+S
+#22088
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D0
+~
+~
+0 -1 22092
+D1
+~
+~
+0 -1 22089
+S
+#22089
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D3
+~
+~
+0 -1 22088
+S
+#22090
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D0
+~
+~
+0 -1 22094
+D1
+~
+~
+0 -1 22091
+D2
+~
+~
+0 -1 22086
+S
+#22091
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D0
+~
+~
+0 -1 22095
+D1
+~
+~
+0 -1 22092
+D2
+~
+~
+0 -1 22087
+D3
+~
+~
+0 -1 22090
+S
+#22092
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D1
+~
+~
+0 -1 22093
+D2
+~
+~
+0 -1 22088
+D3
+~
+~
+0 -1 22091
+S
+#22093
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D0
+~
+~
+0 -1 22097
+D3
+~
+~
+0 -1 22092
+S
+#22094
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D0
+~
+~
+0 -1 22098
+D2
+~
+~
+0 -1 22090
+S
+#22095
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D0
+~
+~
+0 -1 22099
+D1
+~
+~
+0 -1 22096
+D2
+~
+~
+0 -1 22091
+S
+#22096
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D0
+~
+~
+0 -1 22100
+D3
+~
+~
+0 -1 22095
+S
+#22097
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D2
+~
+~
+0 -1 22093
+S
+#22098
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D2
+~
+~
+0 -1 22094
+S
+#22099
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+220 1 0
+D2
+~
+~
+0 -1 22095
+S
+#22100
+The Dungeon~
+  These dungeon rooms seem all the same.  There are signs of recent
+battling everywhere.
+~
+221 1 0
+D1
+There is a shimmering light.
+~
+~
+0 -1 22101
+D2
+~
+~
+0 -1 22096
+S
+#22101
+The Dungeon Moongate~
+  You feel safe within the blue glow of the moongate.
+~
+221 4 0
+D3
+~
+~
+0 -1 22100
+D4
+~
+moongate gate moon~
+2 22012 22102
+S
+#22102
+Minoc~
+  The moongate has lead to the ocean side city of Minoc.  To the
+north, there is the sea; and to the south there is the town of
+Minoc.
+~
+221 4 0
+D0
+~
+~
+0 -1 22115
+D2
+~
+~
+0 -1 22104
+S
+#22103
+The Armourer~
+  The Armourer buys and sells armour.  His smithy is impressive
+with all of his greatest works hanging on the walls.
+~
+221 1 0
+D1
+~
+door~
+1 -1 22104
+S
+#22104
+Minoc's Fountain~
+  This is the entrance of Minoc.  To the east you see the
+weaponsmith, and to the west is the Armourer.  To the south there
+seems to be a large road.
+~
+221 1 0
+D0
+~
+~
+0 -1 22102
+D1
+~
+door~
+1 -1 22105
+D2
+~
+~
+0 -1 22108
+D3
+~
+door~
+1 -1 22103
+S
+#22105
+The Weaponsmith~
+  The best Weaponsmith in the realm is here.  His shop is full of
+hanging weapons.
+~
+221 1 0
+D3
+~
+door~
+1 -1 22104
+S
+#22106
+The Boatseller~
+  This is the shop where you can purchase vehicles to cross the
+sea.
+~
+221 1 0
+D1
+~
+door~
+1 -1 22107
+S
+#22107
+Sacrifice Street~
+  This Street goes from east to west.  To the west is a shop and to
+the south is a home.
+~
+221 1 0
+D1
+~
+~
+0 -1 22108
+D2
+~
+door~
+1 -1 22111
+D3
+~
+door~
+1 -1 22106
+S
+#22108
+Sacrifice Street~
+  This Street runs from east to west. To the west there is a shop,
+and to there east there is a forge.
+~
+221 1 0
+D0
+~
+~
+0 -1 22104
+D1
+~
+~
+0 -1 22109
+D3
+~
+~
+0 -1 22107
+S
+#22109
+Sacrifice Street~
+  This Street runs from west to east.  There is a home to the south
+and forge to the east.
+~
+221 1 0
+D1
+~
+door~
+1 -1 22110
+D2
+~
+door~
+1 -1 22112
+D3
+~
+~
+0 -1 22108
+S
+#22110
+Forge~
+  The heat of the place cause blisters to form.  The rhythmic beat
+of hammer against the forge causes you to believe that someone is
+working here.
+~
+221 1 0
+D3
+~
+door~
+1 -1 22109
+S
+#22111
+Residence~
+  This residence is very small.  It befits the teaching of
+sacrifice without any item that is extra.
+~
+221 1 0
+D0
+~
+door~
+1 -1 22107
+S
+#22112
+Residence~
+  This residence is very small.  It befits the teaching of
+sacrifice without any item that is extra.
+~
+221 1 0
+D0
+~
+door~
+1 -1 22109
+S
+#22113
+The Beach~
+  This beach ends here.  You can go east or west.
+~
+221 1 0
+D1
+~
+~
+0 -1 22114
+D3
+~
+~
+0 -1 22184
+S
+#22114
+The Beach~
+  The beach extends from west to east, the waves are too heavy here
+to enter the ocean.
+~
+221 1 0
+D1
+~
+~
+0 -1 22115
+D3
+~
+~
+0 -1 22113
+S
+#22115
+The Beach~
+  The beach here is perfect, glistening white sands, perfect sun. 
+Too bad there is a monster infestation....
+~
+221 1 0
+D1
+~
+~
+0 -1 22116
+D2
+~
+~
+0 -1 22102
+D3
+~
+~
+0 -1 22114
+S
+#22116
+The Beach~
+  The Beach seems so idyllic, to bad these monster keep showing up.
+~
+221 1 0
+D1
+~
+~
+0 -1 22117
+D3
+~
+~
+0 -1 22115
+S
+#22117
+The Beach~
+  The Beach ends here.
+~
+221 1 0
+D3
+~
+~
+0 -1 22116
+S
+#22118
+The Whirlpool~
+  This is a nasty whirlpool.  The boat is tossed and turned
+everywhere.
+~
+221 0 7
+D0
+~
+~
+0 -1 22121
+D1
+~
+~
+0 -1 22119
+D2
+A swampy lagoon.
+~
+~
+0 -1 22184
+D3
+~
+~
+0 -1 22120
+S
+#22119
+The Whirlpool~
+  This is a nasty whirlpool.  The boat is tossed and turned
+everywhere.
+~
+221 0 7
+D0
+~
+~
+0 -1 22122
+D1
+~
+~
+0 -1 22120
+D2
+~
+~
+0 -1 22125
+D3
+~
+~
+0 -1 22118
+S
+#22120
+The Whirlpool~
+  This is a nasty whirlpool.  The boat is tossed and turned
+everywhere.
+~
+221 0 7
+D0
+~
+~
+0 -1 22123
+D1
+~
+~
+0 -1 22118
+D2
+~
+~
+0 -1 22126
+D3
+~
+~
+0 -1 22119
+S
+#22121
+The Whirlpool~
+  This is a nasty whirlpool.  The boat is tossed and turned
+everywhere.
+~
+221 0 7
+D0
+~
+~
+0 -1 22124
+D1
+~
+~
+0 -1 22122
+D2
+~
+~
+0 -1 22118
+D3
+~
+~
+0 -1 22123
+S
+#22122
+The Whirlpool~
+  This is a nasty whirlpool.  The boat is tossed and turned
+everywhere.
+~
+221 0 7
+D0
+~
+~
+0 -1 22125
+D1
+~
+~
+0 -1 22123
+D2
+~
+~
+0 -1 22119
+D3
+~
+~
+0 -1 22121
+S
+#22123
+The Whirlpool~
+  This is a nasty whirlpool.  The boat is tossed and turned
+everywhere.
+~
+221 0 7
+D0
+~
+~
+0 -1 22126
+D1
+~
+~
+0 -1 22121
+D2
+~
+~
+0 -1 22120
+D3
+~
+~
+0 -1 22122
+S
+#22124
+The Whirlpool~
+  This is a nasty whirlpool.  The boat is tossed and turned
+everywhere.
+~
+221 0 7
+D0
+There is a shimmering light to the north
+~
+~
+0 -1 22127
+D1
+~
+~
+0 -1 22125
+D2
+~
+~
+0 -1 22121
+D3
+~
+~
+0 -1 22126
+S
+#22125
+The Whirlpool~
+  This is a nasty whirlpool.  The boat is tossed and turned
+everywhere.
+~
+221 0 7
+D0
+~
+~
+0 -1 22119
+D1
+~
+~
+0 -1 22126
+D2
+~
+~
+0 -1 22122
+D3
+~
+~
+0 -1 22124
+S
+#22126
+The Whirlpool~
+  This is a nasty whirlpool.  The boat is tossed and turned
+everywhere.
+~
+221 0 7
+D0
+~
+~
+0 -1 22120
+D1
+~
+~
+0 -1 22124
+D2
+~
+~
+0 -1 22123
+D3
+~
+~
+0 -1 22125
+S
+#22127
+The Minoc Moongate~
+  The sea waves lap up against the Moongate.
+~
+221 4 1
+D2
+~
+~
+0 -1 22124
+D4
+Through the moongate you see a large campfire.
+~
+moongate~
+2 22013 22128
+S
+#22128
+A Campfire~
+  This campfire sits in the middle of the camp.  Many of the
+paladins stand by it looking it the desert beyond.  Some just
+wander by.  To the south is a small tent, to the north are more
+tents.
+~
+221 0 10
+D0
+~
+~
+0 -1 22138
+D1
+~
+~
+0 -1 22129
+D2
+~
+tent~
+1 -1 22132
+S
+#22129
+Between The Tents~
+  There is a grand tent to the south, entered into through the
+east.
+~
+221 0 10
+D1
+~
+~
+0 -1 22130
+D3
+~
+~
+0 -1 22128
+S
+#22130
+In Front Of The Grand Tent~
+  To the south, there is a huge tent.  To the east lies a smaller
+tent.
+~
+221 0 10
+D1
+~
+tent~
+1 -1 22131
+D2
+~
+tent~
+1 -1 22134
+D3
+~
+~
+0 -1 22129
+S
+#22131
+A Small Tent~
+  The paladin's tent is very Spartan, as he has to live without
+much in order to develop his Honor.
+~
+221 8 10
+D3
+~
+tent~
+1 -1 22130
+S
+#22132
+A Small Tent~
+  The paladin's tent is very Spartan, as he has to live without
+much in order to develop his Honor.
+~
+221 8 10
+D0
+~
+tent~
+1 -1 22128
+S
+#22133
+The Treasure Tent~
+  There is a HUGE stack of treasure here.  It is truly immense.  It
+would make you easily a millionaire.  If you could even take a
+tenth of it, you could buy your levels.  But the treasure is
+surrounded by a shield.  A shield that only the truly Honorable
+could get through.  And if you were truly honorable you wouldn't
+take the treasure.
+~
+221 8 10
+D1
+~
+~
+0 -1 22134
+S
+#22134
+The Grand Tent~
+  This tent is absolutely huge.  To the east is the map room.  To
+the south there is Dupre.  To the east is the treasure room.
+~
+221 8 10
+D0
+~
+tent~
+1 -1 22130
+D1
+~
+~
+0 -1 22135
+D2
+~
+~
+0 -1 22136
+D3
+~
+~
+0 -1 22133
+S
+#22135
+The Map Tent~
+  This room has many maps and scrolls all over the table.  There is
+one in particular that interest you.
+~
+221 8 10
+D3
+~
+~
+0 -1 22134
+E
+scroll~
+The scroll reads as follows:
+Dear Lord British,
+     This is Dupre reporting about the paladin expedition.  We
+are in the process of clearing the desert of those annoying
+sandtraps.  Unfortunately one of my men had wandered into the
+dragon cave and was slayed by that evil creature.  We need
+another knight, and also he had a moonstone.  Thank you, my
+liege.
+			 Your Servant,
+			 Dupre
+~
+E
+map~
+The map has a rough drawing of the camp and to the north a small
+segment of the desert, and a drawing of a winged lizard near the
+very north.
+~
+S
+#22136
+Dupre's Tent~
+  This is the commander tent.  It is full of commander type things.
+~
+221 8 10
+D0
+~
+~
+0 -1 22134
+S
+#22137
+A Small Tent~
+  The paladin's tent is very Spartan, as he has to live without
+much in order to develop his Honor.
+~
+221 8 10
+D1
+~
+tent~
+1 -1 22138
+S
+#22138
+Desert Entrance~
+  You feel the hot desert wind blow sand into your face as you look
+at those dunes.
+~
+221 0 10
+D0
+~
+~
+0 -1 22141
+D1
+~
+tent~
+1 -1 22139
+D3
+~
+tent~
+1 -1 22137
+S
+#22139
+A Small Tent~
+  The paladin's tent is very Spartan, as he has to live without
+much in order to develop his Honor.
+~
+221 8 10
+D3
+~
+tent~
+1 -1 22138
+S
+#22140
+The Desert~
+  The desert in the northeast part of Britannia is a perfect
+example of its kind.  Dry, ugly, and lots of sand.
+~
+221 0 10
+D0
+There is a shimmering light.
+~
+~
+0 -1 22144
+D1
+~
+~
+0 -1 22141
+S
+#22141
+The Desert~
+  The Desert is an ugly place.  Sand whips into your eyes, making
+you unsure of where you are and what you see.
+~
+221 0 10
+D1
+~
+~
+0 -1 22142
+D2
+~
+~
+0 -1 22138
+D3
+~
+~
+0 -1 22140
+S
+#22142
+The Desert~
+  You trudge on.  This desert seems endless.
+~
+221 0 10
+D0
+~
+~
+0 -1 22146
+D1
+There is a shimmering light.
+~
+~
+0 -1 22143
+D3
+~
+~
+0 -1 22141
+S
+#22143
+The Desert Moongate~
+  Your thirst seems to slacken as you see the comforting glow of
+the moongate.
+~
+221 4 10
+D3
+~
+~
+0 -1 22142
+D4
+Through the moongate you seem to see a shrine.
+~
+moongate~
+2 22014 22149
+S
+#22144
+The Desert Moongate~
+  Your thirst seems to slacken as you see the comforting glow of
+the moongate.
+~
+220 0 10
+D2
+~
+~
+0 -1 22140
+D4
+Through the moongate you seem to see a shrine.
+~
+moongate~
+2 22014 22149
+S
+#22145
+The Desert~
+  There is a large cave to the north.  Smoke pours out of it, at
+regular intervals.
+~
+221 0 10
+D0
+The smoke obscures all vision.
+~
+~
+0 -1 22148
+D1
+~
+~
+0 -1 22146
+S
+#22146
+The Desert~
+  The sands blows into your ear and eyes.
+~
+221 0 10
+D1
+There is a shimmering light.
+~
+~
+0 -1 22147
+D2
+~
+~
+0 -1 22142
+D3
+~
+~
+0 -1 22145
+S
+#22147
+The Desert Moongate~
+  Your thirst seems to slacken as you see the comforting glow of
+the moongate.
+~
+221 0 10
+D3
+~
+~
+0 -1 22146
+D4
+Through the moongate you seem to see a shrine.
+~
+moongate~
+2 22014 22149
+S
+#22148
+The Dragon Cave~
+  The cave is smoky.  There is a a glint of gold.
+~
+221 0 10
+D2
+~
+~
+0 -1 22145
+S
+#22149
+The Shrine Of Spirituality~
+  In this room a huge ankh sits on a pedestal.  The Shrine is the
+source of all magical power.  The Timelord himself lives here. 
+There is a moongate here also.  And last of all there is a huge
+engraving taking up the west wall.
+~
+221 4 2
+D0
+You peer into the blackness, and hear shrieks and sounds totally
+inhuman.
+~
+~
+0 -1 22154
+D2
+Peace infuses your body.  The graveyard is a solemn and sobering
+place.
+~
+~
+0 -1 22157
+D4
+Through the moongate you see a castle.
+~
+moongate~
+2 22015 22162
+E
+engraving~
+Pilgrim,
+     You have reached the final step on your way to enlightenment. 
+In this last step you will be shown ultimate evil to your north,
+and ultimate food to your south.  This is the land of the undead.
+
+Both those whose goodness links them to the land, and those whose
+evilness was rejected dead are here.  To have true spirituality
+one must know both.  Once you have been strengthened and forge
+through the evil, there is one final test before you prove
+yourself equal to the Avatar himself.  You must endure the test
+of time.
+~
+E
+ankh~
+Through your entire journey you have not understood the real
+symbol of the ankh.  Its true beauty only realizes itself to you
+now.  This knowledge transcends all that come before.
+~
+S
+#22150
+The Place Of Ultimate Evil~
+  The ground itself seems malevolent.  It sinks and engulfs you.
+~
+221 1 2
+D1
+~
+~
+0 -1 22151
+D2
+~
+~
+0 -1 22153
+S
+#22151
+The Place Of Ultimate Evil~
+  The air sickens you.  You choke on whatever flows through the
+air.
+~
+221 1 2
+D1
+~
+~
+0 -1 22152
+D2
+~
+~
+0 -1 22154
+D3
+~
+~
+0 -1 22150
+S
+#22152
+The Place Of Ultimate Evil~
+  It is dark, there is no evidence of light except what you have
+with you.  And this is swallowed by the darkness within 2 feet.
+~
+221 1 2
+D2
+~
+~
+0 -1 22155
+D3
+~
+~
+0 -1 22151
+S
+#22153
+The Place Of Ultimate Evil~
+  Sounds are very weird in this place.  Some sounds, like shrieks
+and blood-curdling shouts are amplified, and you hear them
+frequently.  Other's like your own voice, will not travel to
+beyond a inch from your face.
+~
+221 1 2
+D0
+~
+~
+0 -1 22150
+D1
+~
+~
+0 -1 22154
+S
+#22154
+The Place Of Ultimate Evil~
+  When you enter this place all of your senses are immediately
+blasted.  You breath in that total evilness and feel dirty.  You
+want to leave right now.
+~
+221 1 2
+D0
+~
+~
+0 -1 22151
+D1
+~
+~
+0 -1 22155
+D2
+~
+~
+0 -1 22149
+D3
+~
+~
+0 -1 22153
+S
+#22155
+The Place Of Ultimate Evil~
+  You feel things all over your body.  Sucking it and hurting it.
+~
+221 1 2
+D0
+~
+~
+0 -1 22152
+D3
+~
+~
+0 -1 22154
+S
+#22156
+The Graveyard~
+  The graveyard background noises seem to sooth you.  The are light
+and peaceful.  Your own voices carries so well and softly that
+you seem to be telepathically communicating.
+~
+221 0 2
+D1
+~
+~
+0 -1 22157
+D2
+~
+~
+0 -1 22159
+S
+#22157
+The Graveyard~
+  When you walk into here you are immediately soothed.  Nothing
+could be wrong with the world.  All your senses are pleased.
+~
+221 0 2
+D0
+There is a shimmering light.
+~
+~
+0 -1 22149
+D1
+~
+~
+0 -1 22158
+D2
+~
+~
+0 -1 22160
+D3
+~
+~
+0 -1 22156
+S
+#22158
+The Graveyard~
+  You feel a light breath of air under your clothing.  It massages
+you.
+~
+221 0 2
+D2
+~
+~
+0 -1 22161
+D3
+~
+~
+0 -1 22157
+S
+#22159
+The Graveyard~
+  The ground itself here seems to welcome your footsteps.  It is
+springy and causes you little fatigue.
+~
+221 0 2
+D0
+~
+~
+0 -1 22156
+D1
+~
+~
+0 -1 22160
+S
+#22160
+The Graveyard~
+  The scent of the air refreshes you.  It is sweet and lovely.
+~
+221 0 2
+D0
+~
+~
+0 -1 22157
+D1
+~
+~
+0 -1 22161
+D3
+~
+~
+0 -1 22159
+S
+#22161
+The Graveyard~
+  The light here is bright and lovely.
+~
+221 0 2
+D0
+~
+~
+0 -1 22158
+D3
+~
+~
+0 -1 22160
+S
+#22162
+Lord British's Castle Entrance~
+  This building is awe-inspiring.  Just smaller then Yaz's own. 
+Anyway Lord British's personal Jester is here to entertain you.
+~
+221 0 0
+D0
+You see a fountain.
+~
+~
+0 -1 22163
+S
+#22163
+Castle Fountain~
+  A lovely fountain sits here.  To the north you see a guard.
+~
+221 0 0
+D0
+~
+~
+0 -1 22165
+D2
+~
+~
+0 -1 22162
+S
+#22164
+A Staircase~
+  There is a magical staircase going up.  Beware, for those who go
+up shall not return down.  The other exits except for the west
+are closed for construction.
+~
+221 0 0
+D1
+~
+~
+0 -1 22165
+D4
+You see the altars of enlightenment.
+~
+~
+0 -1 22169
+S
+#22165
+Hallways~
+  This is the entrance for Lord British.  Through the great doors
+to the north you can enter.  Another hallways passes across this
+one.
+~
+221 0 0
+D0
+~
+doors~
+1 -1 22167
+D1
+~
+~
+0 -1 22166
+D2
+~
+~
+0 -1 22163
+D3
+~
+~
+0 -1 22164
+S
+#22166
+Hallway~
+  This is a hallway that would regularly extend from west to east,
+but it is closed for reconstruction.  There is though a room to
+your north that can be entered.
+~
+221 0 0
+D0
+~
+door~
+1 -1 22168
+D3
+~
+~
+0 -1 22165
+S
+#22167
+The Throne Room~
+  In the Throne Room there are the two most important figures in
+the world.  The avatar and Lord British himself.
+~
+221 0 0
+D2
+~
+doors~
+1 -1 22165
+S
+#22168
+Batlin's Room~
+  Batlin, the molester of animals, and the general jerk, lives
+here.
+~
+221 0 0
+D2
+~
+door~
+1 -1 22166
+S
+#22169
+The Altar Of Honesty~
+  You may gain true enlightenment here.  There is a large plaque on
+the wall.  The path continues only if you use the mantra, to
+gain enlightenment.
+~
+221 0 0
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+2 22004 22170
+E
+plaque~
+Honesty is the scrupulous respect for truth-the willingness never
+to deceive oneself or another.
+~
+S
+#22170
+The Altar Of Compassion~
+  You may gain true enlightenment here.  There is a large plaque on
+the wall.  The path continues only if you use the mantra, to
+gain enlightenment.
+~
+221 0 0
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+2 22000 22171
+E
+plaque~
+Compassion is nonjudgmental empathy for one's fellow creatures. 
+It is pure love.
+~
+S
+#22171
+The Altar Of Valor~
+  You may gain true enlightenment here.  There is a large plaque on
+the wall.  The path continues only if you use the mantra, to
+gain enlightenment.
+~
+221 0 0
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+2 22006 22172
+E
+plaque~
+Valor is the courage to take actions in support of one's
+convictions.
+~
+S
+#22172
+The Altar Of Justice~
+  You may gain true enlightenment here.  There is a large plaque on
+the wall.  The path continues only if you use the mantra, to
+gain enlightenment.
+~
+221 0 0
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+2 22002 22173
+E
+plaque~
+Justice is devotion to truth, tempered by love.
+~
+S
+#22173
+The Altar Of Sacrifice~
+  You may gain true enlightenment here.  There is a large plaque on
+the wall.  The path continues only if you use the mantra, to
+gain enlightenment.
+~
+221 0 0
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+2 22005 22174
+E
+plaque~
+Sacrifice is the courage to give of oneself in the name of love.
+~
+S
+#22174
+The Altar Of Honour~
+  You may gain true enlightenment here.  There is a large plaque on
+the wall.  The path continues only if you use the mantra, to
+gain enlightenment.
+~
+221 0 0
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+2 22007 22175
+E
+plaque~
+Honour is the courage to stand for truth, against any odds.
+~
+S
+#22175
+The Altar Of Spirituality~
+  You may gain true enlightenment here.  There is a large plaque on
+the wall.  The path continues only if you use the mantra, to
+gain enlightenment.
+~
+221 0 0
+D0
+The Path Of Enlightenment leads on.
+~
+Path~
+2 22003 22176
+E
+plaque~
+Spirituality is the concern with one's inner being and how one
+deals with truth, love, and courage.
+~
+S
+#22176
+The Altar Of Humility~
+  You may gain true enlightenment here.  There is a large plaque on
+the wall.  The path continues only if you use the mantra, to
+gain enlightenment.
+~
+221 0 0
+D0
+The Path Of Enlightenment ends there.
+~
+Path~
+2 22001 22177
+E
+plaque~
+Humility is perceiving one's place in the world, not according
+to one's own accomplishments, but  according to the intrinsic
+value of all individuals.
+~
+S
+#22177
+The Enlightenment~
+  A voice booms out, "You are now eight part enlightened.  To truly
+become an Avatar though you must experience what he has
+experienced.  Go through the time warp and fight his enemies. 
+Beware only High Mortals should attempt this challenge."
+~
+221 0 0
+D4
+The Time Warp changes space, and fluxes its surroundings.
+~
+warp~
+2 22016 22178
+S
+#22178
+In The Warp~
+  This is a forest.  You were sent very far back in time.  Before
+there was a Britannia.  Almost before there was a Lord British. 
+This is the time of Mondain.  The first enemy that the Avatar
+met.
+~
+221 0 0
+D4
+The Time Warp leads you to another place.
+~
+warp~
+2 22016 22179
+S
+#22179
+In The Warp~
+  You are in a featureless room.  You see the apprentice and lover
+of Mondain here.  Minax.  She does not seem happy to see you.
+~
+221 0 0
+D4
+The Time Warp zips to the future.
+~
+warp~
+2 22016 22180
+S
+#22180
+In The Warp~
+  You see the last of the Triad of Evil.  With its destruction came
+the breaking of the world.
+~
+221 0 0
+D4
+The Time Warp continues on.
+~
+warp~
+2 22016 22181
+S
+#22181
+The Enlightenment~
+  A voice booms out, "You have now truly became Enlightened.  You
+have fought and defeated the Avatar's enemy of the past.  Now the
+time warp leads to the future.  Only the truly courageous can
+survive the enemies there."
+~
+221 0 0
+D4
+The Time Warp changes space, and fluxes its surroundings.
+~
+warp~
+2 22016 22182
+S
+#22182
+In The Warp~
+  You seem to be in a castle.  But there are torture devices here,
+and an angry King.
+~
+221 0 0
+D4
+The Time Warp sputters and crackles.
+~
+warp~
+2 22016 22183
+S
+#22183
+In The Warp~
+  You seem to be in a blue room.  It seems to be only 2 dimensional
+as it sparkles.  There is also a big red face here.
+~
+221 4 0
+S
+#22184
+The Lagoon~
+  The whirlpool-like ocean is to the north, and the beach is back to the east.
+~
+221 0 0
+D0
+The Ocean Roars.
+~
+~
+0 -1 22118
+D1
+The beach sparkles.
+~
+~
+0 -1 22113
+S
+$

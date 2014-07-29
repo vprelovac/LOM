@@ -1,0 +1,39 @@
+#1000
+fairy dragon~
+A fairy dragon~
+A fairy dragon is fluttering around here looking for something to do...
+~
+It's a cute little multi-colored dragon...about 2 foot long.
+It gracefully dances around your head.
+~
+72 4194328 1000 E
+5 11 0 5d5+50 2d4+1
+20 0
+8 8 2
+Str: 1
+Dex: 1
+Int: 1
+Wis: 1
+Con: 1
+Cha: 1
+E
+#1001
+griffin~
+A griffin~
+A large black winged griffin swoops into an attack.
+~
+Golden maned and black all over.  It's quite a beautiful creature if not
+for the fact it is hungry and is attacking you!
+~
+104 4194304 1000 E
+8 9 0 1d1+104 2d5+2
+500 0
+8 8 1
+Str: 1
+Dex: 1
+Int: 1
+Wis: 1
+Con: 1
+Cha: 1
+E
+$

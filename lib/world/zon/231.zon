@@ -1,0 +1,51 @@
+#231
+Tree of Yggdrasil~
+23199 70 2
+* Field #1    Field #3   Field #4  Field #5
+* M (Mobile)  Mob-Vnum   Wld-Max   Room-Vnum
+* O (Object)  Obj-Vnum   Wld-Max   Room-Vnum
+* G (Give)    Obj-Vnum   Wld-Max   Unused
+* E (Equip)   Obj-Vnum   Wld-Max   EQ-Position
+* P (Put)     Obj-Vnum   Wld-Max   Target-Obj-Vnum
+* D (Door)    Room-Vnum  Door-Dir  Door-State
+* R (Remove)  Room-Vnum  Obj-Vnum  Unused
+M 0 23100 6 23114 	(a Hollyphant)
+G 1 23108 80 -1 	(a hollyphant tusk)
+M 0 23100 6 23114 	(a Hollyphant)
+G 1 23108 80 -1 	(a hollyphant tusk)
+M 0 23101 1 23122 	(a planetar)
+E 1 23102 231 16 	(a holy bastard sword)
+M 0 23102 6 23120 	(a Shedu)
+G 1 23104 231 -1 	(a cloudy glass staff)
+M 0 23102 6 23113 	(a Shedu)
+M 0 23103 10 23107 	(a dretch)
+M 0 23103 10 23107 	(a dretch)
+M 0 23104 8 23106 	(a chasme)
+M 0 23104 8 23106 	(a chasme)
+M 0 23105 10 23103 	(a babau)
+M 0 23105 10 23103 	(a babau)
+M 0 23106 4 23123 	(a yagnodemon)
+E 1 23100 231 16 	(a body-wrecker)
+M 0 23106 4 23123 	(a yagnodemon)
+E 1 23100 231 16 	(a body-wrecker)
+M 0 23107 1 23108 	(Kostchtchie)
+E 1 23101 30 16 	(a huge hammer of cold iron)
+M 0 23108 8 23111 	(a nabassu)
+G 1 23106 231 -1 	(a sparkling green potion)
+M 0 23108 8 23111 	(a nabassu)
+M 0 23109 1 23115 	(a cloud dragon)
+M 0 23110 1 23121 	(a solar)
+G 1 23105 80 -1 	(a set of fine crystal sleeves)
+M 0 23111 10 23101 	(a wemic)
+G 1 23103 231 -1 	(a looking glass)
+M 0 23111 10 23117 	(a wemic)
+M 0 23112 6 23110 	(a frost giant)
+G 1 23109 231 -1 	(a cast iron girth)
+M 0 23112 6 23110 	(a frost giant)
+M 0 23112 6 23116 	(a frost giant)
+G 1 23107 231 -1 	(a paper triangle)
+M 0 23112 6 23116 	(a frost giant)
+M 0 23113 2 23112 	(a gorgimera)
+M 0 23114 1 23118 	(Ratatosk)
+S
+$

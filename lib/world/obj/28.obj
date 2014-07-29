@@ -1,0 +1,75 @@
+#2800
+corpse cadaver~
+the cadaver-toy~
+A half eaten corpse is laying here~
+~
+15 0 1
+30 0 0 0
+50 0 0
+#2801
+pile rotting heap bed~
+the heap of carnage~
+There is a bed made of carnage here.~
+~
+15 0 0
+30 0 0 0
+999 0 0
+#2802
+trollskin troll skin~
+the troll skin~
+The filthy hide of a beast is laying here.~
+~
+9 0 1025
+5 0 0 0
+50 50 50
+E
+troll skin~
+This is the skin from a huge (and dead) beast.  It looks bad, smells bad,
+and feels bad.
+~
+A
+1 1
+#2803
+ring opal~
+an opal ring~
+A ring of black opal lies here gathering dust.~
+~
+9 64 3
+3 0 0 0
+1 1000 100
+E
+ring opal~
+It is a full circle of opal, smooth and simple.
+~
+A
+19 2
+#2804
+leather belt~
+a leather belt~
+An old leather belt is left on the floor.~
+~
+9 64 2049
+6 0 0 0
+5 100 20
+E
+leather belt~
+This old, smelly belt looks like it is barely better than rotting cloth.
+~
+#2805
+bone cracked~
+a cracked bone~
+A cracked piece of bone lies here.~
+~
+5 0 8193
+0 3 3 7
+3 3 50
+E
+bone~
+This piece of bone looks sturdy enough to be used as a weapon, but you
+wouldn't want to entrust your life to it.
+~
+A
+19 -1
+A
+18 -1
+$~

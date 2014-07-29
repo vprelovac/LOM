@@ -1,0 +1,1109 @@
+*
+*  Zone Written By Graeme Mc Donough   For the Artemis Mud 
+*
+*
+*
+#410
+Spiral of Death~
+41099 15 1
+* 
+*       Setting initial state of door
+*
+D 0 41021 1 2
+D 0 41020 5 2
+D 0 41017 5 2
+D 0 41010 5 2
+*
+*
+*       Loading mobs and eqipment
+*
+M 0 41000 4 41001       * -Huge Entrance Guard
+E 1 41001 1 12          * Violet breast plate
+E 1 41005 1 16          * Violet bastard Sword
+M 0 41001 4 41002       * -Huge Female Entrance guard
+E 1 41005 1 16          * Violet bastard Sword
+E 1 41003 1 8           * Violet Boots
+M 0 41001 4 41003       * -Huge Female Entrance guard
+E 1 41005 1 16          * Violet bastard Sword
+E 1 41004 1 10          * Violet Braces
+M 0 41001 4 41007       * -Huge Female Entrance guard
+E 1 41005 1 16          * Violet bastard Sword
+E 1 41002 1 17          * Violet Greaves
+M 0 41001 4 41009       * -Huge Female Entrance guard
+E 1 41005 1 16          * Violet bastard Sword
+E 1 41008 1 6           * Violet Helm
+M 0 41002 10 41005      * -Room Guardian
+E 1 41010 1 16          * Rusty Iron Bar
+E 1 41013 1 5           * Violet vest
+M 0 41003 3 41007       * -Scaladar
+M 0 41004 4 41005       * -Sharn
+M 0 41004 4 41006       * -Sharn
+M 0 41004 14 41009      * -Sharn
+M 0 41005 2 41010       * -Water Golem
+E 1 41027 1 17          * Tawny key
+M 0 41006 2 41005       * -Snake
+M 0 41006 4 41007       * -Snake
+M 0 41006 8 41009       * -Snake
+M 0 41006 18 41011      * -Snake
+M 0 41007 3 41012       * -Black Aourmour
+E 1 41006 2 1           * Violet finger
+E 1 41006 2 2           * Violet finger
+M 0 41008 3 41013       * -Watchghost
+M 0 41009 1 41011       * -Giant Lizard
+E 1 41026 1 17          * Grubby key
+E 1 41017 1 8           * Lizard feet
+M 0 41010 4 41017       * -Beholder Kin
+M 0 41011 3 41015       * -Slime Golem
+E 1 41018 2 16          * Erry Green Sword
+M 0 41012 2 41019       * -Beholder
+M 0 41013 1 41016       * -Small Demon
+M 0 41014 2 41017       * -Small fat Demon
+E 1 41011 2 17          * leg
+M 0 41015 2 41002       * -Gohul
+M 0 41015 2 41004       * -Gohul
+M 0 41015 2 41006       * -Gohul
+M 0 41015 2 41008       * -Gohul
+M 0 41015 2 41010       * -Gohul
+M 0 41016 2 41022       * -Medium Demon
+E 1 41011 1 17          * leg
+E 1 41023 1 14          * bracelet green
+E 1 41021 2 16          * Black Dirk
+E 1 41016 2 6           * Demon Horns
+E 1 41022 1 15          * bracelet violet
+M 0 41017 3 41018       * -Black Knight
+E 1 41007 1 16          * Huge Black Sword
+E 1 41015 1 17          * ball
+M 0 41018 1 41021       * -Yachol
+M 0 41019 1 41021       * -Minor Demon
+E 1 41014 1 17          * twisted Black Staff
+*
+*
+*       Loading objects, Containers and objects in containers
+*
+O 0 41009 5 41014       * leg
+O 0 41009 5 41017       * leg
+O 0 41009 5 41019       * leg
+O 0 41009 5 41021       * leg
+O 0 41019 1 41022       * Black Chest
+P 1 41020 1 41019       * Violet Ring
+O 0 41009 3 41001       * Broken Box
+O 0 41009 3 41005       * Broken Box
+O 0 41012 3 41005       * Table 
+O 0 41015 3 41021       * Table 
+O 0 41009 3 41007       * Broken Box
+O 0 41009 3 41013       * Broken Box
+O 0 41009 3 41017       * Broken Box
+O 0 41009 3 41019       * Broken Box
+O 0 41009 3 41021       * Broken Box
+S
+$
+$end~
+
+
+#ROOMS
+#41000
+The Spiral of Death~
+A large Open Area looms before you. In the distance a 
+Large Rock with what seems to be an opening stands in the
+middle of the open ground to the East.....
+~
+210 0 0
+D1
+~
+~
+0 -1 41001
+D3
+~
+~
+0 -1 9937
+S
+#41001
+ ~
+You Stand before an opening in the middle of a large Rock.
+The surrounding area is well used.
+~
+210 h 0
+D3
+~
+~
+0 -1 41000
+D5
+~
+~
+0 -1 41002
+S
+#41002
+ ~
+You walk down a narrow staircase of smooth marble walls turning
+downward and to the right.
+~
+210 adfg 0
+D4
+~
+~
+0 -1 41001
+D5
+~
+~
+0 -1 41003
+S
+#41003
+ ~
+
+You stand in a vacant circular chamber. 
+Blood and bodes litter the floor.
+Exits leading up and down a small narrow stairway.
+~
+210 adfgh 0
+D4
+~
+~
+0 -1 41002
+D5
+~
+~
+0 -1 41004
+S
+#41004
+ ~
+You walk down a narrow staircase of smooth marble walls turning
+downward and to the right.
+~
+210 adfg 0
+D4
+~
+~
+0 -1 41003
+D5
+~
+~
+0 -1 41005
+S
+#41005
+ ~
+Debris and Garbage litter the floor.
+By the seems of things, you would say the Guards
+use this as there rest room.
+
+~
+210 adfgh 0
+D4
+~
+~
+0 -1 41004
+D5
+~
+~
+0 -1 41006
+S
+#41006
+ ~
+You walk down a narrow staircase of smooth marble walls turning
+downward and to the right.
+~
+210 adfg 0
+D4
+~
+~
+0 -1 41005
+D5
+~
+~
+0 -1 41007
+S
+#41007
+ ~
+Lots of gouges line the floor in a messy cris cross pattern.
+you wonder what creature would have made such a marking..
+~
+210 adfgh 0
+D4
+~
+~
+0 -1 41006
+D5
+~
+~
+0 -1 41008
+S
+#41008
+ ~
+You walk down a narrow staircase of smooth marble walls turning
+downward and to the right.
+~
+210 adfg 0
+D4
+~
+~
+0 -1 41007
+D5
+~
+~
+0 -1 41009
+S
+#41009
+ ~
+Lots of small droppings litter the floor.
+It would seem, lots of small something's must live here.
+~
+210 adfgh 0
+D4
+~
+~
+0 -1 41008
+D5
+~
+~
+0 -1 41010
+S
+#41010
+ ~
+You walk down a narrow staircase of smooth marble walls turning
+downward and to the right.
+You see a small tawny door blocking your way down.
+~
+210 adfg 0
+D4
+~
+~
+0 -1 41009
+D5
+~
+door~
+2 41027 41011
+S
+#41011
+ ~
+Click!!! The door has shut.
+
+The smell of cold and damp scales stiffens the air...
+Small parts of Human and Monster bodies litter
+the floor and surround..
+~
+210 adfgh 0
+D5
+~
+~
+0 -1 41012
+D4
+~
+door~
+1 41027 41010
+S
+#41012
+ ~
+You walk down a narrow staircase of smooth marble walls turning
+downward and to the right.
+~
+210 adfg 0
+D5
+~
+~
+0 -1 41013
+D4
+~
+~
+0 -1 41011
+S
+#41013
+ ~
+The cold chill of the undead seems to chill your bones 
+as you feel the presence of the undead.
+~
+210 adfgh 0
+D5
+~
+~
+0 -1 41014
+D4
+~
+~
+0 -1 41012
+S
+#41014
+ ~
+You walk down a narrow staircase of smooth marble walls turning
+downward and to the right.
+~
+210 adfg 0
+D5
+~
+~
+0 -1 41015
+D4
+~
+~
+0 -1 41013
+S
+#41015
+ ~
+You walk into a room that SMELLLS BAAAAADDDD.
+Green Slime Covers the walls and floor. You have 
+trouble even standing in this slippery slimy stuff.
+~
+210 adfgh 0
+D5
+~
+~
+0 -1 41016
+D4
+~
+~
+0 -1 41014
+S
+#41016
+ ~
+You walk down a narrow staircase of smooth marble walls turning
+downward and to the right.
+~
+210 adfg 0
+D5
+~
+~
+0 -1 41017
+D4
+~
+~
+0 -1 41015
+S
+#41017
+ ~
+Blood seems to be all over the walls and floors here.
+It seems strange that there is soooooo much blood in this room.
+You see a small grubby door blocking your way down.
+~
+210 adfgh 0
+D5
+~
+door~
+2 41026 41018
+D4
+~
+~
+0 -1 41016
+S
+#41018
+ ~
+Click!!! The door has shut.
+
+You walk down a narrow staircase of smooth marble walls turning
+downward and to the right.
+~
+210 adfgh 0
+D5
+~
+~
+0 -1 41019
+D4
+~
+door~
+1 41026 41017
+S
+#41019
+ ~
+
+From the narrow Stairway you enter into a room that 
+is very dim. Scorch marks and dints from weapons 
+of sorts seem to have marked the walls. 
+~
+210 adfg 0
+D5
+~
+~
+0 -1 41020
+D4
+~
+~
+0 -1 41018
+S
+#41020
+ ~
+You walk down a narrow staircase of smooth marble walls turning
+downward and to the right.
+You see a small jasmin door blocking your way down.
+~
+210 adfgi 0
+D4
+~
+~
+0 -1 41019
+D5
+~
+door~
+2 41025 41021
+S
+#41021
+ ~
+Click!!! The door has shut.
+
+In this room the walls glimmer and shine.
+The Power of Magic is strong here.
+A small narrow staircase leads up to a jasmin door.
+~
+210 adfg 0
+D4
+~
+door~
+1 41025 41020
+D1
+~
+door~
+2 41024 41022
+S
+#41022
+ ~
+The small doorway leads into a Large room. 
+
+********BANG!!!!!!!       THE DOOR SLAMS SHUT!
+
+This seems to be where most of the Magic is coming from.
+I think I would be worried if I were you.
+~
+210 adfgh 0
+D3
+~
+door~
+1 41024 41021
+S
+$
+
+$end~
+
+
+#MOBILES
+#41000
+huge entrance guard~
+a Huge entrance Guard~
+A Huge entrance Guard stands here looking at you.
+~
+This guard is Big.
+He holds a Huge Bastard Sword as he looks you over.
+~
+bcehjlmnopr dfhk -950 E
+125 65 -50 4d800+9000 4d60+200
+10000 2000000
+8 8 1
+Class: 3
+E
+#41001
+huge female entrance guard~
+a entrance Guard~
+A entrance Guard is looking for intruders.
+~
+This guard is an over strong woman, but she is no less dangerous than any man.
+She snarls and stomps over to kill you.
+~
+cefglmnor dfhkn 900 E
+125 55 -50 4d800+8000 4d50+200
+100000 1800000
+8 8 2
+Class: 3
+E
+#41002
+room guardian~
+a Room Guardian~
+A Room Guardian is standing protecting the room that you are in.
+~
+You see many faces of Guards. There must be something good down here
+to have sooooo many guards.
+The Guards attack.....AAAAAAAAAARRRRRGGGGHHHHHH!
+~
+bcefglmnopr dfk -900 E
+135 15 -50 4d1800+4000 4d59+300
+100010 4100000
+8 8 1
+Class: 3
+E
+#41003
+scaladar red~
+a red scaladar~
+The scorpion-like red scaladar stands in the corner clicking.
+~
+The scaladar slowly turns in your direction clicking even more.
+~
+bceln0pr dfk 0 S
+130 11 -60 4d3800+110000 25d65+425
+200000 150000000
+8 8 1
+#41004
+sharn~
+the floating Sharn~
+The Floating Sharn hovers in the air showing the teeth from 
+its 3 heads.
+~
+You see a strange looking black animal that is floating in the air 
+above you. 
+3 head HISS and SNAP at you.
+~
+belnopr dfk 0 S
+60 0 -10 1d1+15000 6d6+50
+20000 400000
+8 8 1
+#41005
+water golem~
+a water golem~
+A water golem shimmers and wavers as it stands.
+~
+The Water golem is a creature of pure water.
+It stands not moving only shimmering.  
+~
+bceflnopr dfk 0 S
+240 6 -20 1d1+50000 25d50+50
+20000 100000000
+8 8 1
+#41006
+snake~
+a flying snake~
+A flying snake, flies around the room.
+~
+The snake flies around the room hissing and snapping it's small
+jaw.
+~
+abcelnopr dfk 0 S
+65 0 -90 4d8+1200 5d5+30
+30000 100000
+8 8 1
+#41007
+black armour~
+The pile of Black armour stands up and~
+Black armour stirs and moves.  You watch the jerky movement. 
+~
+Black armour walks towards you in jerky movements, it draws
+an eery green sword.
+.
+~
+ceghlmnopr dfk 0 S
+240 8 -20 5d10+40000 25d45+35
+40000 70280000
+8 8 1
+#41008
+watchghost~
+a watchghost~
+A huge Watchghost rears up and attacks.
+~
+You have upset a Watchghost of overpowering size. It attacks.
+~
+bcelnopr dfk 0 E
+225 0 0 5d10+90000 12d30+250
+0 80000000
+8 8 0
+BareHandAttack:4
+E
+#41009
+lizard~
+a giant lizard~
+A giant lizard is sleeping here.
+~
+Bones of past adventurers litter the floor around the sleeping giant lizard.
+~
+bceflnopr dfhkp -350 S
+260 10 -10  5d10+55000 25d60+240
+100000 153000000
+8 8 2
+#41010
+beholder kin~
+a beholder kin ~
+A beholder kin looks at you through it's one large eye.
+~
+A large round ball with many tentacles and a probing eye, floats towards you.
+~
+bceflnopr dfhkp -400 S
+90 0 -10 5d10+17000 7d6+60
+150000 8000000
+8 8 1
+#41011
+slime golem~
+a slime Golem~
+A slime Golem rises up from the floor.
+~
+This large golem is made completely of green slime.
+What a horrible smell it makes....EEEECCHHH
+It slowly moves towards you.
+~
+bcelmnopr dfkp 0 S
+250 10 -60 5d10+120000 24d66+385
+40000 170000000
+8 8 0
+#41012
+beholder~
+a beholder~
+A beholder floats in the middle of the room.
+~
+One large eye, many sharp teeth and lots of extra eyes on a floating 
+ball Moves at you leaving a drooling acidic trail.
+~
+bcelnopr dfhkp -400 E
+50 0 -10 5d10+3100 5d6+50
+90000 880000
+8 8 1
+Class: 1
+E
+#41013
+small demon~
+a small Demon~
+A small Demon stands in a pentagram symbol on the floor.
+~
+In the middle of the room you see a small demon. The demon seems to be 
+scratching at an invisible wall made by the pentagram symbol.
+~
+bcelnopr dfhkpt -500 E
+250 0 -10 5d10+32000 5d6+35
+50000 80000000
+8 8 1
+Class: 0
+E
+#41014
+small fat demon~
+small fat Demon~
+A small fat demon sits on the floor chewing on a past adventurer.
+~
+Sitting on the floor, a small fat demon chews on the leg of 
+a now dead adventurer. It stops chewing and snarls.
+~
+bcelnopr dfhkpt -500 E
+40 0 -10 5d10+7000 6d6+35
+50000 2800000
+8 8 1
+Class: 3
+E
+#41015
+ghoul~
+a ghoul~
+A ghoul is here munching on some human fingers.
+~
+The ghoul stands and walks towards you, arms out stretched.
+~
+bcelnopr dfhkp -1000 S
+40 0 -10 5d10+2400 5d7+35
+30000 340000
+8 8 0
+#41016
+medium demon~
+a medium demon~
+A medium demon stands here holding an item of evil.
+~
+The same size as a human, the Medium demon stands and holds the 
+Item of Evil high above its head.... The demon chants.
+~
+bceflmnopr dfhkp -750 E
+45 10 -70 5d10+95000 24d60+350
+40000 190000000
+8 8 1
+Class: 2
+E
+#41017
+black knight~
+a Black Knight~
+A Black Knight stands here guarding a large chest.
+~
+A Black Knight watches you as you walk into the room. It shuffles
+on the spot as it seems to yearn to have the warmth from your body.
+~
+bcelnopr dfhkp -750 E
+45 0 -10 5d10+2000 4d6+30
+30000 270000
+8 8 0
+Class: 3
+E
+#41018
+yachol~
+a yachol~
+A yachol resides in one side of the room.
+~
+A Large smelly blob with HUGE Teeth and long tentacles Snorts as you 
+enter the room.
+~
+bcelnopr dfhkp 0 S
+45 0 -10 5d10+2200 5d6+40
+40000 290000
+8 8 1
+#41019
+minor demon~
+a minor demon~
+A minor demon unfolds it's wings and wields a demonic weapon.
+~
+A black glossy demon with glowing red eyes that seem to 
+look right into your soul prepares for a fight.
+~
+bcelnopr dfhkp 1000 E
+50 0 -10 5d10+3000 5d6+40
+50000 340000
+8 8 1      
+Class: 2
+E
+$
+$end~
+
+
+#OBJECTS
+#41001
+Violet breast plate~
+a Violet breast plate~
+A large Violet breast plate lies here.~
+~
+9 emnr ad
+84 0 0 0
+45 1000000 3000 0
+R
+170 170
+A
+22 3
+A
+19 7
+
+#41002
+Violet greaves~
+Violet greaves~
+A pair of Violet greaves lie here.~
+~
+9 emnr af
+33 0 0 0
+20 500000 1000 0
+R
+150 150
+A
+23 3
+
+#41003
+Violet boots~
+Violet colored boots~
+A pair of Violet colored boots lie here~
+~
+9 emnr ag
+25 0 0 0
+15 500000 1500 0
+R
+120 120
+A
+4 -2
+A
+24 3
+
+#41004
+Violet braces~
+Violet braces~
+A pair of Violet braces lie here.~
+~
+9 emnr ai
+13 0 0 0
+15 5000000 1000 0
+R
+120 120
+A
+21 3
+
+#41005
+Violet Bastard Sword~
+a Violet Bastard Sword~
+A well crafted Bastard Sword of Violet lies here.~
+~
+5 emnr ano
+0 15 50 3
+20 1000000 3000 0
+R
+160 160
+A
+21 13
+
+#41006
+Violet fingers~
+Violet fingers~
+A pair of Violet fingers lie here.~
+~
+9 er aho
+4 0 0 0
+15 5000000 1500 0
+R
+120 120
+A
+24 4
+
+#41007
+Huge Black sword~
+Huge Black sword~
+An enormous, beautifully made sword of Black lies here.~
+~
+5 abdgmnr ano
+0 16 30 3
+40 20000000 5000 0
+R
+180 180
+A
+18 4
+A
+19 4
+A
+13 30
+
+#41008
+Violet helm~
+a Violet helm~
+A Violet helm lies here.~
+~
+9 adgmnr ae
+17 0 0 0
+15 20000000 5000 0
+R
+135 135
+A
+5 2
+A
+19 4
+A
+24 4
+A
+17 20
+
+#41009
+broken box~
+a broken box~
+A broken box lies rotting here.~
+~
+12 0 0
+0 0 0 0
+1000 1 1 0
+
+#41010
+rusty Iron Bar~
+a rusty Iron Bar~
+A rusty Iron Bar lies here.~
+~
+5 anmnor ano
+0 5 4 3
+15 1000 300 0
+
+#41011
+leg~
+a leg~
+A leg of a past adventurer lies here.~
+~
+19 0 a
+24 0 0 0
+1 1 1 0
+
+#41012
+table~
+a table~
+A table is here.~
+~
+12 0 0
+0 0 0 0
+100 1 1 0
+
+#41013
+Violet vest~
+a Violet vest~
+A Violet vest with black runes on it lies here.~
+~
+9 adgopr ad
+5 0 0 0
+15 2000000 8000 0
+R
+136 136
+A
+12 5750 
+A
+1 -3
+A
+17 40
+
+#41014
+twisted black staff~
+a twisted black staff~
+A twisted black staff lies here.~
+~
+5 abdgnopr ano
+0 14 6 7
+20 25000000 12000 0
+R
+120 120
+A
+12 125
+A
+24 -15
+
+#41015
+ball~
+a ball~
+A ball of an unknown substance lies here.~
+~
+12 0 0
+0 0 0 0
+1 0 0 0
+
+#41016
+Demon Horns~
+a set of Demon Horns~
+A Beautiful black set of Demon Horns lie here.~
+~
+9 dgjmnpr ae
+5 0 0 0
+15 10000000 4000 0
+R
+120 120
+A
+3 1
+A
+19 10
+A
+24 -9
+A
+17 20
+
+#41017
+lizard feet~
+a pair lizard feet~
+A pair of lizard feet lie here.~
+~
+9 dgmnpr ag
+2 0 0 0
+1 5000000 1500 0
+R
+120 120
+A
+14 90
+A
+2 4
+
+#41018
+Erry Green Sword~
+a Erry Green sword~
+A finely crafted Erry Green sword sword with a long blade lies here.~
+~
+5 dgjmnor ano
+0 15 55 11
+20 20000000 10000 0
+R
+190 190
+A
+18 5
+A
+19 19
+A
+17 20
+
+#41019
+chest Black~
+a Black chest~
+A chest of pure Black lies here.~
+~
+15 0 0
+15 15 66653 0
+0 0 0 0
+
+#41020
+ring Violet~
+a Violet ring~
+You see a Violet ring lying here.~
+~
+9 dfgr abo
+2 0 0 0
+10 2000000 8000 0
+R
+129 129
+A
+17 -9
+A
+18 14
+A
+19 15
+
+#41021
+dirk black pure~
+a pure black dirk~
+A thin dirk made of pure black metal lies here.~
+~
+5 dgjmnr ano
+0 13 99 11
+10 1500000 8000 0
+R
+160 160
+A
+18 5
+A
+19 7
+
+#41022
+bracelet Violet~
+a Violet bracelet~
+A thick bracelet of Violet black metal lies here.~
+~
+9 dgr amo
+5 0 0 0
+3 2500000 10000 0
+R
+130 130
+A
+18 14
+A
+19 14
+
+#41023
+bracelet green~
+a green bracelet~
+A green bracelet covered in slime lies here.~
+~
+9 dgr am
+7 0 0 0
+15 2500000 10000 0
+R
+120 120
+A
+19 9
+A
+18 7
+A
+9 -8
+A
+17 20
+
+#41024
+Violet key~
+A Violet key~
+A Violet key lies here.~
+~
+18 cd ao
+0 0 0 0
+1 1 1 0
+R
+150 150
+
+#41025
+Jasmin key~
+A Jasmin key~
+A Jasmin key lies here.~
+~
+18 cd ao
+0 0 0 0
+1 1 1 0
+R
+150 150
+
+#41026
+Grubby key~
+A Grubby key~
+A Grubby key lies here.~
+~
+18 cd ao
+0 0 0 0
+1 1 1 0
+R
+150 150
+
+#41027
+Tawny key~
+A Tawny key~
+A Tawny key lies here.~
+~
+18 cd ao
+0 0 0 0
+1 1 1 0
+R
+150 150
+
+$
+$end~
+
+
+#SHOPS
+$end~

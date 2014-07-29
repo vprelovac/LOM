@@ -1,0 +1,756 @@
+#8200
+Outside the Midgaard Zoo~
+  You are at the end of a path in the park. You are standing outside main  
+gate of the zoo of Midgaard. To the west you can see a small pond and a small  
+path leads of to the east. To the south are two turnstiles. One leading into  
+the zoo and one leading back out.
+~
+82 32772 1
+D1
+~
+~
+0 -1 3115
+D2
+The turnstiles are study and can only be made to turn in one direction.
+~
+turnstile~
+0 -1 8201
+D3
+~
+~
+0 -1 3114
+E
+turnstiles turnstile~
+The turnstiles are study and can only be made to turn in one direction.
+~
+S
+#8201
+The Zoo Wishing Well~
+  You are standing just inside the entrance to the Midgaard zoo.  
+The turnstile leading back out should be to the west, but a small building  
+is there instead. You only assume that you must go that way to get back out.  
+To the east is a brightly painted entrance to the Kiddies Zoo and to the south 
+is the Main Zoo.
+~
+82 32768 1
+D1
+You can see a few huts and pens to the East.
+~
+~
+0 -1 8230
+D2
+You can see a small path.
+~
+~
+0 -1 8204
+D3
+The building appears to be a gift shop for the tourists.
+~
+door~
+2 -1 8205
+D5
+You can see coins glistening in the murky water at the bottom of the well.
+~
+grate~
+1 8200 8203
+S
+#8203
+Bottom Of The Wishing Well~
+  You are up to you neck is thick murky water. You can just make out  
+enough hand and foot holds to allow you to climb up back to the surface.
+~
+82 1 6
+D4
+You can see the sky.
+~
+grate~
+1 8200 8201
+S
+#8204
+A Small Path~
+  You are standing on a small path in the zoo. To the west is a small  
+important looking building and a very bad smell is coming from the east. The 
+path continues both to the north and the south.
+~
+82 32768 1
+D0
+You can see a Well.
+~
+~
+0 -1 8201
+D1
+~
+~
+0 -1 8239
+D2
+You can see a crossroads.
+~
+~
+0 -1 8207
+D3
+The door to the building is labeled 'Zoo Keeper'.
+~
+door~
+1 -1 8206
+S
+#8205
+The Gift Shop~
+  Row apon row of pointless zoo mercandise lines the walls of this room.  
+Why anyone one would want an 'I've been to Midgaard Zoo' Tee-shirt is beyond  
+you. North leads through a turnstile to the out side world and east leads back 
+into the zoo. A sign sits on the shop counter.
+~
+82 32776 0
+D0
+A study turnstile leading out of the zoo.
+~
+turnstile~
+0 -1 8200
+D1
+You can see the zoo Well though the door.
+~
+door~
+2 -1 8201
+E
+sign~
++----------------------+
+|  The Zoo Gift Shop   |
+|                      |
+| Type 'list' or 'buy' |
+|  here to deal with   |
+|     shop keeper.     |
++----------------------+
+~
+S
+#8206
+Zoo Keepers Office~
+  You are standing in the office of the Zoo keeper. A large oak desk fills  
+the room litered with numerous small pieces of paper.
+~
+82 8 0
+D1
+~
+door~
+1 -1 8204
+E
+paper~
+You pick a piece of paper randomly and read it. It details the profits of the
+zoo for the last week. Wow! You realise this guy is making a packet.
+~
+S
+#8207
+Crossroads In The Zoo~
+  You are standing in the middle of a crossroads. Paths lead off to the  
+north, east, south and west.
+~
+82 32768 1
+D0
+You can see a small path.
+~
+~
+0 -1 8204
+D1
+You can see a small path.
+~
+~
+0 -1 8208
+D2
+You can see a small path.
+~
+~
+0 -1 8209
+D3
+You can see a small path.
+~
+~
+0 -1 8210
+S
+#8208
+A Path Between Cages~
+  You are standing in a path inside the famous midgaarrd zoo. To the north  
+and south there are cages. The path continues to the east and west.
+~
+82 32768 1
+D0
+A gorilla stands in the cage pounding his chest at you, as if he was daring  
+you. Surely they can't be that clever?
+~
+door cage~
+2 8200 8211
+D1
+You can see a small hut in the distance.
+~
+~
+0 -1 8213
+D2
+A big brown bear stands upright and growls as you walk towards the cage to  
+get a better look.
+~
+door cage~
+2 8200 8212
+D3
+You can see the crossroads.
+~
+~
+0 -1 8207
+S
+#8209
+A Path Between Cages~
+  You are standing in a path inside the famous midgaarrd zoo. To the west  
+and south there are cages. The path leads back north.
+~
+82 32768 1
+D0
+You can see the crossroads.
+~
+~
+0 -1 8207
+D2
+A large Tiger can be seen through the bars of the cage door. The tiger is  
+wandering up and down in the cage and looks slightly bored.
+~
+cage door~
+2 8200 8214
+D3
+A large Elephant stands idly in the cage to the west.
+~
+cage door~
+2 8200 8215
+S
+#8210
+A Path Between Cages~
+  You are standing in a path inside the famous midgaarrd zoo. To the north  
+and south there are cages. Both of these cages are around pools of water. Joe 
+the Engraver is to the west. The path leads back to the east.
+~
+82 32768 1
+D0
+Numerous crocodiles can be seen through the bars in the cage door.  
+The crocodiles thrash about in the pools water.
+~
+cage door~
+2 8200 8216
+D1
+You can see the crossroads.
+~
+~
+0 -1 8207
+D2
+Numerous dolphins can be seen through the bars in the cage door. They are  
+playfully frolicing in the water.
+~
+door cage~
+2 8200 8217
+D3
+~
+~
+0 -1 8240
+S
+#8211
+The Gorilla Cage~
+  You are standing in the zoo's gorilla cage. A buddle of stray lies under  
+a large uprooted tree here. The door out of the cage is to the south.
+~
+82 0 1
+D2
+You can see a small path past the cage door.
+~
+door cage~
+2 8200 8208
+S
+#8212
+The Bear Cage~
+  You are standing in the zoo's bear cage. A large chunk of meat lies half  
+eaten in one corner of the cage. You wonder what it was before the bear got  
+hold of it. The door out of the cage is to the north.
+~
+82 0 1
+D0
+You can see a small path past the cage door.
+~
+door cage~
+2 8200 8208
+S
+#8213
+A Bend In The Path~
+  The path bends from the west to the south here. A door leading to a small  
+hut is to the east of here.
+~
+82 32768 1
+D0
+~
+~
+0 -1 8242
+D1
+The door is quite weak.
+~
+door~
+1 -1 8219
+D2
+You can see a small path.
+~
+~
+0 -1 8218
+D3
+You can see a small path.
+~
+~
+0 -1 8208
+S
+#8214
+The Tiger Cage~
+  You are standing in the zoo's tiger cage. Long grass grows every where here. 
+No wonder really you wouldn't come in here to cut it. Suddenly you realize you 
+are in here. What have you done? Perhaps you should make a run for the door to 
+the north.
+~
+82 0 1
+D0
+You can see a small path through the door.
+~
+cage door~
+2 8200 8209
+S
+#8215
+The Elephant Cage~
+  You are standing in the zoo's elephant cage. The ground here is hard and  
+dust. A door out of the cage is to the east.
+~
+82 0 1
+D1
+You can see a samll path through the door.
+~
+cage door~
+2 8200 8209
+S
+#8216
+The Crocodile Cage~
+  You are standing in the zoo's crocodile cage. Most of the cage if taken up  
+with a large pool of water. A door out of the cage is to the south.
+~
+82 0 6
+D2
+You can see a small path through the door.
+~
+cage door~
+2 8200 8210
+S
+#8217
+The Dolphins Cage~
+  You are in the zoo's dolphin cage. You are swimming in a pool of water.  
+A door out of the cage is to the north.
+~
+82 0 6
+D0
+You can see a small path through the door.
+~
+cage door~
+2 8200 8210
+S
+#8218
+A Path Between Cages~
+  You are standing in a path inside the famous midgaarrd zoo. To the east  
+and south there are cages. The path leads back north.
+~
+82 32768 1
+D0
+You can see a small path through the door.
+~
+~
+0 -1 8213
+D1
+You can see a gigantic lizard through the cage door.
+~
+cage door~
+2 8200 8220
+D2
+You can see a white horned horse through the cage door.
+~
+cage door~
+2 8200 8221
+S
+#8219
+The Animal Food Store Hut~
+  You are standing in a small hut. From looking around you gather it is used  
+to store food for all the animal in the zoo. A door out of the hut is to the  
+west.
+~
+82 32776 0
+D3
+The door is quite weak.
+~
+door~
+1 -1 8213
+S
+#8220
+The Baby Dragon Cage~
+  You are standing in the zoo's baby dragon cage. The cage is totally empty  
+of all stuff. A door out of the cage is to the west.
+~
+82 0 1
+D3
+You can see a small path through the cage door.
+~
+cage door~
+2 8200 8218
+S
+#8221
+The Unicorn Cage~
+  You are standing in the zoo's unicorn cage. Inside the cage feels cold.  
+A door out of the cage is to the north.
+~
+82 0 1
+D0
+You can see a small path through the cage door.
+~
+cage door~
+2 8200 8218
+S
+#8230
+Entrance To The Kiddies Zoo~
+  You are standing in the entrance to the Kiddies Zoo in Midgaard.  
+To the west is the zoo's well and to the east there is a small path.
+~
+82 32768 1
+D1
+You can see a small path.
+~
+~
+0 -1 8231
+D3
+You can see a Well.
+~
+~
+0 -1 8201
+S
+#8231
+A Small Path In The Kiddies Zoo~
+  You are standing on a small path in the Kiddies Zoo. To the north there is  
+a enclosure containing goats, and to the south there is a pig pen. The path  
+continues to the east and the entrance is west.
+~
+82 32768 1
+D0
+You can see a family of goats.
+~
+~
+0 -1 8232
+D1
+You can see a small path
+~
+~
+0 -1 8234
+D2
+You can see some pigs wollowing in mud.
+~
+~
+0 -1 8233
+D3
+You can see the entrance way.
+~
+~
+0 -1 8230
+S
+#8232
+The Goat Enclosure~
+  A large fallen tree is here so visitors can sit and play with the goats.  
+A small path is to the south.
+~
+82 32768 1
+D2
+You can see a small path.
+~
+~
+0 -1 8231
+S
+#8233
+The Pig Pen~
+  You are standing up to you ankles in mud mixed up with bits of straw.  
+A foul smell fills your nostrils. You can go back to the path to the north.
+~
+82 32768 1
+D0
+You can see a small path.
+~
+~
+0 -1 8231
+S
+#8234
+A Small Path In The Kiddies Zoo~
+  You are standing on a small path in the Kiddies Zoo. To the north there is  
+a large aviry and to the south there is a small stable. The path leads back  
+west.
+~
+82 32768 1
+D0
+You can see birds flying in a large wood and mesh structure.
+~
+door~
+1 -1 8236
+D2
+You can see a horses head poking out of a stable door.
+~
+door~
+1 -1 8235
+D3
+You can see a small path.
+~
+~
+0 -1 8231
+S
+#8235
+A Stable~
+  You are standing in a small stable. Straw lays all over the floor and  
+various horse shoes and leather tack items have been nailed firmly to the  
+walls. There is a door out to the north.
+~
+82 8 0
+D0
+Through the stable door you can see a small path with a aviry in the distance.
+~
+door~
+1 -1 8234
+S
+#8236
+In The Aviary~
+  You are standing in a large aviary. The aviry continues to the north and  
+a door out is to the south.
+~
+82 8 0
+D0
+You can see the aviary continue.
+~
+~
+0 -1 8237
+D2
+You can see a small path through the window in the door.
+~
+door~
+1 -1 8234
+S
+#8237
+In The Aviary~
+  You are standing in a large aviary. The aviary continues to the West and  
+the South.
+~
+82 8 2
+D2
+You can see the aviary continue.
+~
+~
+0 -1 8236
+D3
+You can see the aviary continue.
+~
+~
+0 -1 8238
+S
+#8238
+In The Aviary~
+  You are standing at the end of the aviary. More aviary is to the east.
+~
+82 8 0
+D1
+You can see the aviary continue.
+~
+~
+0 -1 8237
+S
+#8239
+Gruber's Embalming Service~
+  You are inside fameous Gruber's embalming services. Although the place looks 
+quite nice, it smells really bad. You wonder how could anyone work here.
+~
+82 32784 1
+D3
+~
+~
+0 -1 8204
+S
+#8240
+Joe's Engraving Service~
+  You are inside Joe's Engraving Services & CO. The place isn't that big as it 
+seemed to be from the outside. There are various tools and items spread across 
+the shelves.
+~
+82 32784 1
+D1
+~
+~
+0 -1 8210
+E
+tools items~
+Seems like only Joe knows what are they used for.
+~
+S
+#8241
+A Small Hut~
+  The enterier of this hut is rather strange. There are some trophies and many 
+weird looking items hanging on the wall here. Some of them look like they are 
+being used for magical purposes, some are just animal trophies.
+~
+82 32784 0
+D1
+~
+~
+0 -1 8242
+E
+trophy item~
+A really weird looking collection.
+~
+S
+#8242
+A Path~
+   This is a path in the north-east part of the zoo. To the east is a fameous
+hydra cage, and to the west you can see a small cottage.
+~
+82 32768 1
+D0
+~
+~
+0 -1 8244
+D1
+~
+cage door~
+2 8200 8243
+D2
+~
+~
+0 -1 8213
+D3
+~
+~
+0 -1 8241
+S
+#8243
+The Hydra Cage~
+  You are standing in the zoo's hydra cage. Inside the cage feels cold and wet. 
+The cage continues to the east and north. A door out of the cage is to the 
+west. 
+~
+82 0 0
+D0
+~
+~
+0 -1 8249
+D1
+~
+~
+0 -1 8248
+D3
+~
+cage door~
+2 8200 8242
+S
+#8244
+A Path In The Zoo~
+  This is a path in the north-east part of the zoo. There is a nice looking
+building to the west. Path continues to the north and south.
+~
+82 32768 1
+D0
+~
+~
+0 -1 8246
+D2
+~
+~
+0 -1 8242
+D3
+~
+~
+0 -1 8245
+S
+#8245
+Assassin's Hideout~
+   You are inside a large building all covered in marble. Owner of this place
+sure knows how to earn money. There are many suspicious characters walking
+around this place. There is a small notice hanging on a wall.
+~
+82 32796 0
+D1
+~
+~
+0 -1 8244
+E
+notice~
+Use 'list' to get the prices for the available assassins.
+USe 'hire <assassin> <victim>' to hire an assassin.
+~
+S
+#8246
+In Front Of A Cottage~
+  The path seems to end here, in front of a small cottage. There is no door
+at it's enterance, no windows also, but the walls look very... strange. Very
+strange indeed.
+~
+82 32912 1
+D0
+~
+~
+0 -1 8247
+D2
+~
+~
+0 -1 8244
+S
+#8247
+Wheel of destiny~
+  You find yourself in the most unexpecting, undescribable enterier you could
+imagine. It all doesn't matter, for there is this huge, shining wheel placed
+here, occupying almost half of the room. There is also a some kind of a notice
+hanged above it.
+~
+82 33680 0
+E
+note notice~
+You stand here, before this wheel, that shall decide your destiny.
+'Roll' it now, and when you decide, 'stop' it.
+~
+S
+#8248
+The Hydra Cage~
+  You are standing in the zoo's hydra cage. Inside the cage feels cold and wet. 
+The cage continues to the west and north.
+~
+82 0 0
+D0
+~
+~
+0 -1 8250
+D3
+~
+~
+0 -1 8243
+S
+#8249
+The Hydra Cage~
+  You are standing in the zoo's hydra cage. Inside the cage feels cold and wet. 
+The cage continues to the east and south.
+~
+82 0 0
+D1
+~
+~
+0 -1 8250
+D2
+~
+~
+0 -1 8243
+S
+#8250
+The Hydra Cage~
+  You are standing in the zoo's hydra cage. Inside the cage feels cold and wet.
+The cage continues to the west and south.
+~
+82 0 0
+D2
+~
+~
+0 -1 8248
+D3
+~
+~
+0 -1 8249
+S
+$~

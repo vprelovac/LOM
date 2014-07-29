@@ -1,0 +1,2583 @@
+#415
+Thieves Guild~
+41599 40 2
+*
+M 0 41500 1 41503
+G 1 41501 4
+M 0 41503 12 41504
+M 0 41503 12 41506
+M 0 41504 5 41510
+M 0 41504 5 41517
+O 0 41507 1 41517
+M 0 41502 1 41518
+E 1 41505 3 17
+E 1 41509 3 16
+G 1 41506 1
+M 0 41504 5 41520
+O 0 41510 1 41522
+O 0 41514 1 41522
+O 0 41511 1 41522
+M 0 41506 3 41523
+M 0 41503 12 41528
+M 0 41513 1 41529
+G 1 41520 10
+E 1 41538 3 6
+M 0 41509 1 41530
+E 1 41537 4 9
+E 1 41518 4 7
+M 0 41508 1 41532
+G 1 41525 3
+M 0 41503 12 41534
+M 0 41503 12 41537
+M 0 41510 4 41543
+E 1 41522 4 3
+M 0 41520 1 41545
+M 0 41505 1 41545
+E 1 41513 5 17
+E 1 41512 5 13
+M 0 41519 1 41548
+M 0 41511 1 41549
+E 1 41528 4 17
+E 1 41516 3 12
+O 0 41527 1 41550
+P 1 41503 4 41527
+M 0 41501 1 41550
+E 1 41502 4 6
+E 1 41500 4 17
+M 0 41512 1 41551
+E 1 41517 3 10
+E 1 41529 3 6
+M 0 41514 2 41553
+M 0 41515 6 41558
+E 1 41532 6 16
+M 0 41515 6 41558
+E 1 41532 6 16
+M 0 41515 6 41559
+E 1 41532 6 16
+M 0 41516 1 41562
+E 1 41541 3 6
+E 1 41531 3 17
+D 0 41530 2 1
+D 0 41503 0 2
+D 0 41535 1 1
+D 0 41517 0 2
+D 0 41552 3 1
+D 0 41509 5 1
+D 0 41535 2 1
+D 0 41516 2 2
+D 0 41529 0 1
+D 0 41537 0 1
+D 0 41524 2 1
+D 0 41563 2 1
+D 0 41511 0 1
+D 0 41537 2 1
+D 0 41540 0 1
+D 0 41545 0 1
+D 0 41504 2 2
+D 0 41538 3 1
+D 0 41531 3 1
+D 0 41543 1 1
+D 0 41518 2 1
+D 0 41551 3 1
+D 0 41532 1 1
+D 0 41547 3 1
+D 0 41549 1 1
+D 0 41521 2 1
+D 0 41549 3 2
+D 0 41518 0 2
+D 0 41550 1 2
+D 0 41522 0 1
+D 0 41550 5 1
+D 0 41508 4 1
+D 0 41546 2 1
+D 0 41535 0 1
+D 0 41548 0 1
+D 0 41517 2 2
+O 0 41526 1 41563
+M 0 41521 2 41563
+E 1 41530 4 5
+E 1 41539 4 3
+M 0 41517 15 41566
+O 0 41533 1 41568
+P 1 41515 4 41533
+M 0 41517 15 41570
+M 0 41517 15 41573
+O 0 41519 1 41575
+P 1 41536 4 41519
+M 0 41517 15 41578
+M 0 41518 12 41581
+M 0 41518 12 41583
+M 0 41518 12 41583
+M 0 41518 12 41585
+O 0 41535 1 41587
+P 1 41534 3 41535
+M 0 41518 12 41588
+M 0 41518 12 41590
+M 0 41517 15 41590
+M 0 41507 1 41592
+E 1 41540 4 17
+E 1 41524 3 5
+*
+S
+*
+$~
+#999999
+$end~
+
+
+#ROOMS
+#41501
+Man-Made Tunnel~
+This is a dark, roughly carved tunnel, artfully concealed from the outside
+world.  It continues down in to the darkness.
+~
+51 269 0
+D4
+The opening to the grave lies above.
+~
+~
+0 -1 3427
+D5
+The tunnel continues down.
+~
+~
+0 -1 41502
+S
+#41502
+Man-Made Tunnel~
+You think you see light seeping out from the cracks in a door to the north.
+Is that a silhouette moving in front of the light?  It is too dark to tell.  
+The tunnel continues up.
+~
+51 265 0
+D0
+The tunnel continues north.
+~
+~
+0 -1 41503
+D4
+The tunnel continues up.
+~
+~
+0 -1 41501
+S
+#41503
+Man-Made Tunnel~
+There is a door blocking your further procession to the north, and a
+non-descriptive person standing in front of the door who looks determined
+not to let you pass.  The tunnel leads south.
+~
+51 269 0
+D0
+A door is to the north.
+~
+door~
+13 41501 41504
+D2
+The tunnel continues south.
+~
+~
+0 -1 41502
+S
+#41504
+Entryway~
+This is a dimly lit hallway, lined with old tapestries and closed.  There
+is not another soul in sight.  Periodically you think you see movement,
+apparently caused by tight nerves and your imagination.
+~
+51 9 0
+D0
+The entryway continues north.
+~
+~
+0 -1 41505
+D2
+The tunnel is to the south.
+~
+door~
+13 41501 41503
+S
+#41505
+Entryway~
+This is a dimly lit hallway, lined with old tapestries and closed.  There
+is not another soul in sight.  Periodically you think you see movement, 
+apparently caused by tight nerves and your imagination.
+~
+51 9 0
+D0
+The entryway continues north.
+~
+~
+0 -1 41506
+S
+#41506
+Entryway~
+This is a dimly lit hallway, lined with old tapestries and closed.  There
+is not another soul in sight.  Periodically you think you see movement,
+apparently caused by tight nerves and your imagination.
+~
+51 9 0
+D0
+The entryway continues north.
+~
+~
+0 -1 41507
+S
+#41507
+Entryway~
+This is a dimly lit hallway, lined with old tapestries and closed.  There
+is not another soul in sight.  Periodically you think you see movement,
+apparently caused by tight nerves and your imagination.
+~
+51 9 0
+D0
+The entryway continues north.
+~
+~
+0 -1 41508
+S
+#41508
+Entryway~
+This is a dimly lit hallway, lined with old tapestries and closed.  There
+is not another soul in sight.  Periodically you think you see movement,
+apparently caused by tight nerves and your imagination.
+~
+51 9 0
+D0
+The entryway is continues north...it seems to go on forever.
+~
+~
+0 -1 41505
+D4
+A new area is up!
+~
+crawlspace~
+25 -1 41509
+S
+#41509
+Bare Hallway~
+This passageway is obviously more often used than the one below it.  Scuff
+marks from soft (sneaky) leather boots line the floor, heading off in all
+directions.  You are lost and confused.
+~
+51 9 0
+D0
+The hallway continues north.
+~
+~
+0 -1 41510
+D1
+The hallway continues.
+~
+~
+0 -1 41523
+D2
+A bare hallway is south.
+~
+~
+0 -1 41519
+D3
+The hallway continues.
+~
+~
+0 -1 41527
+D4
+Stairs lead up.
+~
+~
+0 -1 41533
+D5
+The entryway is down.
+~
+crawlspace~
+25 -1 41508
+S
+#41510
+Bare Hallway~
+A rank odor from the north permeates the stale air.  You get a feeling of
+dread from the darkness ahead.  Your skin crawls as a spider walks across your
+arm, but is gone before you can kill it.  It must have been three inches long.
+~
+51 9 0
+D0
+The hallway continues north.
+~
+~
+0 -1 41511
+D2
+The hallway continues south.
+~
+~
+0 -1 41509
+S
+#41511
+Fork in the Hall~
+The hall splits, leading to the east and the west here.  You think that this
+would be a good place to set an ambush for unwanted visitors.  There is a
+sign on the wall that says "If you're not a guild member, get out."
+~
+51 8 0
+D0
+A concealed door is north.
+~
+concealed door~
+25 -1 41518
+D1
+A dirty passageway is east.
+~
+~
+0 -1 41513
+D2
+The hallway continues south.
+~
+~
+0 -1 41510
+D3
+The hallway continues west.
+~
+~
+0 -1 41512
+S
+#41512
+Dirty Passageway~
+This is a dirty passageway, with crusty things and huge dust bunnies in the
+corners.  Thieves obviously don't have maids, nor do they care to!
+~
+51 9 0
+D0
+A lighter hallway is north.
+~
+~
+0 -1 41515
+D1
+A fork in the hall is east.
+~
+~
+0 -1 41511
+S
+#41513
+Dirty Passageway~
+This is a dirty passageway, with crusty things and huge dust bunnies in the
+corners.  Thieves obviously don't have maids, nor do they care to!
+~
+51 9 0
+D0
+A lighter room is ahead.
+~
+~
+0 -1 41514
+D3
+A fork in the hallway is west.
+~
+~
+0 -1 41511
+S
+#41514
+Lighter Hallway~
+This hallway is dimly lit from a torch to the west.  You feel a breeze from 
+the same direction.  You see that darn spider again.  He laughs at you.
+~
+51 8 0
+D2
+A dirty passageway is south...eeeewwww!
+~
+~
+0 -1 41513
+D3
+Light leads you west.
+~
+~
+0 -1 41516
+S
+#41515
+Lighter Hallway~
+This hallway is dimly lit from a torch to the east.  You feel a breeze from
+the same direction.  That darn spider passes you again.  He laughs at you.
+~
+51 8 0
+D1
+Light leads you east.
+~
+~
+0 -1 41516
+D2
+A dirty passageway is south....eeeewww!
+~
+~
+0 -1 41512
+S
+#41516
+Before a Cell~
+A dusty, old cell lies to the south, with its sole resident being a yellowed
+skeleton.  Fresh bloodstains on the floor tell you that this room is quite
+frequently occupied, though.  The skeleton has some old jewelry on it.
+~
+51 8 0
+D1
+The hallway conitnues...
+~
+~
+0 -1 41514
+D2
+A cell is to the south.
+~
+cell~
+15 41505 41517
+D3
+The hallway continues.
+~
+~
+0 -1 41515
+S
+#41517
+Inside a Cell~
+This hallway is dimly lit from a torch to the east.  You feel a breeze from t
+he same direction.  That darn spider passes you again.  He laughs at you.
+~
+51 8 0
+D0
+Outside the cell.
+~
+cell~
+15 41505 41516
+D2
+The interrogation room is south.
+~
+cell~
+15 41505 41518
+S
+#41518
+Interrogation Room~
+Various implements to loosen peoples tongues lie around this room, some having
+been freshly used.  It seems as if the head interrogator greatly enjoys her
+work, and now it looks as if she is going to try and enjoy some work on you!
+~
+51 8 0
+D0
+A cell is to the north.
+~
+cell~
+15 41505 41517
+D2
+A fork in the hallway is south.
+~
+door~
+9 -1 41511
+S
+#41519
+Bare Hallway~
+All these bare hallways look the same.  Haven't thieves ever heard of an
+interior decorator?  This hall leads north and south.
+~
+51 9 0
+D0
+A junction is north.
+~
+~
+0 -1 41509
+D2
+The hallway continues into the darkness...
+~
+~
+0 -1 41520
+S
+#41520
+Bare Hallway~
+Through the darkness you think you see a doorway ahead.  This looks like a
+little-used area of the guild.  You see a really big spider, but it eludes
+your crushing boot.
+~
+51 9 0
+D0
+The hallway continues.
+~
+~
+0 -1 41519
+D2
+The hallway continues.
+~
+~
+0 -1 41521
+S
+#41521
+Bare Hallway~
+There is a bare door to the south of you, but nothing much else of interest in
+this part of the hallway.  Nothing obviously interesting, anyway.  You don't
+think you should take anything for granted in this place.
+~
+51 9 0
+D0
+The hallway continues.
+~
+~
+0 -1 41520
+D2
+A storage room is south.
+~
+door~
+9 -1 41522
+S
+#41522
+Storage Room~
+This is a storage room, as the name suggests, containing various food items,
+such as pimento loaves and head cheese.  There are also some old, decaying
+barrels in the back of the room, containing some fine, aged wine?  Or perhaps
+some fine, aged.....lemonade?
+~
+51 9 0
+D0
+A hallway leads north.
+~
+door~
+9 -1 41521
+S
+#41523
+Bare Hallway~
+This hallway is choked with dust.  It seems not to be used at all.  Is there
+a good reason for that?  Who knows what evil lurks in the hearts of thieves?
+~
+51 9 0
+D1
+The hallway continues.
+~
+~
+0 -1 41524
+D3
+The hallway continues.
+~
+~
+0 -1 41509
+S
+#41524
+Bare Hallway~
+This hallway is already dark, but ahead to the east the darkness is
+impenetrable.  Even with your light sources you can't make out what lies in
+wait for you.  Obviously some powerful magic is guarding the area.  Watch out
+for yourself.
+~
+51 9 0
+D1
+The darkness is so impenetrable that if you enter it, you may never leave.
+~
+~
+0 -1 41525
+D2
+A concealed panel is south.
+~
+panel~
+25 -1 41540
+D3
+The hallway continues.
+~
+~
+0 -1 41523
+S
+#41525
+Room of Death~
+In a whirl of fine mechanics that takes your breath away (literally), a
+scything blade swings down from the ceiling to cleave you neatly in half
+vertically as another one swings out from the wall to do the same
+horizontally.  At the same time, 16 poisonous darts shoot out from each
+wall, each one sticking perfectly into one of your pressure points.
+Ahhh...what an engineering masterpiece.
+~
+51 14 0
+S
+#41526
+The Stairwell~
+You are now on a large spiral staircase.  The door you came through seems
+to have disappeared, leaving you stuck on the stairs.  As you start on your
+way into the darkness, you realize you aren't going anywhere.  The stairwell
+is rotating like a drill and everytime you step up or down the stair moves 
+you back to where you were before.  Can't Move!  No Exits!  You have only one
+option left.  Quit!  (the thieves thank you for your donation of equipment)
+~
+51 8333 0
+D4
+Nothing special there...
+~
+exit~
+15 41525 41501
+S
+#41527
+Bare Hallway~
+You see a light up ahead, although a rancid odor accompanies it.  You have
+never smelt a beast as foul as this.  It smells so bad, it almost hurts.
+~
+51 9 0
+D1
+The hallway continues.
+~
+~
+0 -1 41509
+D3
+The hallway continues.
+~
+~
+0 -1 41528
+S
+#41528
+Bare Hallway~
+Now the hall smells so bad it DOES hurt.  Obviously there is something
+monstrous nearby that really needs a toothbrush or something even more
+effective.
+~
+51 2056 0
+D1
+The hallway continues.
+~
+~
+0 -1 41527
+D3
+You see an iron gate ahead.
+~
+~
+0 -1 41531
+S
+#41529
+Nick the Fence's Gallery of Merchandise~
+You see piles of merchandise that looks brand new to you. There are many
+thieves wandering around, looking through the items and picking out their
+favorite toys.  On the wall, you see a large sign that says, " All of my
+quality merchandise has been brought to you thanks to the many members of this
+infamous guild."  There is a small sign hanging just below the other one.  It
+reads, "None of the merchandise you see before you was stolen.  It just
+happened to fall off the back of a wagon and one of my friends was there to
+pick it up."
+~
+51 8201 0
+D0
+It is too dark to tell.
+~
+gray door~
+9 -1 41535
+S
+#41530
+Jhessail's Training Room~
+This is obviously not a normal thieves training room.  It does not contain
+locks to pick, trapped containers to open, etc... Yet, it contains items you
+would expect to find in a fighters training hall.  There are many assorted
+weapons hanging from the walls and several targets for trainees to practice
+on in the center of the room.  There is a large painting on the west wall that
+depicts a small thief fighting a battle against great odds.  On the east wall,
+there is a similar painting that depicts the same thief standing over the
+bodies of her vanquished foes.  Under each painting you see the name Jhessail
+the Relentless.
+~
+51 8329 0
+D2
+It is too dark to tell.
+~
+gray door~
+9 -1 41535
+S
+#41531
+At an Iron Gate~
+An iron gate blocks your way westward, not that you would want to go there
+anyway.  The smell is terrible.  
+~
+51 2056 0
+D1
+The hallway continues.
+~
+~
+0 -1 41528
+D3
+A gate blocks the way west.
+~
+gate~
+9 -1 41532
+S
+#41532
+Room of Garbage~
+This room is piled to the ceiling with garbage, the second favorite food of
+your friendly neighborhood otyugh.  His first favorite food is you, of course.
+~
+51 4104 0
+D1
+The hallway leads east.
+~
+gate~
+9 -1 41531
+S
+#41533
+Staircase~
+You are climbing up a spiraling staircase.  You recall Adventuring 101 in
+which Prof. Katzenellenbogen taught you that more difficult monsters are
+usually in the higher levels.  
+~
+51 9 0
+D4
+The top of the stairs is up.
+~
+~
+0 -1 41534
+D5
+Stairs lead down.
+~
+~
+0 -1 41509
+S
+#41534
+Staircase~
+You are climbing up a spiraling staircase.  You recall Adventuring 101 in
+which Prof. Katzenellenbogen taught you that more difficult monsters are
+usually in the higher levels.  
+~
+51 8201 0
+D4
+It is too dark to tell.
+~
+~
+0 -1 41535
+D5
+A staircase leads down.
+~
+~
+0 -1 41533
+S
+#41535
+Decorated Hallway~
+You enter a hall that is decorated with many great works of art.  This is
+where the thieves of this guild display their "borrowed" items.  You can tell
+from the treasures found here, these are some really experienced thieves.
+There are gray doors to the north and south and the hall continues to the west.
+~
+51 8201 0
+D0
+It is too dark to tell.
+~
+gray door~
+9 -1 41530
+D1
+A barred iron door blocks your path.
+~
+iron barred~
+9 -1 41552
+D2
+It is too dark to tell.
+~
+gray door~
+9 -1 41529
+D3
+It is too dark to tell.
+~
+~
+0 -1 41536
+D4
+You feel very uneasy about going further up.
+~
+~
+0 -1 41526
+D5
+It is too dark to tell.
+~
+~
+0 -1 41534
+S
+#41536
+Decorated Hallway~
+The hall continues.  The farther down the hallway you go, the higher the
+quality of the works of art on the walls.  It seems obvious that continuing
+down the hall will bring you to the better thieves.
+~
+51 8201 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 41535
+D3
+It is too dark to tell.
+~
+~
+0 -1 41537
+S
+#41537
+Decorated Hallway~
+The hall continues.  The farther down the hallway you go, the higher the
+quality of the works of art on the walls.  It seems obvious that continuing
+down the hall will bring you to the better thieves.  There are two black 
+doors here.  One is to the south and the other is to the north.
+~
+51 8201 0
+D0
+~
+black door~
+9 -1 41563
+D1
+It is too dark to tell.
+~
+~
+0 -1 41536
+D2
+~
+black door~
+9 -1 41545
+D3
+It is too dark to tell.
+~
+~
+0 -1 41538
+S
+#41538
+The End of the Decorated Hallway.~
+The hall ends abruptly at a set of elaborate double doors.  All in this part
+of the hall is obviously not as it seems, as you get a tingly sensation up
+your spine.  The double doors look quite heavy, as if they weren't meant to
+be opened.
+~
+51 8201 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 41537
+D3
+You hear a HORRIBLE buzzing noise from behind the door.
+~
+double~
+9 -1 41539
+D5
+~
+board~
+16 -1 41543
+S
+#41539
+The Nest~
+You walk through the double doors only to hear them slam shut behind you.
+You see tens of thousands of large insects crawling all over the walls, floor
+and ceiling of this room.  As you stand there thinking that this room is a 
+total waste of your time, THE BUGS ATTACK YOU!  They only do one point of 
+damage each but there are so many of them, they manage to kill you before you
+have a chance to react.  You'll be happy to know that your corpse will keep
+the insects well fed until there next victum arrives.  I guess the double 
+doors weren't such a good idea afterall.
+~
+51 14 0
+S
+#41540
+Secret Passageway~
+This is obviously a little used passageway.  It is doubtful that any of the
+inhabitants of this place even know about it anymore, from the amount of dust
+that is collected here.  You note some old tapestries on the walls depicting
+knights winning their lady's hands.
+~
+51 9 0
+D0
+A concealed panel is north.
+~
+panel~
+9 -1 41524
+D2
+The passage continues.
+~
+~
+0 -1 41541
+S
+#41541
+Secret Passageway~
+The passage begins to slope down here.  Water drips from somewhere, making
+the floor slippery and treacherous.  You are in utter blackness.
+~
+51 9 0
+D0
+The passage continues.
+~
+~
+0 -1 41540
+D1
+The passage continues.
+~
+~
+0 -1 41542
+S
+#41542
+The Rapid Descent~
+Suddenly, the floor isn't there anymore, and you are falling through a shoot.
+When you hit the bottom, the only exit is a hole in the floor.
+~
+51 9 0
+D5
+A hole leads to a dark stone cavern.
+~
+~
+0 -1 41501
+S
+#41543
+The Hidden Corridor~
+As you slip through the moving floor boards, you enter a well made corridor.
+It is very plain and simple but well constructed none the less.  It seems to
+slope downward and leads off into the darkness.
+~
+51 8201 0
+D1
+It is too dark to see.
+~
+puerta~
+9 -1 41551
+D3
+It is too dark to see.
+~
+~
+0 -1 41544
+D4
+It is too dark to tell.
+~
+board~
+16 -1 41538
+S
+#41544
+The Hidden Corridor.~
+The corridor branches off in two directions here.  It is too dark for you to
+see down any corridor but your nerves tingle because it is totally silent down
+here.  It is way too quiet.
+~
+51 8201 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 41543
+D2
+It is too dark to tell.
+~
+~
+0 -1 41546
+D3
+It is too dark to tell.
+~
+~
+0 -1 41547
+S
+#41545
+Accomplice Barracks~
+You have entered a very noisy room.  The are cages on shelves on all the
+walls.  The cages contain various animals that look to be useful to a
+thieves cause.  Most of them are small and agile and they would be great for
+accomplishing small objectives for the thieves.  The shelves are labeled,
+telling what each animal is trained to do.  Just when you thought you were
+safe, you notice a LARGE black cat lying in the back of the room.  There is
+a label under it too.  It reads, "The guard!"  Doh!
+~
+51 8201 0
+D0
+~
+black door~
+9 -1 41537
+S
+#41546
+The Hidden Corridor~
+The corridor ends at a large adamantite door.  There is a sign on the door
+that reads, "For your safety and ours, please DO NOT open this door.  Thank
+you."  It is signed, "Your gracious host, Quinn the Master Thief."
+~
+51 8201 0
+D0
+It is too dark to tell.
+~
+~
+0 -1 41544
+D2
+~
+adamantite door~
+9 -1 41548
+S
+#41547
+The Hidden Corridor~
+This branch of the corridor ends at a small wooden door.  Besides that,
+there is no difference between this and any other part of the corridor.  
+It is a very smooth, well cut tunnel.
+~
+51 8201 0
+D1
+It is too dark to tell.
+~
+~
+0 -1 41544
+D3
+~
+wooden door~
+9 -1 41549
+S
+#41548
+The Cage~
+You have opened the door and entered the adamantite walled cage of a mighty
+purple worm.  The tunnels you came in through looked a little too smoothly
+cut and now you know why.  They were made by the worm.  The thieves somehow
+managed to capture the worm in here but you had to go and open the door.
+Nice job!  Well, time to pay the price as the worm comes toward you, ready
+to swallow you whole.  It has been locked up for a long time, I bet it is
+VERY hungry.
+~
+51 8 1
+D0
+~
+adamantite door~
+9 -1 41546
+S
+#41549
+Elaborate Bedroom~
+This is an obviously masculine bedroom, even though there is a generous
+portion of lace and frilly things around.  You suspect that this is the 
+bedroom of some very important person.  Do you really think it would be
+unguarded?
+~
+51 8201 0
+D1
+~
+wooden door~
+9 -1 41547
+D3
+An alcove is west.
+~
+door~
+13 41528 41550
+S
+#41550
+Alcove~
+You are in an alcove in which several trophies are displayed in a case near
+the far wall.  The owner of the trophies frequently visits his collections
+here.  There is an obvious trapdoor in the floor.
+~
+51 8201 0
+D1
+A bedroom is east.
+~
+door~
+13 41528 41549
+D5
+Another passage is down...far down.
+~
+trapdoor~
+9 -1 41564
+S
+#41551
+The Master's Court~
+This is a well decorated room, seemingly designed for one person to hear
+audiences.  Rows of chairs line the walls, with one large meeting table in
+the center.  A raised chair is at the far wall, currently being unused.
+~
+51 8201 0
+D0
+The consultation room is north.
+~
+~
+0 -1 41592
+D3
+It is too dark to see.
+~
+puerta~
+9 -1 41543
+S
+#41552
+Top of the Spiral~
+You are on the top of a rusty spiralling staircase that leads down into the
+darkness.  Your eyes can't penetrate the gloom to see what lies beyond.
+~
+51 8205 0
+D3
+A barred iron door blocks your path.
+~
+iron barred~
+9 -1 41535
+D5
+The stairs spiral downwards.
+~
+~
+0 -1 41553
+S
+#41553
+Downward Spiral~
+You are standing on a rusty iron spiralling staircase.  The world disappears
+at the end of your field of vision, which is about 10 feet.
+~
+51 8201 0
+D4
+The stairs spiral upwards.
+~
+~
+0 -1 41552
+D5
+The stairs spiral downwards.
+~
+~
+0 -1 41554
+S
+#41554
+Downward Spiral~
+You are still travelling in total darkness, but the air seems to be getting
+warmer the further down you go.  You still can see nothing.
+~
+51 8201 0
+D4
+The stairs spiral upwards.
+~
+~
+0 -1 41553
+D5
+The stairs spiral downwards.
+~
+~
+0 -1 41555
+S
+#41555
+Downward Spiral~
+A red glow from below begins to permeate the darkness here, and the air gets
+progressively warmer the further down you go.
+~
+51 8200 0
+D4
+The stairs spiral upwards.
+~
+~
+0 -1 41554
+D5
+The end is in sight.
+~
+~
+0 -1 41556
+S
+#41556
+Bottom of the Spiral~
+You see now that the red glow comes from an underground lava flow at the far
+end of the cavern.  The flow also explains why this room is so hot.  The
+viscous material moves by sluggishly.
+~
+51 8204 0
+D0
+The cavern continues north.
+~
+~
+0 -1 41557
+D3
+The lava flow is west.
+~
+~
+0 -1 41558
+D4
+The stairs spiral upward.
+~
+~
+0 -1 41555
+S
+#41557
+Underground Cavern~
+You see what vaguely resembles a throne in the far northern corner of the
+room, but heat waves obscure your vision, so you cannot see clearly.
+~
+51 8204 0
+D0
+You think you see a throne to the north.
+~
+~
+0 -1 41562
+D2
+The spiral begins south.
+~
+~
+0 -1 41556
+D3
+The flow is west.
+~
+~
+0 -1 41559
+S
+#41558
+By the Flow~
+You are now standing by the lava flow.  It is very hot, so hot, that your
+skin begins to turn red and blister just from standing here.  You seem to
+see odd creatures in the flow.
+~
+51 10248 0
+D0
+The flow continues north.
+~
+~
+0 -1 41559
+D1
+The spiral begins east.
+~
+~
+0 -1 41556
+S
+#41559
+By the Flow~
+There is a slender bridge leading into the flow.  The cavern continues in 
+all other directions as well.
+~
+51 10248 0
+D0
+The flow continues north.
+~
+~
+0 -1 41561
+D1
+The cavern is east.
+~
+~
+0 -1 41557
+D2
+The lava flows south.
+~
+~
+0 -1 41558
+D3
+The slender bridge into the lava looks VERY unstable.
+~
+~
+0 -1 41560
+S
+#41560
+In the Flow~
+The slender bridge you are walking on suddenly crumbles under your weight.
+You tumble headlong into the flow of lava and are instantly incinerated.
+You are dead...sorry :)
+~
+51 10250 0
+S
+#41561
+By the Flow~
+The flow of lava originates from a hole in the wall to the north of here.
+It is sort of like a red, incandescent underground river.
+~
+51 10248 0
+D1
+You think you see a throne to the east.
+~
+~
+0 -1 41562
+D2
+The flow continues south.
+~
+~
+0 -1 41559
+S
+#41562
+Throne of Grendel~
+A throne made of charred bone dominates this section of the cavern.  The
+normal occupant of the throne is Grendel, the Fiery Dragon.  Do you seek
+to overthrow him?
+~
+51 8200 0
+D2
+The cavern continues south.
+~
+~
+0 -1 41557
+D3
+You see a lava flow to the west.
+~
+~
+0 -1 41561
+S
+#41563
+The Lady's Chamber~
+You have just entered an elaborately decorated bedroom.  There is a large bed
+in the center of the room.  The walls have murals painted on them and there
+is a portrait of a beautifull woman hanging over the bed.  That same woman is
+lying on the bed before you.  She wears nothing but a red, lacey teddy and her
+beauty gets your heart racing.  Just as you began to think that you are in
+heaven, she pulls a strange looking dagger out from under her pillow and jumps
+forth at you.  She was searching for fresh blood and you just answered her
+call (of course, being a thief, she wants all your stuff too).  Doh!  Women!
+You can't live without and she is trying to make you die with them.
+~
+51 8329 0
+D2
+The hallway is south
+~
+black door~
+9 -1 41537
+S
+#41564
+Stone Passage~
+The trapdoor you entered through is far above you, leaving you stranded in
+this passage with no hope of returning by the way you came.  A sign on 
+the wall written in red ink says, "Some of my treasures are here, as well
+as my pets.  Enjoy."  The note is signed "Quinn."
+~
+51 8204 0
+D0
+The passage continues.
+~
+~
+0 -1 41565
+S
+#41565
+Stone Passage~
+Torches lining the walls provide faint light for you to navigate these
+corridors.  Strange how they don't burn out.  Exits are in all directions.
+~
+51 8200 0
+D0
+The passage continues.
+~
+~
+0 -1 41576
+D1
+The passage continues.
+~
+~
+0 -1 41566
+D2
+The passage continues.
+~
+~
+0 -1 41564
+D3
+The passage continues.
+~
+~
+0 -1 41579
+S
+#41566
+Stone Passage~
+You catch wind of a faint, sweet odor from this direction.  Exits are to
+the north, east, and west.
+~
+51 8200 0
+D0
+The passage continues.
+~
+~
+0 -1 41567
+D1
+The passage continues.
+~
+~
+0 -1 41569
+D3
+The passage continues.
+~
+~
+0 -1 41565
+S
+#41567
+Stone Passage~
+You see a brighter light coming from the east.  An exit is also south.
+~
+51 8200 0
+D1
+A brighter light...
+~
+~
+0 -1 41568
+D2
+The passage continues.
+~
+~
+0 -1 41566
+S
+#41568
+Shrine to an Nameless God~
+An elaborately made shrine to some god you don't recognize is here, housing
+some artifact that Quinn collected over his illustrious career.  The only
+exit is west.
+~
+51 8204 0
+D3
+The passage continues.
+~
+~
+0 -1 41567
+S
+#41569
+Stone Passage~
+The passage widens a bit here, and the sweet smell increases the further
+east you go.  Exits are east and west.
+~
+51 8200 0
+D1
+The passage continues.
+~
+~
+0 -1 41570
+D3
+The passage continues.
+~
+~
+0 -1 41566
+S
+#41570
+Stone Passage~
+You are going deeper into the caverns, and getting more lost with each turn.
+(At least, that's the desired effect.)  Exits are east, south, and west.
+~
+51 8200 0
+D1
+The passage continues.
+~
+~
+0 -1 41571
+D2
+The passage continues...
+~
+~
+0 -1 41577
+D3
+The passage continues.
+~
+~
+0 -1 41569
+S
+#41571
+Stone Passage~
+The sweet smell you detected before is getting stronger here, and you feel
+a faint rush of air.  Exits are north and west.
+~
+51 8200 0
+D0
+The passage continues.
+~
+~
+0 -1 41572
+D3
+The passage continues.
+~
+~
+0 -1 41570
+S
+#41572
+Stone Passage~
+A myriad of colorful lights fill this room, but the source of them is not
+here.  Exits are north and south.
+~
+51 8200 0
+D0
+The passage continues.
+~
+~
+0 -1 41573
+D2
+The passage continues.
+~
+~
+0 -1 41571
+S
+#41573
+A Portal~
+The colorful lights you saw come from a dimensional portal in the wall here.
+It looks dangerous for beings of this world to use.
+~
+51 8200 0
+D0
+You don't think you should be messing with portals to other dimensions.
+~
+~
+0 -1 41574
+D1
+The passage continues.
+~
+~
+0 -1 41576
+D2
+The passage continues.
+~
+~
+0 -1 41572
+D3
+An alcove is west.
+~
+~
+0 -1 41575
+S
+#41574
+On Tarterus~
+You are now on a plane of ultimate evil.  As soon as you step into it,
+dozens of strange creatures rip you to pieces and eat your equipment.  
+You are dead...sorry :)
+~
+51 8202 0
+S
+#41575
+Alcove~
+This is a plain looking alcove, colored by the lights of Tarterus coming
+from the next room.  The isn't much of interest here.
+~
+51 8200 0
+D1
+The passage continues.
+~
+~
+0 -1 41573
+S
+#41576
+Stone Passage~
+This part of the passage is decorated by colorful lights coming from the west.
+The air also has a sickly sweet tinge to it.
+~
+51 8200 0
+D2
+The passage continues.
+~
+~
+0 -1 41565
+D3
+Colorful lights guide your way.
+~
+~
+0 -1 41573
+S
+#41577
+Stone Passage~
+With all the twists and turns in this place, you can't even be sure that this
+floor plan follows the laws of physics.  But that's not for you to worry about.
+~
+51 8200 0
+D0
+The passage continues.
+~
+~
+0 -1 41570
+D3
+The passage continues.
+~
+~
+0 -1 41578
+S
+#41578
+Stone Passage~
+You start to wonder if carbon 14 dating is all it's cracked up to be as you
+wander around these bland, dull halls.  You hope that you'll eventually find
+all the equipment down here, but that's not likely.
+~
+51 8200 0
+D1
+The passage continues.
+~
+~
+0 -1 41577
+D2
+The passage continues
+~
+~
+0 -1 41591
+S
+#41579
+Stone Passage~
+A musty odor permeates the air here, diffusing at a constant rate from the
+west.  The corridors darken here.
+~
+51 8200 0
+D1
+The passage continues.
+~
+~
+0 -1 41565
+D3
+The passage continues.
+~
+~
+0 -1 41580
+S
+#41580
+Stone Passage~
+Exits from here are east and north.  To the north is utter blackness, as the
+last torches in sight are in this room.
+~
+51 8200 0
+D0
+The passage continues.
+~
+~
+0 -1 41581
+D1
+The passage continues.
+~
+~
+0 -1 41579
+D2
+The passage continues.
+~
+~
+0 -1 41586
+S
+#41581
+Stone Passage~
+Exits from this room are north and west.  The torches have totally vanished
+and you are in blackness.
+~
+51 8201 0
+D2
+The passage continues.
+~
+~
+0 -1 41580
+D3
+The passage continues.
+~
+~
+0 -1 41582
+S
+#41582
+Stone Passage~
+This is an intersection leading in all directions.  You think you catch a
+scent of fresh graves to the south.
+~
+51 8201 0
+D0
+The passage continues.
+~
+~
+0 -1 41585
+D1
+The passage continues.
+~
+~
+0 -1 41581
+D2
+The passage continues.
+~
+~
+0 -1 41583
+D3
+The passage continues.
+~
+~
+0 -1 41590
+S
+#41583
+Stone Passage~
+You catch a familiar scent to the west of here, kind of like the one you
+smelled when you first entered the guild.  You don't really want to leave
+though, do you?
+~
+51 8201 0
+D0
+The passage continues.
+~
+~
+0 -1 41582
+D3
+You think an exit is west.
+~
+~
+0 -1 41584
+S
+#41584
+Exit~
+A red and white sign saying "Exit" with an arrow pointing down is here.  You
+get a clue that an exit might be down.
+~
+51 8201 0
+D1
+The passage continues.
+~
+~
+0 -1 41583
+D5
+An exit is down
+~
+~
+0 -1 41501
+S
+#41585
+Stone Passage~
+The passage gets narrower the further north you go, and the dust per square
+inch ratio increases, telling you that this passageway isn't used all that
+much.
+~
+51 8201 0
+D0
+The passage continues.
+~
+~
+0 -1 41586
+D2
+The passage contines.
+~
+~
+0 -1 41582
+S
+#41586
+Stone Passage~
+Exits from here are east, south, and north.  East and north look more
+promising for fame and fortune, while south looks better for wimps and
+newbies.
+~
+51 8201 0
+D0
+The passage continues.
+~
+~
+0 -1 41580
+D1
+The passage continues.
+~
+~
+0 -1 41587
+D2
+The passage continues.
+~
+~
+0 -1 41585
+S
+#41587
+Stone Passage~
+You hear dripping in the darkness, as if a murky pool of water is around.
+What do the demons down here use the pool for?  You don't want to know.
+~
+51 8205 0
+D1
+The passage continues.
+~
+~
+0 -1 41588
+D3
+The passage bends.
+~
+~
+0 -1 41586
+S
+#41588
+Stone Passage~
+For some reason, you get the feeling that you are going in circles.  Why 
+is that?
+~
+51 8201 0
+D0
+The passage continues.  The passage is open.
+~
+~
+0 -1 41589
+D3
+You hear dripping water.
+~
+~
+0 -1 41587
+S
+#41589
+Stone Passage~
+These bendy, twisty tunnels get annoying after a while, no?  Well, that's
+the general idea.
+~
+51 8201 0
+D1
+The passage continues.
+~
+~
+0 -1 41590
+D2
+The passage continues.
+~
+~
+0 -1 41588
+S
+#41590
+Stone Passage~
+There's nothing special here...it is just one of the same tunnels you've
+been walking through forever.
+~
+51 8201 0
+D0
+The passage continues.
+~
+~
+0 -1 41591
+D1
+The passage continues.
+~
+~
+0 -1 41582
+D3
+The passage doesn't continue...oh...can't fool you.
+~
+~
+0 -1 41589
+S
+#41591
+Stone Passage~
+This is starting to look like one of those loop mazes to you.  It shouldn't
+be too hard to get out though.
+~
+51 8201 0
+D0
+The passage continues.
+~
+~
+0 -1 41578
+D2
+The passage continues.
+~
+~
+0 -1 41590
+S
+#41592
+Consultation Room~
+This is where Quinn gets his advice from his resident soothsayer.  This is
+also where The soothsayer spends most of his time.
+~
+51 8201 0
+D2
+The master's court is south.
+~
+~
+0 -1 41551
+S
+$~
+#999999
+$end~
+
+
+#MOBILES
+#41500
+mob shady thief guard~
+The shady guard~
+A shady guard is here, eyeing you suspiciously.
+~
+This is a shady guard, guarding the entrance to an obviously 
+cooler place.
+~
+106 34078760 -250 S
+15 15 10 350d1+0 5d3+10
+5000 22500
+8 8 0
+#41501
+mob quinn thief master~
+Quinn, the Master Thief~
+Quinn, the Master Thief, is expecting your arrival.
+~
+Looking at this suave guy, you would never know that he is the head of 
+this operation.  But then, an ordinary looking guy makes the best 
+thief.  He winks at you and rushes to the attack!
+~
+110 34078856 -200 S
+30 -24 -3 2400d1+0 9d3+34
+50000 45000
+8 8 0
+#41502
+mob head interrogator~
+The Head Interrogator~
+The Head Interrogator is devising a plan to loosen your tongue!
+~
+   A woman with no compassion in her eyes stares at you in disbelief for
+barging into her room.  You think, "How could a woman be the head 
+interrogator?"  But then you realize that only a woman could be cruel
+enough for the job.  She does all she can to kill you.
+~
+266350 33554568 -1000 S
+33 -27 -4 2700d1+0 10d3+36
+68000 48500
+8 8 0
+#41503
+mob annoying hidden guard~
+An annoying hidden guard~
+A hidden mob is here; you can't see him.
+~
+This guard was hidden, which is why you didn't see him until he attacked
+you.  You suspect he is only one of many.
+~
+108 43515912 -185 S
+15 15 10 350d1+0 5d3+10
+5000 2250
+8 8 0
+#41504
+mob scary spider~
+A scary spider~
+A scary spider is looking for someone to suck.
+~
+Even you, a hardened adventurer, is intimidated by this abnormally large
+spider.  It turns its fangs upon you and contemplates whether to suck away.
+~
+16842952 33554432 0 S
+5 28 20 90d1+0 2d3+3
+500 7500
+8 8 0
+#41505
+mob thief blacksmith~
+the blacksmith~
+An enormously strong blacksmith is here, making thiefly tools.
+~
+The thieves' blacksmith is an enormously huge man, with forearms as big as
+your thighs.  He pays no attention to you when you walk in, but continues
+his delicate work on a set of lockpicks.
+~
+295950 33556616 -200 S
+25 -3 4 860d1+0 6d3+20
+30000 37500
+8 8 0
+#41506
+mob graffin's shadow thief~
+the shadow~
+The shadow knows what evil lurks in the hearts of thieves.
+~
+Who knows what evils lurk in the hearts of thieves?  The shadow, of
+course.  And he will know what lurks in your heart too, as soon as he 
+slices it open!
+~
+33932 106430464 -200 S
+15 21 13 248d1+0 4d3+6
+5000 22500
+8 8 0
+#41507
+mob Mystif sage soothsayer~
+Mystif~
+Mystif, resident sage and soothsayer, is telling the future here.
+~
+The secret to a successful thieves guild is a good sage and soothsayer, 
+preferably one who can see the future, as this grizzled old man can.
+He doesn't SEEM to have much physical strength.
+~
+264974 33554568 -1 S
+35 -27 -4 2700d1+0 13d3+30
+80000 52500
+8 8 0
+#41508
+mob ugly otyugh~
+the Otyugh~
+An ugly Otyugh is here, devouring garbage, and YOU!
+~
+The Otyugh is a bulbous creature, six feet high with fearsome teeth and
+tentacles.  As you enter, he raises his tentacles for a strike at fresh meat.
+~
+73774 100663432 0 S
+27 -6 3 1020d1+0 7d3+20
+30000 40500
+8 8 0
+#41509
+mob jhessail~
+Jhessail the Relentless~
+Jhessail the Relentless is preparing to meet her next victum.
+~
+  You see before you a very short woman.  She is only about 3 and 1/2 feet
+tall but she seems very intimidating none the less.  She is here practicing
+her fighting skills and you notice that she moves with lightning speed and
+always goes directly for the kill, never leaving her victums any opportunity
+to harm her.  She seem to be a great warrior in thieves clothing and you see
+a fire building in her eyes as she turns toward you.  She raises her weapons
+and runs directly at you, obviously preparing to add you name to her list of
+deceased foes.
+~
+270446 33816744 -250 S
+30 -18 -1 1800d1+0 7d3+30
+50000 45000
+8 8 0
+#41510
+mob deadly virus~
+The Deadly Virus~
+The Deadly Virus is here, attempting to enter you.
+~
+The Deadly Virus is a thief who earned that name by being quick, invisible,
+and impossible to kill.  Not to mention he messes you up really bad for
+a long time.
+~
+3180 102236296 0 S
+25 0 5 700d1+0 6d3+20
+25000 37500
+8 8 0
+#41511
+mob high thief guard~
+the thief guard~
+A high-ranking thief guard is here, guarding stuff.
+~
+A high level thief guard move with the grace and confidence of a cat.  His
+piercing eyes help in intimidating you as he looks for your weaknesses.
+~
+46 33554568 -100 S
+28 -18 -1 1800d1+0 7d3+30
+40000 42000
+8 8 0
+#41512
+mob the court jester~
+the Court Jester~
+The Court Jester is here, entertaining you.
+~
+The jester in this court has a thankless job.  If for just one day he fails
+to make Quinn laugh, he is sent to the Interrogator for some "reward."  
+He implores you to smile.
+~
+296074 34078848 100 S
+29 -21 -2 2100d1+0 9d3+30
+45000 43500
+8 8 0
+#41513
+mob nick fence~
+Nick~
+Nick the Fence is here, selling not-so-hot merchandise.
+~
+Before you stands a VERY big man with a smile on his face.  He examines you
+nonchalantly and furtively covers his merchandise.  He looks you right in
+the eye and says, "What can i get for ya?"
+~
+267342 101187712 0 S
+27 -12 1 1340d1+0 10d3+20
+35000 40500
+8 8 0
+#41514
+mob rust monster~
+the rust monster~
+A rust monster is here, looking for some food.
+~
+This is a small, flat mammalian-looking create with shovel-shaped tail and a
+craving for metal as food.  It eyes you and then decides it is hungry.
+~
+16818284 100663296 0 S
+15 20 12 290d1+0 5d3+6
+10000 22500
+8 8 0
+#41515
+mob flame salamander fire~
+the flame salamander~
+A fire salamander is here, emerging from the lava flow.
+~
+This is apparently a tall, thin humanoid with red, scaly skin and a tail.
+It has a passion for fire and wields a wicked-looking weapon.
+~
+16779500 33554432 0 S
+10 25 17 150d1+0 5d3+0
+1000 15000
+8 8 0
+#41516
+mob grendel fiery dragon~
+Grendel~
+Grendel, the Fiery Dragon, is here, ruling his people.
+~
+Grendel the dragon rules his people with an even hand.  His symbol is, of 
+course, the scales of justice.  He has little tolerance of people other
+than his own.
+~
+4458762 100663432 0 S
+35 -24 -3 2400d1+0 6d3+40
+80000 52500
+8 8 0
+#41517
+mob glabrezu~
+the glabrezu~
+The glabrezu is here, and it is hungry!
+~
+The glabrezu is a creature native to another plane of existence, a plane
+not as nice as this one.  Needless to say it is not happy about being 
+trapped in this maze, and it wants to take its frustrations out on you.
+~
+8556 101187592 -500 S
+20 15 10 350d1+0 5d3+10
+15000 30000
+8 8 0
+#41518
+mob pit fiend~
+the pit fiend~
+A pit fiend is here, heating up lunch with his breath.
+~
+The horrid abomination before you is one of the ruling race of Tarterus.
+He is EXTREMELY upset about being trapped in this crappy dimension.
+~
+2924 101187592 -1000 S
+20 15 10 350d1+0 5d3+10
+15000 30000
+8 8 0
+#41519
+mob worm purple~
+the purple worm~
+A purple worm is here, existing.
+~
+The purple worm is a gigantic monster, a full 30 feet long and all
+tube.  You almost don't know which end to attack.
+~
+17047598 33554432 0 S
+20 6 7 560d1+0 8d3+10
+15000 30000
+8 8 0
+#41520
+mob black cat~
+the black attack cat~
+The black attack cat is here, guarding the room.
+~
+This black cat is large for its species, but is still as agile
+and powerful as its cousins.  It stares you down with its
+yellow eyes.
+~
+16777386 36175872 0 S
+10 23 15 180d1+0 4d3+4
+1000 15000
+8 8 0
+#41521
+mob foxy lady~
+the foxy lady~
+A foxy lady is here, attempting to seduce you.
+~
+A scantily clad young lady is trying to seduce you.  It doesn't
+matter if you are female too, she will still try to seduce you.
+What is this mud coming to?
+~
+1166 33554560 -250 S
+15 15 10 350d1+0 5d3+10
+5000 22500
+8 8 0
+$~
+#999999
+$end~
+
+
+#OBJECTS
+#41500
+obj parrying dagger~
+a parrying dagger~
+A long, oddly shaped dagger is lying here.~
+~
+9 540672 16385
+20 0 10 0
+5 12041 3500
+A
+3 -1
+A
+12 -10
+#41501
+obj key worn old~
+an old, well worn key~
+An old, worn key is lying here.~
+~
+18 262144 1
+41501 0 10 0
+1 1 -1
+#41502
+obj hat feathered flaming~
+a feathered hat~
+A hat with a flaming red feather is lying here, collecting dust.~
+~
+9 1081408 17
+2 0 10 0
+3 100000 15000
+A
+2 3
+A
+36 -1
+A
+3 -1
+A
+26 -1
+#41503
+obj rapier jade-hilted~
+a jade-hilted rapier~
+A jade-hilted rapier is lying here.~
+~
+5 1101952 8193
+64 6 5 3
+9 150000 25000
+A
+18 3
+A
+2 1
+A
+4 -2
+#41505
+obj shiny steel key~
+a shiny steel key~
+A shiny steel key is lying here, glinting with your reflection.~
+~
+18 0 16385
+41505 0 10 0
+3 2 -1
+#41506
+obj tongue loosened~
+a loosened tongue~
+A loosened tongue is lying here, begging to be used.~
+~
+5 0 8193
+0 1 1 7
+1 5 5
+#41507
+obj skeleton~
+a skeleton~
+A skeleton lies here, with some old items among the bones.~
+~
+15 0 0
+500 1 10 0
+100 1 100000000
+#41508
+obj etched teak wood bracelet~
+an etched teak bracelet~
+A bracelet made from teak wood is lying here.~
+~
+9 1069376 4097
+5 0 10 0
+3 10000 5000
+A
+19 2
+A
+1 1
+A
+2 -2
+A
+27 -1
+#41509
+obj spiked hook~
+a spiked hook~
+A nasty looking hook with a BIG spike is lying here.~
+~
+5 1114128 8193
+8192 7 3 3
+15 8000 5000
+A
+19 2
+A
+23 -2
+#41510
+obj old rotten barrel~
+an old, rotten barrel~
+An old, rotten barrel, still holding its contents, is here.~
+~
+17 0 1
+10 8 6 1
+10 1 20
+#41511
+obj pimento loaf~
+a pimento loaf~
+A luscious looking pimento loaf lies here, looking at you.~
+~
+19 0 1
+20 0 10 0
+1 8 2
+#41512
+obj housebreaker's harness~
+a housebreaker's harness~
+A harness of some sort is lying here.  It looks shady.~
+~
+15 589824 2049
+150 0 10 0
+5 200 1000
+A
+14 -5
+A
+2 1
+A
+37 -1
+#41513
+obj lockpicks~
+some lockpicks ~
+Some well-made lockpicks are lying here.~
+~
+11 557088 16385
+1 2 3 4
+1 1400 2000
+A
+2 3
+A
+4 -2
+A
+18 1
+#41514
+obj head cheese~
+some head cheese~
+Some "delicious" looking head cheese is lying here.~
+~
+19 16 16385
+10 0 10 1
+1 1 3
+#41515
+obj stone Eh'Qadish~
+the Stone of Eh'Qadish~
+The Stone of Eh'Qadish was lovingly placed here.~
+~
+9 524289 16385
+5 0 10 0
+1 5 5
+A
+4 2
+A
+12 20
+A
+1 -1
+#41516
+obj backpack~
+a backpack~
+A backpack is lying here.~
+~
+15 524289 1
+300 0 10 0
+10 2000 300
+#41517
+obj speckled sleeves~
+some speckled sleeves~
+Some velvet sleeves, decorated with magical speckles, lie here.~
+~
+9 1056832 257
+5 0 10 0
+3 10000 6000
+A
+12 15
+A
+4 1
+A
+14 -5
+#41518
+obj shiny black pants~
+some shiny pants~
+Some shiny black pants lie crumpled in a corner.~
+~
+9 1146960 33
+3 0 10 0
+3 10000 7000
+A
+12 15
+A
+2 -1
+A
+24 -3
+#41519
+obj hole wall~
+the hole in the wall~
+The is a hole in the wall here.~
+~
+15 0 0
+10000 0 10 0
+1 5 5
+#41520
+obj bottle fine wine~
+a bottle of fine wine~
+A bottle of fine wine is here, completing the mood.~
+~
+17 0 16385
+50 50 2 0
+1 5 5
+#41521
+obj black rose~
+a black rose~
+A hauntingly beautiful black rose is here.~
+~
+13 0 16385
+0 0 10 0
+1 5 5
+#41522
+obj mono~
+a mono~
+Some lucky person got rid of their mono here.~
+~
+13 48 5
+0 0 10 0
+1 0 0
+A
+1 -2
+A
+5 -2
+A
+14 -15
+A
+2 -2
+#41523
+obj tapestry~
+a tapestry~
+A tapestry is here, speaking of old times.~
+~
+13 0 0
+0 0 10 0
+1 5 5
+#41524
+obj ornamental plate mail armor~
+some ornamental plate mail~
+Someone discarded some beautiful armor here.~
+~
+9 2097217 9
+7 0 10 0
+30 100000 15000
+A
+12 25
+A
+3 2
+A
+24 -3
+#41525
+obj eq saver~
+the EQ Saver~
+The EQ Saver is lying here.~
+~
+18 262176 1
+41525 0 10 0
+1 1 -1
+#41526
+obj beautiful evening gown~
+a beautiful evening gown~
+A beautiful evening gown is lying here.~
+~
+11 0 9
+0 0 10 0
+1 5 5
+#41527
+obj ornate case~
+an ornate sword case~
+An ornate sword case is here, displaying priceless weapons.~
+~
+15 32 0
+10000 1 41527 0
+1000 5 10000000
+#41528
+obj ornamental key~
+an ornamental key~
+An ornamental key is lying here.~
+~
+18 0 16385
+41528 0 10 0
+1 1 -1
+#41529
+obj jester hat~
+a red and green jester hat~
+A red and green hat of some sort is here.  It looks silly.~
+~
+9 1052737 17
+5 0 10 0
+3 10000 3000
+A
+5 1
+A
+19 2
+A
+18 -1
+#41530
+obj lace teddy~
+a red, lacey teddy~
+A seductive, red, lacey teddy is lying here.~
+~
+9 524800 9
+3 0 10 0
+1 1000 750
+A
+2 1
+A
+23 -2
+#41531
+obj scales justice~
+some scales of justice~
+The scales of justice are here, keeping balance.~
+~
+9 1048641 16385
+5 0 10 0
+10 10000 3000
+A
+19 1
+A
+12 15
+A
+2 -1
+#41532
+obj trident~
+a red hot trident~
+A red hot trident is lying here, smoldering.~
+~
+5 1 8193
+256 3 7 11
+1 5 5
+A
+18 3
+#41533
+obj shrine~
+a shrine~
+A shrine is here, glorifying an unknown god.~
+~
+15 1 0
+10000 0 10 0
+1 5 5
+#41534
+obj shard doom~
+the Shard of Impending Doom~
+A shard half wrapped in cloth is here.~
+~
+5 1049252 8193
+1027 1 8 11
+5 100000 10000
+A
+19 3
+A
+18 3
+A
+13 -15
+#41535
+obj murky pool~
+a murky pool~
+A murky pool of water covers part of the floor here.~
+~
+15 0 0
+10000 0 10 0
+99 5 1000000000
+#41536
+obj chain mail etherealness~
+some chain mail of etherealness~
+Some chain mail that doesn't look quite real is here.~
+~
+9 2097184 9
+20 0 10 0
+5 100000 15000
+A
+14 -10
+A
+19 1
+#41537
+obj teal satin gloves~
+some teal satin gloves~
+Some teal gloves lie here.~
+~
+9 540736 129
+5 0 10 0
+1 1000 2000
+A
+18 3
+A
+19 1
+A
+33 -1
+#41538
+obj red kango~
+a red kango~
+A red kango is lying here.~
+~
+9 1048640 17
+5 0 10 0
+1 2000 2000
+A
+1 2
+A
+5 2
+A
+4 -1
+A
+19 1
+#41539
+obj pearl necklace~
+a pearl necklace~
+A pearl necklace is here.~
+~
+9 524288 5
+4 0 10 0
+1 1000 500
+A
+13 15
+A
+18 2
+A
+24 -1
+#41540
+obj cloudy crystal ball~
+a cloudy crystal ball~
+A cloudy crystal ball is here, telling the future.~
+~
+9 2097153 16385
+2 0 10 0
+5 10000 5000
+A
+3 3
+A
+4 3
+A
+1 -2
+A
+12 10
+#41541
+obj pointed ruby crown~
+a pointed ruby crown~
+A pointed ruby crown is here.~
+~
+9 1048833 17
+10 0 10 0
+10 10000 10000
+A
+5 2
+A
+9 15
+A
+24 -2
+$~
+#999999
+$end~
+
+
+#SHOPS
+$end~

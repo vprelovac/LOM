@@ -1,0 +1,3345 @@
+FORGE
+
+Syntax: forge <weapon>
+
+Using this skill, you might forge a weapon improving it's stats. The higher 
+your level is, the bigger improvement you'll make. You can forge the 
+weapon as many times as you wish but if you fail during forge, you might 
+break or destroy the weapon. Forging depends upon your skill and knowledge
+in that type of weapons.
+
+"Forge me a sword, for I need to defend     
+Against those who'll come seeking my head. 
+And we'll fight 'till the inescapable end, 
+That leaves one alive, and one dead."
+#
+FLY
+
+Usage       : cast 'fly' <victim>
+
+Just what you'd think this spell would do, it lets you fly.
+
+See also: LAND, LEVITATE, WATERWALK
+#
+FORTRESS
+
+Usage: cast 'fortress'
+
+This extremly powerful spell will throw every defensive spell you
+know, in only one cast. For each defensive spell, you must be five
+levels above the level you attained it, and must have practiced it
+to at least superb level.
+#
+"ACID BLAST"
+
+Usage: cast 'acid blast' <victim>
+
+This spell inflicts damage on the victim by magically generating a
+deadly blast of acid.  One victim once said 'Whoa!' before his mouth was
+melted down.  It turned ugly after that for the poor goblin.
+
+Using this spell, powerful mage will deal out (level*2)d4+level hitpoints of 
+damage, and leaving his victim covered in acid, if it survives.
+
+See also: CLEAR
+#
+"ANIMATE DEAD"
+
+Usage       : cast 'animate dead' <corpse>
+
+This spell creates a zombie or similar undead creature out of a corpse.  
+This undead creature is under the caster's command for a certain amount of 
+time depending on characters inteligence and charisma.
+#
+"AREA EARTHQUAKE"
+
+Usage: cast 'area eathquake' 
+
+This is a MULTI spell.
+This is improved version of EARTHQUAKE spell. Upon casting it, the ground 
+will split into four directions and damage everything that comes on the 
+way. The spell won't hurt flying characters. Damage done by this spell is 
+5d(total_group_level). 
+
+See also: MULTI
+#
+"ARROW RAIN"
+
+Usage: cast 'arrow rain' 
+
+This spell causes all manner of wooden splinters that litter the ground
+to take flight with unerring accuracy hiting everything in the room;
+these improvised missiles are most often wood, which is in tune with
+the ranger's nature and woodslore, but anything handy will work, so
+the spell is effective even within the bowels of the earth, where the
+spell utilizes small fragments of stone.
+#
+"ART OF COMBAT"
+
+Usage: automatic
+
+After years of combat experience, every warrior realizes that fight is not 
+all about offense, but good defense. Finalizing their lessons in combat 
+tactics, every warrior at the end understands the true art of combat. 
+In game terms, this skill will raise warrior's chances to successfuly 
+dodge, parry or block opponent's attack.
+#
+"ASTRAL PROJECTION"
+
+Usage: cast 'astral projection' 
+
+Upon casting this spell, druid will temporary leave his body. That will 
+allow you to scan your surroundings from a much higher place getting some 
+valuable information. The area scaned is proportional to the height you 
+project yourself, which is dependant upon your level.
+For more information see help on MAP. Note that you will project whole 
+terrain that you can see form upwards, unlike the MAP skill. You will need 
+some kind of paper to write it all down.
+#
+"BLADE BARRIER"
+
+Usage : cast 'blade barrier'
+
+This spell will create a barrier of swords arround the caster damaging
+everyone in the room for 8D8 +level.
+#
+"BUDDHA FINGER"
+
+This special skill allows monk to concentrate and then channel his
+inner energy through his finger doing damage equivalent to his vitality. 
+The entire process will take the half of the monk's vitality.
+#
+"BURNING HANDS"
+
+Usage       : cast 'burning hands' <victim>
+Damage      : 1d4+lev
+
+When the wizard casts this spell, a jet of searing flame shoots 
+from his fingertips causing his foes much discomfort.
+
+See Also: CHILL TOUCH
+#
+"CALL LIGHTNING"
+
+Usage       : cast 'call lightning' <victim>
+
+This powerful spell of higher level clerics allows them to call down the
+wrath of their deity in the form of a bolt of lightning.  This spell only
+works outside, for this force cannot be tapped unless under the heavens. It 
+also has to be raining (or worse). The lightning will inflict levelD5+level 
+points of damage.
+ 
+See also:  WEATHER, CONTROL WEATHER
+#
+"CHAIN LIGHTNING"
+
+Usage : cast 'chain lightning'
+
+An even more advanced spell than lightning bolt, chain lightning
+harnesses a greater amount of electrical energy to a more hazardous, and
+even less predictable, effect.  When discharged, chain lightning looses
+itself upon an area, and may strike anything or anyone present in the
+immediate area!  Needless to say, a weapon harnessed with care and by only 
+the most powerful of druids. Actual damage done is around 12d(level/2).
+#
+CHARGE
+                       
+Usage: charge <target>
+                       
+It is only the most seasoned of warriors who are able to enter the fray
+of battle with a charge at their foe!
+
+Usually the battle is started by dealing one blow to the enemy. Warrior 
+with charge skill will be able to hit their opponent multiple times (up to 
+six times when all attacks are mastered) in the initial round of combat.
+
+"The brave shall be remembered."
+#
+"CHARM PERSON"
+
+Usage       : cast 'charm person' <victim>
+Accumulative: No
+
+Is is not possible to charm anyone that is already charmed, if
+you're charmed yourself, or if the person is higher level than
+yourself. The person will get a saving throw versus "paralysation".
+
+A charmed person will follow you, and not be able to attack you, you
+can order charmed person using the order command.
+
+See Also: FOLLOW ORDER
+#
+"CHILL TOUCH"
+
+Usage       : cast 'chill touch' <victim>
+Accumulative: duration
+
+The most basic of all cold attack spells, the caster holds out a hand,
+palm upright, and using a few words of power forces the air between the
+palm and the caster's opponent to became painfully, destructively cold. 
+This spell is more powerful than the magic missile spell. A victim failing 
+its saving throw will get its strength reduced by one and will take 
+1d8+1+level/8 hitpoints of damage.
+
+See Also: MAGIC MISSILE
+#
+"COLD ARROW"
+
+Usage: cast 'cold arrow' <victim>
+
+Upon casting this spell a small cold arrow will hit your opponent doing 
+8d(level/2)+level points of damage and leave it freezing.
+
+See also: FLAME ARROW, WARM
+#
+"COLORSPRAY" "COLOR SPRAY"
+
+Usage       : cast 'color spray' <victim>
+
+This spell fires a beam of rainbow colors at the poor subject of the 
+spell. This spell is more powerful than the lightning bolt spell. It will 
+inflict 6dlevel hitpoints of damage to your opponent.
+
+See Also: LIGHTNING BOLT
+
+For help on actual color, see:  ANSI
+#
+"ENHANCED DAMAGE"
+
+Usage: automatic
+
+Warriors can become skilled enough in combat that they are able to inflict
+more damage than other classes.  Enhanced damage is checked for with each hit,
+although with a low skill, the chance of receiving a bonus
+is very low indeed. 
+
+"Battle doesn't need a purpose; the battle is its own purpose. You
+don't ask why a plague spreads or a field burns. Don't ask why I
+fight." - the black knight.
+#
+"CONE OF COLD"
+
+Usage: cast 'cone of cold'
+
+This spell summons a cone shapes ray of cold to shoot from the casters 
+hand at all people not grouped in the room.  The force of the cold is so 
+much that it will do 20d5+2*level hitpoints of damage.
+It will also cause victim to freeze.
+#
+"CONJURE ELEMENTAL"
+
+Usage       : cast 'conjure elemental'
+ 
+This spell summons a being from one of the Elemental Planes and charms it 
+for a certain amount of time depending on characters inteligence and 
+charisma.
+
+Other spells to note: ANIMATE DEAD, CLONE, GATE
+#
+"CONTROL WEATHER"
+
+Usage       : cast 'control weather' ('better' | 'worse')
+Accumulative: Yes
+
+This spell will change the "course" of the current weather.
+Exmample:
+
+> cast 'control wea' worse
+
+See Also: -
+#
+"COUNTER ATTACK"
+
+A counter attack is performed after a successful parry, where the defender 
+parries an attack and counterattacks, striking the attacker.  A somewhat 
+difficult action to perform, it takes years of experience, incredible 
+dexterity, and the shrewedness to read an attacker's movements and counter 
+them accordingly.
+#
+"COVER TRACKS"
+
+After years of living in the woods, ranger can learn the skill of covering 
+his or her tracks, making them impossible to track.
+While covering tracks you'll use some extra movement points. You can stop 
+anytime typing 'cover !'
+#
+"CREATE RAIN"
+
+Usage: cast 'create rain' 
+
+This is a MULTI spell.
+This spell will instanly turn weather bad, and create rain. Useful when you 
+are about to fight a fire dragon for example, or you get caught by fireball 
+sent by some mad Mage.
+
+See also: MULTI
+#
+"CREATE SPRING"
+
+Usage: cast 'create spring' 
+
+This spell brings forth a magical spring from the ground, which has the
+same properties as a fountain.
+
+#
+"CRITICAL HIT"
+
+ Sometimes in battle, even the most disciplined fighters go into an mode of
+fighting based purely on instinct and half-clear images that buzz through
+their psyche like silver arrows streaking through the night.  Through
+immense training and experience they are able to take advantage of this
+mode of fighting and find even the smallest crack in the enemy's defenses.
+If successful, without even thinking, they can aim for this strategic 
+weak-spot and do an extraordinary amount of damage to their opponent.
+ How often you are able to critically hit a person is determined by 
+difference in intelligence and in level between you and the victim.
+#
+"_CURE BLIND"
+
+Usage       : cast 'cure blind' <victim>
+Accumulative: No
+Duration    : Instantaneous
+
+This minor cantrip can prove very effective and useful for with this simple 
+charm the cleric/druid uses the power of his deities to remove all forms of 
+affliction to the sight which may oppress either himself or a party member.
+#
+"_CURE CRITIC"
+
+Usage       : cast 'cure critic' <victim>
+Duration    : Instantaneous
+
+This spell cures 3d8+level-6 hitpoints of damage.
+
+See Also: -
+#
+"_CURE DRUNK"
+
+Usage: cast 'cure drunk' <target>
+
+Self explaning.
+#
+"_CURE LIGHT"
+
+Usage       : cast 'cure light' <victim>
+Duration    : Instantaneous
+
+This spell cures 1d8+level/3 hitpoints of damage.
+
+See Also: CURE SERIOUS, CURE CRITIC, HEAL, POWER HEAL
+#
+"_CURE PLAGUE"
+
+Usage: cast 'cure plague' <target>
+
+This is used to cure disease from the target.
+#
+"_CURE SERIOUS"
+
+Usage: cast 'cure serious' <victim>
+
+This spell will cure 2d8+level/2 hitpoints.
+
+See also: CURE LIGHT
+#
+"DEATH DANCE"
+
+Usage       : cast 'death dance' <victim>
+
+The dance of death is the most powerful and most dangerous spell/skill
+within the lands.  First, the benefit of death dance:  while under
+the influence of the death dance, the character gains additional attacks
+1 up to 1/12 of his or her current level.  The character also receives a
+bonus on damage (in addition to enhanced damage, if that applies) of up to 
+halfe of the damage done. 
+However, the character suffers from the following:  The initial cost of
+'death dance' is half of the characters' hit points.  If this causes the
+character to die, then he or she has finally pushed themself over the
+edge.  The 'death dance' also costs one fourth of the character's
+movement.  While under the death dance, the character does not regenerate
+hit points, mana, or movement.
+Do not cast this spell if the victim is under the influence of HASTE.
+#
+"DEFLECTION SHIELD"
+
+Usage: cast 'deflection shield'
+
+This potent spell creates a magical deflection shield around casters that 
+will fully deflect some damage to the attacker during the fight. 
+
+See also: GROUP DEFLECTION SHIELD
+#
+"SENSE ALIGNMENT"
+
+Usage       : prayfor 'sense alignment'
+
+In the real world there is nearly no black and white, just many shades of
+grey.  Consequently, it is often  nearly impossible to guess the alignment
+of those around you.  By the casting of this spell, you ask your deity for
+divine guidance by surrounding all you encounter with a red aura if they
+are evil, and a blue if they follow the path of goodness.
+#
+"DETECT INVISIBILITY"
+
+Usage       : cast 'detect invisibility' <victim>
+
+This spell enables you to see invisible items and players.
+
+See Also: DETECT MAGIC, DETECT ALIGN, DETECT POISON
+#
+"DETECT MAGIC"
+
+Usage       : cast 'detect magic'
+
+his spell, a fundamental part of any mage's repetoire, heightens his or
+her senses to the point where the mage may detect whether a magical aura
+exists around a particular item.
+
+See Also: DETECT ALIGN, DETECT INVIS, DETECT POISON
+#
+"DETECT POISON"
+
+Usage       : cast 'detect poison' (victim | food | drink)
+
+Cast on food or drinks (drink containers) you will be able to
+sense if it is poisoned.
+
+Cast on a person you will be able to see if that person is
+poisoned.
+
+See Also: DETECT MAGIC, DETECT INVIS, DETECT ALIGN
+#
+"DIMENSION WALK"
+
+Usage: cast 'dimension walk' <victim>
+
+This powerful spell is similar to SUMMON but only it will transfer you to 
+your victim. This spell will open a portal between you and the desired 
+creature allowing you to instantly teleport to it. The spell will fail if 
+your victim is in peaceful, private, tunnel or nomagic room.
+
+See also: SUMMON
+#
+"DISPEL EVIL"
+
+Usage       : prayfor 'dispel evil' [target]>
+
+This prayer invokes the wrath of your deity on an evil victim. For this prayer 
+to inflict damage (levelD7) you must be very careful, and use it only if 
+your alignment is good.
+
+'Good is going to triumph over evil just as soon as it learns to fight
+dirtier.' - Jesse Custer 
+#
+"SMITE EVIL"
+
+Usage       : prayfor 'smite evil' [target]
+
+This prayer invokes the wrath of your deity on an evil victim and is twice
+as powerful as dispel evil prayer. For this prayer to inflict damage (levelD14)
+you must be very careful, and use it only if  your alignment is good.
+
+'Good just got more powerful.'                             
+#
+"SMITE GOOD"
+
+Usage       : prayfor 'smite good' [target]
+
+This prayer invokes the wrath of your deity on a good victim and is twice
+as powerful as dispel good prayer. For this prayer to inflict damage (levelD14)
+you must be very careful, and use it only if  your alignment is evil.
+
+'Good just got more powerful.'                             
+#
+"DISPEL GOOD"
+
+Usage       : prayfor 'dispel good' [target]
+
+This prayer invokes the wrath of your deity on a good victim. For this prayer 
+to inflict damage (levelD7), you must be very careful, and use it only if 
+your alignment is evil.
+#
+"DISPEL MAGIC"
+
+Usage: cast 'dispel magic' <victim | object >
+
+When a wizard cast this spell, it has a chance to neutralize or 
+negate magic it comes in contact with. This spell can remove magical 
+curses and effect from a player, and magical forces of objects in the 
+caster's inventory. When cast on a friendly player it will remove all of 
+the spell affects upon him. Else it is considered an aggresive spell, and 
+it may remove some of the spell affects of the mob. 
+#
+"DRAGON STRIKE"
+
+This skill is used by high level Monks and is known for the unpredictable 
+amount of damage that it will do. There were cases of skillful monks 
+killing a dragon with such strike.
+#
+"DUAL BACKSTAB"
+
+Usage: backstab <target>
+
+It is similar to BACKSTAB, only you'll use both of your daggers (if you are
+wielding two). 
+#
+"DUAL WIELD"
+
+Usage    : automatic
+
+This skill is something that allows a you to wield two weapons at
+once. Generally this means a smaller/lighter weapon in the holding hand. In 
+combat you will try to use both of your weapons now, making you more 
+formidable opponent. 
+
+"Behold! There do I see my mother, my brothers and my sisters!"
+#
+"EAGLE EYE"
+
+Usage: cast 'eagle eye' <target>
+
+After spending much time in the wilderness, rangers oft become accustomed
+to the ways of the animals and beasts within.  By means of this spell,
+rangers are able to unite their consciousness for the briefest of moments
+with an eagle to search the land for a person while the eagle searches for
+its prey.
+#
+"ELBOW SWING" "KNEE THRUST"
+
+Usage: elbow <victim>
+       knee  <victim>
+
+This skills allow ranger to perform one extra attack doing some large 
+damage to his opponent. Knee thrust is more powerful then elbow swing but 
+costs more movement to perform too. 
+
+#
+"ENCHANT ARMOR"
+
+Usage: cast 'enchant armor' <object>
+Duration: Permament
+
+This spell will enchant armor. Total improvements are:
+
+AC           : level/6  + (-1..1)
+SAVE vs SPELL: level/10 + (-1..1)
+#
+"ENCHANT WEAPON"
+
+Usage       : cast 'enchant weapon' <weapon>
+Duration    : Permanent
+
+This spell will enchant non-magical (non-modifying) weapons only.
+By non-modifying weapons we refer to weapons that might alter any
+ability such as for example damage. The only way to know if a weapon
+is suitable for enchantment is to fully identify it.
+
+The enchantment will modify the weapon as:
+
+    Hit Roll	(-1..1) + (your level / 10)
+    Damage	(-1..1) + (your level / 10)
+
+See Also: ENCHANT ARMOR, FORGE, HAMMERING
+#
+"ENERGY CONTAINMENT"
+
+Usage: cast 'energy containment' 
+
+Upon casting this spell, high level druid will create an cloud of energy 
+containment, which will provide him with extra 150 vitality points that will
+last for five hours.
+#
+"ENHANCED HIT" "ENHANCED MANA" "ENHANCED MOVE"
+
+Usage: enhanced 'hit | mana | move' <target>
+
+This spells will allow your target to regenerate faster than usual.
+#
+"ENHANCED SIGHT"
+
+Enhanced sight will allow you to look more further when you look in some 
+direction. For example when you 'look north' you might be able to see up to 
+3 rooms away, depending how good you've learned this skill. It will also 
+affect your SCAN range.
+
+
+#
+"EVASIVE FIGHTING" "AGGRESIVE FIGHTING"
+
+Evasive fighting style will allow you more defensive role in combat, thus
+lowering the chance of you being hit damaged.
+Opposite to that, aggresive fighting will make you more aggresive towards
+your opponent which will result in more damage made by you, but also will
+make you more vulnarable to attacks.
+
+You can change your fighting style with "style" command.
+#
+"FAERIE FIRE"
+
+Usage: cast 'faerie fire' <victim>
+
+When this spell is cast, the caster outlines the victim in a pale
+glowing light.  While the faerie fire does not itself inflict harm
+upon the victim, it increases the victim's armor class making the victim 
+easier to hit.
+#
+"FAERIE FOG
+
+Usage: cast 'faerie fog' 
+
+The caster of this spell creates a large volume of purple smoke to spew 
+forth from his or her fingertips.  This smoke will reveal the presence of 
+any  invisible people in the room, provided they fail a saving throw vs. 
+spells.
+It does not reveal hidden people.
+#
+"FEIGN DEATH"
+
+Usage: feign 
+
+Use of this skill allows you to fall into a coma-like state which stops 
+fighting since it appears that you are dead to your opponent. Great 
+opportunity for a second or even third backstab. 
+#
+"FIRE BREATH" "GAS BREATH" "FROST BREATH" "ACID BREATH" "LIGHTNING BREATH"
+
+Upon casting it, caster will breath deadly supstance into the room
+damaging everyone in it. 
+Damage:
+
+Lightning - 18d10+6dlevel
+Fire      - 15d10+5dlevel  (can burn items)
+Frost     - 8d10+level     (can freeze items)
+Gas       - 12d10+4dlevel  (can blind or poison)
+Acid      - 20D12+7delevel (can corrode armor)
+
+See also: EXTINGUISH, SPELLS
+#
+"FIRE SHIELD"
+
+Usage: cast 'fire shield' 
+
+A potent spell, recently arrived to the continent from distant lands. 
+The target of this enchantment becomes engulfed in leaping flames of
+burning blue and white-hot amethyst.  While he himself cannot feel the
+raging heat give off by this globe of crackling flame, those which try to
+do damage to his person must penetrate the flames in order to reach him.
+Anyone who steps to close will be automaticly punished by a fireball.
+
+
+See also: GROUP FIRE SHIELD
+#
+"FIST OF DOOM"
+
+Syntax: fist <target>
+
+Skillful monk may use this skill to instantly kill a mob (or another 
+player). It will do 40 points of damage per level difference between you 
+and the target for minimum of 5*level and maximum of 1000 points of damage. 
+Note then you can use the fist of doom anytime during the fight but your 
+target must not be fighting as they will be too aware. 
+#
+"FLAME ARROW"
+
+Usage: cast 'flame arrow' <victim>
+
+Upon casting this spell a flame arrow will hit your foe doing
+12d(level/2)+2*level points of damage and leaving him covered in flames.
+
+See also: COLD ARROW, EXTINGUISH
+#
+"FORCE FIELD"
+
+Usage: cast 'force field' 
+
+This spell creates a electrical field around you, giving you solid 
+protecion and punishing everyone who steps to close with an extra bolt of 
+lightining.
+
+See also: GROUP FORCE FIELD
+#
+"GIANT STRENGTH"
+
+Usage: cast 'giant strength' <targer>
+
+This spell will increase target's strength by 3 points.
+
+See also: STRENGTH
+#
+"GIVE LIFE"
+
+Usage: cast 'give life' <target>
+
+This is a MULTI spell.
+This spell will improve victim's max hitpoints by (total_group_level)*4 for 
+duration of (total_group_level)/100 hours. The target can be placed 
+anywhere in the world.
+
+See also: MULTI
+#
+"MAJOR PROTECTION"
+
+Usage: prayfor 'major protection' [target]
+
+Next in line of protective prayers, major protection allows the priest
+to call for protection prayer on their companion while reducing the damage
+inflicted even more.
+
+"Faith's shield is hammered out by the blows of unbelievers." -Oracle en-Vec
+#
+"GREATER ENCHANT"
+
+High level mages can learn this skill to enhance to power of their
+enchanting spells. The effect may be quite unpredictable and it will often
+take repeated attempts to get the best result.
+#
+"GROUP BREATHE WATER"
+
+Usage: cast 'group breathe water' 
+
+Your entire group will suddenly be able of breathing underwater!
+
+See also: WATERBREATHE
+#
+"GROUP DEFLECTION SHIELD"
+
+Usage: cast 'group deflection shield' 
+
+It will bring a deflection shield around your entire group.
+
+See also: DEFLECTION SHIELD
+#
+"GROUP FIRE SHIELD"
+
+Usage: cast 'group fire shield' 
+
+This powerful spell will protect your entire group with the flaming shield, 
+punishing everyono who enters it with a raging fireball.
+
+See also: FIRE SHIELD
+#
+"GROUP FORCE FIELD"
+
+Usage: cast 'group force field' 
+
+This powerful spell will protect you entire group with a electrical force 
+field punishing everyone who touches it with a lightning bolt.
+
+See also: FORCE FIELD
+#
+"GROUP HEAL"
+
+Usage       : cast 'group heal'
+
+This spell gives what is essentially a heal spell to all of the caster's 
+group members. 
+
+See also:  GROUP
+Other spells to note: HEAL
+#
+"GROUP INVISIBILITY"
+
+Usage: cast 'group invisibility' 
+
+You entire group will slowly fade out of existance.
+#
+"GROUP POWER HEAL"
+
+Usage: cast 'group power heal' 
+
+Self explaining.
+
+See also: HEAL
+#
+"GROUP RECALL"
+
+Usage: cast 'group recall'
+
+This potent spell will transfer your entire group to the current sanctuary 
+(Temple of Midgaard or the Clan start rooms).
+#
+GUARD
+
+Usage: guard <target>
+Stats: DEX
+
+After years of combat experience and rescuing, fighter may learn the 
+more advanced skill of guarding.
+This skill will allow you to perform automatic rescue of your friend
+should they get into any trouble. The chance to successfully guard depends
+upon you skill and dexterity. Chances lower as the number of enemies you
+are already fighting increases.
+
+Any number of warriors can be set to guard one person, increasing the
+probability to successfully guard them.
+
+To stop guarding just type 'guard' without arguments.
+
+See also: RESCUE
+#
+"GUST OF WIND"
+
+Usage: cast 'gust of wind' <victim>
+
+This spell will create a sudden gust of wind that might blow your victim 
+out of the room. The chances are smaller if your victim is heavier. This 
+spell is not aggressive.
+#
+"HAND OF GOD"
+
+Usage: cast 'hand of god'
+
+Upon casting this spell, cleric will attain it's God's attention for the
+duration of next two hours. During that time, cleric may experience strange
+force overhelming it's hand, making him hit 3d3 times harder. This can
+happen more often with the cleric's wisdom being higher.
+#
+"HOLD MONSTER"
+
+Usage : cast 'hold monster' <victim>
+
+This powerfull spell will prevent monster from moving around including 
+fleeing from battle. It is somewhat similar to PETRIFY, but the moster will 
+still be able to fight back.
+
+See also: PETRIFY
+#
+"HOLY ARMOR"
+
+Usage       : cast 'holy armor' <target>
+Accumulative: Yes
+
+By means of this spell, the cleric creates a magical field of force that 
+servers as if it were an extra layer of armor lowering target's AC by 50.
+
+See Also: AC
+#
+"HOLY AURA"
+
+Usage: cast 'holy aura'
+
+This is the most powerful defensive spell a cleric can use on itself. 
+The Gods will grant you with a shimmering, protective aura around your body 
+which will absorb large amounts of damage you would otherwise receive. The 
+duration of this spell is one hour.
+#
+"IMPROVE STAT"
+
+Usage: cast 'improve stat' <victim>
+
+This is one of the most powerful spells of them all. Not many talk about it 
+so not much is known. You can use it to improve someone's stat, for ever. 
+However you can do it only once as the amount of energy and concentration 
+needed for the spell is likely to be conceed only once.
+#
+"IMPROVED STEAL" "STEAL MASTERY"
+
+Usage: automatic
+
+Thieves skilled enough in 'steal mastery' may steal equiped items on mobs or
+players if they are sleeping or stunned. However, failing a steal will
+probably wake your victim up.
+
+"What do you have, that I can not obtain?"
+#
+"LEECH LIFE"
+
+Usage       : cast 'leech life' <victim>
+
+This spell saps hit points from the victim. It will damage it for levelD5 
+hitpoints, but you will also leech half of those and use it to heal 
+yourself!
+
+#
+"LIGHTNING BOLT"
+
+Usage       : cast 'lightning bolt' <victim>
+
+
+A very potent, damaging spell useable by only the more experienced of
+magi. While lightning tends to be a bit unpredictable, this potent spell is 
+raw and known for its capacity to inflicting incredible harm. Upon casting 
+this spell, the wizard releases a powerful stroke of electrical energy that 
+inflicts levelD5 points of damage.
+If victim is protected from lightning the damage is lowered by up to half.
+#
+"LOCAL TELEPORT"
+
+Usage: cast 'local teleport' <victim>
+
+With this spell you can teleport yourself or another player somewhere near 
+in the zone. The location is random but will not include any death traps.
+Unlike the TELEPORT spell, you can cast this even during the combat, to
+rescue yourself (although you might end just under the red dragon with
+50 hitpoints spare :)
+
+See Also: TELEPORT
+#
+"LOCATE CREATURE"
+
+Usage       : cast 'locate creature' <name>
+ 
+If possible you will know exactly where a creature is.  If more than one 
+creature by the same name exists, you will get a listing of several creatures.  
+#
+"LOCATE OBJECT"
+
+Usage       : cast 'locate object' <object>
+Accumulative: -
+Duration    : Instantaneous
+
+If possible you will know exactly where an object is, or the
+name of the person using it. If more than one object by the
+same name exists, you will get a listing of several objects.
+The maximum number of objects you can simultaneously locate is
+higher as your level is.
+
+See Also: LOCATE CREATURE
+#
+"MAGIC MISSILE"
+
+Usage       : cast 'magic missile' <victim>
+
+This is the least powerful offensive magic user spell. Actual damage done 
+by this spell is 1d8+level/8.
+
+See Also: MYSTIC SHIELD
+#
+"MAGICAL PROTECTION"
+
+Usage: cast 'magical protection' 
+
+The spell will provide a mage with good protection against magical attacks.
+#
+"MAP TERRAIN"
+
+This skill will allow a ranger to quickly explore his surroundings, drawing
+the map of the terrain. You'll explore every direction from your current 
+location, stoping there  when you can't progress further for any reason 
+(water, closed door...),  marking those locations by '!' on the map. The 
+area coverage is larger as  your skill is more practiced. You will not 
+explore up and down exits. Note that you will need a piece of paper to draw 
+the map. The map will not save when you quit.
+
+Map legend:
+-----------
+ % - Inside
+ @ - City or road
+ + - Fields or path
+ # - Forest
+ ^ - Hills and mountains
+ ~ - Water
+ = - Desert, lava or artic terrain
+
+ * - Your present location
+ ! - You came upon a closed exit
+ ? - Unknown (could be anything of the above)
+
+See also: MIDGAARD
+#
+"MASS CHARM"
+
+Usage: cast 'mass charm'
+
+This is area version of charm person spell and has exactly the same 
+affects with the difference that it can be used in battle to.
+
+See also: CHARM PERSON
+#
+"MASS SLEEP"
+
+Usage: cast 'mass sleep' 
+
+
+Mage can use this spell, even in battle, to sleep all the creatures in the 
+room.
+#
+"MELLON COLLIE"
+
+Usage: cast 'mellon collie' <victim>
+
+Well practiced druid can use this spell to make his victim suffer terrible 
+depression. It will lower the victim's hitroll by 5 making it hit less 
+often. It will also lower the victim's dexterity by three making it's 
+agility wither. And at the end it will lower the victim's resistance to  
+magical attacks making it much more sensitive to your damagind spells.
+#
+"METEOR SWARM"
+
+Usage: cast 'meteor swarm'
+
+Upon casting this powerful spell, caster conjures millions of tiny 
+meteorites and swarms his opponents. It will inflict everyone in the room 
+for levelD8+level hitpoints of damage.
+#
+"MIRROR IMAGE"
+
+Usage: cast 'mirror image' 
+
+This spell will allow you to split into many all-alike images confusing 
+your enemy during the battle.In order to successfuly fool 
+your opponent you must have high intelligence.
+#
+"MOVE HIDDEN"
+
+Usage: movehidden
+
+When you HIDE yourself and then move somewhere you would usually get 
+exposed again. If you have practiced well MOVE HIDDEN, you'll still remain 
+hidden when you move or act. While moving hidden, you'll be using
+more movement points, depending how much you know the skill.
+
+You can stop it by typing 'visible'.
+#
+"MYSTIC SHIELD"
+
+Usage: cast 'mystic shield' <target>
+
+This spell creates an invisible field around its target which, depending
+on level, has the increasing potential to bend the physical world around
+the mage. It will lower your AC by 15 and also will give you total 
+protection against some low-level spells such as MAGIC MISSILE, CHILL TOUCH 
+and BURNING HANDS.
+#
+"OMNI EYE"
+
+Usage: cast 'omni eye'
+
+This spell will allow you to get information of where all the players you 
+can see are and what is their condition.
+#
+"PICK LOCKS"
+
+Usage: pick <object>
+
+Lock picking is one of the prime skills of thieves, allowing them to gain
+access to many secured areas.  Lock picking chances are improved by  
+intelligence, and hindered by the difficulty of the lock. 
+Not all locks can be picked.
+
+> pick door
+> pick safe
+
+See Also : OPEN, CLOSE, LOCK, UNLOCK
+#
+"POWER BLOW"
+
+Usage: automatic during the fight
+
+This is the most powerful skills available to monks. During the fight, monk 
+will gather all of his extra energy and at one moment release it doing 
+terrible damage to his opponent. The more intelligent and agile you are the 
+more often you'll be dealing power blows out.
+#
+"POWER HEAL"
+
+Usage: cast 'power heal' <victim>
+
+This is the most powerful healing spell you can cast on someone. It will 
+immediatly boost victim's hitpoints by 300.
+
+See also: HEAL, GROUP POWER HEAL
+#
+"POWER OF NATURE"
+
+Usage: cast 'power of nature'
+
+The Power of Nature is the ultimate spell a Druid can call to. Upon casting 
+it, you will make a little demonstration what a Mother Nature still can do. 
+It will inflict damage to everyone in the room. The actual damage done is:
+         
+           (level/2)d(level/2)+MAX(level, 5*(level-victim))
+#
+"POWER WORD"
+
+Usage       : cast 'power word'
+
+This powerful spell is the ultimate spell that a cleric can attain.  It 
+will do severe damage (levelD7) to everybody in the room with  2*level 
+bonus if caster's alignment is extreme (God's child or Evil Incarnate).
+After casting this spell all creatures in the room will stop fighting
+and calmly sit on the ground waiting to see your next move.
+#
+"PRIMAL FEAR"
+
+Usage       : cast 'primal fear'
+
+Powerful druid are able to instill fear in their opponents, despite
+their relatively unintimidating appearance.
+Upon casting this spell, the caster radiates an aura of fear into the room, 
+causing creatures that don't save their throw versus paralyzation to flee. 
+Those who do not flee might even decide to attack the caster. 
+
+#
+"PRISMATIC SPHERE"
+
+Usage: cast 'prismatic sphere' <victim>
+
+This is a MULTI spell.
+This spell will create prismatic sphere of light around the victim leaving 
+it TOTALY invulnarable for the next hour, with a 50% chance the spell will
+wear off during that hour. Victim can be placed anywhere in the world.
+
+See also: MULTI, AURA
+
+#
+PROTECTION
+
+Usage: prayfor 'protection' [target]
+
+This prayer offers more protection then the minor protection prayer.
+Once learned, the priest will be able to call for minor protection for their
+companions.
+
+"The willow knows what the storm does not: that the power to endure
+harm outlives the power to inflict it."
+#
+"_PROTECT FROM COLDNESS"
+
+Usage: cast 'protect from coldness' <victim>
+
+When this spell is cast, the person calls upon their deity to protect
+them from the element of cold.  As a result, the damage taken from
+this type of attack is reduced by a significant amount.
+
+#
+"_PROTECT FROM FIRE"
+
+Usage       : cast 'prot from fire' <target>
+
+When this spell is cast, the person calls upon their deity to protect
+them from the element of fire.  As a result, the damage taken from this
+type of attack is reduced by a significant amount.
+#
+"_PROTECT FROM LIGHTNING"
+
+Usage: cast 'protect from lightning' <victim>
+
+When this spell is cast, the person calls upon their deity to protect
+them from the element of eletricity.  As a result, the damage taken from
+this type of attack is reduced by a significant amount.
+#
+"QUICK CHANT"
+
+The skill reduces time needed to cast a spell and a lag after casting. It 
+will allow skillful mage to for example cast several fireballs in a row, 
+which is not a pleasent thing to see. Use of this skill is automatic once 
+practiced..
+#
+"QUIVERING PALM"
+
+This is a basic but yet powerful monk skill allowing him to use palm of his 
+hand as a deadly weapon. This skill is automatic during the fight.
+#
+"RAY OF DISRUPTION"
+
+Usage: cast 'ray of disruption' <victim>
+
+This is a MULTI spell.
+The spell will conjure a beam of udescribeble energy and focus it to your 
+victim who can be anywhere in the world. The victim has two saving throws, 
+each for half the damage. Damage inflicted depends upon the total level of
+spellcasters and may go high as the half of the target's hitpoints.
+Spell can be cast only of the target has more then two thirds
+of it's hitpoints.
+
+See also: MULTI
+#
+"REMOVE CURSE"
+
+Usage       : cast 'remove curse' <victim | object>
+Accumulative: No
+Duration    : Instantaneous
+
+Will remove a curse on carried objects or any persons in the room. Note 
+that in case the victim is wearing cursed object, the spell can't remove 
+the curse. In that case the curse must be removed by a victim alone.
+
+See Also: CURSE
+#
+"REMOVE POISON"
+
+Usage       : cast 'remove poison' <victim | food | drink> 
+Accumulative: No
+Duration    : Instantaneous
+
+Will remove poison.
+
+See Also: Poison
+#
+"RETRIEVE CORPSE"
+
+Usage: cast 'retrieve corpse' 
+
+If you have died and lost your corpse, you can locate and cause the corpse 
+to appear in the room.
+#
+"RUNIC SHELTER"
+
+Usage: cast 'runic shelter' 
+
+This spell will create a magical defensive shelter around the druid, giving 
+him excellent protecion against magic. The runic shelter will absorb one 
+quarter of the incominig magical damage and give you -10 bonus to armor.
+#
+"SECOND ATTACK"
+
+Usage: automatic
+
+Allows you to possibly attack up to twice a round. 
+
+This skill is automatic, but note that it does not mean you will have
+two attacks all the time, every round. It merely gives you a higher
+chance of getting in an extra attack.
+
+"Behold! There do I see my father!"
+#
+"THIRD ATTACK"
+
+Usage: automatic
+
+Allows you to possibly attack up to three times a round. 
+
+"Behold! There do I see the line of my family back to the beginning!"
+#
+"FOURTH ATTACK"
+
+Usage: automatic
+
+Allows you to possibly attack up to four times a round. 
+
+"... in the halls of Valhalla, where the brave shall live forever!"
+#
+"SECOND DUAL ATTACK"
+
+Usage: automatic
+
+If you are trained enough in this skill and have high strength, it is 
+likely that you will get one more extra attack with your dual-wielded 
+weapon.
+
+"They call for me to bid my place among them..."
+#
+"SENSE LIFE"
+
+Usage       : prayfor 'sense life'
+
+This prayer quickens the senses of the caster, so that he can smell and
+even hear the heartbeat of every living creature in the room. With
+senses heightened like this, the cleric is able to tell even if a
+cleverly hidden thief is in the room.
+#
+"SHIELD BLOCK"
+
+Usage: automatic
+
+What good is a shield?  Why, to stop things from hitting you, of course.
+Shield block does this automatically. If a blow is deflected by shield block,
+it does no damage. It is easier to deflect blows with shield then to parry or
+dodge them, therefore a bonus is given to shield block attempts. 
+#
+"SHOCKING GRASP"
+
+Usage       : cast 'shocking grasp' <victim>
+
+Upon casting this spell the wizard develops a powerful electrical charge 
+that gives a levelD4 jolt to the creature touched.
+
+
+#
+"SHROUD OF DARKNESS"
+
+Usage: cast 'shorud of darkness' <victim>
+
+High level cleric will use this spell to create a major cloud of darkness 
+above his victim, making it very depressed. It will then lower, 
+victim's intelligence, dexterity and hitroll by a significant amount.
+#
+"SHROUD OF OBSCUREMENT"
+
+Usage: cast 'shroud of obscurement' 
+
+This spell will create an obscuring cloud around the mage, making him very 
+hard to locate. This applies to EAGLE EYE, CLAIRVOYANCE and OMNI EYE 
+spells.
+#
+"SPELL RECOVERY"
+
+This skill reduces the lag you get when you lose concentration in casting a
+spell.  Use of this skill is automatic once practiced..
+#
+"SPIN KICK"
+
+This skill allows a monk to damage foes currently fighting him.  It does
+significantly more damage than kick and can hit more than one opponent. 
+It is a tiring skill though.
+#
+"SPIRITUAL HAMMER"
+
+Usage: prayfor 'spiritual hammer' [target]
+
+Through the casting of this spell, the cleric supplicates his deity to form
+a hammer from with which to strike down his enemy.  As the cleric progresses
+in levels and becomes closer to his god, he is able to do more damage with
+the casting of this spell.
+#
+"SPRING LEAP"
+
+Allows you to attack from a sitting position, i.e. after you have been
+bashed.  You attack, and stand up, all in the same motion.
+#
+"STRONG MIND"
+
+Usage: cast 'strong mind'
+
+This spell will make you more determined and yoo'll now be able to always 
+retreat from the battle, without loosing exp, without throwing your weapon.
+
+See also: ESCAPE
+#
+"SUMMON ANCIENT DRAGON"
+
+Usage       : cast 'summon ancient dragon'
+ 
+This spell summons an ancient dragon from caves deep in below the surface 
+of the Earth. It will serve you for a certain amount of time depending on 
+your inteligence and charisma.
+
+Other spells to note: ANIMATE DEAD, CLONE, GATE, CONJURE ELEMENTAL
+#
+"TIGER CLAW"
+
+Tiger claw is a monk skill allowing them to do significantly more damage
+with their bare hands.  You do not need to type anything to use this skill; 
+it is automatic during the fight.
+#
+"ULTRA DAMAGE"
+
+Usage: cast 'ultra damage' <victim>
+
+This is a MULTI spell.
+This spell will make the victim deal out 2 times more damage to 
+everything for the duration of the spell which is one hour, with a 50%
+chance the spell will wear off during that hour. The victim can be 
+placed anywhere in the world.
+
+See also: MULTI
+#
+"WATERBREATHE"
+
+Usage       : cast 'waterbreathe' <victim>
+
+The use of this spell will allow the target to grow two small
+gills so that he or she can survive underwater as if in air.  It
+does not affect swimming ability, merely the ability to breathe.
+#
+"WAVE OF HEALING"
+
+Usage: cast 'wave of healing'
+
+This spell will heal your group for 2d10 + level hitpoints.
+#
+RECALL
+
+Usage       : prayfor 'recall' [target]
+
+While adventuring, dark caverns and magical pathways can often leave a poor
+adventurer off in some strange land with no idea which way leads home. This
+prayer calls upon the power of cleric's deity to bring him or his companions
+safely home.
+#
+"WRATH OF EARTH"
+
+Usage: cast 'wrath of earth' <victim>
+
+With this potent spell, the druid will call the wrath of the Earth upon his 
+victim. After that, for the duration of the spell, the victim won't 
+regenerate it's hitpoints, mana and movement.
+#
+ADRENALINE
+
+Usage: cast 'adrenaline'
+
+This spell will cause adrenalin to flood your body giving you one extra
+attack per EVERY round. It will also make you spend more of your 
+movepoints.
+#
+AGILITY
+
+Usage: cast 'agility' <target>
+
+This spell will increase target's dexterity by three points.
+#
+ARCANE
+
+Usage: cast 'arcane' 
+
+This powerful spell will reveal you the arcane name for your current 
+location. You may later use this name to instantly teleport here with the 
+RELOCATE spell.
+
+See also: RELOCATE
+#
+ARCHERY
+
+Being dwellers of the forest, one of the ranger's first skills is archery.
+Being a master in archery will allow you to use your bow and arrows to hit 
+your enemy from large distance, doing massive damage. The basic set of bow 
+and arrows can be found at Midgaard's weapon shop, but there are lot more 
+powerful ones to find.
+
+See also: SHOOT
+#
+ARCHIRAGE
+
+Archirage is a very powerful skill much like berserk, with one major
+difference - it hits *everybody* in the room who is not in your group.
+If you are skillful enough you might even hit everyone *TWICE*. You can 
+enter archirage only once, at the begining of the fight. Be very careful 
+when using it in populated areas.
+ 
+Addenum by Herecy:
+
+NEREALNO I MOCNO. A OPET, ZAMISLI KAD KONAN UPADNE U ARCHIRAGE (TAKO
+BIH *JA* TO NAZVAO ). SCENA - NORTH GATE. DIJALOG:
+       
+   Guard - NEMA OVDE MESTA ZA TAKVE KAO STO SI TI, DECKO!
+   Conan - S'A S' REK'O?!
+   Guard - AJMO, MAGLA DOK TE NISMO RAZBILI.
+       
+500h 100m 200v> archirage
+
+          ...
+
+      3 sekunde kasnije:
+
+450h 100m 184v> s
+Temple Of Midgaard
+... 
+#
+ARMOR
+
+Usage       : cast 'armor' <target>
+Accumulative: Yes
+
+By means of this spell, the wizard creates a magical field of force that 
+servers as if it were an extra layer of armor.  This spell does not hinder 
+movement, adds no weight or encumbrance. It will lower armor by 15+level/5.
+
+See Also: AC
+#
+ATONEMENT
+
+Usage: cast 'atonement' 
+
+The spell is of very powerful nature, making your alignment fully justify 
+and making you feel great, gaining bonuses to damage in battle.
+#
+AUTOPSY
+
+Usage: autopsy <corpse>
+
+Ranger can use this skill to find out who made the corpse be.
+#
+BACKSTAB
+
+Usage: backstab <target>
+Stats: DEX              
+
+Backstab is a way to sneak up on a person and attempt to place your dagger
+in their back, at exactly the point where it does most damage.  A successful
+backstab gives a damage multiplier.
+
+The chance of successfully backstabbing a person depends on how well you
+have practiced backstab at your guild, and how agile you are. You will always
+succeed when backstabing sleeping persons. You have greater chances of
+backstabing opponents that can not see you.
+
+You can use 'abort' command to abort backstab before it happens.
+
+
+"I say victory is better then honor."
+#
+BAPTIZE
+
+Usage: cast 'baptize' <target>
+
+Cleric can use this spell to baptize players, changing their alignment to 
+the level of his own.
+#
+BARKSKIN
+
+Usage       : cast 'barkskin' <victim>
+
+This spell hardens the flesh of the caster, making it significantly more
+resilient.
+#
+BASH
+
+Usage: bash [target]
+Stats: STR, Weight, Shield weight
+
+Bash is an offensive maneuver where you slam yourself into an opponent in
+an attempt to cause damage. Successful bashes may also put the target
+temporarily into a compromised position, allowing you to do more damage while
+they can not strike back. Since bash involves using the momentum of your own
+body, it can be difficult to get back into fighting position, and the
+character will be lagged for two rounds after bashing.
+
+Failing to successfully bash a target may result in the basher stumbling
+off-balance, and falling to the ground. You may type 'stand' to recover.
+
+"Amazing thing, gravity. It seems to work every time." -Telim'Tor
+#
+BASHDOOR
+
+Usage: bashdoor <direction>
+Stats: STR
+
+This skill will permit a person to use his or her brute strength to smash
+open a door. Note that some doors may simply be too strong to be broken.
+#
+BATTLECRY
+
+Usage: battlecry
+
+If a warrior is selected to lead a party of adventurers, he can issue
+forth a battlecry that will inspire his party members and cause them to go
+into a rage. The powerful the warrior is, the more he'll inspire his group.
+
+"In the thick of battle, you must keep your wits about you. Yelling a
+lot helps, too." -General Jarkeld, the Arctic Fox
+#
+BEAUTIFY
+
+Usage: cast 'beautify' <victim>
+
+This spell will improve your victim's charisma by 3. Very useful when going 
+into the area with many aggressive mobs.
+#
+BEHEAD
+
+Usage: behead <target>
+
+Behead is skill that will allow skillful and dexterious warrior to instanly 
+kill someone, slicing it's head out of the body. The head will remain as a 
+trophy to pick up. Success will greatly depend upon level difference 
+between you and your target and the difference between your and target's 
+dexterity. You can't behead a flying person and other players.
+
+"Inhale. Kill. Exhale."
+#
+BENEDICTION
+
+Usage: cast 'benediction' <target>
+
+Giving a target a benediction will give the god's approval to their
+actions, giving them a significant bonus to hit in battle.
+
+See Also: BLESS, HITROLL
+#
+BERSERK
+                                                                
+Usage: berserk
+                                                                
+Only powerful warriors can master berserking, the ability to enter
+insane rage in combat. Its effects are a huge surge of combat prowess,
+coupled with a disregard for personal safety. 
+
+When berserk, the warrior gains bonus to his hitroll and damroll,
+as well as one extra attack. Berserking warriors are also more resistant
+to the effects of magic as they care little for anything except the blood
+of their foes.
+
+Once berserk, warrior cannot think of anything else (i.e. flee or rescue),
+and may not perform any other skill for four rounds of combat. While berserk,
+every swing with a weapon will take three more movement points, and the
+warrior will be easier to hit. 
+
+"A true warrior's thoughts are of victory, not death."
+#
+BLESSING
+
+Usage       : prayfor 'bless' [target | object]
+
+Throughout the ages, priests have been asked to bestow their blessings on
+everything from a farmer's prized pig to a young royal couple's marriage.
+This blessing works differently depending on whether it is cast on a living
+being or an inanimate object.  When cast on a living creature, this spell will
+aid in deflecting harmful spells, and improve its ability to score a hit in
+combat.  The exact bonuses that this spell provides is largely dependent on
+the level of the priest.
+Blessing an item will reduce the chances that it will break in the midst of a
+fierce battle. If a weapon is blessed, the chance of that weapon making a
+critical hit to the opponent will increase. 
+
+"With this marvel, even the weak have a fighting chance!" -- Arcum Dagsson
+#
+BLINDNESS
+
+Usage       : cast 'blindness' <victim>
+
+Blindness will blind a victim failing its saving throw.
+A blinded person will have great trouble hitting their opponent during
+combat.
+#
+BLINK
+
+Usage: cast 'blink' 
+
+This defensive spell will make you constantly blink from one place to 
+another making you a very hard target to hit. It will also lower your AC by 
+10. During the way you'll blink more often if your dexterity and 
+intelligence is higher.
+#
+BREW
+
+Usage: Brew <drink_container> <'spell'>
+
+This skill will allow you to create potions out of your spells, and share 
+them with your friends (or sell them?). In order to brew a spell into a 
+potion you must have some kind of a drink conatainer (bottle will do for 
+example) and must be at least five levels above the level you got that 
+spell. You can brew any of the following spells:
+
+Cure light         Detect poison
+Cure blind         Detect alignment
+Cure drunk         Detect invisible
+Prot cold          Bless
+Prot fire          Remove poison
+Prot lightning     Quench
+Detect magic       Sanctuary
+
+See also: SCRIBE
+#
+"CHARGE SPELL" "SPELL CHARGE"
+
+Usage: cast 'charge' <victim>
+
+This powerful spell will turn half of caster's mana points into a charging
+ray that will do up to three times more damage then the mana points spent.
+Since this spell uses pure mana energy, damage done will be exactly the 
+one
+specified, no matter if the victim is under SANCTUARY or any other affect.
+Due to it's nature, the spell can not actually kill a victim, but 
+almost...
+
+see also: CHARGE SKILL
+#
+CIRCLE "CIRCLE BACKSTAB"
+
+Usage: circle [target]
+Stats: DEX
+      
+Circle is a skill learned by advanced thieves. This skill allows the 
+practicer to slip out of sight of his opponent briefly, and launch a
+surprise attack upon him from behind. 
+
+Circle allows you to perform a half strength backstab while you are engaged
+in combat. If target is fighting someone else, it will switch to you following
+the circle attack. Circle carries a two round battle lag following its usage.
+
+See also: BACKSTAB
+#
+CLAIRVOYANCE
+
+Usage: cast 'clairvoyance' <victim>
+
+This spell will allow you to see where your victim is placed.
+
+#
+CLONE
+
+Usage       : cast 'clone'
+
+This spell creates a mob that is an exact clone of the caster. You shall not
+have any mob followers before you attempt to clone yourself. Your clone will
+have the same abbilities as you do, and you will be able to order it to cast
+spells.
+One of the most powerful spells in the Lands.
+
+Other spells to note: ANIMATE DEAD, CONJURE ELEMENTAL, GATE
+#
+COMBO
+
+After years of training in elbow swing, knee thrust and sweepkick, you 
+might use this special kick which is the combination of the those three.
+It can be extremly lethal to your opponent.
+#
+CONCENTRATE
+
+As monks become more proficient in their ability to master their minds
+and their bodies, they slowly learn to focus their excess energy to heal 
+themselves. Monk will concentrate to transfer all of his mana to hitpoints.
+#
+CONSIDER
+
+Usage : consider <monster>
+
+This command will compare you to the monster. There is also a consider 
+skill that will produce more information then usual consider:
+
+> consider peacekeeper
+LEVEL        : Way out better
+HEALTH       : Vastly superior
+BATTLE POWER : Slightly better
+------------------------------
+You ARE mad! 
+#
+COOK
+
+Syntax: fillet <corpse>, cook <fillet>
+
+Fillet will produce raw fillet from the just made corpse. Cook will serve 
+you to remove any poison from the food (since it might be raw).
+
+#
+COUNTERSTRIKE
+
+Usage: automatic
+
+A counterstrike is performed after a successful parry, where the defender 
+parries an attack and counterattacks, striking the attacker. A somewhat 
+difficult action to perform, it takes years of experience, incredible 
+dexterity, and the shrewedness to read an attacker's movements and counter 
+them accordingly.
+#
+CURSE
+
+Usage       : cast 'curse' (victim | object)
+Accumulative: No
+
+An unseen globe of disfavor follows the victim.  In battle things just
+don't go for them, and they find it much harder to land blows and such.  
+Curse cast on a person that fails the saving throw, will reduce the
+hitroll by level/8, and reduce the saving throw versus spell by level/6.
+Curse cast on items has various affects. 
+
+See Also: -
+#
+DARKENING
+
+Usage: cast 'darkening' <target>
+
+This spell will reduce target's combat senses furthermore reducing damage
+done by target's weapons.
+#
+DISARM
+
+Usage: disarm [target]
+
+Disarm is a somewhat showy and unreliable skill, designed to relieve your
+opponent of his weapon. The best possible chance of disarming occurs when
+you are skilled both your own and your opponent's weapon. Only talented
+thieves and warriors may learn this skill. 
+#
+DISINTIGRATE
+
+Usage       : cast 'disintigrate' <victim | object>
+
+This spell causes a person to instantly disintigrate or causes large amounts 
+of damage - (level*3)d4.
+#
+DIVINITY
+
+Usage: cast 'divinity' <target>
+
+This powerful spell bathes the target in a divine light, embuing them, for 
+a time, with great power granted by the gods. The light provides the target
+with great regeneration and major resistance to magical attacks.  
+Furthermore, the divine powers grant the target increases protection from 
+blows, as well as increasing the accuracy of the target's aim and ability 
+to do damage.
+
+
+#
+DODGE
+
+Usage: automatic
+Stats: DEX
+
+In the words of one wise warrior, 'the best way to block a blow is to
+not be where it lands'. The dodge skill honors this tradition, by improving
+the character's natural agility to the point where many blows will miss the
+target. The chance of dodging is also affected by the dexterity of the
+attacker and the target.
+
+
+See Also: PARRY
+#
+DOMINATION
+
+Usage: cast 'domination' 
+
+Using this spell, high level cleric may bring peace to his current location 
+by dominating the minds of the other creatures. It stops fights of all 
+creatures weaker (level) then you. It will also clear their memory, causing 
+them to forget players that attacked them. This spell greatly depends upon 
+your charisma.
+#
+EARTHQUAKE
+
+Usage       : cast 'earthquake'
+
+Upon uttering this spell the caster calls upon his deity to shake the 
+very ground they stand on in order to destroy their foes. This spell will 
+damage everybody in the room, except the caster's group,  by levelD2+level
+hitpoints of damage.
+
+See Also: -
+#
+ENDURANCE
+
+Usage: cast 'endurance' 
+
+Endurance is a unique spell developed by rangers. When under the influence
+of this spell, terrain movement cost is halved when traveling. Also, the
+ranger will be able to endure the combat longer as his swings will take less
+vitality then usual.
+#
+ENLIGHTMENT
+
+Usage: cast 'enlightment' <target>
+
+This spell will improve target's combat senses furthermore improving damage
+done by target's weapons.
+#
+EQUINOX
+
+Usage: cast 'equinox' 
+
+This is the most powerful spell existant to a spell-caster. One note: Do 
+NOT be wearing anything on your head while casting this spell, specially 
+not any metal equipment! Upon casting equinox you will try to call upon the 
+forces of the Universe to stand behind you, giving all your offensive 
+spells VERY LARGE bonus to damage. Upon successful cast of equinox you will 
+be also fully restored and also, all of your spells will need only SMALL 
+amount of mana for each cast. 
+Drawbacks: This special condition will make your body extremly vulnerable. 
+Every cast you make will damage yourself, and all the other damage you 
+receive will be larger then normal.
+Normal chance for this spell to succeed is 50%. The damaging power of 
+DISINITGRATE spell is not affected by EQUINOX (however the mana cost is
+halved).
+If this spell fails, you... Hmmm, hummm... It better not fail.
+#
+ESCAPE
+
+Usage: automatic
+
+Allows you to get out of combat without panic. If you make the roll,
+you will escape the fight and safely leave the room. You won't throw
+your weapon away and you will lose only half the normal exp for fleeing.
+Unlike FLEE, the chances of failing an ESCAPE are very low.
+
+
+"He who fights and runs away, lives to fight another day."
+#
+FAME
+
+Syntax: fame <target>
+
+Using this skill, you may gather mobs to join you after you tell them about 
+your legendary travels. The skill uses some movement points, and is more 
+likely to succeed as the level difference between you and the target mob 
+grows.
+
+"Join the army, see foreign countries!" they'd said.
+#
+FEEBLEMIND
+
+Usage: cast 'feeblemind' <victim>
+
+This spell causes the victim to become a moron if they fail their save.
+It is terribly powerful spell and therefore last only for one hour.
+#
+FEINT
+
+Usage: automatic
+
+Feint is a Warrior skill which improves your chances for hitting your
+enemy.  Feint is automatic, and can fool your victim into thinking your
+blow will land somewhere else. It basically give you an extra chance to land
+a hit with an attack that would otherwise miss.
+#
+FILLET
+
+Usage : fillet <object>
+
+If you're ever hungry, then this skill is for you.  It can only be used on
+a corpse, but it'll let you cut a slice of flesh off.  Use in conjunction 
+with cook for those times when you're out of food, out of money, or just
+feel like devolving.
+
+See Also: COOK
+#
+FIREBALL
+
+Usage       : cast 'fireball' <victim>
+
+This spell is the one of the most powerful offensive spells a mage can 
+cast. It will do levelD7 of damage. Beware that both wet 
+conditions (such as even a rain) and protection from fire will seriously 
+lower the damage of this spell.
+
+See also: EXTINGUISH
+#
+FIRESTORM
+
+Usage       : cast 'firestorm'
+
+
+By this spell the caster calls into being an enormous cloud of flame
+which whirls around the room, searing those not in the caster's group.
+The intense heat does (level/2)*(2d7)+level hitpoints of damage to 
+everything in the room leaving it either roasted or burning to death. Wet 
+conditions as well fire protection will significantly lower the damage this 
+spell does.
+
+See also: EXTINGUISH
+#
+FLAMESTRIKE
+
+Usage: cast 'flamestrike' 
+
+Upon casting this spell you will conjure a flaming pillar damaging 
+everything in the room for 10d10+2*level hitpoints of damage.
+#
+FORAGE
+
+A good ranger and druid can eat almost anything.  The best ones, however, 
+can usually find something a little better to eat after looking for a 
+while. You can forage for food, but this only works outside of cities, and 
+outdoors.
+#
+GUINNESS GUINESS
+
+Usage       : cast 'guinness' <victim>
+ 
+   This spell will turn the victim's blood to good EXTRA STOUT.
+This is a little bit uncomfortable for the victim and he/she/it
+will significantly have a hard hour.  During this hour, the victim's
+attack and defense rolls will have suffer 4 point penalties.
+   After one hour... the spell will leave the victim drunk for
+about another twenty-three hours.
+#
+GUT
+
+Usage: gut [target]
+
+When your opponent is below 10% of their hit points you may use gut skill 
+to slash their stomach open, and spill their intestines out. They will 
+immediately fall to the ground stunned, their life depending upon your 
+mercy.
+As you get better with the skill you will be able to gut your opponents
+even earlier.
+
+"First blood isn't as important as last blood."
+#
+HAGGLE
+      
+Usage: automatic
+      
+Haggling is an indispensable skill to the trader. It allows a character
+to match wits with a merchant, seeking to get a better price for
+merchandise, or to buy at the lowest possible cost. Unfortunately,
+most merchants are already very skilled at haggling, so the untrainined
+adventurer had best guard his treasure closely.
+
+"Bargaining with a goblin is like trading with a child; both believe
+they already own everything."
+#
+HAMMERING
+
+Syntax: hammer <object>
+
+Person trained in this skill might use it to better some armor. However 
+there is always a chance of completly breaking it.
+#
+HARM
+
+Usage       : cast 'harm' <victim>
+
+This is a very powerful cleric spell. If your victim has less then 8 times
+your level hitpoints, harm will leave it only 1d4 hitpoints remaining. Else, it
+will cause levelD4+level points of damage. 
+
+See Also: -
+#
+HASTE
+
+Usage        : cast 'haste' <victim>
+ 
+This spell will make the victim move much quicker then usual. That means
+you'll be needing less movement points to traverse a terrain then usaul. 
+In battle it means that you will one more additional attacks but 
+you'll loose one more movement points for every hit you make. 
+#
+HIDE
+
+Usage: hide
+
+When you type hide there is a chance that you hide in the room. If hidden
+you can only be "sensed" by some spells. Even if sensed your identity will
+remain hidden. Of course, you can see and be seen by other people hiding
+in the same location as you are; you can be sensed only by people that are
+at least your level or higher; lower level characters simply won't be able
+to detect you.
+
+Hide is broken by pressing enter, regardless of whether you typed a command
+or not.
+
+"You are not prey until a predator knows of your existence."
+#
+HUNT
+
+Usage:            hunt <victim name>
+or to stop:       hunt !
+
+Having mastered the skill of tracking, ranger can learn hunting. This skill 
+will make you automaticly track and move. 
+This skill is dependant on the TRACK skill. The more it is learned the 
+lower is the chance you'll get a false trail.
+#
+IDENTIFY
+
+Usage       : cast 'identify' <target>
+
+These two spells can be used to identify many different items, giving their 
+statistics and effects. 
+#
+INFRAVISION
+
+Usage       : cast 'infravision' <victim>
+
+The target of this spell has his or her eyes magically enhanced to see
+not only the color spectrum, but also the infrared spectrum.  This are
+waves given off from heat.
+#
+INTELLIGIZE
+
+Usage: cast 'intelligize' <target>
+
+This spell, one of the powerful of the druid, will make target's 
+intelligence rise to it's maximum, give a 50 mana bonus and 5 hitroll.
+#
+INTESIFY
+
+Usage: cast 'intesify' 
+
+Upon casting this spell mage will go in a special coma-like state, able to 
+better focus his internal energies. It will result in great increase to 
+power of his spells, specially destructive ones.
+#
+INVISIBILITY
+
+Usage       : cast 'invisibility' <victim | object>
+Accumulative: No
+Duration    : 24 hours, permanent on objects.
+
+This type of invisibility is passive.  Light is actually 'bent' around
+the target.  When you 'see', you are actually viewing rebounding light,
+so those that see this way, see nothing.
+Attacking while invisible will immediately break the spell.
+
+#
+KATA
+
+After performing a kata, monk will improve his chances to hit during a
+combat. Each kata will cost you 40 movement points. If you are at your
+regular alignment, you will gain additional bonus.
+#
+KICK
+
+Usage: kick [target]
+Stats: STR
+
+The success of a kick depends upon how well you are learned. The damage
+depends upon your damroll and strength. Also if you are wearing boots that
+are of type weapon, the damage is increased. 
+#
+KNOCKOUT
+
+Usage: knockout <target>
+
+This very useful skill will allow you to stun your opponent, before attack.
+#                                                                
+"POWER KICK"
+
+Usage: kick [target]
+
+This is improved version of kick skill. The main difference is it hits
+as much as three times harder then kick and may send your opponent sprawling
+to the ground. If performed well it may even send your opponent sprawling
+into the next room!
+#
+LEADERSHIP
+
+Usage: automatic
+
+Skilled warriors are great and trusted leaders. Inspired by your 
+charisma and skill, group under your command will gain more experience 
+when exploring the world and fighting the monsters.
+#
+LISTEN
+
+Usage: listen [direction]
+
+This skill will allow a thief to strain and listen carefuly to his 
+surroundings. He will be able to sense invisible and hidden characters by 
+the noises they make.
+
+Without arguments you will scan your current location, or you can give it a 
+direction argument (eg. 'listen north'). A skillful thief might even listen 
+behind closed doors.
+#
+LUNGE
+
+Usage: automatic
+
+When fighting more then one enemy, a skilled warrior is able to hit more 
+than one foe in a round of combat. Lunge skill is automatic, and will 
+allow you to occasionaly lunge at your enemies, performing one or two 
+attacks on them, and then returning to person or monster you are fighting.
+#
+MATERIALIZE
+
+Usage: cast 'materialize' <obj>
+
+This is a MULTI spell.
+This is extremly powerful spell. It will allow the casters to summon almost
+any object to their present location. Though, the spell can not be used to
+summon magical items, or items worn by other creatures.
+
+
+See also: MULTI
+#
+"!FIRST AID"
+
+Usage: aid <target>
+
+Being one of the first methods ranger learns to heal himself and his 
+group, first aid skill is widely used. First aid is only applied if target's
+vitality is below quarter maximum, and this skill will restore it to quarter
+of maximum. Target will have to stay calm for two rounds and won't be able
+to enter any commands.
+#
+MEDIC
+
+The ranger may apply his woodsman knowledge in medicine to aid him or 
+herself as well as the others. Medic is similar to the first aid skill, only
+it will instantly restore target's vitality to half the maximum. Target will
+have to stay calm for two rounds and won't be able to enter any commands.
+#
+MEDITATION MEDITATE
+
+This special monk skill will allow you to sink into a deep trans, completly
+relaxing for one hour. During this time you'll regenerate faster then your
+usual rate, dependig how much you know the skill.
+#
+MELEE
+
+Melee, literally a fight between several people, is a skill brought to a
+new dimension by skillful warriors. They are able to engage more then one 
+foe simultaneously, moving quickly and furiously to damage each one during 
+that round, and also knock them to the ground. This skill is mostly 
+dependant upon warrior's strength.
+#
+NAP
+
+Usage: cast 'nap' 
+
+This spell will put your group to nap. You will be regenerating at much 
+faster rate then usual, for the amount of time the spell lasts. However you 
+won't be able to wake and stand unless someone attacks you.
+#
+"ALFA NERVE"
+
+Syntax: alfa <target> | self
+
+This skill, known only to monks, allows them to use their knowledge of 
+anathomy to control the flow of target's vitality. It's most commonly
+used for healing purposes. The skill will also drain some of the monk's
+own vitality due to huge amount of concentration needed.
+#
+PARRY
+
+Parry is an automatically triggered defensive skill. This skill allows
+the combatant to block the attack of an opponent. A successful parry will
+counteract any damage that would have normally been dealt to the 
+combatant. Success of parry depends upon your knowledge in the weapons
+used by both you and your enemy.
+
+See also: DODGE
+#
+PEEK
+
+Usage: automatic
+
+This skill allows you to peek into a victim's inventory and see what they
+are carrying.  To use the skill you look at the victim and if successful
+you will see their inventory. The better is this skill practiced, the more 
+items you will be able to see. You will also learn the wealth of your victim,
+to see whether they are suitable target for pickpocketing. 
+It is a required skill for any player who plans to steal for a living.
+#
+PETRIFY
+
+Usage: cast 'petrify' <victim>
+
+This is a MULTI spell.
+This spell will petrify your victim. While petrified the victim can only 
+move it's eyes. Meaning, it can not walk around. Meaning, it can't fight 
+back. Duration of this spell is one hour, with a 50% chance the spell will
+wear off during that hour.
+The victim can be placed anywhere in the world.
+
+See also: MULTI
+#
+PLAGUE
+
+Usage: cast 'plague' <victim>
+
+This potent spell makes target sick of plague and damages them each
+tick.  It spreads from one character in a room to others, having
+the same effect on them as the original victim, so beware!
+
+#
+CONCEAL
+
+Usage: conceal (toggles on/off)
+
+This skills covers swift actions performed by a thief, like GETTING
+or DROPING items without anyone noticing. You may toggle this with
+'conceal' command. 
+
+It also allows you to put an object into someone's inventory without
+them knowing, using 'plant' command.
+#
+"POISON SPELL"
+
+Usage       : cast 'poison' <victim | food | drink>
+Accumulative: Yes on persons.
+Duration    : permanent on food and drinks.
+
+Casting poison on food or drink (containers) will poison it.
+Eating poisoned food/drinks will poison the person eating or
+drinking.
+
+A person who is poisoned will suffer 10-50 points of damage every
+tick, and gain less points than usual. It will also have it's strength 
+reduced by two.
+
+See Also: "detect poison" or "cure poison"
+#
+PORTAL
+
+Usage: cast 'portal' <victim>
+
+This spell will open a transcendental portal between you and the victim,
+which you and others can use to instantly teleport to the victim's zone.
+You can 'enter' the portal at both sides, but beware the the portal will
+close after some time.
+
+See also: DIMENSION WALK, SUMMON
+#
+QUENCH "QUENCH THIRST"
+
+Usage       : prayfor 'quench' [target]
+
+This spell will instantly quench target's thirst.
+
+"... nor shall they lack the water to live."
+#
+SATE "SATE HUNGER"
+
+Usage       : prayfor 'sate' [target]
+
+When supplies are low, a cleric can through the casting of this spell fill
+the bellies of the hungry with enough vitamins and nutrition to last for a
+day or two.  However halflings, due to their extreme love for food,
+refuse this form of sustenance, as it has no flavor to assuage their
+voracious appetites.
+
+"Those who follow me shall not be hungry..."
+#
+RAGNAROK
+
+Usage: cast 'ragnarok'
+
+This is a MULTI spell.
+And also, one of the most powerful spells known. To cut the long story 
+short, this spell will damage EVERY creature in the caster's zone for 
+7*(total_group_level) hitpoints of damage, with no upper limit.
+
+See also: MULTI
+#
+RECHARGE
+
+Usage: cast 'recharge' <obj>
+
+Using this spell you can recharge staffs and wands and make them good as 
+new. However if you overcharge it, it may explode.
+#
+REGENERATE
+
+Usage: cast 'regenerate' <victim>
+
+This spell will make victim's body cells regenerate much faster no matter
+if the victim is standing, fighting or sleeping. Higher the constitution the
+victim has, higher the regeneration rate is.
+#
+RELOCATE
+
+Usage: cast 'relcoate' <arcane_name>
+
+This spell will instantly portal you to the location that suits given 
+arcane name. There is a possibility the spell will fail, in which case 
+you'll end randomly somewhere.
+
+See also: ARCANE
+#
+RESCUE
+
+Usage: rescue <target>
+
+This skill is the ability to throw one's body between the target and one of
+the target's attackers, so as to make the attacker switch targets to the
+rescuer instead.  Only one attacker per combat round may be attracted in
+this way. You can only 'turn' one monster for each rescue attempt. This is
+highly useful when playing in groups.
+
+"The heart's courage is the soul's guardian."
+#
+RESSURECTION
+
+Usage: cast 'ressurection'  <victim>
+
+This is a MULTI spell.
+This spell will restore victim's movement and mana points to maximum, and 
+heal for 10*(total_group_level) of hitpoints. The victim can be placed 
+anywhere in the world.
+
+See also: MULTI
+#
+RESTORATION
+
+Usage: cast 'restoration' 
+
+Complete heal! It is a culmination of all the cleric's healing spells.
+#
+RETRANSPORT
+
+Usage: cast 'retransport' <object>
+
+This spell will retransport an item stored in the druid's holy place to you.
+
+See also: TRANSPORT
+#
+SANCTUARY
+
+Usage       : cast 'sanctuary' <victim>
+Accumulative: No
+
+This spell summons a glowing force of protection around the subject of the 
+spell.  This force will make all attacks on the person protected only do 
+half damage.
+
+See Also: -
+#
+SCARE
+
+Usage: scare <target>
+
+The skill is used by thieves to intimidate their opponets and make them 
+flee. You can try this even in a battle, which may give you an extra 
+oppurtunity to backstab your opponent once more if they flee.
+#
+SCRIBE
+
+Usage: Scribe <paper> <'spell'>
+
+This skill will allow you to create scrolls out of your spells, and share 
+them with your friends (or sell them?). In order to scribe a spell into a 
+scroll you must have some kind of a paper (some other scroll will do for 
+example) and must be at least five levels above the level you got the 
+spell you wish to scribe. You can scribe any of the following spells:
+
+Magic missile        Identify
+Blindness            Sleep
+Curse                Weaken
+Detect alignment     Teleport
+Detect magic         Gust of wind
+Detect invisible
+Fireball            
+
+
+See also: BREW
+#
+SHAMROCK
+
+Usage: cast 'shamrock' <target>
+
+This spell will improve target's luck. After that target will have a 
+smaller chance to fail when casting a spell.
+#
+SHARPEN
+
+Syntax: sharpen <arrow>
+
+Using this skill, you might sharpen an arrow improving it's stats (damage
+and maximum distance). The higher your level is, the bigger improvement 
+you'll make. You can sharpen the arrow as many times as you wish but if you
+fail during sharpen, you might break or destroy the arrow.
+#
+SHILLELAGH
+
+Usage: cast 'shillelagh' <target>
+
+Being a cheerful creatures, druids use this spell to make them feel even 
+better, improving their regeneration rate.
+This spell can also be cast upon others.
+#
+"SIXTH SENSE"
+
+Usage: automatic
+
+After years of living in every day's dangers, seasoned warriors develop a 
+special feeling, often called the 'sixth sense'. This special feeling 
+guides warriors out of dangerous situations, saving their life many times.
+In game terms, sixth sense will allow you to spot and avoid dangerous 
+and deadly traps. Further, in combat, it will greatly lower the chances
+of your opponent criticaly damaging you. Furthermore, if you get ambushed
+or attacked, you will be able to react first, and hit back before their 
+strike, gaining significant advantage in combat.
+#
+SLEEP
+
+Usage       : cast 'sleep' <person>
+
+If failing saving throw versus spell, the person will fall asleep.
+A person who is affected by sleep can only be awakened if attacked or when 
+the spell fades away. Attack on sleeping person will do much more damage 
+then usual. Sleeping persons can be easy target for a backstab or steal.
+
+#
+SLOW
+
+Usage       : cast 'slow' <victim>
+
+This spell drapes a heavy blanket on the victims mind.  The affect is
+said to feel like your limbs are having to move through water, and that
+everything you do seems in slow motion. It will result in a loss of 
+attacks.
+#
+SNEAK
+
+Usage: sneak (toggles on/off)
+
+You toggle this skill off or on.  When on, you use up twice as much movement
+points, but no one will notice you enter or leave a room if you succeed.
+This can help you get past aggresive monsters or unfriendly players.
+#
+STALK
+
+Usage: follow <target>
+
+Stalk allows you to follow someone completely unnoticed. No message is 
+given to your victim that you are following them. It is best combined
+with MOVE HIDDEN. 
+#
+STONESKIN
+
+Usage       : cast 'stoneskin'
+
+This makes the skin of the caster change into a stone-like material.  This 
+will greatly improve the armor class and make the caster much more 
+resistant to piercing attacks (daggers, pikes and such).  This is a 
+personal spell, it cannot be cast on others.
+
+Other spells of note:  ARMOR, BARKSKIN
+#
+STRENGTH
+
+Usage       : cast 'strength' <victim>
+Accumulative: duration
+
+The victim will gain 1 strength point and another one if caster's level 
+more or equals 32.
+
+See Also: GIANT STRENGTH
+#
+STUN
+
+Usage: stun <target>
+Stats: DEX
+
+Skillful thief can sneak up and STUN their victim, paralyzing them. Victim
+will remain stunned for couple of seconds. Enough for BACKSTAB...
+When stunned, victim will receive 180% normal damage. Chances to stun
+a victim who is under the affect of HASTE or ADRENALINE are lower.
+#
+SUMMON
+
+Usage       : prayfor 'summon' <target>
+
+
+If the need arises to bring someone into the room where you stand, it is
+required that you speak their name while calling for this prayer, and if
+they are of an equal or lower level than you that person will appear
+instantly. However be warned that summoning aggressive mobs into the town
+or low-level areas is a crime and the guilty will be punished.
+
+If you attempt to summon a monster, it will get a saving throw, and you
+may wind up with the wrong monster.  You cannot summon from NO MAGIC rooms.
+You cannot summon to TUNNEL or PRIVATE rooms, nor from PEACEFUL rooms.
+You cannot summon someone who is fighting, as it is  impossible to get a
+precise fix of their location.
+#
+SUNRAY
+
+Usage: cast 'sunray' 
+
+By means of this spell, the caster causes an intense beam of light spread 
+from his hands.  The intensity of the light is such that it might blind (as 
+per spell) all the creatures in the room that are not grouped with the 
+caster.
+#
+SURCEASE
+
+Usage: cast 'surcease'
+
+Surcease is the higher of the ranger's spells.  It provides a large
+amount of healing to the ranger and their comrades after the heat of
+battle is over.
+#
+SWEEPKICK
+
+When praacticed enough, you can use this skill to sweep the floor below 
+your opponent doing large amounts of damage and smashing him to the ground.
+This skill is highly dependant upon your dexterity.
+#
+SWITCH
+
+Allows you to switch opponents.  If you are attacking X and want to attack Y,
+type 'kill Y'.  It will check against your SWITCH skill, and if you make it,
+you stop attacking X, and attack Y...
+#
+SYNOST
+
+Usage: cast 'synost' <victim>
+
+Synost is a powerful spell that will allow you send your mana through the 
+synost eter, converting it into target's hitpoints. Your target can be 
+anywhere in the world, as the eter itself will find it. Every time you cast 
+it you'll loose 1/5-th of your mana. During the transfer some of it 
+will be lost. 
+#
+TELEPORT
+
+Usage       : cast 'teleport' [self]
+
+Teleport will instantly transfer you to another location in the world. This 
+location is random, and thus there will always be a risk of landing in a 
+fatal location (but not in a death trap).
+
+See Also: LOCAL TELEPORT, SUMMON, RELOCATE, DIMENSION WALK, PORTAL
+#
+TORNADO
+
+Usage: cast 'tornado'
+
+Upon casting this spell, druid will try to conjure a tornado that will 
+attack all the creatures in the room doing 2dlevel of damage. More 
+important is that the tornado will blow away some creatures (depending on 
+their weight) out of the room.
+#
+TRACK
+
+Usage: track <target>
+
+This skill allows the character to find the path to the target creature
+they are tracking. If you didn't learn it well enough, you might get the
+wrong route.
+#
+TRANSPORT
+
+Usage: cast 'transport' <object>
+
+Druid can use this spells to transport an item to the druid's holy place, 
+well hidden to other beings. Those items can then be retransfered with the 
+RETRANSPORT spell. All the items are being stored to one location.
+#
+TRIP
+
+Usage: trip [target]
+Stats: DEX
+
+Trip is a skill used by thieves to take an opponent off his/her feet.  Once
+on the ground, the target is unable to attack, has a reduced ability to
+defend and will take additional damage from attacks.  A tripped character
+will also be lagged for a short period of time, and be unable to cast spells.
+#
+VENTRILOQUATE
+
+Usage       : cast 'ventriloquate' <victim | object> <text>
+Accumulative: -
+Duration    : Instantaneous
+
+For all people in the same room as the caster that fail a saving
+throw, the spell will make the object or victim appear to say the
+text written. People saving will only notice that someone tired
+to make it sound that way, not who.
+
+Example:
+
+> cast 'vent' mayor I've got 921,923 coins, don't even consider killing me.
+
+See Also: -
+#
+VISITATION
+
+Usage: cast 'visitation' <victim>
+
+This rather specific spell will allow you to "visit" your victim for a 
+certain amount of time, after which the portal appears and transfers you 
+back to the original location.
+
+See also: RELOCATE
+#
+VITALITY
+
+Usage: cast 'vitality' 
+
+This spell will grant a cleric one sixth of his max hitpoints of extra life 
+energy, for the duration of few hours.
+#
+WATERWALK
+
+Usage: cast 'waterwalk'
+
+No comment :)
+This spell is similar to LEVITATE spell and yet different to the FLY spell.
+#
+WEAKEN
+
+Usage       : cast 'weaken' <victim>
+Accumulative: duration
+
+This spell makes the victim weaker by two strength points. Casting this 
+spell generally irritates the victim.
+ 
+#
+WEB
+
+Usage: cast 'web' <victim>
+
+Web creates a sticky mass which covers the victim eliminating their
+ability to easily leave the room, flee and to dodge attacks. It will 
+also lower the victim's dexterity by two. Given time the victim will be 
+able to break out of the web.
+You can use the 'struggle' command once you find yourself in the web.
+#
+WHIRLWIND
+
+If you are wielding two weapons, this will cause you to spin rapidly, 
+hitting everything in the room. However, there is a chance you'll loose 
+your balance and fall to the ground, being an easy target to hit.
+#
+WRAITHFORM
+
+Usage: cast 'wraithform'
+
+This potent spell will turn caster translucent allowing him to pass through 
+doors for example.
+#
+GRIP
+    
+Usage: automatic    
+Stats: DEX
+
+This skill is automatic, once practiced.  The skill causes you to grip
+your weapon tightly as someone tries to disarm you, making it far more
+difficult to successfully disarm you. Furthermore, when fleeing, the
+chances you will throw your weapon in panic will greatly decrease. It also
+affects your ability to read scrolls and quaff potions in the heat of battle,
+making you more likely to succeed.   
+
+"Never doubt a man who never lets go of his sword."
+#
+"SHIELD MASTERY"
+
+Usage: autoamtic
+
+Seasoned warriors may learn this skills and truly become the masters in 
+using their shield in combat. Once practiced, this skill is automatic
+and will greatly increase your chance of blocking incoming attacks with
+your shield. It will also make you more likely to successfully BASH someone
+with your shield.
+#
+"DODGE MASTERY"
+        
+Usage: automatic
+            
+Although very skillful in backstabing their opponents, thief has to be ready
+to engage in combat when neccessary. While not good in hitting their opponent
+as warriors are, they are unmatched masters in dodging blows. 
+This skill is automatic and will greatly increase your dodging in combat.
+
+"The best defense is to not get hit."
+#
+"SPOT TRAPS"
+
+Usage: automatic                       
+Stats: INT, DEX
+
+This skill will allow you to spot the trap before it activates. Due to many
+tricks in setting the trap, you will not be able to spot all traps but only
+those set by at most equal level thief.
+
+This skill will also allow you to spot a death trap before you enter the
+deadly room and will stop you in place.
+
+See also: DISABLE
+#
+EAVESDROP
+
+Usage: eavesdrop <direction>
+       eavesdrop here
+Stop:  eavesdrop
+
+Thieves, being the masters of gaining useful information, have the unique 
+ability to always hear what they need to. This skill allows the thief to
+listen everything that is happening in the specified location even
+if the player is miles away.
+#
+DIRTKICK "DIRT KICK"
+
+Usage: dirt [target]
+Stats: DEX
+
+Consider by some to be a cowardly skill, dirt kicking gives the clever
+combatant a chance to blind his opponent by casting dirt into his eyes.
+The blindness does not last long, usually only one combat round, but can
+provide an edge in combat as blinded opponent it easier to hit and will
+have trouble hitting back. Dexterity helps in hitting or avoiding a
+dirt kick.
+#
+DUCK      
+
+Usage: automatic
+Stats: DEX, Height
+
+An automatic skill based on your size and the size of the person you are
+fighting. The shorter and more dexterous you are in comparison to the
+person you are fighting the more likely you are to duck under the attack.
+#
+"BLIND FIGHTING"
+
+Usage: automatic
+
+This skill reduces the penalty to hit when fighting in unlit areas or when
+blinded. This skill is automatic once learned.  
+#
+ASSASSINATE 
+
+Usage: automatic
+
+This skill is automaticaly checked once practiced. If successful, it will
+add extra damage to all your backstabs making them truly lethal.
+#
+TAUNT       
+
+Usage: taunt <target>
+
+This skill can be used to taunt the target, possibly sending it into a
+berserker rage, attacking everything they see. This skill can not be used
+on players characters.
+#
+"DART TRAP"
+
+Usage: trap dart
+
+This basic trap contains of a small dart that shoots at the first person
+entering the room be it a mob or a player. It deals around 30-70 points of
+damage.
+#
+"ROPE TRAP"
+
+Usage: trap rope
+
+While not really a trap (just a rope hidden in a convenient place) it can be
+very effective. It will cause the victim to trip over and fall down. Useful
+if you want to slow down the persuit or suddenly attack your victim (remember
+you get bonus to damage when they are on the ground).
+
+See also: TRAPS
+
+"The feet have no eyes."
+#                                                                            
+"HORROR TRAP"
+
+Usage: trap horror
+
+This trap contains of a frightening doll, and may cause your victim to flee
+when trigerred. Unlike other traps, this one is not trigger-and-die, but will
+remain effective in the location for some time.
+#                                                                            
+"FIRE TRAP"
+
+Usage: trap fire
+
+This magical trap will release a small fireball onto the target.
+#                                                                            
+"LOCAL TELEPORT TRAP"
+
+Usage: trap local teleport
+
+This magical trap will teleport your victim to a random location in the zone,
+should they fail their saving throw vs spell.
+#                                                                            
+"BLIND TRAP"
+
+Usage: trap blind
+
+This trap activates a flash of bright light when it is triggered. It may
+blind your victim for quite a long period of time.
+#                                                                            
+"STUN TRAP"
+
+Usage: trap stun
+
+This trap may be used to stun your opponents.
+#                                                                            
+"ACID TRAP"
+
+Usage: trap acid
+
+This trap throws a bucket of acid onto the unfortunate victim.
+It's not hard t imagine the effects.
+#                                                                            
+"WEB TRAP"
+
+Usage: trap web
+
+This trap will cover the victim in sticky web that will lower their
+dexterity and make them really hard to move, flee or fight. They
+might try to tear the web with 'struggle' command.
+#                                                                            
+"SLEEP TRAP"
+
+Usage: trap sleep
+
+help is under construction.
+#                                                                            
+"TELEPORT TRAP"
+
+Usage: trap teleport
+
+This magical trap will teleport victim into random location in mud,
+should they fail they saving throw vs spell.
+#
+"GAS TRAP"
+
+Usage: trap gas
+
+This trap releases poisonous gas that will make the victim suffer both 
+the affects of poisoning and choking. Very dangerous.                    
+#
+"CALTROPS TRAP"
+
+Usage: trap caltrops
+
+This trap injures a victim's legs with sharp spikes. It inflicts loss of
+dexterity and movement, as well as some injury.
+#
+"DOOM TRAP"
+
+Usage: trap teleport
+
+This little baby is a real doom device. It combines effects of caltrops,
+gas and acid trap as well as tremendous damage. Extremly deadly to your
+victim.                       
+#                                              
+"POISONOUS DART TRAP"
+
+Usage: trap poison
+
+This is advanced version of a dart trap. It deals around 50-80 points of
+damage, but more important, it will poison your victim
+#  
+"KNIFE THROWING" "THROW DAGGERS" 
+
+Being their primary weapon of choice, thieves quickly become very adept in
+handling daggers. This skill will allow you to aim more accuratly and deal
+increased damage when throwing daggers at someone.  
+
+Note that throwing things at other characters is considered an offensive act.
+The probability of hitting your target is related to the size of the target,
+and dexterities of thrower and target.
+
+While fighting, you may throw things at whatever you are attacking without
+specifying a target. It's best to throw daggers this way but you may
+throw anything you want. See QUICKTHROW. Notice that you don't have to specify
+object to throw, you will simply use the first found dagger in your inventory
+instead.
+
+See also: THROW QUICKTHROW
+#
+DISTRACT
+      
+Usage: automatic
+               
+This skills allows you to distract your opponent, making them loose one
+attack in the next round of combat. This skills is automatic when practiced,
+and can be very effective once mastered.
+#   
+ENVENOM
+
+Usage: envenom <weapon|food|drinkcon> <poison>
+
+This skill allows the thief to poison either slash or pierce weapons, food and
+drinks.
+The poison on the blade will last for one successful hit before its potency
+is destroyed, and it will have to be envenomed again. The initial wound with
+the poisoned weapon will cause more damage depending upon the knowledge in
+in this skill. When poisoned, the victim will suffer poison damage and
+it's regeneration will be significantly decreased.
+
+For more info on poison see help on POISON.
+
+If you do not specify the <poison> parameter, default poison will be used.
+
+There are several advanced types of poison known to thieves
+
+LEVEL	POISON	     NEEDED	                EXTRA EFFECT
+-----   ------       ------                     ------------
+16      default      an amber stone             none
+21	slowdeath    poisonous ivy	        double initial damage
+26      quickdeath   a corpse of a red spider   triple initial damage
+31      mourner      shard of glass             str -2, con -2, dex -2
+36	agonizer     yellow mushroom	        str -3, con -3, dex -3
+41      petrifier    a black lotus		victim paralyzed for 3 rounds
+46      widowmaker   shell of a black widow     noone survived to tell
+
+See also: POISON
+#
+"DUAL CIRCLE"
+   
+Usage: circle
+Stats: DEX
+   
+This skill allows you to perform circle backstabs with both of your daggers.
+#
+DISGUISE
+                                                                            
+This very powerful skill allows you two things:                                                                            
+
+1. It is checked when you enter a room with the creature that may
+remember your character from a previous combat. A succesful disguise
+roll will keep the creature from remembering (and attacking) you.
+However, remaining in the room with the creature will eventually
+cause it to remember.    
+
+2. By typing 'disguise <text>' you may disguise yourself to whatever
+you wish!
+
+Example 1: disguise A huge dragon is is standing here.
+Example 2: disguise A strawberry bush grows in the corner.
+
+When a player look at the room he or she gets your disguised description,
+but only if your disguise skill exceeds four times their INT.
+#
+AMBUSH
+
+Usage: ambush [target]
+Stats: DEX
+
+Ambush is ranger or thieve's ability to hide somewhere, and instantly attack
+the intended victim as soon as the victim arrives. If you succeed you will
+deal extra damage to the surprised victim. Victim will be also stunned for
+one combat round. Best used in conjunction with traps and move hidden skill.
+
+> ambush
+You will ambush first person to enter.
+
+> ambush troll
+You will ambush anyone matching 'troll'.
+#
+"DANCE OF DAGGERS"
+
+Usage: daggerdance
+Stats: DEX
+
+This is one of the assassin's finest and deadliest skills.
+Dance of daggers is performed with two wielded daggers. Assassin starts
+spinning in a deadly dance, hitting everyone in the room. When someone
+is hit, skill check is then made (skill with daggers) and if successful,
+another hit will follow. This is repeated until assassin either tires
+or fails his skill check. If performed by a master, it can deal out
+tremendous amounts of damage. 
+
+"Knives in the sky, cries in the air, and blood on the ground."
+#
+CUTTHROAT "CUT THROAT"
+
+Usage: cutthroat <victim>
+Stats: DEX
+
+This deadly attack will perform automatic kill of monster 10 levels below you.
+If it doesn't, cutthroat will severaly cripple the defenses of any victim.
+It can only be used as the first attack in a combat sequence. Following a
+cutthroat attack, regardless whether it succeeds or not, the victim cannot
+execute any further commands until two rounds of combat have been completed.
+Furthermore, they will be choking and constantly losing hitpoints until the
+regain their breath.
+#
+TUMBLE                  
+
+Usage: tumble <toggles on/off>
+Stats: DEX                                     
+                                     
+Thieves, after many years of dodging blows of their opponents, become
+so adept, they are able to learn the more advanced skill of tumble. 
+When this skill is used in combat, the character becomes harder to hit
+by all attackers and chances to avoid being hit with the dodge skill
+are greatly increased.  However when tumble is toggled on, thief will
+be one round slower when using circle backstab.
+#
+REFRESH
+
+Usage: cast 'refresh' <victim>
+
+This spell will cure blindness and as well sate victim's hunger and quench
+it's thirst, cure drunkness and restore movement.
+#
+"GROUND CONTROL"
+
+Usage: automatic
+Stats: DEX
+
+This automatic skill comes in handy when warrior is forced to fight from
+the ground level. It will not only reduce any combat penalties for such
+unfortunate position, but will actually increase defense bonus (as warrior
+will fully concentrate on defense until he or she stands up).
+#
+"COMBAT JUMP"
+
+Usage: automatic
+Stats: DEX
+
+This combat move is simple but effective one. When opponent swings their
+weapon at you, you simply leap into the air making them miss.
+#
+HEADBUTT
+
+Usage: headbutt <target>
+Stats: STR
+
+This skill causes an incredible surge of hate and anger that allows the
+user to inflict damage by smashing his or her head against the target.
+Occasionally, headbutt can inflict a very great amount of damage indeed!
+After using this command, warriors are dazed for three rounds and unable
+to do anything.
+#
+LODGE
+
+Usage: lodge <target>
+
+By the use of this skill, an attempt is made to duck behind someone who is
+fighting on your side, making them the target of the person fighting you.
+Your poor friend will not notice that you caused them that trouble. Once
+a rogue, always a rogue.
+#
+"FAST HEALING"
+
+Usage: automatic
+
+Te fast healing skill improves wound healing rates, whether walking, resting,
+or sleeping. It represents knowledge of healing herbs or just general 
+toughness and stamina. Regeneration will improve as the skill is more
+learned.
+#
+"RESIST MAGIC"
+
+Usage: resist
+
+This skill allows an assassin to prepare him/herself for offensive magical
+encounters.  It last for a short period of time, and improves the assassin's
+spell resistance by lowering the incoming damage from magic attacks for up
+to 33%. 
+#
+ALERTNESS
+
+Usage: automatic
+
+This is automatic skill, and is checked whenever a thief would be attacked.
+If it succeeds, thief will immedately jump away from their aggressive
+attacker, making them miss their first strike. It will also give an edge
+in the combat, as thief will now strike his/her blows first.
+#
+TACTICS
+
+Usage: automatic
+
+This skill increases the damage you inflict when fighting monsters you have
+already killed before, as this time you will use your knowledge of their weak
+spots. Damage increase is as much as 25% percent, depending on how well
+the skill is learned. 
+
+"Know your foes' strengths as well as their weaknesses."
+#
+"FIRST AID"
+
+Usage: first <target>
+
+This skill allows you to restore small amount of target's hitpoints
+(more as the skill is improved). The skills uses 20 points of movement
+and can be used repeatedly.
+#
+NERVE
+
+Usage; nerve <target>
+
+This skill allows an assassin to weaken a victim by pressing down on
+sensitive pressure points.
+#
+"MONSTER LORE"
+
+Usage: look <target>
+
+This skill allows the thief to get additional information about the target
+monster or player. More information is given as the skill improves.
+#  
+"WARRIOR CODE"
+
+Over centuries warriors were not known only by their skill in combat,
+but their knowledge in things that concern combat. Warrior code is a simple
+set of rules that once learned, allow the warrior to understand his position
+better. 
+In game terms, this skill will allow you to get more information when you
+consider opponents. It will also allow you to 'feel' if an item is EGO, just
+by looking at it.
+
+See also: CONSIDER EGO  
+
+"My people, once were warriors."
+#
+"POWER PUSH" "POWER DRAG"                            
+
+
+Usage: push <person|object> <direction>
+       drag <person|object> <direction>
+Stats: STR
+       
+These skills improve your chances of pushing or draging someone/something 
+out of the room. In order to drag somone they must be lying on the floor.
+#
+RETREAT
+
+Skillful ranger, may decide to retreat from the battle when he estimates 
+the situation is to dangerous. It is somewhat similar to flee, but you will 
+always succeed, won't throw your weapon away and will loose no experience.
+Just type 'retreat' when you decide to do so.
+#
+CURE
+
+Usage: prayfor 'cure' [target]
+
+The single most important aspect of priestly life is the curing of the sick
+and the healing of the wounded. Because of this, the first thing a cleric is
+taught upon joining the priesthood is how to heal small wounds and bruises. 
+As his faith advances he becomes more adept at curing and is able to heal more
+severe wounds as well as some diseases. If the priest and the target do not
+follow the same deity, cure will not have it's full effect.
+
+Besides simple healing, cure prayer has this additional effects:
+
+Level          Effect
+-----          ------
+10             Cures drunkness
+15             Removes poison
+20             Cures blindness
+25             Cures plague
+                                                                  
+                                                                       
+"The power of faith is quiet. It is the leaf unmoved by the hurricane."
+#
+HEAL
+
+Usage       : prayfor 'heal' [target]
+
+Pinnacle of a cleric's early career, this spell heals great amounts of
+damage.  By calling of the power of the cleric's god, the cleric
+can channel the power of his deity through himself, healing for 100
+hitpoints. If the target is somebody else, they will be healed for 75
+points if they follow same deity as the priest or for 50 points if not.
+#
+SPY
+
+Usage: spy <direction>
+
+Spying helps a thief character gain information about the world 
+around him/her.  After one has typed 'spy', one can look in various 
+directions, and given that there is an exit in that direction, and nothing 
+blocking the way (like a closed door), then the contents of the other room 
+will be displayed.
+#
+STEAL
+
+Usage: steal <gold | object > <target>
+
+Use steal to steal gold or items from people. The chance of not getting
+caught depends on how well you have practiced steal, and if the person
+is asleep.
+
+Due to misuse of the steal command, it is now illegal to steal from other
+players.  Doing so will get you a flag for your trouble.
+
+Example:
+
+> steal gold drunk
+
+> steal sword mercenary
+  (only possible if he is sleeping)   
+  
+"The simplest way to make money in the Old world is to take it from
+someone else."
+#
+GOUGE
+
+Usage: gouge <target>
+
+The most nimble and dexterous of thieves, after years of experience
+stabbing their opponents, have perfected their aim, and are able to gouge
+out their foe's eyes, rendering them blind for the duration of their
+lives. In order to perform this correctly, the thief need to wield a 
+piercing weapon such as a dagger and  only type 'gouge' followed by the 
+name of their foe.
+#
+"MINOR PROTECTION"
+
+Usage: prayfor 'minor protection' [target]
+
+From the very beginning of their careers, priests learn the subtle ways of
+protecting themselves. One of the first protective prayers they will learn
+is called 'minor protection'. It will call out to the power of their deity
+to protect them, reducing the damage they receive in combat.
+If you want to call this prayer on someone else, you must first learn the
+next level protection prayer which is 'protection' or your deity will
+not answer.
+
+"Keep your chain mail, warrior. I have my own form of protection."
+-Halvor Arenson, Kjeldoran priest
+#
+ILLUMINATION
+
+Usage: prayfor 'illumination'
+
+This prayer calls down for power of your deity to bring light to your
+present location. It will stay illuminated for a certain period of time
+and then slowly fade.
+#
+PUNISHMENT
+
+Usage: prayfor 'punishment' [target]
+
+You can have all the protections in the world, but that will not remove your
+enemy. Punishment is a quick, but effective prayer, causing damage to your
+opponent, proportional to your level.
+
+"Behold! Dare you challange me?"
+#
+GATE
+
+Usage       : cast 'gate'
+ 
+This spell summons a demon from gate that caster opens  and charms it for a 
+certain amount of time depending on characters inteligence and charisma.
+
+Other spells to note: ANIMATE DEAD, CLONE, CONJURE ELEMENTAL
+#
+PEACE
+
+Usage: prayfor 'peace' 
+
+Using this prayer, you call for peace to your current location. 
+It stops all fighting in the room for players and creatures that
+are lower elvel then you.
+Furthermore it will clear the mobs memory, causing them to forget players
+that attacked them.
+#
+"VOICE OF TRUTH"
+
+Usage: prayfor 'voice of truth' <target>
+
+This prayer acts exactly like 'scroll of identify' for now.
+#
+REJUVENATE
+
+Usage: prayfor 'rejuvenate' [target]
+
+This prayer will restore target's movement points up to their maximum,
+and as well sate victim's hunger and quench their thirst.
+#
+JUDGMENT
+
+Usage: prayfor 'judgement' [target]
+
+During battle, a priest may call upon this spell to demand that God
+pass judgement over their foe. Be warned, those who follow the path
+opposite of yours face the might of God in its most potent manifestation.
+Even folk who are same side as you may be punished for actions they have
+made during their lifetime.
+#
+AMBIDEXTERITY
+
+Usage: automatic
+
+After years of practice with various weapons you become very adept at using
+both hands equally. This skill allows you to wield any weapon in the off-hand
+regardless it's weight. Furthermore, you become so trained that you
+gain an extra attack with the off-hand.
+#
+VISIONS
+
+Usage: prayfor 'visions' [target]
+
+This powerful prayer will allow you to see the world through the eyes of
+your victim for a brief moment. It will also reveal their inventory and
+equipment.
+#
+"BLINDING LIGHT"
+
+Usage: prayfor 'blinding light'
+
+This prayer asks uses the power of your deity to summon intense light
+into your current location. Anyone in that room not grouped with you may
+suffer the effects of temporarly blindness.
+#
+INSPIRATION
+
+Usage: prayfor 'inspiration'
+
+This powerful prayer will inspire both you and your group for combat.
+It will boost your hitpoints, energy and movement for a short period of time.
+#
+"SPIRITUAL ASYLUM"
+
+Usage: prayfor 'spiritual asylum'
+
+One of the most useful prayers in priest's carrier is the spiritual asylum
+prayer. Calling upon the power of your deity, you ask to preserve peace on your
+current location. The room will become peaceful and no act of harm may be
+performed at that location. The prayer lasts for a period of time, defined by
+your faith.
+#
+"SHIELD OF FAITH"
+
+Usage: prayfor 'shield of faith'
+
+This powerful gift is given to only the most faithful priests. An invisible
+protective shield will form around you, preserving you from harm. The effect
+of the shield is based on your faith, and it will even completly stop
+an enemy attack.
+#~

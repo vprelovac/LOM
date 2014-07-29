@@ -1,0 +1,108 @@
+#2801
+Wastedump~
+  This room is filled with bone shards and fragments. Something (or things)
+very big lives here.  A small plaque is on the wall.
+~
+28 9 0
+D0
+You reach civilization again.
+~
+~
+0 0 6124
+D2
+You find the stench is stronger inside.
+~
+~
+0 0 2803
+E
+plaque~
+* Please don't disturb us. *~
+S
+#2802
+Troll's Larder~
+  This room has blood and grime all over the walls.  You see maggots and
+other insects crawling up them.  The resident is definitely uncivilized.
+Half-eaten and rotting body parts scatter the floor, each having its own
+colony of flies, worms, and maggots.
+~
+28 9 0
+D1
+You welcome the fresh breeze coming from the east, but wrinkle your nose
+when
+the stench bears down on you once more.
+~
+~
+0 0 2803
+E
+Half-eaten body rotting corpse~
+YUCK!  You find worms crawling in and out this poor unfortunate former
+human.
+~
+S
+#2803
+Troll's Living Room~
+  This small cave opens to the north, south, east, and west.  You are
+overcome by the stench and consider turning around.
+~
+28 9 0
+D0
+There is a trail of bone shards and fragments leading north.
+~
+~
+0 0 2801
+D1
+Good God!  You spy corpses all over the floor in there.  It looks like a
+virtual graveyard in there.
+~
+~
+0 0 2804
+D2
+Whoa!  You reel back from the stench.  You believe you have found the
+source of this bad smell.
+~
+~
+0 0 2805
+D3
+You puke as you watch worms crawl between this room and the room west of
+here as they bore new holes into a corpse laying on the far wall of the 
+west room.
+~
+~
+0 0 2802
+S
+#2804
+The Playpen~
+  The walls are covered with blood (and body parts!?!?).  Plastered on the
+far wall you see what looks like a human arm.  A half-eaten body lies here 
+with its chest ripped out.  The predator seems disinterested in it.
+~
+28 9 0
+D3
+You welcome the fresh breeze coming from the west, but wrinkle your nose
+when the stench bears down on you once more.
+~
+~
+0 0 2803
+E
+arm rotting~
+This reminds you of what a baby would do to its formula during dinnertime,
+plastering it on the wall.
+~
+S
+#2805
+Troll's Bedroom~
+  Obviously something REALLY big lives here.  The stench is quite
+unbearable. There are piles and piles of rotten and half-eaten body parts 
+of animals, orcs, (and humans?) strewn across the floor.  There is a 
+larger, more prominent pile of rotten parts over in a corner.  It seems to 
+have been flattened by something.
+~
+28 13 5
+D0
+You welcome the fresh breeze coming from the north, but wrinkle your nose
+when the stench bears down on you once more.
+~
+~
+0 0 2803
+S
+$

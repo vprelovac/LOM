@@ -1,0 +1,4406 @@
+#373
+Mount Cortius~
+37699 35 2
+
+#AUTHOR Dephius~
+
+#RESETMSG &CThe chilling winds of Mount Cortius brush your skin.&g~
+
+E 1 37300 1 17 
+M 0 37303 3 37301 
+M 0 37303 3 37301 
+M 0 37303 3 37301 
+M 0 37304 3 37304 
+M 0 37304 3 37304 
+M 0 37304 3 37304 
+M 0 35824 1 35824 
+M 0 37302 1 37323 
+G 1 37300 1 
+M 0 37306 3 37323 
+M 0 37306 3 37323 
+M 0 37306 3 37323 
+M 0 37305 3 37307 
+M 0 37305 3 37307 
+M 0 37305 3 37307 
+M 0 37307 3 37333 
+M 0 37307 3 37333 
+M 0 37307 3 37333 
+M 0 37309 3 37378 
+M 0 37309 3 37378 
+M 0 37309 3 37378 
+M 0 37311 3 37386 
+M 0 37311 3 37386 
+M 0 37311 3 37386 
+M 0 37310 3 37382 
+M 0 37310 3 37382 
+M 0 37310 3 37382 
+M 0 37312 3 37391 
+M 0 37312 3 37391 
+M 0 37312 3 37391 
+M 0 37314 4 37399 
+M 0 37314 4 37399 
+M 0 37314 4 37399 
+M 0 37314 4 37399 
+M 0 37315 3 37404 
+M 0 37315 3 37404 
+M 0 37315 3 37404 
+M 0 37316 3 37408 
+M 0 37316 3 37408 
+M 0 37316 3 37408 
+M 0 37317 3 37411 
+M 0 37317 3 37411 
+M 0 37317 3 37411 
+M 0 37319 3 37417 
+M 0 37319 3 37417 
+M 0 37319 3 37417 
+M 0 37320 3 37420 
+M 0 37320 3 37420 
+M 0 37320 3 37420 
+M 0 37322 3 37424 
+M 0 37322 3 37424 
+M 0 37322 3 37424 
+M 0 37323 3 37427 
+M 0 37323 3 37427 
+M 0 37323 3 37427 
+M 0 37324 3 37431 
+M 0 37324 3 37431 
+M 0 37324 3 37431 
+M 0 37325 3 37500 
+M 0 37325 3 37500 
+M 0 37325 3 37500 
+M 0 37326 3 37502 
+M 0 37326 3 37502 
+M 0 37326 3 37502 
+M 0 37327 3 37504 
+M 0 37327 3 37504 
+M 0 37327 3 37504 
+M 0 37328 3 37507 
+M 0 37328 3 37507 
+M 0 37328 3 37507 
+M 0 37330 3 37511 
+M 0 37330 3 37511 
+M 0 37330 3 37511 
+M 0 37331 3 37303 
+M 0 37331 3 37303 
+M 0 37331 3 37303 
+M 0 37318 3 37510 
+M 0 37318 3 37510 
+M 0 37318 3 37510 
+M 0 37313 1 37513 
+M 0 37313 2 37514 
+M 0 37313 3 37512 
+M 0 37313 4 37515 
+M 0 37329 3 37509 
+E 1 37301 1 16 
+M 0 37329 3 37509 
+E 1 37301 1 16 
+M 0 37321 3 37422 
+E 1 37302 1 16 
+M 0 37321 3 37422 
+E 1 37302 1 16 
+M 0 37321 3 37422 
+E 1 37302 1 16 
+M 0 37308 3 37359 
+E 1 37303 1 16 
+M 0 37308 3 37359 
+E 1 37303 1 16 
+M 0 37308 3 37359 
+E 1 37303 1 16 
+M 0 37301 1 37520 
+S
+$~
+$end~
+
+
+#ROOMS
+#37300
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 c 5
+D2
+~
+~
+0 -1 37301
+D3
+~
+~
+0 -1 37517
+S
+#37301
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 8
+D0
+~
+~
+0 -1 37300
+D2
+~
+~
+0 -1 37302
+S
+#37302
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37301
+D2
+~
+~
+0 -1 37303
+S
+#37303
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37302
+D2
+~
+~
+0 -1 37304
+S
+#37304
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 2
+D0
+~
+~
+0 -1 37303
+D2
+~
+~
+0 -1 37305
+S
+#37305
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 2
+D0
+~
+~
+0 -1 37304
+D2
+~
+~
+0 -1 37306
+S
+#37306
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 2
+D0
+~
+~
+0 -1 37305
+D2
+~
+~
+0 -1 37307
+S
+#37307
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 2
+D0
+~
+~
+0 -1 37306
+D2
+~
+~
+0 -1 37308
+S
+#37308
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 1
+D0
+~
+~
+0 -1 37307
+D2
+~
+~
+0 -1 37309
+S
+#37309
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 1
+D0
+~
+~
+0 -1 37308
+D1
+~
+~
+0 -1 37310
+S
+#37310
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37311
+D3
+~
+~
+0 -1 37309
+S
+#37311
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37312
+D3
+~
+~
+0 -1 37310
+S
+#37312
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37313
+D3
+~
+~
+0 -1 37311
+S
+#37313
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37518
+D1
+~
+~
+0 -1 37314
+D3
+~
+~
+0 -1 37312
+S
+#37314
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37315
+D3
+~
+~
+0 -1 37313
+S
+#37315
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37316
+D3
+~
+~
+0 -1 37314
+S
+#37316
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37317
+D3
+~
+~
+0 -1 37315
+S
+#37317
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37318
+D3
+~
+~
+0 -1 37316
+S
+#37318
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37319
+D3
+~
+~
+0 -1 37317
+S
+#37319
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37320
+D3
+~
+~
+0 -1 37318
+S
+#37320
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37321
+D2
+~
+~
+0 -1 37319
+S
+#37321
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37322
+D2
+~
+~
+0 -1 37320
+S
+#37322
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37323
+D2
+~
+~
+0 -1 37321
+S
+#37323
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37324
+D2
+~
+~
+0 -1 37322
+S
+#37324
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37325
+D2
+~
+~
+0 -1 37323
+S
+#37325
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37326
+D2
+~
+~
+0 -1 37324
+S
+#37326
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37327
+D2
+~
+~
+0 -1 37325
+S
+#37327
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37328
+D2
+~
+~
+0 -1 37326
+S
+#37328
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37329
+D2
+~
+~
+0 -1 37327
+S
+#37329
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D2
+~
+~
+0 -1 37328
+D3
+~
+~
+0 -1 37330
+S
+#37330
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37329
+D3
+~
+~
+0 -1 37331
+S
+#37331
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37330
+D3
+~
+~
+0 -1 37332
+S
+#37332
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37331
+D3
+~
+~
+0 -1 37333
+S
+#37333
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37332
+D3
+~
+~
+0 -1 37334
+S
+#37334
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37333
+D3
+~
+~
+0 -1 37335
+S
+#37335
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37334
+D3
+~
+~
+0 -1 37336
+S
+#37336
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37335
+D3
+~
+~
+0 -1 37337
+S
+#37337
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37336
+D3
+~
+~
+0 -1 37338
+S
+#37338
+Heading up the Mountain~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37337
+D3
+~
+~
+0 -1 37339
+S
+#37339
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37338
+D2
+~
+~
+0 -1 37340
+S
+#37340
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37339
+D2
+~
+~
+0 -1 37341
+S
+#37341
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37340
+D2
+~
+~
+0 -1 37342
+S
+#37342
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37341
+D2
+~
+~
+0 -1 37343
+S
+#37343
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37342
+D2
+~
+~
+0 -1 37344
+S
+#37344
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37343
+D2
+~
+~
+0 -1 37345
+S
+#37345
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37344
+D2
+~
+~
+0 -1 37346
+S
+#37346
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37345
+D2
+~
+~
+0 -1 37347
+S
+#37347
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37346
+D2
+~
+~
+0 -1 37348
+S
+#37348
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37347
+D1
+~
+~
+0 -1 37349
+S
+#37349
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37350
+D3
+~
+~
+0 -1 37348
+S
+#37350
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37351
+D3
+~
+~
+0 -1 37349
+S
+#37351
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37352
+D3
+~
+~
+0 -1 37350
+S
+#37352
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37353
+D3
+~
+~
+0 -1 37351
+S
+#37353
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37354
+D3
+~
+~
+0 -1 37352
+S
+#37354
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37355
+D3
+~
+~
+0 -1 37353
+S
+#37355
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37356
+D3
+~
+~
+0 -1 37354
+S
+#37356
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37357
+D3
+~
+~
+0 -1 37355
+S
+#37357
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37358
+D3
+~
+~
+0 -1 37356
+S
+#37358
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37359
+D2
+~
+~
+0 -1 37357
+S
+#37359
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37360
+D2
+~
+~
+0 -1 37358
+S
+#37360
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37361
+D2
+~
+~
+0 -1 37359
+S
+#37361
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37362
+D2
+~
+~
+0 -1 37360
+S
+#37362
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37363
+D2
+~
+~
+0 -1 37361
+S
+#37363
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37364
+D2
+~
+~
+0 -1 37362
+S
+#37364
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37365
+D2
+~
+~
+0 -1 37363
+S
+#37365
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37366
+D2
+~
+~
+0 -1 37364
+S
+#37366
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D2
+~
+~
+0 -1 37365
+D3
+~
+~
+0 -1 37367
+S
+#37367
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37366
+D3
+~
+~
+0 -1 37368
+S
+#37368
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 0 5
+D1
+~
+~
+0 -1 37367
+D3
+~
+~
+0 -1 37369
+S
+#37369
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37368
+D3
+~
+~
+0 -1 37370
+S
+#37370
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37369
+D3
+~
+~
+0 -1 37371
+S
+#37371
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37370
+D3
+~
+~
+0 -1 37372
+S
+#37372
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37371
+D3
+~
+~
+0 -1 37373
+S
+#37373
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37372
+D3
+~
+~
+0 -1 37374
+S
+#37374
+Spiraling towards the top of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37373
+D3
+~
+~
+0 -1 37375
+S
+#37375
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37374
+D2
+~
+~
+0 -1 37376
+S
+#37376
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37375
+D2
+~
+~
+0 -1 37377
+S
+#37377
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37376
+D2
+~
+~
+0 -1 37378
+S
+#37378
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37377
+D2
+~
+~
+0 -1 37379
+S
+#37379
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37378
+D2
+~
+~
+0 -1 37380
+S
+#37380
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37379
+D2
+~
+~
+0 -1 37381
+S
+#37381
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37380
+D2
+~
+~
+0 -1 37382
+S
+#37382
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37381
+D2
+~
+~
+0 -1 37383
+S
+#37383
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 exy 5
+D0
+~
+~
+0 -1 37382
+D1
+~
+~
+0 -1 37384
+S
+#37384
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37385
+D3
+~
+~
+0 -1 37383
+S
+#37385
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37386
+D3
+~
+~
+0 -1 37384
+S
+#37386
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37387
+D3
+~
+~
+0 -1 37385
+S
+#37387
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37388
+D3
+~
+~
+0 -1 37386
+S
+#37388
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37389
+D3
+~
+~
+0 -1 37387
+S
+#37389
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37390
+D3
+~
+~
+0 -1 37388
+S
+#37390
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37391
+D3
+~
+~
+0 -1 37389
+S
+#37391
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37392
+D3
+~
+~
+0 -1 37390
+S
+#37392
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37393
+D2
+~
+~
+0 -1 37391
+S
+#37393
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37394
+D2
+~
+~
+0 -1 37392
+S
+#37394
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37395
+D2
+~
+~
+0 -1 37393
+S
+#37395
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37396
+D2
+~
+~
+0 -1 37394
+S
+#37396
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37397
+D2
+~
+~
+0 -1 37395
+S
+#37397
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37398
+D2
+~
+~
+0 -1 37396
+S
+#37398
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37399
+D2
+~
+~
+0 -1 37397
+S
+#37399
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D2
+~
+~
+0 -1 37398
+D3
+~
+~
+0 -1 37400
+S
+#37400
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37399
+D3
+~
+~
+0 -1 37401
+S
+#37401
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37400
+D3
+~
+~
+0 -1 37402
+S
+#37402
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37401
+D3
+~
+~
+0 -1 37403
+S
+#37403
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37402
+D3
+~
+~
+0 -1 37404
+S
+#37404
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37403
+D3
+~
+~
+0 -1 37405
+S
+#37405
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37404
+D3
+~
+~
+0 -1 37406
+S
+#37406
+Climbing above the base of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37405
+D3
+~
+~
+0 -1 37407
+S
+#37407
+Climbing through the Median of Mount Cortius~
+You head up the base of Mount Cortius every so on trying to view the
+top of the mountain. From here the Mountain is out of sight but you
+keep your pace and continue your directions.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37406
+D2
+~
+~
+0 -1 37408
+S
+#37408
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37407
+D2
+~
+~
+0 -1 37409
+S
+#37409
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37408
+D2
+~
+~
+0 -1 37410
+S
+#37410
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37409
+D2
+~
+~
+0 -1 37411
+S
+#37411
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37410
+D2
+~
+~
+0 -1 37412
+S
+#37412
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37411
+D2
+~
+~
+0 -1 37413
+S
+#37413
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37412
+D2
+~
+~
+0 -1 37414
+S
+#37414
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 exy 5
+D0
+~
+~
+0 -1 37413
+D1
+~
+~
+0 -1 37415
+S
+#37415
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37416
+D3
+~
+~
+0 -1 37414
+S
+#37416
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37417
+D3
+~
+~
+0 -1 37415
+S
+#37417
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37418
+D3
+~
+~
+0 -1 37416
+S
+#37418
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37419
+D3
+~
+~
+0 -1 37417
+S
+#37419
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37420
+D3
+~
+~
+0 -1 37418
+S
+#37420
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37421
+D3
+~
+~
+0 -1 37419
+S
+#37421
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37422
+D3
+~
+~
+0 -1 37420
+S
+#37422
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37423
+D2
+~
+~
+0 -1 37421
+S
+#37423
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37424
+D2
+~
+~
+0 -1 37422
+S
+#37424
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37425
+D2
+~
+~
+0 -1 37423
+S
+#37425
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37426
+D2
+~
+~
+0 -1 37424
+S
+#37426
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37427
+D2
+~
+~
+0 -1 37425
+S
+#37427
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37428
+D2
+~
+~
+0 -1 37426
+S
+#37428
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D2
+~
+~
+0 -1 37427
+D3
+~
+~
+0 -1 37429
+S
+#37429
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37428
+D3
+~
+~
+0 -1 37430
+S
+#37430
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37429
+D3
+~
+~
+0 -1 37431
+S
+#37431
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37430
+D3
+~
+~
+0 -1 37432
+S
+#37432
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37431
+D3
+~
+~
+0 -1 37433
+S
+#37433
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37432
+D3
+~
+~
+0 -1 37434
+S
+#37434
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37433
+D3
+~
+~
+0 -1 37435
+S
+#37435
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37434
+D2
+~
+~
+0 -1 37436
+S
+#37436
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37435
+D2
+~
+~
+0 -1 37437
+S
+#37437
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37436
+D2
+~
+~
+0 -1 37438
+S
+#37438
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37437
+D2
+~
+~
+0 -1 37439
+S
+#37439
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37438
+D2
+~
+~
+0 -1 37440
+S
+#37440
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37439
+D2
+~
+~
+0 -1 37441
+S
+#37441
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37440
+D1
+~
+~
+0 -1 37442
+S
+#37442
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37443
+D3
+~
+~
+0 -1 37441
+S
+#37443
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37444
+D3
+~
+~
+0 -1 37442
+S
+#37444
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37445
+D3
+~
+~
+0 -1 37443
+S
+#37445
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37446
+D3
+~
+~
+0 -1 37444
+S
+#37446
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37447
+D3
+~
+~
+0 -1 37445
+S
+#37447
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 e 5
+D0
+~
+~
+0 -1 37448
+D3
+~
+~
+0 -1 37446
+S
+#37448
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 e 5
+D0
+~
+~
+0 -1 37449
+D2
+~
+~
+0 -1 37447
+S
+#37449
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 e 5
+D0
+~
+~
+0 -1 37450
+D2
+~
+~
+0 -1 37448
+S
+#37450
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 e 5
+D0
+~
+~
+0 -1 37451
+D2
+~
+~
+0 -1 37449
+S
+#37451
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 e 5
+D0
+~
+~
+0 -1 37452
+D2
+~
+~
+0 -1 37450
+S
+#37452
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 e 5
+D0
+~
+~
+0 -1 37453
+D2
+~
+~
+0 -1 37451
+S
+#37453
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 e 5
+D2
+~
+~
+0 -1 37452
+D3
+~
+~
+0 -1 37454
+S
+#37454
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37453
+D3
+~
+~
+0 -1 37455
+S
+#37455
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37454
+D3
+~
+~
+0 -1 37456
+S
+#37456
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37455
+D3
+~
+~
+0 -1 37457
+S
+#37457
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37456
+D3
+~
+~
+0 -1 37458
+S
+#37458
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37457
+D3
+~
+~
+0 -1 37459
+S
+#37459
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37458
+D2
+~
+~
+0 -1 37460
+S
+#37460
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37459
+D2
+~
+~
+0 -1 37461
+S
+#37461
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37460
+D2
+~
+~
+0 -1 37462
+S
+#37462
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37461
+D2
+~
+~
+0 -1 37463
+S
+#37463
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37462
+D2
+~
+~
+0 -1 37464
+S
+#37464
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37463
+D1
+~
+~
+0 -1 37465
+S
+#37465
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37466
+D3
+~
+~
+0 -1 37464
+S
+#37466
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37467
+D3
+~
+~
+0 -1 37465
+S
+#37467
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37468
+D3
+~
+~
+0 -1 37466
+S
+#37468
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37469
+D3
+~
+~
+0 -1 37467
+S
+#37469
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37470
+D3
+~
+~
+0 -1 37468
+S
+#37470
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37471
+D2
+~
+~
+0 -1 37469
+S
+#37471
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37472
+D2
+~
+~
+0 -1 37470
+S
+#37472
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37473
+D2
+~
+~
+0 -1 37471
+S
+#37473
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37474
+D2
+~
+~
+0 -1 37472
+S
+#37474
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D2
+~
+~
+0 -1 37473
+D3
+~
+~
+0 -1 37475
+S
+#37475
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37474
+D3
+~
+~
+0 -1 37476
+S
+#37476
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37475
+D3
+~
+~
+0 -1 37477
+S
+#37477
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37476
+D3
+~
+~
+0 -1 37478
+S
+#37478
+Climbing through the Median of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37477
+D3
+~
+~
+0 -1 37479
+S
+#37479
+Climbing towards the snow of Mount Cortius~
+You are adventuring throughout the middle of Mount Cortius. Sounds of
+different types come from here that are much foreign then those heard
+on the base of the mountain.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37478
+D2
+~
+~
+0 -1 37480
+S
+#37480
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37479
+D2
+~
+~
+0 -1 37481
+S
+#37481
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37480
+D2
+~
+~
+0 -1 37482
+S
+#37482
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37481
+D2
+~
+~
+0 -1 37483
+S
+#37483
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37482
+D1
+~
+~
+0 -1 37484
+S
+#37484
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37485
+D3
+~
+~
+0 -1 37483
+S
+#37485
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37486
+D3
+~
+~
+0 -1 37484
+S
+#37486
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37487
+D3
+~
+~
+0 -1 37485
+S
+#37487
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37488
+D3
+~
+~
+0 -1 37486
+S
+#37488
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+ 
+&Y&OA large boulder lies to the west.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37489
+D2
+~
+~
+0 -1 37487
+D3
+boulder
+~
+~
+-391 37300 37521
+S
+#37489
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37490
+D2
+~
+~
+0 -1 37488
+S
+#37490
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37491
+D2
+~
+~
+0 -1 37489
+S
+#37491
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D2
+~
+~
+0 -1 37490
+D3
+~
+~
+0 -1 37492
+S
+#37492
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37491
+D3
+~
+~
+0 -1 37493
+S
+#37493
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37492
+D3
+~
+~
+0 -1 37494
+S
+#37494
+Climbing towards the snow of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37493
+D3
+~
+~
+0 -1 37495
+S
+#37495
+Climbing to the Peak of Mount Cortius~
+As the journey becomes of more elevation you start to see the snow 
+meaning you are getting close to the peak. The wind is much colder
+now against the skin of your body.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37494
+D2
+~
+~
+0 -1 37496
+S
+#37496
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37495
+D2
+~
+~
+0 -1 37497
+S
+#37497
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37496
+D2
+~
+~
+0 -1 37498
+S
+#37498
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37497
+D1
+~
+~
+0 -1 37499
+S
+#37499
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37500
+D3
+~
+~
+0 -1 37498
+S
+#37500
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37501
+D3
+~
+~
+0 -1 37499
+S
+#37501
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37502
+D3
+~
+~
+0 -1 37500
+S
+#37502
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37503
+D2
+~
+~
+0 -1 37501
+S
+#37503
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37504
+D2
+~
+~
+0 -1 37502
+S
+#37504
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 e 5
+D2
+~
+~
+0 -1 37503
+D3
+~
+~
+0 -1 37505
+S
+#37505
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37504
+D3
+~
+~
+0 -1 37506
+S
+#37506
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37505
+D3
+~
+~
+0 -1 37507
+S
+#37507
+Climbing to the Peak of Mount Cortius~
+The snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D1
+~
+~
+0 -1 37506
+D2
+~
+~
+0 -1 37508
+S
+#37508
+Climbing to the Peak of Mount Cortius~
+&Y&WThe snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37507
+D2
+~
+~
+0 -1 37509
+S
+#37509
+Climbing to the Peak of Mount Cortius~
+&Y&WThe snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37508
+D1
+~
+~
+0 -1 37510
+S
+#37510
+Climbing to the Peak of Mount Cortius~
+&Y&WThe snow has become plentiful now at this elevation no longer can you
+see ground but the pure snow of Altanos. The's few rays that reach here
+hit the snow and cause you to squint your eyes.
+~
+373 xy 5
+D3
+~
+~
+0 -1 37509
+D4
+~
+~
+0 -1 37511
+S
+#37511
+Beneath the Peak of Mount Cortius~
+&Y&WYou have almost reached the peak of Mount Cortius. The wind chills
+your bones withs it menancing temparture that seems to only get colder.
+Only paces away are the edge of the mountain where many dare not even
+consider to step to.
+~
+373 xy 5
+D0
+~
+~
+0 -1 37514
+D1
+~
+~
+0 -1 37512
+D2
+~
+~
+0 -1 37515
+D3
+~
+~
+0 -1 37513
+D4
+~
+~
+0 -1 37516
+D5
+~
+~
+0 -1 37510
+S
+#37512
+Towards the Edge of Mount Cortius~
+&Y&WYou are very close to the edge of the mountain you dare not take a
+step further as you glance at how steep the fall is. Many of ice
+shards stick from the fall as you dare not glance at the drop. Fresh
+blood drips from some of the shards as you cringe from such a thought
+of a drop of such height and its fate that it would seal.
+~
+373 xy 1
+D3
+~
+~
+0 -1 37511
+D7
+~
+~
+0 -1 37514
+D9
+~
+~
+0 -1 37515
+S
+#37513
+Towards the Edge of Mount Cortius~
+&Y&WYou are very close to the edge of the mountain you dare not take a
+step further as you glance at how steep the fall is. Many of ice
+shards stick from the fall as you dare not glance at the drop. Fresh
+blood drips from some of the shards as you cringe from such a thought
+of a drop of such height and its fate that it would seal.
+~
+373 xy 1
+D1
+~
+~
+0 -1 37511
+D6
+~
+~
+0 -1 37514
+D8
+~
+~
+0 -1 37515
+S
+#37514
+Towards the Edge of Mount Cortius~
+&Y&WYou are very close to the edge of the mountain you dare not take a
+step further as you glance at how steep the fall is. Many of ice
+shards stick from the fall as you dare not glance at the drop. Fresh
+blood drips from some of the shards as you cringe from such a thought
+of a drop of such height and its fate that it would seal.
+~
+373 xy 1
+D2
+~
+~
+0 -1 37511
+D8
+~
+~
+0 -1 37512
+D9
+~
+~
+0 -1 37513
+S
+#37515
+Towards the Edge of Mount Cortius~
+&Y&WYou are very close to the edge of the mountain you dare not take a
+step further as you glance at how steep the fall is. Many of ice
+shards stick from the fall as you dare not glance at the drop. Fresh
+blood drips from some of the shards as you cringe from such a thought
+of a drop of such height and its fate that it would seal.
+~
+373 xy 1
+D0
+~
+~
+0 -1 37511
+D6
+~
+~
+0 -1 37512
+D7
+~
+~
+0 -1 37513
+S
+#37516
+The Top of Mount Cortius~
+&Y&WYou stand at the Top of Mount Cortius, at this height it is hard
+to keep site of the clouds as you attempt tolook for the ground.
+Looking up are the &Os&Yt&Wa&Yr&Os&y &Y&Wthey vagely resisatate the energy of
+there heat. The air here is thin as your lungs thrive to grasp
+all the contents that will contribute to your glancing at such
+beauty for a moment longer.
+&W&Y
+&W&YA small plaque lies here with enscriptions upon it.
+~
+373 cexy 1
+D5
+~
+~
+0 -1 37511
+E
+stars~
+&Y&W*             *                        *             
+&Y&W                        *                            
+&Y&W    *                           *        *          &B*&W              *   
+&Y&W      *           &O*&W                                &B*&b*&B*&W
+&Y&W                 &O*&Y*&O*&W                              &B*&b*&Y&W*&b*&B*
+&Y&W                &O*&Y*&W*&Y*&O*&W                              &B*&b*&B*&W 
+&Y&W    *            &O*&Y*&O*&W                                &B*&W       *
+&Y&W       *          &O*&W                                                  
+&Y&W             *                                                   *       
+&Y&W                          *                         *                    * 
+&Y&W          *                        *                              *    
+&Y&W                   *                                                   
+&Y&W    *                          *               *             *         
+&Y&W                          *                                            
+&Y&W               *                            &c*                     &Y&W*
+&Y&W      *                                    &c*&C*&c*&W                   
+&Y&W                           *              &c*&C*&Y&W*&C*&c*&W            
+&Y&W                                    *      &c*&C*&c*&W              &Y&W*
+&Y&W                 *      *                   &c*&W                        
+&Y&W     &g*                            &Y&W*                     *            
+&Y&W    &g*&G*&g*                                                              
+&Y&W   &g*&G*&Y&W*&G*&g*                                   &Y&W*               
+&Y&W    &g*&G*&g*                                                    &Y&W*     
+&Y&W     &g*&W            &Y&W*                          *                     
+~
+E
+plaque~
+The stars above you are only saw on top of Mount Cortius. Each one
+was given a great meaning to hold within it as long as it shine bright.
+It is that the stars have never dimmed because of the meaning each
+one holds. Other tiny stars surround them to protect them from any
+harm towards them. This the star circle of Elatinus, and within it
+it holds the power of no other creation of its kind.
+~
+>
+rand_prog 3~
+MPFORCE ALL look stars
+~
+|
+S
+#37517
+The Entrance to Mount Cortius~
+You stand at the entrance of Mount Cortius. The mountain is well
+known for the view at the very top, its journey is a long but the
+view is remarkable. It is said by those who have made it back, very
+few, that you can see the stars are crealy from the peak of the
+mountain.
+ &RA sign of warning is stuck in the ground here.&g
+~
+373 ce 2
+D1
+~
+~
+0 -1 37300
+D2
+~
+~
+0 -1 20804
+E
+sign~
+&RBeware! The mountain is neutral pkill NPK up till near the peak
+where it becomes CPK. In NPK all player killing is welcome and in CPK
+when you die you actually lose equipment.
+~
+S
+#37518
+On the way to a Small House~
+Here is a small turn from the main road as you head to house that you
+cannot make out from this distance.  The path is rough and not traveled
+by most as it meanders through the mountain side.
+~
+373 cexy 1
+D0
+~
+~
+0 -1 37519
+D2
+~
+~
+0 -1 37313
+S
+#37519
+On the way to a Small House~
+A small house sits north from here as you travel more on the rough path
+you here a women loudly talking to her self. Sounds from the main trail
+are not quite as clear as you choose your destination.
+~
+373 cexy 1
+D0
+~
+~
+0 -1 37520
+D2
+~
+~
+0 -1 37518
+S
+#37520
+The Home of the Wiseman~
+Here lies the the Home of the Wiseman. A table lies here with old food
+and papers with arcane writing on them. A wife busyily rushed around
+the area attempting to find something as she waits for her husband.
+~
+373 cexy 1
+D2
+~
+~
+0 -1 37519
+S
+#37521
+Entrance to the Heart of the Mountain~
+You stand before a massive cavern leading throughout the heart of the
+mountain. There is a gigantic boulder to the east, blocking out passage
+of all those who are unworthy. The rock floor here seems treaded on
+quite commonly and recently, mysteriously.
+~
+373 0 1
+D1
+~
+~
+-263 37300 37488
+S
+#37600
+Floating in a void~
+~
+373 c 1
+S
+$~
+$end~
+
+
+#MOBILES
+#37300
+Cortius Wise Man~
+A wise man~
+The Cortius wise man rest here awaiting new adventurers.
+~
+~
+b 0 0 C
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 13
+1 3 0
+C
+> time_prog 8~
+emote utters some arcane words.
+MPGOTO 37520
+~
+> time_prog 9~
+give 100 coins wife
+say Ahh, my wife, this is what I have earnedon this day.
+~
+> time_prog 10~
+say Now I must depart, my wife...
+MPGOTO 16500
+~
+> greet_prog 100~
+if ispc($n)
+say Hello $n, Welcome to my Home... Mount Cortius legendary indeed
+say for what it contains! Adventure as you well my friend.
+else
+endif
+~
+|
+#37301
+Wiseman Wife~
+A Wiseman's Wife~
+A Wiseman's wife runs out nervousley talking to her self.
+~
+~
+bgm 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#37302
+lost mountain climber~
+a lost mountain climber~
+A lost mountain climber is here trying to find his way back.
+~
+~
+gm 0 0 C
+50 0 0 3d22+96 2d5+5
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+#37303
+noisy fly~
+A noisy fly~
+A noisy fly busily goes throughout the mountain.
+~
+A fly busily goes abou the mountain
+attempting to find his way to safety.
+~
+g w 0 C
+5 0 0 1d17+42 2d3+2
+10 0
+8 8 0
+13 13 13 13 13 13 13
+12 1 2
+C
+#37304
+baby hobgoblin~
+A baby hobgoblin~
+A baby hobgoblin cries here trying to find its own kind.
+~
+A baby hobgoblin cries as it is
+lost from its own kind.
+~
+g 0 0 C
+5 0 0 1d17+42 2d3+2
+10 0
+8 8 1
+13 13 13 13 13 13 13
+2 1 2
+C
+#37305
+small snake~
+A small snake~
+A small snake is here slithering about the mountain.
+~
+A small snake slithers up the
+mountain at its own pace.
+~
+g 0 0 C
+5 0 0 1d17+42 2d3+2
+10 0
+8 8 1
+13 13 13 13 13 13 13
+12 2 2
+C
+#37306
+orange beetle~
+A orange beetle~
+A orange beetle flutters around the mountain
+~
+A orange beetle is here fluttering
+about the mountain contemplating
+what it shall land on next.
+~
+g 0 -350 C
+4 0 0 1d17+42 2d3+2
+10 0
+8 8 1
+13 13 13 13 13 13 13
+0 2 2
+C
+#37307
+mountain gargoyle~
+A mountain gargoyle~
+A mountain gargoyle is here contemplating his stealth.
+~
+A moutanin gargoyle is here
+contemplating his stealth and
+as to what he will use it for
+next.
+~
+g s -350 C
+4 0 0 1d17+42 2d3+2
+10 0
+8 8 1
+13 13 13 13 13 13 13
+12 2 2
+C
+#37308
+small ogre~
+A small ogre~
+A small ogre stands here as he exhibits his rage.
+~
+A small ogre stands here exhibiting
+his rage since he has the blood of
+an ogre within him.
+~
+g 0 -350 C
+10 0 0 3d22+96 2d5+5
+20 0
+8 8 1
+13 13 13 13 13 13 13
+0 2 1
+C
+#37309
+mountain iguana~
+A mountain iguana~
+A mountain iguana is here sensing direction with his tounge.
+~
+A mountain ignuana is here
+flicking its tounge about.
+~
+g 0 -350 C
+10 0 0 3d22+96 2d5+5
+20 0
+8 8 1
+13 13 13 13 13 13 13
+0 2 2
+C
+#37310
+huge eagle~
+A huge eagle~
+A huge eagle is here with his wings spread at full length.
+~
+A huge eagle is here with its wings
+spread to a maximum length and its
+claws full length.
+A menacing wolf is here contemplating
+its next attack and on who. Your eyes
+meet and you strive to look away and
+not attract attention.
+A huge eagle is here with its wings
+spread to a maximum length and its
+claws full length.
+~
+g 0 -350 C
+10 0 0 3d22+96 2d5+5
+20 0
+8 8 1
+13 13 13 13 13 13 13
+0 2 2
+C
+#37311
+large wolf~
+A large wolf~
+A large wolf is here contemplating its next attack.
+~
+A menacing wolf is here contemplating
+its next attack and on who. Your eyes
+meet and you strive to look away and
+not attract attention.
+~
+g 0 -350 C
+10 0 0 3d22+96 2d5+5
+20 0
+8 8 1
+13 13 13 13 13 13 13
+15 2 2
+C
+#37312
+cliff shadow~
+A cliff shadow~
+A cliff shadow is here.
+~
+A cliff shadow is here hiding behind
+the cliffs and crevices of the mountain.
+~
+g t -350 C
+10 0 0 3d22+96 2d5+5
+20 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 2
+C
+#37313
+snow golem~
+A snow golem~
+A snow golem is here roaming about Cortius.
+~
+A snow golem is here roaming about
+the mountain looking for more snow.
+~
+bg 0 350 C
+10 0 0 3d22+96 2d5+5
+20 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 2
+C
+#37314
+large boar~
+A large boar~
+A lage boar is here grunting.
+~
+A large boar is here rutting up
+the ground and gruntting aggresively.
+~
+g 0 350 C
+10 0 0 3d22+96 2d5+5
+20 0
+8 8 1
+13 13 13 13 13 13 13
+15 3 2
+C
+#37315
+huge hobgoblin~
+A huge hobgoblin~
+A huge hobgoblin is here with a menacing grin.
+~
+A huge hobgoblin is here with a
+menacing grin upon his face as he
+plots what to do next.
+~
+m 0 350 C
+10 0 0 5d30+161 3d5+13
+20 0
+8 8 1
+13 13 13 13 13 13 13
+2 3 2
+C
+#37316
+stealth jaguar~
+A stealth jaguar~
+A jaguar is here sneaking about silently.
+~
+A jaguar is here blending within
+the mountain as it tempts the thought
+of what it will go after next.
+~
+g 0 350 C
+10 0 0 5d30+161 3d5+13
+20 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 2
+C
+#37317
+dark panther~
+A dark panther~
+A dark panther is here showings its teeth.
+~
+A dark panther is here showings its
+razor sharp teeth.
+~
+g 0 350 C
+10 0 0 5d30+161 3d5+13
+20 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 2
+C
+#37318
+snow panther~
+A snow panther~
+A snow panther is here looking for white snow to blend with.
+~
+A snow panther is here showings its
+teeth while looking for thew hite of
+snow to blend with.
+~
+g 0 0 C
+10 0 0 5d30+161 3d5+13
+20 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 2
+C
+#37319
+lost dwarf~
+A lost dwarf~
+A lost dwarf is here trying to find his way home.
+~
+A lost dwarf is here trying to
+find his way back home.
+A angry wolverine is here with eyes
+full of red, that glow with a vibrant
+color and aura of hate.
+A lost dwarf is here trying to
+find his way back home.
+~
+g 0 0 C
+10 0 0 5d30+161 3d5+13
+20 0
+8 8 1
+13 13 13 13 13 13 13
+3 3 2
+C
+#37320
+angry wolverine~
+A angry wolverine~
+A wolverine is here growling and digging in the dirt.
+~
+A angry wolverine is here with eyes
+full of red, that glow with a vibrant
+color and aura of hate.
+~
+g 0 0 C
+10 0 0 5d30+161 3d5+13
+20 0
+8 8 1
+13 13 13 13 13 13 13
+3 3 2
+C
+#37321
+strong kobold~
+A strong kobold~
+A strong kobold is here flexing his muscles.
+~
+A strong kobold is here flexing
+his huge muscles as he is seperated
+from the weaker kobolds.
+~
+g 0 0 C
+15 0 0 5d30+161 3d5+13
+20 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 1
+C
+#37322
+large ape~
+A large ape~
+A large ape is here plotting where to hang from.
+~
+A large ape is here as he
+hangs from nearby cliffs
+and branches making odd noises.
+~
+g 0 0 C
+10 0 0 5d30+161 3d5+13
+20 0
+8 8 1
+13 13 13 13 13 13 13
+15 3 2
+C
+#37323
+mountain lion~
+A mountain lion~
+A mountain lion is here displaying how buff he is.
+~
+A huge mountain lion is here
+has he prowls around knowing
+exactly how buff he is.
+A large gorgon is here
+looking around suspectibly.
+A huge mountain lion is here
+has he prowls around knowing
+exactly how buff he is.
+~
+g 0 0 C
+20 0 0 7d45+293 4d5+10
+30 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 2
+C
+#37324
+gorgon~
+A gorgon~
+A gorgon is here looking very suspicious.
+~
+A large gorgon is here
+looking around suspectibly.
+~
+g 0 0 C
+20 0 0 7d45+293 4d5+10
+30 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 2
+C
+#37325
+mean goblin~
+A mean goblin~
+A mean goblin is here stomping about with rage.
+~
+A mean goblin is here as he
+stomps about with rage.
+~
+g 0 0 C
+20 0 0 7d45+293 4d5+10
+30 0
+8 8 1
+13 13 13 13 13 13 13
+2 3 2
+C
+#37326
+vicious half-troll~
+A vicious half-troll~
+A vicious half-troll is here with a grimacing look on his face.
+~
+A vicious half-troll is here
+with a grimacing look on his
+face waiting for someone to
+even try and attack him.
+~
+g 0 0 C
+20 0 0 7d45+293 4d5+10
+30 0
+8 8 1
+13 13 13 13 13 13 13
+8 3 2
+C
+#37327
+calm lizardman~
+A calm lizardman~
+A calm lizardman is here looking around dully.
+~
+A calm lizardman is here looking
+about the mountain with a dull
+expression upon his face.
+~
+g 0 0 C
+20 0 0 7d45+293 4d5+10
+30 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 2
+C
+#37328
+young gith explorer~
+A young gith explorer~
+A young gith explorer is here mapping the mountain.
+~
+A young gith explorer is here
+mapping out the mountain with
+a crude quill.
+A angry orc is marching around
+looking for others to pick on.
+A young gith explorer is here
+mapping out the mountain with
+a crude quill.
+~
+g 0 0 C
+20 0 0 7d45+293 4d5+10
+50 0
+8 8 1
+13 13 13 13 13 13 13
+12 3 2
+C
+#37329
+angry orc~
+A angry orc~
+A angry orc is here looking for a victim to pick on.
+~
+A angry orc is marching around
+looking for others to pick on.
+~
+g d 0 C
+20 0 0 7d45+293 4d5+10
+50 0
+8 8 1
+13 13 13 13 13 13 13
+9 3 1
+C
+#37330
+snow dragon~
+A snow dragon~
+A snow dragon is here letting out a low roar.
+~
+A snow dragon is here looking about
+breathing in frost and air alike.
+~
+g 0 0 C
+20 0 0 7d45+293 4d5+10
+50 0
+8 8 1
+13 13 13 13 13 13 13
+11 3 2
+C
+#37331
+large bear~
+A large bear~
+A large bear is here stumbling about the mountain.
+~
+A large bear is here letting out
+a roar of hatred as he stumbles
+about the mountain.
+~
+g 0 0 C
+20 0 0 7d45+293 4d5+10
+50 0
+8 8 1
+13 13 13 13 13 13 13
+11 3 2
+C
+#37332
+Cortius Wiseman~
+The Cortius Wiseman~
+An Eldar Wiseman is here awaiting adventurers.
+~
+~
+bm 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+> greet_prog 100~
+say Many years have I watched the coming and going of adventurers. For
+say a price of 70 coins I will transfer you to the top of the mountain.
+~
+> bribe_prog 70~
+say So be it $n!
+mptransfer $n 37516
+~
+> time_prog 9~
+mpgoto wiseman wife
+~
+> time_prog 10~
+give 70 coins wife
+give 70 coins wife
+give 70 coins wife
+give 70 coins wife
+give 70 coins wife
+give 70 coins wife
+give 70 coins wife
+say Today's earnings my wife!
+~
+> time_prog 11~
+mpgoto 16500
+~
+|
+$~
+$end~
+
+
+#OBJECTS
+#37300
+cavern key~
+a cavern key~
+A key to a lost cavern lies here.~
+~
+18 0 ao
+0 0 0 0
+1 0 0
+E
+bless war sword~
+A war sword lies here with arcane enscription on its blade that read:
+ 
+I fight against the Orc's with this very sword, for them to have our
+only weapon will be the day of our death. With this sword I will defeat
+the orc's.
+~
+#37301
+blessed war sword~
+A blessed war sword~
+A sword lies here with a aura radiating from it.~
+~
+5 0 an
+12 5 5 3
+1 0 0
+E
+blessed war sword~
+A war sword lies here with arcane enscription on its blade that read:
+I fight against the Orc's with this very sword, for them to have our
+only weapon will be the day of our death. With this sword I will defeat
+the orc's.
+~
+A
+1 1
+A
+4 1
+#37302
+curved axe~
+A curved axe~
+A curved axe lies here reflecting its surroundings.~
+~
+5 0 an
+12 4 5 3
+1 0 0
+A
+4 1
+#37303
+large club~
+A large wooden club~
+A large wooden club lies here.~
+~
+5 0 an
+12 4 4 7
+1 0 0
+A
+4 1
+$~
+$end~
+
+
+#SHOPS
+$end~

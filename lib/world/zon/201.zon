@@ -1,0 +1,99 @@
+#201
+Shaolin Temple~
+20199 50 2
+D 0 20104 3 1    Set   #20104 - Mountain shrine door to WEST as closed
+D 0 20105 1 1    Set   #20105 - A dark cave door to EAST as closed
+D 0 20108 0 1    Set   #20108 - A Side Court door to NORTH as closed
+D 0 20108 2 1    Set   #20108 - A Side Court door to SOUTH as closed
+D 0 20108 3 1    Set   #20108 - A Side Court door to WEST as closed
+D 0 20109 1 1    Set   #20109 - The Dining Hall door to EAST as closed
+D 0 20111 2 1    Set   #20111 - The Monks' Bunk door to SOUTH as closed
+D 0 20112 0 1    Set   #20112 - The Disciples' Bunk door to NORTH as closed
+D 0 20113 1 1    Set   #20113 - A Side Court door to EAST as closed
+D 0 20119 5 1    Set   #20119 - The Grand Hall door to DOWN as closed
+D 0 20126 5 1    Set   #20126 - A Side Hall door to DOWN as closed
+D 0 20131 4 1    Set   #20131 - The Dungeons door to UP as closed
+D 0 20115 5 2    Set   #20115 - The Luohan Chamber door to DOWN as closed and locked
+D 0 20124 1 2    Set   #20124 - The Library door to EAST as closed and locked
+D 0 20125 3 2    Set   #20125 - A Secret Chamber door to WEST as closed and locked
+D 0 20131 0 2    Set   #20131 - The Dungeons door to NORTH as closed and locked
+D 0 20131 1 2    Set   #20131 - The Dungeons door to EAST as closed and locked
+D 0 20131 2 2    Set   #20131 - The Dungeons door to SOUTH as closed and locked
+D 0 20131 3 2    Set   #20131 - The Dungeons door to WEST as closed and locked
+D 0 20132 1 2    Set   #20132 - A prison cell door to EAST as closed and locked
+D 0 20133 3 2    Set   #20133 - An empty prison door to WEST as closed and locked
+D 0 20134 0 2    Set   #20134 - Cell of Wuhua door to NORTH as closed and locked
+D 0 20135 2 2    Set   #20135 - A female prison cell door to SOUTH as closed and locked
+D 0 20136 1 2    Set   #20136 - A Mysterious Room door to EAST as closed and locked
+D 0 20137 3 2    Set   #20137 - A Workshop door to WEST as closed and locked
+M 0 20115 1 20123    Place The Abbot of Shaolin to The Abbot's Chamber (max 1)
+G 1 20121 4         Equip abbot's Jiasha,  (max 0)
+G 1 20122 4         Equip abbot's fozhu, second object worn around neck (max 0)
+G 1 20123 4          Equip the Staff of Abbot,  (max 0)
+O 0 20102 10 20121    Place a lighted candle to A Master's Chamber (max 0)
+O 0 20102 10 20122    Place a lighted candle to A Master's Chamber (max 0)
+O 0 20102 10 20123    Place a lighted candle to The Abbot's Chamber (max 0)
+O 0 20102 10 20127    Place a lighted candle to A Guest Room (max 0)
+O 0 20102 10 20128    Place a lighted candle to A Guest Room (max 0)
+O 0 20136 10 20129    Place a lighted candle to A Guest Room (max 0)
+O 0 20102 10 20130    Place a lighted candle to A Guest Room (max 0)
+O 0 20107 10 20125    Place a huge treasure to A Secret Chamber (max 0)
+O 0 20110 10 20125    Place a Jiuyingzhenjing manual to A Secret Chamber (max 0)
+O 0 20106 10 20110    Place a steaming hot bun to The Kitchen (max 0)
+O 0 20137 10 20137    Place the mortal shell of Boom to A Workshop (max 0)
+M 0 20112 1 20124    Place The Master of Books to The Library (max 1)
+E 1 20118 5 7         Equip monk's garters, worn on legs (max 0)
+E 1 20119 5 12         Equip a monk's robe, worn about body (max 0)
+G 1 20101 5         Give a lighted candle (max 0)
+G 1 20111 5         Give a Yijinjing manual (max 0)
+M 0 20113 1 20121    Place The Drunken Master to A Master's Chamber (max 1)
+E 1 20118 5 7         Equip monk's garters, worn on legs (max 0)
+E 1 20119 5 12         Equip a monk's robe, worn about body (max 0)
+G 1 20109 5         Give a Jiuyangzhenjing manual (max 0)
+M 0 20114 1 20122    Place The Master Trainer to A Master's Chamber (max 1)
+E 1 20118 5 7         Equip monk's garters, worn on legs (max 0)
+E 1 20119 5 12         Equip a monk's robe, worn about body (max 0)
+G 1 20125 5         Equip a cane shield, worn as shield (max 0)
+G 1 20114 5         Equip a chain whip, wielded as a weapon (max 0)
+M 0 20104 1 20117    Place A monk to A Training Arena (max 1)
+G 1 20116 5         Equip a horse spear, wielded as a weapon (max 0)
+M 0 20104 1 20117    Place A monk to A Training Arena (max 1)
+G 1 20116 5         Equip a horse spear, wielded as a weapon (max 0)
+M 0 20103 3 20118    Place A disciple to A Training Arena (max 3)
+M 0 20108 2 20114    Place The wooden man to The Chamber of Wooden Men (max 2)
+M 0 20110 2 20115    Place The Luohan to The Luohan Chamber (max 2)
+G 1 20115 5         Give a bronze key (max 0)
+M 0 20106 1 20105    Place Your own inner demon to A dark cave (max 1)
+M 0 20105 1 20131    Place A monk guard to The Dungeons (max 1)
+E 1 20120 5 5         Equip a cane armor, worn on body (max 0)
+G 1 20125 5         Equip a cane shield, worn as shield (max 0)
+G 1 20113 5         Equip a half-moon knife, wielded as a weapon (max 0)
+M 0 20105 1 20131    Place A monk guard to The Dungeons (max 1)
+E 1 20120 5 5        Equip a cane armor, worn on body (max 0)
+G 1 20125 5         Equip a cane shield, worn as shield (max 0)
+G 1 20113 5         Equip a half-moon knife, wielded as a weapon (max 0)
+G 1 20131 5         Give a chain of keys (max 0)
+M 0 20107 2 20132    Place An evil monk to A prison cell (max 2)
+E 1 20119 5 12         Equip a monk's robe, worn about body (max 0)
+M 0 20111 1 20134    Place Wuhua to Cell of Wuhua (max 1)
+E 1 20117 5 17         Equip a Kamasutra, held (max 0)
+M 0 20116 1 20136    Place The Jinshen to A Mysterious Room (max 1)
+E 1 20112 5 17         Equip the Dragon Sabre, wielded as a weapon (max 0)
+G 1 20115 5         Give a bronze key (max 0)
+M 0 20101 2 20109    Place A monk child to The Dining Hall (max 2)
+M 0 20101 2 20128    Place A monk child to A Guest Room (max 2)
+M 0 20109 1 20111    Place The monk warrior to The Monks' Bunk (max 1)
+E 1 20120 5 5         Equip a cane armor, worn on body (max 0)
+E 1 20118 5 8         Equip monk's garters, worn on feet (max 0)
+E 1 20119 5 12         Equip a monk's robe, worn about body (max 0)
+G 1 20125 5           Equip a cane shield, worn as shield (max 0)
+E 1 20114 5 17         Equip a chain whip, wielded as a weapon (max 0)
+G 1 20106 5         Give a steaming hot bun (max 0)
+M 0 20102 3 20135    Place An imprisoned nun to A female prison cell (max 3)
+G 1 20124 5         Give a lock of nun's hair (max 0)
+M 0 20117 2 20127    Place The visiting guest to A Guest Room (max 2)
+G 1 20106 5         Give a steaming hot bun (max 0)
+P 1 20108 5 20137    Put the Flame of Mercy in the mortal shell of Boom (max 0)
+P 1 20107 5 20137    Put a huge treasure in the mortal shell of Boom (max 0)
+M 0 20118 1 246    Place a crazy old man to (#246) (max 1)
+S

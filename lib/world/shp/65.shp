@@ -1,0 +1,58 @@
+CircleMUD v3.0 Shop File~
+#6501~
+6504
+6505
+6510
+6511
+6512
+3022
+-1
+1.50
+0.50
+5
+9
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+6503
+0
+6516
+-1
+0
+23
+0
+0
+#6502~
+3000
+3003
+3009
+3031
+-1
+1.50
+0.50
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+6504
+0
+6535
+-1
+0
+23
+0
+0
+$~

@@ -1,0 +1,235 @@
+#19600
+hunchback isaac being deformed~
+Isaac~
+A strange and deformed being stands here tugging on a bell rope.
+~
+The being before you just happens to be named Isaac, although how
+you know that is beyond you, but he is a poor and deaf hunchback,
+once hired by the High Priest of the cathedral to ring the bells.
+He is quite large, but appears smaller due to his deformity, and
+looks to be quite strong.
+~
+2 8 1000 E
+16 5 3 5d11+650 8d2+7
+100 -100
+8 8 1
+Str: 25
+E
+#19601
+ghoul corpse-like being~
+the ghoul~
+A strange corpse-like being is here attacking a man in black robes!
+~
+This being looks like a long dead and dessicated human corpse.  Its
+neat translucent skin is taut about its bones and you think you can
+see strange little white movements underneath it.
+~
+70 136 700 E
+8 13 5 2d10+90 1d12+4
+0 -100
+8 8 0
+E
+#19602
+ghoul corpse-like being~
+the ghoul~
+A strange corpse-like being is plodding towards the woman!
+~
+This being looks like a long dead and dessicated human corpse.  Its
+neat translucent skin is taut about its bones and you think you can
+see strange little white movements underneath it.
+~
+70 136 700 E
+8 13 5 2d10+90 1d12+4
+0 -100
+8 8 0
+E
+#19603
+esmerelda priestess woman~
+Esmerelda the priestess~
+A woman dressed in dark robes watches the approaching undead in fear.
+~
+Dressed in solid black, Esmerelda is the current High Priestess of this
+Cathedral.  Funny how you had never heard of a female high priestess
+before this time, isn't it?  And even stranger, you know her name...
+how distinctly odd.  Anyways, Esmerelda seems to be watching the undead
+before her advancing ever so slowly, maybe you can try to save her!
+~
+166 136 -900 E
+17 4 -1 2d12+700 3d6+3
+2000 -100
+8 8 2
+Class: 2
+E
+#19604
+priest man~
+the man~
+A man, dressed in black and silver robes, is fighting off some undead!
+~
+This man is wearing a black and silver robe and is swinging a mace made
+of what looks to be obsidian.  He seems to be sorely beset by the undead
+before him.
+~
+162 136 -750 E
+13 8 1 5d10+450 3d5+1
+1250 -100
+8 8 1
+Class: 2
+E
+#19605
+wyrenthoth dracolich dragon undead~
+Wyrenthoth~
+It is on this ledge that Wyrenthoth sits, preening him... itself.
+~
+Hmmm... seems that you have managed to walk in on Wyrenthoth during one
+of his... its preening sessions.  You don't exactly understand what there
+is to see beyond the bones.  Oh, wait, you didn't even know what the
+thing in front of you was did you?  Well, you take the time to look, for
+once, and notice that it is a large collection of bones.  And it just so
+happens that this large collection of bones serves to form what looks to
+be a dragon, although the odd bone or two seems to be out of place.  It
+does appear that Wyrenthoth is a dracolich.
+~
+194 136 900 E
+27 0 -7 2d12+1100 4d9+7
+10000 -100
+8 8 0
+E
+#19606
+vampire erich man~
+Erich~
+A pale white man dressed in a black stands before you.
+~
+The man before you is dressed in all black except for his cape which
+has a red satin lining.  He has dark hair and cold green eyes that
+catch and reflect every movement.  Erich, as his name happens to be,
+is the master vampire in control of all of the evil undead which
+infest this cathedral.
+~
+38 136 -1000 E
+19 2 0 6d15+750 3d6+8
+7000 -100
+8 8 1
+E
+#19607
+giant zombie~
+the giant zombie~
+A rather large zombie is lumbering about here, quite aimlessly.
+~
+The zombie giant seems to be wandering around crushing those who
+oppose the... it.  It is an enormous mass of rotting flesh and
+filth that smells, to put it bluntly, really bad.
+~
+2 136 -1000 E
+25 0 -5 50d15+5000 3d8+12
+0 -100
+8 8 0
+E
+#19608
+skeleton human~
+the human skeleton~
+A skeletal human is standing here, looking rather confused.
+~
+You look upon this being with a good deal of curiosity.  Then it
+begins to twitch, and looks around.  You are rather shocked, until
+you realize that it seems to be looking for someone in particular.
+~
+66 136 -1000 E
+6 15 8 2d10+80 2d5+3
+100 -100
+8 8 0
+E
+#19609
+zombie corpse~
+the zombie~
+A corpse is standing upright here, wandering these halls.
+~
+The thing before you is a rotting corpse, complete with flesh
+falling off of it in small chunks.  It is dressed in the remains
+of a peasant's clothing and seems to have a single purpose in
+mind (not that its mind could probably handle any more than that).
+~
+66 136 -1000 E
+7 15 5 4d12+100 2d5+2
+0 -100
+8 8 0
+E
+#19610
+shadow~
+the shadow~
+A shadow made of inky blackness moves along the wall towards you.
+~
+The moving shape of blackness looks like it is a shadow that
+lost its owner at some point.  It looks rather malignant.  To
+put it mildly.
+~
+66 136 -800 E
+8 13 3 4d8+100 2d5+3
+0 -100
+8 8 0
+E
+#19611
+wight~
+the wight~
+A hideous creature is here, mere skin and bones, howling madly.
+~
+This ghastly apparition fills you with nigh-absolute terror.  Your
+first conscious thought is to run.  Run fast and far that is.
+However, your second thought is to look at it a little more closely.
+In doing so, you notice that it seems to be made of mummified flesh,
+stretched over pointed bones.  Also, it has strangely glowing red
+eyes.
+~
+66 136 -900 E
+8 13 3 4d8+100 2d5+3
+0 -100
+8 8 0
+E
+#19612
+wraith~
+the wraith~
+A strange humanoid shape moves towards you.  It is a wraith!
+~
+This thing looks vaguely humanoid, but does not appear to be made
+of flesh but rather seems to be made of a strange electricity in
+the air.
+~
+66 1048712 -800 E
+8 13 3 4d8+100 2d5+3
+0 -100
+8 8 0
+E
+#19613
+banshee form humanoid mother superior~
+the banshee~
+A strange humanoid form stands in one corner of the room, singing.
+~
+The once beautiful complexion of this female has deteriorated under the
+ravages of time and decay, leaving only a pale resemblence to the former
+living elf.  Looking closely at the clothing she wears, you notice that
+it appears to be the soul of the cathedral's Mother Superior.
+~
+66 136 800 E
+15 6 0 10d10+100 2d6+6
+0 -100
+8 8 2
+E
+#19614
+ghost abbott~
+the ghost of the Abbott~
+A portly ghost is sitting on an ethereal bed, singing softly to himself.
+~
+This lost soul looks like he was once the Abbott of the cathedral.
+he is a portly fellow and even though he is long since dead, he looks
+rather jovial.  When you look at him, he stops singing for a minute,
+looks up at you, smiles sadly, and then continues his song.
+~
+66 136 750 E
+12 9 1 3d10+120 2d6+4
+0 -100
+8 8 1
+E
+$
+
+
+
+Mob special remarks

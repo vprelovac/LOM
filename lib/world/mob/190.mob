@@ -1,0 +1,315 @@
+#19001
+Elf Guardian Elven~
+the Elven guardian~
+An Elven Guardian is standing here guarding the portal.
+~
+This is a robust built elf in his best years and as far as you can tell.
+~
+10 8 1000 E
+20 -2 -2 3d6+400 3d5+11
+1000 0
+8 8 1
+Str: 16
+Dex: 15
+Int: 20
+Wis: 16
+Con: 15
+Cha: 14
+E
+#19002
+Elf Soldier guard elven~
+the Elven soldier~
+An Elven Soldier is standing here guarding the path.
+~
+This is an elf in his youth, sent by the chief of the village guards, 
+to guard the path from any intruder not wanted here.
+~
+4106 8 1000 E
+13 2 3 1d12+204 1d8+9
+654 0
+8 8 1
+Str: 15
+Dex: 15
+Int: 18
+Wis: 15
+Con: 15
+E
+#19003
+Elf Soldier guard elven~
+the Elven guard~
+An Elven Guard is walking around, protecting the villagers.
+~
+This is an elf in her youth, sent by the chief of the village guards, 
+to guard the village from unwanted intruders.
+~
+4104 8 1000 E
+14 3 1 1d12+228 1d8+10
+654 0
+8 8 2
+Str: 15
+Dex: 15
+Int: 21
+Wis: 15
+Con: 15
+E
+#19004
+Elf weaponsmith smith elven~
+the Elven weaponsmith~
+A Large Elven weaponsmith is walking behind the counter.
+~
+You notice a tired look on his face.
+~
+10 0 900 E
+23 -8 2 6d10+390 1d8+12
+10000 0
+8 8 1
+Str: 16
+Dex: 15
+Int: 15
+Wis: 16
+Con: 15
+Cha: 14
+E
+#19005
+Elf armoursmith smith elven~
+the Elven armoursmith~
+A Large Elven armoursmith is walking around behind the counter.
+~
+You notice a tired look on his face.
+~
+10 0 900 E
+23 -8 2 6d10+390 1d8+12
+10000 0
+8 8 1
+Str: 16
+Dex: 17
+Int: 15
+Wis: 16
+Con: 15
+Cha: 14
+E
+#19006
+Elf mage elven~
+the Elven mage~
+A Tiny Elven mage is floating behind the counter.
+~
+You notice a tired look on his face.
+~
+188426 0 900 E
+23 -8 2 6d10+390 1d8+12
+10000 0
+8 8 1
+Str: 16
+Dex: 15
+Int: 15
+Wis: 16
+Con: 15
+Cha: 14
+E
+#19007
+Elf Quintor grocer~
+the Elf named Quintor~
+An Elf named Quintor is here counting money behind the counter.
+~
+You notice a tired look on his face.
+~
+10 0 900 E
+23 -8 2 6d10+390 1d8+12
+10000 0
+8 8 1
+Str: 16
+Dex: 17
+Int: 15
+Wis: 16
+Con: 15
+Cha: 14
+E
+#19008
+elf bartender elven~
+the Elven bartender~
+A fat Elf is standing behind the bar taking orders.
+~
+You notice a tired look on his face.
+~
+10 0 900 E
+23 -8 2 6d10+390 1d8+12
+2000 0
+8 8 1
+Str: 16
+Dex: 16
+Int: 15
+Wis: 16
+Con: 15
+Cha: 14
+E
+#19009
+elf receptionist elven~
+the Elven receptionist~
+A nice-looking Elf is standing in the reception.
+~
+You notice a tired look on her face.
+~
+10 0 900 E
+23 -8 2 6d10+390 1d8+12
+2000 0
+8 8 2
+Str: 16
+Dex: 16
+Int: 15
+Wis: 16
+Con: 15
+Cha: 14
+E
+#19010
+elf chief elven guard~
+the Chief of the elven guard.~
+A lazy-looking Elf lies on his bed snoring loudly.
+~
+This elf looks somehow more experienced than any guard in the village guard.
+By the look of the uniform he is probably the chief of the village guard.
+You notice some scars on the hands and one on the neck of the elf. He has
+obviously been in battle in his days.
+~
+8 136 1000 E
+31 -8 -8 1d50+823 4d6+17
+500 0
+4 4 1
+Str: 19
+Dex: 18
+Int: 18
+Wis: 16
+Con: 16
+Cha: 15
+E
+>greet_prog   20~
+emote snores loudly.
+~
+|
+#19011
+Elf Soldier guard elven~
+the Elven guard~
+An Elven Guard is playing cards at the table.
+~
+This is an elf in his youth, sent by the chief of the village guards, 
+to guard the path from any intruder not wanted here.
+~
+4106 8 1000 E
+15 1 0 1d12+255 1d8+11
+654 0
+6 6 1
+Str: 15
+Dex: 15
+Int: 22
+Wis: 15
+Con: 15
+E
+#19012
+Elf bard Elven~
+the Elven bard~
+An Elven bard is sitting here playing on his lute and singing.
+~
+This Elf is dressed in green, whith brown pants. He is playing on a 
+fine rose-tree lute with silver strings.
+~
+10 8 750 E
+19 -8 -1 3d6+200 3d3+6
+1000 0
+6 6 1
+Str: 17
+Dex: 17
+Int: 20
+Wis: 15
+Con: 15
+Cha: 14
+E
+#19013
+druid old man human~
+the old Druid~
+An old Druid is standing on the hill chanting an arcane spell.
+~
+This is a human in his old days. He is dresed in a heavy cloak and 
+holds a Staff made of oak in his hands.
+~
+78 524424 1 E
+24 -3 -4 3d12+532 1d8+20
+10000 0
+8 8 1
+Str: 16
+Dex: 16
+Int: 25
+Wis: 16
+Con: 16
+Cha: 15
+E
+#19014
+elemental fire huge~
+a Huge Fire Elemental~
+A Huge Fire Elemental is standing here burning everything.
+~
+You see only Flames in the shape of a humanoid.
+~
+75 8 1 E
+29 -4 -6 1d12+752 4d8+11
+1000 0
+8 8 0
+Str: 16
+Dex: 17
+Int: 15
+Wis: 16
+Con: 16
+Cha: 15
+E
+#19015
+large enlarged animal bear~
+the enlarged Bear~
+A enlarged Bear is looming around the glade.
+~
+It is large, brown and furry.
+~
+42 0 0 E
+15 -4 -4 2d10+504 1d6+19
+112 0
+8 8 0
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+E
+#19016
+enlarged animal large tiger~
+the Enlarged Tiger~
+A Enlarged Tiger is looming around in the glade.
+~
+You notice that it is large, striped and furry.
+~
+42 0 0 E
+14 -3 -3 2d10+504 1d8+19
+98 0
+8 8 0
+Str: 15
+Dex: 15
+Int: 14
+Wis: 15
+Con: 15
+E
+#19017
+elf elven champion~
+the Champion~
+An elven Champion is standing here looking at the trophies.
+~
+The elf in front of you is quite good looking and robust build (for an elf).
+As far as you can see.
+~
+151624 41096 1000 E
+30 -7 -6 1d400+1602 1d6+26
+450000 0
+8 8 0
+Str: 17
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 15
+E
+$

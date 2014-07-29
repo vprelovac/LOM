@@ -1,0 +1,223 @@
+#3700
+sub mace~
+a sub issue mace~
+You see a sub issue mace here.~
+~
+5 65600 8193
+0 2 3 7
+5 0 5
+E
+sub mace~
+You see a mace of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3701
+sub dagger~
+a sub issue dagger~
+You see a sub issue dagger here.~
+~
+5 65600 8193
+0 2 3 11
+5 0 5
+E
+sub dagger~
+You see a dagger of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3702
+sub sword~
+a sub issue sword~
+You see a sub issue sword here.~
+~
+5 65600 8193
+0 2 3 3
+5 0 5
+E
+sub sword~
+You see a sword of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3703
+sub vest~
+a sub issue vest~
+You see a sub issue vest here.~
+~
+9 65536 9
+-2 0 0 0
+5 0 5
+E
+sub vest~
+You see a vest of great but cheap craftsmanship.  Stamped on the side is:
+Midgaard Technologies Inc.
+~
+#3704
+sub shield~
+a sub issue shield~
+You see a sub issue shield here.~
+~
+9 65536 513
+-2 0 0 0
+5 0 5
+E
+sub shield~
+You see a shield of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3705
+sub cloak~
+a sub issue cloak~
+You see a sub issue cloak here.~
+~
+9 65536 5
+-2 0 0 0
+5 0 5
+E
+sub cloak~
+You see a cloak of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3706
+sub helmet~
+a sub issue helmet~
+You see a sub issue helmet here.~
+~
+9 65536 17
+-2 0 0 0
+5 0 5
+E
+sub helmet~
+You see a helmet of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3707
+sub leggings~
+a pair of sub issue leggings~
+You see a pair of sub issue leggings here.~
+~
+9 65536 33
+-2 0 0 0
+5 0 5
+E
+sub leggings~
+You see leggings of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3708
+sub boots~
+a pair of sub issue boots~
+You see a pair of sub issue boots here.~
+~
+9 65536 65
+-2 0 0 0
+5 0 5
+E
+sub boots~
+You see boots of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3709
+sub gloves~
+a pair of sub issue gloves~
+You see a pair of sub issue gloves here.~
+~
+9 65536 129
+-2 0 0 0
+5 0 5
+E
+sub gloves~
+You see gloves of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3710
+sub sleeves~
+a pair of sub issue sleeves~
+You see a pair of sub issue sleeves here.~
+~
+9 65536 257
+-2 0 0 0
+5 0 5
+E
+sub sleeves~
+You see sleeves of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3711
+sub cape~
+a sub issue cape~
+You see a sub issue cape here.~
+~
+9 65536 1025
+-2 0 0 0
+5 0 5
+E
+sub cape~
+You see a cape of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3712
+sub belt~
+a sub issue belt~
+You see a sub issue belt here.~
+~
+9 65536 2049
+-2 0 0 0
+5 0 5
+E
+sub belt~
+You see a belt of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3713
+sub bracer~
+a sub issue bracer~
+You see a sub issue bracer here.~
+~
+9 65536 4097
+-2 0 0 0
+5 0 5
+E
+sub bracer~
+You see a bracer of great but cheap craftsmanship.  Imprinted on the side is:
+Midgaard Technologies Inc.
+~
+#3714
+key~
+a key~
+You see a very important key here!~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#3715
+diploma~
+a mud school diploma~
+You see a mud school diploma here.~
+undefined~
+8 64 16385
+0 0 0 0
+1 0 5
+E
+diploma~
+This document shows that you have graduated from Mud School.
+It also has magical effects on your abilities if you hold it!
+
+Hatchet the Silver Knight
+Midgaard Technologies Inc.
+~
+A
+5 1
+A
+4 1
+#3716
+banner~
+a war banner~
+A war banner is on the floor here.~
+~
+1 65 1
+0 0 -1 0
+1 0 5
+E
+banner~
+This is the official Merc war banner to see you through the darkest realm!
+~
+$~

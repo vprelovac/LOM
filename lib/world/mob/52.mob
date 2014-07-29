@@ -1,0 +1,119 @@
+#5200
+beholder~
+The mighty beholder~
+You meet a beholder's deadly gaze!
+~
+It has a large central eye that projects an anti-magic ray and ten
+eyestalks atop the round body which can do anything from charm you
+to disintegrate you.  Beholders are not known for their personality.
+~
+162 8 -870 E
+25 6 0 25d25+250 6d6+5
+22560 -100
+8 8 0
+E
+#5201
+lamia beast~
+The lamia~
+A strange lamia stands here waiting for her next meal.
+~
+This is a creature with the upper torso of a beautiful woman, but the lower
+body of a four-legged beast.  She licks her lips as she looks at you greedily.
+~
+100 0 -999 E
+9 12 1 9d9+99 1d5+4
+1000 -100
+8 8 2
+E
+#5202
+mimic chest~
+The mimic~
+A strong chest lies in one corner of the room.
+~
+A strong, wooden chest bound with iron straps and a heavy pad-lock on the
+front.
+~
+228 262144 10 E
+11 10 1 11d11+110 2d7+0
+0 -100
+8 8 0
+E
+#5203
+mimic boulder~
+The mimic~
+Two skeletons lie crushed under a large boulder.
+~
+
+~
+228 262144 -10 E
+11 10 1 11d11+110 3d5+1
+0 -100
+8 8 0
+E
+#5204
+mimic floor~
+The mimic~
+The stone floor of this house has been ripped apart.
+~
+
+~
+228 262144 -140 E
+11 10 1 11d11+110 2d6+0
+0 -100
+8 8 0
+E
+#5205
+mimic pottery~
+The mimic~
+Some broken shards of pottery lie strewn about the floor.
+~
+
+~
+228 262144 200 E
+11 10 0 11d11+110 2d5+1
+0 -100
+8 8 0
+E
+#5206
+mimic planks~
+The mimic~
+A few wooden planks lie stacked on a low shelf.
+~
+
+~
+228 262144 0 E
+11 9 0 11d11+110 4d3+1
+0 -100
+8 8 0
+E
+#5207
+lizard horned~
+The horned lizard~
+A small horned lizard flicks his tongue and slithers away.
+~
+A cute little lizard, that is, if you like reptiles!
+~
+128 0 0 E
+3 17 4 1d4+30 1d4+0
+0 -100
+8 8 0
+E
+#5208
+golem stone~
+The stone golem~
+In the corner you see a large, stone golem faithfully standing watch.
+~
+It is a big chunk of rock that has been magically formed into a giant
+stone creature. He stands here still guarding the city.
+~
+2 8192 600 E
+30 1 -6 6d10+769 3d7+18
+4250 -100
+8 8 0
+Str: 25
+E
+$
+
+
+
+Mob special remarks

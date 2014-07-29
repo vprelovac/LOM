@@ -1,0 +1,85 @@
+trebace promeniti opise soba koje su se spajale sa ovim erijama..
+
+4, 6, 15, 18, 21, 29, 36, 44, 78, 81, 107, 120, 173, 191, 193, 197, 198, 211         
+9, 54 (55, 56), 92, 100, 102, 150
+79 in
+
+5000H 5000M 5000V N> areas
+ Num Name                                   Avg (Min-Max)  Creator
+ --- ----                                   -------------  -------
+   3 Plains of the North                     11 ( 1 - 28)  Unknown
+*  4 Fun House                               14 ( 1 - 65)  Unknown
+*  6 New Ofcol                               14 ( 1 - 37)  Unknown
+*  9 River Island Of Minos                    9 ( 2 - 26)  Unknown
+* 11 Shire                                   10 ( 2 - 50)  Unknown
+* 15 The Straight Path                       25 (13 - 30)  Unknown
+N 16 Wyvern's Tower                          10 ( 5 - 19)  Unknown
+* 18 Little Haven                            20 ( 7 - 33)  Unknown
+  19 Astral Plane                            28 ( 8 - 46)  Unknown
+N 20 Dwarven Catacombs                       11 ( 5 - 30)  Unknown
+* 21 Dangerous Neighborhood                   7 ( 5 - 16)  Unknown
+N 22 Dragon Tower                            19 ( 5 - 51)  Unknown
+  23 The Keep of Mahn-Tor                    20 ( 2 - 33)  Unknown
+  25 The High Tower Of Magic                 15 ( 1 - 50)  Unknown
+  28 Troll Den                                6 ( 3 - 13)  Unknown
+* 29 Land of the Fire Newts                   3 ( 1 - 13)  Unknown
+  30 Northern Midgaard Main City             29 ( 1 - 60)  Unknown
+  31 Southern part of Midgaard                7 ( 1 - 33)  Unknown
+N 33 The Three Of Swords                     13 ( 5 - 30)  Unknown
+  34 Chapel Catacombs                        16 ( 5 - 31)  Unknown
+  35 Miden'nir                                6 ( 4 - 10)  Unknown
+* 36 The Chessboard of Midgaard              19 ( 6 - 36)  Unknown
+** 37 Mud School                               9 ( 1 - 50)  Unknown
+N 40 Moria, Levels 1-2                        7 ( 3 - 13)  Unknown
+* 44 The Circus                               5 ( 1 - 31)  Unknown
+N 47 Dwarven Kingdom of Juargan              11 ( 5 - 27)  Unknown
+  50 The Great Eastern Desert                 8 ( 3 - 24)  Unknown
+  51 Drow City                               14 ( 1 - 25)  Unknown
+  52 Dwarven Forest and ruins of Thalos      11 ( 3 - 30)  Unknown
+* 53 The Great Pyramid                       15 ( 5 - 41)  Unknown
+* 54 New Thalos                              12 ( 1 - 41)  Unknown
+  60 Haon-Dor, Light Forest                   1 ( 1 - 40)  Unknown
+  61 Haon-Dor, Dark Forest                   11 ( 3 - 30)  Unknown
+  62 The Orc Enclave                          5 ( 1 - 15)  Unknown
+  63 Arachnos                                12 ( 2 - 26)  Unknown
+N 64 Rand's Tower                            14 ( 8 - 19)  Unknown
+  65 Dwarven Kingdom                         15 ( 3 - 35)  Unknown
+  66 Sundhaven                               16 ( 1 - 40)  Unknown
+  70 The Sewer, First Level                   7 ( 1 - 19)  Unknown
+  72 The Sewer Maze                           7 ( 6 - 14)  Unknown
+* 78 Valley of the Elves                      8 ( 3 - 28)  Unknown
+* 81 Plane of Nirvana                        38 (30 - 60)  Unknown
+** 82 Zoo of Midgaard                         18 ( 1 - 60)  Unknown
+  83 Gnome Village                            7 ( 1 - 50)  Unknown
+N 89 Holy Grove                               9 ( 2 - 20)  Unknown
+* 92 Elemental Canyon                        11 ( 1 - 30)  Unknown
+N 99 Ghenna                                  36 ( 1 - 49)  Unknown
+*100 Crystalmir Lake                          9 ( 4 - 45)  Unknown
+ 101 Midgaard Graveyard                      16 ( 1 - 44)  Unknown
+*102 Town Of Solace                          20 ( 5 - 51)  Unknown
+*107 Murky Land                              14 ( 1 - 43)  Unknown
+N115 Highlands                               27 (10 - 44)  Unknown
+*120 Rome                                    13 ( 3 - 34)  Unknown
+ 143 Snotling Camp                            5 ( 1 - 15)  Unknown
+*150 King Welmar's Castle                    29 ( 1 - 53)  Unknown
+N170 Haunted House                           22 ( 4 - 51)  Unknown
+*173 Realm of Camelot                        30 ( 1 - 59)  Unknown
+ 186 Newbie Zone                              3 ( 1 -  8)  Unknown
+N190 Elven woods                             19 (13 - 31)  Unknown
+*191 Smurf Village                            3 ( 1 - 10)  Unknown
+ 192 Vougon Gnome Village                     5 ( 1 - 15)  Unknown
+*193 Olympus                                 26 ( 4 - 54)  Unknown
+N195 Ancalador                               15 ( 8 - 29)  Unknown
+ 196 Abandoned Cathedral                     10 ( 6 - 27)  Unknown
+*197 Werith's Wayhouse                        9 ( 1 - 26)  Unknown
+*198 Dwarven Day Care                         2 ( 1 -  8)  Unknown
+N200 Goblin Caves                            12 ( 1 - 23)  Unknown
+N201 Shaolin Temple                          18 ( 1 - 33)  Unknown
+*211 The Lizard Lair Safari                   9 ( 6 - 20)  Unknown
+ 220 Ultima                                  22 ( 2 - 55)  Unknown
+ 225 City of Solak                           42 (10 - 70)  Unknown
+ 230 Infernal Pit of Kerjim                  42 (20 - 70)  Unknown
+ 231 Tree of Yggdrasil                       37 (22 - 48)  Unknown
+ 300 The Demon Hive (9 circles)              39 (25 - 72)  Perun
+
+Use 'areas <num>' to get detailed information on particular area.

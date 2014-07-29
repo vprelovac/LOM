@@ -1,0 +1,77 @@
+#196
+Abandoned Cathedral~
+19699 42 2
+M 0 19600 1 19618    Place Isaac to The Bell Room (max 1)
+M 0 19601 2 19608    Place the ghoul to The High Pews (max 2)
+M 0 19601 2 19610    Place the ghoul to The Clergical Chambers (max 2)
+M 0 19602 1 19609    Place the ghoul to At The Altar (max 1)
+M 0 19603 1 19609    Place Esmerelda the priestess to At The Altar (max 1)
+E 1 19602 3 3         Equip a sapphire amulet, first object worn around neck (max 3)
+G 1 19603 1         Give an ivory key (max 1)
+O 1 19600 1 19609    Place a fresh corpse to At The Altar (max 1)
+P 1 19601 1 19600    Put a long, curved knife in a fresh corpse (max 1)
+O 1 19606 1 19611    Place a dark potion to The Inner Sanctum (max 1)
+O 1 19607 1 19611    Place an ivory staff to The Inner Sanctum (max 1)
+O 1 19608 1 19611    Place a mid-sized pile of coins to The Inner Sanctum (max 1)
+M 0 19604 2 19608    Place the man to The High Pews (max 2)
+M 0 19604 2 19610    Place the man to The Clergical Chambers (max 2)
+M 0 19605 1 19649    Place Wyrenthoth to The Large Cavern (max 1)
+E 1 19610 1 17         Equip a beautiful golden key, held (max 1)
+M 0 19606 1 19641    Place Erich to The Antechamber (max 1)
+E 1 19609 2 16         Equip the rune sword, wielded as a weapon (max 2)
+E 1 19611 1 17         Equip a strange blood key, held (max 1)
+E 1 19613 4 12         Equip a black cape with a red satin lining, worn about body (max 4)
+E 1 19614 6 3         Equip an onyx necklace, first object worn around neck (max 6)
+O 1 19604 1 19648    Place the coffin to The Tomb Of Princess Evalynn (max 1)
+P 1 19605 1 19604    Put the corpse of Evalynn in the coffin (max 1)
+P 1 19616 1 19605    Put the Holy Avenger in the corpse of Evalynn (max 1)
+M 0 19607 1 19635    Place the giant zombie to A Crypt (max 1)
+E 1 19615 99 16         Equip a giant halberd, wielded as a weapon (max 99)
+M 0 19608 5 19600    Place the human skeleton to The Cathedral Courtyard (max 5)
+M 0 19608 5 19601    Place the human skeleton to The Cathedral Entrance (max 5)
+M 0 19608 5 19602    Place the human skeleton to An Alcove (max 5)
+M 0 19608 5 19603    Place the human skeleton to An Alcove (max 5)
+M 0 19608 5 19601    Place the human skeleton to The Cathedral Entrance (max 5)
+M 0 19609 3 19623    Place the zombie to A Cloistered Hall (max 3)
+M 0 19609 3 19619    Place the zombie to The Cloister Hall (max 3)
+M 0 19609 3 19621    Place the zombie to A Monk's Room (max 3)
+M 0 19610 5 19623    Place the shadow to A Cloistered Hall (max 5)
+M 0 19610 5 19625    Place the shadow to A Monk's Room (max 5)
+M 0 19610 5 19626    Place the shadow to A Cloistered Hall (max 5)
+M 0 19610 5 19627    Place the shadow to A Cloistered Hall (max 5)
+M 0 19610 5 19629    Place the shadow to A Nun's Room (max 5)
+M 0 19611 9 19632    Place the wight to A Crypt (max 9)
+M 0 19611 9 19633    Place the wight to A Crypt (max 9)
+M 0 19611 9 19634    Place the wight to A Crypt (max 9)
+M 0 19611 9 19635    Place the wight to A Crypt (max 9)
+M 0 19611 9 19636    Place the wight to A Crypt (max 9)
+M 0 19611 9 19637    Place the wight to A Crypt (max 9)
+M 0 19611 9 19638    Place the wight to A Crypt (max 9)
+M 0 19611 9 19639    Place the wight to A Crypt (max 9)
+M 0 19611 9 19640    Place the wight to A Crypt (max 9)
+M 0 19612 4 19642    Place the wraith to The Inner Crypt (max 4)
+M 0 19612 4 19643    Place the wraith to The Inner Crypt (max 4)
+M 0 19612 4 19645    Place the wraith to The Inner Crypt (max 4)
+M 0 19612 4 19647    Place the wraith to The Inner Crypt (max 4)
+M 0 19613 1 19631    Place the banshee to Mother Superior's Room (max 1)
+M 0 19614 1 19622    Place the ghost of the Abbott to The Abbott's Room (max 1)
+O 0 19612 1 19635    Place a pile of crushed bones to A Crypt (max 1)
+D 0 19600 2 1    Set   #19600 - The Cathedral Courtyard door to SOUTH as closed
+D 0 19655 0 1    Set   #19655 - An Old Stone Road door to NORTH as closed
+D 0 19605 1 1    Set   #19605 - The Worship Hall door to EAST as closed
+D 0 19607 3 1    Set   #19607 - The Confessional door to WEST as closed
+D 0 19605 3 1    Set   #19605 - The Worship Hall door to WEST as closed
+D 0 19606 1 1    Set   #19606 - The Confessional door to EAST as closed
+D 0 19609 0 1    Set   #19609 - At The Altar door to NORTH as closed
+D 0 19610 2 1    Set   #19610 - The Clergical Chambers door to SOUTH as closed
+D 0 19610 0 2    Set   #19610 - The Clergical Chambers door to NORTH as closed and locked
+D 0 19611 2 2    Set   #19611 - The Inner Sanctum door to SOUTH as closed and locked
+D 0 19620 3 1    Set   #19620 - The End Of The Dark Hall door to WEST as closed
+D 0 19622 1 1    Set   #19622 - The Abbott's Room door to EAST as closed
+D 0 19627 1 1    Set   #19627 - A Cloistered Hall door to EAST as closed
+D 0 19631 3 1    Set   #19631 - Mother Superior's Room door to WEST as closed
+D 0 19641 2 2    Set   #19641 - The Antechamber door to SOUTH as closed and locked
+D 0 19642 0 2    Set   #19642 - The Inner Crypt door to NORTH as closed and locked
+D 0 19647 3 2    Set   #19647 - The Inner Crypt door to WEST as closed and locked
+D 0 19648 1 2    Set   #19648 - The Tomb Of Princess Evalynn door to EAST as closed and locked
+S

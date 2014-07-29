@@ -1,0 +1,3453 @@
+#380
+The Altonian Academy~
+38299 35 2
+
+#AUTHOR Shatai~
+
+#RESETMSG &zThe russle and bussle of the academy begins again!&g~
+
+D 0 38001 0 1 
+D 0 38002 2 1 
+M 0 38001 1 38006 
+D 0 38006 2 1 
+O 0 38002 1 38005 
+D 0 38005 0 1 
+M 0 38002 1 38008 
+O 0 38005 1 38010 
+M 0 24812 3 38266 
+M 0 24812 4 38224 
+M 0 24812 5 38218 
+M 0 24812 6 38216 
+M 0 24812 7 38214 
+M 0 24812 8 38202 
+M 0 24812 9 38201 
+M 0 24812 10 38206 
+M 0 24813 3 38205 
+M 0 24813 4 38241 
+M 0 24813 5 38248 
+M 0 24813 6 38247 
+M 0 24813 7 38253 
+M 0 24813 8 38252 
+M 0 24813 10 38250 
+M 0 24813 11 38243 
+M 0 24812 11 38243 
+M 0 24812 12 38244 
+M 0 24812 13 38245 
+M 0 38003 1 38251 
+M 0 24813 11 38251 
+O 0 38007 1 38013 
+S
+$~
+$end~
+
+
+#ROOMS
+#38000
+Iron Gates of the Great Altonian Academy~
+Before you stands a gigantic academy, world renoun for instructing
+the greatest warriors and most powerful magicians. It is my job now
+to bring on the instruction of another and teach you in the wise and
+sometimes down-right difficult ways of Altanos. To start with, if you
+will take a close inspection of the 'LOOK' command, you will notice
+a compass-like ascii drawing. This is for easy navigation. If you see
+an abbreviation for a letter in yellow, you can walk that way. For an
+example, if you saw a U on it, you could walk up.
+ 
+Proceed to the north to continue your training.
+~
+380 cx 1
+D0
+~
+~
+0 -1 38001
+S
+#38001
+Basic Movement through Doors~
+To navigate through Altanos can be confusing, as other of todays
+multi-user dungeons use something that appears as [Exits: or something
+of that nature. If you want to see the rooms exits in your prompt and
+or do not like the compass, you can type 'SETTINGS PROMPTEXITS' and
+you will see something similar to &c[ n d e ]&O on your prompt, which
+if you are new to MUDs in particular, usually displays life, stamina
+and spell power(commonly referred to as mana). Now, sometimes you will
+encounter doors, these have to be opened before traversed through, unless
+you have the use of a magical spell to walk through them. To open a door,
+type 'OPEN <DIRECTION or DOOR KEYWORD>'. For an example, there has been a
+door built in this room for the example of teaching. To open this door, type
+the following command: 'OPEN NORTH'. Once you have done this, the door will
+be open and you can continue navigation through the academy.
+~
+380 cx 1
+D0
+~
+~
+-3 -1 38002
+D2
+~
+~
+0 -1 38000
+S
+#38002
+Object Interaction~
+In the Lands of Altanos, there will be a time that you want to 
+pick up an object, utilize it, or drop it, etc. To pick up an item,
+type 'GET <OBJECT>' and to drop the item, type 'DROP <OBJECT>' and
+it will clatter to the floor. To utilize an object you already have
+picked up, type 'WEAR <OBJECT>', or if it is a weapon, type '<WIELD
+OBJECT>' and you will begin using it as a weapon. Here, some objects
+may seem odd, or a waste to find, but they probably have some double
+and secret purpose. Using our advanced scripting language, we have
+added many secrets, puzzles, riddles, etc for you to solve, unlock
+and learn from for the next hard puzzle to come along.
+~
+380 cx 1
+D2
+~
+~
+-3 -1 38001
+D3
+~
+~
+0 -1 38003
+S
+#38003
+Communication and Conversation~
+In the Lands of Altanos, it may be beneficial to speak with the
+local peoples, or non-player characters as well. It is most common
+to hear players discussing on the OOC or IC channels of the game,
+these are global as of now, and you can use them by typing the name
+of the channel followed by the message, for example, typing OOC HI
+would send the whole mud an ooc from you saying hi in capital letters,
+and so and so forth. Due to some recent abuse, you must attain level
+two before you use any channel except pray, which is to talk to the
+immortals currently on for an emergency only message. If you cannot
+tolerate that rule, your channels will be removed. Here, there will be
+no discussion of other multi-user games on public channels. Yes, we 
+have a clue they exist, but we spend good time trying to build a base
+of players, not to need someone spamming the address of some other odd
+and unique game. Proceed down the corridor to the north to continue
+your training for the Lands of Altanos.
+~
+380 cx 1
+D0
+~
+~
+0 -1 38004
+D1
+~
+~
+0 -1 38002
+S
+#38004
+Traversing the Wilderness~
+Outside of cities and areas, is something unlike on any MUD of the
+day. There is a massive four million room wilderness. This is shown
+in the form of a map. This map is made up of ascii characters and
+can be distinguished also by color, though sometimes diffrent colors
+are used for the same purpose. To see a legend of the various letters
+used as symbols on the map, type 'HELP OVERWORLD'. While traversing in
+the wilderness, it is a good idea to keep an eye on the weather. By
+typing 'WEATHER', you can see nearby weather systems forming and even
+moving around, changing patterns and dispursing. The weather command is
+more like the wilderness then a text display. For a legend of the various
+weather systems on the wilderness, type 'HELP WEATHER'. When you are
+ready to continue, proceed down the corridor further. One last comment,
+when you type weather here, you will see a field of space. This is because
+the academy is a magical structure floating through space, and on the real
+Lands of Altanos, you will infact see the surrounding area.
+~
+380 cx 1
+D0
+~
+~
+0 -1 38005
+D2
+~
+~
+0 -1 38003
+S
+#38005
+Locked Doors and Passageways~
+There are many a locked door in the Lands of Altanos, to continue
+past these, you will either need a key, reasonable force, or a good
+magical spell to break or disconnect the lock on the door. In the
+room, there lie a key on the floor that can be used to unlock that
+door up ahead. Beyond it, you will receive some more equipment for
+your patience, and begin the training of combat. To get the key on
+the floor, consult the room on object interaction before you and then
+unlock the door to the north by typing 'UNLOCK <DIRECTION>'. When
+this is done, you can 'OPEN <DIRECTION>' and proceed down the hallway
+for your next lessons and learnings in Altanos.
+~
+380 cx 1
+D0
+~
+~
+-3 -1 38006
+D2
+~
+~
+0 -1 38004
+S
+#38006
+The Art of War and Combat~
+To survive in the Lands of Altanos, it is undoubted you will at
+one time, have to engage in combat with some other form of life. To
+do this, you will need a considerabley more powerful weapon then
+the person or NPC you wish to enter combat with. Also, it is good
+strategy to have quality armor equipped for the battles. If you are
+to ask the knight for some armor, he will probably give you some. As
+for its quality, it lasted the knight in battle, it should do you
+well for the next while. When you have received this armor, proceed
+north for more combat instruction.
+~
+380 cx 1
+D0
+~
+~
+0 -1 38007
+D2
+~
+~
+-3 -1 38005
+S
+#38007
+Entering the Heat of Combat~
+The actual battle can be harder then preparing for it, you have to
+flow with a round-based combat/experience system. As you hit and do
+damage, you gain your experience. At the end, you may gain a small
+bonus, but that is not where it counts. The system is based on the
+concept of realistic learning. For example, while you fight, new
+and more effective combat strategies(aka experience) are learned. At
+the end, you might reminiesce for a second and learn how to improve
+your combat techniques, but that would have little effect. To learn
+your proficiencies, then head into the heart of battle, continue into
+your lessons to the north. You have progressed well so far.
+~
+380 cx 1
+D0
+~
+~
+0 -1 38008
+D2
+~
+~
+0 -1 38006
+S
+#38008
+Profiencies-- your skills and spells.~
+In the Lands of Altanos, we use a unique skill/spell system called
+proficiencies. This is exactly that, your proficiency in the skill and
+spell you are learning/using. To see a list of what you currently
+know, type 'PROFICIENCIES' without any further arguments. This will
+display all proficiencies for your class, also with what level you can
+learn them at. Also, there is an NPC here which will teach you the
+proficiencies you already know. If you wish to continue after learning
+the proficiencies taught here, progress north. If you wish to improve
+in a specific proficiency, type PRACTICE <PROFICIENCY>. This will cost
+practice sessions, which are gained through leveling, another part of
+combat here in the Lands of Altanos.
+~
+380 cex 1
+D0
+~
+~
+0 -1 38009
+D2
+~
+~
+0 -1 38007
+S
+#38009
+Experience Gain and Leveling~
+Experience gain is a very important part of Altanos, you gain
+experience on a per round basis. To see how much experience you
+require to jump to the next level, type 'EXPERIENCE'. When this
+list shows you how much you need to level, you can use that for
+a determiner of what to kill, etc. More NPCs in your level set
+will give more experience. It is considered a crime to kill NPCs
+less then half your level, and guards will come and attack you
+and if it is worse, summon a wizard to cast blinding and paraly-
+type spells on you. This can be difficult.
+~
+380 cx 1
+D0
+~
+~
+0 -1 38010
+D2
+~
+~
+0 -1 38008
+S
+#38010
+Portals and Magical Gateways~
+Portals and magical gateways are the most common way of far-travel
+in Altanos, some being short range, and some portals even going as
+far as one of the three worlds of Altanos! The portals can sometimes
+damage you on the way through, and they have been known to destroy
+the player and all his/her equipment from time to time, but only on
+the larger scale interplanetary portals. These are a useful, though
+sometimes sacrificeful way to travel in Altanos. To enter a portal,
+type simply 'ENTER' or if there are more then one, 'ENTER <KEYWORD>'
+~
+380 cx 1
+D2
+~
+~
+0 -1 38009
+D9
+~
+portal~
+-16 -1 38011
+S
+#38011
+Standing above the Combat Practice Area~
+Down below lies a combat arena, your ultimate challenge in this
+academy. You must succesfully defeat the master trainer of the arena
+to pass into the world. To get stronger, we have setup a series of
+weaker enemies for you to engage in combat before you take on the
+master. If you can defeat the master, you will receive a bonus and
+the way to a portal to Daevenshire.
+~
+380 cx 1
+D5
+~
+~
+0 -1 38272
+S
+#38012
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+S
+#38013
+Before a Massive Controlled Energy Portal~
+You stand before a massive portal, probably one of the largest
+in the world, controlled magically as not to harm you. You can
+see visions of a nearby city in its depths, floating around to
+show the many things that make up Daevenshire. To reach this point
+is a great wonder, as few have. The room itself seems to be made of
+some mysterious green tile that is easy on the eye, as well. This
+may be to dispel some of the effects from the huge light of the
+portal that is blinding to look at-- even through the most tuned eye.
+~
+380 c 1
+D9
+~
+portal~
+-16 -1 24803
+S
+#38014
+Floating in a void~
+~
+380 c 1
+S
+#38015
+Floating in a void~
+~
+380 c 1
+S
+#38016
+Floating in a void~
+~
+380 c 1
+S
+#38017
+Floating in a void~
+~
+380 c 1
+S
+#38018
+Floating in a void~
+~
+380 c 1
+S
+#38019
+Floating in a void~
+~
+380 c 1
+S
+#38020
+Floating in a void~
+~
+380 c 1
+S
+#38021
+Floating in a void~
+~
+380 c 1
+S
+#38022
+Floating in a void~
+~
+380 c 1
+S
+#38023
+Floating in a void~
+~
+380 c 1
+S
+#38024
+Floating in a void~
+~
+380 c 1
+S
+#38025
+Floating in a void~
+~
+380 c 1
+S
+#38026
+Floating in a void~
+~
+380 c 1
+S
+#38027
+Floating in a void~
+~
+380 c 1
+S
+#38028
+Floating in a void~
+~
+380 c 1
+S
+#38029
+Floating in a void~
+~
+380 c 1
+S
+#38030
+Floating in a void~
+~
+380 c 1
+S
+#38031
+Floating in a void~
+~
+380 c 1
+S
+#38032
+Floating in a void~
+~
+380 c 1
+S
+#38033
+Floating in a void~
+~
+380 c 1
+S
+#38034
+Floating in a void~
+~
+380 c 1
+S
+#38035
+Floating in a void~
+~
+380 c 1
+S
+#38036
+Floating in a void~
+~
+380 c 1
+S
+#38037
+Floating in a void~
+~
+380 c 1
+S
+#38038
+Floating in a void~
+~
+380 c 1
+S
+#38039
+Floating in a void~
+~
+380 c 1
+S
+#38040
+Floating in a void~
+~
+380 c 1
+S
+#38041
+Floating in a void~
+~
+380 c 1
+S
+#38042
+Floating in a void~
+~
+380 c 1
+S
+#38043
+Floating in a void~
+~
+380 c 1
+S
+#38044
+Floating in a void~
+~
+380 c 1
+S
+#38045
+Floating in a void~
+~
+380 c 1
+S
+#38046
+Floating in a void~
+~
+380 c 1
+S
+#38047
+Floating in a void~
+~
+380 c 1
+S
+#38048
+Floating in a void~
+~
+380 c 1
+S
+#38049
+Floating in a void~
+~
+380 c 1
+S
+#38050
+Floating in a void~
+~
+380 c 1
+S
+#38051
+Floating in a void~
+~
+380 c 1
+S
+#38052
+Floating in a void~
+~
+380 c 1
+S
+#38053
+Floating in a void~
+~
+380 c 1
+S
+#38054
+Floating in a void~
+~
+380 c 1
+S
+#38055
+Floating in a void~
+~
+380 c 1
+S
+#38056
+Floating in a void~
+~
+380 c 1
+S
+#38057
+Floating in a void~
+~
+380 c 1
+S
+#38058
+Floating in a void~
+~
+380 c 1
+S
+#38059
+Floating in a void~
+~
+380 c 1
+S
+#38060
+Floating in a void~
+~
+380 c 1
+S
+#38061
+Floating in a void~
+~
+380 c 1
+S
+#38062
+Floating in a void~
+~
+380 c 1
+S
+#38063
+Floating in a void~
+~
+380 c 1
+S
+#38064
+Floating in a void~
+~
+380 c 1
+S
+#38065
+Floating in a void~
+~
+380 c 1
+S
+#38066
+Floating in a void~
+~
+380 c 1
+S
+#38067
+Floating in a void~
+~
+380 c 1
+S
+#38068
+Floating in a void~
+~
+380 c 1
+S
+#38069
+Floating in a void~
+~
+380 c 1
+S
+#38070
+Floating in a void~
+~
+380 c 1
+S
+#38071
+Floating in a void~
+~
+380 c 1
+S
+#38072
+Floating in a void~
+~
+380 c 1
+S
+#38073
+Floating in a void~
+~
+380 c 1
+S
+#38074
+Floating in a void~
+~
+380 c 1
+S
+#38075
+Floating in a void~
+~
+380 c 1
+S
+#38076
+Floating in a void~
+~
+380 c 1
+S
+#38077
+Floating in a void~
+~
+380 c 1
+S
+#38078
+Floating in a void~
+~
+380 c 1
+S
+#38079
+Floating in a void~
+~
+380 c 1
+S
+#38080
+Floating in a void~
+~
+380 c 1
+S
+#38081
+Floating in a void~
+~
+380 c 1
+S
+#38082
+Floating in a void~
+~
+380 c 1
+S
+#38083
+Floating in a void~
+~
+380 c 1
+S
+#38084
+Floating in a void~
+~
+380 c 1
+S
+#38085
+Floating in a void~
+~
+380 c 1
+S
+#38086
+Floating in a void~
+~
+380 c 1
+S
+#38087
+Floating in a void~
+~
+380 c 1
+S
+#38088
+Floating in a void~
+~
+380 c 1
+S
+#38089
+Floating in a void~
+~
+380 c 1
+S
+#38090
+Floating in a void~
+~
+380 c 1
+S
+#38091
+Floating in a void~
+~
+380 c 1
+S
+#38092
+Floating in a void~
+~
+380 c 1
+S
+#38093
+Floating in a void~
+~
+380 c 1
+S
+#38094
+Floating in a void~
+~
+380 c 1
+S
+#38095
+Floating in a void~
+~
+380 c 1
+S
+#38096
+Floating in a void~
+~
+380 c 1
+S
+#38097
+Floating in a void~
+~
+380 c 1
+S
+#38098
+Floating in a void~
+~
+380 c 1
+S
+#38099
+Floating in a void~
+~
+380 c 1
+S
+#38100
+Floating in a void~
+~
+380 c 1
+S
+#38101
+Floating in a void~
+~
+380 c 1
+S
+#38102
+Floating in a void~
+~
+380 c 1
+S
+#38103
+Floating in a void~
+~
+380 c 1
+S
+#38104
+Floating in a void~
+~
+380 c 1
+S
+#38105
+Floating in a void~
+~
+380 c 1
+S
+#38106
+Floating in a void~
+~
+380 c 1
+S
+#38107
+Floating in a void~
+~
+380 c 1
+S
+#38108
+Floating in a void~
+~
+380 c 1
+S
+#38109
+Floating in a void~
+~
+380 c 1
+S
+#38110
+Floating in a void~
+~
+380 c 1
+S
+#38111
+Floating in a void~
+~
+380 c 1
+S
+#38112
+Floating in a void~
+~
+380 c 1
+S
+#38113
+Floating in a void~
+~
+380 c 1
+S
+#38114
+Floating in a void~
+~
+380 c 1
+S
+#38115
+Floating in a void~
+~
+380 c 1
+S
+#38116
+Floating in a void~
+~
+380 c 1
+S
+#38117
+Floating in a void~
+~
+380 c 1
+S
+#38118
+Floating in a void~
+~
+380 c 1
+S
+#38119
+Floating in a void~
+~
+380 c 1
+S
+#38120
+Floating in a void~
+~
+380 c 1
+S
+#38121
+Floating in a void~
+~
+380 c 1
+S
+#38122
+Floating in a void~
+~
+380 c 1
+S
+#38123
+Floating in a void~
+~
+380 c 1
+S
+#38124
+Floating in a void~
+~
+380 c 1
+S
+#38125
+Floating in a void~
+~
+380 c 1
+S
+#38126
+Floating in a void~
+~
+380 c 1
+S
+#38127
+Floating in a void~
+~
+380 c 1
+S
+#38128
+Floating in a void~
+~
+380 c 1
+S
+#38129
+Floating in a void~
+~
+380 c 1
+S
+#38130
+Floating in a void~
+~
+380 c 1
+S
+#38131
+Floating in a void~
+~
+380 c 1
+S
+#38132
+Floating in a void~
+~
+380 c 1
+S
+#38133
+Floating in a void~
+~
+380 c 1
+S
+#38134
+Floating in a void~
+~
+380 c 1
+S
+#38135
+Floating in a void~
+~
+380 c 1
+S
+#38136
+Floating in a void~
+~
+380 c 1
+S
+#38137
+Floating in a void~
+~
+380 c 1
+S
+#38138
+Floating in a void~
+~
+380 c 1
+S
+#38139
+Floating in a void~
+~
+380 c 1
+S
+#38140
+Floating in a void~
+~
+380 c 1
+S
+#38141
+Floating in a void~
+~
+380 c 1
+S
+#38142
+Floating in a void~
+~
+380 c 1
+S
+#38143
+Floating in a void~
+~
+380 c 1
+S
+#38144
+Floating in a void~
+~
+380 c 1
+S
+#38145
+Floating in a void~
+~
+380 c 1
+S
+#38146
+Floating in a void~
+~
+380 c 1
+S
+#38147
+Floating in a void~
+~
+380 c 1
+S
+#38148
+Floating in a void~
+~
+380 c 1
+S
+#38149
+Floating in a void~
+~
+380 c 1
+S
+#38150
+Floating in a void~
+~
+380 c 1
+S
+#38151
+Floating in a void~
+~
+380 c 1
+S
+#38152
+Floating in a void~
+~
+380 c 1
+S
+#38153
+Floating in a void~
+~
+380 c 1
+S
+#38154
+Floating in a void~
+~
+380 c 1
+S
+#38155
+Floating in a void~
+~
+380 c 1
+S
+#38156
+Floating in a void~
+~
+380 c 1
+S
+#38157
+Floating in a void~
+~
+380 c 1
+S
+#38158
+Floating in a void~
+~
+380 c 1
+S
+#38159
+Floating in a void~
+~
+380 c 1
+S
+#38160
+Floating in a void~
+~
+380 c 1
+S
+#38161
+Floating in a void~
+~
+380 c 1
+S
+#38162
+Floating in a void~
+~
+380 c 1
+S
+#38163
+Floating in a void~
+~
+380 c 1
+S
+#38164
+Floating in a void~
+~
+380 c 1
+S
+#38165
+Floating in a void~
+~
+380 c 1
+S
+#38166
+Floating in a void~
+~
+380 c 1
+S
+#38167
+Floating in a void~
+~
+380 c 1
+S
+#38168
+Floating in a void~
+~
+380 c 1
+S
+#38169
+Floating in a void~
+~
+380 c 1
+S
+#38170
+Floating in a void~
+~
+380 c 1
+S
+#38171
+Floating in a void~
+~
+380 c 1
+S
+#38172
+Floating in a void~
+~
+380 c 1
+S
+#38173
+Floating in a void~
+~
+380 c 1
+S
+#38174
+Floating in a void~
+~
+380 c 1
+S
+#38175
+Floating in a void~
+~
+380 c 1
+S
+#38176
+Floating in a void~
+~
+380 c 1
+S
+#38177
+Floating in a void~
+~
+380 c 1
+S
+#38178
+Floating in a void~
+~
+380 c 1
+S
+#38179
+Floating in a void~
+~
+380 c 1
+S
+#38180
+Floating in a void~
+~
+380 c 1
+S
+#38181
+Floating in a void~
+~
+380 c 1
+S
+#38182
+Floating in a void~
+~
+380 c 1
+S
+#38183
+Floating in a void~
+~
+380 c 1
+S
+#38184
+Floating in a void~
+~
+380 c 1
+S
+#38185
+Floating in a void~
+~
+380 c 1
+S
+#38186
+Floating in a void~
+~
+380 c 1
+S
+#38187
+Floating in a void~
+~
+380 c 1
+S
+#38188
+Floating in a void~
+~
+380 c 1
+S
+#38189
+Floating in a void~
+~
+380 c 1
+S
+#38190
+Floating in a void~
+~
+380 c 1
+S
+#38191
+Floating in a void~
+~
+380 c 1
+S
+#38192
+Floating in a void~
+~
+380 c 1
+S
+#38193
+Floating in a void~
+~
+380 c 1
+S
+#38194
+Floating in a void~
+~
+380 c 1
+S
+#38195
+Floating in a void~
+~
+380 c 1
+S
+#38196
+Floating in a void~
+~
+380 c 1
+S
+#38197
+Floating in a void~
+~
+380 c 1
+S
+#38198
+Floating in a void~
+~
+380 c 1
+S
+#38199
+Floating in a void~
+~
+380 c 1
+S
+#38200
+Floating in a void~
+~
+380 c 1
+S
+#38201
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38202
+D1
+~
+~
+0 -1 38207
+D4
+~
+~
+0 -1 38237
+S
+#38202
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38203
+D1
+~
+~
+0 -1 38208
+D2
+~
+~
+0 -1 38201
+D4
+~
+~
+0 -1 38238
+S
+#38203
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38204
+D1
+~
+~
+0 -1 38209
+D2
+~
+~
+0 -1 38202
+D4
+~
+~
+0 -1 38239
+S
+#38204
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38205
+D1
+~
+~
+0 -1 38210
+D2
+~
+~
+0 -1 38203
+D4
+~
+~
+0 -1 38240
+S
+#38205
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38206
+D1
+~
+~
+0 -1 38211
+D2
+~
+~
+0 -1 38204
+D4
+~
+~
+0 -1 38241
+S
+#38206
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D1
+~
+~
+0 -1 38212
+D2
+~
+~
+0 -1 38205
+D4
+~
+~
+0 -1 38242
+S
+#38207
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38208
+D1
+~
+~
+0 -1 38213
+D3
+~
+~
+0 -1 38201
+D4
+~
+~
+0 -1 38243
+S
+#38208
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38209
+D1
+~
+~
+0 -1 38214
+D2
+~
+~
+0 -1 38207
+D3
+~
+~
+0 -1 38202
+D4
+~
+~
+0 -1 38244
+S
+#38209
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38210
+D1
+~
+~
+0 -1 38215
+D2
+~
+~
+0 -1 38208
+D3
+~
+~
+0 -1 38203
+D4
+~
+~
+0 -1 38245
+S
+#38210
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38211
+D1
+~
+~
+0 -1 38216
+D2
+~
+~
+0 -1 38209
+D3
+~
+~
+0 -1 38204
+D4
+~
+~
+0 -1 38246
+S
+#38211
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38212
+D1
+~
+~
+0 -1 38217
+D2
+~
+~
+0 -1 38210
+D3
+~
+~
+0 -1 38205
+D4
+~
+~
+0 -1 38247
+S
+#38212
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D1
+~
+~
+0 -1 38218
+D2
+~
+~
+0 -1 38211
+D3
+~
+~
+0 -1 38206
+D4
+~
+~
+0 -1 38248
+S
+#38213
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38214
+D1
+~
+~
+0 -1 38219
+D3
+~
+~
+0 -1 38207
+D4
+~
+~
+0 -1 38249
+S
+#38214
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38215
+D1
+~
+~
+0 -1 38220
+D2
+~
+~
+0 -1 38213
+D3
+~
+~
+0 -1 38208
+D4
+~
+~
+0 -1 38250
+S
+#38215
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38216
+D1
+~
+~
+0 -1 38221
+D2
+~
+~
+0 -1 38214
+D3
+~
+~
+0 -1 38209
+D4
+~
+~
+0 -1 38251
+S
+#38216
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38217
+D1
+~
+~
+0 -1 38222
+D2
+~
+~
+0 -1 38215
+D3
+~
+~
+0 -1 38210
+D4
+~
+~
+0 -1 38252
+S
+#38217
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38218
+D1
+~
+~
+0 -1 38223
+D2
+~
+~
+0 -1 38216
+D3
+~
+~
+0 -1 38211
+D4
+~
+~
+0 -1 38253
+S
+#38218
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D1
+~
+~
+0 -1 38224
+D2
+~
+~
+0 -1 38217
+D3
+~
+~
+0 -1 38212
+D4
+~
+~
+0 -1 38254
+S
+#38219
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38220
+D1
+~
+~
+0 -1 38225
+D3
+~
+~
+0 -1 38213
+D4
+~
+~
+0 -1 38255
+S
+#38220
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38221
+D1
+~
+~
+0 -1 38226
+D2
+~
+~
+0 -1 38219
+D3
+~
+~
+0 -1 38214
+D4
+~
+~
+0 -1 38256
+S
+#38221
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38222
+D1
+~
+~
+0 -1 38227
+D2
+~
+~
+0 -1 38220
+D3
+~
+~
+0 -1 38215
+D4
+~
+~
+0 -1 38257
+S
+#38222
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38223
+D1
+~
+~
+0 -1 38228
+D2
+~
+~
+0 -1 38221
+D3
+~
+~
+0 -1 38216
+D4
+~
+~
+0 -1 38258
+S
+#38223
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38224
+D1
+~
+~
+0 -1 38229
+D2
+~
+~
+0 -1 38222
+D3
+~
+~
+0 -1 38217
+D4
+~
+~
+0 -1 38259
+S
+#38224
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D1
+~
+~
+0 -1 38230
+D2
+~
+~
+0 -1 38223
+D3
+~
+~
+0 -1 38218
+D4
+~
+~
+0 -1 38260
+S
+#38225
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38226
+D1
+~
+~
+0 -1 38231
+D3
+~
+~
+0 -1 38219
+D4
+~
+~
+0 -1 38261
+S
+#38226
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38227
+D1
+~
+~
+0 -1 38232
+D2
+~
+~
+0 -1 38225
+D3
+~
+~
+0 -1 38220
+D4
+~
+~
+0 -1 38262
+S
+#38227
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38228
+D1
+~
+~
+0 -1 38233
+D2
+~
+~
+0 -1 38226
+D3
+~
+~
+0 -1 38221
+D4
+~
+~
+0 -1 38263
+S
+#38228
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38229
+D1
+~
+~
+0 -1 38234
+D2
+~
+~
+0 -1 38227
+D3
+~
+~
+0 -1 38222
+D4
+~
+~
+0 -1 38264
+S
+#38229
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38230
+D1
+~
+~
+0 -1 38235
+D2
+~
+~
+0 -1 38228
+D3
+~
+~
+0 -1 38223
+D4
+~
+~
+0 -1 38265
+S
+#38230
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D1
+~
+~
+0 -1 38236
+D2
+~
+~
+0 -1 38229
+D3
+~
+~
+0 -1 38224
+D4
+~
+~
+0 -1 38266
+S
+#38231
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38232
+D3
+~
+~
+0 -1 38225
+D4
+~
+~
+0 -1 38267
+S
+#38232
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38233
+D2
+~
+~
+0 -1 38231
+D3
+~
+~
+0 -1 38226
+D4
+~
+~
+0 -1 38268
+S
+#38233
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38234
+D2
+~
+~
+0 -1 38232
+D3
+~
+~
+0 -1 38227
+D4
+~
+~
+0 -1 38269
+S
+#38234
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38235
+D2
+~
+~
+0 -1 38233
+D3
+~
+~
+0 -1 38228
+D4
+~
+~
+0 -1 38270
+S
+#38235
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38236
+D2
+~
+~
+0 -1 38234
+D3
+~
+~
+0 -1 38229
+D4
+~
+~
+0 -1 38271
+S
+#38236
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D2
+~
+~
+0 -1 38235
+D3
+~
+~
+0 -1 38230
+D4
+~
+~
+0 -1 38272
+S
+#38237
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38238
+D1
+~
+~
+0 -1 38243
+D5
+~
+~
+0 -1 38201
+S
+#38238
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38239
+D1
+~
+~
+0 -1 38244
+D2
+~
+~
+0 -1 38237
+D5
+~
+~
+0 -1 38202
+S
+#38239
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38240
+D1
+~
+~
+0 -1 38245
+D2
+~
+~
+0 -1 38238
+D5
+~
+~
+0 -1 38203
+S
+#38240
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38241
+D1
+~
+~
+0 -1 38246
+D2
+~
+~
+0 -1 38239
+D5
+~
+~
+0 -1 38204
+S
+#38241
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38242
+D1
+~
+~
+0 -1 38247
+D2
+~
+~
+0 -1 38240
+D5
+~
+~
+0 -1 38205
+S
+#38242
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D1
+~
+~
+0 -1 38248
+D2
+~
+~
+0 -1 38241
+D5
+~
+~
+0 -1 38206
+S
+#38243
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38244
+D1
+~
+~
+0 -1 38249
+D3
+~
+~
+0 -1 38237
+D5
+~
+~
+0 -1 38207
+S
+#38244
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38245
+D1
+~
+~
+0 -1 38250
+D2
+~
+~
+0 -1 38243
+D3
+~
+~
+0 -1 38238
+D5
+~
+~
+0 -1 38208
+S
+#38245
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38246
+D1
+~
+~
+0 -1 38251
+D2
+~
+~
+0 -1 38244
+D3
+~
+~
+0 -1 38239
+D5
+~
+~
+0 -1 38209
+S
+#38246
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38247
+D1
+~
+~
+0 -1 38252
+D2
+~
+~
+0 -1 38245
+D3
+~
+~
+0 -1 38240
+D5
+~
+~
+0 -1 38210
+S
+#38247
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38248
+D1
+~
+~
+0 -1 38253
+D2
+~
+~
+0 -1 38246
+D3
+~
+~
+0 -1 38241
+D5
+~
+~
+0 -1 38211
+S
+#38248
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D1
+~
+~
+0 -1 38254
+D2
+~
+~
+0 -1 38247
+D3
+~
+~
+0 -1 38242
+D5
+~
+~
+0 -1 38212
+S
+#38249
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38250
+D1
+~
+~
+0 -1 38255
+D3
+~
+~
+0 -1 38243
+D5
+~
+~
+0 -1 38213
+S
+#38250
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38251
+D1
+~
+~
+0 -1 38256
+D2
+~
+~
+0 -1 38249
+D3
+~
+~
+0 -1 38244
+D5
+~
+~
+0 -1 38214
+S
+#38251
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38252
+D1
+~
+~
+0 -1 38257
+D2
+~
+~
+0 -1 38250
+D3
+~
+~
+0 -1 38245
+D5
+~
+~
+0 -1 38215
+S
+#38252
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38253
+D1
+~
+~
+0 -1 38258
+D2
+~
+~
+0 -1 38251
+D3
+~
+~
+0 -1 38246
+D5
+~
+~
+0 -1 38216
+S
+#38253
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38254
+D1
+~
+~
+0 -1 38259
+D2
+~
+~
+0 -1 38252
+D3
+~
+~
+0 -1 38247
+D5
+~
+~
+0 -1 38217
+S
+#38254
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D1
+~
+~
+0 -1 38260
+D2
+~
+~
+0 -1 38253
+D3
+~
+~
+0 -1 38248
+D5
+~
+~
+0 -1 38218
+S
+#38255
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38256
+D1
+~
+~
+0 -1 38261
+D3
+~
+~
+0 -1 38249
+D5
+~
+~
+0 -1 38219
+S
+#38256
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38257
+D1
+~
+~
+0 -1 38262
+D2
+~
+~
+0 -1 38255
+D3
+~
+~
+0 -1 38250
+D5
+~
+~
+0 -1 38220
+S
+#38257
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38258
+D1
+~
+~
+0 -1 38263
+D2
+~
+~
+0 -1 38256
+D3
+~
+~
+0 -1 38251
+D5
+~
+~
+0 -1 38221
+S
+#38258
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38259
+D1
+~
+~
+0 -1 38264
+D2
+~
+~
+0 -1 38257
+D3
+~
+~
+0 -1 38252
+D5
+~
+~
+0 -1 38222
+S
+#38259
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38260
+D1
+~
+~
+0 -1 38265
+D2
+~
+~
+0 -1 38258
+D3
+~
+~
+0 -1 38253
+D5
+~
+~
+0 -1 38223
+S
+#38260
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D1
+~
+~
+0 -1 38266
+D2
+~
+~
+0 -1 38259
+D3
+~
+~
+0 -1 38254
+D5
+~
+~
+0 -1 38224
+S
+#38261
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38262
+D1
+~
+~
+0 -1 38267
+D3
+~
+~
+0 -1 38255
+D5
+~
+~
+0 -1 38225
+S
+#38262
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38263
+D1
+~
+~
+0 -1 38268
+D2
+~
+~
+0 -1 38261
+D3
+~
+~
+0 -1 38256
+D5
+~
+~
+0 -1 38226
+S
+#38263
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38264
+D1
+~
+~
+0 -1 38269
+D2
+~
+~
+0 -1 38262
+D3
+~
+~
+0 -1 38257
+D5
+~
+~
+0 -1 38227
+S
+#38264
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38265
+D1
+~
+~
+0 -1 38270
+D2
+~
+~
+0 -1 38263
+D3
+~
+~
+0 -1 38258
+D5
+~
+~
+0 -1 38228
+S
+#38265
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38266
+D1
+~
+~
+0 -1 38271
+D2
+~
+~
+0 -1 38264
+D3
+~
+~
+0 -1 38259
+D5
+~
+~
+0 -1 38229
+S
+#38266
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D1
+~
+~
+0 -1 38272
+D2
+~
+~
+0 -1 38265
+D3
+~
+~
+0 -1 38260
+D5
+~
+~
+0 -1 38230
+S
+#38267
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38268
+D3
+~
+~
+0 -1 38261
+D5
+~
+~
+0 -1 38231
+S
+#38268
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38269
+D2
+~
+~
+0 -1 38267
+D3
+~
+~
+0 -1 38262
+D5
+~
+~
+0 -1 38232
+S
+#38269
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38270
+D2
+~
+~
+0 -1 38268
+D3
+~
+~
+0 -1 38263
+D5
+~
+~
+0 -1 38233
+S
+#38270
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38271
+D2
+~
+~
+0 -1 38269
+D3
+~
+~
+0 -1 38264
+D5
+~
+~
+0 -1 38234
+S
+#38271
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D0
+~
+~
+0 -1 38272
+D2
+~
+~
+0 -1 38270
+D3
+~
+~
+0 -1 38265
+D5
+~
+~
+0 -1 38235
+S
+#38272
+In the Midst of the Combat Practice Arena~
+You seem to be located within some massive practice area, you can
+hear the sounds of victory (and loss, though not as pleasant) coming
+from various others within the arena. Another sub-frequent noise is
+the hum of the energy portal opening and closing, sending new and
+old adventurers alike into the arena to learn and fight.
+~
+380 c 1
+D2
+~
+~
+0 -1 38271
+D3
+~
+~
+0 -1 38266
+D5
+~
+~
+0 -1 38236
+S
+$~
+$end~
+
+
+#MOBILES
+#38000
+first mob~
+a newly created first mob~
+Some god abandoned a newly created first mob here.
+~
+~
+m 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#38001
+knight silver order~
+A knight of the silver order~
+A knight of the silver order stands here.
+~
+A small man clad in armor stands here. His eyebrows are dark green,
+though most of his other facial features are masked behind armor of
+some kind. He seems kindly enough, but being a knight, he should have
+at least seen a few wars by now.
+~
+bm hCD 0 C
+104 0 0 1d1+32000 50d10+1000
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 3 20
+C
+> give_prog ~
+say activated
+if ovnuminv(28201) < 1
+say Do not try to fool me!
+say This is not the coin!
+else
+say Thank you, kind sir.
+unlock west
+endif
+~
+> all_greet_prog 100~
+say Ello, $n, would you fancy some armor?
+~
+> speech_prog no~
+say Why not? Its quality goods!
+~
+> speech_prog yes~
+say Glad to hear it, here you go.
+mpoload 38003 1
+mpoload 38004 1
+give leggings $n
+give belt $n
+say May your adventures do well, $n.
+~
+|
+#38002
+zeldalar~
+Zeldalar~
+Zeldalar, instructer of proficiencies stands here.
+~
+~
+bm 0 0 S
+101 0 0 5d5+30000 0d0+0
+0 0
+8 8 0
+#38003
+master combat~
+the Master of Combat Training~
+The Master of Combat Training stands here, contemplating a fight.
+~
+A furry ferret is here in his
+tube like form. He runs around
+looking for others of his kind
+to enjoy this day with.
+~
+bg 0 1000 C
+3 0 80 1d2+12 1d2+0
+15 0
+8 8 1
+13 13 13 13 13 13 13
+15 3 1
+C
+> death_prog 100~
+mpoload 38006
+give spectacles $n
+mptransfer $n 38013
+~
+|
+#38200
+last mob~
+a newly created last mob~
+Some god abandoned a newly created last mob here.
+~
+~
+m 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+$~
+$end~
+
+
+#OBJECTS
+#38000
+first obj~
+a newly created first obj~
+Some god dropped a newly created first obj here.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+#38001
+antique coin~
+an antique coin~
+An antique coin lies on the ground here.~
+~
+13 0 ao
+0 0 0 0
+1 0 0
+>
+get_prog 100~
+mpechoaround $n As $n picks up the coin, another one materializes!
+mpechoat $n As you pick up the coin, another one materializes!
+mpoload 38001
+~
+|
+#38002
+brass small key~
+a small brass key~
+A small brass key lies here.~
+~
+13 0 ao
+0 0 0 0
+1 0 0
+>
+get_prog 100~
+mpechoaround $n As $n picks up the key, another one materializes!
+mpechoat $n As you pick up the key, another materializes!
+mpoload 38002
+~
+|
+#38003
+metal plated leggings~
+a pair of metal plated leggings~
+A pair of metal plated leggings lie here.~
+~
+9 0 af
+0 0 0 0
+1 0 0
+#38004
+black leather sword belt~
+a black leather sword belt~
+A black leather sword belt lies here.~
+~
+15 0 al
+5 5 9805 0
+1 0 0
+#38005
+portal shimmering oval~
+a shimmering oval portal~
+&Y&W(Glowing) A portal to the combat practice arena floats here.&g~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#38006
+spectacles wire frame~
+a pair of wireframe spectacles~
+A pair of wireframe spectacles lie here.~
+~
+9 0 as
+5 5 5 0
+1 0 0
+#38007
+shimmering oval portal~
+a shimmering oval portal~
+&Y&W(Glowing) A portal to the city of Daevenshire hovers here.&g~
+~
+12 0 0
+0 0 0 0
+1 0 0
+#38008
+sextant brass small~
+a small brass sextant~
+A small brass sextant collects dust here.~
+~
+12 0 ao
+0 0 0 0
+2 1 0
+#38200
+last obj~
+a newly created last obj~
+Some god dropped a newly created last obj here.~
+~
+13 0 0
+0 0 0 0
+1 0 0
+$~
+$end~
+
+
+#SHOPS
+$end~

@@ -1,0 +1,170 @@
+#8901
+closet~
+a closet~
+There is a wooden closet tucked into a corner.~
+~
+15 0 0
+100 1 -1 0
+500 0 0
+E
+closet~
+It is large, yet gracefully made, obviously of Scandinavian design.
+~
+#8902
+jar~
+a spice jar~
+A small unlabeled spice jar is standing here.~
+~
+15 0 1
+5 5 -1 0
+1 10 0
+#8903
+powder black~
+some black powder~
+Some strong-smelling black powder has been carelessly scattered here.~
+~
+19 0 1
+-2 0 0 0
+1 300 0
+E
+powder~
+Something tells you this powder is too dangerous to be left lying around
+a kitchen...
+~
+#8904
+kernel kernels~
+some small yellow kernels~
+Some small yellow kernels have been accidentally left here.~
+~
+19 0 16385
+1 0 0 0
+1 10 0
+E
+kernel kernels~
+Look fairly dull...
+~
+#8905
+paper wad~
+a crumpled wad of paper~
+There is a crumpled wad of paper here, left behind by some messy bypasser.~
+~
+13 0 16385
+0 0 0 0
+1 0 0
+E
+paper wad~
+It looks old and worn, but You can still make out a faint lettering on it, 
+written in a strange, alien hand:
+
+o    WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!   o
+o                                                                     o
+o    MSGS: MATRIX CONTROL      TO   SUBSYSTEMS/<ALL>                  o
+o    ACT : REQUIRED            T:   NOW                               o
+o                                                                     o
+o    RECENT DATAQUAKE EVALUATED... EVALUATION FOLLOWS...              o
+o    MASSIVE SEGMENTATION HAS OCCURRED... ALL SUBSIDIARY SECTORS      o
+o    SHUTDOWN... CENTRAL SHUTDOWN: AUTOMATICS ENGAGED...              o
+o                                                                     o
+o    DATALEAK DETECTED... DIRECTION:FOREIGN VIRTUAL REALITY, CODENAME o
+o    ASSIGNED: 'Midgaard'...                                          o
+o    SPECIFIC LOCATION: UNCERTAIN, BEING WITHIN 'Midgaard' SUBSECTOR  o
+o    CODENAME ASSIGNED: 'Holy Grove'...                               o
+o    BEWARE INTRUSIONS POSSIBLE. ADVISE EXTREME CAUTION...            o
+o    .                                                                o
+o    .                                                                o
+o    .                                                                o
+o                                                                     o
+o    MSGS: MATRIX CONTROL      TO   SUBSYSTEMS/<Sark>                 o
+o                                              <101110101101>         o
+o                                              <1101111010101101>     o
+o    ACT : URGENT              T:   IMMEDIATE                         o
+o                                                                     o
+o    INTRUDERS DETECTED IN MAIN MATRIX... DIRECTIVE SEARCH AND        o
+o    ELIMINATE...                                                     o
+o    .                                                                o
+o    .                                                                o
+o                                                                     o
+~
+#8910
+staff wooden~
+a wooden staff~
+You see a wooden staff on the floor.~
+~
+5 1024 8193
+0 3 3 7
+5 50 0
+E
+staff wooden~
+This oaken staff is very hefty but balanced.
+~
+#8911
+robe brown cloth~
+a brown robe~
+Some brown cloth is on the floor.~
+~
+9 1024 9
+6 0 0 0
+5 60 0
+E
+robe brown cloth~
+This robe is rough, but appears quite durable.
+~
+A
+12 10
+#8913
+herbs~
+some bluish herbs~
+Some bluish herbs are scattered here.~
+~
+10 0 1
+15 3 0 0
+1 1 0
+#8914
+herbs~
+some purplish herbs~
+Some purplish herbs are scattered here.~
+undefined~
+10 0 1
+15 3 0 0
+1 1 0
+#8915
+herbs~
+some blackish herbs~
+Some blackish herbs are scattered here.~
+~
+10 0 1
+5 4 0 0
+1 1 0
+#8916
+herbs~
+some grayish herbs~
+Some grayish herbs are scattered here.~
+~
+10 0 1
+5 39 33 0
+1 1 0
+#8917
+herbs~
+some reddish herbs~
+Some reddish herbs are scattered here.~
+~
+10 0 1
+15 20 0 0
+1 1 0
+#8918
+herbs~
+some orangish herbs~
+Some orangish herbs are scattered here.~
+~
+10 0 1
+5 16 0 0
+1 1 0
+#8919
+herbs~
+some pinkish herbs~
+Some pinkish herbs are scattered here.~
+~
+10 0 1
+5 43 33 0
+1 1 0
+$~

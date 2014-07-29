@@ -1,0 +1,159 @@
+#2001
+glowing key~
+a glowing key~
+A circular, glowing key radiates a bright aura around it.~
+~
+18 67 1
+39 0 0 0
+1 10000 0
+#2002
+granite plate mail platemail~
+a suit of granite platemail~
+A suit of platemail hewn from granite stands by itself in the corner.~
+~
+9 514 9
+9 0 0 0
+55 42300 0
+A
+2 -1
+#2003
+onyx ring~
+an onyx ring~
+A ring with a very dark onyx stone in it has been left in the dirt.~
+~
+9 512 3
+5 0 0 0
+1 11010 0
+A
+4 1
+#2004
+neutralizer sword~
+the neutralizer~
+A long thin sword with a wide blade makes you wonder.~
+~
+5 1538 8193
+0 4 5 3
+9 3304 0
+A
+18 1
+A
+19 1
+#2005
+sword excalibur~
+the sword Excalibur~
+A sword gleams by the light of its magical silvery blade.~
+~
+5 2100289 8193
+0 5 6 3
+15 76157 0
+A
+1 1
+A
+18 3
+#2006
+crown~
+a kingly crown~
+The crown of a long lost King lies forgotten here.~
+~
+18 256 17
+15 0 0 0
+10 15900 0
+A
+17 -8
+#2007
+stone~
+stone~
+The stone is surrounded by a bright glow, better look closer.~
+~
+15 1 0
+15 15 2006 0
+2000 0 0
+#2008
+holy water flask~
+a flask of holy water~
+A flask of holy water is here.~
+~
+10 1 16385
+25 3 36 0
+2 5000 0
+#2009
+chainmail chain mail suit~
+a suit of chainmail~
+A nice suit of chainmail has been left behind.~
+~
+9 256 9
+5 0 0 0
+20 1111 0
+#2010
+white cape~
+a white cape~
+A blazing cape of white lies in a careful pile.~
+~
+9 1 5
+5 0 0 0
+3 5000 0
+A
+18 1
+#2011
+shield defense~
+the shield of defense~
+A large shield lies protecting the ground.~
+~
+9 64 513
+15 0 0 0
+15 33000 0
+A
+12 10
+A
+13 10
+A
+18 -2
+A
+19 -1
+#2012
+scale shield dragonscale~
+a dragonscale shield~
+A shield from from the scales of a large dragon lies here.~
+~
+9 0 513
+8 0 0 0
+18 8000 0
+A
+23 3
+#2013
+prism wand~
+a prism wand~
+A wand made of a triangular prism twinkles in the dust.~
+~
+3 65 16385
+11 4 4 10
+4 7070 0
+#2014
+shadow cloak~
+a shadow cloak~
+The shadows in the corner of the room seems strange ...~
+~
+9 64 1025
+10 0 0 0
+1 4000 0
+A
+14 -30
+#2015
+misty potion~
+a misty potion~
+A potion of swirling mist-like substance is here.~
+~
+10 0 16385
+10 68 0 0
+1 1000 0
+#2016
+templar templars sword wooden~
+a templar's sword~
+A sword made of wood has been left here.~
+~
+5 256 8193
+0 2 6 3
+6 2900 0
+A
+18 1
+$

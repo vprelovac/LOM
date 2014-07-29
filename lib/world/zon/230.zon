@@ -1,0 +1,53 @@
+#230
+Infernal Pit of Kerjim~
+23099 45 2
+* Field #1    Field #3   Field #4  Field #5
+* M (Mobile)  Mob-Vnum   Wld-Max   Room-Vnum
+* O (Object)  Obj-Vnum   Wld-Max   Room-Vnum
+* G (Give)    Obj-Vnum   Wld-Max   Unused
+* E (Equip)   Obj-Vnum   Wld-Max   EQ-Position
+* P (Put)     Obj-Vnum   Wld-Max   Target-Obj-Vnum
+* D (Door)    Room-Vnum  Door-Dir  Door-State
+* R (Remove)  Room-Vnum  Obj-Vnum  Unused
+M 0 23006 1 23059 	(Lilith)
+E 1 23001 1 6 	(an emerald crown)
+E 1 23003 1 13 	(a jeweled belt)
+M 0 23005 1 23007 	(Kerjim)
+E 1 23000 1 16 	(the gothic kris)
+E 1 23002 1 10 	(a set of glowing armplates)
+M 0 23007 2 23029 	(the corpse)
+M 0 23007 2 23029 	(the corpse)
+D 0 23008 2 1 	(A Cavern)
+M 0 23000 23 23008 	(a small balrog)
+D 0 23058 0 1 	(At The Door)
+M 0 23000 20 23024 	(a small balrog)
+M 0 23000 20 23024 	(a small balrog)
+M 0 23001 6 23022 	(the Elder Balrog)
+E 1 23006 3 3 	(the amulet of true seeing)
+M 0 23000 20 23013 	(a small balrog)
+M 0 23000 20 23017 	(a small balrog)
+M 0 23004 15 23044 	(a human slave)
+M 0 23004 15 23044 	(a human slave)
+M 0 23004 15 23044 	(a human slave)
+M 0 23004 15 23042 	(a human slave)
+M 0 23004 15 23042 	(a human slave)
+M 0 23004 15 23040 	(a human slave)
+M 0 23004 15 23039 	(a human slave)
+M 0 23004 15 23039 	(a human slave)
+M 0 23004 20 23038 	(a human slave)
+M 0 23004 14 23036 	(a human slave)
+M 0 23000 20 23012 	(a small balrog)
+M 0 23000 20 23019 	(a small balrog)
+M 0 23000 20 23019 	(a small balrog)
+M 0 23002 2 23020 	(the Grand Balrog)
+E 1 23005 3 19 	(the scales of balrog)
+M 0 23002 2 23020 	(the Grand Balrog)
+E 1 23005 3 19 	(the scales of balrog)
+M 0 23000 20 23006 	(a small balrog)
+D 0 23026 0 1 	(The End Of The Path)
+M 0 23000 20 23017 	(a small balrog)
+M 0 23000 20 23031 	(a small balrog)
+M 0 23001 6 23054 	(the Elder Balrog)
+M 0 23001 6 23047 	(the Elder Balrog)
+S
+$

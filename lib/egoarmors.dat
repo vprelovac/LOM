@@ -1,0 +1,38 @@
+{Guardian}
+* MAGIC_ARMOR by -4, CON by 2
+* STONESKIN 
+
+{Ehr Rhee}
+* MAGIC_ARMOR by -5
+* ENH HEAL 
+
+(of Enlightment)
+* MAGIC_ARMOR by 1, INT by 1, WILL POWER by 1
+
+{Sentinel}
+* MAGIC_ARMOR by 3, CHAR_WEIGHT by 60
+
+(of Lesser Shielding)
+* MAGIC_ARMOR by 2, CON by 1
+
+{WindWalker}
+* MAGIC_ARMOR by 2, DEX by 2
+* Enhances item armor by 15%
+
+{of Endurance}
+* MAGIC_ARMOR by 3
+* ENH MOVE 
+* Enhances item armor by 20%
+
+^of North^
+* MAGIC_ARMOR by 5, STR by 3
+* Enhances item armor by 25%
+
+(Deliveer)
+* MAGIC_ARMOR by 1, HITROLL by 2, DAMROLL by 1
+* Enhances item armor by 10%
+
+{of the Shadows}
+* MAGIC_ARMOR by 3
+* INFRAVISION 
+* Enhances item armor by 15%

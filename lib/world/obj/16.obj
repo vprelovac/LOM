@@ -1,0 +1,219 @@
+#1601
+rusty cleaver~
+a rusty cleaver~
+A rusty cleaver lies on a counter top.~
+~
+5 0 8193
+0 1 6 3
+2 5 0
+#1602
+fine mace~
+the fine mace~
+There is a large mace of fine quality here.~
+~
+5 64 8193
+0 2 5 7
+11 900 0
+A
+18 1
+#1603
+elven dagger~
+a long elven dagger~
+A long elven dagger made of adamantite is here.~
+~
+5 65 8193
+0 2 5 11
+2 1000 0
+A
+18 2
+#1604
+steel broad sword~
+a steel broad sword~
+A fine steel broad sword is lying on the ground.~
+~
+5 65 8193
+0 2 6 3
+12 1200 0
+A
+18 1
+A
+19 1
+#1606
+rod might~
+the rod of might~
+A Rod of Might is lying here.~
+~
+5 66 8193
+0 2 7 6
+13 4000 0
+A
+1 1
+A
+18 2
+#1612
+black kite shield~
+a black kite shield~
+There is a large black kite shield lying here.~
+~
+9 65 513
+6 0 0 0
+6 1000 0
+A
+24 1
+#1614
+helm~
+a commander's helm~
+A commander's helm rests on a table here.~
+~
+9 65 17
+7 0 0 0
+4 2000 0
+E
+helm~
+~
+A
+4 1
+#1615
+bracer~
+a mithril bracer~
+A magical bracer made from mithril lies on the ground!~
+~
+9 66 257
+6 0 0 0
+2 6500 0
+A
+1 1
+#1616
+dark blue cloak~
+a dark blue cloak~
+A valuable cloak of dark blue cloth lies on the floor.~
+~
+9 65 5
+1 0 0 0
+2 1600 0
+A
+12 5
+A
+17 -6
+#1621
+dark red potion~
+a dark red potion~
+A dark red potion rests on the ground.~
+~
+10 65 16385
+9 14 15 0
+1 450 0
+#1651
+bronze chest~
+a bronze chest~
+There is a sturdy bronze chest in the corner.~
+~
+15 0 1
+30 5 -1 0
+10 500 0
+#1652
+ale barrel~
+a barrel of ale~
+There is a small barrel in one corner.~
+~
+17 0 1
+5 2 3 0
+8 10 0
+#1691
+key twin towers~
+the twin towers key~
+There is a shiny skeleton key on the ground here.~
+~
+18 0 1
+1 0 0 0
+1 400 0
+#1692
+strange key~
+a strange key~
+There is a very strange-looking key on the ground here.~
+~
+18 65 16385
+2 0 0 0
+1 1200 0
+E
+strange key~
+~
+A
+17 -5
+#1701
+short bow~
+a short bow~
+A short bow has been carelessly left here.~
+~
+6 0 8193
+0 2 4 6
+5 150 0
+E
+short bow~
+It looks like the bows used by rustin hunters.
+~
+#1702
+long bow~
+a long bow~
+A long bow has been foolishly abandoned here.~
+~
+6 65 8193
+0 2 6 6
+8 500 0
+E
+long bow~
+It looks like the bows used by rustin hunters.
+~
+A
+18 1
+#1703
+gnarled staff~
+a gnarled staff~
+A gnarled looking staff lies on the ground.~
+~
+5 65 8193
+0 2 6 7
+7 800 0
+A
+13 5
+#1704
+ancient sword~
+an ancient long sword~
+An ancient long sword has been left here.~
+~
+5 66 8193
+0 2 8 3
+10 10000 0
+A
+18 3
+A
+19 3
+#1711
+fur cap~
+a fur cap~
+A fur cap lies here on the ground.~
+~
+9 0 17
+2 0 0 0
+1 50 0
+#1712
+travelling boots~
+a pair of travelling boots~
+A sturdy pair of travelling boots lies here.~
+~
+9 64 65
+5 0 0 0
+2 3500 0
+A
+14 10
+#1713
+bronze ring~
+a bronze ring~
+A ring of etched bronze gleams dimly on the ground.~
+~
+9 64 3
+3 0 0 0
+1 2000 0
+A
+12 5
+$

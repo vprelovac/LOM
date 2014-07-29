@@ -1,0 +1,212 @@
+#23100
+hollyphant~
+a Hollyphant~
+A Hollyphant is delivering a message here.
+~
+It looks like a large, winged, furry elephant.  It emits an
+aura of goodness.
+~
+64 8 1000 E
+22 7 -3 6d50+1325 3d8+8
+2600 -110
+8 8 0
+E
+#23101
+planetar~
+a planetar~
+A planetar is here watching out for his master's interest.
+~
+Humanoid in appearance, the planetar has wings and is
+hairless.  He is on a mission from his deity.
+~
+66 140 900 E
+34 1 -8 10d20+889 4d10+12
+10000 -100
+8 8 0
+E
+#23102
+shedu~
+a Shedu~
+A Shedu is here fighting evil.
+~
+Half man, half beast.  The Shedu is out looking for evil
+anywhere it may be and it will hunt down until death is the
+result.
+~
+324 32 850 E
+36 2 -8 2d10+934 6d7+9
+200 -100
+8 8 0
+E
+#23103
+dretch demon~
+a dretch~
+A dretch is here slobbering on you.
+~
+A pathetic, slobbering thing.  The dretch is constantly
+picked on by its more powerful, demon brothers.
+~
+228 40 -800 E
+38 1 -8 2d10+983 2d15+18
+1000 -100
+8 8 1
+E
+#23104
+chasme fly demon~
+a chasme~
+A chasme is flying around here.
+~
+The chasme or fly demon is half-human and half-fly.  They
+don't like anyone, not even other demons.
+~
+100 4194344 -900 E
+34 3 -7 4d10+827 3d10+15
+2000 -120
+8 8 1
+E
+#23105
+babau ebony~
+a babau~
+A babau is standing here looking for food.
+~
+The babau or one-horned horror is a demon of considerable
+fright.  He appears a skeleton with a black leather jumpsuit
+on.  He is constantly searching for flesh to eat.
+~
+100 128 -1000 E
+39 4 -7 2d25+919 5d7+13
+4500 -100
+8 8 0
+E
+#23106
+yagnodemon demon~
+a yagnodemon~
+A yagnodemon is here flexing his giant-sized arm.
+~
+The yagnodemon has one man-sized and one giant-sized arm. 
+With the giant-sized arm it can wield huge weapons.  He is
+not in a good mood right now.
+~
+100 56 -950 E
+37 0 -9 4d25+994 4d6+21
+10000 -140
+8 8 1
+E
+#23107
+kostchtchie demon kost~
+Kostchtchie~
+Kostchtchie is here resting on his journey of evil.
+~
+Kostchtchie a powerful demon lord is here.  Obviously
+derived from giant stock, he is very powerful.  And he does
+not like to be interrupted.
+~
+98 168 -1000 E
+46 -4 -14 4d50+1398 4d10+21
+75000 -140
+8 8 1
+E
+#23108
+nabassu demon~
+a nabassu~
+A nabassu is here looking to upgrade his status.
+~
+A tall, thin demon, the nabassu are very bat-like in
+appearance.  He seems to have an intense interest in you.
+~
+100 8 -950 E
+39 1 -9 2d10+1087 6d5+18
+12500 -120
+8 8 1
+E
+#23109
+dragon cloud~
+a cloud dragon~
+A cloud dragon is here wanting to be left alone.
+~
+This dragon is as large as a red dragon, but does not like
+to get involved in the struggle between good and evil.  It
+wants to be left alone.
+~
+66 168 0 E
+38 2 -9 2d30+1067 10d3+16
+50000 -100
+8 8 0
+E
+#23110
+solar~
+a solar~
+A solar is here contemplating the fight against evil.
+~
+A beautiful being, the solar is totally dedicated to the
+continuation of the good beings.
+~
+66 172 1000 E
+46 -4 -14 2d40+1521 10d4+19
+50000 -100
+8 8 1
+Class: 2
+E
+#23111
+wemic~
+a wemic~
+A wemic is hunting here.
+~
+Part man, part lion, and part horse; the wemic is a creature
+not to be taken lightly.
+~
+100 32 100 E
+35 1 -9 2d10+1035 3d6+25
+1000 -100
+8 8 1
+Class: 1
+E
+#23112
+frost giant~
+a frost giant~
+A frost giant is here looking for treasure.
+~
+Large members of the giant family, the frost giants are
+ravenous collectors of treasure.  They don't like to share
+this treasure with anyone.
+~
+98 40 -300 E
+36 0 -9 4d40+1016 3d12+16
+100000 -100
+8 8 1
+E
+#23113
+gorgimera~
+a gorgimera~
+A gorgimera is here flexing its wings.
+~
+This three-headed monster is waiting to rip the head off of
+its latest victim to add to its collection.  Watch out for
+that breath attack.
+~
+98 4194312 -750 E
+39 0 -9 2d25+1072 4d5+24
+25000 -120
+8 8 0
+E
+#23114
+ratatosk~
+Ratatosk~
+Ratatosk is here delivering the Gods' messages.
+~
+You see a giant squirrel carrying greetings and tidings from
+the various deities residing in these realms.  He does not
+want to be delayed in his task.
+~
+2097220 44 200 E
+48 -4 -13 2d50+3049 10d7+3
+5000 -160
+8 8 0
+Dex: 16
+Int: 21
+E
+$
+
+
+
+Mob special remarks

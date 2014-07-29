@@ -1,0 +1,223 @@
+#6500
+dwarf guard~
+the dwarven guard~
+A dwarven guard is here.
+~
+The guard looks very tough and mean.
+~
+6147 136 500 E
+20 0 -2 20d20+200 2d4+18
+10000 -140
+8 8 1
+E
+#6501
+dwarf worker miner~
+the dwarven worker~
+A dwarven mining worker is here.
+~
+He is very dirty, and looks extremely over-worked.
+~
+6208 0 900 E
+12 4 1 12d12+120 1d7+7
+3500 -100
+8 8 1
+E
+#6502
+wraith~
+the wraith~
+A wraith is awaiting your first move here.
+~
+A black, almost transparent wraith.
+~
+57346 40 -900 E
+29 -5 -10 29d29+290 4d6+15
+50000 -100
+8 8 1
+E
+#6503
+storekeeper~
+the storekeeper~
+There is the Hide & Tooth storekeeper standing here, waiting patiently.
+~
+The storekeeper is very rotund, but looks like a sharp guy.
+~
+2 0 900 E
+35 2 2 6d10+990 2d9+20
+100000 -100
+8 8 1
+E
+#6504
+baker~
+the baker~
+Granite Head, the baker, is waiting for a customer here.
+~
+Granite Head is covered with flour and grains.
+~
+2 0 900 E
+35 2 2 7d10+990 2d9+19
+1000 -100
+8 8 1
+E
+#6505
+lizard~
+the giant lizard~
+A giant lizard is here.
+~
+This scaly creature looks like it is well adapted to it's underground
+habitat.  He looks very powerful.
+~
+64 8 100 E
+18 7 2 10d20+500 4d4+5
+1200 -100
+8 8 1
+E
+#6506
+giant~
+the giant~
+A giant is here.
+~
+The giant is about 8 feet tall, with arms of steel, and looks very strong.
+~
+64 0 0 E
+16 5 1 4d20+300 3d7+5
+2000 -100
+8 8 1
+E
+#6507
+dwarf miner~
+the dwarven miner~
+A dwarven miner is here.
+~
+The mineworker is very tired, and very dirty, and he has bulging muscles.
+~
+2 0 0 E
+8 14 7 8d8+100 2d9+9
+40 -100
+8 8 1
+E
+#6508
+dwarf leader~
+the dwarven mine leader~
+A dwarven mine leader is here.
+~
+The mine leader is very big and very strong.
+~
+2 0 0 E
+21 0 -8 5d3+400 3d9+3
+20000 -100
+8 8 1
+E
+#6509
+dwarf doctor~
+the dwarven doctor~
+The dwarven doctor is here.
+~
+He is a very skilled surgeon, with hands of steel.
+~
+2 136 1000 E
+9 15 4 9d9+99 3d4+12
+1500 -100
+8 8 1
+E
+#6510
+dwarf peon~
+the dwarven peon~
+A dwarven peon is awaiting help here.
+~
+
+~
+2 0 500 E
+3 16 6 5d3+33 2d4+3
+75 -100
+8 8 1
+E
+#6511
+dwarf~
+the dwarf~
+A grinning dwarf is here.
+~
+
+~
+2 0 500 E
+9 10 2 9d9+99 3d4+1
+1250 -100
+8 8 1
+E
+#6512
+dwarf son~
+the unwanted son~
+An unwanted son is here.  You feel sorry for the guy.
+~
+
+~
+64 0 250 E
+9 12 3 3d4+125 3d5+5
+50 -100
+8 8 1
+E
+#6513
+dwarf daughter~
+the unwanted daughter~
+An unwanted daughter is here.  You feel sorry for her.
+~
+
+~
+64 0 250 E
+10 11 2 3d4+135 3d5+7
+50 -100
+8 8 1
+E
+#6514
+dwarf guard~
+the barracks guard~
+A barrack guard is here.
+~
+
+~
+4098 0 100 E
+16 5 1 16d16+160 3d6+8
+3000 -100
+8 8 1
+E
+#6515
+man~
+the man in waiting~
+A man in waiting is here.  He looks nervous and unsure of himself.
+~
+
+~
+2 0 300 E
+15 12 7 6d8+180 3d7+5
+6969 -100
+8 8 1
+E
+#6516
+mazekeeper~
+the mazekeeper~
+A mazekeeper is here.
+~
+He looks VERY tough.
+~
+34 128 -1000 E
+29 0 -9 25d29+290 4d8+15
+80000 -140
+8 8 1
+Str: 25
+E
+#6517
+snake~
+the giant snake~
+There is a giant snake here.
+~
+
+~
+34 0 -1000 E
+15 7 2 3d7+432 3d7+6
+3000 -100
+8 8 1
+E
+$
+
+
+
+Mob special remarks

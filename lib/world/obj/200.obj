@@ -1,0 +1,61 @@
+#20000
+key granite~
+a granite key~
+The key to the Goblin Caves lies here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#20001
+key stone~
+a stone key~
+A strange stone key is here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#20002
+key~
+a Jailor's key~
+The key to some horrible place of torture is here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#20003
+key dust~
+a secret looking key~
+There is some dust on the ground here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#20004
+sword goblin~
+a Goblin Sword~
+A plain but affective Goblin Sword lies here.~
+~
+5 512 8193
+0 2 5 3
+20 100 0
+A
+19 1
+#20005
+plate~
+a Goblin Breast Plate~
+Some plain looking armor lies here.~
+~
+9 512 9
+5 0 0 0
+20 100 0
+#20006
+sword~
+a Goblin Sentry's Sword~
+A deadly looking Goblin Sentry's sword~
+~
+5 1024 8193
+0 2 5 3
+20 100 0
+A
+19 3
+$

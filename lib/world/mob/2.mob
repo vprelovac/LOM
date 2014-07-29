@@ -1,0 +1,30 @@
+#200
+witch hag woman~
+a witch~
+A robust woman grins as she watches you in her cottage.
+~
+She appears to be an old woman whom you guess to be a witch since
+she has in her hand a wand, and in the room is a magical red book.
+~
+2 0 0 E
+28 6 -4 0d0+0 0d0+0
+14000 -100
+8 8 2
+E
+#201
+sailor~
+the sailor~
+A stranded sailor stands here, selling boats.
+~
+It appears that this sailor's captain has left him here on the dock.
+~
+2 0 900 E
+23 2 2 1d30000+0 1d8+32
+12000 -100
+8 8 1
+E
+$
+
+
+
+Mob special remarks

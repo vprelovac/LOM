@@ -1,0 +1,1730 @@
+#12001
+small flame~
+a small flame~
+A small sparkling flame sits here~
+~
+1 1 16385
+0 0 20 0
+1 0 0
+E
+small flame~
+You see a small flame sparkling in the dark. it is not that bright, but it
+could be useful to light your path. Strangely but as you take it in your 
+arm it doesn't burn.
+~
+#12002
+large flame~
+a large flame~
+A large burning flame is here on the ground.~
+~
+1 1 16385
+0 0 -1 0
+1 0 0
+E
+large flame~
+This flame is very bright, and could provide as a light source for a
+long time. But as you take it in your arms you feel that is burns you.
+~
+A
+13 -15
+#12003
+bone glowing~
+a glowing bone~
+A strange glowing bone lies in the dust.~
+~
+1 129 16385
+0 0 10 0
+1 0 0
+E
+bone glowing~
+You see a bone that glows with an eerie light from within it's core. You are 
+amazed as it is cold to the touch, yet it radiates light.
+~
+A
+1 -2
+A
+13 -30
+#12004
+bone glowing~
+a glowing bone~
+A strange glowing bone lies in the dust.~
+~
+1 67 16385
+0 0 0 0
+1 5000 0
+E
+bone glowing~
+You see a bone that glows with an eerie light from within it's core. You are 
+amazed as it is cold to the touch, yet it radiates light.
+~
+A
+17 -5
+A
+24 -5
+#12005
+lamp golden~
+a golden lamp~
+A shiny golden lamp lies here.~
+~
+1 67 16385
+0 0 200 0
+5 1000 0
+E
+lamp golden~
+This lamp is made of pure gold. It is lined with strange runes and markings
+on it's side. It's light shines very bright.
+~
+A
+25 2
+#12006
+orb crystal~
+a crystal orb~
+A crystal orb lies here glowing.~
+~
+1 78922 16385
+0 0 -1 0
+4 0 0
+E
+orb crystal~
+A orb made out of pure crystal radiates bright light as you look at it.
+~
+A
+2 1
+A
+14 10
+#12007
+trident flaming~
+a flaming trident~
+A trident caught in flames lies here.~
+~
+1 78413 16385
+0 0 -1 0
+8 0 0
+E
+trident flaming~
+This trident is in the state of white heat. It can't be used as weapon, but
+it fiery blaze radiates bright light. You could use it as a light source.
+~
+A
+2 2
+A
+18 7
+A
+19 -3
+#12008
+emerald ring~
+a emerald ring~
+An ring with and emerald stone is here.~
+~
+8 2 3
+0 0 0 0
+2 5000 0
+E
+emerald ring~
+This ring that is lined with gold and silver has a beautiful emerald stone 
+in it's heart. It must worth a lot of money.
+~
+A
+6 3
+#12009
+silver scale~
+a silver scale~
+A small silvery scale lies in the dust.~
+~
+9 800 3
+3 0 0 0
+2 500 0
+E
+silver scale~
+This small scale must have been a part of some snake monster, judging by 
+it's size. Strangely it is shaped that way, so you can put it on your finger.
+~
+A
+1 1
+#12010
+daedra red ring~
+a daedra ring~
+A ring made out of heavy red metal lies here.~
+~
+9 16876119 3
+5 0 0 0
+6 2000 0
+E
+daedra red ring~
+This ring is made out of rare red adamantum metal which is very heavy. This 
+ring was once worn by the Daedran knights in the days of their guild.
+~
+A
+12 20
+A
+24 -2
+#12011
+demon ring~
+a demon ring~
+A demonic looking ring lies here.~
+~
+9 8834 3
+15 0 0 0
+3 200 0
+E
+demon ring~
+This ring which has a demonic face carved into it radiates evil as you touch 
+it. You feel it leaches your powers
+~
+A
+2 -1
+A
+5 -2
+A
+25 -2
+#12012
+blue stone ring~
+a stone ring~
+A ring made out of blue stone is here.~
+~
+9 579 3
+5 0 0 0
+4 2000 0
+E
+emerald ring~
+This ring is made out of blue stone. It is cold and rough to the touch, and 
+hums with magic.
+~
+A
+4 1
+A
+6 -3
+#12013
+pendant demon~
+a demon pendant~
+A evil looking demon pendant lies here.~
+~
+9 650 5
+-5 0 0 0
+7 0 0
+E
+pendant demon~
+A pendant that is radiating evil as you touch it. You shiver from the cold 
+touch of the metal.
+~
+A
+2 -3
+A
+5 -2
+#12014
+mithril necklace~
+a mithril necklace~
+A peace of mithril jewlery lies on the flor.~
+~
+8 257 5
+0 0 0 0
+7 5000 0
+E
+mithril necklace~
+This necklace is made out of pure mithril and it glows with magic. It's value 
+must be great.
+~
+A
+17 -7
+A
+20 1
+#12015
+guardian collar~
+a guardian's collar~
+You notice a collar made out of thick brown skin.~
+~
+9 1 5
+3 0 0 0
+6 500 0
+E
+guardian collar~
+This collar is made out of thick brown skin, demon like. It was once worn by 
+guardian demon.
+~
+A
+1 1
+#12016
+daedra red necklace~
+a daedra necklace~
+You see a necklace made out of thick red metal.~
+~
+9 33347 5
+5 0 0 0
+8 3000 0
+E
+daedra red necklace~
+This necklace is made out of rare red adamantum metal which is very heavy. It 
+was once worn by the Daedran knights in the days of their guild.
+~
+A
+3 1
+A
+4 2
+A
+12 15
+#12017
+pendant spiked~
+the Yenderian spike~
+You see an unusual spiked pendant.~
+~
+9 16790499 5
+15 0 0 0
+9 50000 0
+E
+pendant spiked~
+This pendant has a huge golden spike in it's base. It is notorious Yenderian 
+spike, a very powerful item.
+~
+A
+1 -3
+A
+18 6
+A
+19 6
+#12018
+gerion collar~
+the Gerion's collar~
+Wide and thick collar lies on the ground.~
+~
+9 4674 5
+-5 0 0 0
+7 10000 0
+E
+gerion collar~
+This huge collar was once a belonging of Gerion, the hound of hive.
+~
+A
+5 3
+A
+6 -3
+A
+19 10
+#12019
+cape age~
+a cape of ages~
+A old and aged cape lies here.~
+~
+9 49153 5
+10 0 0 0
+5 10000 0
+E
+cape age~
+This cape looks torn and old, like it was used in many battles for a long 
+time. You feel that it could tell you stories forever.
+~
+A
+3 3
+A
+4 2
+A
+9 30
+#12020
+unholy symbol~
+the unholy symbol of hive~
+You see a trincklet or a symbol of some sort glistening on the ground.~
+~
+9 2835 5
+6 0 0 0
+3 10000 0
+E
+unholy symbol~
+This golden symbol is in shape of a demon like face. It has tiny red stones 
+in it's eyes glowing and staring at you.
+~
+A
+1 -2
+A
+3 -2
+A
+12 30
+A
+13 30
+A
+24 -10
+#12021
+demon skin armor~
+a demon skin armor~
+A armor made out of brown demon skin lies here.~
+~
+9 2561 9
+6 0 0 0
+7 5000 0
+E
+demon skin armor~
+You hold in your hands a armor made out of real demon skin. It is hairy to 
+the touch but it also has scales.
+~
+A
+1 1
+A
+5 1
+A
+13 20
+#12022
+demon skin armor heavy~
+a heavy demon skin armor~
+A big armor made out of thick demon skin lies here.~
+~
+9 2625 9
+11 0 0 0
+10 10000 0
+E
+demon skin armor heavy~
+You hold in your hands a armor made out of real demon skin. It is hairy to 
+the touch but it also has scales.
+~
+A
+5 2
+A
+10 20
+A
+25 5
+#12023
+demon skin plate mail~
+a demon skin plate mail~
+You see a full plate mail made out of thick brown skin.~
+~
+9 2626 9
+20 0 0 0
+16 20000 0
+E
+demon skin plate mail~
+You hold in your hands a full plate made out of real demon skin. It is hairy
+to the touch but it also has scales.
+~
+A
+2 -2
+A
+13 30
+A
+17 -5
+A
+19 5
+#12024
+shirt torn~
+a torn shirt~
+A torn dirty old shirt lies in the dust.~
+~
+13 0 9
+0 0 0 0
+1 0 0
+E
+shirt torn~
+This old shirt is made out of white thread, but now it looks torn and old.
+~
+A
+22 -1
+#12025
+demonic plate~
+a demonic plate~
+A demonic looking plate lies here.~
+~
+9 641 9
+20 0 0 0
+14 15000 0
+E
+demonic plate~
+This plate which has a demonic face carved into it radiates evil as you touch
+it. You feel it leaches your powers
+~
+A
+1 -8
+A
+10 80
+A
+14 -80
+#12026
+dress strapless~
+a sexy strapless dress~
+A very nice strapless dress lies here nicely folded.~
+~
+9 579 9
+6 0 0 0
+6 0 0
+E
+dress strapless~
+This black strapless evening dress could look very good on a woman... or even
+on a man.
+~
+A
+6 6
+A
+9 -15
+#12027
+daedra red armor~
+a daedra armor~
+A armor made out of thick red adamantum lies here.~
+~
+9 13123 9
+16 0 0 0
+16 50000 0
+E
+daedra red armor~
+This armor is made out of rare red adamantum metal which is very heavy. It 
+was once worn by the Daedran knights in the days of their guild.
+~
+A
+1 1
+A
+5 2
+A
+13 10
+#12028
+armor flaming~
+a flaming armor~
+An armor engulfed in magical raging flames is here burning.~
+~
+9 35732319 9
+8 0 0 0
+12 5000000 0
+E
+armor flaming~
+This armor was once worn by Pyros, a flaming titan. You feel the slight pain 
+as magical flames touch you, but you also feel the protective powers in them.
+
+(CONST) FIRE SHIELD
+~
+A
+13 -200
+A
+18 15
+A
+20 -2
+A
+23 -1
+A
+24 -3
+#12029
+daedra red chainmail~
+a daedra chainmail~
+You see a chainmail made out of heavy red metal.~
+~
+9 65 9
+5 0 0 0
+12 20000 0
+E
+daedra red chainmail~
+This chainmail is made out of rare red adamantum metal which is very heavy. 
+It was once worn by the Daedran knights in the days of their guild.
+~
+A
+3 2
+A
+12 50
+A
+19 5
+#12030
+daedra red plate~
+a daedra full platemail~
+A full body platemail made out of heavy red metal hums on the ground.~
+~
+9 4163 9
+25 0 0 0
+30 100000 0
+E
+daedra red plate~
+This magnificent full body platemail is made out of rare red adamantum metal 
+which is very heavy. It was once worn by the Daedran knights in the days of 
+their guild.
+~
+A
+1 2
+A
+2 -2
+A
+10 100
+A
+14 -50
+#12031
+nazi uniform~
+a nazi uniform~
+You see a black uniform with red swastikas all over it.~
+~
+9 514 9
+7 0 0 0
+5 0 0
+E
+nazi uniform~
+This black nazi uniform was worn by a member of nazis. It has numerous medals
+on it, it's full of crosses and swastikas.
+~
+A
+6 -5
+A
+11 2
+#12032
+pope robe~
+a Pope's robe~
+A white robe with a huge cross on it's back is here.~
+~
+9 34307 1025
+3 0 0 0
+6 1 0
+E
+pope robe~
+Once belonging to one of the Popes, this robe looks light but protective.
+And you are sure that it has a blessing of some sort on it.
+~
+A
+14 200
+A
+18 6
+A
+19 3
+#12033
+robe demonmage~
+a robe of demonmage~
+A robe sparking with magic lies here.~
+~
+9 16812769 1025
+5 0 0 0
+6 0 0
+E
+robe demonmage~
+This robe is filled with evil magic incantations. You feel it's power in your 
+fingertips as you touch it.
+~
+A
+12 60
+A
+24 -5
+#12034
+thief robe~
+a robe of thief~
+A thin and light robe lies in a heap here.~
+~
+9 16814338 1025
+7 0 0 0
+4 0 0
+E
+thief robe~
+This robes looks as a perfect clothing for a thief, dark and not heavy at all.
+~
+A
+2 5
+A
+17 -15
+#12035
+divil robe~
+a divil's robe~
+A black and bloody robe lies here.~
+~
+9 66 1025
+5 0 0 0
+4 0 0
+E
+divil robe~
+This is small and dirty robe once worn by a divil.
+~
+A
+1 1
+#12036
+jacket red leather~
+a red leather jacket~
+A small red leather jacket lies here.~
+~
+9 0 9
+3 0 0 0
+0 0 0
+E
+jacket red leather~
+You see a small useless jacket made out of red leather.
+~
+#12037
+coat mink~
+a mink coat~
+A lovely mink coat lies here.~
+~
+8 256 1025
+0 0 0 0
+3 5000 0
+E
+coat mink~
+You see a lovely mink coat. It must be very expensive.
+~
+A
+6 3
+#12038
+scull cap~
+a scull cap~
+A small scull cap lies here.~
+~
+9 129 17
+4 0 0 0
+5 0 0
+E
+scull cap~
+This is a cap made out from someone's scull... EEEEEEEEK!
+~
+A
+4 1
+#12039
+steel helm~
+a steel helm~
+A small steel helm lies here.~
+~
+9 2 17
+5 0 0 0
+6 5000 0
+E
+steel helm~
+This is a simple steel helm. You see nothing out of the ordinary.
+~
+A
+2 1
+A
+14 15
+#12040
+demon horns~
+a demon horns~
+A large heavy horns lie here in the dust.~
+~
+9 2 17
+3 0 0 0
+7 0 0
+E
+demon horns~
+This horns were ripped out of some demon's head. Ack!!! There is blood still 
+dripping from their base.
+~
+A
+1 2
+A
+13 15
+#12041
+hive cup~
+the Cup of Hive~
+A large golden cup lies here.~
+~
+8 64 17
+0 0 0 0
+10 50000 0
+E
+hive cup~
+This large cup is in shape of a turned bell. It is made out of gold and is 
+lined with red rubies.
+~
+A
+23 -10
+#12042
+daedra red helmet~
+a daedra helmet~
+You see a helm made out of heavy red adamantum metal.~
+~
+9 67 17
+11 0 0 0
+15 80000 0
+E
+daedra red helmet~
+This helmet is made out of rare red adamantum metal which is very heavy. It 
+was once worn by the Daedran knights in the days of their guild.
+~
+A
+5 1
+A
+13 20
+#12043
+white helm~
+a white helm~
+You see a glowing white helm here.~
+~
+9 322 17
+6 0 0 0
+7 100 0
+E
+white helm~
+This is a simple white helm, but yet... It seems unusual.
+~
+A
+17 -5
+A
+18 8
+A
+19 3
+#12044
+heaven helm~
+a helm of Heavens~
+A beautiful golden helm lies here.~
+~
+9 50335051 17
+11 0 0 0
+15 1000000 0
+E
+heaven helm~
+This helm must have descended from heavens. It hums and glows with a blessed 
+light.
+
+(CONST) BLESS
+~
+A
+4 3
+A
+9 15
+A
+24 -5
+#12045
+dark cap~
+a dark cap~
+A dark and gloomy looking cap is on the ground.~
+~
+9 1 17
+4 0 0 0
+7 50 0
+E
+dark cap~
+This cap is made out of some dark material that looks like skin! You can 
+clearly see texture and scars on the surface of cap.
+~
+A
+3 1
+A
+4 2
+#12046
+winged helmet bat~
+a bat winged helmet~
+A helmet with bat wings attached to it lies here.~
+~
+9 322 17
+6 0 0 0
+10 100 0
+E
+winged helmet bat~
+On this hard looking helmet there is a pair of bat wings attached on either 
+side of it. It looks quite heavy.
+~
+A
+14 25
+A
+22 -3
+A
+24 -1
+#12047
+human scalp~
+a human scalp~
+A bloody human scalp lies in the puddle of blood.~
+~
+13 130 17
+0 0 0 0
+2 0 0
+E
+human scalp~
+As you look at this horrible peace of human physique, you can actually feel
+itching on your own head.
+~
+A
+1 -5
+A
+3 -3
+A
+4 -2
+#12048
+demon mask~
+a demon mask~
+A mask of a demon lies on the ground.~
+~
+9 130 65537
+-5 0 0 0
+6 0 0
+E
+demon mask~
+The shape of this mask is a demon face evil to the touch. It hums slightly as 
+you try to grip it firmly.
+~
+A
+6 -3
+A
+24 -6
+#12049
+mask true~
+the Mask of True Seeing~
+A mysterious mask lies in the dust.~
+~
+9 16780385 65537
+15 0 0 0
+5 5000000 0
+E
+mask true~
+You look at this strange mask. You feel it's magic aura touching
+your hands. On it's corner you see some strange mystic runes.
+
+(CONST) DETECT INVISIBLE
+(CONST) SENSE LIFE
+~
+A
+3 3
+A
+18 7
+#12050
+mirror shades~
+a cool looking mirror shades~
+You see some cool looking mirror shades.~
+~
+9 6241 65537
+3 0 0 0
+2 30000 0
+E
+mirror shades~
+This is a strange peace of eyewear... you think. You can see your reflection
+in it like it is mirror, but from the other side it looks like everything is
+dark. This could help when the sun is too bright.
+~
+A
+6 5
+A
+25 4
+#12051
+daedra red visor~
+a daedra visor~
+A visor made out of heavy red metal lies here.~
+~
+9 322 65537
+9 0 0 0
+13 60000 0
+E
+daedra red visor~
+This visor is made out of rare red adamantum metal which is very heavy. It 
+was once worn by the Daedran knights in the days of their guild.
+~
+A
+3 3
+A
+12 70
+A
+19 6
+#12052
+eyes glowing~
+a pair of glowing eyeballs~
+You see a pair of bloody eyeballs here.~
+~
+9 2561 65537
+3 0 0 0
+2 200000 0
+E
+eyes glowing~
+The blood is dripping from this eyes and you get the impression that they are
+freshly taken out from someone's head. You are amazed as everything looks 
+brighter as you look through them.
+
+(CONST) INFRAVISION
+~
+A
+2 1
+A
+22 3
+#12053
+gloves blinding~
+a blinding gloves~
+You see a pair of silvery scaled gloves in the dirt.~
+~
+3 32833 16513
+30 10 10 4
+5 30000 0
+E
+gloves blinding~
+This pair of gloves are shiny with their silvery scales, and you fear that
+with a right amount of light they could even blind you.
+~
+A
+12 40
+A
+19 3
+#12054
+leather gloves~
+a leather gloves~
+You see a pair of leather gloves in the dust.~
+~
+9 3 129
+3 0 0 0
+2 100 0
+E
+leather gloves~
+You see ordinary leather gloves.
+~
+A
+18 2
+#12055
+huge spiked gaunlets~
+a huge spiked gaunlets~
+Some huge spiked gaunlets lie on the ground.~
+~
+9 16789571 129
+7 0 0 0
+8 10000 0
+E
+huge spiked gaunlets~
+These gaunlets have huge spikes that look like huge fingernails. They seem 
+verysharp to the touch.
+~
+A
+1 2
+A
+18 7
+A
+19 -15
+#12056
+painted fingernails~
+a painted fingernails~
+Some artificial painted fingernails lie here in a heap.~
+~
+12 256 129
+0 0 0 0
+1 0 0
+E
+painted fingernails~
+These plastic red fingernails could look very nice on your fingers.
+~
+A
+6 3
+#12057
+daedra red gaunlets~
+a daedra gaunlets~
+A gaunlets made out of thick red metal lie here.~
+~
+9 16777283 129
+7 0 0 0
+10 70000 0
+E
+daedra red gaunlets~
+These gaunlets are made out of rare red adamantum metal which is very
+heavy. They were once worn by the Daedran knights in the days of their guild.
+~
+A
+3 2
+A
+12 30
+#12058
+demonskin sleeves~
+a demonskin sleeves~
+Some sleeves made out of hard demon skin lie here.~
+~
+9 66 257
+6 0 0 0
+8 100 0
+E
+demonskin sleeves~
+These sleeves are made out of thick demon skin. You feel they could protect 
+your arms well.
+~
+A
+18 1
+#12059
+adamantum arm plates~
+an adamantum arm plates~
+A pair of adamantum arm plates lie here leaned to the wall.~
+~
+9 67 257
+5 0 0 0
+7 5000 0
+E
+adamantum arm plates~
+These are some heavy adamantum arm plates. They glow with bluish light.
+~
+A
+5 1
+A
+13 15
+#12060
+demon arm armor~
+a demon arm armor~
+A big demon arm armor lies here.~
+~
+9 2755 257
+8 0 0 0
+12 1 0
+E
+demon arm armor~
+This is a standard demon arm armor in hive.
+~
+A
+2 -2
+A
+17 -12
+#12061
+daedra red arm plates~
+a daedra arm plates~
+Some heavy looking red arm plates are here.~
+~
+9 67 257
+15 0 0 0
+13 100000 0
+E
+daedra red arm plates~
+These arm plates are made out of rare red adamantum metal which is very
+heavy. They were once worn by the Daedran knights in the days of their guild.
+~
+A
+1 2
+A
+5 1
+A
+13 80
+#12062
+bracers demon skin~
+a demonskin bracers~
+A bracers made out of thick brown skin lie here.~
+~
+9 66 4097
+3 0 0 0
+5 100 0
+E
+bracers demon skin~
+These are standard bracers that can be seen throughout the hive.
+~
+A
+18 3
+A
+19 2
+A
+25 1
+#12063
+watch wrist golden~
+a golden wristwatch~
+A nice golden wristwatch is here on the dust.~
+~
+8 257 4097
+0 0 0 0
+2 15000 0
+E
+watch wrist golden~
+This wristwatch is made out of 14 carat gold. Besides the thing that it looks 
+nice and can tell time, it must be very valuable.
+~
+A
+3 1
+A
+4 2
+#12064
+daedra red bracers~
+a daedra bracers~
+Some bracers made out of heavy red metal lie here.~
+~
+9 259 4097
+12 0 0 0
+11 50000 0
+E
+daedra red bracers~
+These bracers are made out of rare red adamantum metal which is very
+heavy. They were once worn by the Daedran knights in the days of their guild.
+~
+A
+5 -2
+A
+18 6
+A
+19 6
+#12065
+utility belt~
+the utility belt~
+A very big utility belt lies here.~
+~
+15 3328 2049
+600 4 -1 0
+8 100000 0
+E
+utility belt~
+This utility belt must have more than hundred containers and secret
+compartments. It is rather big and resembles one that Batman uses on his
+night runs.
+~
+A
+10 20
+A
+13 120
+A
+21 -3
+A
+24 -3
+#12066
+leather belt~
+a leather belt~
+A nice polished leather belt lies on the ground.~
+~
+9 1 2049
+2 0 0 0
+2 1 0
+E
+leather belt~
+Nothing unusual... This is simple but nice leather belt.
+~
+A
+14 1
+#12067
+huge demon wings~
+a huge demon wings~
+Some huge bat-shaped demon wings lie on the ground.~
+~
+9 4675 32769
+15 0 0 0
+10 1 0
+E
+huge demon wings~
+Wow! These wings are even larger than you... After examination you find that
+they can perfectly fit on your back.
+~
+A
+2 3
+A
+14 100
+#12068
+sneaky boots~
+a sneaky boots~
+You see some light leather boots on the ground.~
+~
+9 16963 65
+3 0 0 0
+4 1 0
+E
+sneaky boots~
+As you flip them in your hands they make no sound.
+
+CONST (SNEAK)
+~
+A
+2 1
+A
+14 20
+#12069
+huge demon claws~
+a huge demon claws~
+You see a pair of large demon claws.~
+~
+5 2563 8385
+3 5 6 8
+8 1 0
+E
+huge demon claws~
+These demon claws must have belonged to some flying demon. They can easily fit 
+on your feet or hands but you can wield them as well.
+~
+A
+2 1
+A
+19 8
+A
+24 -2
+#12070
+daedra red leggings~
+a daedra leggings~
+A pair of leggings made out of heavy red metal lie here in the dust.~
+~
+9 67 33
+17 0 0 0
+15 70000 0
+E
+daedra red leggings~
+These leggings are made out of rare red adamantum metal which is very
+heavy. They were once worn by the Daedran knights in the days of their guild.
+~
+A
+2 2
+A
+14 60
+A
+18 5
+#12071
+demon skin leggings~
+a pair of demon skin leggings~
+You see some demon skin leggings here in the dust.~
+~
+9 706 33
+7 0 0 0
+6 100 0
+E
+demon skin leggings~
+You see that this leggings are made out of thick brown demon skin. It is very 
+hard to the touch.
+~
+A
+5 2
+A
+14 -50
+A
+17 -5
+#12072
+leather pants~
+a leather pants~
+You see a pair of common leather pants.~
+~
+9 0 33
+3 0 0 0
+4 0 0
+E
+leather pants~
+You see some perfectly usual leather pants.
+~
+#12073
+silk stockings~
+a pair of silky stockings~
+Some silky stockings catch your eye.~
+~
+12 2 33
+0 0 0 0
+1 1 0
+E
+silk stockings~
+You see a pair of nice looking silk stockings. They are light, you almost 
+don't feel their weight.
+~
+A
+6 3
+A
+9 -5
+#12074
+boots miles 7~
+the boots of 7 miles~
+You see some big glowing boots in the corner.~
+~
+9 16855133 65
+6 0 0 0
+5 1000000 0
+E
+boots miles 7~
+You are amazed as you feel the magic touch of this boots. They are dusty and 
+must have passed many roads, but they are not worn out at all.
+~
+A
+2 4
+A
+14 150
+#12075
+high heel shoes~
+a high heel shoes~
+A pair of black high heels shoes lie here neglected.~
+~
+9 515 65
+2 0 0 0
+2 0 0
+E
+high heel shoes~
+You see a pair of shoes with high heels. Nothing unusual about them.
+~
+A
+6 1
+A
+11 15
+#12076
+frozen boots~
+a pair of frozen boots~
+A pair of cold and frozen boots lie here.~
+~
+9 2114 65
+5 0 0 0
+4 1 0
+E
+frozen boots~
+As you feel them they stick to your arms. Wow... they look really frozen. But 
+strangely as you try to wear them they don't seem to be so cold.
+
+(CONST) PROTECTION FROM COLD
+~
+A
+11 10
+A
+24 -2
+#12077
+fiery boots~
+a pair of fiery boots~
+You see a pair of boots that are burning here!~
+~
+9 833 65
+6 0 0 0
+2 1 0
+E
+fiery boots~
+OUCH!!! As you try to grab them they seem very hot and they burn your palms... 
+But from the inside... they are not burning at all.
+
+(CONST) PROTECTION FROM FIRE
+~
+A
+2 2
+A
+24 -1
+#12078
+demon boots~
+a demon boots~
+A pair of demonic looking boots lie here in the dust.~
+~
+9 16779906 65
+5 0 0 0
+2 0 0
+E
+demon boots~
+This boots are not very nice... In fact, after few moments you are unsure if 
+you should use them at all.
+~
+A
+2 -2
+A
+14 -50
+#12079
+shield metal blue~
+a blue metal shield~
+You see small shield made out of blue metal here.~
+~
+9 1 513
+8 0 0 0
+7 1 0
+E
+shield metal blue~
+This looks like common blue shield.
+~
+A
+17 -5
+#12080
+hive shield~
+a shield of hive~
+A shield that sparks of demonic magic is here leaned to the wall.~
+~
+9 16855647 513
+15 0 0 0
+13 100000 0
+E
+hive shield~
+This looks as a powerful shield. It has a face of a raging demon carved into 
+it.
+~
+A
+2 3
+A
+5 1
+A
+19 4
+A
+24 -4
+A
+25 2
+#12081
+daedra red shield~
+a daedra full-body shield~
+You see huge shield as big as you leaned to the wall.~
+~
+9 50397263 513
+20 0 0 0
+30 1000000 0
+E
+daedra red shield~
+This shield is made out of rare red adamantum metal which is very heavy.
+It was once worn by the Daedran knights in the days of their guild.
+~
+A
+10 20
+A
+13 25
+A
+20 -1
+A
+22 -2
+A
+23 -3
+A
+24 -4
+#12082
+spiked shield~
+a spiked shield~
+A shield with numerous spikes lies here.~
+~
+9 577 513
+9 0 0 0
+13 1 0
+E
+spiked shield~
+This shield has some sharp spikes on it's front side. You wouldn't like to be
+bashed with it.
+~
+A
+13 10
+A
+19 5
+#12083
+defend shield~
+the Defender~
+You see a beautiful shield fallen from heavens.~
+~
+9 16777283 513
+12 0 0 0
+17 1 0
+E
+defend shield~
+This shield is glowing with a heavenly light. You feel it in your fingertips
+that it is filed with good incantations.
+~
+A
+10 30
+A
+12 25
+A
+13 25
+A
+17 -12
+#12084
+guardian sword~
+the sword of Guardian~
+A humongous sword lies on the ground.~
+~
+5 17826387 8193
+15 15 5 12
+45 1 0
+E
+guardian sword~
+This sword is HUGE!!! You wonder if you will be able to hold it.
+~
+A
+12 100
+A
+13 100
+A
+14 100
+A
+25 3
+#12085
+demon sword~
+a demon sword~
+A ugly looking demon sword lies here.~
+~
+5 706 8193
+2 5 6 3
+11 1 0
+E
+demon sword~
+You see a simple demon sword.
+~
+A
+2 -1
+A
+13 15
+#12086
+two handed demon sword~
+a two-handed demon sword~
+A big two-handed sword lies here stuck to the ground.~
+~
+5 577 8193
+5 5 12 3
+20 1 0
+E
+two handed demon sword~
+You see two handed demon sword.
+~
+A
+1 -1
+A
+13 2
+A
+19 3
+#12087
+demon whip~
+a black demon whip~
+A huge black leather whip lies on the ground.~
+~
+5 2562 8193
+2 2 8 2
+5 1 0
+E
+demon whip~
+It is made out of black leather.
+~
+A
+3 -2
+A
+18 1
+#12088
+dagger rusty~
+a rusty dagger~
+A small rusty dagger is stuck to the ground here.~
+~
+5 577 8193
+1 3 6 11
+3 0 0
+E
+dagger rusty~
+This dagger is corroded with rust.
+~
+A
+2 1
+#12089
+curved blade~
+a curved blade~
+A curved sharp blade lies on the ground.~
+~
+5 131586 8193
+3 4 5 3
+6 1 0
+E
+curved blade~
+This blade has a very unusual shape.
+~
+A
+18 11
+#12090
+demon mace~
+a big demon mace~
+A rather large demon mace hums silently.~
+~
+5 33346 8193
+3 10 2 5
+13 0 0
+E
+demon mace~
+It is made out of black metal.
+~
+A
+12 15
+A
+24 -2
+#12091
+sharp teeth~
+a big sharp demon teeth~
+Somebody left some big teeth here on the ground.~
+~
+5 16778050 73729
+5 12 7 4
+12 0 0
+A
+18 5
+A
+19 9
+#12092
+fiery sword~
+a flaming sword~
+A sword caught in flames lies here.~
+~
+6 50336515 8193
+7 3 14 12
+15 0 0
+A
+13 -80
+A
+18 -4
+A
+19 13
+#12093
+blazing bane heaven~
+the Heaven's bane~
+You see a blazing form hovering in the air in front of you.~
+~
+6 18875731 8193
+15 12 5 6
+5 0 0
+A
+3 3
+A
+19 7
+A
+24 -15
+#12094
+large cleaver~
+a large cleaver~
+A big bloody cleaver is stuck to the ground here.~
+~
+5 1048578 8193
+3 8 8 10
+15 0 0
+A
+5 2
+A
+19 5
+#12095
+demon lord trident~
+the trident of Demon Lord~
+You see a mighty trident, big almost as you glowing with evil.~
+~
+5 22088543 24577
+10 10 15 12
+60 666 0
+A
+11 80
+A
+18 20
+A
+19 25
+A
+25 8
+#12096
+huge black obelisk~
+a huge black obelisk~
+A huge mysterious black obelisk is here humming.~
+~
+12 2 0
+0 0 0 0
+100 0 0
+E
+huge black obelisk~
+As you look at this huge obelisk you feel that some mysterious force is 
+sucking the life out of your eyes. You advert your view in fear.
+~
+#12097
+dark potion~
+a dark potion~
+A dark potion swirls around in a small bottle.~
+~
+10 64 1
+35 57 69 -1
+1 0 0
+#12098
+demon staff~
+a demon staff~
+You see a evil looking staff stuck to the ground.~
+~
+4 16777283 16385
+30 5 5 40
+5 0 0
+E
+demon staff~
+This staff has a carving of a small demon on top of it.
+~
+A
+3 1
+A
+24 -3
+#12099
+huge treasure coins~
+a huge treasure of coins~
+~
+~
+20 0 1
+10000 0 0 0
+1 0 0
+E
+huge treasure coins~
+You see great riches lying around.
+~
+#12100
+key stone~
+a stone key~
+A big stone key lies in the dust here.~
+~
+18 64 16385
+0 0 0 0
+2 0 0
+E
+key stone~
+It has a carving: "Temple of... " 
+The rest is incomprehensible...
+~
+A
+17 -10
+#12101
+alcove~
+a small alcove~
+A small alcove is in the wall here.~
+~
+15 0 0
+10 1 -1 0
+0 0 0
+#12102
+alcove~
+a small alcove~
+A small alcove is in the wall here.~
+~
+15 0 0
+10 1 -1 0
+0 0 0
+#12103
+iron key~
+a large iron key~
+A large iron key lies here.~
+~
+18 0 1
+0 0 0 0
+3 0 0
+$~

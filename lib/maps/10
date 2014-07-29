@@ -1,0 +1,49 @@
+map catacombs
+Ivan Elcic's Map of Dwarven Catacombs
+
+                U02
+                 |
+                 *
+                 |
+     *--*--*--*--*
+     |     |     |
+     *--*  |     *     *--*
+        |  |     |     |  |
+  *--*  |  *--*  |     *--*
+  |  |  |  |     |     |
+  *--*--*  *--*  *--*--*--*
+        |  |     |     |  |
+        *  *--*  |     *--*
+        |  |     |        |
+        *--*--*  *        *
+                 |
+       WTS---_   |
+        |     "-_|
+        *-----*--*--*
+        |           |
+        |           *--*--*--*-----*--*
+        |           |     |           |
+  *--*--*--*        |     *           |
+  |                 |     |           |
+  |                 *     *-U03   D03-*
+  |                 |     |           |
+  |                 |     *--*--*     *
+  |                 |     |  |  |     |
+  |                 |     |  *--*     *
+  |                 |     |           |
+  *--------*--------P--*--*-----*     |
+  |                 |           |     |
+  |                 |           *-----*
+  |                 |                 |
+  *-----------------*                 *
+                    |                 |
+                    *--*              *
+                    |  |              |
+                    *--*             U01
+
+  P   - Prism Dragon
+  WTS - When going to the west one reaches the room to the south
+  U01 - The first entrance after 2 descents from the dwarven kingdom
+  U02 - The second entrance after descent from the dwarven kingdom
+  Dn  - Descent number n
+  Un  - The end of the two-way descent number n (one may go up)

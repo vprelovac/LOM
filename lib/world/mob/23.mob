@@ -1,0 +1,644 @@
+#2300
+knight ethereal dark~
+the Dark Ethereal Knight~
+A dark ethereal knight hovers over the bloody clearing.
+~
+The ethereal knight is clad in shadowy black armor. It appears as though he
+was involved in the carnage that occurred here. His soul is trapped here, as
+he waits for release.
+~
+11 136 -1000 E
+25 -10 -5 550d1+75 1d8+15
+25000 0
+8 8 1
+Str: 18
+Dex: 16
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2301
+treant tree~
+the Old Treant~
+A huge, gnarled tree stands here, battered by age and nature.
+~
+The old tree looks as though the wind has battered and torn at it for years.
+Very few leaves remain. Its limbs are crooked and gnarled. It moans as the 
+wind pushes it back and forth.
+~
+10 0 250 E
+20 -10 -3 250d1+50 3d6+5
+5000 0
+8 8 0
+Str: 18
+Dex: 16
+Int: 16
+Wis: 17
+Con: 16
+Cha: 16
+E
+#2302
+dweller cave~
+the Cave Dweller~
+A slimy, gross creature is here munching on a corpse.
+~
+The cave dweller looks like a mixture of several disgusting monsters. It has
+a bird's beak, huge white eyes, a furry body, and long clawed hands and feet.
+It sees you and snarls.
+~
+43 262164 0 E
+15 -5 2 150d1+75 3d6+3
+2500 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 15
+Con: 16
+E
+#2303
+toad rock~
+the Rock Toad~
+A rather large rock toad sits here, croaking loudly.
+~
+A grey toad. Its about the size of a cow. Small horns grow all over its body.
+~
+10 0 -250 E
+14 -4 4 150d1+35 2d8+3
+2550 0
+8 8 0
+Str: 16
+Dex: 14
+Int: 14
+Wis: 15
+Con: 16
+E
+#2304
+weeping willow tree~
+the Weeping Willow~
+A large willow tree stands here, weeping.
+~
+The weeping willow has long thins branches. These branches seem to droop in
+anguish and dismay. You hear a faint sound of crying.
+~
+10 136 1000 E
+25 -10 -5 550d1+50 4d6+5
+20000 0
+8 8 2
+Str: 18
+Dex: 17
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2305
+mist mistling~
+the Mistling~
+A mistling emerges from the mist surrounding you.
+~
+It looks like a thin wisp of mist that has gained substance and size.
+~
+42 524288 0 E
+15 -9 5 200d1+20 2d9+3
+1000 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 15
+Con: 16
+E
+#2306
+swamp wraith~
+the Swamp Wraith~
+A swamp wraith emerges from the mist here.
+~
+The swamp wraith is made of mist and is in the image of a great warrior. He
+appears to emerge from the mist. You feel the cold radiating from his form as
+he nears you.
+~
+47 0 -1000 E
+20 -10 -10 250d1+25 6d4+5
+25000 0
+8 8 1
+Str: 18
+Dex: 17
+Int: 16
+Wis: 17
+Con: 16
+Cha: 16
+E
+#2307
+ogre villager~
+the Ogre Villager~
+The ogre villager is here, going about its chores.
+~
+You see a pitifully overworked ogre. It is dressed in rags and shuffles along
+with its head hung low. It sees you and cringes in mortal terror.
+~
+200 0 -200 E
+10 1 3 100d1+20 2d6+2
+200 0
+8 8 0
+Str: 16
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+E
+#2308
+warrior ogre~
+the Ogre Warrior~
+The ogre warrior stands here, growling fiercely.
+~
+The ogre warrior is dressed in thick fur armor. He looks quite large and
+formidable.
+~
+236 0 -350 E
+15 -4 1 175d1+25 3d6+3
+5000 0
+8 8 1
+Str: 16
+Dex: 14
+Int: 16
+Wis: 15
+Con: 16
+E
+#2309
+guard ogre~
+the Ogre Guard~
+The ogre guard is here manning his post faithfully.
+~
+The ogre guard stands here manning his post. It appears as though he would
+fight to the death before abandoning his post.
+~
+110 0 -500 E
+19 -10 2 200d1+50 3d6+5
+10000 0
+8 8 1
+Str: 16
+Dex: 15
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#2310
+shaman ogre~
+the Ogre Shaman~
+The ogre shaman is here chanting arcane words and waving his arms.
+~
+The ogre shaman is draped in thick fur cloaks and pelts. He has all types of
+charms and holy symbols draped about him. He looks at you and snarls.
+~
+238 136 -750 E
+20 -10 1 250d1+50 4d6+5
+50000 0
+8 8 1
+Str: 18
+Dex: 16
+Int: 16
+Wis: 17
+Con: 16
+Cha: 16
+E
+#2311
+chief chieftain ogre~
+the Ogre Chieftain~
+The ogre chieftain is here, observing his subjects.
+~
+This is the biggest ogre you have ever seen. He is heavily equipped and looks
+quite formidable. He towers high above you and growls menacingly.
+~
+238 136 -1000 E
+25 -14 -2 550d1+50 5d5+5
+50000 0
+8 8 1
+Str: 18
+Dex: 17
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2312
+barbarian~
+the Plains Barbarian~
+A plains barbarian is here, clad in heavy furs.
+~
+The plains barbarian is clad in heavy furs. He seems used to the chilling cold
+and icy wastes.
+~
+238 0 0 E
+20 -10 1 250d1+50 3d6+4
+5000 0
+8 8 1
+Str: 18
+Dex: 18
+Int: 16
+Wis: 17
+Con: 16
+Cha: 16
+E
+#2313
+yeti white~
+the White Yeti~
+The white yeti crouches here snarling.
+~
+The white yeti looks like a huge white snow ape. Its long arms end in long
+curved talons and its mouth is full of sharp teeth.
+~
+239 0 -350 E
+16 -9 5 200d1+25 3d7+3
+1000 0
+8 8 0
+Str: 16
+Dex: 14
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#2314
+worm ice iceworm~
+the Ice Worm~
+A huge ice worm burrows through the ice and snow here.
+~
+The huge worm is almost 50 feet long. Its huge gaping mouth spews ice and snow
+as it charges directly at you.
+~
+111 0 0 E
+20 -10 -5 250d1+75 3d6+5
+3500 0
+8 8 0
+Str: 18
+Dex: 18
+Int: 16
+Wis: 17
+Con: 16
+Cha: 16
+E
+#2315
+citizen minotaur~
+the Minotaur Citizen~
+A minotaur citizen is here, hurrying through the icy streets.
+~
+You see a rather ragged and cold minotaur. It appears to be looking for a warm
+place to seek refuge from the cold.
+~
+206 0 100 E
+15 -5 3 100d1+230 2d5+5
+10000 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 15
+Con: 16
+E
+#2316
+guard minotaur~
+the Minotaur Guard~
+A minotaur guard catches you trespassing and attacks!
+~
+The minotaur is clad in heavy furs. Beneath these furs, you see the gleam of
+his armor.
+~
+110 0 -330 E
+22 -12 0 400d1+40 4d6+5
+25000 0
+8 8 1
+Str: 18
+Dex: 17
+Int: 16
+Wis: 17
+Con: 16
+Cha: 16
+E
+#2317
+warrior minotaur~
+the Minotaur Warrior~
+A minotaur warrior is here looking for intruders.
+~
+You see a huge minotaur that is dressed in thick furs and armor. He has black
+fur and red eyes. He looks quite capable of protecting the city.
+~
+108 0 -330 E
+21 -11 0 300d1+50 3d7+5
+25000 0
+8 8 1
+Str: 18
+Dex: 18
+Int: 16
+Wis: 17
+Con: 16
+Cha: 16
+E
+#2318
+minotaur gatekeeper~
+the Minotaur Gatekeeper~
+A minotaur is here guarding the Keep of Mahn-Tor.
+~
+The minotaur stands rigidly before the gates of the keep. It looks quite
+miserable standing in the driven snow and ice.
+~
+78 8 -330 E
+25 -14 -5 550d1+50 5d5+5
+25000 0
+8 8 0
+Str: 18
+Dex: 18
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2319
+minotaur high guard~
+the High Minotaur Guard~
+The minotaur high guard is here guarding the Keep.
+~
+The high guard is dressed in blue plate armour. He looks quite dangerous and
+skilled.
+~
+110 8 -330 E
+25 -14 -5 600d1+20 4d7+4
+45000 0
+8 8 1
+Str: 18
+Dex: 17
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2320
+minotaur royal guard~
+the Royal Minotaur Guard~
+The royal minotaur guard considers you an intruder and attacks!
+~
+The royal guard is quite huge. He is dressed in heavy red armor and wields a
+huge glaive. He looks quite capable of protecting the keep.
+~
+110 8 -330 E
+26 -16 -7 650d1+50 5d5+4
+50000 0
+8 8 1
+Str: 18
+Dex: 16
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2321
+guard minotaur elite~
+the Elite Minotaur Guard~
+The elite minotaur guard sees you and attacks!
+~
+This minotaur wields a huge morningstar and is clad in heavy crimson plate and
+furs.
+~
+110 8 -250 E
+28 -18 -8 800d1+50 6d5+5
+75000 0
+8 8 1
+Str: 18
+Dex: 18
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2322
+girl haremgirl harem slave~
+the Harem Girl~
+A harem girl cowers here in fear.
+~
+She looks quite attractive. Her low cut gown reveals why she was chosen to be
+in the harem.
+~
+206 0 1000 E
+2 10 10 50d1+10 3d1+5
+10 0
+8 8 2
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#2323
+butler minotaur~
+the Minotaur Butler~
+A minotaur butler stands here rigidly, awaiting orders.
+~
+He looks quite regal and refined to be a minotaur.
+~
+206 0 250 E
+20 -9 0 1d12+247 3d6+4
+5000 0
+8 8 1
+Str: 18
+Dex: 18
+Int: 16
+Wis: 17
+Con: 16
+Cha: 16
+E
+#2324
+keeper minotaur ring-keeper~
+the Minotaur Ring-Keeper~
+The minotaur ring-keeper stands guarding his post.
+~
+The ring-keeper is a huge minotaur. You notice a huge ring of multicolored
+keys hanging from his belt. He wears huge, spiked brass knuckles.
+~
+78 136 -300 E
+29 -19 -9 100d3+700 5d7+5
+50000 0
+8 8 1
+Str: 18
+Dex: 18
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2325
+gorak minotaur warrior master~
+Gorak~
+Gorak, the Minotaur Master Warrior, is here practicing his skills.
+~
+Gorak is HUGE. His bulging muscles are confined beneath heavy armor. He is the
+master of the warrior guild of Mahn-Tor.
+~
+32810 168 -300 E
+30 -19 -12 25d25+3000 6d7+5
+100000 0
+8 8 1
+Str: 25
+Dex: 20
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2326
+darkoth minotaur anti-paladin master~
+Darkoth~
+Darkoth, the minotaur anti-paladin, stands here grinning wickedly.
+~
+Darkoth is a living incarnation of evil. He radiates a dark aura, and a cold
+chill runs down your spine. He is the master of the Mahn-Tor anti-paladins.
+~
+43 168 -1000 E
+30 -19 -12 25d25+3000 6d6+5
+100000 0
+8 8 1
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2327
+tyrgoth minotaur paladin master~
+Tyrgoth~
+Tyrgoth, the minotaur paladin, is here worshipping silently.
+~
+Tyrgoth is the minotaur incarnation of good. You feel safe and at ease in his
+presence. He is the leader of the Mahn-Tor paladins.
+~
+41242 4268 1000 E
+30 -19 -12 25d25+3000 6d6+5
+100000 0
+8 8 1
+Str: 20
+Dex: 16
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2328
+amyrok minotaur mage master~
+Amyrok~
+Amyrok, the minotaur archmage, is here chanting arcane spells.
+~
+Amyrok is a small minotaur. He is clad in loose robes and emits an aura of
+power. He appears quite dangerous, despite his size. He is the leader of the
+mages of Mahn-Tor.
+~
+42 4194474 300 E
+30 -19 -10 25d25+2500 6d6+5
+100000 0
+8 8 1
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2329
+sumaron minotaur cleric master~
+Sumaron~
+Sumaron, master cleric of Mahn-Tor, is here looking holy.
+~
+Sumaron is clad in white glowing robes. He is goodness incarnate. He is the
+master of all the clerics of Mahn-Tor.
+~
+42 168 1000 E
+30 -19 -10 25d25+2500 6d6+5
+100000 0
+8 8 1
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2330
+nasturn minotaur druid master~
+Nasturn~
+Nasturn, the minotaur druid, is here studying the arts of nature.
+~
+Nasturn is quite a natural looking minotaur. He is dressed in leather and
+wears no metal of any type. He looks at you and smiles.
+~
+30 168 500 E
+30 -19 -10 25d25+2500 6d6+5
+100000 0
+8 8 1
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2331
+belrak minotaur ranger master~
+Belrak~
+Belrak, the minotaur ranger, looks unhappy about having visitors.
+~
+Belrak is clad in green and brown leather. He looks quite agile and thin, when
+compared to the normal minotaur. He looks at you with a slight smirk.
+~
+42 168 500 E
+30 -19 -10 25d25+3000 6d6+5
+100000 0
+8 8 1
+Str: 24
+Dex: 20
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2332
+dorgar minotaur thief master~
+Dorgar~
+Dorgar, the minotaur thief, is here hiding in the shadows.
+~
+Dorgar is clad all in black. He is tall and slender, unlike most minotaurs. He
+appears to be quite a skilled thief.
+~
+2179118 1744936 -500 E
+30 -19 -12 25d25+3000 6d10+5
+100000 0
+8 8 1
+Str: 20
+Dex: 21
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#2333
+mahn-tor minotaur grand master~
+Mahn-Tor~
+Mahn-Tor, the minotaur grand master, is here looking down at you.
+~
+Mahn-Tor towers above you. He is simply huge. Mahn-Tor is clad in the best of
+armor and robes. He wields the largest axe you have ever seen. You can see why
+Mahn-Tor is the leader of the minotaurs. He is awe-inspiring.
+~
+8222 4325546 -500 E
+33 -20 -14 25d35+3200 6d9+8
+100000 0
+8 8 1
+Str: 25
+Dex: 19
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+$

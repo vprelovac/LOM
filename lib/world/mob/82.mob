@@ -1,0 +1,593 @@
+#8200
+shopkeeper giles~
+Giles~
+Giles the shopkeeper sits with his feet up on the counter.
+~
+Giles sits here most of the time serving things to the visitors of the zoo.  
+His lazy streak prevents him from doing any other job and besides the pay's  
+good here.
+~
+74 8 0 E
+20 -19 0 3d9+333 2d8+5
+200 0
+8 8 1
+Str: 22
+Dex: 20
+Int: 18
+Wis: 19
+Con: 18
+Cha: 20
+E
+#8201
+zoo keeper man~
+the zookeeper~
+A man sits behind the desk here.
+~
+This is the zookeeper of the world famous midgaard zoo. He is in charge of  
+the upkeep of all the animals and the running of the zoo in general. He has  
+slicked backgraesy hair and a long curly moustache. From the good state of  
+his clothes, you guess that he rarely goes near the animals here himself.
+~
+10 32 0 E
+10 -16 3 2d7+90 2d4+16
+50 0
+8 8 1
+Str: 18
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+E
+#8202
+giant leech~
+a giant leech~
+A giant leech sticks to your arm.
+~
+A little browny black leech.
+~
+42 0 0 E
+3 -10 9 2d6+35 1d6+0
+4 0
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8203
+tiger~
+the tiger~
+A tiger stands here ready to pounce.
+~
+Pussy cat.
+~
+42 1024 0 E
+21 -21 -2 3d9+429 3d4+13
+220 0
+8 8 2
+BareHandAttack: 8
+Str: 22
+Dex: 23
+Int: 18
+Wis: 19
+Con: 18
+Cha: 20
+E
+#8204
+dolphin~
+a dolphin~
+A dolphin swims happily here.
+~
+Water fowl
+~
+14 0 50 E
+10 -14 5 2d7+121 2d4+2
+50 0
+8 8 2
+Str: 18
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+E
+#8205
+unicorn~
+the unicorn~
+A unicorn stands here.
+~
+Fox
+~
+10 0 1000 E
+15 -16 3 3d9+208 2d6+3
+112 0
+8 8 2
+Str: 18
+Dex: 14
+Int: 18
+Wis: 15
+Con: 18
+E
+#8206
+crocodile~
+a crocodile~
+A crocodile floats just below the surface of the water.
+~
+A big green scaly creature with very large teeth. You better hope that it has  
+been fed laterly.
+~
+42 0 -100 E
+19 -20 2 2d10+367 2d5+13
+180 0
+8 8 2
+BareHandAttack: 4
+Str: 22
+Dex: 15
+Int: 18
+Wis: 15
+Con: 18
+Cha: 20
+E
+#8207
+bear~
+the bear~
+A large bear growls louly as it advances.
+~
+This bear is one of the largest you have ever seen. The thought of what its  
+huge claws can do to your face makes you shudder
+~
+42 0 0 E
+16 -16 1 2d10+277 2d5+10
+128 0
+8 8 2
+BareHandAttack: 8
+Str: 25
+Dex: 15
+Int: 18
+Wis: 15
+Con: 18
+Cha: 20
+E
+#8208
+baby dragon lizard huge 8ft~
+the baby dragon~
+A huge 8ft long lizard sits here.
+~
+This lizard looks like a scaled down version of a dragon. As you look at him  
+he burps and a cloud of smoke comes outa of his mouth.
+~
+11 0 2 E
+26 -24 -4 3d9+615 2d7+18
+338 0
+8 8 2
+BareHandAttack: 4
+Str: 23
+Dex: 18
+Int: 18
+Wis: 19
+Con: 22
+Cha: 24
+E
+#8209
+elephant~
+the elephant~
+A elephant stands here.
+~
+A gray elephant with big ears.
+~
+10 0 100 E
+14 -16 2 2d10+223 1d12+8
+98 0
+8 8 2
+Str: 25
+Dex: 15
+Int: 14
+Wis: 15
+Con: 18
+E
+#8210
+gorilla~
+the gorilla~
+A gorilla stands here.
+~
+A large hairy gorilla.
+~
+42 0 0 E
+19 -19 -2 3d9+363 2d6+12
+180 0
+8 8 1
+Str: 23
+Dex: 15
+Int: 18
+Wis: 15
+Con: 18
+Cha: 20
+E
+#8211
+zoo assistant young woman~
+the zoo assistant~
+A young woman is here preparing food here.
+~
+She looks kinda cute.
+~
+10 0 200 E
+10 -14 5 2d7+121 2d4+2
+50 0
+8 8 2
+Str: 18
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+E
+#8230
+pig~
+a pig~
+A pig is here, wallowing in mud.
+~
+This is a small pink pig. Nothing more, Nothing less.
+~
+10 0 0 E
+3 -10 9 2d6+35 1d6+0
+4 0
+8 8 2
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8231
+small bird~
+a small bird~
+A small bird flies around here.
+~
+The little birdy flies merily around in the sky twerping and whistling.
+~
+8 4194304 0 E
+1 -9 10 2d6+10 1d4+0
+0 0
+8 8 2
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8232
+baby goat~
+a baby goat~
+A small baby goat chews a piece of grass here.
+~
+A cute looking creature.
+~
+74 0 0 E
+2 -10 9 2d7+21 1d5+0
+2 0
+8 8 2
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8233
+mother goat~
+a mother goat~
+A medium sized goat stands here chewing.
+~
+The goat has a large round belly. As you stand looking at the goat it  
+wanders over and stats chewing at your clothes.
+~
+74 0 0 E
+3 -10 9 2d6+35 1d6+0
+4 0
+8 8 2
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8234
+father goat~
+a father goat~
+A large goat stands here.
+~
+The large goat stands in front of you and stares right into your eyes. His  
+large horns look as if they could do a nasty bit of damage.
+~
+74 0 0 E
+4 -11 8 2d7+46 1d5+1
+8 0
+8 8 2
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8235
+sad sorry donkey~
+a donkey~
+A sad sorry looking donkey is here.
+~
+The donkey looks sad and miserable. Its eyes have sleep in the corners and  
+its right ears has a chunk missing from it.
+~
+10 0 0 E
+5 -11 8 2d6+60 1d6+1
+12 0
+8 8 2
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8236
+old horse~
+an old horse~
+An old horse stands here.  
+~
+The horse looked as if it was once a war horse. It is big and muscular and  
+can proberly still do a lot of damage despite being retired.
+~
+10 0 0 E
+6 -12 7 2d7+71 1d7+1
+18 0
+8 8 2
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#8237
+parrot harvey~
+Harvey the parrot~
+Harvey the green parrot sits on a perch here.
+~
+This green parrot is sitting on its perch. It watches your every move. Below  
+the parrot, fixed to its perch is a name plaque. The plaque reads 'Harvey the  
+talking parrot, please mind your fingers'.
+~
+10 4194304 0 E
+8 -13 6 2d7+96 1d7+2
+32 0
+8 8 2
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+E
+#8238
+two hydra~
+the two-headed hydra~
+The two-headed hydra growls here.
+~
+It has two heads!
+~
+16442 32 -200 E
+20 -20 2 5d5+300 5d5+1
+200 0
+8 8 0
+BareHandAttack: 4
+Str: 22
+Dex: 18
+Int: 18
+Wis: 19
+Con: 18
+Cha: 20
+E
+#8239
+three hydra~
+the three-headed hydra~
+The three-headed hydra growls here.
+~
+It has three heads!
+~
+16442 32 -400 E
+30 -25 -3 5d5+700 5d5+10
+450 0
+8 8 0
+BareHandAttack: 4
+Str: 25
+Dex: 20
+Int: 22
+Wis: 19
+Con: 22
+Cha: 24
+E
+#8240
+four hydra~
+the four-headed hydra~
+The four-headed hydra growls here.
+~
+It has four heads!
+~
+81978 32 -800 E
+40 -28 -11 5d5+2000 5d5+15
+800 0
+8 8 0
+BareHandAttack: 4
+Str: 25
+Dex: 25
+Int: 22
+Wis: 23
+Con: 25
+Cha: 25
+E
+#8241
+five hydra~
+the five-headed hydra~
+The five-headed hydra growls here.
+~
+It has five heads!
+~
+2179130 32 -1000 E
+50 -36 -16 5d5+4000 5d5+45
+1250 0
+8 8 0
+BareHandAttack: 4
+Str: 25
+Dex: 25
+Int: 25
+Wis: 23
+Con: 25
+Cha: 25
+E
+#8242
+gruber man~
+Gruber~
+Gruber is standing here, doing something weird.
+~
+Small guy with almost no hair and very long, skillful fingers.
+~
+253963 1064 -1000 E
+30 -29 -10 0d0+2000 10d10+10
+100000 0
+8 8 1
+Str: 25
+Dex: 20
+Int: 22
+Wis: 19
+Con: 22
+Cha: 24
+E
+#8243
+joe~
+Joe~
+Joe is here, minding his business.
+~
+This guy is baldie. Buhahaha.
+~
+253963 1064 -1000 E
+30 -29 -10 0d0+2000 10d10+10
+100000 0
+8 8 1
+Str: 25
+Dex: 18
+Int: 22
+Wis: 19
+Con: 22
+Cha: 24
+E
+#8244
+Willie~
+Willie~
+Willie is here, making up a new quest.
+~
+This guy can give you a quest. And if you have enough quest points, you may even 
+buy some real good items.
+~
+33808394 1064 -1000 E
+60 -29 -10 0d0+30000 10d10+10
+100000 0
+8 8 1
+Str: 25
+Dex: 21
+Int: 24
+Wis: 21
+Con: 25
+Cha: 25
+E
+#8245
+abrams man old~
+Abrams~
+The very old man with long, grey beard is standing here.
+~
+That must be Abrams, the guradian of the Wheel of Destiny.
+~
+6547467 1073743016 0 E
+51 -39 -10 30d30+4000 10d10+50
+1250 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+E
+#8246
+kid assassin~
+a small kid~
+A small kid is playing in the corner.
+~
+A innocent looking kid. Really.
+~
+24586 787496 -1000 E
+40 -31 -11 10d10+800 5d5+35
+100000 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 24
+Wis: 24
+Con: 25
+Cha: 25
+E
+#8247
+natasha assassin~
+Natasha~
+Natasha is here, doing something illegal.
+~
+Natasha is a very beautiful girl.
+~
+24586 787496 -1000 E
+30 -21 -6 10d10+500 5d5+25
+450 0
+8 8 2
+Str: 25
+Dex: 18
+Int: 22
+Wis: 19
+Con: 22
+Cha: 24
+E
+#8248
+illgoar assassin~
+Illgoar~
+Illgoar is standing here.
+~
+A real assassin. He looks mean.
+~
+24586 1064 0 E
+20 -19 -1 10d10+300 5d5+10
+200 0
+8 8 1
+Str: 22
+Dex: 18
+Int: 18
+Wis: 19
+Con: 18
+Cha: 20
+E
+#8249
+viktor rosta assassin~
+Viktor Rosta~
+Viktor Rosta is standing here, adjusting hidden rippers.
+~
+A real assassin. He looks mean.
+~
+24586 1064 0 E
+10 -17 4 10d10+150 5d3+5
+50 0
+8 8 1
+Str: 18
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+E
+$

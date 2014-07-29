@@ -1,0 +1,841 @@
+#22000
+mantra compassion mu~
+mu~
+Mu, the Mantra of Compassion is here.~
+~
+18 2 1
+0 0 0 0
+1 0 0
+#22001
+mantra humility lum~
+lum~
+Lum, the Mantra of Humility is here.~
+~
+18 2 1
+0 0 0 0
+1 0 0
+#22002
+mantra justice beh~
+beh~
+Beh, the Mantra of Justice is here.~
+~
+18 2 1
+0 0 0 0
+1 0 0
+#22003
+mantra spirituality ohm~
+ohm~
+Ohm, the Mantra of Spirituality is here.~
+~
+18 2 1
+0 0 0 0
+1 0 0
+#22004
+mantra honesty ahm~
+ahm~
+Ahm, the Mantra of Honesty is here.~
+~
+18 2 1
+0 0 0 0
+1 0 0
+#22005
+mantra sacrifice cah~
+cah~
+Cah, the Mantra of Sacrifice is here.~
+~
+18 2 1
+0 0 0 0
+1 0 0
+#22006
+mantra valor ra~
+ra~
+Ra, the Mantra of Valor is here.~
+~
+18 2 1
+0 0 0 0
+1 0 0
+#22007
+mantra honor summ~
+summ~
+Summ, the Mantra of Honor is here.~
+~
+18 2 1
+0 0 0 0
+1 0 0
+#22008
+moonstone~
+moonstone~
+A totally featureless Moonstone is here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#22009
+moonstone~
+moonstone~
+A totally featureless Moonstone is here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#22010
+moonstone~
+moonstone~
+A totally featureless Moonstone is here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#22011
+moonstone~
+moonstone~
+A totally featureless Moonstone is here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#22012
+moonstone~
+moonstone~
+A totally featureless Moonstone is here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#22013
+moonstone~
+moonstone~
+A totally featureless Moonstone is here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#22014
+moonstone~
+moonstone~
+A totally featureless Moonstone is here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#22015
+moonstone~
+moonstone~
+A totally featureless Moonstone is here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#22016
+hourglass~
+the Hourglass~
+You feel an aura of power emanating from the Hourglass.~
+~
+18 1 16385
+0 0 0 0
+1 0 0
+A
+4 2
+A
+9 -50
+#22017
+crook~
+the shepherd's crook~
+The crook lies here.~
+~
+5 0 8193
+0 3 3 7
+4 0 0
+#22018
+doll~
+the doll~
+An old rag doll is here.~
+~
+13 128 1
+0 0 0 0
+30 0 0
+E
+rag old doll~
+The rag doll seems to take on the weight of the child you killed.
+~
+#22019
+sword~
+katrina's sword~
+Katrina's sword gleams prettily.~
+~
+5 1024 8193
+0 3 4 1
+2 0 0
+E
+sword~
+The sword is shined and cared for with much care.  It glows with
+the light of virtue.
+~
+#22020
+scroll~
+a wrinkled scroll~
+A scroll rescued from the spider's web.~
+~
+2 0 1
+10 23 0 0
+1 0 0
+#22021
+dagger~
+a magic dagger~
+The magic dagger lies here, pulsating.~
+~
+5 66 8193
+0 8 4 11
+4 0 0
+A
+3 2
+A
+18 6
+A
+19 3
+#22022
+robe~
+a robe~
+The robes of a mage lies here.~
+~
+9 0 1025
+8 0 0 0
+5 0 0
+E
+robe~
+These robes are comfortable and clean.
+~
+#22023
+horseshoes~
+horseshoes~
+Smithy's horseshoes are here.~
+~
+9 1 65
+11 0 0 0
+7 0 0
+A
+14 50
+A
+19 3
+#22024
+instrument mandolin~
+a mandolin~
+The fine instrument lies here.~
+~
+5 0 8193
+0 7 2 6
+5 0 0
+#22025
+cup~
+a cup~
+The beggar's cup is here.~
+~
+15 0 5
+0 0 0 0
+1 0 0
+#22026
+gold~
+some gold pieces~
+Gold pieces.~
+~
+20 0 1
+50 0 0 0
+5 0 0
+#22027
+bottle~
+the bottle~
+Iolo's bottle sits here.~
+~
+10 0 1
+11 15 -1 0
+1 0 0
+#22028
+bow~
+iolo's bow~
+Iolo's bow stands against a wall.~
+~
+6 3 8193
+0 3 5 6
+4 0 0
+E
+bow iolo~
+Crafted by the master himself, Iolo, the bow is finely made.  It
+wood gleams, and as you pluck the string the clearest note
+sounds.
+~
+A
+2 1
+#22029
+chicken~
+a chicken~
+A chicken is lying on the ground.~
+~
+5 1024 8193
+0 4 6 7
+6 0 0
+E
+chicken~
+As you look closer you see this isn't a real chicken, it's one of
+those gag rubber chickens. 
+~
+A
+2 -1
+A
+18 -4
+A
+19 12
+#22030
+infinity bow~
+the Infinity Bow~
+The Infinity Bow floats here.~
+~
+6 1027 8193
+0 9 3 6
+3 0 0
+E
+infinity bow~
+The bow is immense, yet light.  You see no string, but as your
+hands touch the bow a string of pure energy appears and the bow
+vibrates with power.
+~
+A
+2 3
+A
+19 5
+#22031
+spear~
+a wooden spear~
+A simple wooden spear lies here.~
+~
+5 0 8193
+0 2 3 6
+4 0 0
+#22032
+club~
+a stone club~
+A stone club is here.~
+~
+5 0 8193
+0 1 4 7
+10 0 0
+#22033
+gavel~
+a gavel~
+The Judge's gavel lies here.~
+~
+5 1024 8193
+0 3 8 7
+5 0 0
+E
+judge gavel~
+The Gavel is made of ironwood, and seems to have some of the
+qualities of Justice in it.
+~
+A
+4 3
+A
+12 10
+#22034
+staff jannas~
+a staff~
+Janna's staff lies here.~
+~
+5 1025 8193
+0 6 4 7
+7 0 0
+E
+staff~
+Janna's staff is strangely shaped, in a double helix form.  As
+you look at the two snake-like pieces of wood, they seem to
+move.
+~
+A
+4 1
+#22035
+sword~
+a sword~
+Geoffrey's sword gleams in the sun.~
+~
+5 1025 8193
+0 2 11 3
+7 0 0
+E
+geoffreys sword~
+Geoffrey's sword is heavy but sharp.  When you touch the jeweled
+~
+A
+1 1
+#22036
+sword~
+a sword~
+A simple sword is here.~
+~
+5 0 8193
+0 2 9 3
+5 0 0
+#22037
+sword bastard~
+a bastard sword~
+Simon's monstrous bastard sword lies here.~
+~
+5 2098177 8193
+0 6 7 3
+40 0 0
+E
+sword bastard~
+This is the biggest and best sword you've ever seen.  It's
+balance is perfect and it is sharp and sure.  When you grab it,
+you suddenly feel incredibly strong, and incredibly courageous.
+~
+A
+1 3
+A
+2 2
+A
+13 -50
+A
+18 2
+A
+19 7
+#22038
+hammer~
+a hammer~
+A tinker's hammer lies here.~
+~
+5 0 8193
+0 5 5 7
+12 0 0
+#22039
+sword~
+a sword~
+Julia's hot, glowing sword lies here.~
+~
+5 1025 8193
+0 6 4 3
+8 0 0
+E
+glowing sword hot~
+Julia was working on this sword before you attacked her.  Though
+it has been removed from the forge for a long time, it seems to
+continue to glow as if Julia's vengeful spirit has taken its
+place.
+~
+A
+18 -2
+A
+19 3
+A
+23 3
+#22040
+amulet~
+the Amulet of Love~
+The most beautiful amulet lies in a pile here.~
+~
+9 2100225 5
+3 0 0 0
+1 0 0
+A
+6 5
+A
+20 -5
+A
+22 -5
+A
+23 -5
+A
+24 -5
+#22041
+sword~
+a shiny sword~
+A sword lies on the ground.~
+~
+5 0 8193
+0 8 3 3
+10 0 0
+A
+18 2
+#22042
+armour~
+shiny armour~
+A paladin's suit of armour lies here.~
+~
+9 0 9
+1 0 0 0
+15 0 0
+A
+1 1
+A
+17 -5
+#22043
+rapier~
+a rapier~
+Dupre's rapier is here.~
+~
+5 2098177 8193
+0 13 2 11
+13 0 0
+A
+1 1
+A
+2 1
+#22044
+boomerang~
+a boomerang~
+A gargoyle's boomerang is here.~
+~
+5 2228226 24577
+0 4 5 6
+6 0 0
+E
+boomerang~
+Though this seems like your basic boomerang, it is much more.  It
+hums with an unearthly tone, waiting for its power to be
+unleashed.
+~
+A
+17 5
+A
+18 4
+A
+19 4
+#22045
+rusty sword~
+a rusty sword~
+A corroded, rusty sword is here.~
+~
+5 128 8193
+0 2 5 3
+9 0 0
+A
+9 100
+#22046
+rusty shield~
+a rusty shield~
+A spiked rusty shield lies here.~
+~
+9 128 513
+10 0 0 0
+5 0 0
+A
+17 -3
+A
+19 3
+#22047
+cloak~
+a magic cloak~
+A magic cloak is here.~
+~
+9 1 5
+7 0 0 0
+6 0 0
+A
+12 10
+A
+13 10
+#22048
+aura power~
+an aura of power~
+A bright light of power shoots into the air.~
+~
+9 1 9
+7 0 0 0
+1 0 0
+A
+4 2
+A
+17 10
+A
+25 5
+#22049
+red helmet face~
+a big red face~
+The empty shell of the Guardian head lies here.~
+~
+9 2560 65537
+7 0 0 0
+10 0 0
+E
+face head helmet red~
+When you slew the evil Guardian, all that was left was his
+corporal form that he inhabited.  That of the big red head.
+~
+A
+1 3
+A
+5 2
+A
+12 50
+A
+13 50
+A
+14 50
+#22050
+spiked mace~
+a spiked mace~
+Waves of corruption come off this evilly enchanted spiked mace.~
+~
+5 2560 8193
+0 6 6 7
+5 0 0
+A
+18 5
+A
+19 6
+#22051
+black death armour~
+a completely black armour~
+This completely black armor reeks of death.~
+~
+9 2560 9
+3 0 0 0
+9 0 0
+A
+14 -100
+A
+17 5
+A
+19 5
+#22052
+evil charm~
+an evil charm~
+You see a very oddly shaped charm...  it might be worth it to look at its shape.~
+~
+9 2560 5
+1 0 0 0
+3 0 0
+E
+shape~
+The charm looks to be a mummified part of a body.  It is about 3
+inches long, and... NO it could not be....
+~
+A
+3 1
+A
+6 1
+A
+12 50
+#22053
+evil gem~
+an evil gem~
+The evil gem pulsates.~
+~
+4 2560 16385
+60 1 1 27
+1 0 0
+A
+3 3
+A
+12 50
+#22054
+helmet~
+sentri's helmet~
+Sentri's helmet is here.~
+~
+9 1024 17
+1 0 0 0
+30 0 0
+A
+4 2
+A
+12 15
+#22055
+sleeves~
+sentri's sleeves~
+Sentri's sleeves lies here.~
+~
+9 1024 257
+3 0 0 0
+40 0 0
+A
+1 2
+A
+13 15
+#22056
+girth~
+sentri's girth~
+Sentri's girth is here.~
+~
+9 1024 2049
+11 0 0 0
+40 0 0
+A
+13 15
+A
+24 -6
+#22057
+two-handed sword~
+sentri's two-handed sword~
+Sentri's two-handed sword is here.~
+~
+5 1049600 8193
+0 5 6 3
+30 0 0
+A
+18 3
+A
+19 13
+#22058
+gloves~
+sentri's gloves~
+Sentri's gloves are here.~
+~
+9 1024 129
+7 0 0 0
+40 0 0
+A
+13 15
+A
+18 3
+#22059
+boots~
+sentri's boots~
+Sentri's boots are here.~
+~
+9 1024 65
+1 0 0 0
+40 0 0
+A
+2 1
+A
+13 15
+#22060
+leggings~
+sentri's leggings~
+Sentri left his leggings here.~
+~
+9 1024 33
+7 0 0 0
+40 0 0
+A
+2 1
+A
+18 3
+#22061
+armour~
+sentri's armour~
+Sentri left his armour here.~
+~
+9 1024 9
+8 0 0 0
+30 0 0
+A
+13 20
+A
+18 3
+#22062
+fellowship medallion~
+a Fellowship medallion~
+A triangular shaped medallion is here.~
+~
+9 0 5
+6 0 0 0
+6 0 0
+A
+4 -1
+A
+12 10
+#22063
+glass sword~
+the Glass Sword~
+The most amazingly well crafted sword lies here.~
+~
+5 2163040 8193
+0 7 6 3
+4 0 0
+E
+glass sword~
+Invisible to the naked eye, this sword is the best crafted, as
+you look at it, its amazing shape and size brings tears to your
+eyes.  You know that this is the best weapon that you will ever
+see.
+~
+A
+1 1
+A
+2 1
+A
+12 50
+A
+18 4
+A
+19 4
+#22064
+crown~
+british's crown~
+A jewel encrusted crown is here.~
+~
+9 1 17
+4 0 0 0
+10 0 0
+E
+british crown~
+Legend has it that this most perfect of crowns has within one of
+its jewels, a perfect ray of sunlight.  He who wears it must
+truly be enlightened.
+~
+A
+3 2
+A
+4 2
+A
+12 50
+A
+17 10
+#22065
+sceptre~
+british's sceptre~
+A pure gold sceptre is topped with a perfect crystal orb of power.~
+~
+9 1 16385
+9 0 0 0
+1 0 0
+E
+orb~
+The orb of power is transparent to the point of sightlessness. 
+It holds within a vast store of power.
+~
+A
+5 2
+A
+13 50
+A
+18 5
+A
+19 5
+#22066
+silver amulet~
+british's amulet~
+A silver amulet lies here.~
+~
+9 1 5
+6 0 0 0
+1 0 0
+E
+amulet~
+British's amulet is in the shape of the great earth serpent.
+~
+A
+1 2
+A
+2 2
+A
+13 50
+A
+14 50
+#22067
+fountain~
+a fountain~
+A fountain shaped in an Ankh pours water.~
+~
+23 0 0
+20000 0 0 0
+1000 0 0
+#22068
+boat~
+a boat~
+A boat lies here.~
+~
+22 0 1
+0 0 0 0
+20 0 0
+$

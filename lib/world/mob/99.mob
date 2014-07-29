@@ -1,0 +1,655 @@
+#9900
+shamus wanderer~
+Shamus~
+Shamus, the wandering liege, wants to protect you from the evil here.
+~
+You see a human male, bald of head and thick of frame, wearing a white 
+robe.  He has heard tales of this city of evil, and has come here as a 
+missionary. 
+~
+6476 16777224 1000 E
+41 -12 -11 1d1+1262 9d3+21
+9436 0
+8 8 1
+Str: 20
+Dex: 16
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#9901
+ghenna barrow wight~
+the barrow wight~
+A twisted pile of cloth and bones lies here.
+~
+You see an undead being whose sole purpose is to protect its barrow
+mound.  Flesh hangs from its wretched body, and it looks more dead
+than alive.
+~
+139338 17301640 0 E
+38 -8 -7 1d1+944 5d5+38
+1000 0
+8 8 0
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+#9902
+ghenna banshee~
+the Banshee~
+The groaning spirit of a long-dead woman floats here.
+~
+This is the spirit of an evil female elf, a very rare thing indeed.  Her
+hair is wild and unkempt, and she is dressed in tattered rags.
+~
+196716 262280 -1000 E
+45 -9 -11 1d1+2205 4d9+28
+5000 0
+8 8 2
+Str: 22
+Dex: 19
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+#9903
+ghenna argos~
+the Argos~
+A multi-mouthed pseudopod of great girth is standing here.
+~
+This is a large, amoeba-like being with one central eye which has a
+tripartite pupil, and a hundred lashless inhuman eyes set above many 
+sharp-toothed mouths..
+~
+10828 16777352 -666 E
+43 -8 -10 1d1+2151 5d13+12
+7500 0
+8 8 0
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#9904
+ghenna bugbear~
+the Bugbear~
+A tall Bugbear stands here, poised for action.
+~
+Large and very muscular, this guy is covered in brick red fur.  Though
+vaguely humanoid in appearance, he seems to contain the blood of some large
+carnivore.
+~
+108 8 -1000 E
+42 -9 -9 1d3+2044 2d7+37
+666 0
+8 8 1
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#9905
+ghenna broken~
+a Broken One~
+A Broken One stands here looking gruesome.
+~
+This guy sure is ugly!  He has the head of an ogre, one webbed foot, one
+human foot, and various other body parts that don't match.
+~
+8780 16777224 -1000 E
+39 -10 -11 1d1+1262 2d9+39
+2500 0
+8 8 1
+Str: 20
+Dex: 16
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#9906
+ghenna bullywug~
+the Bullywug~
+A Bullywug is standing here, ready to defend his master's lair.
+~
+This guy looks kinda like a ninja turtle, except he's a frog.
+~
+8298 17301512 -699 E
+37 -10 -10 1d1+1345 6d3+33
+1000 0
+8 8 1
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#9907
+ghenna plant~
+a Man-Eating plant~
+A large plant that reeks of carrion stands here stinking up the place.
+~
+You see a giant, venus fly trap with 6 inch fangs.
+~
+213038 16777224 -1000 E
+34 -6 -7 1d1+895 10d4+24
+12000 0
+8 8 0
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+#9908
+ghenna gorgimera~
+the Gorgimera~
+A Gorgimera roars at your entrance, and ATTACKS!!!
+~
+This monster has three heads, those of a gorgon, a lion, and a fierce
+dragon. It has the hindquarters of a large, black gorgon and the 
+forequarters of a huge, tawny lion, with brownish-black wings like those 
+of a dragon. 
+~
+213098 16778378 100 E
+48 -10 -11 1d1+2319 10d6+45
+25000 0
+8 8 0
+Str: 22
+Dex: 20
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+#9909
+ghenna death knight~
+the Death Knight~
+A Death Knight stands here, lowering at you.
+~
+A hulking skeleton, its face a blackened skull covered with shards of
+shriveled rotting flesh, chillingly returns your gaze.
+~
+172621 138 -1000 E
+47 -30 -1 1d1+5050 11d5+45
+33000 0
+8 8 1
+Str: 20
+Dex: 16
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#9911
+ghenna derro~
+the Derro~
+The Derro is standing here, barking orders.
+~
+You see a dwarf with glowing white eyes which have no pupils.  His skin
+is pasty white, but he looks stout enough.
+~
+8302 520 -250 E
+37 -10 -9 25d8+934 4d3+37
+6662 0
+8 8 1
+Str: 20
+Dex: 16
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#9912
+ghenna elf~
+the errant Elf~
+An errant Elf is here, looking for denizens of evil.
+~
+You see an attractive young man, about 5 feet tall, with gleaming eyes
+and a pale complexion.  Though small, he appears to be very lithe and agile.
+~
+4556 16778248 1000 E
+32 -8 -8 250d1+646 10d2+17
+1500 0
+8 8 1
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+#9913
+ghenna efreeti genie~
+the Efreeti~
+A Genie is levitating here with an evil grin on his face.
+~
+You see a powerful mage naked to the waist, wearing only a pair of
+slippers, some baggy purple pants, and a bracelet which sparkles with a 
+multi-hued color.
+~
+221450 16778378 0 E
+43 -8 -9 1d1+2151 11d5+24
+79000 0
+8 8 1
+Str: 20
+Dex: 18
+Int: 22
+Wis: 17
+Con: 20
+Cha: 20
+E
+#9914
+ghenna medusa~
+the Medusa~
+A woman sits here on the bed, with her back to you.
+~
+Well, you probably shouldn't have looked at this chick, cause she sure
+is ugly. But I guess you are about to see HOW ugly.
+~
+8238 16778376 -1000 E
+40 -10 -10 6d66+6666 6d6+8
+30250 0
+8 8 2
+Str: 22
+Dex: 18
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+#9915
+ghenna stupid orc~
+the Orc~
+A big, stupid Orc is lumbering through here.
+~
+He's just ugly as sin... lets leave it at that.
+~
+44 16777216 -1000 E
+36 -8 -9 25d3+744 2d6+27
+250 0
+8 8 1
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#9916
+ghenna barkeep~
+the barkeep~
+There is a barkeep standing here, waiting to take your order.
+~
+The barkeep is a waifish little guy, with safety pins piercing the flesh
+all over his face... he even has safety pins through his eyelids.
+~
+8266 16777352 -100 E
+30 -9 0 1d1+10650 5d5+5
+15000 0
+8 8 1
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#9917
+ghenna citizen~
+a citizen of Ghenna~
+A citizen of Ghenna stands here.
+~
+You see a grungy human, long since gone insane at the fall of his once
+proud city.
+~
+332 16777216 666 E
+30 -5 -7 1d1+801 6d2+21
+2200 0
+8 8 1
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#9918
+ghenna avon lady~
+the Avon lady~
+An old lady (who is obviously lost) is trying to sell you some makeup here.
+~
+You see a little old lady, dressed all in pink chiffon.  On her arm
+she carries a heart shaped box made of crepe paper.
+~
+16460 16777224 1000 E
+30 -5 -6 1d1+801 2d10+19
+9000 0
+8 8 2
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#9923
+ghenna swordmaster~
+the Ghenna Swordmaster~
+A broad shouldered man lies prostrate here, apparently praying.
+~
+A huge man with a long black beard, the Ghenna Swordmaster is tatooed
+with rune-like scars from head to toe.  Shrouded in vermillion, he wields a
+sword of stunning beauty, which sings through the air as he attacks you.
+~
+213099 16778248 -1000 E
+49 -30 0 1d1+10000 14d3+55
+100000 0
+8 8 1
+Str: 22
+Dex: 20
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+#9931
+ghenna wall foot~
+toed foot~
+A claw toed foot protruding from the wall.
+~
+It looks just like a foot sticking out of the wall. 
+~
+106 16777216 0 E
+32 -7 -6 1d1+801 2d5+24
+15 0
+8 8 0
+Str: 20
+Dex: 16
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+#9932
+ghenna wall arm~
+fingered arm~
+A claw fingered arm protruding from the wall.
+~
+It looks just like an arm sticking out of the wall. 
+~
+106 16777216 0 E
+32 -7 -7 1d1+801 4d3+22
+15 0
+8 8 0
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+#9933
+ghenna statue stone golem~
+the stone golem~
+A large statue of a humanoid male has been cut out of the granite here.
+~
+It looks like a stone sculpture of Frankenstein's monster.  It stands
+twelve feet tall, casting a long shadow over you.
+~
+8302 16777226 0 E
+46 -10 -10 1d1+15000 10d3+25
+43567 0
+8 8 0
+Str: 22
+Dex: 20
+Int: 20
+Wis: 19
+Con: 20
+Cha: 22
+E
+#9958
+ghenna dominatrix woman~
+the Dominatrix~
+An ugly woman clad in studded black leather turns toward you and shouts,
+"Down on your knees, maggot!!"
+~
+This ugly wench is clad in studded black leather from head to toe.  Her
+nipples protrude conspicuously from a leather push-up bra.  A thong 
+around her waist disappears into her crotch, which hasnt been waxed in a 
+mellenia. 
+~
+16430 16777344 -1000 E
+39 -10 -10 1d1+1045 4d5+23
+4000 0
+8 8 2
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+#9964
+ghenna doll golem~
+the Doll Golem~
+A doll sits here leaning against the wall, forgotten by the child who
+owns it.
+~
+This looks like your typical child's doll.  Its about one foot tall, and
+looks like it is made of plastic.
+~
+32778 16777224 1000 E
+35 -8 -7 1d1+895 2d5+26
+1200 0
+8 8 0
+Str: 20
+Dex: 16
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+#9971
+ghenna woman prostitute~
+the prostitute~
+A young, innocent looking woman is sitting here reading a magazine.
+~
+She is so cute that you wonder how she ever fell into a lifestyle such
+as this. She notices your gaze, and gives you a cloying look.
+~
+2126 16777216 1000 E
+30 -7 -7 1d1+801 5d3+20
+5300 0
+8 8 2
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#9972
+ghenna lester molester~
+Lester the molester~
+Lester the molester is here with a pair of womens panties on his head.
+~
+You see a sicko with bulging eyes, and a tiny bit of white spittle in
+the corners of his mouth.
+~
+2126 16777224 -1000 E
+32 -7 -6 1d1+801 5d3+20
+5000 0
+8 8 1
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+#9975
+ghenna whore~
+the whore~
+A toothless whore is sitting here on the bed, inviting you to join her.
+~
+One eye, no teeth and pasty white skin, this chick looks like your worst
+nightmare.
+~
+3146 16777224 -1000 E
+30 -5 -6 1d1+801 5d3+20
+10000 0
+8 8 2
+Str: 20
+Dex: 17
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#9981
+ghenna dead dwarf~
+the Dwarf~
+A dwarf is lying here, stunned.
+~
+You see nothing special.
+~
+10 524288 1000 E
+1 -15 -15 1d1+100 1d1+150
+250 0
+6 6 1
+Str: 14
+Dex: 25
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#9985
+ghenna maedar~
+the Maedar~
+A Maedar stands here in the darkness smacking his lips.
+~
+You see a muscular, hairless humanoid male dressed in a tunic.
+~
+42 16777216 -1000 E
+33 -7 -6 30d5+712 4d4+20
+943 0
+8 8 1
+Str: 20
+Dex: 16
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+#9986
+ghenna maedar master~
+the Maedar master~
+A Maedar stands here in the darkness smacking his lips.
+~
+You see a muscular, hairless humanoid male dressed in a tunic.
+~
+42 16777352 -1000 E
+42 -11 -11 1d1+1378 3d6+31
+2500 0
+8 8 1
+Str: 22
+Dex: 19
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+#9987
+ghenna roger dodger~
+Roger the dodger~
+Roger, the elven apostle is looking for evil guys to kill here.
+~
+You see a young elf, only about 130 years old, who acts as though he is 
+on a crusade.  Dressed in light armor, he seeks out evil doers in order to
+eradicate them from the face of the planet.
+~
+141644 17563784 1000 E
+39 -10 -10 1d1+1151 4d4+27
+25000 0
+8 8 1
+Str: 20
+Dex: 25
+Int: 25
+Wis: 17
+Con: 20
+Cha: 20
+E
+#9989
+ghenna deep dragon dragonet~
+the Dragonet~
+A wimpy little dragon is standing here, looking at you with deep blue
+eyes.
+~
+You see what appears to be a tiny dragon, about the size of a chihuahua.
+What a pansy he is too!
+~
+32841 136 1000 E
+40 -11 -10 1d1+1205 3d2+34
+350 0
+8 8 1
+Str: 22
+Dex: 18
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+#9994
+ghenna cockroach~
+the cockroach~
+The biggest cockroach you have ever seen is standing here, looking down
+at you.
+~
+You see a cockroach about 8 feet tall - apparently a mutant breed.
+~
+16426 16777224 -351 E
+33 -6 -6 1d1+801 5d7+10
+7500 0
+8 8 0
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 18
+Cha: 20
+E
+#9997
+ghenna deepspawn~
+the Deepspawn~
+The Deepspawn is standing here, ready to kill you.
+~
+It looks like a large, rubbery shpere of mottled grey and brown.  Six
+arms project from its body; three are tentacle-arms, and three are jaw-arms,
+ending in mouths of many teeth.  It also has about 40 long, retractable,
+flexible eye stalks that wave at you menacingly.  
+~
+82026 16777352 -1000 E
+43 -10 -11 1d1+1319 3d7+48
+50000 0
+8 8 0
+Str: 22
+Dex: 19
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+$

@@ -1,0 +1,45 @@
+
+&c(of Beauty)&0
+* CHA by 2
+
+&c(Invader)&0
+* HITROLL by 3, DEX by 1
+
+&c(Black Hawk)&0
+* WILL POWER by 1
+
+&c(of Low Blow)&0
+* 'parrying' by 5
+
+&c(Whirlwind)&0
+* DEX by 1
+
+&c(of the Mad Butcher)&0
+* STR by 1
+
+&c(Defender)&0
+* MAGIC_ARMOR by -10, CON by 1
+
+&c(of Lesser Might)&0
+* STR by 1, DAMROLL by 2
+
+&c(Anguirel)&0
+* MAXMOVE by 25
+
+&c(Whiplash)&0
+* 'dodging' by 5, DEX by 1
+
+&c(of Severe Pain)&0
+* DAMROLL by 3
+
+&c(Belangil)&0
+* CON by 1
+
+&c(Angrist)&0
+* MAXHIT by 15, MAXMOVE by 15
+
+&c(of Close Combat)&0
+* HITROLL by 1, DAMROLL by 1
+
+&c{of Westernesse}&0
+* STR by 2, DEX by 2, CON by 2

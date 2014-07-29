@@ -1,0 +1,27 @@
+CircleMUD v3.0 Shop File~
+#2401~
+2462
+2461
+2458
+-1
+1.50
+0.90
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+2465
+0
+2465
+-1
+0
+23
+0
+0
+$~

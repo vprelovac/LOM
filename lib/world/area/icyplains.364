@@ -1,0 +1,5272 @@
+#364
+Icy Plains of the North~
+36599 35 2
+
+#AUTHOR Aragon~
+
+#RESETMSG The icy wind chills you to the bones.~
+
+M 0 36433 1 36434 
+M 0 36436 1 36436 
+M 0 36439 1 36437 
+M 0 36432 1 36438 
+M 0 36433 1 36444 
+M 0 36434 1 36446 
+M 0 36443 1 36456 
+E 1 36438 0 3 
+M 0 36443 1 36459 
+D 0 36460 2 1 
+D 0 36460 0 1 
+D 0 36461 0 1 
+D 0 36461 2 1 
+D 0 36462 0 1 
+D 0 36462 2 1 
+M 0 36445 1 36469 
+M 0 36446 1 36470 
+M 0 36447 1 36471 
+M 0 36448 1 36472 
+M 0 36450 1 36476 
+E 1 36440 0 16 
+E 1 36435 0 5 
+E 1 36434 0 1 
+E 1 36433 0 3 
+M 0 36451 1 36478 
+M 0 36452 1 36480 
+M 0 36453 1 36480 
+M 0 36454 1 36480 
+M 0 36461 1 36482 
+M 0 36461 1 36482 
+M 0 36461 8 36482 
+M 0 36461 7 36482 
+M 0 36461 7 36482 
+M 0 36461 7 36482 
+M 0 36461 7 36482 
+M 0 36455 1 36482 
+M 0 36456 1 36484 
+M 0 36456 1 36484 
+M 0 36456 1 36484 
+M 0 36457 1 36485 
+M 0 36458 1 36486 
+E 1 36438 0 3 
+E 1 36437 0 12 
+O 0 36439 0 36487 
+M 0 36443 1 36487 
+E 1 36433 0 3 
+E 1 36433 0 4 
+M 0 36443 1 36487 
+E 1 36434 0 1 
+E 1 36434 0 2 
+M 0 36444 1 36487 
+E 1 36440 0 16 
+E 1 36433 0 3 
+E 1 36434 0 1 
+E 1 36434 0 2 
+E 1 36433 0 4 
+D 0 36487 2 1 
+D 0 36488 0 1 
+D 0 36489 2 1 
+D 0 36489 0 1 
+D 0 36490 0 1 
+M 0 36459 1 36491 
+M 0 36459 1 36492 
+O 0 36441 0 36498 
+M 0 36460 1 36498 
+O 0 36443 0 36499 
+M 0 36443 1 36499 
+E 1 36440 0 16 
+E 1 36436 0 2 
+E 1 36434 0 1 
+E 1 36433 0 3 
+M 0 36443 1 36500 
+E 1 36433 0 3 
+E 1 36434 0 2 
+E 1 36436 0 1 
+E 1 36440 0 16 
+O 0 36443 0 36500 
+O 0 36443 0 36501 
+T 1 14312 10 36501 
+O 0 36444 0 36501 
+O 0 36443 0 36502 
+M 0 36444 1 36502 
+E 1 36433 0 3 
+E 1 36434 0 2 
+E 1 36435 0 5 
+E 1 36436 0 1 
+E 1 36440 0 16 
+O 0 36443 0 36503 
+T 1 14301 10 36503 
+O 0 36443 0 36504 
+M 0 36443 1 36504 
+O 0 36443 0 36505 
+M 0 36443 1 36505 
+E 1 36434 0 2 
+E 1 36433 0 3 
+E 1 36436 0 1 
+E 1 36440 0 16 
+O 0 36443 0 36506 
+M 0 36443 1 36506 
+E 1 36433 0 3 
+E 1 36434 0 2 
+E 1 36436 0 1 
+E 1 36440 0 16 
+O 0 36443 0 36507 
+M 0 36443 1 36507 
+E 1 36433 0 3 
+E 1 36434 0 2 
+E 1 36436 0 1 
+E 1 36440 0 16 
+O 0 36443 0 36508 
+T 1 14302 10 36508 
+T 1 14304 10 36509 
+O 0 36443 0 36509 
+O 0 36443 0 36510 
+M 0 36443 1 36510 
+E 1 36433 0 3 
+E 1 36434 0 2 
+E 1 36436 0 1 
+E 1 36440 0 16 
+O 0 36450 0 36512 
+M 0 36470 1 36512 
+M 0 36440 1 36515 
+M 0 36462 1 36518 
+M 0 36440 1 36523 
+M 0 36462 1 36525 
+M 0 36469 1 36527 
+M 0 36462 1 36528 
+M 0 36440 1 36529 
+T 1 14302 3 36530 
+M 0 36462 1 36531 
+M 0 36469 1 36532 
+T 1 14311 4 36533 
+M 0 36469 1 36534 
+M 0 36469 1 36535 
+M 0 36472 1 36536 
+G 1 36453 0 
+M 0 36471 1 36537 
+G 1 36452 0 
+M 0 36473 1 36538 
+G 1 36451 0 
+G 1 36449 0 
+G 1 36448 0 
+G 1 36447 0 
+G 1 36446 0 
+G 1 36445 0 
+M 0 36474 1 36539 
+E 1 36454 0 17 
+M 0 36475 5 36539 
+M 0 36475 5 36539 
+M 0 36475 5 36539 
+M 0 36475 5 36539 
+M 0 36475 5 36539 
+O 0 36455 0 36541 
+D 0 36541 0 1 
+D 0 36542 2 1 
+O 0 36456 0 36543 
+M 0 36464 1 36544 
+O 0 36464 0 36547 
+M 0 36476 3 36548 
+E 1 36463 0 16 
+E 1 36462 0 3 
+E 1 36461 0 8 
+E 1 36460 0 5 
+E 1 36457 0 6 
+E 1 36459 0 13 
+E 1 36458 0 1 
+M 0 36477 1 36548 
+E 1 36463 0 16 
+E 1 36462 0 3 
+E 1 36461 0 8 
+E 1 36460 0 5 
+E 1 36459 0 13 
+E 1 36457 0 6 
+E 1 36458 0 1 
+M 0 36476 3 36548 
+E 1 36458 0 1 
+E 1 36461 0 8 
+E 1 36462 0 3 
+E 1 36460 0 5 
+E 1 36459 0 13 
+E 1 36457 0 6 
+E 1 36463 0 16 
+M 0 36476 3 36548 
+E 1 36458 0 1 
+E 1 36457 0 6 
+E 1 36459 0 13 
+E 1 36460 0 5 
+E 1 36461 0 8 
+E 1 36462 0 3 
+E 1 36463 0 16 
+S
+$~
+$end~
+
+
+#ROOMS
+#36432
+Before the Icy Plains~
+You stand before the icy plains of the north. Ahead of you lies the
+cold, icy landscape of a land few men have ever stepped upon and lived.
+The area is a pure white landscape of ice and snow. All you can see
+in all directions is more ice and more snow.
+~
+364 c 0
+D0
+~
+~
+0 0 36433
+S
+#36433
+Icy Plains of the North~
+Walking out onto these icy plains you find yourself surrounded by
+the white expenses of this cold, frigid environment. To the east
+lies a large mountain range, to the west your view is blocked by
+the swirls of a snowstorm. The plains drift on to the north.
+~
+364 0 0
+D2
+Before the plains~
+~
+0 0 36432
+D0
+~
+~
+0 0 36434
+D3
+~
+~
+0 0 36435
+S
+#36434
+Icy Plains of the North~
+You wander upon a bed of ice and snow. Everything around is covered
+in a thick layer of snow on top of an even thicker layer of ice. A
+flat plain of ice extends to your north. To the west a blur of snow
+indicates that the snow is building up in that direction. To the east
+you can make out the tip of a large layer of mountains.
+~
+364 0 0
+D2
+~
+~
+0 0 36433
+S
+#36435
+Icy Plains of the North~
+You walk through the cold, icy northern plains. At this point in the
+plains the wind has started to pick up and a thin string of snow begins
+to fly in your face. The snowstorm seems to worsen to your west. To the
+east it eases up slightly.
+~
+364 0 2
+D1
+~
+~
+0 0 36433
+D3
+~
+~
+0 0 36436
+S
+#36436
+Icy Plains of the North~
+At this point in the plains a thick hail of snow begins to pelt your
+ever-more freezing body. The snow begins to build on top of your feet
+as you try to walk, making the journey difficult. To the east the storm
+abates slightly. To the west the storm appears to strengthen.
+~
+364 0 2
+D1
+~
+~
+0 0 36435
+D3
+~
+~
+0 0 36437
+S
+#36437
+Wandering Through An Intense Snowstorm~
+Standing in whirlwind of snow and ice, you begin to rethink your
+idea to explore this area. Vast amounts of snow whirl and fly
+into your face, nearly blinding you. Crystals of ice hail down
+upon you with a vicious ferocity. You can see nothing but the
+torment of snow and ice in all directions.
+~
+364 c 2
+D1
+Covered in snow!~
+~
+0 0 36436
+D3
+Covered in snow!~
+~
+0 0 36438
+D0
+Covered in snow!~
+~
+0 0 36439
+D2
+Covered in snow!~
+~
+0 0 36440
+S
+#36438
+Wandering Through An Intense Snowstorm~
+You blaze onward through an intense barrage of ice and snow. The ice
+crystals pelt you through your armor and have begun to form small
+welts about your body. The snow and wind freezes you to the core.
+You can barely feel parts of you body. All around is the white of
+snow and ice.
+~
+364 c 2
+D1
+Covered in snow!~
+~
+0 0 36441
+D2
+~
+~
+0 0 36437
+D3
+Covered in snow!~
+~
+0 0 36441
+D0
+Covered in snow!~
+~
+0 0 36444
+S
+#36439
+Wandering Through An Intense Snowstorm~
+The intense assault of snow and ice pounds down upon you as the snowstorm
+rages on about you. All around you your surroundings are obscured by
+the intense white whirlwind of the storm. You are almost blinded by
+the sheer power and ferocity of the storm.
+~
+364 c 2
+D0
+~
+~
+0 0 36440
+D2
+~
+~
+0 0 36437
+D3
+Covered in snow!~
+~
+0 0 36441
+D1
+~
+~
+0 0 36444
+S
+#36440
+Wandering Through An Intense Snowstorm~
+The ferocious storm continues to circulate and build up strength and
+power as you travel through it. The thick white blanket of snow covering
+the ground impedes your movement as you try to move your legs. With every
+step the journey gets more and more difficult. You don't know how much
+longer you can take this.
+~
+364 c 2
+D0
+~
+~
+0 0 36437
+D2
+~
+~
+0 0 36439
+D3
+Covered in snow!~
+~
+0 0 36451
+D1
+Covered in snow!~
+~
+0 0 36445
+S
+#36441
+Wandering Through An Intense Snowstorm~
+Holding your cloak tight around your body you proceed through a thick
+white wall of cascading snow and ice. The weight and force of the storm
+weighs so heavily upon your back that you feel as if you are in snowslide.
+You body is now covered in welts from the ice and you can no longer feel
+the majority of your body parts. How you long for a warm fire and a nice
+meal. You don't think you can survive in this much longer.
+~
+364 0 2
+D3
+~
+~
+0 0 36438
+D1
+~
+~
+0 0 36439
+D0
+Covered in snow!~
+~
+0 0 36447
+D2
+Covered in snow!~
+~
+0 0 36449
+S
+#36442
+Wandering Through An Intense Snowstorm~
+The pounding of the storm has begun to take its toll on you. Your feet
+are now completely numb and you can barely lift them out of the snow.
+You exposed skin has turned a pale blue, indicating you have very little
+time left to escape this nightmare. You begin to dream back upon better
+times and almost pass out form the cold. But out of the corner of your
+eye, you feel a faint glimmer of hope. A thin blue object shines faintly
+to your east, but as you look at it, it is now to the north! Now to the
+south! You suddenly realize you are hopelessly delusional, but you gain
+strength from knowing somewhere nearby there is shelter, and hope.
+~
+364 c 2
+D0
+Covered in snow!~
+~
+0 0 36450
+D2
+Covered in snow!~
+~
+0 0 36451
+D1
+Covered in snow!~
+~
+0 0 36445
+D3
+Covered in snow!~
+~
+0 0 36448
+S
+#36443
+Wandering Through An Intense Snowstorm~
+You quickly brush a large pile of snow off your back that threatened
+to bring to the ground from its large weight. Ice has begun to form
+around your nose and mouth. Trying to utter a word to remind you that
+you are alive, you realize your mouth was nearly frozen shut! Suddenly
+you come to be aware that if you don't leave this hideous entrapment you
+will soon become a frozen landmark in its unforgiving vastness, soon to
+be covered in snow and ice and forgotten like all else that happened to
+wander into this foul area.
+~
+364 c 2
+D1
+Covered in snow!~
+~
+0 0 36444
+D3
+Covered in snow!~
+~
+0 0 36448
+D0
+Covered in snow!~
+~
+0 0 36445
+D2
+Covered in snow!~
+~
+0 0 36447
+S
+#36444
+Wandering Through An Intense Snowstorm~
+Standing in whirlwind of snow and ice, you begin to rethink your
+idea to explore this area. Vast amounts of snow whirl and fly
+into your face, nearly blinding you. Crystals of ice hail down
+upon you with a vicious ferocity. You can see nothing but the
+torment of snow and ice in all directions.
+~
+364 c 2
+D3
+~
+~
+0 0 36439
+D1
+~
+~
+0 0 36440
+D0
+Covered in snow!~
+~
+0 0 36449
+D2
+Covered in snow!~
+~
+0 0 36440
+S
+#36445
+Wandering Through An Intense Snowstorm~
+You blaze onward through an intense barrage of ice and snow. The ice
+crystals pelt you through your armor and have begun to form small
+welts about your body. The snow and wind freezes you to the core.
+You can barely feel parts of you body. All around is the white of
+snow and ice.
+~
+364 c 2
+D3
+~
+~
+0 0 36440
+D2
+~
+~
+0 0 36443
+D1
+Covered in snow!~
+~
+0 0 36438
+D0
+Covered in snow!~
+~
+0 0 36437
+S
+#36446
+Wandering Through An Intense Snowstorm~
+The intense assault of snow and ice pounds down upon you as the snowstorm
+rages on about you. All around you your surroundings are obscured by
+the intense white whirlwind of the storm. You are almost blinded by
+the sheer power and ferocity of the storm.
+~
+364 c 2
+D0
+Covered in snow!~
+~
+0 0 36437
+D2
+Covered in snow!~
+~
+0 0 36447
+D1
+Covered in snow!~
+~
+0 0 36442
+D3
+Covered in snow!~
+~
+0 0 36444
+S
+#36447
+Wandering Through An Intense Snowstorm~
+The ferocious storm continues to circulate and build up strength and
+power as you travel through it. The thick white blanket of snow covering
+the ground impedes your movement as you try to move your legs. With every
+step the journey gets more and more difficult. You don't know how much
+longer you can take this.
+~
+364 c 2
+D2
+~
+~
+0 0 36441
+D0
+~
+~
+0 0 36443
+D1
+Covered in snow!~
+~
+0 0 36450
+D3
+Covered in snow!~
+~
+0 0 36449
+S
+#36448
+Wandering Through An Intense Snowstorm~
+Holding your cloak tight around your body you proceed through a thick
+white wall of cascading snow and ice. The weight and force of the storm
+weighs so heavily upon your back that you feel as if you are in snowslide.
+You body is now covered in welts from the ice and you can no longer feel
+the majority of your body parts. How you long for a warm fire and a nice
+meal. You don't think you can survive in this much longer.
+~
+364 0 2
+D1
+~
+~
+0 0 36442
+D0
+Covered in snow!~
+~
+0 0 36444
+D3
+Covered in snow!~
+~
+0 0 36446
+D2
+Covered in snow!~
+~
+0 0 36439
+S
+#36449
+Wandering Through An Intense Snowstorm~
+The pounding of the storm has begun to take its toll on you. Your feet
+are now completely numb and you can barely lift them out of the snow.
+You exposed skin has turned a pale blue, indicating you have very little
+time left to escape this nightmare. You begin to dream back upon better
+times and almost pass out form the cold. But out of the corner of your
+eye, you feel a faint glimmer of hope. A thin blue object shines faintly
+to your east, but as you look at it, it is now to the north! Now to the
+south! You suddenly realize you are hopelessly delusional, but you gain
+strength from knowing somewhere nearby there is shelter, and hope.
+~
+364 0 2
+D0
+~
+~
+0 0 36441
+D2
+~
+~
+0 0 36444
+D1
+Covered in snow!~
+~
+0 0 36451
+D3
+Covered in snow!~
+~
+0 0 36450
+S
+#36450
+Wandering Through An Intense Snowstorm~
+You quickly brush a large pile of snow off your back that threatened
+to bring to the ground from its large weight. Ice has begun to form
+around your nose and mouth. Trying to utter a word to remind you that
+you are alive, you realize your mouth was nearly frozen shut! Suddenly
+you come to be aware that if you don't leave this hideous entrapment you
+will soon become a frozen landmark in its unforgiving vastness, soon to
+be covered in snow and ice and forgotten like all else that happened to
+wander into this foul area.
+~
+364 0 2
+D2
+~
+~
+0 0 36442
+D3
+~
+~
+0 0 36447
+D0
+Covered in snow!~
+~
+0 0 36449
+D1
+Covered in snow!~
+~
+0 0 36437
+S
+#36451
+Before a Castle of Ice~
+You stumble slightly from exhaustion and from the weight of the
+snow that has accumulated upon your body. Lying in the snow you
+contemplate whether you should get up or lie there and die. Finding
+some unknown source of energy you struggle and decide to forge forward.
+As you look forward you see you made the right choice. Standing to your
+north is a large blue castle, made entirely of ice! You gaze at it in
+amazement for a short moment then realize you must move on or perish
+in the storm.
+~
+364 c 2
+D3
+Covered in snow!~
+~
+0 0 36447
+D1
+Covered in snow!~
+~
+0 0 36438
+D2
+Covered in snow!~
+~
+0 0 36440
+D0
+~
+~
+0 0 36452
+S
+#36452
+The Gates of the Ice Castle~
+You stand within a set of large gates guarding the entrance to the
+ice castle. The gates don't seem to serve much of a purpose though,
+since they appear to be frozen to the wall. Evidently whoever lives
+in this castle isn't too concerned about keeping people out. The
+hallway runs towards the north.
+~
+364 0 2
+D2
+~
+~
+0 0 36451
+D0
+~
+~
+0 0 36453
+S
+#36453
+Hallway in the Ice Castle~
+This is a large hallway, constructed entirely of ice. The ceiling
+here is over nine feet tall and constructed of a bright blue ice
+that dazzles your eyes. The entire castle is constructed of the
+same bright blue ice. You wonder to yourself what could live here.
+~
+364 0 0
+D2
+~
+~
+0 0 36452
+D0
+~
+~
+0 0 36454
+S
+#36454
+Hallway in the Ice Castle~
+You walk down a long hallway constructed of bright blue ice. The
+ceiling towers high over your head. The width of the hallway here
+spans nearly 20 feet in length! Whoever built this castle seems to
+have cared considerably about comfort and size. You can make out
+the gates of the castle back south.
+~
+364 0 0
+D2
+Hallway in the castle.~
+~
+0 0 36453
+D0
+~
+~
+0 0 36455
+S
+#36455
+Hallway in the Ice Castle~
+The thick ice hallway meets an intersection at this point. A smaller,
+yet still very large hallway runs east and west from here. This
+hallway continues on to the north, where you can hear a faint clicking
+sound and some grunting.
+~
+364 0 0
+D2
+Hallway in the Ice Castle~
+~
+0 0 36454
+D0
+~
+~
+0 0 36456
+D1
+Hallway in the ice castle.~
+~
+0 0 36459
+D3
+A slightly smaller and darker hallway.~
+~
+0 0 36488
+S
+#36456
+Hallway in the Ice Castle~
+You proceed down a large ice hallway through the castle of ice. All
+around you is thick, blue ice. The hallway is completely unmarked
+the walls do not contain a single scrape or hole. To your south you
+can see an intersection with a smaller hallway. A short distance to
+your north you can spot a large door. You can also hear some grunts
+and scrapings in that direction. There is something up there.
+~
+364 0 0
+D2
+Hallway in the ice castle.~
+~
+0 0 36455
+D0
+~
+~
+0 0 36457
+S
+#36457
+Hallway in the Ice Castle~
+This is a large hallway of ice. At this point in the hallway two large
+columns stand in the center of the hallway, lending their weight to
+the ceiling. They are also made of ice. To the north you can see the
+front of a very large door. The audible sounds of grunting and scraping
+have become louder also.
+~
+364 0 0
+D2
+Hallway in the ice castle.~
+~
+0 0 36456
+D0
+~
+~
+0 0 36458
+S
+#36458
+Before a Large Door~
+You now come to stand before a huge door leading to what appears
+to be a very large room beyond it. The sounds of grunting and what
+sounds like stomping can be heard very clearly now. The door is a
+large two-sided door, made entirely of ice of course. It looks very
+heavy but you think you can push it open if you try hard enough.
+~
+364 0 0
+D2
+Hallway in the ice castle.~
+~
+0 0 36457
+D0
+~
+~
+0 0 36487
+S
+#36459
+Hallway in the Ice Castle~
+This is a smaller hallway in the castle. Like everything else here
+this hallway is made entirely of bright blue ice. The hallway appears
+very nondescript. It seems to extend a distance to the east. There
+is an intersection with a larger hallway to the west. A short distance
+to the east there appears to be several doors leading out of the hallway.
+~
+364 0 0
+D3
+~
+~
+0 0 36455
+D1
+~
+~
+0 0 36460
+S
+#36460
+Hallway in the Ice Castle~
+You are in a small hallway leading through the ice castle. The
+hallway is bland an nondescript. There are no adornments at all
+anywhere to be seen. You can still make out an intersection with
+a larger hallway to the west. There are doors on the north and
+south side of the hallway. This hallway continues to the east.
+~
+364 0 0
+D3
+Hallway in the ice castle.~
+~
+0 0 36459
+D1
+~
+~
+0 0 36461
+D2
+A door leading somewhere.~
+~
+-3 0 36499
+D0
+A thick wooden door.
+~
+door~
+-3 0 36507
+S
+#36461
+Hallway in the Ice Castle~
+You proceed down a smaller side hallway in the ice castle. This
+hallway is a good deal smaller then the main hallway located to
+the west, but it is still a very large hallway. This hallway
+continues towards the east. There are doors on the north and
+south of here.
+~
+364 0 0
+D3
+hallway in the ice castle.~
+~
+0 0 36460
+D1
+~
+~
+0 0 36462
+D0
+A door leading somewhere.~
+~
+-3 0 36500
+D2
+A door leading somewhere.~
+~
+-3 0 36501
+S
+#36462
+Hallway in the Ice Castle~
+This is a smaller side hallway through the the ice castle. You
+find yourself surrounded on all sides by thick walls of ice. You
+feel as if you are a popsicle! There are doorways to the north and
+south, while the hallway runs east and west. A stairwell can be seen
+to the east.
+~
+364 0 0
+D3
+Hallway in the ice castle.~
+~
+0 0 36461
+D1
+~
+~
+0 0 36463
+D0
+A door leading somewhere.~
+~
+-3 0 36503
+D2
+A door leading somewhere.~
+~
+-3 0 36504
+S
+#36463
+Before a Stairwell~
+You stand before a long, dark stairwell. The stairwell stands to your
+east and twists and turns its way upward. The stairwell is made of
+ice, as is this entire castle. Thick, unbreakable ice walls stand to
+your north and south. To the west runs a large, yet relatively small
+passegeway.
+~
+364 0 0
+D3
+Hallway in the ice castle.~
+~
+0 0 36462
+D1
+~
+~
+0 0 36464
+E
+stairwell east stair stairs~
+This stairwell is a large, dark, and twisting set of ice stairs leading
+upward in the castle. It twists sharple about and is very dark. It is
+nearly impossible to tell what lies at its end.
+~
+>
+rand_prog 10~
+mea $r You trip and fall on the ice! (10 dmg)
+mpdamage $r 10
+~
+|
+S
+#36464
+On a Stairwell Leading Upwards~
+This a tightly twisting stairwell of ice. The steps are large and
+hard to step over, and it is very dark in the stairwell. All around
+you are the steep walls of ice. The twisting walls obscure your vision
+ahead, it's impossible to tell what lies beyond. To the west you can
+see a hallway. The stairwell continues upwards.
+
+~
+364 a 0
+D3
+Hallway in the ice castle.~
+~
+0 0 36463
+D4
+~
+~
+0 0 36465
+E
+stairwell stair stairs~
+This stairwell is a large, dark, and twisting set of ice stairs leading
+upward in the castle. It twists sharple about and is very dark. It is
+nearly impossible to tell what lies at its end.~
+>
+rand_prog 10~
+mea $r You trip on the steps and fall to the ground! (10 dmg)
+mpdamage $r 10
+~
+|
+S
+#36465
+Top of a Stairwell~
+You are at the top of a steeply twisting and turning stairwell
+of ice. The stairwell descends downwards into complete darkness.
+To the west a large hallway extends itself.
+~
+364 a 0
+D5
+A dark stairwell twists and turns its way into darkness.
+~
+~
+0 0 36464
+D3
+~
+~
+0 0 36466
+E
+stairwell stairs stair~
+This stairwell is a large, dark, and twisting set of ice stairs leading
+upward in the castle. It twists sharple about and is very dark. It is
+nearly impossible to tell what lies at its end.~
+S
+#36466
+A Large Hallway~
+You stand upon a large hallway on the second floor of the ice castle.
+The hallway here stands over twenty feet tall and is covered intricate
+runes carved within the walls of ice. A dark, eerie stairwell lies to
+the east, while the hallway runs to the west.
+~
+364 0 0
+D1
+A dark, twisting tunnel.~
+~
+0 0 36465
+D3
+~
+~
+0 0 36467
+E
+runes~
+You do not recognize any of the runes.~
+S
+#36467
+A Large Hallway~
+Standing in this large hallway of ice and staring at cryptic runes
+upon the wall, an icy chill runs down your spine. Somewhere in the
+back of your mind you feel as if you can hear a dark, sinister
+laugh. You can't help but shake the feeling that the laugh is
+aimed in your direction. Somehow this doesn't seem quite right.
+~
+364 0 0
+D1
+A large hallway of ice covered in runes. A stairwell is in the distance.
+~
+~
+0 0 36466
+D3
+~
+~
+0 0 36468
+E
+runes~
+The runes are cryptic and eerie. You can only make out some of them and
+those that you can make out don't make any sense.....dark...cold....fever..
+pain....lord..... what is going on here?
+~
+>
+rand_prog 25~
+mea $r An icy chill runs up your spine.
+mer $r $r shivers uncomfortably.
+~
+|
+S
+#36468
+A Large Hallway~
+Wandering through this icy castle of hell you begin to feel small
+and insuperior. All around you are huge, towering  walls of ice that 
+seem to laugh at your attempt infiltrate them. For a second the
+walls appear to spin and you feel dizzy, but you regain your
+composure. The hallway turns to the northeast and the southwest.
+
+~
+364 0 0
+D1
+Hallway in the ice castle.~
+~
+0 0 36467
+D9
+An even larger hallway.~
+~
+0 0 36469
+D7
+~
+~
+0 0 36474
+E
+walls~
+The walls seem to be laughing at you.
+~
+S
+#36469
+A Huge Hallway in the Ice Castle~
+Suddenly you find yourself surrounded by walls of ice that stretch
+into the sky beyond your line of sight. Looking up you feel dizzy
+and you begin feel like an ant wandering in the land of gods. Ahead
+of you the path seems to grow even bigger!
+~
+364 xy 0
+D9
+~
+~
+0 0 36470
+>
+entry_prog 80~
+mea $n The ground seems to grow beneath your feet.
+mea $n As you look upon the walls they appear to grow!
+~
+>
+death_prog 100~
+if ispc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36470
+A Huge Hallway in the Ice Castle~
+You feel as if you are floating in a large world of ice. The huge
+towers ice that stand as walls seem to be closing in on you, about
+to crush you under their immense size and power. In your head you
+can hear the maniacal laugh of a madman....was it your laugh?
+~
+364 xy 0
+D6
+A huge hallway in the ice castle.~
+~
+0 0 36469
+D3
+~
+~
+0 0 36471
+>
+entry_prog 100~
+mea $n The mighty walls of the castle laugh at your presence.
+~
+>
+death_prog 100~
+if ispc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36471
+A Bright Meadow?~
+Suddenly your surroundings fade and you are no longer in the
+castle of ice. You appear to be in a bright meadow. All around
+you are flowers and grass. Looking back you can still see the
+hallway of ice. What is going on here?
+~
+364 xy 0
+D1
+A large hallway in the ice castle.
+~
+~
+0 0 36470
+D3
+~
+~
+0 0 36472
+>
+death_prog 100~
+if ispc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36472
+Back in the Hallway of Ice~
+You are now back in the castle of ice. The bright meadow can still
+be seen to your east, yet now you are back in the castle. You are
+confused and feel as if you have been tricked. Floods of images
+float through your head...somehow you are being misled. Aren't you?
+
+~
+364 xy 0
+D1
+~
+~
+0 0 36471
+D3
+~
+~
+0 0 36473
+>
+death_prog 100~
+if ispc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36473
+End of the Road~
+You have come to the of this hallway. The hallway ends very abruptly
+at this point. You find yourself standing in front of three very large
+and imposing walls of ice. They tower above you as if to threaten you.
+You feel as if a mouse stuck in a corner and turn to leave, but....
+~
+364 xy 0
+D1
+~
+~
+0 0 36472
+E
+walls wall~
+The walls are huge and imposing. They seem to threaten your very existence.
+~
+>
+entry_prog 100~
+if mobinroom(22149) > 0
+else
+mpmload 36449
+mea $n With a flash a mage appears behind you!
+mea $n Trapping you in the corner.
+mea $n The mage akalurun says Lets play $n!
+mpforce 36449 kill $n
+endif
+~
+>
+death_prog 100~
+if ispc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36474
+A Large Hallway in the Ice Castle~
+This is a large hallway built entirely of huge ice walls. The
+floors, ceilings and walls are built with ice. In fact everything
+around you is made of ice. The floor is slippery and icy. You
+momentarily lose your balance and fall. Somewhere you hear a
+distant laugh. Are they laughing at you?
+~
+364 0 0
+D8
+~
+~
+0 0 36468
+D6
+~
+~
+0 0 36475
+E
+walls wall~
+Are they laughing at you?~
+>
+rand_prog 10~
+mpe Distantly you hear someone laughing at you.
+~
+|
+S
+#36475
+A Large Hallway in the Ice Castle~
+You round a small curve in the hallway. The imposing ice figures
+all around you seem to weigh on your mental state. You can't shake
+the pictures out of your head of people from your past towering
+over you, pointing and laughing. To the north you can spot a shadowy
+figure standing in front of stairwell. The path curves towards the
+southwest behind you.
+~
+364 0 0
+D9
+~
+~
+0 0 36474
+D0
+~
+~
+0 0 36476
+E
+wall walls~
+They look funny. Oh wait that's your reflection. Why's your face so big?
+~
+>
+rand_prog 40~
+mea $r Everyone is laughing at you.
+~
+|
+S
+#36476
+A Large Hallway in the Ice Castle~
+You stand immediately south a huge stairwell leading upwards. All
+around you are shadowy presences. You can't see them, but you know
+they are there. Just standing there, mocking you! Why won't they
+leave you alone?
+~
+364 0 0
+D2
+Ice, ice and more ice. And lots of people laughing at you.
+~
+~
+0 0 36475
+D0
+~
+~
+0 0 36477
+E
+shadowy presence~
+They are standing there, laughing at you. What do they want?
+~
+S
+#36477
+A Grand Stairwell~
+This is a large, grand stairwell. Made entirely of ice this stairwell
+seems to glow with an aura purely it's own. You cannot put your finger
+on it, but something about the stairwell is different, and special
+from the rest of the castle.
+~
+364 0 0
+D2
+A large hallway of ice.
+~
+~
+0 0 36476
+D4
+~
+~
+0 0 36478
+E
+stairwell stair stairs~
+This is stairwell is somehow more grand then the rest of this castle.
+But something is different with it...did that stair just laugh at you?
+~
+>
+entry_prog 33~
+mea $n You trip on a step and fall (20 dmg)
+mpdamage $n 20
+~
+|
+S
+#36478
+A Grand Stairwell~
+You stand upon a mystifying stairwell of ice. The ice glows and
+shines as if inhabited by something magical that seperates it
+from the rest of this castle. The stairwell twists and turns sharply
+at this point. It continues upwards and downwards. You cannot see
+clearly in either direction.
+~
+364 0 0
+D5
+~
+~
+0 0 36477
+D4
+~
+~
+0 0 36479
+>
+death_prog 100~
+if ispc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36479
+Top of the Grand Stairwell~
+This is the top of grand stairwell in the castle. To your north
+extends a large section of the castle that is even more grand then
+the stairwell you're on. It somehow glows and shine as if it is
+bestowed with a life of its own.
+~
+364 0 0
+D5
+A grand stairwell~
+~
+0 0 36478
+D0
+~
+~
+0 0 36480
+S
+#36480
+A Collection of Statues~
+Standing all around you are large statues of creatures. Made
+entirely of ice. Peering around at them you notice that most
+of them appear to be of the various races of men. There are
+dwarves, elves, humans and more. And every one of them has a
+look of terror upon his face.
+~
+364 0 0
+D2
+Top of the graind stairwell~
+~
+0 0 36479
+D7
+~
+~
+0 0 36481
+E
+statue statues~
+They are of various races of men. They all bear a sick and horrible
+expression on their face, as if they were turned to ice.
+~
+>
+death_prog 100~
+if ispc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36481
+Twisting Hallway of Ice~
+The walls, floor and ceilings of this hallway are made entirely of
+thick, bright ice. The walls are covered in thin, extravagant runes.
+You cannot read any of them, but just looking at them gives you a
+chill. There is a room to the west.
+~
+364 0 0
+D8
+~
+~
+0 0 36480
+D3
+~
+~
+0 0 36482
+E
+runes rune~
+They are very creepy. Just looking at them makes you feel like praying.
+~
+>
+rand_prog 10~
+mpe The world twists and turns around you..
+mpe you suddenly feel very sick....
+~
+|
+S
+#36482
+Room of Mirrors~
+You have now become stuck in a room full of mirrors! Standing to
+the eight sides of you are large, full length mirrors covering the
+walls. There appears to be no way out. Just walls of mirrors. You
+suddenly begin to feel very claustrophobic.
+~
+364 cx 0
+>
+death_prog 100~
+mpminvoke 36455
+mpe With a sharp crash the mirror disapears!
+~
+>
+entry_prog 100~
+mpe With a loud BANG! the entrance closes behind you!
+mpe You are stuck!
+~
+|
+S
+#36483
+Twisting Hallway of Ice~
+You suddenly find yourself back in the hallway of ice. The hallway
+is long twisted. In the distance dark shadows float and hover over
+the ice. A strange glow can be seen farther beyond that. The runes
+on the wall seem to be glowing.
+~
+364 0 0
+D6
+~
+~
+0 0 36484
+E
+rune runes~
+The runes glow and seem to float off the wall. The seem to be calling you.
+~
+S
+#36484
+Twisting Hallway of Ice~
+The room suddenly goes pitch black. You can see very little
+ahead of you. All around you are black floating masses. A thin
+whisper can be heard occassionally. The words intangible to your
+ears. A trace of terror tickles the hairs on the back of your neck.
+~
+364 0 0
+D9
+~
+~
+0 0 36483
+D1
+~
+~
+0 0 36485
+>
+rand_prog 10~
+mpe the voices become audible....
+mpe "we have come for you....."
+~
+|
+S
+#36485
+Before The Thick Door~
+You come to stand before a large ice door. The door seems to stand
+guard over a room beyond it. As you watch ice seems to form on the
+door and the door begins to move! Something is happening!
+~
+364 0 0
+D3
+~
+~
+0 0 36484
+>
+death_prog 100~
+if ispc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36486
+Akalurun's Throne Room~
+This room is a large throne room all carved out of bright blue
+solid ice. Intricate runes are carved in niches covering the
+whole of the room. The runes glow and blink in an insane vortex
+of light and darkness, almost hypnotizing you.
+~
+364 x 0
+D2
+A long, twisting hallway of ice.
+~
+~
+0 0 36485
+E
+rune runes~
+Just looking at them you start to feel dizzy and almost in a trance like
+state. There are powerful magics at work here.
+~
+S
+#36487
+Yeti Barracks~
+This is a large room, nearly twenty feet high and 60 feet wide. All
+the walls and ceilings in the room are all carved out of solid ice.
+Sitting in the center of the room, is one of the few things not made
+of ice around here. A large table. This room is evidently being used
+as an eatery for a group of yeti's.
+~
+364 0 0
+D2
+A large hallway stands beyond a door of ice.~
+~
+-3 0 36458
+S
+#36488
+Thinner Hallway Through The Castle of Ice~
+This hallway is a smaller, thinner hallway then the one that lies
+to your east. The hallway is completely made of ice and is very
+slippery. There are doors to your north and south. To the west
+the hallway continues and becomes gradually darker.
+~
+364 0 0
+D3
+~
+~
+0 0 36489
+D1
+~
+~
+0 0 36455
+D0
+A door leading somewhere.~
+~
+-3 0 36505
+D2
+A door leading somewhere.~
+~
+0 0 36506
+>
+entry_prog 20~
+mea $n You slip and fall on the ice! (10dmg)
+mpdamage $n 10
+~
+|
+S
+#36489
+Thinner Hallway Through The Castle of Ice~
+The hallway becomes slightly darker as you proceed east. A slight
+chill runs through your bones also. It appears as if the hallway
+is also becoming colder as you proceed. There are doors to the
+north and south. A hazy mist can be seen to the west. To the east
+is an intersection with a larger hallway.
+~
+364 0 0
+D1
+More hallways of ice.~
+~
+0 0 36488
+D3
+~
+~
+0 0 36490
+D0
+A door leading somewhere.~
+~
+-3 0 36501
+D2
+A door leading somewhere.~
+~
+-3 0 36508
+>
+entry_prog 35~
+mea $n You slip and fall on the ice! (45dmg)
+mpdamage $n 45
+~
+|
+S
+#36490
+Thinner Hallway Through The Castle of Ice~
+At this point in the hallway a small change begins to take shape.
+The hallway ahead makes a slight turn towards the southwest, where
+it gets very dark and a hazy mist hangs over the hallway. There are
+doors to the north and south. From the looks of the ground beneath
+you it seems as if the passageway to the southwest gets a good deal
+less travel then the passageway east.
+~
+364 0 0
+D1
+More ice, more hallways.~
+~
+0 0 36489
+D9
+A dark hallway. Mist hangs over the ground.~
+~
+0 0 36491
+D0
+A door leading somewhere.~
+~
+-3 0 36509
+D2
+A door leading somewhere.~
+~
+-1 0 36510
+S
+#36491
+A Darker, Mist Filled Hallway~
+The hallway here stands in sharp contrast to the one northeast of
+you. Where the passageway northeast was built with bright, shiny
+ice, this part of the hallway is still built of ice, but the ice
+here does not shine at all. In fact, the ice appears to radiate a
+thick blackness! The hallway gets even darker tot he southwest.
+~
+364 a 0
+D6
+~
+~
+0 0 36490
+D9
+~
+~
+0 0 36492
+E
+ice wall hallway~
+The ice of the walls is pitch black and seems to radiate a black nothingness
+that is very disheartening.~
+>
+death_prog 100~
+if isnpc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36492
+A Darker, Mist Filled Hallway~
+The hallway gets even darker as you move towards the southwest.
+To the northeast you can make out a brighter and warmer section
+of the hallway. To the southwest all you see is darkness and a
+cold, writhing mist.
+~
+364 a 0
+D6
+Darnkess and ice.~
+~
+0 0 36491
+D9
+~
+~
+0 0 36493
+E
+wall ice black~
+The ice is dark black and covers the hallway. It glows with a darkness that
+seems out of place upon this world.~
+>
+death_prog 100~
+if isnpc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36493
+A Darker, Mist Filled Hallway~
+The hallway here is very dark. The ice around you seems to ooze
+darkness. The hallway back to the northeast is still very dark,
+but it is an improvement to this area. To your west a small stairwell
+descends down into even more darkness. A chilling coldnes can be
+felt from the area below the stairs.
+~
+364 a 0
+D6
+More dark, black ice and chilling, cold mist.~
+~
+0 0 36492
+D3
+~
+~
+0 0 36494
+E
+dark wall ice darkness~
+A black essence seems to ooze from beneath the surface of the ice.~
+>
+death_prog 100~
+if ispc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36494
+The Steps of a Dark Stairwell~
+You stand at the top of a twisting stairwell leading into the
+darkness. The stairwell twists sharply and turns about below
+your line of vision. Darkness and the eerie mist are all that
+you can see. The cold and chill of the castle is all you can feel.
+~
+364 a 0
+D1
+Dark hallway of ice.~
+~
+0 0 36493
+D5
+~
+~
+0 0 36495
+>
+death_prog 100~
+if ispc($n)
+mppurge corpse
+else
+endif
+~
+|
+S
+#36495
+The Steps of a Dark Stairwell~
+This is the middle of a small, twisting stairwell rounding its
+way beneath the castle of ice. It is very dark here and it only
+gets darker as you move along. Somewhere below you, you can hear
+a thin, shallow sound, as if something very big was tring to breath.
+~
+364 a 0
+D4
+Top of the stairwell.~
+~
+0 0 36494
+D5
+~
+~
+0 0 36496
+E
+stairs stair wall ice~
+The walls, stairs and everything around you are made entirely of ice.
+The ice is dark and black. It radiates an aura of darkness you've never
+felt before.~
+>
+entry_prog 100~
+if rand(40)
+mea $n You trip and fall on the stairs!
+mpdamage $n 40
+else
+endif
+~
+|
+S
+#36496
+Bottom of The Dark Stairwell~
+You stand at the bottom of a dark stairwell, running from the
+first floor of the ice castle to where you stand now, below
+the castle. Breaking out before you is a small passageway leading
+forward to even more darkness and ice. The stairwell runs up to
+the first floor of the castle.
+~
+364 a 0
+D4
+You see the middle of the dark stairwell.~
+~
+0 0 36495
+D1
+~
+~
+0 0 36497
+E
+stairs stairwell dark~
+The stairwell is dark and twisting. It appears almost to be alive.
+~
+S
+#36497
+Approaching Something~
+It is pitch black in here. An odd blackness. Unlike the night, which
+is dark from lack of night, this room seems to be illuminated by
+darkness, as if there were a torch that shined blackness. You can
+see very little, but you can hear something very big breathing in the
+darkness just ahead of you.
+~
+364 a 0
+D3
+Bottom of the dark stairwell.~
+~
+0 0 36496
+D1
+~
+~
+0 0 36498
+>
+rand_prog 30~
+mpe A deep, hollow breathing can be heard ahead of you.
+~
+|
+S
+#36498
+Lair of the Ice Planar~
+You stumble upon a site that terrifies you to the core. Sitting in
+this room is an ice planar, a being from another plane that has
+found a path into this world. He stands in the room, sinewy ice fibers
+running from him into the castle. You are scared to death!
+~
+364 a 0
+D3
+Darkness awaits you.~
+~
+0 0 36497
+S
+#36499
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 0 0
+D0
+~
+~
+0 0 36460
+S
+#36500
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 0 0
+D2
+~
+~
+0 0 36461
+S
+#36501
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 0 0
+D0
+~
+~
+0 0 36461
+D2
+~
+~
+0 0 36489
+S
+#36502
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 c 0
+S
+#36503
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 0 0
+D2
+~
+~
+0 0 36462
+S
+#36504
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 0 0
+D0
+~
+~
+0 0 36462
+S
+#36505
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 0 0
+D2
+~
+~
+0 0 36488
+S
+#36506
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 0 0
+D0
+~
+~
+0 0 36488
+S
+#36507
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 c 0
+D2
+~
+~
+0 0 36460
+S
+#36508
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 0 0
+D0
+~
+~
+0 0 36489
+S
+#36509
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 0 0
+D2
+~
+~
+0 0 36490
+S
+#36510
+Yeti Sleeping Quarters~
+These are the sleeping quarters of a yeti. Here the yeti's
+spend their nights. It is a very bland room. There is nothing
+in the room except a small straw mat to sleep on. Evidently
+yeti's aren't very autistic creatures.
+~
+364 0 0
+D0
+~
+~
+0 0 36490
+S
+#36511
+Before the Frost Giant camp~
+Standing directly to your east lies the tell tale signs of a
+frost giant camp. Huge shacks standing nearly twenty feet
+tall drape the landscape. Huge shadows of the giants float across
+the ground. The smell of fires and food cooking reaches your nose.
+~
+364 c 5
+D1
+~
+~
+0 0 36512
+S
+#36512
+Gates of the Frost Giant Camp~
+Standing directly in front of you are the very hastily made gates
+that lead into the frost giant camp. In fact, the word gate may
+even be pushing it a bit. The "gate" is really nothing more then
+a very rude overhang covering the path leading into the camp. There
+isn't even a gate to it! Just a single guard keeping an eye out for
+any trouble. Evidently there isn't much around here that poses as
+trouble when you're a giant.
+~
+364 0 5
+D3
+Leading away from the frost giant camp.~
+~
+0 0 36511
+D1
+~
+~
+0 0 36513
+S
+#36513
+Within the Frost Giant Camp~
+You stand at the intersection of two paths that lead through the
+frost giant camp. To the north and south a slightly less used path
+leads off past some huts. The main path through the camp runs to
+the east. The gates of the camp lie to the west.
+~
+364 0 5
+D3
+The gates of the frost giant village can be seen.~
+~
+0 0 36512
+D1
+~
+~
+0 0 36514
+D0
+~
+~
+0 0 36516
+E
+trash heap~
+The trash heap is still a long ways away. It is located at the end of the
+village, farther to the east. It appears as if the trash has been building
+up for a long time.
+~
+S
+#36514
+Within the Frost Giant Camp~
+Frost giants are usually known as solitary, nomadic people. They
+generally travel in small groups and seldom stay in one place very
+long. In this camp, however it appears as if a large amount of
+giants are concentrated in one place. It also appears as if they
+have been here for awhile, judging by the trash heap that can be
+seen building up at the end of the village.
+~
+364 0 5
+D3
+The entrance to the camp can be seen.
+~
+~
+0 0 36513
+D1
+~
+~
+0 0 36515
+S
+#36515
+Within the Frost Giant Camp~
+This is the largest and main road that leads through the frost giant
+camp. To the east appears to be where the majority of the giants go
+to conjugate. There isn't much to this small little camp. Frost giants
+generally pick up camp and move to follow roaming herds of mastodons or
+any of their other food sources, but these seem to have stayed here
+longer then normal for some reason.
+~
+364 0 5
+D3
+An intersection in the camp can be seen.
+~
+~
+0 0 36514
+D1
+~
+~
+0 0 36526
+S
+#36516
+Within the Frost Giant Camp~
+You stand on a path leading past some huts in the frost giant
+camp. On the east and west of you are some very large huts.
+To the south is an intersection with a larger street. The ground
+rumbles slightly as a large frost giant stomps by.
+~
+364 0 5
+D2
+~
+~
+0 0 36513
+D0
+~
+~
+0 0 36517
+D1
+~
+~
+0 0 36527
+D3
+~
+~
+0 0 36528
+S
+#36517
+Within the Frost Giant Camp~
+You wander down a path past the huts in the frost giant village.
+The huts, which lie to your east and west, are hug and fabricated
+from what appears to be frozen trees. The huts appear to be makeshift
+homes for the large frost giants that live here. 
+~
+364 0 5
+D2
+~
+~
+0 0 36516
+D0
+~
+~
+0 0 36518
+D1
+~
+~
+0 0 36538
+D3
+~
+~
+0 0 36529
+S
+#36518
+Within the Frost Giant Camp~
+Walking down this path in the frost giant camp you're nearly
+trampled by a huge giant who barely avoids stepping on you.
+To the east and west are the hobbled huts that make up the camp.
+The gates of the camp are back south, to the north the path turns.
+~
+364 0 5
+D2
+~
+~
+0 0 36517
+D0
+~
+~
+0 0 36519
+D1
+~
+~
+0 0 36530
+D3
+~
+~
+0 0 36531
+S
+#36519
+Meeting of Paths~
+Two paths in the frost giant village meet here. To the south one
+path leads past some huts towards the gates of the campe. Another
+path leads east towards more huts. An awful stink seems to waif in
+from the northeast section of the camp.
+~
+364 0 5
+D2
+~
+~
+0 0 36518
+D1
+~
+~
+0 0 36520
+S
+#36520
+Path Through The Frost Giant Camp~
+This is a small east - west path that leads through the frost giant
+camp. There is a larger path a short distance to the west and another
+one a little farther away to the east. There are no real distinguishing
+features of this path, it appears to just be a side path.
+~
+364 0 5
+D3
+~
+~
+0 0 36519
+D1
+~
+~
+0 0 36521
+S
+#36521
+Path Through The Frost Giant Camp~
+You are on a small side path leading through the frost giant camp.
+To your east is an intersection with a larger road, which leads past
+some very large huts. A short distance to the west is another intersection
+with a larger path. To the north is where the frost giants keep their
+animals and food.
+~
+364 0 5
+D3
+~
+~
+0 0 36520
+D1
+~
+~
+0 0 36522
+S
+#36522
+Intersection of Paths~
+This is an intersection of two paths. To the south a larger, more
+heavily traveled path leads past some huge huts. To the west a
+smaller, side path leads towards another intersection. There are
+more huts in that direction.
+~
+364 0 5
+D3
+~
+~
+0 0 36521
+D2
+~
+~
+0 0 36523
+S
+#36523
+Within the Frost Giant Camp~
+You are wandering down a large path leading past several huge huts
+belonging to very large frost giants. The giants that pass you by
+seem to either ignore you or look down on you with disdane. Several
+of them even seem to think of you as a child.
+~
+364 0 5
+D0
+~
+~
+0 0 36522
+D2
+~
+~
+0 0 36524
+D1
+~
+~
+0 0 36532
+D3
+~
+~
+0 0 36537
+S
+#36524
+Within the Frost Giant Camp~
+You continue to wander through the frost giant camp. All around
+you walk thundering giants, looking down on you as if you were
+a bug among them. Staring at their huge size, you don't feel all
+that different from a bug. Hopefully noone will squash you. There
+are huts to your east and west.
+~
+364 0 5
+D0
+~
+~
+0 0 36523
+D2
+~
+~
+0 0 36525
+D1
+~
+~
+0 0 36533
+D3
+~
+~
+0 0 36534
+S
+#36525
+Within the Frost Giant Camp~
+Directly to your south is the intersection of a the main path
+through the frost giant camp. To the west from here you can make
+out the rickety gates of the camp. To the southeast of here you
+can smell the hefty odor of a very large trash dump. There are
+huts to the east and west.
+~
+364 0 5
+D0
+~
+~
+0 0 36524
+D2
+~
+~
+0 0 36526
+D1
+~
+~
+0 0 36535
+D3
+~
+~
+0 0 36536
+S
+#36526
+Within the Frost Giant Camp~
+This appears to be the main path which leads through the frost giant
+camp. While there is really nothing on the path it appears to lead
+to many different things. To the west are the western "gates" of the
+camp. To the far east there appears to be a huge trash heap. To the
+north a path leads past some large frost giant huts.
+~
+364 0 5
+D3
+~
+~
+0 0 36515
+D0
+~
+~
+0 0 36525
+D1
+~
+~
+0 0 36539
+S
+#36527
+Frost Giant Hut~
+You stand within a large hut belonging to a frost giant couple.
+The hut is huge by human standards but by frost giant standards
+it looks like it's rather small. Huddled all into one large room
+is the giant's bedroom, kitchen and living area. There are beds 
+and stoves and dishes jumbled all over the hut.
+~
+364 0 5
+D3
+~
+~
+0 0 36516
+S
+#36528
+Frost Giant Hut~
+You stand within a large hut belonging to a frost giant couple.
+The hut is huge by human standards but by frost giant standards
+it looks like it's rather small. Huddled all into one large room
+is the giant's bedroom, kitchen and living area. There are beds 
+and stoves and dishes jumbled all over the hut.
+~
+364 0 5
+D1
+~
+~
+0 0 36516
+S
+#36529
+Frost Giant Hut~
+You stand within a large hut belonging to a frost giant couple.
+The hut is huge by human standards but by frost giant standards
+it looks like it's rather small. Huddled all into one large room
+is the giant's bedroom, kitchen and living area. There are beds 
+and stoves and dishes jumbled all over the hut.
+~
+364 0 5
+D1
+~
+~
+0 0 36517
+S
+#36530
+Frost Giant Hut~
+You stand within a large hut belonging to a frost giant couple.
+The hut is huge by human standards but by frost giant standards
+it looks like it's rather small. Huddled all into one large room
+is the giant's bedroom, kitchen and living area. There are beds 
+and stoves and dishes jumbled all over the hut.
+~
+364 0 5
+D3
+~
+~
+0 0 36518
+S
+#36531
+Frost Giant Hut~
+You stand within a large hut belonging to a frost giant couple.
+The hut is huge by human standards but by frost giant standards
+it looks like it's rather small. Huddled all into one large room
+is the giant's bedroom, kitchen and living area. There are beds 
+and stoves and dishes jumbled all over the hut.
+~
+364 0 5
+D1
+~
+~
+0 0 36518
+S
+#36532
+Frost Giant Hut~
+You stand within a large hut belonging to a frost giant couple.
+The hut is huge by human standards but by frost giant standards
+it looks like it's rather small. Huddled all into one large room
+is the giant's bedroom, kitchen and living area. There are beds 
+and stoves and dishes jumbled all over the hut.
+~
+364 0 5
+D3
+~
+~
+0 0 36523
+S
+#36533
+Frost Giant Hut~
+You stand within a large hut belonging to a frost giant couple.
+The hut is huge by human standards but by frost giant standards
+it looks like it's rather small. Huddled all into one large room
+is the giant's bedroom, kitchen and living area. There are beds 
+and stoves and dishes jumbled all over the hut.
+~
+364 0 5
+D3
+~
+~
+0 0 36524
+S
+#36534
+Frost Giant Hut~
+You stand within a large hut belonging to a frost giant couple.
+The hut is huge by human standards but by frost giant standards
+it looks like it's rather small. Huddled all into one large room
+is the giant's bedroom, kitchen and living area. There are beds 
+and stoves and dishes jumbled all over the hut.
+~
+364 0 5
+D1
+~
+~
+0 0 36524
+S
+#36535
+Frost Giant Hut~
+You stand within a large hut belonging to a frost giant couple.
+The hut is huge by human standards but by frost giant standards
+it looks like it's rather small. Huddled all into one large room
+is the giant's bedroom, kitchen and living area. There are beds 
+and stoves and dishes jumbled all over the hut.
+~
+364 0 5
+D3
+~
+~
+0 0 36525
+S
+#36536
+Fine Drinks~
+This is the drink hut of the camp. Here a frost giant has set
+up shop selling drinks to the villagers. From the look of it
+the only drink available here is water. But it is a HUGE
+cup of water. Hope your thirsty.
+~
+364 e 0
+D1
+~
+~
+0 0 36525
+S
+#36537
+Meat Shop~
+This is the meat shop for the frost giant camp. Here a large
+frost giant has set up shop selling meat to the entire camp.
+Oddly enough there is only one type of meat which is available.
+You resist the urge to ask what type of meat it is.
+~
+364 e 0
+D1
+~
+~
+0 0 36523
+S
+#36538
+Frost Giant Equipment Shop~
+This is the equipment shop for the frost giant camp. Here a
+frost giant has set up a shop which sells armor and weapons
+to his giant brethren. Some of the equipment here looks pretty
+interesting. Maybe you should try some? If you can pick it up
+that is, the equipment is very large.
+~
+364 e 0
+D3
+~
+~
+0 0 36517
+S
+#36539
+Camp Meeting Area~
+This is the camp's meeting area. It is a huge square space of
+land at the end of the camp. This appears to be where the giants
+go to gather and speak to each other. A wicked odor overwhelms you
+as you stand here. Looking to the east you see the cause, a huge
+trash dump. Why anyone would put the camps meeting place next to
+the trash dump is beyond you.
+~
+364 0 5
+D3
+~
+~
+0 0 36526
+D1
+~
+~
+0 0 36540
+S
+#36540
+Outside the Frost Giant Camp~
+You are now just east of the frost giant camp. The camp can be
+seen directly to your west. To your east, covered in freshly
+fallen snow is the most putrid site you've ever seen. A gigantic
+pile of trash looms out of the horizon like a diry boil!
+~
+364 0 5
+D3
+~
+~
+0 0 36539
+D1
+~
+~
+0 0 36541
+S
+#36541
+In the Middle of a Stinky Pile of Trash~
+You now come to find yourself standing smack dab in the middle of
+a huge pile of frost giant trash. All around you is rotten, stinky
+food, old clothes and many other types of trash too disgusting to
+even mention. You can't stand this smell much longer.
+~
+364 0 5
+D3
+~
+~
+0 0 36540
+D0
+~
+trash~
+-19 0 36542
+>
+rand_prog 15~
+if charchount(22241) > 0
+mea $r The stench of trash overwhelms you!
+mea $r You are overcome by intense odors.
+mpdamage $r 40
+mer $r $r is overcome by the odor of trash almost faints!
+else
+endif
+~
+|
+S
+#36542
+Inside a Pile of Trash~
+Now you've really done it, you've opened up a hidden door within
+the trash pile and now you stand in a strange catacomb of tunnels
+within the trash pile. Whoever has dug these tunnels
+has went to a large amount of trouble in order to conceal themselves
+in here. Oddly enough, it is very clean in here.
+~
+364 cxy 0
+D2
+~
+trash~
+-19 0 36541
+D5
+~
+~
+0 0 36543
+S
+#36543
+Gt'mock Lair~
+You've descended into some hand carved caves that lie hidden
+beneath the trash pile above you. The tunnels are very obviously
+not natural occuring. They have been painstakingly carved out by
+hand. Whoever has dug these caverns seems to enjoy their privacy.
+Maybe it's best to let them be?
+~
+364 cxy 0
+D4
+~
+~
+0 0 36542
+D0
+~
+~
+0 0 36544
+S
+#36544
+Gt'mock Lair~
+This is a smooth carven tunnel delving deep under ground. You
+begin to wonder why anyone would take the incredible amount of
+time it would necessitate to carve these tunnels. The walls are
+frozen solid and very hard. It must taken a lot of work and
+time to carve these tunnels.
+~
+364 xy 0
+D2
+~
+~
+0 0 36543
+D0
+~
+~
+0 0 36545
+S
+#36545
+Converging Paths~
+The path splits in two different ways at this point in the
+caverns. To the northwest a round, very smooth corridor
+extends into the unknown. Another corridor heads to the
+northeast, into darkness.
+~
+364 xy 0
+D2
+~
+~
+0 0 36544
+D6
+~
+~
+0 0 36546
+S
+#36546
+Gt'Mock Lair~
+This is a dark, clean tunnel within the Gt'Mock's lair.
+The tunnel walls are smooth and even. To the southwest
+is a convergence of paths, while this tunnel leads north
+towards another intersection.
+~
+364 xy 0
+D9
+~
+~
+0 0 36545
+D0
+~
+~
+0 0 36547
+S
+#36547
+Gt'Mock Lair~
+You come to an intersection of tunnels in the Gt'Mock Lair.
+To the west you can spot a room of some kind. The tunnel
+runs to the south towards the exit and to the east where
+you can here some odd rumblings.
+~
+364 xy 0
+D2
+~
+~
+0 0 36546
+D3
+~
+~
+0 0 36548
+D1
+~
+~
+0 0 36549
+S
+#36548
+Guards Barracks~
+You have stumble upon a guards barracks within the tunnels.
+Several Gt'Mock guards stand around leisurely, not expecting
+any trouble. Evidently not too many people wander in to these
+tunnels. They don't seem too happy to see you.
+~
+364 xy 0
+D1
+~
+~
+0 0 36547
+S
+#36549
+Gt'Mock Lair~
+You proceed down a long hallway leading under the huge
+trash pile that serves as the hiding the place for the
+Gt'Mock people. You marvel at how smooth and well
+textured the walls are. Someone obviously spent a good
+deal of time carving the tunnels.
+~
+364 xy 0
+D3
+~
+~
+0 0 36547
+D1
+~
+~
+0 0 36550
+S
+#36550
+Gt'Mock Lair~
+You proceed down a long hallway leading under the huge
+trash pile that serves as the hiding the place for the
+Gt'Mock people. You marvel at how smooth and well
+textured the walls are. Someone obviously spent a good
+deal of time carving the tunnels.
+~
+364 xy 0
+D3
+~
+~
+0 0 36549
+D6
+~
+~
+0 0 36551
+S
+#36551
+Gt'Mock Lair~
+The faint drip of water can be heard from somewhere within
+the caverns. The yellow walls of the tunnel gleam with a
+warm dampness.Somewhere up ahead there must be a water 
+source of some kind.
+~
+364 xy 0
+D9
+~
+~
+0 0 36550
+D0
+~
+~
+0 0 36552
+S
+#36552
+Gt'Mock Lair~
+Rounding the tunnel you notice a large amount of movement from
+the room to the north. There is obviously something going on
+in there. The strained chatterings of gt'mocks can also be
+heard from that direction. There is a turn in the path to the
+south of here.
+~
+364 xy 0
+D2
+~
+~
+0 0 36551
+D0
+~
+~
+0 0 36553
+S
+#36553
+Den of the Gt'Mocks~
+You walk into a den of sorts among the Gt'Mock people. Large
+fluffy pillows fill the room and fanciful odors from choice
+incense fills the room. This obviously is the room of someone
+very important to the Gt'Mocks. Thin curtains cover the entrance
+to the room to the west, while to the east you can hear someone
+cursing and yelling.
+~
+364 xy 0
+D2
+~
+~
+0 0 36552
+D3
+~
+~
+0 0 36554
+D1
+~
+~
+0 0 36555
+S
+#36554
+The Queen's Room~
+This room is simply exquisite compared to the rest of these
+dreary tunnels. In the center of the room is a huge bed complete
+with bright purple sheets and huge golden pillows. Thin silk
+drapes hang on all sides of the room. Several servants stand
+around, catering to the wishes of their master, the queen of
+the Gt'Mocks.
+~
+364 xy 0
+D1
+~
+~
+0 0 36553
+S
+#36555
+General's Quarters~
+This room is a large room, covered in large tables and benches.
+On the north and east walls all manner of equipment and hang
+from notches in the wall. The south wall is covered in large
+maps, showing the area around here. Sitting in the corner of
+the room is a Gt'Mock general, looking over the maps.
+~
+364 xy 0
+D3
+~
+~
+0 0 36553
+S
+#36556
+Gt'Mock Lair~
+At this point in the hallway a sickening smell hangs heavily
+over the tunnel. The exact cause of the odor eludes you at
+the moment, but it is a very disorienting smell. It seems to
+be coming from one of the rooms up ahead.
+~
+364 xy 0
+D7
+~
+~
+0 0 36557
+D6
+~
+~
+0 0 36558
+S
+#36557
+Gt'Mock Nursery~
+Walking into this room your are awarded to a completely sickening
+site. This room serves as some type of nursery for the Gt'Mock
+children, but what is really sickening is what they are doing. The
+gt'mock children are crawling on the floor, a sick mass of half grown
+fur and a slimy coat, chewing on the dead body's of humans!
+~
+364 xy 0
+D8
+~
+~
+0 0 36556
+S
+#36558
+Gt'Mock Feeding Room~
+You have stumbled upon the gt'mock feeding room. Standing around
+in this room are several gt'mock servants hacking at dead body's.
+They are cutting the meat from the body and preparing it to be eaten
+by the children. The bones of the dead men are being ground up and
+forged into all manner of goods. Several skins hang from the walls.
+~
+364 xy 0
+D9
+~
+~
+0 0 36556
+S
+#36559
+On a Frozen Lake~
+As your steps crack and the ground buckles slightly under the
+pressure of your body you realize that you are now waling on
+a frozen lake of ice! The ice has been covered with layers of
+snow which give you at least some grip to the ground. The lake
+extends in all directions.
+~
+364 c 5
+E
+lake frozen ice snow~
+The lake is frozen completely solid. It buckles slightly as you step on it
+but you're pretty sure it will hold.
+~
+>
+entry_prog 10~
+mea $n You slip and fall on the ice!
+mpdamage $n 25
+~
+|
+S
+#36560
+On a Frozen Lake~
+The crack of ice and the crunch of snow echo under your feet
+with every step over the frozen lake. Thick layers of snow
+cover the ice, hiding its presence, but a you can tell the
+difference. In the distance a loud howl can be heard.
+~
+364 c 5
+S
+#36561
+On a Frozen Lake~
+Standing on this plain of ice and snow you begin to wonder
+if life truly exists in this realm. All you can see in any
+direction is the white of snow and ice. The hiss of the wind
+can be heard coming in all driections.
+~
+364 c 5
+S
+#36562
+On a Frozen Lake~
+Lost in a world frozen to the core, blank images float throug
+your head. All you can think about is your time as a child,
+warm summer evenings. Winters by the fire. All of a sudden you
+snap out of it and realize your are lost in a frozen wasteland.
+The color seems drained out of your eyes. All in your sight is
+colored as white as the freshly dropped snow. Even your memories
+now appear in snow colored white visions. You must escape this
+frozen hell before you go mad.
+~
+364 c 5
+S
+#36563
+On a Frozen Lake~
+Lost in a world frozen to the core, blank images float throug
+your head. All you can think about is your time as a child,
+warm summer evenings. Winters by the fire. All of a sudden you
+snap out of it and realize your are lost in a frozen wasteland.
+The color seems drained out of your eyes. All in your sight is
+colored as white as the freshly dropped snow. Even your memories
+now appear in snow colored white visions. You must escape this
+frozen hell before you go mad.
+~
+364 c 5
+S
+#36565
+On a Frozen Lake~
+As your steps crack and the ground buckles slightly under the
+pressure of your body you realize that you are now waling on
+a frozen lake of ice! The ice has been covered with layers of
+snow which give you at least some grip to the ground. The lake
+extends in all directions.
+~
+364 c 5
+S
+#36566
+On a Frozen Lake~
+The crack of ice and the crunch of snow echo under your feet
+with every step over the frozen lake. Thick layers of snow
+cover the ice, hiding its presence, but a you can tell the
+difference. In the distance a loud howl can be heard.
+~
+364 c 5
+S
+#36567
+On a Frozen Lake~
+Standing on this plain of ice and snow you begin to wonder
+if life truly exists in this realm. All you can see in any
+direction is the white of snow and ice. The hiss of the wind
+can be heard coming in all driections.
+~
+364 c 5
+S
+#36568
+On a Frozen Lake~
+Lost in a world frozen to the core, blank images float throug
+your head. All you can think about is your time as a child,
+warm summer evenings. Winters by the fire. All of a sudden you
+snap out of it and realize your are lost in a frozen wasteland.
+The color seems drained out of your eyes. All in your sight is
+colored as white as the freshly dropped snow. Even your memories
+now appear in snow colored white visions. You must escape this
+frozen hell before you go mad.
+~
+364 c 5
+S
+#36569
+On a Frozen Lake~
+Lost in a world frozen to the core, blank images float throug
+your head. All you can think about is your time as a child,
+warm summer evenings. Winters by the fire. All of a sudden you
+snap out of it and realize your are lost in a frozen wasteland.
+The color seems drained out of your eyes. All in your sight is
+colored as white as the freshly dropped snow. Even your memories
+now appear in snow colored white visions. You must escape this
+frozen hell before you go mad.
+~
+364 c 5
+S
+#36571
+On a Frozen Lake~
+You now stand on a completey frozen frontier of ice and snow.
+Cruel winds whip around you and tear at your face. The land
+about you is flat and white. You appear to be standing in the
+center of of a huge frozen lake. Directly in front of you a
+large hole has broken out from the lake, revealing the icy
+waters below. Something about the hole is very distracting to
+you. It is a perfect circle! Who could have created this?
+~
+364 c 5
+S
+#36572
+On a Frozen Lake~
+A thick haze seems to have fallen over this portion of the
+frozen lake. It is a thick fog, nearly impossible to see through.
+You are not exactly sure where you wandered to but you are roughly
+cognizant of the fact that the ice has started to crumble and break
+apart. You are in danger of falling into the ice. Ahead you see
+a totally unbelievable site, a large, hazy ship floats silently
+ahead of you. You can board here through a large gangplank to the
+east of you.
+~
+364 cx 5
+E
+ship ghost gangplank~
+The ship is an oddly growing green color. It seems to shift into and
+out of site. A sick feeling seems to follow the ship around. You have
+a very bad feeling about this.
+~
+>
+rand_prog 30~
+if mortcount(22272) >0
+mea $r You fall into the frozen water!
+mer $r $r Falls into the lake!
+if rand(25)
+mea $r You struggle to get out of the water,
+mea $r finally making it.
+mpdamage $r 175
+mer $r $r Struggles helplessy in the waters,
+mer $r finally making it out.
+else
+mea $r But luckily you can pull yourself out.
+mpdamage $r 35
+mer $r But quickly pulls $Mself out.
+endif
+else
+endif
+~
+|
+S
+#36573
+Aboard a Ghostly Ship~
+Standing aboard this ship you feel a sickening urge to throw
+up. The entire ship seems to be made entirely of a thin, bright
+green mist. The mist forms every part of the ship. It gives off
+a hazy glow that chills you to the bone. What's even more
+disheartening is the aura of the ship. Somehow it just doesn't
+FEEL right. Something is wrong with this place.
+~
+364 cx 5
+D8
+~
+~
+0 0 36574
+D1
+~
+~
+0 0 36582
+S
+#36574
+Aboard a Ghostly Ship~
+The eerie mist of that makes up the body of this awful ship
+that you are on sways and rolls against the waves of the
+sea. You appear to be standing on the port side. Just south
+of the gangplank. The ships stern of the ship can be seen
+a little farther to the south.
+~
+364 x 5
+D7
+Near the gangblank.
+~
+~
+0 0 36573
+D8
+~
+~
+0 0 36575
+D1
+~
+~
+0 0 36579
+S
+#36575
+Aboard a Ghostly Ship~
+A disheartening quiet seems to surround these ghostly sourroundings.
+The quiet is more then just quiet, it seems to be a total lack of
+sound, as if in a vacuum. You can see the waves of the sea crash and
+rage below the ship, but not a bit of it reaches your ears. Something
+horrible is happening here. You can feel it in your bones.
+~
+364 x 5
+D7
+~
+~
+0 0 36574
+D8
+~
+~
+0 0 36576
+D1
+~
+~
+0 0 36577
+D6
+~
+~
+0 0 36579
+S
+#36576
+Stern of the Ghostly Ship~
+You stand at the stern of the ghostly ship. Directly in
+front of you is the icy waters of the sea. For some reason
+the water is appears a deathly black. For a second you thought
+you saw a shape rise from the waters and float to the sky.
+But no, it was just your imagination. Wasn't it?
+~
+364 x 5
+D7
+~
+~
+0 0 36575
+D6
+~
+~
+0 0 36577
+S
+#36577
+Aboard a Ghostly Ship~
+You stand just north of the stern of the ship, along the
+starboard side of the vessel. The bright green mist of the
+ship seems to grab at you with fiendish claws, but you 
+shake your head and the image goes away. It is all just a
+figment of your imagination. At least you hope so.
+~
+364 x 5
+D9
+~
+~
+0 0 36576
+D3
+~
+~
+0 0 36575
+D6
+~
+~
+0 0 36578
+D7
+~
+~
+0 0 36579
+S
+#36578
+Aboard a Ghostly Ship~
+You stand aboard a neon-green ship composed of a thin
+misty, fog. The fog creates vivid images off its reflection
+in the icy waters of the sea. Looking off the starboard bow
+you can see what appears to be images in the water! It's too
+hard to make out what they are at this point though.
+~
+364 x 5
+D9
+~
+~
+0 0 36577
+D3
+~
+~
+0 0 36579
+D6
+~
+~
+0 0 36580
+E
+fog images~
+The images seem to dance around on the reflection of the sea. They
+create vivid scenarios and pictures. They are too far away right now
+to make out what they represent though.
+~
+S
+#36579
+Aboard a Ghostly Ship~
+Standing aboard this ghostly ship of green mist and odd
+visions you start to feel faint and begin to question your
+sanity. All about you is covered in a green haze and glows
+unnaturally. Something about this place is wrong. Maybe it's
+the green mist that glows and forms the ship, or maybe it's
+the voices in your head telling you to kill, you can't place
+it, but something in the back of your head tells you that
+everything is not as it should be!
+~
+364 x 5
+D3
+~
+~
+0 0 36574
+D1
+~
+~
+0 0 36578
+D8
+~
+~
+0 0 36577
+D9
+~
+~
+0 0 36575
+D6
+~
+~
+0 0 36581
+D7
+~
+~
+0 0 36582
+S
+#36580
+Aboard a Ghostly Ship~
+You stand, looking over the starboard side of a ghostly
+ship. Out over the ocean you can see the shadows of the
+green mist that make up this ship dance a delicate storyline.
+On the water it appears as if the mist is trying to recreate
+a tragic scene. In your imagination you begin to think you
+can see pictures of a bloody battle on the seas. A valiant
+prince and his crew are fighting bravely against a fleet of
+evil monsters. The captain appears to be winning the fight but
+a human mage appears before the monsters and uses dark magic
+to strike a fatal blow to the prince's army. At least that's
+what you imagine is happening. It's all just in your head.
+~
+364 x 5
+D9
+~
+~
+0 0 36578
+D3
+~
+~
+0 0 36581
+S
+#36581
+Aboard a Ghostly Ship~
+You tread precariously over green, neon mists that seem to
+hold under your mighty step but at the same time seem to
+grasp and claw at you, seeking to grab you and hold you to
+the ship, making you part of the ship for eternity. Doomed
+to spend the rest of your life a glowing mist floating
+among the others who are cursed to share your fate.
+~
+364 x 5
+D1
+~
+~
+0 0 36580
+D3
+~
+~
+0 0 36582
+D9
+~
+~
+0 0 36579
+S
+#36582
+Aboard a Ghostly Ship~
+Eerie thoughts and voices seem to echo off the neon-green
+hull of this damned ship. There seem to be hundreds of
+voices echoing in your head, telling you your fate is
+here among them, aboard this ship. That you must plunge
+yourself into the ocean waters in order to meet your fate
+and avoid the damnation of having no fate. You begin to
+sweat, despite the fact that it is well below freezing
+all around you. Something may be wrong here.
+~
+364 x 5
+D1
+~
+~
+0 0 36581
+D3
+~
+~
+0 0 36573
+D8
+~
+~
+0 0 36579
+>
+rand_prog 100~
+if rand(10)
+mpe The voices are calling you.........
+else
+if rand(10)
+mpe Your destiny is here, come to us....
+else
+if rand(10)
+mpe Strange thoughts and visions flood your brain.
+endif
+endif
+endif
+~
+|
+S
+$~
+$end~
+
+
+#MOBILES
+#36432
+snowman man snow~
+a snowman~
+How cute, someone has built a large snowman in the snow!
+~
+This is a fairly large snowman. He appears to be made of three large
+balls of snow piled upon each other. It seems harmless enough to you,
+but as you look closer at him, you notice a sinister sneer upon his
+face! It's alive!~
+m df -550 C
+27 0 -100 1d1+2500 0d0+0
+1000 0
+8 8 1
+0 0 0 0 0 0 0
+0 0 0
+C
+> look_prog 100~
+evilgrin $n
+murder $n
+~
+> exa_prog 100~
+evilgrin $n
+murder $n
+~
+> rand_prog 10~
+if mortcount(0) > 0
+poke $r
+else
+endif
+~
+> rand_prog 30~
+if mortcount(0) > 0
+mpkill $r
+else
+endif
+~
+> death_prog 100~
+mpe With a groan of pain the snowman quickly evaporates into nothing!~
+|
+#36433
+Crazed Penguin~
+a crazed penguin~
+A crazed penguin foams at the mouth.
+~
+This is a small, round penguin. At first glance he looks warm and cuddly,
+but this isn't your average penguin. His eyes are blood red and he foams
+at the mouth in an insane rage.~
+fgm 0 0 C
+29 0 -75 1d1+3200 0d0+0
+0 0
+8 8 0
+12 10 11 10 18 10 15
+15 0 0
+C
+> fight_prog 15~
+mea $n The crazed penguin flies at you in mad rage!
+mea $n The penguind laches on to your leg and locks on!
+mpdamage $n 40
+~
+|
+#36434
+yeti~
+a yeti~
+A large white yetti stammers along.
+~
+This yeti is a large manlike creature that inhabits the cold polar
+regions. He stands over seven feet tall and is covered in thick white
+fur that makes him very hard to see. This is one of the less intelligent
+species of yetti. A far cry from the develped yetti's thought to exist.
+~
+fgm 0 0 C
+30 0 -30 1d1+4500 0d0+0
+6500 0
+8 8 1
+0 0 0 0 0 0 0
+12 0 0
+C
+> rand_prog 10~
+moan
+~
+> all_greet_prog 100~
+grunt $n
+~
+> death_prog 50~
+mea $n With a final slash of your blade you wipe
+mea $n the yeti from the face of the earth!
+~
+|
+#36435
+Remorhaz polar worm~
+a remorhaz~
+A large polar worm looks for prey.
+~
+This is a remorhaz, a large polar worm. He is a large worm-like creature
+with many small legs on his body. He has a head shaped much like a dragons
+and the teeth to match! Remorhaz's are known to be very aggressive.
+~
+fgm df 0 C
+43 0 0 1d1+8000 0d0+0
+9000 0
+8 8 0
+0 0 0 0 0 0 0
+15 0 0
+C
+> rand_prog 10~
+, drools all over you!~
+> death_prog 100~
+mea $n The remorhaz explodes in a rush of blood and guts
+mea $n as you end his existence on this plane.
+~
+|
+#36436
+mastodon~
+a mastodon~
+A large mastodon wanders the land
+~
+This is a large elephant-like animal. He stands over ten feet tall and
+must weigh over 400 pounds. He is covered in a thick hide of fur which
+protects him from the cold.
+~
+gm 0 0 C
+27 0 -50 1d1+2200 0d0+0
+0 0
+8 8 1
+0 0 0 0 0 0 0
+15 0 0
+C
+> rand_prog 5~
+shiver
+~
+> death_prog 100~
+mpe The mastodon grunts loudly and falls to the ground
+mpe as he breathes his last breath of life.
+if rand(25)
+mpe The hide of the mastodon is cut from his corpse!
+mpoload 36432
+else
+endif
+~
+|
+#36437
+ice hound~
+an ice hound~
+A large ice hound stands at guard.
+~
+Ice hounds are distant relatives of hell hounds. They come from a
+different material plane then this one. They are usually summoned
+by a mage to protect something. Question is what is this one protecting?
+~
+bfgm df -500 C
+47 0 -200 1d1+13500 0d0+0
+0 0
+8 8 1
+16 14 14 17 15 8 12
+15 0 0
+C
+> death_prog 100~
+mpe With a glaring howl, the foul beast is vanquished back to its own realm!
+mpe The ice hound fizzles and dies.
+~
+> all_greet_prog 100~
+growl $n
+~
+|
+#36438
+white gorgimerae~
+a white gorgimerae~
+A three headed white gorgimerae waits for his next victim.
+~
+This fearsome three-headed monster is a relative of the chimera. It has
+the hindquarters and head of a gorgon; the forequarters and head of a
+mountain lion; and the wings and head of a white dragon.
+~
+bfgm df -500 C
+45 0 -200 1d1+9500 0d0+0
+0 0
+8 8 1
+16 14 14 17 15 8 12
+15 0 0
+C
+> all_greet_prog 100~
+if ispc($n)
+say Prepare to meet your maker $n!
+murder $n
+else
+endif
+~
+|
+#36439
+polar bear polarbear~
+a polar bear~
+A large polar bear hunts for food.
+~
+This is a large white polar bear. He wanders the land endlessly in
+search of fresh food and prey.
+~
+gm 0 0 C
+36 0 -75 1d1+6100 0d0+0
+0 0
+8 8 1
+0 0 0 0 0 0 0
+15 0 0
+C
+#36440
+frost giant guard~
+the frost giant guard~
+A large frost giant stands guard here.
+~
+These giants have a reputation for crudeness and stupidity. While
+the reputation may be deserved, frost giants are crafty and skilled
+fighters.
+~
+gm 0 400 C
+45 0 -200 1d1+9500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> all_greet_prog 100~
+say uh....duhhhhh...who you be?
+say are you s'posta be here?
+~
+> speech_prog p no~
+say Then me kill you!
+mpkill $n
+~
+> speech_prog p yes~
+say uhhhh....ok
+salute $n
+~
+|
+#36441
+Ice Elemental~
+the ice elemental~
+An ice elemental hovers over the gound.
+~
+This is an ice elemental. He is a large swirl of snow and ice magically
+created by a powerful mage. Ice elementals are very powerful fighters
+and are known to have powerful magical attacks.
+~
+bfgm dfwC -700 C
+47 0 -245 1d1+12350 0d0+0
+15000 0
+8 8 1
+0 0 0 0 0 0 0
+0 0 0
+C
+> all_greet_prog 100~
+if ispc($n)
+say I hope you're prepared to face the torments of the
+say the mighty ice lord!
+murder $n
+else
+endif
+~
+> fight_prog 15~
+say Feel the fury of COLD!!!!
+c 'frost'
+c 'iceshard'
+bash
+c 'chill'
+~
+|
+#36442
+snowstorm~
+a snowstorm~
+A raging snowstorm whirls in an uproar here.
+~
+This is a large swirling snowstorm. It's a hail of snow and ice. Looking
+at it closely, it appears to have a life of its own....
+~
+fgm C -400 C
+35 0 -45 1d1+3500 0d0+0
+0 0
+8 8 0
+0 0 0 0 0 0 0
+19 0 0
+C
+> death_prog 100~
+scream
+mpe The raging snowstorm screams vilently
+mpe as it is returned to the world it came from!
+~
+> fight_prog 20~
+laugh
+c 'weaken'
+gouge
+gouge
+disarm
+disarm
+get all
+~
+|
+#36443
+yeti guard~
+the yeti guard~
+A yeti guard stands watch.
+~
+This is a yeti guard. Stronger, smarter and fiercer then his yeti
+relatives, this inteligent yeti can be a tough fight.
+~
+fgm 0 0 C
+36 0 -30 1d1+8500 0d0+0
+6500 0
+8 8 1
+15 14 14 15 15 11 11
+12 0 0
+C
+> all_greet_prog 100~
+say My master says you must die!
+scream
+if ispc($n)
+mpkill $n
+else
+endif
+~
+> death_prog 100~
+say My master! I come to you!
+~
+|
+#36444
+yeti captain~
+the yeti captain~
+A yeti captain walks stoicly by.
+~
+The yeti captain is a very large yeti. Compared to his kin, this yeti
+is very intelligent and very strong, both of which make him a very
+tough fight. Yeit captains are also known to command groups of yeti
+guards.
+
+~
+fgm f -400 C
+37 0 -45 1d1+8500 0d0+0
+6500 0
+8 8 1
+15 14 14 15 15 11 11
+12 0 0
+C
+> all_greet_prog 100~
+if ispc($n)
+say Hey! You aren't supposed to be here!
+Yell Get him guards! Die $n!
+mpmload 36444
+else
+endif
+~
+> death_prog 100~
+mpe My brethren will avenge me!
+~
+|
+#36445
+Huge Wall Ice~
+A huge wall of ice~
+A huge wall of ice is here, laughing at you.
+~
+This is a large wall of ice. It appears to be laughing at you.
+~
+bgm df -315 C
+37 0 -150 1d1+8200 0d0+0
+0 0
+8 8 0
+0 0 0 0 0 0 0
+19 0 0
+C
+> rand_prog 50~
+if mortcount(0) > 0
+if rand(20)
+poke $r
+else
+if rand(40)
+laugh $r
+else
+endif
+endif
+else
+endif
+~
+> death_prog 100~
+mpe With a strange hiss the wall disappears!
+~
+> rand_prog 20~
+if mortcount(0) > 0
+grin $r
+murder $r
+else
+endif
+~
+|
+#36446
+your mother~
+your mother~
+Your mother is here, taunting you.
+~
+This appears to be your mother. She is taunting you relentlessly.
+~
+bgm df -325 C
+39 0 -125 1d1+7200 0d0+0
+0 0
+8 8 1
+0 0 0 0 0 0 0
+19 0 0
+C
+> all_greet_prog 100~
+taunt $n
+laugh $n
+~
+> rand_prog 25~
+if mortcount(0) > 0
+mpkill $r
+else
+endif
+~
+> death_prog 100~
+mpe With a strange hiss the body disappears!
+~
+|
+#36447
+beautiful flower~
+a beautiful flower~
+A beutiful flower is here.
+~
+This is a bright, beautiful flower. It is a glowing colorful object.
+~
+bgm df -150 C
+38 0 -150 1d1+5200 0d0+0
+0 0
+8 8 1
+0 0 0 0 0 0 0
+19 0 0
+C
+> exa_prog 100~
+murder $n
+~
+> rand_prog 30~
+if mortcount(0) > 0
+murder $r
+else
+endif
+~
+|
+#36448
+ill wind~
+an ill wind~
+An ill wind blows through the hallway.
+~
+A cold, chilly wind. Strangely enough, you can see it as if it was alive.
+
+~
+bgm df -450 C
+37 0 -125 1d1+5200 0d0+0
+0 0
+8 8 1
+0 0 0 0 0 0 0
+19 0 0
+C
+> death_prog 100~
+mpe With a horrible hiss the wind disappears.
+~
+> rand_prog 25~
+if mortcount(0) > 0
+murder $r
+else
+endif
+~
+|
+#36449
+akalurun mage~
+akalurun~
+The mage akalurun waits to destroy you.
+~
+This is a large man, covered in long robes of dark blue. He is enshrouded
+in a hail of ice.
+~
+bgm dfC -750 C
+43 0 -125 1d1+10000 0d0+0
+0 0
+8 8 1
+0 0 0 0 0 0 0
+19 0 0
+C
+> death_prog 100~
+laugh $n
+say Ha! you think you could kill the real Akalurud that easily?
+mea $n Return to whence you came and try again..
+mea $n when you can tell the difference between..
+mea $n reality and illusion.
+mea $n With a flash of light your surroundings fade...
+mea $n and you find yourself standing in a snowstorm
+mptransfer $n 36439
+mpe With a flash the mage disappears!
+~
+> all_greet_prog 100~
+laugh $n
+say Prepare to die $n!
+mpkill $n
+~
+|
+#36450
+grand yeti~
+a grand yeti~
+A grand yeti stands guard here.
+~
+This is a grand yeti. Once thought just a rumor made to scare children
+proof of their existence stands before you. Grand yeti's are highly
+intelligent and organized yeti's. They are rumored to be immune to magic.
+~
+bfgm df -400 C
+43 0 -175 1d1+8000 0d0+0
+10000 0
+8 8 1
+15 14 14 15 15 11 11
+12 0 0
+C
+> all_greet_prog 100~
+say Noone gets to my master!
+say Prepare to die!
+~
+|
+#36451
+step ice~
+a step made of ice~
+A large step of ice is standing here.
+~
+This is a large step of ice. It appears to be laughing at you.
+~
+bgm df -100 C
+37 0 -150 1d1+7200 0d0+0
+0 0
+8 8 0
+0 0 0 0 0 0 0
+19 0 0
+C
+> all_greet_prog 100~
+laugh $n
+~
+> rand_prog 30~
+if mortcount(0) > 0
+mpkill $r
+else
+endif
+~
+> damage_prog 10~
+say Ouch! You'll pay for that one!
+~
+|
+#36452
+elf elven statue~
+the statue of an elf~
+The icen statue of an elf is frozen in terror.
+~
+The statue is of an elven man. He is frozen with a look of pure terror
+upon his face.~
+bgm df -500 C
+38 0 -100 1d1+4200 0d0+0
+0 0
+8 8 0
+0 0 0 0 0 0 0
+19 0 0
+C
+> death_prog 100~
+mpe With a loud hiss the statue dissipitates!
+~
+> rand_prog 30~
+if mortcount(0) > 0
+mpkill $r
+else
+endif
+~
+|
+#36453
+dwarf dwarven statue~
+the statue of a dwarf~
+An ice statue of a dwarf with an eerie look on his face is standing here.
+~
+The statue is of a dwarven man. He is frozen with a look of pure terror
+upon his face.~
+bgm df -500 C
+38 0 -100 1d1+4200 0d0+0
+0 0
+8 8 0
+0 0 0 0 0 0 0
+19 0 0
+C
+> death_prog 100~
+mpe With a loud pop the fragments of the statue disappear!
+~
+> rand_prog 30~
+if mortcount(0) > 0
+mpkill $r
+else
+endif
+~
+|
+#36454
+human statue~
+the statue of a human~
+The 
+~
+The statue is of a human male. He is frozen with a look of pure terror
+upon his face.~
+bgm df -500 C
+38 0 -100 1d1+5200 0d0+0
+0 0
+8 8 1
+0 0 0 0 0 0 0
+19 0 0
+C
+> death_prog 100~
+mpe With a loud hiss the statue evaporates!
+~
+> rand_prog 30~
+if mortcount(0) > 0
+mpkill $r
+else
+endif
+~
+|
+#36455
+mirror~
+a mirror~
+A large mirror stands against the wall.
+~
+This is a large mirror. It appears to be breathing. There is also
+no reflection in it. Something is weird here.
+~
+bgm df -500 C
+38 0 -125 1d1+6200 0d0+0
+0 0
+8 8 1
+0 0 0 0 0 0 0
+19 0 0
+C
+> rand_prog 30~
+if mortcount(0) > 0
+mpkill $r
+else
+endif
+~
+> death_prog 100~
+mpe With a SPRING! An exit opens and you run through it!
+mptransfer $n 36483
+mpminvoke 36455
+~
+|
+#36456
+shadow dark~
+a dark shadow~
+A dark shadow hangs over the hallway
+~
+A large, dark shadow. This being flies around uncontrollaby. He is dark
+as the midnight moon on the eve of apocolypse.
+~
+bfgm df -100 C
+41 0 -190 1d1+8200 0d0+0
+0 0
+8 8 0
+0 0 0 0 0 0 0
+19 0 0
+C
+> death_prog 100~
+mpe With a hideous shriek the shadow explodes into the air!
+~
+|
+#36457
+door ice~
+the door of ice~
+A huge door of ice blocks your path.
+~
+This looks like a huge wall of ice. It appears to be very thick and
+very hard. A large face hangs out from the middle. He grins at you
+with an evilish grin.
+~
+bgm df -400 C
+43 0 -175 1d1+12000 0d0+0
+10000 0
+8 8 1
+15 14 14 15 15 11 11
+12 0 0
+C
+> all_greet_prog 100~
+laugh $n
+say If you want to get to my master...
+say you must first finish me!
+cackle $n
+~
+> death_prog 100~
+mpe With a loud CRASH! The door shatters, revealing an exit!
+mpopenpassage 36485 36486 1
+~
+|
+#36458
+akalurun mage ice lord~
+akalurun, the ice lord~
+The mage akalurun awaits your challenge
+~
+This is a large man, covered in long robes of dark blue. He is enshrouded
+in a hail of ice.
+~
+bgm dfC -750 C
+49 0 -200 1d1+14000 0d0+0
+15000 0
+8 8 1
+0 0 0 0 0 0 0
+19 0 0
+C
+> all_greet_prog 100~
+laugh $n
+Say Sooooo....you have finally made it past my illusions.
+say Now it's time to try your hand at the real thing!
+cackle
+mea $n With a wave of his hand akalurun sends a spray of ice towards you!
+c 'Iceshard' $n
+mpdamage $n 500
+~
+> death_prog 100~
+say NOOOO!!!!!!! This cannot be!
+say I cannot be defeated.....
+scream
+mpforce $n get all corpse
+mea $n With a strange POP the castle shatters....
+mea $n You suddenly find yourself wandering in a snowstorm.
+mptransfer $n 36444
+mptransfer corpse 0.$n
+~
+> fight_prog 10~
+say Feel my wrath!
+c 'necro'
+c 'weaken'
+c 'frost'
+c 'iceshard'
+cackle
+~
+|
+#36459
+thin mist~
+a thin mist~
+A thin mist hangs over the floor.
+~
+The mist is a dark whiteness, if there is such a thing. It hangs low
+to the ground and radiates an odd, eerie glow.
+~
+bgm df -500 C
+38 0 -150 1d1+6200 0d0+0
+0 0
+8 8 1
+0 0 0 0 0 0 0
+19 0 0
+C
+> rand_prog 30~
+if mortcount(0) > 0
+mea $r The mist reaches out to you and grabs you!
+mpdamage $r 30
+else
+endif
+~
+> fight_prog 30~
+mea $n The mist suddenly becomes solid and whacks at you!
+mpdamage $n 50
+~
+> death_prog 100~
+mea $n The mist emits an odd chuckle then retreats back.
+~
+> act_prog FLEES~
+tell $n There is no escape!
+mpat 0.$n mea $n The mist crabs at you with icy tentacles...
+mpat 0.$n mea $n You are dragged back to the mist!
+mptrans 0.$n
+~
+|
+#36460
+ice planar~
+the ice planar~
+A being of ice from another plane stands here.
+~
+This is an ice planar. He is a being of another plane, one of ice that
+has found his way into this plane. He gains his power from sucking the
+life out of all that gets in his way. He has obviously been summoned here by
+the mage Akalurun and forced to do his bidding. Only mystery is, why
+is he gathering an army of yeti warriors? This planar is a lesser planar,
+usually followers of greater powers. Hope his master is not nearby.
+~
+bgm dfC -750 C
+51 0 -200 1d1+16000 0d0+0
+15000 0
+8 8 1
+0 0 0 0 0 0 0
+19 0 0
+C
+> all_greet_prog 100~
+if ispc($n)
+cackle $n
+say So foolish mortal, you have found me.
+say Now you will die!
+Say Behold the power of the Ice Planes!
+c 'frost' $n
+mea $n The planar utters arcane words of power and strains of ice shoot towards you!
+mpdamage $n 250
+murder $n
+else
+endif
+~
+> act_prog FLEES~
+mpat 0.$n Laugh $n
+mpat 0.$n Say you won't escape me that easily.
+mpat 0.$n mea $n The planar creates a portal before you and sucks you in!
+mpat 0.$n mptrans $n
+murder $n
+~
+> death_prog 100~
+mpoload 36442 50
+drop exoskeleton
+say Nooooooo!!! Not now!! Arrrrrrrrggggggg..
+mpe The ice planar's exoskeleton is cut from his corpse!
+mpe The portal winks out of existence!
+mppurge portal
+~
+|
+#36461
+mirror~
+a mirror~
+A large mirror stands against the wall.
+~
+This is a large mirror. It appears to be breathing. There is also
+no reflection in it. Something is weird here.
+~
+bgm df -500 C
+38 0 -125 1d1+6200 0d0+0
+0 0
+8 8 0
+0 0 0 0 0 0 0
+19 0 0
+C
+> death_prog 100~
+mpminvoke 36461
+mpe With a crash the mirror shatters and another replaces it!
+~
+> rand_prog 75~
+if mortcount(0) > 0
+mea $r The mirrors come alive and attack you!
+mpkill $r
+else
+endif
+~
+|
+#36462
+frost giant~
+the frost giant~
+A large frost giant pratrols the area.
+~
+These giants have a reputation for crudeness and stupidity. While
+the reputation may be deserved, frost giants are crafty and skilled
+fighters.
+~
+gm 0 500 C
+43 0 -150 1d1+6500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> all_greet_prog 100~
+if rand(20)
+laugh $n
+say Ha Ha Ha! You tiny little person!
+else
+if rand(20)
+say uhhhh....ain't you kids s'posed uh be in skool?
+ponder
+else
+point $n
+say Why you so small?
+say Me could squash like uh bug....
+chuckle
+endif
+endif
+~
+> rand_prog 2~
+say squashing the bugs....
+say squashing the bugs....
+~
+|
+#36463
+gt'mock~
+a gt'mock villager~
+A gt'mock villager walks by.
+~
+This is a gt'mock villager. Gt'mock's are an amazing breed of animals. They
+are the direct result of an insane mages attempt to create the ultimate army
+for himself. The mage created many creatures in the attempt. This is one of them.
+The gt'mock's are part yeti, part rat and part ant. The end result of this mad
+experiment is a huge rat with 6 arms and a highly evolved brain. When the
+Gt'mock's became disobediant the mage banished them into the cold. It is here
+that those who survived have come to call home.
+~
+gm 0 500 C
+43 0 -150 1d1+6500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+#36464
+gt'mock guard~
+a gt'mock guard~
+A gt'mock guard watches for intruders.
+~
+This guard of the gt'mock people has the responsibility of making sure that
+no intruders ever bother their kind again. When the gt'mock's were banished
+from the insane mage's keep they vowed never to be used by another creature
+as long as they lived. To achieve this they have cutoff all contact with any
+race that is not their own. To be an outsider among the gt'mock is to be
+involved in a fight.
+~
+gm df 500 C
+46 0 -180 1d1+9500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> all_greet_prog 100~
+if ispc($n)
+if rand(50)
+say We'll never be abused again! Die outsider!
+mpkill $n
+else
+say Die intruder!
+mpkill $n
+endif
+else
+endif
+~
+|
+#36465
+gt'mock captian~
+a gt'mock captain~
+A gt'mock captain patrols the area.
+~
+This captain of the guard has immediate authority over the guards of the
+gt'mock people. If any intruders appear on his watch, it is he who is to
+blame. He takes his job very seriously.
+~
+gm df 500 C
+48 0 -220 1d1+1000 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> all_greet_prog 100~
+if ispc($n)
+gasp
+say Intruders!!!!
+say Not on my watch! Die vile humanoid!
+mpkill $n
+else
+endif
+~
+|
+#36466
+gt'mock general~
+a gt'mock general~
+A gt'mock general hurries by.
+~
+The gt'mock general is huge warrior, proven in battle that he has the might,
+courage and wisdom to fight and win he has won favor with the queen. Gt'mock
+generals are responsible for training the military of the gt'mock people and
+they are the most likely for the queen to choose to breed with.
+~
+gm df 500 C
+49 0 -270 1d1+4500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+#36467
+gt'mock servant~
+a gt'mock servant~
+A servant of the gt'mock queen hurries by.
+~
+This servant of the gt'mock queen has devoted her entire life to the needs
+of the queen. Being a servant she will never mate. Her entire life is to
+serve the queen and do her bidding.
+~
+bgm df 500 C
+39 0 -150 1d1+4500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> all_greet_prog 100~
+say Save the queen!!!
+~
+|
+#36468
+gt'mock queen~
+the gt'mock queen~
+A queen among the gt'mock's stands regally among her servants.
+~
+The gt'mock queen is born into her almost holy position. She is treated by
+other gt'mock's almost as if she were a holy figure. Her job as the queen is
+to give birth to many healthy male children who will protect her people and
+to give birth to the females who will serve her.
+~
+bgm df 500 C
+50 0 -280 1d1+1700 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> all_greet_prog 100~
+if ispc($n)
+say Intruders in our midst!
+say Guards! Guards!
+mpkill $n
+else
+endif
+~
+|
+#36469
+frost giant housewife house wife~
+the frost giant housewife.~
+A huge frost giant housewife stands here making supper.
+~
+These giants have a reputation for crudeness and stupidity. While
+the reputation may be deserved, frost giants are crafty and skilled
+fighters.
+~
+bgm 0 500 C
+39 0 -150 1d1+4500 0d0+0
+9500 0
+8 8 2
+16 14 14 17 15 8 12
+12 0 0
+C
+#36470
+frost giant guard~
+the frost giant guard~
+A forst giant guard stands watch here.
+~
+These giants have a reputation for crudeness and stupidity. While
+the reputation may be deserved, frost giants are crafty and skilled
+fighters.
+~
+bgm df 500 C
+43 0 -150 1d1+6500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> all_greet_prog 100~
+say Wutz a little babee like u doin out?
+gasp
+say ain't a babee...you a bug!
+say shoo little bug, go away.
+mea $n The frost giant swats at you aimlessly.
+~
+|
+#36471
+frost giant shopkeeper~
+the frost giant shopkeeper~
+A frost giant shopkeeper is selling his limited wares here.
+~
+This is a huge frost giant. He sits in his small shop, selling food
+to other giants. ~
+bgm df 500 C
+43 0 -150 1d1+6500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> all_greet_prog 100~
+tell $n Boy you're an odd looking giant aren't you?
+~
+|
+#36472
+frost giant shopkeeper~
+the frost giant shopkeeper~
+A frost giant shopkeeper is selling his limited wares here.
+~
+This is a huge frost giant. He sits in his small shop, selling water
+to other giants. ~
+bgm df 500 C
+43 0 -150 1d1+6500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> all_greet_prog 100~
+tell $n Hi there little one.
+tell $n Are you looking for your mommy?
+~
+|
+#36473
+frost giant shopkeeper~
+the frost giant shopkeeper~
+A frost giant shopkeeper is selling his limited wares here.
+~
+This is a huge frost giant. He sits in his small shop, selling equipment
+to other giants. 
+~
+bgm df 500 C
+43 0 -150 1d1+6500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+#36474
+frost giant elder~
+a frost giant elder~
+An elder frost giant stands here telling a story.
+~
+These giants have a reputation for crudeness and stupidity. While
+the reputation may be deserved, frost giants are crafty and skilled
+fighters.
+~
+bgm 0 500 C
+39 0 -150 1d1+4500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+#36475
+frost giant child~
+a frost giant child~
+A frost giant child stands here, listening to a story.
+~
+These giants have a reputation for crudeness and stupidity. While
+the reputation may be deserved, frost giants are crafty and skilled
+fighters.
+~
+bgm 0 500 C
+35 0 -150 1d1+2500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+#36476
+gt'mock guard~
+a gt'mock guard~
+A gt'mock guard watches for intruders.
+~
+This guard of the gt'mock people has the responsibility of making sure that
+no intruders ever bother their kind again. When the gt'mock's were banished
+from the insane mage's keep they vowed never to be used by another creature
+as long as they lived. To achieve this they have cutoff all contact with any
+race that is not their own. To be an outsider among the gt'mock is to be
+involved in a fight.
+~
+gm df 500 C
+46 0 -180 1d1+9500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> all_greet_prog 100~
+if ispc($n)
+if rand(50)
+say We'll never be abused again! Die outsider!
+mpkill $n
+else
+say Die intruder!
+mpkill $n
+endif
+else
+endif
+~
+|
+#36477
+gt'mock captian~
+a gt'mock captain~
+A gt'mock captain patrols the area.
+~
+This captain of the guard has immediate authority over the guards of the
+gt'mock people. If any intruders appear on his watch, it is he who is to
+blame. He takes his job very seriously.
+~
+gm df 500 C
+48 0 -220 1d1+1000 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> all_greet_prog 100~
+if ispc($n)
+gasp
+say Intruders!!!!
+say Not on my watch! Die vile humanoid!
+mpkill $n
+else
+endif
+~
+|
+#36478
+gt'mock child~
+a gt'mock child~
+A gt'mock child plays happily on the floor.
+~
+This a small gt'mcok child. It is a smaller version of the elder gt'mocks,
+yet it still appears as if he could be a vicious foe. Even being a young
+child, this gt'mock is still over four feet tall and has very large claws
+covering his hands and appears to be very quick.
+~
+bgm df 500 C
+25 0 -75 1d1+1500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+> rand_prog 8~
+giggle
+~
+|
+#36479
+ghostly pirate ghost~
+a ghostly pirate~
+A ghostly pirate made of green mist fades in and out of site.
+~
+This at first appears to be your normal everyday pirate of the seas.
+However, after a second of observation it is clear this is not your
+average pirate. He is made of the same neon green mist as the ship is
+and seems to have an evil aura about him.
+~
+bgm df 500 C
+43 0 -150 1d1+6500 0d0+0
+9500 0
+8 8 1
+16 14 14 17 15 8 12
+12 0 0
+C
+$~
+$end~
+
+
+#OBJECTS
+#36432
+mastodon hide~
+A mastodon hide~
+The hide of a mastodon lies on the floor.~
+~
+9 z ak
+12 12 0 0
+10 1450 145
+E
+mastodon hide~
+This hide is very thick and covered in coarse fur. It looks as if it would
+provide excellent protection from the cold if it is worn about your body.
+~
+>
+wear_prog 100~
+mea $n You feel a warmness about you as you don the hide.
+~
+|
+#36433
+yeti necklace~
+a yeti necklace~
+A yeti's necklace of bones lies here.
+~
+~
+9 g ac
+16 16 0 0
+2 12000 1200
+E
+yeti necklace~
+This is a simple yeti necklace. It is made of the bones of fallen
+comrades. It is rumored to have magical properties.
+~
+>
+damage_prog 15~
+say Ouch!
+~
+|
+#36434
+ring yeti~
+a yeti ring~
+A large yeti ring, made of bones lies here.
+~
+~
+9 z ab
+12 12 0 0
+3 0 0
+E
+ring yeti~
+This is a large yeti ring made of bones. It is rumored to have
+magical properties.~
+A
+6 -1
+>
+speech_prog p yeti~
+mpe A hollow voice whispers eerily...
+mpe "never denounce a yeti..."
+~
+|
+#36435
+yeti chest~
+the chest of a yeti~
+The chest of a yeti lies on the ground.~
+%s wear$q $p about $q body.~
+9 z ad
+23 23 0 0
+3 15000 1500
+E
+yeti chest~
+This is the chest of a yet. Yes, the chest of a yeti. It is large and
+hairy and very hard. It may serve as decent armor.
+~
+>
+wear_prog 100~
+mea $n The yeti hairs tickle your body as you don the chest.
+~
+|
+#36436
+servants ring servant's~
+a servants ring~
+A servants ring has been left on the ground.~
+%s wear%q %p upon %s finger.~
+9 gw ab
+17 17 0 0
+1 7500 750
+E
+ring servants servant's~
+This is a large blue ring. It has upon it a large rune. You recall from
+somewhere that the rune is a stamp of sort, indicating that whoever is
+wearing the ring is a servant of someone. There is another rune next to it
+that signifies the master, but you do not recognize it.
+~
+>
+wear_prog 100~
+mea $n You feel a slightly faint as you don the ring...
+mea $n then it fades....
+mer $n $n gets a strange look in his eye as he wears a ring upon his finger.
+~
+|
+#36437
+robes of frost~
+robes of forst~
+Robes of frost lie on the ground.~
+%s wear%q %p upon %q body.~
+9 b ak
+23 23 0 0
+4 24500 2450
+E
+robes frost~
+The robes are long and heavy. They are covered in thick, bright ice and
+are very rigid. A layer of frost hangs over them.
+~
+>
+get_prog 100~
+mea $n The robes seem to glow as you pick them up.
+~
+|
+#36438
+Necklace Ice~
+a necklace of ice~
+A neck of ice has been left here.~
+%s place%q %p on %s neck.~
+9 b ac
+21 21 0 0
+4 12500 1250
+E
+necklace ice~
+This is a large necklace composed entirely of ice. It is thick and slightly
+heavy. The crystals of ice on it radiate extravagently.
+~
+A
+17 -20
+>
+damage_prog 15~
+mpe The necklace of ice starts to crack.
+say Ouch! Take me to a blacksmith ASAP!
+~
+|
+#36439
+table~
+a large table~
+A large table, perfect for large meals is sitting here.~
+~
+12 0 0
+0 0 0 0
+75 0 0
+E
+table large~
+The table is very large and round. It is made of wood, but even the wood
+has become encapulated in sheaves of ice.~
+#36440
+Yeti Horn~
+a yeti horn~
+The horn of some creature lies on the floor.~
+~
+5 vz an
+12 15 2 11
+3 12000 1200
+E
+horn yeti~
+This is a yeti horn. A common yeti weapon, it has been torn from the
+corpse of some dead creature. It is sharp and deadly.~
+#36441
+portal ice plane~
+A portal to the ice plane~
+A portal leading to the ice plane is here.~
+~
+12 bg 0
+0 0 0 0
+50000 0 0
+E
+portal plane~
+This portal is dark and eerie. A cold mist and heavy ice flies in
+from the portal. The portal serves as a gateway between this plan
+and the plane of ice. It must be closed.
+~
+>
+exa_prog 100~
+mea $n The portal hums as you look at it.
+mea $n Ice suddenly shoots out at you!
+mpdamage $n 100
+c 'frost' $n
+~
+|
+#36442
+exoskeleton ice planar~
+The exoskeleton of an ice planar~
+The exoskeleton of an ice planar has been left here.~
+%s wear%q %p on %m boy.~
+9 gv ad
+27 27 0 0
+10 24500 2450
+E
+exoskeleton ice planar~
+This is the exoskeleton of an ice planar. Planar's originate in planes that
+are not the same as this one, hence their body has significant and advantageous
+advantages on this plane.~
+A
+17 -60
+A
+1 2
+F
+30 0 0
+>
+wear_prog 100~
+mea $n a shiver runs down your spine as you wear the exoskeleton.
+mer $n $n shivers as $e wear$q a large frozen exoskeleton.
+~
+|
+#36443
+straw mat~
+a straw mat~
+A small straw mat lies on the floor.~
+~
+12 0 0
+0 0 0 0
+5000 10000 1000
+E
+straw mat~
+This is a straw mat used by a yeti to sleep on at night. It looks
+hard and uncomfortable. Good thing you're not a yeti.~
+>
+exa_prog 50~
+mea $n A rat jumps out of the mat and bites your nose!
+mpdamage $n 20
+~
+|
+#36444
+note~
+a note~
+A note lies on the ground here.~
+~
+12 0 0
+0 0 0 0
+10000 0 0
+E
+note~
+The note is very crudely written. It says:
+
+That'll oughta teach ya uh sta ot me rom gringun!
+~
+#36445
+frost giant axe~
+a frost giant's axe~
+A huge, frozen solid axe lies on the ground.~
+%s chop at $t with %m %p~
+5 v an
+12 35 5 7
+25 18900 1890
+E
+axe huge frost giant~
+This is the huge, ice covered axe of a frost giant. For a normal person
+this axe would be nearly impossible to wield, but frost giant's are blessed
+with an enormous amount of strength.~
+A
+2 -1
+A
+1 1
+>
+death_prog 100~
+cheer
+say another one bites the dust!
+~
+|
+#36446
+frost giant belt~
+a frost giant's belt~
+The huge belt of a frost giant is laying here.~
+~
+9 z al
+21 21 0 0
+10 1100 110
+E
+belt frost giant~
+This huge belt has been torn from the waist of a frost giant. It's simply
+huge in relation to humans. The buckle is bigger then your fist!~
+>
+rand_prog 1~
+if rand(25)
+say Sooooo...who we gonna kill today?
+else
+if rand(25)
+yawn
+else
+if rand(25)
+scream
+else
+endif
+endif
+endif
+~
+|
+#36447
+boots huge~
+a pair of huge boots~
+A pair of huge boots, covered in fur have been left here.~
+~
+9 z ag
+22 22 0 0
+8 9700 970
+E
+boots huge frost giant~
+These are the biggest boots you've ever seen in your life. They are covered
+in a thick layer of animal fur and provide excellent insulation against the
+cold. They would probably be very uncomfortable in the heat however.~
+A
+4 -1
+A
+17 -20
+A
+-347 2
+F
+30 0 0
+>
+wear_prog 50~
+mea $n Your feet feel warm and secure as you put on the boots.
+~
+|
+#36448
+animal hide helmet thick animalhide~
+a thick animal hide helmet~
+An oversized helmet carved out of an animal's hide is laying here.~
+~
+9 z ae
+23 23 0 0
+7 0 0
+E
+animal hide helmet thick animalhide~
+This large helmet was formerly owned by a large frost giant. It is carved
+out of the hide of some animal and is made to provide protection against
+the cold. It looks very heavy.~
+A
+6 -1
+#36449
+breastplate breast plate frost giant~
+a frost giant breast plate~
+The large breast plate of a frost giant has been discarded on the ground.~
+~
+9 mo ad
+24 24 0 0
+12 16000 1600
+E
+breastplate breast plate frost giant~
+This is a huge steel breast plate. It is made for someone the size of a
+frost giant. The amount of steel it must have taken to make this is amazing.
+It's almost too heavy for you to pick up.~
+A
+-347 2
+A
+-332 -1
+>
+wear_prog 100~
+mea $n The heavy weight of the breast plate nearly knocks you to the ground.
+mer $n $n nearly stumbles as $e tries to wear an oversized breast plate.
+~
+|
+#36450
+gates~
+A rickety gate~
+Three dead trees lie here, trying to serve as a gate.
+~
+~
+12 0 0
+0 0 0 0
+5000 0 0
+E
+rickety gates gate tree wood~
+This "gate" is really just three dead trees that have been sheared and
+put together to form an overhang from the path. Evidently being a giant
+in these realms of ice and death is protection of its own.
+~
+>
+exa_prog 100~
+mea $n As you look at the rickety gate you notice a faint glimmer of light..
+mea $n Suddenly the light grows and envelopes you!
+mea $n With a flash of light you suddenly feel yourself shrinking!
+mea $n You grab onto the tree in an attempt to hold the magic back!
+mea $n But it's too late, you suddenly find yourself in a much larger world...
+mea $n Very loudly a giant begins rolling on the ground laughing...
+mea $n A frost giant laughs loudly.."Boom, now they little people!"
+mptransfer $n
+mer $n In a flash of light $n suddenly shrinks and disappears!
+~
+|
+#36451
+giant bracer~
+a giant bracer~
+The bracer of a giant has been left here.~
+~
+9 nz am
+21 21 0 0
+10 12000 1200
+E
+giant bracer~
+This huge bracer is carved from the remains of a dead animal. It's been
+hardened by some means and made to fit the giant wrists of its creator.
+It is oversized for you, but will stay provide excellent protection.
+~
+A
+-332 -1
+A
+17 -15
+>
+rest_prog 15~
+say Don't think I'm just gonna rest here with all day!
+~
+|
+#36452
+chunk meat huge~
+a huge chunk of meat.~
+A huge chunk of frozen meat has been dropped on the ground.~
+%s chew$s on $P~
+19 z a
+10 0 0 0
+15 2350 235
+E
+chunk meat huge~
+This is a huge frozen chunk of meat. Where it came from is a mystery you
+think is best left unsolved.
+~
+#36453
+cup water~
+a huge cup of water~
+A giant's cup of water is lying here.~
+~
+17 0 a
+40 40 0 0
+10 1000 100
+E
+cup water~
+This is a huge cup of water. It's nearly the size of your head!
+~
+#36454
+elder's staff~
+staff of the elder~
+A large gnarled staff stands on its own here.
+~
+~
+4 gi ao
+41 15 15 -1
+12 4500 450
+E
+staff elder~
+This gnarled staff is the sign of a wise and trusted elder in the
+frost giant society. The right to hold this staff is earned through
+bravery in battle and wisdom in the camp.
+~
+A
+13 40
+#36455
+huge pile trash stinky~
+a huge pile of stinky trash~
+A huge pile of nasty, rotten trash surrounds you on all sides!
+~
+~
+12 0 0
+0 0 0 0
+5000 0 0
+E
+trash huge stinky pile nasty~
+This is the most disgusting thing you've ever seen in your life! A huge,
+rotten pile of frost giant trash lies all around. This has to be the worst
+smelling thing you could ever imagine. You better get out of here before
+the fumes overwhelm you. Wait a minute are those footsteps leading north
+trhough the mud.....WAIT A MINUTE! That's NOT mud! Yuck!
+~
+#36456
+sign~
+a sign~
+Maybe this sign will shed some insights on who built these tunnels.
+~
+~
+12 0 0
+0 0 0 0
+5000 0 0
+E
+sign~
+The sign reads:
+
+Welcome to the Gt'mock caverns. Here all our kind can meet and be safe
+from the outside influence of the evil humanoid kinds. All outsiders
+will be murdered on site. The location of these tunnels must remail secret
+at all costs. Noone will leave here. If you're an outsider please remain
+here and a guard will arrive shortly to murder.
+
+-Thanks,
+Anoctoctus, Gt'Mock Quenn
+~
+#36457
+human skull~
+a human skull~
+A human skull lies on the ground!~
+%s wear$q $p on $s head!~
+9 z ae
+18 18 0 0
+4 12500 1250
+E
+skull human~
+This appears to be what becomes of people who happen to stumble upon
+the hidden lair of the Gt'Mocks. At least the body doesn't go to waste.
+~
+A
+6 -2
+A
+19 10
+>
+remove_prog 50~
+mea $n You heave a sigh of relief as you remove
+mea $n the skull from your head.
+~
+>
+wear_prog 100~
+mpforce $n cackle
+mer $n $n Gets a strange look in his eye as he wears a skull upon his head.
+~
+|
+#36458
+ring Gt'Mock~
+a Gt'Mock ring~
+The large ring of a Gt'mock guard is lying here.
+~
+~
+9 i ab
+18 18 0 0
+3 3450 345
+E
+ring gt'mock~
+This large, round ring once belonged to a gt'mock. It was once the symbol
+of the mage who created their race. Once liberated the gt'mocks chose to
+retain the ring as a reminder of the oppression that once was their life.
+~
+A
+5 1
+#36459
+gt'mock belt~
+a gt'mock belt~
+A belt made of some sticky substance is lying here.
+~
+~
+9 z al
+21 21 0 0
+3 1100 110
+E
+gt'mock belt~
+This belt is odd in both appearance and smell. It is a pale yellow
+color and very brittle. It is sticky to the touch and covered in an
+odd substance. The thick smell of something organic an be smelled on
+the belt. Could this belt be the hide of an intruder?
+~
+#36460
+gt'mock tunic skin~
+a gt'mock tunic~
+A collection of skins has been fashioned into a tunic.
+~
+~
+9 z ad
+23 23 0 0
+3 7800 780
+E
+gt'mock tunic skin~
+This tunic appears to be a collection of the skins of invaders of the
+Gt'Mock lair hardened and fashioned into a large tunic. It looks as if
+it will provide adequate protection, but boy does it smell!
+~
+A
+6 -2
+F
+136 0 0
+A
+17 -25
+>
+damage_prog 9~
+mea $n The skins begin to crack under the onslaught!
+~
+|
+#36461
+gt'mock boots~
+gt'mock boots~
+A pair of boots fashioned from bone lie here.~
+~
+9 z ag
+21 21 0 0
+4 8900 890
+E
+gt'mock boots bone~
+These boots are fashioned out of bone. Obviously made from the 
+unfortunate adventurers who happen to stumble upon the gt'mocks
+lair. Regardless of their origination they are very hard and
+will provide excellent protection.
+~
+A
+2 -1
+A
+17 -25
+A
+6 -1
+>
+sac_prog 100~
+c 'gate'
+~
+|
+#36462
+necklace teeth~
+a necklace of teeth~
+A necklace made of hundreds of teeth has been dropped here.
+~
+~
+9 z ac
+24 24 0 0
+3 3444 344
+E
+necklace teeth~
+This necklace is a large string of teeth gathered from invaders of
+the Gt'Mock's home. It doesn't appear like the gt'mocks treat guests
+very well.
+~
+A
+6 -1
+A
+13 100
+A
+18 10
+#36463
+bone knife~
+a bone knife~
+A sharpened bone would serve as an excellent knife.~
+~
+5 z an
+12 12 5 3
+4 1500 150
+E
+bone knife~
+This knife is fashioned for the leg bone of an unknown victim.
+The bone is sharpened down both sides and to a pointed tip. It
+will serve as an excellent weapon.
+~
+A
+13 12
+#36464
+torch~
+a torch~
+A torch glows warmly against the wall.~
+~
+1 0 0
+0 0 -1 0
+5000 1000 100
+$~
+$end~
+
+
+#SHOPS
+CircleMUD v3.0 Shop File~
+#36401~
+36452
+-1
+1.50
+0.90
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+36471
+0
+36537
+-1
+0
+23
+0
+0
+#36402~
+36453
+-1
+1.50
+0.90
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+36472
+0
+36536
+-1
+0
+23
+0
+0
+#36403~
+36451
+36449
+36448
+36447
+36446
+36445
+-1
+1.50
+0.90
+9
+5
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+36473
+0
+36538
+-1
+0
+23
+0
+0
+$~
+$end~

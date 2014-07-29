@@ -1,0 +1,75 @@
+map sewer
+Ivan Elcic's Map of Sewer Junction
+
+First Level
+-----------
+
+        *--*-----*-----*--*--*--*
+        |  |     |        |     |
+  *     *--|--*  *--*--*  *     *
+  |        |  |  |  |  |  |     |
+  *--*     |  *--*  *  *  *--*  *
+  |  |     |  |  |     |  |  |  |
+ D05 *-----|--*  |     *--*  *  *--*
+     |     |     |           |  |  |
+     |     | D06-*--* D04    |  *  |
+     |     |        |  |     |  |  |
+     |  *--*-----*--*  |     *  *-D07
+     |  |        |     |     |  |
+ D02-*--S    D01-U-D03 *  *  *  *
+     |  |        |     |  |  |  |
+     *--*--------*-----*--*--*--*
+
+Second Sewer
+------------
+
+             D07----*----D10
+              |     |     |
+              |         --*
+              |           |
+              *--       --*
+              |    DT!    |
+ S05----*     |         --*
+        |     |           |
+        |     *--       --*-U04
+        |     |     |     |
+        |    D07----*----D07
+        |     |     |
+ U02----*----S01----|----S03
+ D09                |
+                   D08
+
+Sewer Maze
+----------
+
+  *--*
+     |
+     *--*                       K
+     |  |                       |
+     *--*                 *-----|--*--*--*
+     |  |                 |     |     |
+     *--*  *  *--*        *  *--*--*--*--*--*
+     |     |  |           |  |  |     |     |
+     *--*--*--*           *--*  K     *-----R
+           |              |  |
+           *           *--*  *--*--*--*--*--*
+           |           |  |  |  |     |  |  |
+           *           *--*  *--*  *  *  *  *           *
+           |           |        |  |  |  |  |           |
+  *--*  *--*--*  *     *        *--* U09 *--*     F--*--*
+  |     |        |     |        |        |              |
+  *--*--|--*--*--*     *--*     *--*-----*           *--*
+        |        |     |  |     |                    |
+        *-U08-*--*     *--*--*--*                   U10
+
+  DT! - Death Trap!
+  F   - Room in flame. No way out except. Must use scroll of recall
+  K   - The key needed
+  R   - Red Dragon
+  S   - This is where one falls down from Mage Guild
+  U   - Ascension to the Dumb near Common Square
+  D06 - Cul-de-sac after 1 descent
+  D07 - Cul-de-sac after 2 descents
+  Dn  - Descent number n
+  Sn  - The end of the one-way descent number n (one may not go up)
+  Un  - The end of the two-way descent number n (one may go up)

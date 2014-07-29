@@ -1,0 +1,582 @@
+#8351
+Serene Forest~
+  This part of the forest seems to have a more peaceful quality than the
+forest surrounding it.  You sense a kind of friendlier atmosphere.
+~
+83 0 3
+D1
+You see the forest.
+~
+~
+0 -1 3077
+D3
+The serene forest continues to the west.
+~
+~
+0 -1 8352
+S
+#8352
+Serene Forest~
+  Pacific is the word that first comes to mind as you travel through this 
+ancient wood.  Perhaps the largest tree in the wood is a short walk ahead
+of you to the west.  Birds are singing like you've never heard them sing
+before, and a fox runs across your path, disappearing into the brush.
+~
+83 0 3
+D1
+The serene forest is east.
+~
+~
+0 -1 8351
+D3
+The serene forest clears a bit to the west.
+~
+~
+0 -1 8353
+S
+#8353
+Serene Forest~
+  The forest looks more 'inhabited' here.  The brush doesn't grow as thick
+and many small trails branch out from the main path you are following.  A
+big hint that intelligent creatures live here is the large hole carved 
+through the bottom of the ancient oak tree to the west.
+~
+83 4 3
+D1
+The serene forest grows to the east.
+~
+~
+0 -1 8352
+D2
+~
+~
+0 0 19201
+D3
+A hollowed oak is west.
+~
+~
+0 -1 8354
+S
+#8354
+The Hollowed Oak~
+  You are standing inside a tunnel that has been carved through an ancient
+oak tree.  You see what appears to be a primitive village to the west.  
+Guards stand under the tree, to serve and protect the innocent.
+~
+83 0 3
+D1
+The serene forest is east.
+~
+~
+0 -1 8353
+D3
+The village is west.
+~
+~
+0 -1 8355
+S
+#8355
+The Village Courtyard~
+  You have entered a village full of little people sporting long beards and
+pointy hats.  The people seem to run around not paying much attention to
+anything, even running into each other every once and a while.  Several 
+hollowed out trees line the courtyard.
+~
+83 4 3
+D0
+The village courtyard is north.
+~
+~
+0 -1 8359
+D1
+The hollowed tree is east.
+~
+~
+0 -1 8354
+D2
+The courtyard is south.
+~
+~
+0 -1 8356
+D3
+The village courtyard is west.
+~
+~
+0 -1 8358
+S
+#8356
+The Village Courtyard~
+  To the south is a tiny home fashioned from a hollowed out tree.  It is
+possible for you to enter, though not without discomfort.  The opening
+is covered with an intricately woven blanket.
+~
+83 0 3
+D0
+The courtyard is north.
+~
+~
+0 -1 8355
+D2
+A Gnomish house is south.
+~
+~
+0 -1 8379
+D3
+The village courtyard is west.
+~
+~
+0 -1 8357
+S
+#8357
+The Village Courtyard~
+  Another of the tiny homes is to the south.  You notice that no two of the
+blankets covering the entrances to the homes are the same, and you think
+that the individual families take great pride in their blanket design.
+~
+83 0 3
+D0
+The village courtyard is north.
+~
+~
+0 -1 8358
+D1
+The village courtyard is east.
+~
+~
+0 -1 8356
+D2
+A Gnomish house is south.
+~
+~
+0 -1 8377
+D3
+The village courtyard is west.
+~
+~
+0 -1 8363
+S
+#8358
+The Village Courtyard~
+  You are standing by a tiny well in the middle of the clearing.  Little people
+scurry all about, trying to avoid trouble with you.  There are homes to the
+north and south, a larger tree to the west, and the exit to the east.
+~
+83 0 3
+D0
+The village courtyard is north.
+~
+~
+0 -1 8360
+D1
+The village courtyard is east.
+~
+~
+0 -1 8355
+D2
+The village courtyard is south.
+~
+~
+0 -1 8357
+D3
+The village courtyard is west.
+~
+~
+0 -1 8361
+S
+#8359
+The Village Courtyard~
+  You stand before the residence of one of the gnomish families.  The entrance
+is covered by a carefully designed blanket, depicting a harvest and a festival.
+~
+83 0 3
+D0
+A gnomish home is north.
+~
+~
+0 -1 8366
+D2
+The village courtyard is south.
+~
+~
+0 -1 8355
+D3
+The village courtyard is west.
+~
+~
+0 -1 8360
+S
+#8360
+The Village Courtyard~
+  A gnomish house is to the north, standing in simplicity in the guise of a
+tree.  The blanket that covers the entrance to this house depicts grapes,
+wheat, and a bottle.  
+~
+83 0 3
+D0
+A Gnomish house is north.
+~
+~
+0 -1 8368
+D1
+The village courtyard is east.
+~
+~
+0 -1 8359
+D2
+The village courtyard is south.
+~
+~
+0 -1 8358
+D3
+The village courtyard is west.
+~
+~
+0 -1 8362
+S
+#8361
+The Village Courtyard~
+  The largest tree in the clearing, save the hollowed oak by the entrance,
+is before you to the west.  The tree has a royal aura about it, and the 
+royal guards you see just inside give you the hint that this might be 
+where the village's leader resides.
+~
+83 4 3
+D0
+The village courtyard is north.
+~
+~
+0 -1 8362
+D1
+The center of the courtyard is east.
+~
+~
+0 -1 8358
+D2
+The village courtyard is south.
+~
+~
+0 -1 8363
+D3
+The Gnomish leader's residence is west.
+~
+~
+0 -1 8372
+S
+#8362
+The Village Courtyard~
+  Another of the gnomish houses is to the north.  A rank odor comes from 
+the west, though it is quickly diffused by the pristine environment.
+~
+83 0 3
+D0
+A gnomish house is north.
+~
+~
+0 -1 8370
+D1
+The village courtyard is east.
+~
+~
+0 -1 8360
+D2
+The village courtyard is south.
+~
+~
+0 -1 8361
+D3
+An outhouse is west.
+~
+~
+0 -1 8365
+S
+#8363
+The Village Courtyard~
+  The hollow tree to the south of you is slightly different than the 
+residential trees that you are used to seeing.  There is a sign above the 
+swinging doors written in the common language of the realms.  It says, "Green 
+Leaf Cafe".
+~
+83 0 3
+D0
+The village courtyard is north.
+~
+~
+0 -1 8361
+D1
+The village courtyard is east.
+~
+~
+0 -1 8357
+D2
+The cafe is south.
+~
+~
+0 -1 8376
+D3
+An outhouse is west.
+~
+~
+0 -1 8364
+S
+#8364
+The Outhouse~
+  You are in a tiny outhouse.  For being little, these people pack a powerful
+punch!  Must be their diet.  There is a moon on the door.
+~
+83 0 3
+D1
+The village courtyard is east.
+~
+~
+0 -1 8363
+S
+#8365
+An Outhouse~
+  You are in an miniature outhouse.  It would be very uncomfortable for you to
+try to use these facilities.  There is a sun on the door.
+~
+83 0 3
+D1
+The village courtyard is east.
+~
+~
+0 -1 8362
+S
+#8366
+Gnomish House~
+  You have entered a small but comfortable home.  A gnomish family lounges in 
+here, but rouse themselves with your surprise entrance.  You see another room
+to the north.
+~
+83 8 0
+D0
+Another room of the house is north.
+~
+~
+0 -1 8367
+D2
+The village courtyard is south.
+~
+~
+0 -1 8359
+S
+#8367
+Gnomish House~
+  This is the kitchen and common room of the house.  Various miniature common
+articles lie around.  Nothing particularly catches your eye.
+~
+83 8 0
+D2
+Another room of the house is south.
+~
+~
+0 -1 8366
+S
+#8368
+Gnomish House~
+  You have entered the front room of a gnomish house.  On the wall you see a
+collection of various kinds of corkscrews and devices for opening bottles. 
+You see another room to the north.
+~
+83 8 0
+D0
+Another room of the house is north.
+~
+~
+0 -1 8369
+D2
+The village square is south.
+~
+~
+0 -1 8360
+S
+#8369
+Gnomish House~
+  This is the back room of the house.  Besides acting as a kitchen, this room 
+also contains a workbench with several metal working tools on it.  You see
+some devices similar to those hanging on the wall in the previous room.
+~
+83 8 0
+D2
+Another room of the house is south.
+~
+~
+0 -1 8368
+S
+#8370
+Gnomish House~
+  You have entered a small gnomish house.  This house is spotlessly maintained,
+with the doorstep obviously being swept daily.  A small monkey is climbing
+this tree.
+~
+83 8 0
+D0
+Another room of the house is north.
+~
+~
+0 -1 8371
+D2
+The village courtyard is south.
+~
+~
+0 -1 8362
+S
+#8371
+Gnomish House~
+  This is the kitchen and dining area of the house.  Some succulent culinary
+masterpiece is cooking over the fire.  You think a cask of hearty ale would
+go good with that meal.
+~
+83 8 0
+D2
+Another room of the house is south.
+~
+~
+0 -1 8370
+S
+#8372
+Royal Tree~
+  You have just stepped into the royal tree.  Guards flank you in order to 
+protect their leader.  They flash you mistrustful glances as you pass by
+them.  A hall continues west.
+~
+83 8 0
+D1
+The village courtyard is east.
+~
+~
+0 -1 8361
+D3
+A hall in the royal tree is west.
+~
+~
+0 -1 8373
+S
+#8373
+Royal Tree~
+  You are in a hallway inside the royal tree.  Portraits hang on the walls on
+either side of you.  You notice that all of the portraits seem to be of the
+same person.  You see the throne room to the north and a private chamber to
+the south.
+~
+83 12 0
+D0
+The throne room is north.
+~
+~
+0 -1 8374
+D1
+The entrance to the royal tree is east.
+~
+~
+0 -1 8372
+D2
+Egbenchad's room is south.
+~
+door~
+1 -1 8375
+S
+#8374
+Grenlitstone's Throne Room~
+  You see old King Grenlitstone here, playing with his long beard and 
+pointy hat as he sits onhis throne and rules the village.  He stares at you
+with mild interest as you approach.
+~
+83 8 0
+D2
+A hallway is south.
+~
+door~
+0 -1 8373
+S
+#8375
+Egbenchad's Chamber~
+  This is the residence of the folk hero of the village.  He tips his pointy
+cap at you as you enter, and flashes you a mischievious grin.  You notice 
+several original inventions lying around the room.
+~
+83 8 0
+D0
+A hallway is north.
+~
+door~
+1 -1 8373
+S
+#8376
+Green Leaf Cafe~
+  This appears to be a modest bar of sorts.  The stout barkeeper looks like he
+could hold his own in a fight, as well as behind a bar.  A few patrons stare
+at you uneasily.
+~
+83 8 0
+D0
+The village courtyard is north.
+~
+~
+0 -1 8363
+S
+#8377
+Gnomish House~
+  This house is in relative disarray.  You see the reason for this as two rowdy
+children run past you and out the door, waving their pointy hats at you.
+Dissheveled parents look at you expectantly.
+~
+83 8 0
+D0
+The village courtyard is north.
+~
+~
+0 -1 8357
+D2
+Another room in the house is south.
+~
+~
+0 -1 8378
+S
+#8378
+Gnomish House~
+  The kitchen area in this house is in even a bigger mess than the living area.
+A pot containing strange O-shaped pasta in red sauce has been overturned,
+leaving a mess.
+~
+83 8 0
+D0
+Another room in the house is north.
+~
+~
+0 -1 8377
+S
+#8379
+Gnomish Hatter's House~
+  This house is perhaps in the most disorder you have ever seen a house to be 
+in.
+Half finished pointy hats lie everywhere, covering the floor and making walking
+treacherous.  None of the pointy hats are completed, so you don't feel inclined
+to take any.
+~
+83 8 0
+D0
+The village courtyard is north.
+~
+~
+0 -1 8356
+D2
+Another room in the Gnomish Hatter's house.
+~
+~
+0 -1 8380
+S
+#8380
+Gnomish Hatter's House~
+  The hatter that lives in this house is quite mad, as you would be too if you
+had to make hats for an entire village by yourself.  A pot of brew boils on
+the fire, and you see a broken cask of hearty ale in the corner.
+~
+83 8 0
+D0
+Another room in the Gnomish hatter's house is north.
+~
+~
+0 -1 8379
+S
+$~

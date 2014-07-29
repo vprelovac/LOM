@@ -1,0 +1,587 @@
+#9900
+candelabra~
+A candelabra~
+A candelabra is sitting here, emitting a soft glow.~
+~
+1 4194305 16385
+0 0 5 0
+100 1 1
+A
+2 -1
+#9901
+pillow~
+a pillow~
+A pillow adorned with mirrors sits here.~
+~
+5 67 24577
+0 1 1 6
+1 1 1
+#9902
+bardiche~
+a bardiche~
+A bardiche leans against the wall, casting a long shadow.~
+~
+5 0 24577
+0 2 5 3
+14 950 500
+#9903
+fly key~
+a dead fly~
+A dead fly lies on its back with its legs twitching.~
+~
+18 12288 16385
+9900 2 7 3
+1 950 500
+#9904
+heart box~
+a heart shaped box~
+A heart shaped box made of pink crepe paper sits here.~
+~
+15 0 16385
+1000 0 0 0
+2 950 500
+#9905
+spackle~
+the Corkscrew of Ghenna~
+A corkscrew lies here, a cork still in it.~
+~
+5 1048771 8193
+0 11 4 11
+1 1 1
+#9907
+ghenna blood~
+some blood~
+A large pool of blood sits here with flies buzzing about it.~
+~
+12 0 0
+0 0 0 0
+1 1 1
+#9908
+ghenna hand~
+a rotting hand~
+A half decayed hand sits here (Gross!).~
+~
+12 4206736 16385
+0 0 0 0
+1 1 1
+#9909
+dead fly~
+a dead fly~
+A dead fly lays on its back with its legs twitching slightly.~
+~
+10 0 1
+22 36 17 33
+1 1 1
+#9910
+ghenna cinch~
+a genie's cinch~
+There is a gold roped cinch laying here.~
+~
+9 67 2049
+12 10000 10000 1
+3 5000 1000
+A
+3 2
+A
+12 25
+F
+0 e 0
+#9911
+spear~
+a spear~
+A wooden spear, with a crudely fashioned stone tip, sits here.~
+~
+5 0 8193
+0 2 4 11
+8 200 300
+#9912
+gorgimera wings~
+a pair of dragon's wings~
+A mass of black leather sits here.~
+~
+9 67 32769
+5 0 0 0
+10 59750 15300
+A
+1 2
+A
+12 50
+A
+19 2
+F
+w 0 0
+#9913
+jaw bone jawbone~
+the jawbone of Lord Suzerain~
+A human jawbone is laying here, biting the dirt.~
+~
+1 532544 16385
+0 0 -1 0
+5 33000 5000
+A
+18 1
+A
+19 5
+#9914
+hide impermeable carapace~
+an impermeable carapace~
+A leathery, red scaled hide sits here in a heap.~
+~
+9 8398849 9
+17 0 0 0
+7 97000 13000
+A
+5 -3
+A
+23 -5
+A
+25 5
+F
+0 b 0
+#9915
+bone scrimshaw cameo~
+a scrimshaw cameo~
+A piece of carved bone attached to a leather strap sits half buried in the dirt.~
+~
+9 32 16389
+14 0 0 0
+2 5000 2300
+A
+4 -2
+A
+12 30
+#9916
+skeleton earring key~
+A dangling skeleton earring~
+A small earring of a human skeleton sits here.~
+~
+18 69632 16401
+9921 0 0 0
+1 1 1
+#9917
+loop viscera ring~
+a ring made of viscera~
+A small loop of entwined viscera lays here.~
+~
+9 96 3
+1 0 0 0
+1 5000 1000
+A
+1 1
+A
+18 3
+A
+19 3
+#9918
+ghenna dragon claw~
+a dragon's claw~
+The severed claw of a maroon colored beast squirms in the dirth here.~
+~
+5 262208 24577
+0 7 7 8
+13 100000 20000
+A
+3 -1
+A
+4 -2
+A
+12 35
+A
+13 35
+#9919
+oriental rug~
+An oriental rug~
+An oriental rug lays here, its fringes blowing in the breeze.~
+~
+15 67 16385
+2500 0 0 0
+12 1000 1000
+E
+rug~
+~
+#9920
+snake crown~
+A crown of woven snakes~
+A swirling mass of snakes is writhing here.~
+~
+9 641 17
+3 0 0 0
+7 50000 6666
+A
+3 -2
+A
+5 -2
+A
+19 6
+#9921
+roygbv~
+a prizmatic bracelet~
+Something lies here, shimmering in spectral colors.~
+~
+9 8256 20481
+3 0 0 0
+3 100000 12000
+A
+18 2
+A
+19 4
+#9922
+ghenna baggy purple pants~
+baggy purple pants~
+A pile of purple silk hovers above the ground here.~
+~
+9 1056835 33
+5 0 0 0
+1 3000 2000
+A
+2 1
+A
+12 15
+#9923
+sword nosferatu~
+the sword of Nosferatu~
+A small sword with a zigzag blade lies here.~
+~
+5 8816 24577
+5 11 4 11
+10 69000 18750
+E
+nosferatu sword~
+It vibrates with a hidden power of ultimate evil.  With this weapon in your
+grasp you feel most invincible.  But beware, lest Nosferatu should come
+~
+A
+2 3
+A
+5 -3
+A
+18 3
+A
+19 8
+#9924
+razor boots~
+Some razor tipped boots~
+A pair of shit-kickers sits here.~
+~
+9 2 65
+8 0 0 0
+5 8000 3000
+A
+2 -1
+A
+19 4
+#9925
+chrome leggings~
+chrome leggings~
+Some slick, shiny chrome glints in the sunlight.~
+~
+9 1 33
+8 0 0 0
+9 12000 6600
+A
+1 1
+A
+3 -2
+A
+13 15
+A
+19 3
+#9926
+chrome sleeves~
+chrome sleeves~
+Some slick, shiny chrome glints in the sunlight.~
+~
+9 1 257
+5 0 0 0
+7 1000 2000
+A
+2 -1
+A
+13 13
+A
+19 2
+A
+23 -2
+#9927
+chrome shield~
+a chrome shield~
+Some slick, shiny chrome lies glinting in the sunlight.~
+~
+9 65 513
+10 0 0 0
+40 10000 6600
+A
+13 20
+A
+14 -25
+A
+23 -2
+#9928
+vermillion cloak~
+A vermillion cloak~
+A pile of bright red fabric sits here.~
+~
+15 64 1025
+150 0 0 0
+4 2000 1500
+A
+12 -20
+A
+13 15
+A
+14 50
+A
+17 -8
+#9929
+chrome gauntlets~
+chrome gauntlets~
+Some slick, shiny chrome glints in the sunlight.~
+~
+9 65 129
+6 0 0 0
+4 3000 2500
+A
+2 -1
+A
+5 -2
+A
+13 5
+A
+19 3
+#9930
+chrome helm~
+a chrome helm~
+Some slick, shiny chrome glints in the sunlight.~
+~
+9 65 17
+7 0 0 0
+4 1000 1599
+A
+12 -40
+A
+13 25
+A
+24 -2
+#9931
+ghenna footlocker~
+the footlocker~
+A bound footlocker of black leather sits against the wall.~
+~
+15 4289 1
+300 5 1 0
+100 0 0
+#9932
+ghenna wyrm book~
+The book of the Wyrm~
+A book made from human skin sits here.~
+~
+3 1048643 16385
+29 25 25 26
+3 10000 5500
+#9933
+whip leather cat~
+A cat 'o nine tails~
+A flimsy black leather whip lies here.~
+~
+5 2114 24577
+0 1 15 2
+4 950 1000
+A
+12 -30
+A
+19 1
+#9934
+ghenna black leather bra~
+A black leather push-up bra~
+A scrap of black leather is vibrating here.~
+~
+9 194 16393
+4 0 0 0
+2 500 500
+A
+2 1
+A
+12 5
+#9935
+ghenna spiked heels~
+spiked heels~
+A pair of do-me pumps is sitting here.~
+~
+9 130 65
+-1 0 0 0
+2 125 750
+A
+4 -1
+A
+12 -35
+#9958
+ghenna leather thong~
+A black leather thong~
+A thin strip of black leather is wedged into a crack in the dirt.~
+~
+9 194 2049
+2 0 0 0
+1 100 550
+A
+2 2
+A
+19 2
+#9964
+ghenna hatpin~
+a hatpin~
+A hatpin has been left here.~
+~
+5 67 24576
+0 2 2 11
+1 1 1
+A
+1 -2
+A
+5 2
+#9965
+shoe key~
+a shoe~
+A child's shoe is sitting here, none the worse for wear.~
+~
+18 12288 16385
+9965 0 0 0
+1 1 1
+#9966
+ghenna fake voodoo totem~
+A voodoo totem.~
+A voodoo totem sits here, grinning at you.~
+~
+9 8323 16385
+-200 0 0 0
+1 10000 50000
+A
+1 -5
+A
+13 -100
+#9977
+ghenna sign~
+sign~
+A huge WARNING sign flashes here.~
+~
+12 0 0
+0 0 0 0
+1 1 1
+E
+sign~
+                   /^^^^^^^^^^^^^^^^^^^^^^^^^^^^\
+                   ------------------------------
+                  ||                            ||
+                  || If you are below level 15, ||
+                  || and you are alone, perhaps ||
+                  || you should reconsider this ||
+                  || area.                      ||
+                  ||____________________________|| 
+                 /================================\
+                /__________________________________\
+~
+#9981
+mithril belt~
+a mithril belt~
+A belt of durable metal lies here.~
+~
+9 0 2049
+18 0 0 0
+5 2500 750
+A
+1 1
+#9986
+ghenna tunic~
+a translucent tunic~
+Some celophane-like substance is laying here.~
+~
+9 16 1025
+5 0 0 0
+5 250 750
+A
+1 1
+A
+2 -1
+F
+0 0 a
+#9987
+ghenna mahagony bow~
+a mahogany bow~
+A thin bow hewn from mahogany lies here.~
+~
+6 1057 8193
+0 3 8 6
+3 5000 2500
+A
+2 1
+A
+19 5
+#9995
+ghenna platinum ring~
+a platinum ring~
+A large ring made from precious metal is sitting here, evading the dirt.~
+~
+9 33 3
+1 0 0 0
+1 5000 1000
+A
+4 -3
+A
+12 15
+A
+25 4
+#9996
+ghenna gelatinous skin~
+gelatinous skin~
+A pile of jello undulates here.~
+~
+9 524289 1025
+8 0 0 0
+4 1000 1110
+E
+gelatinous skin~
+~
+A
+3 -1
+A
+23 -5
+#9997
+ghenna gelatinous leggings~
+gelatinous leggings~
+A pile of jello undulates here.~
+~
+9 66 33
+10 0 0 0
+5 25000 1500
+E
+gelatinous leggings~
+Looks like slimy red gelatin... pretty gross.
+~
+A
+3 -3
+A
+4 2
+A
+5 2
+#9998
+ghenna skull~
+a skull~
+A human skull sits here.~
+~
+15 1048576 16385
+1000 0 0 0
+3 2500 2500
+A
+18 3
+#9999
+ghenna voodoo totem~
+a voodoo totem~
+A voodoo totem sits here, grinning at you.~
+~
+12 50 16385
+0 0 0 0
+3 2500 2500
+A
+18 -1
+A
+19 6
+$

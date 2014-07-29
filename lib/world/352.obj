@@ -1,0 +1,728 @@
+#35200
+toybox box~
+a cute wooden toybox~
+A cute wooden toybox sits here~
+~
+15 0 0
+50 5 32800 0
+0 0 0
+E
+box toybox~
+The box is painted white, with pictures of butterflies and wooden blocks.
+~
+#35201
+mixing bowl~
+a mixing bowl~
+Here sits a large mixing bowl.~
+~
+15 0 a
+30 0 32800 0
+1 50 5
+#35202
+wooden spoon~
+a wooden spoon~
+A cook's wooden spoon has been dropped here.~
+~
+5 gz an
+12 2 5 5
+1 100 10
+E
+spoon~
+The spoon is long and strong.
+~
+A
+18 1
+A
+19 1
+#35203
+well~
+a well~
+A small stone water well descends into the ground here.~
+~
+23 0 0
+20000 20000 0 0
+0 0 0
+#35204
+baker's apron~
+this object is not used~
+A plain baker's apron has been discarded here.~
+~
+15 0 a
+0 0 32800 0
+0 0 0
+#35205
+rolling pin~
+a rolling pin~
+A rolling pin lies on the ground, forgotten.~
+~
+5 gp an
+12 2 6 7
+3 500 50
+A
+18 2
+A
+1 1
+#35206
+pile gold coins~
+a large pile of gold~
+A large pile of gold coins lies here.~
+~
+20 0 a
+40000 0 0 0
+0 50000 5000
+#35207
+safe~
+a safe~
+A safe sits in the corner.~
+~
+15 v 0
+100 15 35225 0
+0 0 0
+#35208
+book~
+a book entitled "50 Ways to Heal the Dying"~
+A book entitled "50 Ways to Heal the Dying" lies on the ground.~
+~
+3 g ao
+15 3 3 15
+0 0 0
+E
+book~
+Instructions:  just hold this book and zap somebody with it to make
+them feel better!
+~
+#35209
+smoking jacket~
+a plaid smoking jacket~
+A old, plaid smoking jacket has been left on the ground.~
+~
+9 i ad
+6 5 0 0
+8 0 0
+A
+17 -4
+A
+18 1
+#35210
+pipe~
+a hand-carved pipe~
+Someone carelessly dropped their pipe on the ground.~
+~
+4 0 ao
+11 3 3 84
+2 4000 400
+A
+3 2
+#35211
+row cabinet cabinets~
+a large array of cabinets~
+A large row of cabinets hangs above the sink.~
+~
+15 0 0
+30 5 32800 0
+0 0 0
+#35212
+toolshed shed~
+a small toolshed~
+A small toolshed stands on the grounds here.~
+~
+15 0 0
+999 5 32800 0
+0 0 0
+#35213
+gardening shears~
+a small pair of gardening shears~
+A small pair of gardening shears sits here.~
+~
+5 gnx an
+12 4 8 1
+4 0 0
+A
+19 1
+A
+2 1
+#35214
+snakeskin hide cloak~
+the hide of a python~
+A cloak made from the skin of a python lies here.~
+~
+9 z ak
+6 6 0 0
+2 0 0
+A
+5 1
+#35215
+wand venom fang~
+a fang filled with venom~
+A fang filled with python's venom has been dropped here.~
+~
+3 0 ao
+15 6 6 33
+1 2000 200
+#35216
+dresser~
+object not used~
+Some god dropped a newly created dresser here.~
+~
+15 0 0
+10 5 32800 0
+0 0 0
+#35217
+panther-crested ring~
+panther-crested ring~
+A ring with the crest of a panther glitters on the ground.~
+~
+9 gw ab
+5 5 0 0
+1 4000 400
+A
+2 1
+A
+1 1
+A
+18 1
+#35218
+bar soap~
+a bar of soap~
+A bar of soap is here for you to trip over.~
+~
+10 0 a
+30 28 1 47
+1 3000 300
+#35219
+nightshirt shirt~
+a nightshirt~
+A nightshirt with the image of a panther has been discarded here.~
+~
+9 0 ad
+5 0 0 0
+2 100 10
+A
+17 -10
+A
+5 1
+#35220
+cabinet~
+a small wooden cabinet~
+A cabinet is here, waiting to be opened.~
+~
+15 0 0
+50 5 32800 0
+0 0 0
+#35221
+silk robe~
+a silk bathrobe~
+A soft silk bathrobe sits here, waiting to be worn.~
+~
+9 z ad
+8 0 0 0
+7 1600 160
+A
+17 -4
+A
+4 1
+A
+6 1
+#35222
+ivory cane~
+an ivory cane~
+An expensive-looking ivory cane has been carelessly left here.~
+~
+4 gi ao
+1 1 1 36
+15 10000 1000
+#35223
+black patent leather shoes~
+black patent leather shoes~
+Some rich person has left their black patent leather shoes here.~
+~
+9 z ag
+5 5 0 0
+2 1000 100
+A
+17 -5
+A
+14 50
+#35224
+sapphire ring~
+a dazzling sapphire ring~
+A sapphire ring glistens and sparkles.~
+~
+9 ag ab
+5 5 0 0
+1 2000 200
+A
+13 5
+A
+2 1
+A
+18 2
+#35225
+key safekey~
+a small, metal safe key~
+A small, metal safe key sits here.~
+~
+18 w a
+2407 0 0 0
+0 0 0
+#35226
+vial potion undead~
+a vial of undead spirits~
+On the ground is a vial of undead spirit potion.~
+~
+10 g a
+10 28 18 29
+1 3000 300
+#35227
+dog collar~
+a gem encrusted dog collar~
+On the ground sits a gem-encrusted dog collar.~
+~
+9 w ac
+3 3 0 0
+8 0 0
+A
+17 -1
+A
+3 1
+>
+wear_prog 100~
+if level($n) > 10
+mpechoat $n You seem to have outgrown this collar.
+mpechoaround $n $n's neck is too big for $O.
+mpforce $n remove $o
+endif
+~
+|
+#35228
+cowhide whip~
+a cowhide whip~
+A long whip made of cowhide lies on the ground.~
+~
+5 kz an
+12 2 6 4
+2 560 56
+A
+18 2
+#35229
+exoskeleton breastplate plate~
+a cockroach's exoskeleton~
+Here lies a breastplate fashioned from the exoskeleton of an enormous roach.~
+~
+9 z ad
+5 7 0 0
+3 10000 1000
+A
+5 1
+A
+17 -7
+>
+use_prog 100~
+mpechoaround $n Squishing noises abound as $n squeezes into $O.
+mpechoat $n Squishing noises abound as you squeeze into $O.
+~
+|
+#35230
+gold~
+this object is not used~
+25000 gold coins lie here.~
+~
+20 0 a
+0 0 0 0
+0 25000 2500
+#35231
+purse coin~
+a coin purse~
+A small coin purse lies here.~
+~
+15 gi a
+65 5 32800 0
+1 50 5
+#35232
+spectacles glasses~
+gold spectacles~
+Somebody has lost their spectacles here.~
+~
+9 w as
+4 3 0 0
+1 8600 860
+A
+3 1
+#35233
+shawl~
+a shawl~
+A raggedy shawl is lying in the dirt.~
+~
+9 i ac
+4 3 0 0
+4 4000 400
+A
+17 -5
+A
+4 1
+#35234
+wooden knife~
+a wooden knife~
+A child has dropped a wooden knife here.~
+~
+5 gz an
+12 2 4 2
+1 50 5
+#35235
+fairy tale book~
+a book of fairy tales~
+A book of fairy tales has been left on the floor.~
+~
+2 0 a
+2 20 54 1
+1 1000 100
+#35236
+pocket watch~
+an expensive-looking pocket watch~
+An expensive-looking pocket watch has been left here.~
+~
+9 w ao
+4 4 0 0
+2 24000 2400
+A
+2 1
+A
+9 -14
+#35237
+candle~
+a wax candle~
+A wax candle flickers in the darkness.~
+~
+1 a ao
+0 0 65 0
+1 0 0
+#35238
+cloth diaper~
+a cloth diaper~
+A cloth diaper lies on the ground.~
+~
+9 0 al
+1 1 0 0
+0 0 0
+#35239
+paintbrush brush~
+a paintbrush~
+A brush drips with fresh watercolor paint.~
+~
+3 g ao
+9 4 4 10
+1 0 0
+#35240
+make-up compact~
+an ivory make-up compact~
+A small, ivory make-up compact has been forgotten on the floor.~
+~
+4 gi ao
+14 3 3 143
+1 1000 100
+#35241
+chef apron~
+a chef's apron~
+A white chef's apron has been discarded here.~
+~
+9 0 ad
+3 3 0 0
+1 1000 100
+A
+17 -5
+A
+13 5
+#35242
+panther-crested helmet~
+a panther-crested helmet~
+Someone has dropped a helmet with the crest of a panther here.~
+~
+9 0 ae
+2 4 0 0
+2 75 7
+A
+5 1
+#35243
+panther-crested shield~
+a panther-crested shield~
+Lying here is a shield with the crest of a panther.~
+~
+9 0 aj
+4 4 0 0
+3 50 5
+A
+17 -6
+A
+24 -1
+#35244
+rotting corpse~
+a rotting corpse~
+A grotesque corpse rots away.~
+~
+15 0 0
+5 0 32800 0
+0 0 0
+#35245
+scroll avatar avatar's~
+an avatar's scroll~
+An avatar's scroll lies here.~
+~
+2 ag a
+4 39 -1 146
+1 10000 1000
+E
+scroll~
+You are looking at a scroll which contains the 5 best lines heard over the
+avatar channel.  To view the entries, type "look one", "look two", etc.
+~
+E
+one~
+"Let it be known that if I ever start to resemble Iceman in any way, shape,
+or form, I want to be killed immediately."
+-Quoted from Kyra
+~
+E
+two~
+"Link, you buy the dumbest things on auction."
+-Quoted from Boheme
+~
+E
+three~
+"What is stupid?  Anything said by Zippy."
+-Quoted from Rhianna
+~
+E
+four~
+"You may address me as master."
+-Quoted from Zippy.  This proves Rhianna's theory.  See number three.
+~
+E
+five~
+"Where can I buy roots?"
+-Overheard by Beran.  Speakers name withheld for fear of slaying.
+~
+#35246
+tin shield~
+a tin shield~
+Somebody dropped a cheap tin shield on the floor.~
+~
+9 0 aj
+2 2 0 0
+3 50 5
+A
+17 -3
+A
+22 -1
+#35247
+rat fur cloak~
+a rat fur cloak~
+A cloak made of rat fur sits on the ground.~
+~
+9 z ak
+3 4 0 0
+2 100 10
+A
+17 -6
+A
+13 10
+#35248
+small mirror~
+a small mirror~
+A small mirror has been left on the ground.~
+~
+3 gi ao
+10 2 2 7
+1 50 5
+#35249
+undershirt shirt tattered~
+a tattered undershirt~
+An old, tattered undershirt has been discarded here.~
+~
+9 0 ad
+1 3 0 0
+1 50 5
+A
+17 -4
+#35250
+key~
+skeleton key~
+A skeleton key lies here.~
+~
+18 0 a
+2450 0 0 0
+0 0 0
+#35251
+torturer's whip~
+a nasty torturer's whip~
+A long, nasty-looking whip lies here.~
+~
+5 gjlnp an
+12 2 6 4
+2 5400 540
+A
+13 20
+A
+18 4
+A
+19 5
+#35252
+torturer's mask~
+black torturer's mask~
+On the ground lies a black mask with two eyeholes.~
+~
+9 jlnp ae
+4 5 0 0
+3 3000 300
+A
+3 1
+A
+18 1
+#35253
+torn pants~
+a pair of torn pants~
+An old pair of torn pants have been dropped here.~
+~
+9 0 af
+2 3 0 0
+1 100 10
+A
+17 -2
+#35254
+gavel judgement~
+the Gavel of Judgement~
+The Gavel of Judgement lies on the ground.~
+~
+5 0 an
+12 50 70 7
+5 2000000 200000
+#35255
+riding stick~
+a riding stick~
+A riding stick has been dropped here.~
+~
+5 g an
+12 4 6 5
+4 450 45
+A
+18 1
+A
+19 2
+A
+2 -1
+#35256
+pair of chaps~
+a pair of leather chaps~
+A pair of leather chaps have been discarded here.~
+~
+9 z af
+2 5 0 0
+2 630 63
+A
+17 -2
+#35257
+oil lamp~
+an oil lamp~
+An oil lamp burns brightly.~
+~
+1 aw a
+0 0 70 0
+4 5 0
+#35258
+carrot~
+an orange carrot~
+A large, orange carrot pokes up from the ground.~
+~
+10 z a
+3 19 -1 -1
+6 500 50
+#35260
+chest drawers~
+a chest of drawers~
+A chest of drawers sits in the corner.~
+~
+15 z 0
+30 5 32800 0
+0 0 0
+#35261
+watermelon~
+a juicy watermelon~
+A tantalizing watermelon grows here.~
+~
+10 z a
+5 39 54 -1
+15 900 90
+#35262
+head lettuce~
+a head of lettuce~
+A head of lettuce is growing here.~
+~
+10 z a
+14 15 -1 -1
+4 500 50
+#35263
+port barrel wine~
+a barrel of port wine~
+Several barrels of port wine are stacked here.~
+~
+17 z a
+20 20 2 0
+14 0 0
+#35264
+dried meat~
+some dried meat~
+On a shelf sits some dried meat.~
+~
+19 0 a
+5 0 0 0
+1 0 0
+#35265
+cheese~
+delicious cheddar cheese~
+The shelves contain some wonderful cheddar cheese.~
+~
+19 0 a
+0 0 0 0
+1 0 0
+#35266
+deck cards~
+a deck of playing cards~
+A deck of playing cards lies here.~
+~
+9 0 ao
+2 2 0 0
+2 0 0
+A
+4 1
+A
+2 1
+#35286
+trough~
+a water trough~
+A trough filled with cool water stands here.~
+~
+23 0 0
+20000 20000 0 0
+0 0 0
+#35298
+sword~
+not used~
+A deadly elvenbane lies here.~
+~
+5 0 an
+12 60 100 3
+0 0 0
+A
+17 -399
+A
+18 100
+A
+19 100
+#35299
+potion sprite~
+not used~
+A Sprite~
+~
+10 0 a
+50 28 28 28
+0 0 0
+$~

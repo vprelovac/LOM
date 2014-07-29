@@ -1,0 +1,112 @@
+map
+a map of the New Ofcol
+                             Bedroom
+                               |D|
+                               | | Kitchen
+                               | |   |
+                               |U|   |
+                              Big House
+                                  |
+       Small   Small   Small      |       Small   Small   Small
+       House   House   House      |       House   House   House
+        |       |       |        Big        |       |       |
+Small---SW------SW------SW---Intersection---SW------SW------SW----Small
+House   |       |       |         |         |       |       |     House
+       Small   Small   Small      |       Small   Small   Small
+       House   House   House      |       House   House   House
+                                  |
+                          House---IW---House       ** SW = Swiftest Way **
+                            |     |      |
+                         Bedroom  |   Bedroom
+                                  |
+                          House---IW---House
+         Ofcol              |     |      |
+          Inn            Bedroom  |   Bedroom
+           |                      |
+Mixed---Village   Kitchen---Big---IW---Big---Kitchen
+Shop    Square             House  |   House
+           |                      |
+           |                      |
+        Village                  Big
+        Street-----Alley-----Intersection---Raff----Raff----Outside---1***1
+           |         |            |         Way     Way     Entrance
+        Village    Future         |
+        Street    Training        |
+           |        Room          |
+          Main                    |
+          Gate      Blacksmith---Impy---Leather
+                                 Way     Shop
+                                  |
+                                  |
+                          Pawn---Impy---Meat
+                          Shop   Way   Store
+                                  |
+                                  |
+                        Nyle's---Impy---Farmer's
+                        House    Way     Market
+                        of Ale    |
+                                  |
+               Still-----Shed     |
+               Room       |       |
+                          |       |
+               Fields---Fields---Impy---Dirt---Slaughter
+                 |        |      Way    Road     House
+                 |        |              |
+               Fields---Fields           |
+                                         |
+                                Grass    |
+                                Field    |
+                                  |      |
+                           Pig---Dirt---Dirt---Bard
+                           Sty   Road   Road
+                                  |
+                                Grass            Dragon
+                                Field            Shaft
+                                                  |D|
+                                                  |U|
+                                                 Above
+                                                Chamber
+                                                  |D|
+                                                  | |
+                                           Top    | |
+                                         Chamber  | |
+                                         |D|  |   | |
+                                         | |  \-\ | |
+                                         | |    | |U|
+                               Top-------H-H---Dragon-----Top
+                             Chamber     | |   Chamber  Chamber
+                               |D|       | |     |        |D|
+                               | |       | |     \---\    | |
+                               | |       |U|         |    | |
+                               | |      Upper       Top   | |
+                               | |     Chamber    Chamber | |
+                               | |     |D|  |       |D|   | |
+                               | |     | |  \-\     | |   | |
+                               |U|     | |    |     | |   |U|
+                              Upper----H-H--Dragon--H-H--Upper
+                             Chamber   | |   Hall   | | Chamber
+                               |D|     | |    |     | |   |D|
+                               | |     | |    \---\ | |   | |
+                               | |     | |        | |U|   | |
+                               | |     | |        Upper   | |
+                               | |     | |       Chamber  | |
+                               | |     | |         |D|    | |
+                               | |     | |         | |    | |
+                   Citadel-----H-H-----H-H-Citadel-H-H----H-H-----Citadel
+                   Hallway     | |     | | Hallway | |    | |     Hallway
+                      |        | |     | |    |    | |    | |        |
+                      |        | |     |U|    |    | |    | |        |
+                   Citadel     | |     Anteroom    | |    | |     Citadel
+                   Hallway     | |            |    | |    | |     Hallway
+                      |        | |            |    | |    | |        |
+                      |        |U|            |    | |    |U|        |
+1***1---Citadel----Citadel---Anteroom-------Ofcol--H-H--Anteroom--Citadel
+        Entrance   Hallway                  Temple | |            Hallway
+                      |                       |    | |               |
+                      |                       |    |U|               |
+                   Citadel                    Anteroom            Citadel
+                   Hallway                    |                   Hallway
+                      |                       |                      |
+                      |                       |                      |
+                   Citadel-----------------Citadel----------------Citadel
+                   Hallway                 Hallway                Hallway

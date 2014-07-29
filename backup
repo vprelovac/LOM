@@ -1,0 +1,80 @@
+#!/bin/sh
+#
+# Smaug Backup script by Dan aka Darkwolf aka Mnementh
+# mudadmin@daisy.goodnet.com
+#
+
+#
+# Set the backup dir. The Path you want the backup files to reside
+#
+BDIR=./bekap
+
+#
+# Set the dir that smaug resides in, default is /dist
+#
+CDIR=./
+
+#
+# These are the tar flags. Man tar for info on the flags,
+# Default shows verbose output of whats happinin, take v out
+# if you dont like this
+#
+TFLAGS=cvf
+
+#
+# The gzip lvl, or level of compression
+# -1 is lowest and fastest, -9 is best and slowest
+#
+GZL='-6'
+
+#
+# Edit this only if tar, mv, or gzip is somewhere wierd :)
+#
+#PATH=/bin:/usr/bin
+
+##################################################################
+# End of user spec's.                                            #
+# Do not edit below this line unless you know what you are doing #
+##################################################################
+
+
+DATE=`date +%m%d`
+cd $CDIR
+
+case "$1" in
+   all)
+	tar $TFLAGS $BDIR/Player.$DATE.tar lib/plralias lib/plrobjs lib/etc \
+					
+	gzip $GZL $BDIR/Player.$DATE.tar
+	echo Done with $BDIR/Player.$DATE.tar.gz
+
+	tar $TFLAGS $BDIR/Area.$DATE.tar lib/world lib/misc lib/text lib/house lib/salesman lib/maps
+	gzip $GZL $BDIR/Area.$DATE.tar
+	echo Done with $BDIR/Area.$DATE.tar.gz
+
+	tar $TFLAGS $BDIR/Src.$DATE.tar src
+	gzip $GZL $BDIR/Src.$DATE.tar
+	echo Done with $BDIR/Src.$DATE.tar.gz
+	;;
+   player)
+	tar $TFLAGS $BDIR/Player.$DATE.tar ib/plralias lib/plrobjs lib/etc 
+					
+	gzip $GZL $BDIR/Player.$DATE.tar
+	echo Done with $BDIR/Player.$DATE.tar.gz
+	;;
+   area)
+        tar $TFLAGS $BDIR/Area.$DATE.tar lib/world lib/misc lib/text lib/house lib/salesman lib/maps
+        gzip $GZL $BDIR/Area.$DATE.tar
+        echo Done with $BDIR/Area.$DATE.tar.gz
+	;;
+   src)
+        tar $TFLAGS $BDIR/Src.$DATE.tar src
+        gzip $GZL $BDIR/Src.$DATE.tar
+        echo Done with $BDIR/Src.$DATE.tar.gz
+	;;
+   *)
+	echo "Usage Backup {all|player|area|src}"
+	exit 1
+esac
+
+exit 0

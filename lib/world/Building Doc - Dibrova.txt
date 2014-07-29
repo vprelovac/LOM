@@ -1,0 +1,164 @@
+Most of the additions in the area files for Dibrova are for the purpose
+of adding bitvectors. Many of them are as yet unused, they have been
+placed in the files ahead of time to avoid eq wipes, player wipes and
+all such catastrophies of that type ;-)
+
+The files convert to stock as follows:
+
+
+ZON FILES
+
+The only change to our zone files are in the very beginning. You will
+note the extra number at the end of the 3rd line in every zone file.
+This is our DEVELOPING flag. We set this if a zone is under con-
+struction on our main port (for whatever reason) and it disallows any
+teleport spells to the entire area. We use this flag for our God zone
+and Arenas, as well.
+
+#83
+The Shattered Farmlands of Ofingia~
+8399 30 2 0
+
+translates to:
+(zone #)
+(zone name)~
+(top of zone) (reset timer) (reset mode) (DEVELOPING flag)
+
+The 0 at the end of the last line is all that need be removed to be
+used in stock Circle.
+
+
+
+
+WLD FILES
+
+Our changes to the wld flags were for the purpose of adding room for
+more room bitvectors and sector types (we ran out). Also, in the direction
+field, we added a spot for hidden exits.
+
+#8300
+At the South Gate to Ofingia~
+(descrip)
+~
+83 0 0 0 0 2
+D1
+~
+~
+0 0 8301 0
+S
+
+translates to:
+(room vnum)
+(room title)
+(room descrip)
+~
+(zone #)(room bitvector)(addtl bitvectors)(addtl bitvectors)(addtl bitvectors)(sector types)
+(Direction #)
+(keywords)~
+(descrip)~
+(door flag)(key)(room link)(hidden exit)
+S
+
+The same wld file would bin stock Circle:
+
+#8300
+At the South Gate to Ofingia~
+(descrip)
+~
+83 0 2
+~
+~
+0 0 8301
+S
+
+
+
+
+
+SHP FILES
+
+Shop files have not been altered from stock Circle on Dibrova.
+
+
+
+
+OBJ FILES
+
+The only additions that need concern any conversions are (and only if
+your MUD supports these options) the MIN LEV and spell mods. The rest
+of the additional numbers will nearly always be unused (0). Any numbers
+that are in those spots represent options that are not available in
+stock Circle and removing them completely is fine. These were only 
+added so that enough room was available for expansion for many years 
+to come.
+
+#8300
+banner horde~
+/cwthe /cRWar Banner /cwof the/cL Horde/c0~
+/cwA large piece of cloth mounted on a pole lies on the ground./c0~
+~
+12 1 0 0 0 16385 0 0 0
+0 0 0 0
+4 10 0 7
+A
+5 1
+C
+1 15
+
+translates to:
+(obj vnum)
+(alias list)~
+(short descrip)~
+(long descrip)~
+(action descrip)~
+(type flag)(extra affects)(unused)(unused)(unused)(wear pos)(unused)(unused)(unused)
+(value 0)(value 1)(value 2)(value 3)
+(weight)(cost)(rent per day)(min level)
+A
+(location)(value)
+C
+(spell mod)(percent of chance)
+
+The same obj in stock Circle would translate to:
+
+
+#8300
+banner horde~
+/cwthe /cRWar Banner /cwof the/cL Horde/c0~
+/cwA large piece of cloth mounted on a pole lies on the ground./c0~
+~
+12 1 16385
+0 0 0 0
+4 10 0
+A
+5 1
+
+
+
+
+
+MOB FILES
+
+The additional 0's in the mob files are all unused - they are room for
+expansion. We may have utilized one or two of the added bitvector
+areas, however they are not normal for stock muds and can be disregarded.
+The line below that reads;
+584 0 0 0 3 0 0 0 -700 E
+Would read;
+584 3 -700 E
+in stock Circle.
+
+
+#8300
+goblin raider~
+a goblin raider~
+A goblin raider runs crouched-over through the fields, looking for people to kill.
+~
+It runs with its arms almost dragging on the ground through the
+fields, its nose twitching as it sniffs for prey.
+~
+584 0 0 0 3 0 0 0 -700 E
+9 15 6 3d6+175 1d3+7
+221 3800
+8 8 1
+E

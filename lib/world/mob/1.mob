@@ -1,0 +1,192 @@
+#100
+bandit~
+the bandit~
+The bandit is standing here.
+~
+As you look him, it feels like you met this guy once already.
+~
+134244365 1024 -1000 E
+25 -8 -5 10d20+1000 4d4+10
+312 0
+8 8 1
+Str: 18
+Dex: 25
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+#101
+Elmarok~
+Elmarok~
+Elmarok, the druid, is standing here.
+~
+As you look him, it feels like you met this guy once already.
+~
+24586 1032 1000 E
+40 -8 5 10d20+10000 4d4+10
+800 0
+8 8 1
+Str: 22
+Dex: 25
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+>greet_prog     25~
+bow
+smile
+~
+>speech_prog  sunlight moonlight sunwind~
+say Oh, you are the chosen ones!
+say I was walking by this forest, to visit my old friend the Elder druid.
+say I brought him a present.. Unfortunatly, I lost it somewhere on my way.
+shrug
+say It's a very precious gift
+say You can maybe ask Shargugh, the Forest Brownie if he hd maybe found it
+~
+>give_prog  ring sglup~
+say Oh.. Many many thanks!
+say Here is your reward!
+drop rune
+smile
+say Could you go now to the Temple of Lloth and help someone else in need?
+say It's is deep in underground caves, surrounded by the dark elves.
+tell bog elmarok 6155
+~
+|
+#102
+Grofin~
+Grofin~
+Grofin, the magi, is standing here.
+~
+As you look him, it feels like you met this guy once already.
+~
+24586 1032 1000 E
+40 -8 5 10d20+10000 4d4+10
+800 0
+8 8 1
+Str: 22
+Dex: 25
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+>greet_prog     25~
+bow
+smile
+~
+>speech_prog  sunlight moonlight sunwind~
+say  Oh, there you are!
+say You know the dreaded yochlol inside this dark Temple?
+~
+>speech_prog  yes~
+say Good. He summoned one of the children from my village and I tried to
+stop him
+say But he is too strong for me. I tried to fight him, but my magic can't do
+much against his
+say He is very dangerous, beware! When he dies he sometimes ressurects!
+say Oh, please kill him if you can and hurry up!
+~
+>act_prog  nods~
+say Good. He summoned one of the children from my village and I tried to
+stop him
+say But he is too strong for me. I tried to fight him, but my magic can't do
+much against his
+say He is very dangerous, beware! When he dies he sometimes ressurects!
+say Oh, please kill him if you can and hurry up!
+~
+>speech_prog  lotenthot~
+say Good. You saved him!
+emote hugs everyone in the room.
+say Thank you thank you!
+say Here is my gift to you!
+drop ring
+say Now you might be able to help a friend of mine.
+say He is at the temple deep inside a petrified dragon somewhere in
+Midgaard's western forest!
+say Now go and may the Gods be with you.
+~
+|
+#103
+Dormath~
+Dormath~
+Dormath is here, glowing brightly!
+~
+As you look him, it feels like you met this guy once already.
+~
+24586 1032 1000 E
+30 -8 5 10d20+30000 4d4+10
+800 0
+8 8 1
+Str: 21
+Dex: 25
+Int: 18
+Wis: 18
+Con: 19
+Cha: 20
+E
+>greet_prog     25~
+bow
+smile
+~
+>speech_prog  moonlight sunwind sunlight~
+say Hello
+smile
+say I shall not be much of a quest to you
+say You just kill me and take my rune
+say Yes, it is that easy... Afterwards go and seek my friend the druid
+say He is visiting his druid brother in the forest. It somwhere in the
+hollow tree, where he lives.
+~
+>death_prog  100~
+tell bog 19548 da ucitas 103
+~
+|
+#104
+Fundel~
+Fundel~
+Fundel, the lazy gnome,  is standing here.
+~
+As you look him, it feels like you met this guy once already.
+~
+24586 1032 1000 E
+40 -8 5 10d20+10000 4d4+10
+800 0
+8 8 1
+Str: 22
+Dex: 25
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+#105
+small child quest2~
+a small child~
+A small child is crying is standing here.
+~
+As you look him, it feels like you met this guy once already.
+~
+24586 1024 1000 E
+20 -8 5 10d20+10000 4d4+10
+800 0
+8 8 1
+Str: 20
+Dex: 25
+Int: 17
+Wis: 18
+Con: 18
+Cha: 19
+E
+>rand_prog  70~
+cry
+say Go back to my village father and hurry. He might do unpredictable
+things.
+say Just tell him lotenthot and he will know that I am safe
+tell bog quest2
+~
+|
+$

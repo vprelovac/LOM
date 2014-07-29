@@ -1,0 +1,1401 @@
+#35348
+Academy Southeast Cage~
+You stand in the Southeast cage of the academy. To the northwest you can
+see Trillan the healer waiting for someone to help. Suddenly you feel
+something wet oozing across your foot! Looking down you see you've stepped
+in a large pool of blood! Looks like you better fight or die here!
+~
+353 0 0
+D7
+~
+~
+0 -1 35344
+S
+#35349
+Academy South Cage~
+You stand in the south cage of Aragon's Illustrious Newbie Academy. This
+room is a small room made of dark granite. Straw litters the floor of the
+cage. A large amount of the straw has been stained dark red from blood.
+It appears obvious to you. Around here it's kill or be killed.
+~
+353 0 0
+D0
+~
+~
+0 -1 35344
+S
+#35350
+Academy Southwest Cage~
+You stand in a cage in the southwest corner of the newbie academy. Covering
+the walls here is a thick slimy goo. Obviously whoever is housed in this cage
+is not human. Better keep a good eye on your weapon, you may need it. Back to
+the northeast stands Trillan the healer.
+~
+353 0 0
+D6
+~
+~
+0 -1 35344
+S
+#35351
+Academy West Cage~
+This is the west cage in Aragon's Illustrious Newbie Academy. A thin
+layer of straw covers the ground. In this room monsters are brought
+for you to kill. Each monster has a piece of equipment to help you on
+your adventures. To get the equipment, first kill the monster. Then
+type "get all corpse" this will allow you to retrieve everything on
+the monsters corpse. If there is no monster here, be patient and 
+another will be brought in immediately.
+~
+353 0 0
+D1
+~
+~
+0 -1 35344
+S
+#35352
+Academy Northwest Cage~
+This is the northwest cage of the academy. Here a prisoner is sent to die
+for his crimes. The executioner of course, is you. Aren't you lucky? Back
+to the southeast is Trillan the healer.
+~
+353 0 0
+D8
+~
+~
+0 -1 35344
+S
+#35353
+Below The Academy~
+There is a small meeting of tunnels here. You peer down each one, but
+none looks more inviting then the rest. A howl of some god-forsaken being
+rings through your head.
+~
+353 0 0
+D1
+~
+~
+0 -1 35354
+D7
+~
+~
+0 -1 35360
+D9
+~
+~
+0 -1 35340
+S
+#35354
+Below The Academy~
+You come to another meeting of tunnels in this hedge maze of a cave.
+This one looks much like the last. Is it the same room? You scratch
+your head and hope you aren't lost. A sudden cry of pain echos from
+somewhere deeper in the caverns. You REALLY hope you aren't lost.
+~
+353 0 1
+D3
+~
+~
+0 -1 35353
+D7
+~
+~
+0 -1 35355
+D8
+~
+~
+0 -1 35356
+S
+#35355
+Below The Academy~
+You are now in a low dusty passage through a large grouping of caves
+underneath the academy. The walls here are stained black by some foul,
+disgusting liquid.
+~
+353 0 0
+D3
+~
+~
+0 -1 35359
+D8
+~
+~
+0 -1 35354
+S
+#35356
+Below The Academy~
+The tunnel here takes a sharp turn to the northwest on one side and to
+the east on the other. Each exit is marked by terrible darkness and an
+eerie silence that is incredibly disheartening.
+~
+353 0 0
+D1
+~
+~
+0 -1 35357
+D7
+~
+~
+0 -1 35354
+S
+#35357
+Below The Academy~
+Three tunnels combine here at this intersection, leaving you to ponder upon
+which way to go. Each passage is equally dark and none look to be safe. A
+foul odor seems to drift in from the south. No, it's the northeast. Or
+maybe it's the west?
+~
+353 0 0
+D2
+~
+~
+0 -1 35358
+D3
+~
+~
+0 -1 35356
+D6
+~
+~
+0 -1 35361
+S
+#35358
+Below The Academy~
+You now find yourself in a small, curving tunnel. The floor slopes down
+slighty to the southeast, where you can smell a very pungent and none-
+too-pleasing odor. To the north you can see an intersection.
+~
+353 0 0
+D0
+~
+~
+0 -1 35357
+D8
+~
+~
+0 -1 35366
+S
+#35359
+Below The Academy~
+This is a small, unexplored tunnel through the caverns underneath the
+academy. A foul smelling liquid slowly drips from the ceiling and
+pools on the ground. You can't help but feel as if you are in a crypt.
+~
+353 0 0
+D1
+~
+~
+0 -1 35355
+D2
+~
+~
+0 -1 35360
+S
+#35360
+Below The Academy~
+This small, relatively untravelled tunnel in the caverns appears to be
+running in a small circle. The tunnel is tight and the ceiling is short.
+You try not to brush your head again the nasty liquid pooling on the walls.
+~
+353 0 0
+D0
+~
+~
+0 -1 35359
+D8
+~
+~
+0 -1 35353
+S
+#35361
+Below The Academy~
+This is a small bending passage in a network of tunnels under the academy.
+It is said no one has ever travelled through them all. It is also said that
+no one who's ever gone down any of them will ever go back.
+~
+353 0 0
+D0
+~
+~
+0 -1 35362
+D9
+~
+~
+0 -1 35357
+S
+#35362
+Below The Academy~
+Ahead of the tunnel becomes twisty and it becomes almost impossible to see
+anything in front of you at all. The only thing you hear is the very loud
+sound of your heart beating rapidly, and a woeful wailing from somewhere below.
+~
+353 0 0
+D1
+~
+~
+0 -1 35363
+D2
+~
+~
+0 -1 35361
+S
+#35363
+Below The Academy~
+The twists and turns of this tunnel have your head in a tailspin. You're
+not even sure which way is up anymore! All you can think about is that
+horrific wailing sound and the smell of death, which you will never get
+out of these clothes.
+~
+353 0 0
+D2
+~
+~
+0 -1 35364
+D3
+~
+~
+0 -1 35362
+S
+#35364
+Below The Academy~
+In the distance you can hear a silent, yet audible chomping sound. You
+imagine a huge zombie, chewing on the arm of some helpless newbie who
+happened to take a wrong turn. You certainly don't feel very safe here.
+~
+353 0 0
+D0
+~
+~
+0 -1 35363
+D1
+~
+~
+0 -1 35365
+S
+#35365
+Below The Academy~
+This is the end of the tunnel. A large pile of bones indicates that this
+area is being used by something as a home. You don't really know if you want
+to stay around and find out what though. The large pile of bones attests to
+the fact that there have been plenty of people who wished they hadn't learned.
+~
+353 0 0
+D3
+~
+~
+0 -1 35364
+S
+#35366
+Below The Academy~
+This is a slowy turning tunnel in the cavern. The farther southward you go
+the more the floor seems to slope in that direction. A strange ooze seems
+to cover the walls. You fear to touch them.
+~
+353 0 0
+D7
+~
+~
+0 -1 35358
+D8
+~
+~
+0 -1 35367
+S
+#35367
+Below The Academy~
+Here the tunnel either begins a sharp turn or ends one, depending on which
+way you look at it. The sharp turn is to the northwest, while the passage
+straightens out to the east.
+~
+353 0 0
+D1
+~
+~
+0 -1 35368
+D7
+~
+~
+0 -1 35366
+S
+#35368
+Below The Academy~
+You nearly pass out from the god-awful odor that nearly overpowers you as
+you enter this turn in the tunnel. To the south you can make out some form
+of movement. You can't tell what's there, but whatever it is..it stinks!
+~
+353 0 0
+D2
+~
+~
+0 -1 35369
+D3
+~
+~
+0 -1 35367
+S
+#35369
+Below The Academy~
+Upon entering this room, you discover the source of the awful smell. You
+have stumbled upon the lair of an undead wraith! You remember from stories
+that wraith's are powerful mages who turn the dead into undead servants!
+The source of the stench is a large pile of corpses, and parts of corpses
+that the wraith appears to be harboring.
+~
+353 0 0
+D0
+~
+~
+0 -1 35368
+S
+#35300
+Entering A New World~
+You enter a strange, new world refreshed and awake. Your senses begin
+to search out for new sights, smells and sounds. Quickly you look
+around. You appear to be in a tower of some sort. The walls are bare
+and all that is in this room is a thin covering of hay on the floor.
+Trying to recall how you got here you realize you have no memeory of
+your past and no idea where you are now. There is an opening in the
+floor below you that leads to a new room. For help on how to move
+about in this world there is a sign on the wall. Type "look sign".
+~
+353 0 1
+D5
+~
+~
+0 -1 35301
+E
+sign~
+Movement in this world is based upon the four cardinal directions,
+North, East, South and West. In addition it is possible to move UP, Down,
+Northeast, Northwest, Southwest or Southeast. To move in the direction
+you wish to go simple type the direction. For instance, if you wanted to
+go Down, you would type "down". The directions can shortened to make
+easier movement. The Shortened directions are: N, S, E, W, U, D, NE, SE,
+NW and NE.
+~
+>
+rand_prog 33~
+mpe If you ever need help in the world, type "who" to view a list of the
+mpe Immortals present. The immortals are friendly and will help you in
+mpe anyway needed. Type "tell <immortal name> <message> to speak with one.
+~
+|
+S
+#35301
+Bottom Of The Tower~
+You enter a small room at the bottom of the tower. The room here is small
+and very bright. Light seems to shine into the room as if the sun itself
+was sitting directly outside the room. Everything in here is fairly common.
+The only objects in the room are a fireplace, a small table, some chairs
+and a couple of tin mugs. Yet, somehow everything in the room looks so
+common, but so wonderfully beautiful at the same time.
+~
+353 0 1
+D0
+~
+~
+0 -1 35302
+D4
+~
+~
+0 -1 35300
+S
+#35302
+Choose Your Destiny~
+You have left the tower to the south and have come to a split in the
+paths. A sparkling portal stands directly in front of you. Its colors
+move and change from a bright, warm light to a dark, loneliness. It
+is now time for you to make a very important choice. You must now
+choose if you want to walk on the bright light of the Peacefuls are
+tread the lonely, dangerous path of the deadlies.
+ 
+Pkill--If you choose to walk the path of the deadly, you will forever be
+known as a pkiller. As a pkiller you will gain the ability to attack and
+kill other players who have also chosen the path of the deadly. You will,
+however, be forced to constantly look over you shoulder, wary and distrustful
+of all other characters. Once you reach level 5 and 18 years of age you will
+forever be the potential victim of anyone within 5 levels of yourself. If
+you choose the path of the deadly, you may never again walk the lighted
+path of the peaceful. For more info on deadlies see 'Help Rules Pkill'
+ 
+- If you have read this and would like to walk the path of the deadly, type:
+"say I choose to walk on the shadowy path of the pkillers."
+- If you have read this and would like to remain on the peaceful path, type:
+"say I choose to walk on the lighted path of the peaceful."
+~
+353 0 1
+D2
+~
+~
+0 -1 35301
+>
+speech_prog p lighted~
+mppkset $n no
+mea $n You have chosen the way of light, and are a peaceful character.
+mea $n You will now be shown to your chosen path.
+mer $n $n has chosen the path of light, and disappears down his path!
+mptransfer 0.$n 35304
+mpat 35304 mpforce 0.$n l
+~
+>
+speech_prog shadowy~
+mpforce 0.$n config -nice
+mpforce 0.$n config -flee
+mppkset $n yes
+mpechoat $n You are now a Deadly Character... you will be listed under
+mpechoat $n 'who deadly' once you reach level 5 and 18 years of age.
+mpechoat $n You will now be transferred to your chosen path...
+mpechoaround $n $n choses the path of shadows, disappearing into the darkness.
+mptransfer 0.$n 35303
+mpat 35303 mpforce 0.$n l
+~
+|
+S
+#35303
+Path of The Deadly~
+You are standing on a dark, sick looking path. All around you are sick
+and dying flowers and grass. Dark, leafless trees grope at you with
+dry, prickly limbs. You feel as if the whole world is out to get you.
+With a sigh of despair you realize your feeling was correct. The whole
+world IS out to get you! Welcome to the world of the pkillers. There
+will be noone to help you here. The only thing you have to keep you
+alive is your wits and your fists. Better use them wisely or your life
+will be very short. To the northwest the path connects with a bright
+path. Your journey continues in that direction.
+~
+353 0 1
+D7
+~
+~
+0 -1 35305
+S
+#35304
+Path of The Peaceful~
+You stand on a bright path, flowering with life. All around you are
+beautiful flowers and luscious, green grass. A giant tree's large
+branches shades you from the sun, filling you with a gentle coolness.
+You have chosen the path of the peaceful and your life will be filled
+with many friends and the comfort of others. You feel very at ease on
+this path and you are certain you have chosen well. Perhaps you could
+stop and smell some flowers before you continue? Your journey continues
+to the northeast.
+~
+353 0 1
+D6
+~
+~
+0 -1 35305
+S
+#35305
+End of The Path~
+Standing before you is a large man, dressed in the clothes of a ranger.
+He beems a bright smile on you as you enter. The path seems to end at
+this point. To all sides large, thick trees block your path. You can't
+even make out the direction you came in.
+~
+353 0 1
+S
+#35306
+Before A Shimmering Portal~
+You find yourself standing in a large round room. It is made entirely
+of rock and is polished to shiny smoothness. There are no exits, but
+standing in the center of the room is a large, shimmering portal. It
+appears to be the only way out of the room. A very large sign hangs
+at the top of the room. Type "LOOK SIGN" to read it.
+~
+353 c 1
+D10
+~
+portal~
+-16 -1 35307
+E
+sign~
+The sign reads:
+This portal is the entrance to Aragon's Illustrious Newbie Academy.
+On the inside of the academy you will find plenty of free equipment,
+plenty of help to aid you in the world, a place to practice and
+learn new skills and plenty of creatures for you to kill and gain
+experience. To enter the academy simply type "PORTAL" and you will
+be taken there immediately. If you ever need help type "WHO" and
+ask an immortal. If you have any feedback please leave a note on
+the newbie noteboard in the academy. Good luck and Happy Hunting!
+ 
+--Aragon
+~
+>
+rand_prog 20~
+mea $r Your eyes are drawn to the sign at the top of the room.
+mpforce $r look sign
+~
+|
+S
+#35307
+Beginning of The Academy~
+This is the beginning of Aragon's Newbie Academy. Whenever you're ready to
+leave the academy simply go up to enter the city. Ahead of you is a long
+hallway. There are doors on all sides. To the far north you can find the
+newbie arena, where you can gain experience by killing creatures kept here
+for you to kill. Through the doors to the east and west are rooms that will
+teach you about the world and rooms where you can gain equipment or practice.
+To the east is the training hall, where you can practice your skills, to
+the west is the library, where you can be taught new languages. The
+hallway continues to the north.
+~
+353 c 0
+D0
+~
+~
+0 -1 35310
+D1
+~
+~
+0 -1 35308
+D3
+~
+~
+0 -1 35309
+S
+#35308
+Training Grounds~
+This room is a large round room made of dark, aged wood. Hanging on every
+wall is a weapon of some sort. In the center of the room a group of young
+students duel with their weapons of choice.
+ 
+This room is where you will go to learn you skiills and spells. To see which
+skills or spells you can learn type PRACTICE. You gain extra skills as well
+as practices each time you level. For information on what a specific skill
+or spell does type HELP <SKILL NAME>. To practice a spell or skill type
+PRACTICE <SKILL NAME>. For example, to practice long blades type PRACTICE
+LONG BLADES. For general help on practicing type HELP PRACTICE.
+~
+353 0 0
+D3
+~
+~
+0 -1 35307
+S
+#35309
+Academy Library~
+You have come to the academy library. The library is a very large room, covered
+in bookshelves and tables. There are piles upon piles of books everywhere you 
+look. There appears to be books written in every language known here.
+ 
+This is where you can learn a new language. Languages differ from skills in
+that you must first become proficient in the language before you can use it.
+To see a list of available languages for you type PRACTICE. To learn a new
+language type LANGUAGE LEARN <LANGUAGE NAME>. For example; Language learn dwarv
+To raise you proficiency in the language you must practice the language
+by typing LANGUAGE LEARN <LANGUAGE> again. Once you have become proficient in
+the language you may then use it. You are born in the world already fluent in
+your race language and in common. For more help on languages type HELP LANGUAGE
+or help SPEAKS and HELP TONGUE.
+~
+353 0 0
+D1
+~
+~
+0 -1 35307
+S
+#35310
+Marble Hallway~
+You are in a large marble hallway in the Aragon's Newbie Academy. To the
+south are rooms where you can practice skills and spells and another room
+where you can learn a new language. To the east is a room where you can
+pick up a weopon to begin your battles with. To west is a newbie donation
+room, where characters can leave the equipment they no longer need. The
+hallway continues to the north.
+~
+353 0 0
+D0
+~
+~
+0 -1 35311
+D2
+~
+~
+0 -1 35307
+S
+#35311
+Marble Hallway~
+Bright light highlights the hallways illustrious carvings and decor.
+This entire building is a work of art. To the east is a board room,
+where characters can leave a note concerning directions or recommendations
+for newbies. To the west is a strange glowing statue. A thin staircase
+leads down to where the academy continues further.
+~
+353 0 0
+D2
+~
+~
+0 -1 35310
+D5
+~
+~
+0 -1 35312
+S
+#35312
+Newbie Academy~
+The illustrious decor of the marble hallway quickly abates at this point.
+The fancy marble and intricate carvings have been replaced by simple wood
+and straw floors. A sign here indicates that those in need of equipment
+should proceed EAST where equipment can be obtained. A store can be found
+west of here where you can obtain food and drink. If you have already
+been east and are ready to fight, simply open the door north of here
+and proceed (open door north).
+~
+353 0 0
+D0
+~
+Door~
+-1 -1 35313
+D1
+~
+~
+0 -1 35341
+D4
+~
+~
+0 -1 35311
+S
+#35313
+Newbie Caverns~
+You have left the confines of the academy and are now in a small cave just
+north of it. A door south of here marks the entrance. The cave continues
+to the north where you can spot a large cavern. In this cavern is where
+the monsters the town guards catch are left loose. Better be careful.
+~
+353 c 0
+D0
+~
+~
+0 -1 35314
+D2
+~
+Door~
+-1 -1 35312
+S
+#35314
+Newbie Caverns~
+The faint smell of death slowly works its way to your nostrils. Your knees
+tremble in trepidation of the battle(s?) to come. Specks of blood are
+splattered on the wall here. You fight an urge to run back to the
+academy. Your protectors are no longer here. You're now on your own. Ahead
+lies the first of many battles in your life. It's not too late to return to
+the academy south of here.
+~
+353 c 0
+D0
+~
+~
+0 -1 35315
+D2
+~
+~
+0 -1 35313
+S
+#35315
+Newbie Caverns~
+This is a large cavern, dark and featureless. The ceiling above you is well
+over 30 feet tall. You feel almost inconsequential in this large environment.
+Then the taste of blood reaches your tongue and you remember why you're here...
+TO KILL!!!!!!!
+~
+353 0 0
+D0
+~
+~
+0 -1 35322
+D1
+~
+~
+0 -1 35316
+D2
+~
+~
+0 -1 35314
+D3
+~
+~
+0 -1 35318
+S
+#35316
+Newbie Caverns~
+This is a large, dark cavern outside the academy. Crowds of young adventurers
+gather around this area, taking their first kill from some hapless monster.
+To the west is the way back to the academy.
+~
+353 0 0
+D0
+~
+~
+0 -1 35323
+D1
+~
+~
+0 -1 35317
+D3
+~
+~
+0 -1 35315
+S
+#35317
+Newbie Caverns~
+This is the southwest corner of the cavern. A small distance to the west
+you can still make out the way back to the academy. Taking a small step,
+you suddenly step on something squishiy! Hmmm...it appears to be someones
+guts! You check yourself, but luckily they're not yours!
+~
+353 0 0
+D0
+~
+~
+0 -1 35324
+D3
+~
+~
+0 -1 35316
+S
+#35318
+Newbie Caverns~
+You are along the south wall of the cavern. Tall stalagmites tower over
+your head. Body parts litter the floor below. To the east is the way
+back to the academy.
+~
+353 0 0
+D0
+~
+~
+0 -1 35321
+D1
+~
+~
+0 -1 35315
+D3
+~
+~
+0 -1 35319
+S
+#35319
+Newbie Caverns~
+You are in the southwest corner of the cavern. All around you echoes the
+cries of death and the sounds of battle. You can hear growling and snarling
+and cries of pain. Blood pools and drips all around. Is that a leg you see
+over there? No, it can't be. Can it?
+~
+353 0 0
+D0
+~
+~
+0 -1 35320
+D1
+~
+~
+0 -1 35318
+S
+#35320
+Newbie Caverns~
+You are along the western wall in the cavern. Just south of here is the
+southwest corner. The tunnel back to the academy is a short distance 
+east from there.
+~
+353 0 0
+D0
+~
+~
+0 -1 35325
+D1
+~
+~
+0 -1 35321
+D2
+~
+~
+0 -1 35319
+S
+#35321
+Newbie Caverns~
+Walking through this cavern of slaughter has become quite treacherous.
+You take the risks of fighting wild beast, as well as having to be on
+the lookout for battle-crazed newbies, waving swords all over the place.
+~
+353 0 0
+D0
+~
+~
+0 -1 35326
+D1
+~
+~
+0 -1 35322
+D2
+~
+~
+0 -1 35318
+D3
+~
+~
+0 -1 35320
+S
+#35322
+Newbie Caverns~
+You wander through the piles of flesh and bones, the carcasses littering
+the area of this cavern of decadence and slaughter. You remember back to
+your teachings and think "it's kill or be killed around here". A short
+distance away a group of five newbies stab a wild dog repeatedly. Yep
+he was definetely asking for it.
+~
+353 0 0
+D0
+~
+~
+0 -1 35327
+D1
+~
+~
+0 -1 35323
+D2
+~
+~
+0 -1 35315
+D3
+~
+~
+0 -1 35321
+S
+#35323
+Newbie Caverns~
+Growing bored with the death and murder of this cavern, you begin to hum
+a silent tune to yourself. Your mood picking up you decide to kick at
+rocks playfully. One of the rocks feels awfully soft. Looking at what you
+kicked you see a head rolling down the floor. Better stick to the killing.
+~
+353 0 0
+D0
+~
+~
+0 -1 35328
+D1
+~
+~
+0 -1 35324
+D2
+~
+~
+0 -1 35316
+D3
+~
+~
+0 -1 35322
+S
+#35324
+Newbie Caverns~
+You are along the eastern wall in the cavern outside the academy. Blood 
+has spread all over your clothes from the large amount of monsters being
+killed around you. The way back to the academy is south.
+~
+353 0 0
+D0
+~
+~
+0 -1 35329
+D2
+~
+~
+0 -1 35317
+D3
+~
+~
+0 -1 35323
+S
+#35325
+Newbie Caverns~
+You are along the western wall of the cavern. Southeast of the academy.
+You slowly wade through the pool of blood that has accumulated here. The
+going does get tough as you go though. The blood is starting to dry on
+your clothes and hamper your movement. That wasn't just someone's hand
+that floated by, was it?
+~
+353 0 0
+D0
+~
+~
+0 -1 35334
+D1
+~
+~
+0 -1 35326
+D2
+~
+~
+0 -1 35320
+S
+#35326
+Newbie Caverns~
+This area is a large round cavern, its floors and walls stained red from
+the blood of monsters. All around are young adventurers fighting and
+honing their newfound skills.
+~
+353 0 0
+D0
+~
+~
+0 -1 35333
+D1
+~
+~
+0 -1 35327
+D2
+~
+~
+0 -1 35321
+D3
+~
+~
+0 -1 35325
+S
+#35327
+Newbie Caverns~
+A small hole in the ground of the caverns is here. It is just large enough
+for you to squeeze through. You can hear an odd moaning sound coming from
+within. A sign above the hole reads: Warning caverns not patrolled by town
+guards. Proceed at your own risk. (Not recommended until level 5 or higher).
+~
+353 c 0
+D0
+~
+~
+0 -1 35332
+D1
+~
+~
+0 -1 35328
+D2
+~
+~
+0 -1 35322
+D3
+~
+~
+0 -1 35326
+D5
+~
+~
+0 -1 35340
+S
+#35328
+Newbie Caverns~
+You walk calmly through a sea of newbies, all drunk on power and wanting
+nothing but to kill. What fools you think. Looking down you notice a
+corpse that's not quite dead. You give it a quick kick to the head and
+his days are over. You smilely happily at yourself.
+~
+353 0 0
+D0
+~
+~
+0 -1 35331
+D1
+~
+~
+0 -1 35329
+D2
+~
+~
+0 -1 35323
+D3
+~
+~
+0 -1 35327
+S
+#35329
+Newbie Caverns~
+This is the eastern wall of the cavern. The echo of death rings aloud all
+around you. Everywhere you look you see a young adventurer with his
+weapon drawn, going for the kill on some manner of beast. Looks fun!
+~
+353 0 0
+D0
+~
+~
+0 -1 35330
+D2
+~
+~
+0 -1 35324
+D3
+~
+~
+0 -1 35328
+S
+#35330
+Newbie Caverns~
+You are along the east wall of the cavern. The northern corner of the
+cavern is just a short distance to the north. The way back to the
+academy is southwest from here.
+~
+353 0 0
+D0
+~
+~
+0 -1 35339
+D2
+~
+~
+0 -1 35329
+D3
+~
+~
+0 -1 35331
+S
+#35331
+Newbie Caverns~
+You scan about the caverns, looking for something to kill. Scores of
+young adventurers much like look to do the same thing. Hordes of
+scared monsters flee from the onslaught of the deadly newbies.
+~
+353 0 0
+D0
+~
+~
+0 -1 35338
+D1
+~
+~
+0 -1 35330
+D2
+~
+~
+0 -1 35328
+D3
+~
+~
+0 -1 35332
+S
+#35332
+Newbie Caverns~
+You step carefully over the decaying corpses of dead monsters and the
+large number of body parts strewn about. Smiling proudly at the blade
+of your weapon you begin to think you're invincible. But you happen to
+look slightly to your right and see decapitated head of a young 
+adventurer no older then you. Better watch yourself.
+~
+353 0 0
+D0
+~
+~
+0 -1 35337
+D1
+~
+~
+0 -1 35331
+D2
+~
+~
+0 -1 35327
+D3
+~
+~
+0 -1 35333
+S
+#35333
+Newbie Caverns~
+This cavern is nothing but a large killing field. Monsters are brought
+in from the countryside so they don't harm the civilians. They are herded
+into this cavern so the newbies can kill them. No one seems to care, though.
+Except for the monsters of course.
+~
+353 0 0
+D0
+~
+~
+0 -1 35336
+D1
+~
+~
+0 -1 35332
+D2
+~
+~
+0 -1 35326
+D3
+~
+~
+0 -1 35334
+S
+#35334
+Newbie Caverns~
+This is the western wall of the cavern. The cavern slopes slight down to
+the west, leaving you wading through a pool of blood ankle deep. It
+could be worse, though. It could be your blood.
+~
+353 0 0
+D0
+~
+~
+0 -1 35335
+D1
+~
+~
+0 -1 35333
+D2
+~
+~
+0 -1 35325
+S
+#35335
+Newbie Caverns~
+You are in the northwest corner of the cavern. To the south-southeast you
+can see the tunnel leading back to the academy. You can also see blood
+dripping from the walls and pooling on the floor. Evidently there are a lot
+of monsters that need killing around these parts.
+~
+353 0 0
+D1
+~
+~
+0 -1 35336
+D2
+~
+~
+0 -1 35334
+S
+#35336
+Newbie Caverns~
+This is the northern wall of a large cavern. These caverns appear to be
+home to a large herd of roaming monsters. They also appear to be home
+to an even larger heard of insane newbies hacking them into tiny little
+chunks of flesh and bone.
+~
+353 0 0
+D1
+~
+~
+0 -1 35337
+D2
+~
+~
+0 -1 35333
+D3
+~
+~
+0 -1 35335
+S
+#35337
+Newbie Caverns~
+You are along the northern wall of this large cavern. To the south you
+can see the way back to the academy, and away from this killing field.
+But do you really want to leave when you're having this much fun?
+~
+353 0 0
+D1
+~
+~
+0 -1 35338
+D2
+~
+~
+0 -1 35332
+D3
+~
+~
+0 -1 35336
+S
+#35338
+Newbie Caverns~
+This is the north wall of the cavern. Fearful monsters run wildly past
+you, young soon-to-be hero's chasing after them, swords drawn. You get
+a strangely neurotic urge to kill!
+~
+353 0 0
+D1
+~
+~
+0 -1 35339
+D2
+~
+~
+0 -1 35331
+D3
+~
+~
+0 -1 35337
+S
+#35339
+Newbie Caverns~
+This is the northeast corner of the cavern. From this corner you can see
+a large portion of the cavern. All around you young trainees are busy hacking
+and slashing at all manner of creatures. For a second you begin to think it
+is sick, but then you look at your bloody weapon and say "nah this is fun!"
+~
+353 0 0
+D2
+~
+~
+0 -1 35330
+D3
+~
+~
+0 -1 35338
+S
+#35340
+Below The Academy~
+You enter into a warm, humid set of tunnels beneath the academy. It's much
+warmer here then above. Slowly the stench of rotting flesh becomes more
+predominant. The tunnel is dark and shadows move everywhere.
+~
+353 0 0
+D4
+~
+~
+0 -1 35327
+D6
+~
+~
+0 -1 35353
+>
+entry_prog 100~
+if level($n) < 5
+mea $n A magical voice whispers..."These caverns have been known to hide
+mea $n undead creatures who may be too strong for your experience level"
+mea $n "perhaps you should return above and return when you are better prepared
+else
+mea $n A waining moan echoes throughout the caverns.
+endif
+~
+|
+S
+#35341
+Hallway In The Academy~
+You stand in a long, thin hallway. Sword strikes and mace dents
+litter the hallway. To the east you can see a guide waiting to help
+newbies. Back to the west is an intersection.
+~
+353 0 0
+D1
+~
+~
+0 -1 35342
+D3
+~
+~
+0 -1 35312
+S
+#35342
+Hallway In The Academy~
+This is a thin hallway through the academy. The hallway appears old and
+worn down. The floors are filled with holes and covered in dents, as is
+the wall. This hallway appears to be used quite often.
+~
+353 0 0
+D1
+~
+~
+0 -1 35343
+D3
+~
+~
+0 -1 35341
+S
+#35343
+Before The Cages~
+This is a small square room. The walls are made of wood and are covered in
+scratches and bumps as if this room is prone to scuffles. Below you are a
+collection of cages where you will learn to fight. To attack a monster type
+kill <monster name>. 
+~
+353 0 0
+D3
+~
+~
+0 -1 35342
+D5
+~
+~
+0 -1 35344
+S
+#35344
+Cage Room~
+This is a large round room. Surrounding you on all sides are small cages.
+From within the cages you can hear rustling and snorting. Inside the cages
+are monsters for you to kill. You see the sparkling glint of equipment coming
+from the cages. Standing in the center of the room is a large robed man. He
+politely casts spells to prepare adventurers for combat.
+~
+353 0 0
+D0
+~
+~
+0 -1 35345
+D1
+~
+~
+0 -1 35347
+D2
+~
+~
+0 -1 35349
+D3
+~
+~
+0 -1 35351
+D4
+~
+~
+0 -1 35343
+D6
+~
+~
+0 -1 35346
+D7
+~
+~
+0 -1 35352
+D8
+~
+~
+0 -1 35348
+D9
+~
+~
+0 -1 35350
+S
+#35345
+Academy North Cage~
+This is the north cage in the academy. If a monster is not here one will
+be caught and brought shortly. Pools of blood litter the ground, showing
+that you are not the only one to wander these parts.
+~
+353 0 0
+D2
+~
+~
+0 -1 35344
+S
+#35346
+Academy Northeast Cage~
+This is the northeast cage of the academy. This room is reserved for
+monsters the academy trainers wish to supply to you to kill. If you
+decide to kill this monster you will be rewarded with a piece of
+equipment. If you decide to not kill the monster, well...aren't you
+an awful nice guy?
+~
+353 0 0
+D9
+~
+~
+0 -1 35344
+S
+#35347
+Academy East Cage~
+This is the east cage of the newbie academy. Here a monster is brought to
+be sentenced to die. Your role in this game is the executioner. In exchange
+for your services you are rewarded with experience and a piece of equipment,
+and occassionally some gold.
+~
+353 0 0
+D3
+~
+~
+0 -1 35344
+S
+$~

@@ -1,0 +1,375 @@
+#3400
+skeleton bony~
+the bony skeleton~
+A bony skeleton is here.
+~
+Brown bones with tufts of clothing still hanging from them.  This
+skeleton looks very mindless but still dangerous ...
+~
+41 0 0 E
+14 -4 1 1d1+300 1d6+25
+15 0
+8 8 1
+Str: 17
+Dex: 14
+Int: 14
+Wis: 15
+Con: 17
+E
+#3401
+undead zombie~
+the undead zombie~
+An undead zombie sits here munching on something ...
+~
+His body is totally white and slowly rotting away.  Each Zombie looks
+quite different from the next because they were, of course, once alive and
+human.
+~
+43 40 -100 E
+15 -4 1 1d1+320 1d8+16
+50 0
+8 8 1
+Str: 17
+Dex: 14
+Int: 17
+Wis: 15
+Con: 17
+E
+#3402
+undead ghoul~
+the ghoul~
+A ghoul is here staring at you hungrily.
+~
+The ghoul no longer resembles the adventurer he once was.  Nonetheless
+he looks like he hasn't forgot his fighting skills.
+~
+41 8 -500 E
+20 -6 -2 1d1+540 2d5+20
+150 0
+8 8 1
+Str: 20
+Dex: 19
+Int: 17
+Wis: 18
+Con: 17
+Cha: 18
+E
+#3403
+undead wraith~
+the wraith~
+You spot a wraith advancing towards you from the shadows.
+~
+The wraith no longer has a material form.  He is wearing a tattered
+black robe which hides all but the darkness of his face and the glimmer
+in his eyes.
+~
+43 42 -750 E
+21 -7 -1 1d1+600 3d6+16
+1000 0
+8 8 1
+Str: 20
+Dex: 17
+Int: 17
+Wis: 18
+Con: 17
+Cha: 18
+E
+#3404
+undead guardian vampire~
+the guardian vampire~
+A vampire is here hiding his face from your light source.
+~
+The guardian vampire looks quite EVIL.  Just by looking at him the hair on your
+arms raises. He looks mighty tough to be just a minor minion.
+It seems like he doesn't like to be asked any questions, enjoying his peace.
+~
+156191 1064 -1000 E
+31 -16 -8 1d1+848 4d5+19
+15000 0
+8 8 1
+BareHandAttack: 4
+Str: 23
+Dex: 17
+Int: 20
+Wis: 18
+Con: 20
+Cha: 21
+E
+>act_prog p stares at you~
+growl
+kill $n
+~
+>act_prog   asks~
+growl
+scream
+say AAAAAAAAAAAAAAAAARGHHHH!!!!!
+emote squelches in pain as some unseen force starts mutating him.
+mpmload 3413
+mpforce vladar mpoload 3422
+mpforce vladar wear all
+mpforce vladar grin
+mpgoto 3
+mppurge $i
+~
+|
+#3405
+priest~
+the priest~
+A priest of God stands here solemnly speaking words of praise.
+~
+Obviously a goodly man, you feel closer to God just by gazing upon this man.
+Dressed in white, fine white hair, and a soft slightly wrinkled face ...
+this man has a sacred beauty.  You see a halo around his head.
+~
+10 168 1000 E
+15 -10 0 15d15+141 1d4+13
+400 0
+8 8 1
+Str: 17
+Dex: 15
+Int: 17
+Wis: 15
+Con: 17
+E
+#3406
+Mi-Go Fungi~
+the Mi-Go~
+A Mi-Go is crawling here.
+~
+Mi-Go, the Fungi from Yuggoth ... it is a pinkish being about five feet long;
+with a crustaceous body bearing a vast pair of membranous wings and several
+sets of articulate limbs, body a sort of convoluted ellipsoid, covered with
+multitudes of very small antennae, where a head would ordinarily be.  These
+beings sometimes walk on all their legs and sometimes on the hind pair only.
+~
+40 0 -500 E
+22 -8 -2 12d12+400 2d7+14
+650 0
+8 8 0
+Str: 20
+Dex: 17
+Int: 17
+Wis: 18
+Con: 17
+Cha: 18
+E
+#3407
+nightgaunt~
+the nightgaunt~
+A nightgaunt is standing here
+~
+... shocking and uncouth black thing with smooth, oily, skin, unpleasant horns
+that curve inward toward each other, bat wings whose beating make no sound,
+ugly prehensile paws, and a barbed tail that lashes disquietingly.  And worst
+of all, it makes absolutely no sound or speech and smiles not at all because
+it has no face, only a suggestive blackness where a face ought to be ...
+~
+105 786432 -1000 E
+19 -6 -1 10d10+323 2d6+12
+150 0
+8 8 0
+Str: 17
+Dex: 16
+Int: 17
+Wis: 15
+Con: 17
+Cha: 18
+E
+#3408
+hunting horror~
+the hunting horror~
+The hunting horror is here in wait of an unwary traveler.
+~
+Serving Nyarlathotep and Roch'tar, these beings are hunting for victims.
+They resemble enormous ropy black serpents or worms possessing bat-like or
+umbrella-like wings.  Their forms continually shift and change, twitching
+and writhing, so it is hard to look at them.  They speak in great harsh
+voices.  A hunting horror is HUGE, normally around 40 feet long.
+~
+41 40 -1000 E
+20 -5 -2 20d20+500 3d6+20
+2000 0
+8 8 0
+Str: 20
+Dex: 17
+Int: 17
+Wis: 18
+Con: 17
+Cha: 18
+E
+#3409
+weeds~
+some cave weeds~
+Some weeds are creeping across the floor.
+~
+Just some unpleasant looking vine-like growths ...
+~
+44 786440 0 E
+6 0 4 1d1+75 1d8+1
+83 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#3410
+snapper joe~
+Snapper Joe~
+Snapper Joe is standing here leering at you chillingly.
+~
+What an ugly fiend! He is about 6'6'' and has mostly greenish skin with
+bright red hair. Half his face is burnt off and he has a perpetual smile.
+He is called up from his service in hell in order to aid the Undying One.
+~
+11 8 -750 E
+20 -15 -1 1d1+500 4d3+19
+2222 0
+8 8 1
+Str: 20
+Dex: 18
+Int: 17
+Wis: 18
+Con: 17
+Cha: 18
+E
+#3411
+X-ist eater~
+the X-ist flesh eater~
+An X-ist flesh eater is sitting here munching on some coffin remains
+~
+A large hairy monstrous beast, the only LIVE thing you have seen down here.
+It stands approximately 8 feet tall and hunches over to fit in this
+small room.  It has a pair of tremendous claws that it uses to rip and tear.
+It has dog-like face except ... different.  Bright glowing eyes and a grimace
+lead you to believe that he knew that you were coming.
+~
+43 8 -1000 E
+17 -11 1 1d1+215 4d2+7
+1560 0
+8 8 1
+Str: 17
+Dex: 16
+Int: 17
+Wis: 15
+Con: 17
+Cha: 18
+E
+#3412
+spirit ghost king crotus~
+the spirit of King Crotus~
+The spirit of King Crotus is floating lazily above the floor.
+~
+Floating above the ground here and looking a bit dead, he whispers
+softly into the air:
+
+    The forces of evil have unlocked my spirit as
+    well as one other.  Free me from this misery,
+    anyone that can hear. The peace of the grave
+    calls me but I am blocked from its quiet.
+~
+10 40 350 E
+26 -10 -5 1d1+629 4d6+12
+50 0
+8 8 1
+Str: 20
+Dex: 19
+Int: 17
+Wis: 18
+Con: 20
+Cha: 21
+E
+#3413
+vladar had~
+Had~
+A huge creeping demon towers above you.
+~
+You flee in terror!
+You wish you COULD flee!
+~
+122926 4195496 -1000 E
+68 -35 -20 1d1+16000 25d30+45
+12000000 0
+8 8 1
+Str: 25
+Dex: 22
+Int: 22
+Wis: 21
+Con: 24
+Cha: 25
+E
+>death_prog   100~
+holler AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARRRRRRRRRGH!
+holler I shall be back!
+~
+|
+#3414
+etcher~
+the mad etcher~
+The mad etcher is sitting here babbling to himself and working on the wall.
+~
+Quite insane, the mad etcher has been here for two decades.  His hair is
+white; he babbles nonsense to himself; a layer of dust covers his out-of-date
+clothing; and he seems to be working on the same portion of the wall near
+the base ... oh and he seems quite blind.
+
+He leers insanely at you and says 'heh heh what can I do for you children?
+Please don't mind my wife, she is always like that ... hello dear can you
+make some tea for our company?  Oh good!  Now sit right down will you?
+Would you like hot or cold tea?  Yes the weather is ...'
+
+And on he babbles ...
+~
+72 1 1000 E
+5 -10 3 1d1+80 2d6+1
+50 0
+8 8 1
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#3415
+wife ghost specter~
+the spectral etcher's wife~
+The spectral wife of the etcher is very faintly floating here.
+~
+You can barely make her out ... though it almost makes you vomit.
+She is missing half her head.  The remaining half is smashed in horribly like
+she took a nasty fall.  Her one damaged eye hangs on its own.  She smiles
+insanely at you thru a broken jaw and missing teeth.  One hand of hers is
+resting on the shoulder of the etcher ... her husband.
+~
+11 524288 1000 E
+7 -1 4 1d1+86 2d4+3
+125 0
+8 8 2
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#3416
+body~
+the half-decomposed body~
+A half-decomposed body is lying in the corner here.
+~
+YUK! It's ugly, disgusting ... it smells ... it also moves a bit!
+~
+45 0 -350 E
+12 -2 3 1d1+185 2d5+6
+83 0
+8 8 1
+Str: 17
+Dex: 15
+Int: 14
+Wis: 15
+Con: 17
+E
+$

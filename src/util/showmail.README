@@ -1,0 +1,60 @@
+Directions for installing the showmail utility...
+
+1.  Move the file showmail.c to the src/util directory.
+
+2.  in the src/util directory edit Makefile.in as follows...
+
+  Find the following lines...
+
+all: $(BINDIR)/autowiz $(BINDIR)/delobjs $(BINDIR)/listrent \
+        $(BINDIR)/mudpasswd $(BINDIR)/purgeplay \
+        $(BINDIR)/showplay $(BINDIR)/sign $(BINDIR)/split \
+        $(BINDIR)/wld2html
+
+  Add $(BINDIR)/showmail to the last line so that the four lines become...
+
+all: $(BINDIR)/autowiz $(BINDIR)/delobjs $(BINDIR)/listrent \
+        $(BINDIR)/mudpasswd $(BINDIR)/purgeplay \
+        $(BINDIR)/showplay $(BINDIR)/sign $(BINDIR)/split \
+        $(BINDIR)/wld2html $(BINDIR)/showmail
+
+
+  Find the line...
+
+wld2html: $(BINDIR)/wld2html
+
+  And following it add...
+
+showmail: $(BINDIR)/showmail
+
+  Find the following lines...
+
+$(BINDIR)/wld2html: wld2html.c $(INCDIR)/conf.h $(INCDIR)/sysdep.h
+        $(CC) $(CFLAGS) -o $(BINDIR)/wld2html wld2html.c
+
+  And following them add...
+
+$(BINDIR)/showmail: showmail.c $(INCDIR)/conf.h $(INCDIR)/sysdep.h \
+        $(INCDIR)/structs.h $(INCDIR)/mail.h $(INCDIR)/utils.h
+        $(CC) $(CFLAGS) -o $(BINDIR)/showmail showmail.c
+
+3.  Run the ./configure script from the circle directory.
+
+4.  "make utils" from the src directory.
+
+5.  The showmail utility will now be in the bin directory.  To use it from the circle directory
+    type...
+
+  bin/showmail lib/etc/players lib/etc/plrmail
+
+This will display all the mail in the plrmail file including the first two blocks of any deleted
+mail.  You can also specify that you want to display only mail to or from a single player...
+
+  bin/showmail lib/etc/players lib/etc/plrmail <playername>
+
+This will display all mail to or from <playername>.
+
+Note:  This utility will NOT work with ASCII PFiles!
+
+If you have any comments or questions you may send them to pajamian@cheapsam.com.  Flames
+regaurding the reading of other player's MudMail will be cheerfully ignored.

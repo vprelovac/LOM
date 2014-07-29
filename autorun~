@@ -1,0 +1,97 @@
+#!/bin/sh
+#
+# CircleMUD 3.0 autorun script
+# Contributions by Fred Merkel, Stuart Lamble, and Jeremy Elson
+# Copyright (c) 1996 The Trustees of The Johns Hopkins University
+# All Rights Reserved
+# See license.doc for more information
+#
+#############################################################################
+#
+# This script can be used to run CircleMUD over and over again (i.e., have
+#it
+# automatically reboot if it crashes).  It will run the game, and copy some
+# of the more useful information from the system logs to the 'log' directory
+# for safe keeping.
+#
+# You can control the operation of this script by creating and deleting
+#files
+# in Circle's root directory, either manually or by using the 'shutdown'
+# command from within the MUD.
+#
+# Creating a file called .fastboot makes the script wait only 5 seconds
+# between reboot attempts instead of the usual 60.  If you want a quick
+# reboot, use the "shutdown reboot" command from within the MUD.
+#
+# Creating a file called .killscript makes the script terminate (i.e., stop
+# rebooting the MUD).  If you want to shut down the MUD and make it stay
+# shut down, use the "shutdown die" command from within the MUD.
+#
+# Finally, if a file called pause exists, the script will not reboot the MUD
+# again until pause is removed.  This is useful if you want to turn the MUD
+# off for a couple of minutes and then bring it back up without killing the
+# script.  Type "shutdown pause" from within the MUD to activate this
+#feature.
+#
+
+# The port on which to run the MUD
+PORT=5000
+
+# Default flags to pass to the MUD server (see running.doc for a description
+# of all flags).
+FLAGS=
+
+#############################################################################
+while ( : ) do
+  DATE=ate
+  bin/a.exe $FLAGS $PORT >> syslog 2>&1
+
+  tail -30 syslog > syslog.CRASH
+
+  fgrep "self-delete" syslog >> log/delete
+  fgrep "death trap" syslog >> log/dts
+  fgrep "killed" syslog >> log/rip
+  fgrep "Mob" syslog >> log/mobdeaths
+  fgrep "Running" syslog >> log/restarts
+  fgrep "advanced" syslog >> log/levels
+  fgrep "equipment lost" syslog >> log/rentgone
+  fgrep "USAGE" syslog >> log/usage
+  fgrep "DAMAGE" syslog >> log/damage
+  fgrep "new player" syslog >> log/newplayers
+  fgrep "HELP" syslog >> log/helplacks
+  fgrep "ZONE" syslog >> log/zonerr
+  fgrep "ERR" syslog >> log/errors
+  fgrep "(GC)" syslog >> log/godcmds
+  fgrep "Bad PW" syslog >> log/badpws
+  fgrep "MAP" syslog >> log/maps
+  fgrep "PKILL" syslog >> log/pkills
+  zip /tmp/lomlog.zip log/damage log/rip log/dts log/pkills lib/spells lib/skills
+  chmod 644 /tmp/lomlog.zip
+
+  rm log/syslog.1
+  mv log/syslog.2 log/syslog.1
+  mv log/syslog.3 log/syslog.2
+  mv log/syslog.4 log/syslog.3
+  mv log/syslog.5 log/syslog.4
+  mv log/syslog.6 log/syslog.5
+  mv syslog       log/syslog.6
+  touch syslog
+
+  if [ ! -r .fastboot ]; then
+    sleep 15
+  else
+    rm .fastboot
+    sleep 10
+  fi
+
+  if [ -r .killscript ]; then
+    DATE=ate;
+    echo "autoscript killed $DATE"  >> syslog
+    rm .killscript
+    exit
+  fi
+
+  while [ -r pause ]; do
+    sleep 60
+  done
+done

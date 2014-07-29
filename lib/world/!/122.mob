@@ -1,0 +1,1339 @@
+#12001
+guard demon hive~
+the Guardian of Hive~
+The Guardian of Hive sits here, waiting for you.
+~
+The Guardian is a steel demon. Most hideous beast you have ever seen. He is
+10 feet tall, and his black eyes seem to suck your soul out of your body.
+His shiny skin looks very hard. You doubt that you will be able to penetrate
+it.
+~
+57426 268436648 -1000 E
+65 -14 -24 10d20+3056 2d4+60
+0 -100
+6 6 0
+BareHandAttack: 12
+Race: 18
+Attacks: 5
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+E
+>all_greet_prog 35~
+grin
+~
+>rand_prog 10~
+mpecho The Guardian of Hive yawns.
+~
+|
+#12002
+guard demon small~
+the small guardian demon~
+The small guardian demon is here, looking for disorder.
+~
+You see before you a horrifying beast. This demon is tall just like you. It's
+teeth are soaked with blood, and from his eyes an horrifying glow chills your
+spine. His huge bat-shaped wings are folded behind him.
+~
+2103360 1192 -400 E
+30 6 -4 1d1+665 2d6+30
+5000 -100
+8 8 0
+BareHandAttack: 8
+Race: 18
+Attacks: 3
+Str: 15
+Dex: 14
+Int: 10
+Wis: 10
+E
+>act_prog p utters the words~
+if rand(30)
+if level($n) <= 15
+   slap $n
+   if isgood($n)
+      say I hate that magic stuff.
+      growl
+   else
+      say Don't try any tricks on me!
+   endif
+else
+grin
+say You know I hate that.
+kill $n
+break
+endif
+endif     
+~
+>all_greet_prog 10~
+mpechoaround $n $I looks at $n with rage in it's eyes.
+mpechoat $n $I stares at you with hungry look.
+~
+>rand_prog 20~
+emote mumbles, 'Saday agios rehto agla soton aglanatos'
+~
+|
+#12003
+sneaky thief~
+Sneaky~
+Sneaky is here, walking through the shadows.
+~
+This character looks very suspicious. You barley hear him move. As you glare
+at him in fear that he might stab you from the back, you check your pockets,
+just to be sure.
+~
+148 786472 -200 E
+25 12 -60 13d2+300 2d2+15
+500 -420
+8 8 1
+BareHandAttack: 14
+Race: 4
+Class: 4
+Attacks: 4
+Str: 16
+Dex: 25
+Int: 14
+Wis: 16
+E
+#12004
+burglar~
+the Burglar~
+Burglar is here, carrying his valuable loot.
+~
+This little squirt looks harmless. But the sack on his back probably contains
+a good pile of gold and valuables.
+~
+196 262144 -400 E
+26 15 5 14d14+35 1d1+15
+100 -200
+8 8 1
+BareHandAttack: 0
+Race: 2
+Class: 4
+E
+>rand_prog 6~
+curse
+~
+>rand_prog 10~
+say I was framed.
+~
+|
+#12005
+small divil~
+the small divil~
+There is funny looking demon here.
+~
+This is what you may call a pocket demon. He is so cute that you feel you
+must pat him on his head, but you fear that he could give you an nasty bite.
+~
+192 1024 -600 E
+26 9 -3 12d8+300 1d4+4
+500 -600
+8 8 0
+BareHandAttack: 4
+Race: 18
+Attacks: 4
+Str: 16
+Wis: 16
+E
+>rand_prog 10~
+mpecho The small divil spits through his teeth.
+say Just wait. I'll get my big brother.
+~
+|
+#12006
+murderer~
+The Murderer~
+The murderer is here with his blood soaked weapon.
+~
+You see a murderer. His hands are all soaked with blood. His sins forced him 
+down here, and he will pay for them.
+~
+131280 0 -400 E
+30 7 -3 10d20+300 1d5+10
+5 -500
+8 8 1
+Race: 0
+Attacks: 4
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+E
+>rand_prog 10~
+say I didn't do it officer!
+~
+|
+#12007
+petty criminal~
+Petty criminal~
+Small time criminal stands here.
+~
+This type usually stands in dark corners of the street, selling dope. You
+should avoid him. You never can tell when he will frame you.
+~
+262272 8 0 E
+25 8 -1 100d2+300 2d10+12
+0 -100
+8 8 1
+BareHandAttack: 14
+Race: 2
+Class: 4
+E
+>greet_prog 50~
+if isnpc($n)
+   poke $n
+   say I have some pretty good stuff.
+   say Only 100 coins.
+endif
+~
+>bribe_prog 100~
+grin
+say He... he... You fool! Now you die!
+mpkill $n
+~
+>death_prog 100~
+shout You will never get it! Hahaha!
+mpecho You see his corpse disappears into the ground!
+~
+|
+#12008
+terrata~
+Terrata~
+You see some unshapely formed being here.
+~
+Terrata is Dzaf's solider. He makes them out from human fears, and their
+sweat. It has thousands of legs, no eyes and mouth shaped like suction,
+with many teeth.
+~
+132116 263168 -800 E
+26 8 0 16d6+630 12d3+30
+10 -200
+8 8 0
+BareHandAttack: 4
+Race: 17
+Attacks: 4
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+E
+#12009
+shambler mage~
+Shambler~
+Huge beast with great claws stands here.
+~
+You see a Shambler... quake demon. You fear that he could fry you with his 
+electricity.
+~
+2157584 536871974 -800 E
+30 3 -6 4d3+400 10d10+33
+5000 -800
+8 8 1
+BareHandAttack: 12
+Race: 11
+Class: 1
+Attacks: 2
+Dex: 15
+Int: 16
+Wis: 16
+E
+#12010
+demon flying~
+Flying demon~
+Demon with small body but huge wings hovers in the air.
+~
+You see demon with huge flapping wings. His claws are longer than his body!
+He could easily tear you apart.
+~
+133152 4194440 -654 E
+35 2 -8 17d40+500 4d6+30
+700 -500
+8 8 0
+BareHandAttack: 8
+Race: 18
+Attacks: 4
+Str: 15
+Dex: 15
+E
+#12011
+dzaf artist~
+Dzaf~
+Dzaf the artist is here.
+~
+You see a dark artist, wizard. His search for the essence, turned him in 
+horrifying beast that makes monsters out of human fears.
+~
+1316884 33850400 -1000 E
+28 4 -1 14d20+950 8d3+33
+1000 -900
+8 8 1
+BareHandAttack: 4
+Race: 10
+Class: 1
+Attacks: 3
+Str: 15
+Dex: 15
+E
+>rand_prog 20~
+mpecho Dzaf makes some strange magical gestures...
+mpecho ...out of nowhere, a terrata appears!!!
+mpload #12008
+~
+|
+#12012
+whore prostitute hooker~
+Prostitute~
+Hooker stands leaned on the wall.
+~
+You see a woman without any sense of morale and decency. She is dressed in
+tight leather outfit, and she is ready to party.
+~
+8320 0 -200 E
+27 13 1 0d0+234 0d0+14
+500 -180
+8 8 2
+BareHandAttack: 2
+Race: 0
+E
+>greet_prog 20~
+say Hi, sexy. Wanna have some fun?
+lick $n
+~
+>rand_prog 15~
+sulk
+say No one wants to play with me.
+~
+|
+#12013
+body beheaded~
+The beheaded body~
+The body without the head stands here.
+~
+This guy forgot his head somewhere on the guillotine, or at the hospital,
+or maybe in a car accident. No matter, he is here now.
+~
+262144 0 -400 E
+28 13 2 5d35+234 5d10+14
+1000 -400
+6 6 0
+BareHandAttack: 12
+Race: 14
+E
+>rand_prog 30~
+mpecho The beheaded body trips and falls to the ground.
+mpecho It slowly and silently gets up on it's feet.
+~
+|
+#12014
+sealer second demon~
+The second sealer~
+The second sealer is here, guarding a seal.
+~
+You see a medium sized demon. He sits patiently beside the magic seal. You 
+wander if you should disturb him.
+~
+122882 1192 -800 E
+35 2 -2 17d5+800 2d20+20
+10000 -900
+6 6 0
+BareHandAttack: 8
+Race: 18
+Attacks: 4
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+E
+>rand_prog 15~
+growl
+~
+>death_prog 100~
+say You have beaten me. 
+mpecho With his last bit of strength, sealer makes some magical gestures.
+mpecho The seal breaks, and you fall down the shaft.
+mptransfer all 12113
+~
+|
+#12015
+unbeliever~
+Unbeliever~
+Unbeliever is here, petrified from horrible pains.
+~
+You see a tortured soul that suffers it's sins of the mortal world. You
+wander if you should ease it's suffering.
+~
+132 0 -200 E
+31 4 -6 2d1+672 16d2+10
+500 -500
+6 6 1
+Class: 2
+E
+>greet_prog 20~
+say Save me, please!
+weep
+~
+|
+#12016
+eaten soul~
+Eaten soul~
+Strange vivid form dances around.
+~
+This soul looks like it was half eaten.
+~
+1310720 4228096 -200 E
+33 6 -12 1d4+552 3d10+40
+500 -700
+8 8 0
+BareHandAttack: 12
+Race: 10
+Attacks: 3
+E
+#12017
+burned soul~
+Burned soul~
+Ethereal form is flying around and it is burning.
+~
+You see a translucent soul that is burning. You fear that you could catch
+fire from it.
+~
+1311744 541099008 -200 E
+34 10 1 1d4+550 7d4+20
+500 -700
+8 8 0
+BareHandAttack: 12
+Race: 10
+Attacks: 3
+E
+#12018
+tortured soul~
+Tortured soul~
+Tortured soul is flying around here.
+~
+You see a pathetic looking soul. It is torn apart by some beasts huge claws.
+~
+1312768 4228096 -600 E
+34 7 -15 2d10+630 2d10+30
+1000 -1000
+8 8 0
+BareHandAttack: 10
+Race: 10
+Attacks: 4
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+E
+#12019
+lawyer~
+Lawyer~
+Lawyer is here looking busy.
+~
+You see the dirty, swindling, lawyer. His neatness in this horrifying place
+makes you sick.
+~
+2097284 1064 -600 E
+34 2 -8 4d2+802 5d15+14
+1000 -950
+8 8 1
+E
+>greet_prog 30~
+say Hi. Here's my card. Call me.
+~
+>rand_prog 30~
+say I only charge 5000 an hour.
+~
+|
+#12020
+trance tranceweaver~
+Tranceweaver~
+Tranceweaver is here, weaving his trances.
+~
+You see a very shady character. He weaves a trance by a trance. They affect
+you as they pass trough you head.
+~
+1108992 1192 -800 E
+37 0 -10 4d12+1046 2d10+45
+15000 -5000
+8 8 1
+BareHandAttack: 9
+Race: 15
+Class: 2
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+E
+>greet_prog 10~
+grin
+~
+|
+#12021
+bloody torturer~
+Bloody torturer~
+Bloody torturer is here torturing everybody.
+~
+You see a stout looking demon, packed with muscles. He looks very scary.
+Instead of claws, he has cleavers on his arms.
+~
+32 1064 -800 E
+37 5 -12 10d2+896 2d15+32
+1000 -1500
+8 8 0
+BareHandAttack: 3
+Race: 18
+Attacks: 4
+Str: 18
+Dex: 15
+Int: 18
+Wis: 15
+E
+#12022
+rotten~
+Rotten~
+Rotten is here stinking like a corpse
+~
+This creature probably died long time ago. His flesh has dark brown, sick
+color and it stinks a mile away. As he walks his flesh falls to the ground
+in large peace's.
+~
+294932 8 -500 E
+33 1 -3 3d10+600 7d5+35
+800 -1200
+8 8 1
+BareHandAttack: 9
+Race: 13
+Attacks: 3
+Str: 15
+Dex: 11
+Int: 15
+Wis: 14
+E
+>rand_prog 10~
+grin
+~
+|
+#12023
+sealer third demon~
+The third sealer~
+The third sealer is here, guarding a seal.
+~
+You see a medium sized demon. He sits patiently beside the magic seal. You 
+wander if you should disturb him.
+~
+122882 1192 -800 E
+37 3 -9 17d5+943 2d20+13
+10000 -900
+6 6 0
+BareHandAttack: 8
+Race: 18
+Attacks: 4
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+E
+>rand_prog 15~
+growl
+~
+>death_prog 100~
+say You have beaten me. 
+mpecho With his last bit of strength, sealer makes some magical gestures.
+mpecho The seal breaks, and you fall down the shaft.
+mptransfer all 12210
+~
+|
+#12024
+brains~
+Brains~
+Strange form that resembles human brain stands here.
+~
+Brains is a mutated human brain. It has no hands or feet, but he appears to
+be very smart.
+~
+2052 2 -200 E
+32 3 -10 6d2+849 6d3+31
+1000 -1300
+6 6 2
+BareHandAttack: 7
+Race: 20
+Attacks: 3
+Dex: 18
+Int: 20
+Wis: 20
+E
+>rand_prog 5~
+say Tomorrow... I shall take over the world!!!
+~
+|
+#12025
+skeletal warrior~
+Skeletal warrior~
+A skeletal warrior wanders the planes of hive.
+~
+Rotting flesh and gore drops from the bones of this creature. Its decaying
+eyes stare at you intently as it sees only you delicious and juicy brain.
+~
+2097204 1032 -500 E
+36 1 -7 13d3+945 5d2+40
+400 -1300
+8 8 0
+Race: 13
+Attacks: 4
+E
+#12026
+tzn~
+Tzn~
+Tzn is here watching for stolen souls.
+~
+You see a rather large and dangerous looking tzn. You should watch your back.
+~
+2605568 1192 -200 E
+37 3 -8 42d22+413 3d4+32
+1000 -1300
+8 8 0
+BareHandAttack: 1
+Race: 17
+Attacks: 2
+Str: 15
+Int: 15
+E
+#12027
+bzocna~
+Bzocna~
+Bzocna walks around here, searching for someone to bite.
+~
+This creature bites very hard. When it bites you it sends your soul to 
+hyperspace.
+~
+43056 128 -400 E
+37 2 -10 2d12+900 6d8+55
+2000 -1600
+8 8 2
+Race: 17
+Class: 256
+Attacks: 3
+Str: 15
+Int: 15
+E
+#12029
+major demon~
+Major demon~
+A major demon lurks about here.
+~
+You look deep into the eyes of the beast.  You sense no absolutely no
+intellect, only raw power and rage. But you doubt that he is major after
+all.
+~
+7184 1152 -800 E
+40 2 -8 15d4+956 4d15+34
+1800 -2000
+8 8 1
+Race: 18
+Attacks: 4
+E
+#12030
+sealer fourth demon~
+The fourth sealer~
+The fourth sealer is here, guarding a seal.
+~
+You see a medium sized demon. He sits patiently beside the magic seal. You 
+wander if you should disturb him.
+~
+122882 1192 -800 E
+40 3 -9 17d5+943 2d20+13
+10000 -900
+6 6 0
+BareHandAttack: 8
+Race: 18
+Attacks: 4
+Str: 16
+Dex: 15
+Int: 16
+Wis: 15
+E
+>rand_prog 15~
+growl
+~
+>death_prog 100~
+say You have beaten me. 
+mpecho With his last bit of strength, sealer makes some magical gestures.
+mpecho The seal breaks, and you fall down the shaft.
+mptransfer all 12301
+~
+|
+#12031
+guard demon~
+Guardian demon~
+A medium sized guardian demon is here, looking for disorder.
+~
+You see before you a horrifying beast. This demon is twice taller than you.
+It's teeth are soaked with blood, and from his eyes an horrifying glow chills
+your spine. His huge bat-shaped wings are folded behind him.
+~
+2103360 1192 -400 E
+41 -1 -10 5d3+1205 2d6+38
+5000 -100
+8 8 0
+BareHandAttack: 8
+Attacks: 5
+Str: 18
+Dex: 17
+Int: 16
+Wis: 18
+E
+>act_prog p utters the words~
+if rand(30)
+if level($n) <= 30
+   slap $n
+   if isgood($n)
+      say I hate that magic stuff.
+      growl
+   else
+      say Don't try any tricks on me!
+   endif
+else
+grin
+say You know I hate casting.
+kill $n
+break
+endif
+endif     
+~
+>greet_prog 10~
+mpechoaround $n $I looks at $n vith rage in it's eyes.
+mpechoat $n $I stares at you with hungry look.
+~
+>rand_prog 20~
+emote mumbles: 'Adonyago arsto satyr!!!'
+~
+|
+#12032
+wall living~
+The living wall~
+A wall stands here. Its surface seems to move and come to life...
+~
+The wall consist of graying and sinewy flesh - faces, hands, broken bones,
+feet, and toes jutting from the surface. You hear low moans of horror, pain,
+and sorrow issuing from the walls.
+~
+69460482 0 -600 E
+32 2 -8 0d0+896 0d0+32
+1000 -500
+8 8 0
+BareHandAttack: 5
+Race: 14
+Class: 256
+Attacks: 3
+Str: 15
+Dex: 15
+E
+>greet_prog 30~
+mpecho As you approach the wall, many hands reach out and try to grab you!!!
+mpecho You jump away, in fear!
+~
+>rand_prog 10~
+mpecho You hear distant screams from within the wall!!!
+~
+|
+#12033
+Torturer~
+Torturer~
+Torturer stands here, whip and red hot iron in his hands.
+~
+You are disgusted as you see this awful individual. He has sadistic look 
+on his face, and he is ready for his work.
+~
+2099220 128 -800 E
+35 2 -10 0d0+1046 0d0+35
+1000 -3000
+8 8 1
+Race: 1
+E
+#12034
+Redeemer~
+Redeemer~
+Redeemer wanders through this halls in an hopeless attempt to escape.
+~
+This poor and pathetic looking being looks completely redeemed. But there
+is no escape from this place and he is doomed to wander these halls for
+eternity.
+~
+4194304 0 0 E
+31 4 -8 12d20+723 3d6+21
+0 -100
+8 8 1
+E
+#12035
+Sufferer~
+Sufferer~
+Sufferer is here, suffering.
+~
+You see a humanoid form in severe pain. He crawls on the floor trying to
+escape his torture.
+~
+2097284 0 0 E
+31 2 -8 0d0+849 0d0+31
+0 -100
+8 8 1
+E
+#12036
+Firestorm~
+Firestorm~
+Some strange ethereal form made out of fire dances around the room.
+~
+This ghostly apparition is made out of flames. Better be careful or you could
+catch it's flames.
+~
+2048 541066280 0 E
+35 0 -10 0d0+1046 0d0+35
+0 -100
+8 8 1
+BareHandAttack: 12
+Race: 10
+Class: 1
+E
+#12037
+fire demon~
+Fire demon~
+Strange demonic form is in the flames.
+~
+This demon is made out of fire. You can barely see him in this flames, as he
+blends in the surroundings.
+~
+3120 536872104 0 E
+40 0 -11 0d0+1046 0d0+35
+0 -100
+8 8 1
+BareHandAttack: 9
+Race: 18
+Attacks: 4
+Str: 16
+Dex: 9
+Int: 7
+Wis: 7
+E
+#12038
+water Demon~
+Water demon~
+Strange demonic form dances in the whirlpool.
+~
+You see a genuine water demon. His form is made out of sea weed and many 
+whirlpools.
+~
+4196384 33920 0 E
+41 1 -10 0d0+1098 0d0+36
+0 -100
+8 8 1
+BareHandAttack: 10
+Race: 18
+Attacks: 4
+Str: 15
+Dex: 11
+Int: 8
+Wis: 8
+E
+#12039
+Pyros~
+Pyros~
+Titanic form that is bursting in flames sits here.
+~
+This is Pyros, notorious fire titan. As you approach him he lowers his head to
+look at you. You feel intense heat emanating from his eyes.
+~
+4252694 536872064 0 E
+55 0 -12 0d0+1263 0d0+39
+0 -100
+8 8 1
+Race: 16
+Attacks: 5
+E
+#12040
+Aquos~
+Aquos~
+Large, titanic form sits under the waterfall.
+~
+This is Aquos, a water titan. He sits motionless as huge waterfall makes his 
+body features visible. But no water ever reaches the floor. It evaporates
+from great heat, generated by Aquos's presence.
+~
+6406182 -2013264768 0 E
+56 -2 -12 0d0+1263 0d0+39
+0 -100
+8 8 1
+Race: 16
+Attacks: 5
+E
+#12041
+Fifth sealer~
+The fifth sealer~
+The fifth sealer is here, guarding a seal.
+~
+You see a medium sized demon. He sits patiently beside the magic seal. You 
+wander if you should disturb him.
+~
+122882 1192 -800 E
+42 0 -10 0d0+1206 0d0+38
+10000 -5000
+6 6 1
+Race: 18
+E
+>rand_prog 15~
+growl
+~
+>death_prog 100~
+say You have beaten me. 
+mpecho With his last bit of strength, sealer makes some magical gestures.
+mpecho The seal breaks, and you fall down the shaft.
+mptransfer all 12401
+~
+|
+#12042
+Sky stealer~
+Sky stealer~
+A strange demon is here, reaching for the skies.
+~
+This demon is very tall, it looks stretched from his reaching. His hands
+are up, and he stands on his toes, like he is trying to reach the heavens
+from which he was casted out.
+~
+2048 4195368 -600 E
+37 0 -10 0d0+1152 0d0+37
+0 -2000
+8 8 1
+Race: 18
+E
+#12043
+Earth demon~
+Earth demon~
+A very big pile of earth is heaped here.
+~
+This pile of dirt is in fact MOVING! As you look better you recognize a
+shape of a demon in it.
+~
+2100 263200 -600 E
+42 0 -9 0d0+1046 0d0+35
+5000 -3000
+8 8 1
+Race: 18
+E
+#12044
+shadow demons~
+Shadow demons~
+A amorphous demonlike form dances around.
+~
+You see a pair of translucent, non-corporeal, plane shifting shadow demons. 
+Their forms are interconnected and they act as one.
+~
+3278880 1064 -600 E
+41 0 -9 0d0+1046 0d0+35
+0 -140
+8 8 1
+Race: 18
+Class: 1
+E
+#12045
+stalker night invisible~
+Night Stalker~
+You see strange invisible form in the air.
+~
+Before you is an invisible night stalker. His form is ethereal but scary.
+You fear of his dreaded death gaze.
+~
+3538948 42 -600 E
+43 -1 -11 0d0+1206 0d0+38
+0 -100
+8 8 1
+Race: 10
+Class: 64
+E
+#12046
+Sixth sealer~
+The sixth sealer~
+The sixth sealer is here, guarding a seal.
+~
+You see a medium sized demon. He sits patiently beside the magic seal. You 
+wander if you should disturb him.
+~
+122882 1192 -800 E
+44 -2 -12 0d0+1320 0d0+40
+10000 -5000
+6 6 1
+Race: 18
+E
+>rand_prog 15~
+growl
+~
+>death_prog 100~
+say You have beaten me. 
+mpecho With his last bit of strength, sealer makes some magical gestures.
+mpecho The seal breaks, and you fall down the shaft.
+mptransfer all 12501
+~
+|
+#12047
+Large Divil~
+Large Divil~
+Quite large demon walks around here.
+~
+This demon seems to be a big brother of the smaller demon you saw earlier.
+And he doesn't seem to be the type to joke with.
+~
+70656 0 -600 E
+45 -2 -12 0d0+1263 0d0+39
+500 -200
+8 8 1
+Race: 18
+E
+#12048
+Steps guardian demon~
+Steps guardian~
+Guardian of steps is here, looking your way.
+~
+You see a demon with humongous wings that are twice as big as his body. His
+wings are neatly folded behind him. But his body is not that small as well.
+He is sitting on the steps, making very small room for you to pass.
+~
+196640 4195368 -800 E
+47 -2 -12 0d0+1320 0d0+40
+100 -160
+6 6 1
+Race: 18
+E
+#12049
+hound hive~
+Hive hound~
+A large hive hound is here breathing fire.
+~
+This hound is the pure apparition of chaos and evil. His skin is covered in
+red scales and his eyes are as fiery as his dreaded fire gaze.
+~
+2064 536871976 -400 E
+43 -1 -10 0d0+1206 0d0+38
+0 -100
+8 8 1
+BareHandAttack: 8
+Race: 15
+Class: 1
+E
+#12050
+Large wisp~
+Large wisp~
+Large insectoid form is flying in the air.
+~
+You only see a blur and hear large buzzing. But it seems that this insectoid
+creature is as big as you and his sting looks like it could kill you on the 
+spot. Better watch out.
+~
+32 4194304 -400 E
+40 -2 -11 0d0+1320 0d0+40
+0 -120
+8 8 1
+BareHandAttack: 1
+Race: 17
+E
+#12051
+seventh sealer~
+The seventh sealer~
+The seventh sealer is here, guarding a seal.
+~
+You see a large demon. He sits patiently beside the magic seal. You 
+wander if you should disturb him.
+~
+122882 1192 -800 E
+48 -2 -12 0d0+1438 0d0+42
+10000 -5000
+6 6 1
+Race: 18
+E
+>rand_prog 15~
+growl
+~
+>death_prog 100~
+say You have beaten me. 
+mpecho With his last bit of strength, sealer makes some magical gestures.
+mpecho The seal breaks, and you fall down the shaft.
+mptransfer all 12601
+~
+|
+#12052
+Large guardian demon~
+Large guardian demon~
+A large guardian demon is here, looking for disorder.
+~
+You see before you a horrifying beast. This demon is three times taller than 
+you. It's teeth are soaked with blood, and from his eyes an horrifying glow 
+chills your spine. His huge bat-shaped wings are folded behind him.
+~
+2103360 1192 0 E
+49 -4 -15 0d0+1824 0d0+48
+0 -100
+8 8 1
+Race: 18
+Attacks: 5
+E
+#12053
+ssra snake demon~
+Ssra~
+A snakelike demon is hissing here.
+~
+You see a demon with a snake-like body. It has no arms or legs, but his teeth 
+look like they can give you a nasty poisonous bite. As you look at it's eyes 
+you feel like you are hypnotized.
+~
+2080 262144 -600 E
+43 -4 -13 0d0+1500 0d0+43
+100 -140
+8 8 1
+BareHandAttack: 4
+Race: 15
+Class: 1
+Attacks: 2
+E
+#12054
+Chained angel~
+Chained angel~
+An angel descended from heaven is chained to the wall here.
+~
+You see one very pathetic looking angel. His robes are torn and bloody, and
+his wings look as if they were burned. Once proud entity of light is now
+humiliated and beaten. But still... his essence radiates an aura of goodness
+and pure light.
+~
+253954 1107297448 800 E
+55 -2 -12 0d0+1438 0d0+42
+500000 -200
+6 6 1
+BareHandAttack: 6
+Class: 1
+Attacks: 4
+E
+#12055
+demonmage~
+Demonmage~
+A demon in a long hooded robe is here mumbling magical phrases.
+~
+This demon looks as if he is very experienced in magic. His robes are lined
+with gold thread continuing to form some strange mystical runes on his back.
+~
+2048 33555624 -800 E
+46 -3 -13 0d0+1562 0d0+44
+1000 -160
+8 8 1
+BareHandAttack: 8
+Race: 18
+Class: 1
+E
+#12056
+Eight sealer~
+The eight sealer~
+The eight sealer is here, guarding a seal.
+~
+You see a large demon. He sits patiently beside the magic seal. You 
+wander if you should disturb him.
+~
+122882 1192 -800 E
+50 -4 -13 0d0+1562 0d0+44
+100000 -8000
+6 6 1
+Race: 18
+E
+>rand_prog 15~
+growl
+~
+>death_prog 100~
+say You have beaten me. 
+mpecho With his last bit of strength, sealer makes some magical gestures.
+mpecho The seal breaks, and you fall down the shaft.
+mptransfer all 12701
+~
+|
+#12057
+Beelzebub~
+Beelzebub~
+A huge demon packed with muscles is here growling at you.
+~
+You see a big, almost 8 feet tall demon that looks like a very strong one.
+But you see from his small eyes that the intelligence is not his best side.
+~
+67616 128 0 E
+44 -4 -13 0d0+1562 0d0+44
+0 -100
+8 8 1
+Race: 18
+E
+#12058
+Pope~
+Pope~
+The pope is here, paying for his sins.
+~
+You see the pope... one of many here at Hive. His sins made him feel like at
+home here.
+~
+67108868 128 0 E
+41 0 -12 0d0+1379 0d0+41
+0 -100
+8 8 1
+BareHandAttack: 6
+Race: 0
+Class: 256
+E
+#12059
+Nazi~
+Nazi~
+The important looking Nazi is here, yelling something in German.
+~
+You see a full geared Gestapo, SS or what the hive he is... His black uniform
+is full of medals and swastikas. Hi waves his whip and yells something you
+don't understand.
+~
+2208 0 0 E
+45 -2 -14 0d0+1626 0d0+45
+0 -100
+8 8 1
+BareHandAttack: 2
+Race: 0
+E
+#12060
+Archdemon~
+Archdemon~
+Archdemon is here blocking your way.
+~
+You see an Archdemon of Hive. He is the top guy on this level. You better
+don't make him mad.
+~
+2097152 268435496 -800 E
+50 -5 -15 0d0+1824 0d0+48
+50000 -180
+8 8 1
+E
+#12061
+president~
+President~
+You see an important looking figure here.
+~
+This looks like a president of some kind. He looks sleazy and evil, but one 
+thing is for sure... You know you haven't voted for this guy.
+~
+128 0 -600 E
+47 -4 -15 0d0+1757 0d0+47
+100000 -120
+8 8 1
+E
+#12062
+gerion~
+Gerion~
+Gerion, a two-headed guard dog of Hive is here madly barking.
+~
+You see huge black scaled dog of Hive. His two heads are barking in sync at
+you. Dark foam is gushing from his mouth as you fear even to approach this
+creature.
+~
+190516 134218920 -1000 E
+55 -6 -16 0d0+1757 0d0+47
+50000 -100
+8 8 1
+E
+#12063
+Ninth sealer~
+The ninth sealer~
+The ninth sealer is here, guarding a seal.
+~
+You see a huge demon. He sits patiently beside the magic seal. You 
+wander if you should disturb him.
+~
+122882 1192 -800 E
+55 -3 -14 0d0+1690 0d0+46
+1000000 -10000
+6 6 1
+E
+>rand_prog 15~
+growl
+~
+>death_prog 100~
+say You have beaten me. 
+mpecho With his last bit of strength, sealer makes some magical gestures.
+mpecho The seal breaks, and you fall down the shaft.
+mptransfer all 12801
+~
+|
+#12064
+fallen angel~
+Fallen Angel~
+An angel that has betrayed the heavens is here.
+~
+You see once proud creature of light... now a dark angel of Hive. His only 
+purpose now is to guard the final circle.
+~
+69210144 1073744040 -1000 E
+52 -6 -17 0d0+2106 0d0+52
+100000 -100
+8 8 1
+E
+#12065
+Kraken~
+Kraken~
+Humongous titan is bursting out of lava.
+~
+You see Kraken, a large and last titan. His form bursts out of lava as he
+looks at your way with an indifference.
+~
+69463058 128 -1000 E
+62 -9 -20 1d1+5300 0d0+55
+200000 -200
+8 8 1
+Race: 16
+Class: 256
+E
+#12066
+demon lord~
+Demon Lord~
+Demon Lord, ruler of all Hive is sitting on his throne here.
+~
+Before you is the lord of all evil... the ruler of Demon Hive himself. He is
+big as a house, almost 20 feet tall. You shiver as you look into his eyes,
+which are consuming you with coldness.
+~
+6547506 1744831656 -1000 E
+72 -17 -28 1d1+6666 1d1+71
+2000000 -200
+6 6 1
+Race: 18
+E
+>fight_prog 40~
+mpecho $I starts to BURN!!! His skin starts to shine very bright!!!
+mpecho $I growls and ROARS, 'AAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRGHHHH!!!!'
+mpecho You shiver in fear as glowing pentagram appears on the ground...
+mpecho ...a large demon jumps out of it and assists the $I!!!
+mpmload 12067
+~
+>death_prog 100~
+mpasound You hear a horrible ROAR of pain!!!
+shout AAAAAAAAARGGHHHHHH!!! I am beaten!!!
+~
+|
+#12067
+demon summoned~
+the summoned demon~
+The large summoned demon is here.
+~
+You see a large magically summoned demon here. His aura is red and pulsating
+with a great rage.
+~
+266274 1064 -800 E
+40 0 0 1d1+2000 2d20+20
+0 -100
+8 8 0
+BareHandAttack: 8
+Race: 18
+Attacks: 4
+E
+>fight_prog 20~
+mpecho $I roars with rage, 'UUUUUAAAAAAAAAAARRRRGGGGHHHHHHH!!!'
+~
+>death_prog 100~
+mpecho $I cries and disappears in the ground!!!
+~
+|
+$

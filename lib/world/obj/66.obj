@@ -1,0 +1,1731 @@
+#6600
+noose death~
+a noose~
+A bit of sinister-looking coiled rope is lying here.~
+~
+11 128 5
+0 0 0 0
+3 30 10
+E
+noose~
+Its a thick rope coiled into a fatal knot. Feeling like suicide today?
+~
+A
+13 -5
+#6601
+kaleidoscope light~
+a kaleidoscope~
+A kaleidoscope is lying here.~
+~
+1 0 16385
+0 0 -1 0
+2 60 10
+E
+kaleidoscope~
+It's a tiny thing, and brightly colored. While showing you a fantasy
+swirl of colors away from Mirror|rorriM Mud, here it shows you the 
+~
+A
+18 1
+#6602
+tunic gold~
+a frayed golden tunic~
+A frayed golden tunic lies crumpled here.~
+~
+9 0 9
+3 0 0 0
+2 30 10
+E
+tunic gold~
+It's thin and frayed at more than just the seams. Since you have been
+wearing this your whole life before entering your discipline, it may
+be time for an improvement.
+~
+#6603
+black leggings pants~
+a pair of black leggings~
+A pair of black leggings has been left here.~
+~
+11 0 33
+0 0 0 0
+1 15 10
+E
+leggings black~
+They are pitch black and merely a thin covering.
+~
+A
+17 -3
+#6604
+boots leather~
+old leather boots~
+A pair of old leather boots are here.~
+~
+11 0 65
+0 0 0 0
+2 10 10
+E
+boots leather~
+They are close to wearing holes at the toes and the heels.
+~
+A
+17 -2
+#6605
+dagger black~
+a small black dagger~
+A tiny black dagger has been left here.~
+~
+5 0 8193
+0 1 4 11
+1 20 10
+E
+dagger black~
+This tiny dagger serves well for around town and the neighboring village.
+The blade, however, is small and dull.
+~
+#6606
+staff gnarled~
+a gnarled staff~
+A thin gnarled staff has been dropped here.~
+~
+5 0 8193
+0 1 4 7
+2 20 10
+E
+staff gnarled~
+The staff is carved from holly wood, and serves well for around town
+and the neighboring village. You might want to consider a stronger
+weapon as time goes by, however.
+~
+#6607
+mace iron~
+an iron mace~
+An iron mace is lying here.~
+~
+5 0 8193
+0 1 4 5
+2 20 10
+E
+mace iron~
+It is wrought from strong iron, but small and slightly rusty.
+It serves well for around town and the neighboring village, but
+as time goes by you might want to consider trying something heavier.
+~
+#6608
+sword short~
+a short sword~
+A short sword is lying on the ground.~
+~
+5 0 8193
+0 1 4 3
+2 20 10
+E
+sword short~
+The blade is dull, but it serves well for around town and the neighboring
+village.
+~
+#6609
+candelabra candle~
+a candelabra~
+A candelabra glows dimly with a golden light.~
+~
+1 0 16384
+0 0 -1 0
+7 10 10
+E
+candelabra candle~
+Thirty tiny black candles shine with a golden glow. At the base is an
+engraving of one circle partially obscured by another.
+~
+#6610
+fountain water marble black~
+a black marble fountain~
+A black marble fountain flows with a clear water.~
+~
+23 0 0
+-1 -1 0 0
+200 10 10
+E
+fountain marble black~
+The circular fountain is carved from black marble from the mines below
+the town. The water inside looks sweet to drink.
+~
+#6611
+axe severance~
+the axe of severance~
+A bloody axe has been left here.~
+~
+5 12288 8193
+0 3 4 15
+10 1000 10
+E
+axe severance~
+This massive weapon takes much of your strength to carry. It would
+like to kill again, for the blood of the last victim has just dried
+on the blade.
+~
+A
+18 -1
+A
+19 2
+#6612
+gold vault pile atm~
+a huge pile of gold~
+A huge pile of gold is guarded by a magical force.~
+~
+12 0 0
+0 0 0 0
+30 10 10
+E
+gold vault pile~
+This is the treasury of Sundhaven. It is, of course, guarded by 
+a magical protective shield against greedy intruders.
+~
+#6613
+quesadilla food~
+a quesadilla~
+A quesadilla is here, hot and steaming.~
+~
+19 0 1
+10 0 0 0
+1 21 10
+E
+quesadilla~
+It looks deliciously hot and spicy, a Maynards specialty!
+~
+#6614
+brewer coffee drink~
+a coffee brewer~
+A coffee brewer purcolates in the corner of the room.~
+~
+15 0 0
+20 0 -1 0
+5 10 10
+E
+brewer coffee~
+The smells of brewing coffee coming from this rouse you from any numb-
+mindedness and cause your mouth to water.
+~
+#6615
+rose gold black~
+a golden rose with black leaves and stem~
+A golden rose with leaves and stem of black is growing here.~
+~
+11 0 16385
+0 0 0 0
+1 10 10
+E
+rose golden~
+A dark stem crowned with golden petals, it smells of warm summer winds.
+~
+#6616
+iced cappuccino drink~
+an iced cappuccino~
+A foamy iced cappuccino is sitting here.~
+~
+17 0 1
+3 3 12 0
+8 15 10
+E
+iced cappuccino~
+A clear glass is filled with ice, espresso, steamed milk and milk foam.
+It looks irresistable.
+~
+#6617
+irish cream latte drink~
+an irish cream latte~
+A hot latte is sitting here.~
+~
+17 0 1
+5 5 12 0
+10 18 10
+E
+irish cream latte~
+It's a tall glass of high-caffeine espresso, steamed milk, milk foam, and
+irish cream. Mmmm!
+~
+#6618
+coffee black cup drink~
+a black cup~
+A black cup of coffee rests here.~
+~
+17 0 1
+3 3 12 0
+8 7 1
+E
+coffee cup~
+Who doesn't need one of these now and then?
+How about very often?
+~
+#6619
+tea cup drink~
+a hot cup~
+A cup of hot tea is resting here.~
+~
+17 0 1
+3 3 11 0
+8 11 10
+E
+tea cup~
+It comes in a slightly ornamented porceline cup, and looks to be brewed
+mostly of chamomile.
+~
+#6620
+rogue brew drink~
+a rogue's brew~
+The mascot brew of the assassins guild is resting here.~
+~
+17 0 1
+7 7 4 0
+12 20 10
+E
+rogue brew~
+It comes in a tall pewter flask engraved with a black naga.
+~
+#6621
+special black adder drink~
+the black adder special~
+A black metal flask is sitting here.~
+~
+17 2 1
+1 1 8 1
+1 25 10
+E
+special black adder~
+A black metal flask engraved with a coiled snake and filled with dark
+ale that looks very inviting.
+~
+#6622
+whisky shot drink~
+a shot~
+A shot of whisky emits an alluring scent from the ground.~
+~
+17 0 1
+1 1 5 0
+1 20 10
+E
+whisky shot~
+The scent stings your nose pleasantly.
+~
+#6623
+victim sandwich food~
+a victim sandwich~
+The specialty sandwich of the Nightbreak Cafe is sitting here.~
+~
+19 0 1
+25 0 0 0
+2 30 10
+E
+victim sandwich~
+What does the assassins guild do with all those corpses left over from
+a day's work? Well, now you know.
+~
+#6624
+fire firebreather mug flames drink~
+a black mug filled with leaping flames~
+A large black mug rimming with flames sits here.~
+~
+17 0 1
+10 10 7 0
+15 66 10
+E
+mug fire firebreather flames~
+You see a wide, black mug filled with liquid of a fiery color. The side
+is engraved with a roaring dragon.
+~
+#6625
+mug cold beer drink~
+a cold mug~
+The air is condensing on a cold mug of beer.~
+~
+17 0 1
+3 3 1 0
+8 10 10
+E
+mug beer cold~
+It's a cold pewter mug, dented from being banged on tables repeatedly.
+~
+#6626
+glass black blood drink~
+a black glass~
+Blood is spilling slowly from a black glass overturned here.~
+~
+17 0 1
+15 15 13 0
+20 17 10
+E
+glass black blood~
+A tall glass black as coal and filled with the blood of some
+recent victim of the Assassins Guild.
+~
+#6627
+flask wine leather drink~
+a leather flask~
+A flask of red wine has been dropped here.~
+~
+17 0 1
+4 4 2 0
+9 20 10
+E
+wine flask~
+The flask is grey and filled, or once filled, perhaps, with red wine.
+~
+#6628
+roast rabbit food~
+a rabbit roast~
+A tasty-looking roast is lying here.~
+~
+19 0 1
+12 0 0 0
+2 14 10
+E
+roast rabbit~
+Its a savory garlic rabbit roast.
+~
+#6629
+stew dragon pot food~
+a pot of dragon stew~
+A pot of delicious stew is steaming away.~
+~
+19 0 1
+40 0 0 0
+8 55 10
+E
+stew dragon pot~
+You see a small black cauldron of steaming meat stew. The few scales
+remaining tell you this was once a breathing dragon. Despite its
+grisly appearance, it smells delicious.
+~
+#6630
+bread rye food~
+a rye bread~
+A bread baked from rye is sitting here.~
+~
+19 0 1
+12 0 0 0
+2 11 10
+E
+bread rye~
+Its a round bread dotted with black rye. It smells good to eat.
+~
+#6631
+cake saffron food~
+a cake baked from wild saffron~
+A cake baked from wild saffron is resting at your feet.~
+~
+19 0 1
+25 0 0 0
+3 20 10
+E
+cake saffron~
+You see a round tan-colored cake, still hot from the oven.
+~
+#6632
+pastry blackberry food~
+a blackberry pastry~
+A sticky black pastry is sitting here.~
+~
+19 0 1
+6 0 0 0
+1 15 10
+E
+pastry blackberry~
+Its sticky with sugar and looks delicious. Hobbit specialty.
+~
+#6633
+dish pad tai food~
+a dish of pad tai~
+A spicy dish of Thai food is sitting here.~
+~
+19 0 1
+12 0 0 0
+2 20 0
+E
+dish pad tai~
+The plate is hot to the touch, and the mixture of noodles and vegetables
+look spicy and delicious.
+~
+#6634
+sack leather deer~
+a sack of deer leather~
+A strapped leather sack has been left here.~
+~
+15 0 32769
+70 1 -1 0
+5 25 10
+E
+sack deer leather~
+The hardy deer leather sack has straps to allow slinging over the 
+shoulder.
+~
+A
+17 -2
+#6635
+torch light~
+a torch~
+A torch is lying on the ground.~
+~
+1 0 16385
+0 0 25 0
+1 5 1
+E
+torch light~
+Its a short, wooden torch. It's um, flammable.
+~
+#6636
+quill black pen~
+a black feather quill~
+A black inky feather is lying nearby.~
+~
+21 0 16385
+0 0 0 0
+1 13 10
+E
+quill black feather~
+A slender dark feather rises from an ink pen.
+~
+#6637
+paper~
+a piece of paper~
+A piece of paper is fluttering in the wind.~
+~
+16 0 1
+0 0 0 0
+1 12 10
+#6638
+lamp copper light~
+a copper lamp~
+A lamp glints copper in the faint light.~
+~
+1 0 16385
+0 0 60 0
+2 20 10
+E
+lamp copper~
+It's a small, dented lamp, forged from copper.
+~
+#6639
+sword quartz~
+a sword of quartz hilt~
+A sword with a pale quartz hilt has been left here.~
+~
+5 0 8193
+0 1 6 3
+8 550 10
+E
+sword quartz~
+You see a long, slender-tapered sword with a carved hilt of white quartz.
+~
+A
+18 1
+#6640
+dagger crescent mithril~
+a mithril dagger~
+A dagger with a blade curved like a crescent is lying here.~
+~
+5 0 8193
+0 1 6 11
+3 535 10
+E
+dagger crescent mithril~
+It's a silver-colored dagger, with a crescent-like blade.
+~
+A
+18 1
+#6641
+mace fire~
+a fire-headed mace~
+Still hot from the forge, a mace burns a black space on the ground.~
+~
+5 0 8193
+0 1 6 5
+5 545 10
+E
+mace fire~
+The barbed head of the mace is still hot from the forge, and crafted
+to look like the rising spikes of flames.
+~
+A
+18 1
+#6642
+staff rock crystal~
+a rock crystal staff~
+A staff crowned with a cloudy crystal is lying here.~
+~
+5 0 8193
+0 1 6 6
+4 540 10
+E
+staff rock crystal~
+A slender staff, carved from ash and embedded with a cloudy crystal
+at the head.
+~
+A
+18 1
+#6643
+shield black sandstone~
+a black sandstone shield~
+A dark sandstone plate is lying here.~
+~
+9 0 513
+5 0 0 0
+6 400 10
+E
+shield black sandstone~
+Molded from local black cliff sandstone and laquered with a special
+varnish for strength, this makes a sturdy shield.
+~
+#6644
+tunic golden guard~
+a guard's golden tunic~
+A tunic of dark gold is crumpled here.~
+~
+9 0 9
+4 0 0 0
+4 158 10
+E
+tunic golden~
+The guard's tunic is made of a sturdy, canvas-like material.
+~
+#6645
+boots black~
+sturdy black boots~
+A pair of sturdy black boots lie scattered on the ground.~
+~
+9 0 65
+3 0 0 0
+3 200 10
+E
+boots black~
+They are made from heavy black leather, and make a small clump-clump
+sound when walking in them.
+~
+#6646
+sword broadsword silver~
+a silver broadsword~
+A silver, straight-edge sword has been left here.~
+~
+5 64 8193
+0 1 7 3
+10 770 10
+E
+sword broadsword silver~
+You see a silver sword with a straight, tapering blade, forged by the
+town magicians from the cliff metal and winds for the guards that defend
+the city.
+~
+#6647
+marbles set~
+a set of marbles~
+Red, purple and black marbles are set up in a circular game.~
+~
+13 0 16385
+0 0 0 0
+1 14 10
+E
+marbles set~
+Twenty-two marbles of red, purple and black comprise a set used commonly
+for games such as 'Lick the dragon', 'Addiction' and 'Dodge the imp',
+popular among human youths. Set on the ground, the rolling marbles
+become slippery.
+~
+#6648
+chess board set glass~
+a glass chessboard~
+A black and rose glass chessboard is set up in mid-game.~
+~
+8 0 16385
+0 0 0 0
+4 1500 10
+E
+chess board glass~
+The board and pieces are carved from black and light rose glass. It's
+hard to say who is winning, but the sacrifices are high.
+~
+#6649
+ribbon velvet~
+a velvet ribbon~
+A dark velvet ribbon is coiled here.~
+~
+11 0 17
+0 0 0 0
+1 30 10
+E
+ribbon velvet~
+It's a ribbon of soft dark velvet of finest quality.. whoever's this is
+is probably a rich merchant's daughter or the like.
+~
+A
+12 10
+#6650
+dagger shattered~
+a shattered dagger~
+Something that used to be a dagger has been abandoned here.~
+~
+5 0 8193
+0 1 1 11
+2 1 1
+E
+dagger shattered~
+Some poor fool tried to fight something ten times his strength, and was
+lucky to get out with his life. You see his dagger didn't make it. The
+thin blade is shattered to splinters.
+~
+#6651
+curse luck ill~
+a curse of ill luck~
+You sense something unlucky about this room.~
+~
+13 128 16385
+0 0 0 0
+0 1 1
+E
+curse ill luck~
+You think you can see a curse?
+You sense its evil presence all around you.
+~
+A
+4 -3
+A
+18 -5
+#6652
+gallows platform death~
+the gallows platform~
+The gallows platform rises ominously before you.~
+~
+13 0 0
+0 0 0 0
+500 0 0
+E
+gallows platform~
+A sturdy wooden platform rises above the black sand road, with plenty
+of room around it for spectators. On it are two means to death, the
+shackles for beheading and the oak planking holding the noose for 
+hanging. The entire surface is bespeckled with dried blood.
+~
+#6653
+fountain cracked drink~
+a cracked stone fountain~
+A cracked stone fountain holds a supply of mossy-green water.~
+~
+23 0 0
+-1 -1 0 0
+200 0 0
+E
+fountain cracked stone~
+The circular fountain was etched from stone eons ago, and is worn
+and cracked from the weather. Thick moss grows along its inside
+walls, reflecting its poor maintanance.
+~
+#6654
+altar amber~
+an altar carved from amber~
+An altar of dark amber stands here.~
+~
+13 0 0
+0 0 0 0
+100 0 0
+E
+altar amber~
+The altar is waist-high, with a stand of black oak and a top of dark
+amber. There is a single black candle burning in a silver holder 
+resting on it.
+~
+#6655
+cleaver meat~
+a meat cleaver~
+A large meat cleaver is stuck in the ground.~
+~
+5 0 8193
+0 1 6 15
+5 115 10
+E
+cleaver meat~
+It is wide and sharp, the blade's edge stained a dark red.
+~
+#6656
+amber stone gem~
+an amber stone~
+An amber stone glints dully in the light.~
+~
+8 0 1
+0 0 0 0
+3 50000 300
+E
+amber gem~
+You see a hunk of amber stone in excellent condition, and possibly
+worth a little gold.
+~
+#6657
+amethyst violet gem~
+an amethyst~
+An amethyst of pure violet glints from the ground.~
+~
+8 0 1
+0 0 0 0
+3 100000 1000
+E
+amethyst violet gem~
+It's a beautiful amethyst in excellent condition, and possibly worth
+some gold.
+~
+#6658
+diamond gem~
+a diamond~
+A small diamond twinkles from the ground.~
+~
+8 0 1
+0 0 0 0
+3 500000 5000
+E
+diamond gem~
+You see a tiny diamond in excellent condition, and likely worth
+some gold.
+~
+#6659
+sunstone golden gem~
+a sunstone~
+A golden sunstone shines with a celestial glow.~
+~
+8 0 1
+0 0 0 0
+3 1000000 10000
+E
+sunstone gem~
+The golden sunstone is very pretty to look at, but is probably worth
+more than the hand that carries it.
+~
+#6660
+necklace tiger eye eyes~
+a necklace of tiger eyes~
+A gold and brown necklace lies on the ground.~
+~
+8 0 5
+0 0 0 0
+1 7000 1
+E
+necklace tiger eyes~
+Small but delightful to the eye. Golden and brown bands shimmer from
+the stones as the necklace is turned in the light.
+~
+#6661
+ring agate black~
+a black agate ring~
+A black agate ring lies half-buried on the ground.~
+~
+8 64 3
+0 0 0 0
+1 2000 1
+E
+agate black ring~
+The agate is an opaque black and set in a ring of silver.
+~
+A
+17 -3
+#6662
+shard obsidian gem~
+a shard of snowflake obsidian~
+A black, white-flecked shard is lying here.~
+~
+8 64 16385
+0 0 0 0
+1 1000 10
+E
+shard obsidian~
+It's a pointed shard of obsidian flecked with white cloud-like patterns.
+~
+A
+17 -2
+#6663
+suit chain mail~
+a suit of chain mail~
+A heap of chain mail is lying here.~
+~
+9 0 9
+5 0 0 0
+10 900 10
+E
+suit chain mail~
+The silvery chain mail looks sturdy and close-fitting.
+~
+#6664
+helm bright~
+a bright helm~
+A bright helm has been left nearby.~
+~
+9 0 17
+3 0 0 0
+8 780 0
+E
+helm bright~
+The helm is small and brightly silver-colored. Fitting snugly on the head,
+it impairs your hearing slightly, but the protection seems a worthwhile
+sacrifice.
+~
+#6665
+bracers silver~
+silver bracers~
+A pair of silver bracers is here.~
+~
+9 0 257
+4 0 0 0
+7 845 10
+E
+bracers silver~
+They extend from elbow to wrist, and are forged from bright silver.
+~
+#6666
+boots sharp~
+a pair of sharp-toed boots~
+A pair of boots with razor-sharp toes is sitting here.~
+~
+9 0 65
+3 0 0 0
+6 950 10
+E
+boots sharp~
+The knee-height black boots are fashioned with a razor-sharp point at
+each toe, delivering a more wicked kick, and kind of a nice tapdance, 
+in fact.
+~
+A
+19 1
+#6667
+shield scale~
+a scale shield~
+A shield of the scales of an unknown creature is lying here.~
+~
+9 0 513
+5 0 0 0
+10 1100 10
+E
+shield scale~
+It's a large, thin shield fashioned of the scales of an old creature
+you don't recognize. You wonder if the maker did.
+~
+#6668
+water skin waterskin~
+a waterskin~
+A waterskin has been left here.~
+~
+17 0 1
+17 17 0 0
+22 15 10
+E
+water skin waterskin~
+It seems to be stiched together from some kind of small animal hide,
+probably something plentiful.. mouse? rat? mole? The water looks
+safe, however.
+~
+#6669
+chair lounger black~
+a black lounger~
+A black lounger chair looks very relaxing.~
+~
+13 0 0
+0 0 0 0
+30 1000 10
+E
+chair lounger black~
+The black naga-hide chair eases back by the use of a lever on the side,
+and looks luxuriously comfortable. Perfect for hanging out on, waiting
+for the bounty hunters to give up. (Theoretically.)
+~
+#6670
+magazine rogue book bartending~
+the Rogue's book of bartending~
+A magazine is lying open on the floor.~
+~
+13 0 16385
+0 0 0 0
+1 30 10
+E
+magazine rogue book bartending~
+  You flip through it.
+  It appears to contain various recipes for poisons.. from
+minor irritations to fatal, soul-stealing tinctures.... yet,
+most of the scrawlings are spattered with blood and blurred
+with time. Only in Exile would these components be useful -
+you are doubtful you could find such ingrediants here.
+~
+#6671
+sword gilded fencing~
+a gilded fencing sword~
+A beautiful gilded sword lies at your feet.~
+~
+5 64 8193
+0 4 2 3
+7 8500 10
+E
+sword gilded fencing~
+The silvery sword is slender and light, suitable for fencing manuevers.
+The hilt is gilded with the purest gold from the treasury of nobility.
+~
+A
+18 1
+#6672
+scabbard silver~
+a silver scabbard~
+A scabbard of bright silver lies on the ground.~
+~
+15 0 2049
+13 0 -1 0
+6 1200 10
+E
+scabbard silver~
+It is crafted to fit a long, slender type of sword, perhaps a foil.
+The edges are faintly gilded in gold, and one side engraved with the
+seal of a noble house.
+~
+A
+17 -5
+#6673
+sword stone~
+a stone-hilted sword~
+A short sword with a hilt of finished stone has been dropped here.~
+~
+5 0 8193
+0 1 6 3
+10 200 10
+E
+sword stone~
+It is rather crudely made, it must be acknowledged. The use of stone
+in weaponry has fallen out of fashion, since the weight allows only
+the clumsier manuevers.
+~
+#6674
+notice sign disclaimer~
+the cartographer's disclaimer~
+A notice is posted on the wall.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+E
+notice sign disclaimer~
+A neat type in black stencil gives the warning,
+"No Guaranteed Satisfaction."
+~
+#6675
+mutton leg meat food~
+a leg of mutton~
+A leg of mutton is lying here.~
+~
+19 0 1
+25 0 0 0
+4 120 10
+E
+mutton leg~
+The meat is thick and juicy, still red with the blood of the beast.
+~
+#6676
+heart boar food~
+a wild boar heart~
+A heart is lying in a pool of blood.~
+~
+19 0 1
+12 0 0 0
+3 172 10
+E
+heart boar~
+A human delicacy. And well worth its reputation for inspiring
+courage...or at least gall.
+~
+#6677
+wings bowl dragon food~
+a bowl of little dragon wings~
+A bowl of tasty dragon wings is resting here.~
+~
+19 32 1
+25 0 0 0
+5 1220 10
+E
+wings dragon bowl~
+Cruelly harvested from the backs of young dragons, the leathery wings
+are tasty, and diaphanous as strands of silk or rain.
+~
+#6678
+sandwich troll grilled food~
+a grilled troll sandwich~
+A hot sandwich with a putrid odor is here.~
+~
+19 0 1
+25 0 0 0
+2 110 10
+E
+sandwich troll grilled~
+Fingers and ribs grilled to a saucy roast poke out from between two
+slices of coarse rye bread.
+~
+#6679
+key black gold sundhaven~
+a black and gold key~
+A key fashioned of black and gold metal is lying in the dust.~
+~
+18 32 16385
+0 0 0 0
+1 100 10
+E
+key black gold~
+On the handle the words are engraved, 
+"City of the Cliffs, gates freed,
+No trust guaranteed"
+~
+#6680
+doll voodoo hex~
+a voodoo doll~
+A corn straw doll is lying in the dust.~
+~
+12 0 16385
+0 0 0 0
+1 100 10
+E
+voodoo doll~
+The small corn husk doll is stitched with irregular, uneven lines,
+giving it an eerie appearance. A shiver runs through you as
+you realize it is slightly warm to the touch.
+~
+#6681
+lock hair red mercy~
+a lock of someone's hair~
+A lock of red hair is lying coiled on the ground.~
+~
+13 0 16385
+0 0 0 0
+1 100 10
+E
+lock hair red~
+  A long lock of straight red hair is coiled round your fingers.
+~
+#6682
+sword black watch~
+a sword of the Black Watch~
+A beautiful black sword emblazoned with a triskelion lies here.~
+~
+5 16416 8193
+0 2 5 3
+15 25000 10
+E
+sword black watch~
+The sword is beautifully crafted in order to serve the elite
+members of the Black Watch of Sundhaven, charged with the work
+of keeping the town clean from ill-meaning rogues and killers.
+~
+#6683
+blade iron~
+an iron blade~
+A short iron blade has been left here.~
+~
+5 0 8193
+0 1 4 1
+6 2000 10
+E
+blade iron~
+The hilt of the short iron blade is still warm from the hand
+of the elite guardsman to whom it once belonged.
+~
+#6684
+plate steel black~
+a plate of black steel~
+A black breast plate is lying face up.~
+~
+9 -2147467264 9
+8 0 0 0
+10 2500 10
+E
+plate black steel~
+The breast plate seems to be forged from some sort of black iron,
+and is quite sturdy.
+~
+#6685
+cloak gold black~
+a handsome black and gold cloak~
+A handsome black and gold cloak is folded on the ground.~
+~
+9 64 1025
+7 0 0 0
+5 6600 10
+E
+cloak black gold~
+The flowing knee length cloak is fashioned from wool and chased
+in gold corded thread.
+~
+A
+19 1
+#6686
+scotch scotch glass drink~
+a glass of scotch on the rocks~
+A tall glass of scotch is sitting nearby.~
+~
+17 0 16385
+10 0 5 0
+1 50 10
+E
+glass scotch~
+      _______
+      |     |-          
+      |.....| \        The warrior's drink of choice.
+      |     | /
+      |     |-                Okay, one of them.
+      -------
+
+  It appears the Lord of the Watch favored this one very much,
+since it is empty.
+~
+#6687
+skirt gypsy red~
+a colorful gypsy skirt~
+A patchwork of red and purple lies on the ground.~
+~
+9 0 33
+4 0 0 0
+3 53 10
+E
+skirt gypsy red~
+The patched skirt is a sturdy cross-stitching of bright red and
+violet.
+~
+#6688
+blouse shirt red blood~
+a blood red blouse~
+A dark red blouse is crumpled here.~
+~
+9 0 9
+4 0 0 0
+3 40 10
+E
+blouse red blood~
+The gypsy blouse is of a rugged muslin fabric, rough and somewhat
+dirty, but in decent shape.
+~
+#6689
+violin old~
+an old violin~
+An old violin has been tossed in the dust.~
+~
+9 0 16385
+2 0 0 0
+4 220 10
+E
+violin old~
+The instrument seems to have seen some rough times. The gypsies
+range far and wide... however, it still holds together enough
+to play a tune, even block a blow or two.
+~
+#6690
+mushroom white food pc~
+a white spotted mushroom~
+A mushroom with white spots is growing in the water.~
+~
+19 0 1
+24 0 0 1
+1 5 10
+E
+mushroom white~
+The mushroom is short with a wide, pale-spotted umbrella.
+It emits a toxic fume.
+~
+#6691
+blossom flower hibiscus red pc~
+a red hibiscus blossom~
+A lovely red hibiscus flower is lying here.~
+~
+12 0 16385
+0 0 0 0
+1 120 10
+E
+blossom flower hibiscus red~
+The large wine-red flower emits a delightful smell, and is rumored
+to be excellent for tea, and some other more toxic uses.
+~
+#6692
+eye toad~
+an eye of toad~
+A small slimy eye stares up at you from the ground.~
+~
+12 0 16385
+0 0 0 0
+1 600 10
+E
+eye toad~
+All life has left the eye that stares blankly into space. However,
+toad's eyes are rumored to be excellent in the manufacture of
+toxic substances.
+~
+#6693
+mortar pestle pc~
+a mortar and pestle~
+A mortar and pestle of black marble sits here.~
+~
+15 0 16385
+10 0 -1 0
+1 13000 10
+E
+pestle mortar~
+A bowl-shaped mortar carved from black marble holds a small blunt pestle.
+It looks like the perfect container to mash up something toxic in.
+~
+#6694
+tunic red dusty~
+a dusty red tunic~
+A dusty pile of red canvas is here.~
+~
+9 0 9
+4 0 0 0
+5 70 10
+E
+tunic red dusty~
+The tunic is frayed and layered with the dust of the road from many
+leagues of travel.
+~
+#6695
+tray goodies~
+a tray of goodies~
+A tray of goodies sits invitingly on the ground.~
+~
+15 0 16385
+200 0 -1 0
+30 120 10
+E
+tray goodies~
+A thin, worn cloth of blue drapes over a polished wooden tray.
+Though covered with the dust of winding roads, several
+goods of exotic make are lain out that appeal.
+~
+#6696
+pipe wooden~
+a wooden pipe~
+An old wooden pipe sits in the dust.~
+~
+15 0 16385
+3 0 -1 0
+1 35 10
+E
+pipe wooden~
+The pipe is cracked with age and filled with tobacco half-smoked
+into charcoal.
+~
+#6697
+candle candlestick black light~
+a black candle~
+A black candlestick glows with a dim light.~
+~
+1 0 16385
+0 0 30 0
+1 40 10
+E
+candle candlestick black light~
+A slim dark taper rises from a circular brass holder.
+~
+#6698
+incense stick light~
+a stick of incense~
+A plume of smoke drifts from an incense stick in the room.~
+~
+1 0 16385
+0 0 20 0
+1 30 10
+E
+stick incense~
+A small glowing ember shows atop a stick of a grainy substance.
+It smells of some strong herbs grown beyond the lands you have known.
+~
+#6699
+honey jar food~
+a jar of honey~
+Flies are buzzing round a honey jar on the ground.~
+~
+19 0 1
+12 0 0 0
+3 220 10
+E
+honey jar~
+The small, blue and brown ornamented jar is cracked slightly
+and dripping with a sticky golden substance.
+~
+#6700
+herring salted food~
+a salted herring~
+A dried and salted fish lies at your feet.~
+~
+19 0 16385
+25 0 0 0
+2 100 10
+E
+herring salted~
+The slender and shrivelled herring comes from waters far away,
+and looks tasty despite its delapidated appearance.
+~
+#6701
+quill feather white swan~
+a white feather quill~
+A swan's feather drifts along the ground in the breeze.~
+~
+21 0 16385
+0 0 0 0
+1 440 10
+E
+quill feather white swan~
+A single, slender swan's feather stands from the end of an ivory-
+colored ink quill.
+~
+#6702
+shard crystal pc~
+a shard of broken crystal~
+A sharp-edged shard sparkles dimly from the ground.~
+~
+13 0 1
+0 0 0 0
+2 10 10
+E
+shard crystal~
+The broken crystal glass has a sharp edge, and looks like it could
+hurt someone. Since wielding it may hurt your hand, however, it
+remains a mystery exactly how it may accomplish this end..
+~
+#6703
+gloves silk~
+a pair of silk gloves~
+Someone has left a pair of silk gloves crumpled here.~
+~
+11 0 129
+0 0 0 0
+2 400 10
+E
+gloves silk~
+You see a pair of creased gloves of dark silk. There are tiny
+holes in the ends of the fingers, as if this was once worn by
+a clawed creature.
+~
+#6704
+shawl blue silk~
+a laced blue shawl~
+A pile of blue silk is lying on the ground.~
+~
+11 0 257
+0 0 0 0
+5 700 10
+E
+shawl blue silk~
+The trellised shawl is handmade of a dusty-blue silk, and is framed
+to wrap about the shoulders.
+~
+#6705
+gown indigo silk~
+a gown of indigo silk~
+A pile of indigo-blue silk lies here.~
+~
+11 0 9
+0 0 0 0
+7 2100 10
+E
+gown indigo silk~
+The gown has a deep indigo blue shine to its silken folds. When worn
+by a creature of medium size, its hem lightly trails the ground. 
+It looks appropriate for festive occasions, the sort of thing that
+may be donned by ladies attending an execution at the gallows.
+~
+#6706
+wine wine glass drink~
+a glass of wine~
+A glass of white wine sits primly on the ground.~
+~
+17 0 16385
+5 5 2 0
+10 100 10
+E
+wine glass~
+It's a tall, clear glass rimmed in genuine crystal and filled with
+sparkling white wine.
+~
+#6707
+map sundhaven~
+a map of Sundhaven~
+A colorful map is lying here.~
+~
+12 0 1
+0 0 0 0
+3 20 10
+E
+map~
+  It is a simplified map of Sundhaven.
+  
+                          Cliff Gate
+   Tower of Sorcery            |     Cartographers Shop
+                Alchemy Shop                           Corner Store
+ <--To Homes________________________________________________
+                 |                           Bakery         |
+    Jewellers    |        Temple of Mercy    Silver Scale   |   Dragons      
+  Town Treasury  |   Library    *                Armoury    |    Wrath
+   Post Office   |             ***           Dirk & Dagger  |   Alehouse
+                 |            *****              Weaponry   |
+                 |                                          |
+West Gate________|_________The Gallows______________________|_____East Gate
+                                |
+                                |  Nightbreak Cafe
+                   Town Dump    |
+                                |
+                                |
+                          Southern Gate
+
+ The Tower of Sorcery is a refuge of the mages of Sundhaven.
+ The western chambers of the temple house the local priests.
+ The guild of warriors lies beneath the Alehouse.
+ Rumour has it that the thieves lurk below the town's waste.
+~
+#6708
+potion crystal~
+a crystal potion~
+A crystalline potion sits here.~
+~
+10 64 1
+13 3 -1 -1
+2 2000 10
+E
+potion crystal~
+The potion sparkles with a diamond-like shine.
+~
+#6709
+staff twisted~
+a twisted staff~
+A corkscrew wooden staff lies here discarded.~
+undefined~
+4 64 16385
+13 10 10 10
+10 4000 10
+E
+staff twisted~
+The staff has been carved into a twisting spiral from a light
+grey pliant wood.
+~
+#6711
+bottle blue~
+a blue bottle~
+A blue bottle floats by in the water.~
+~
+15 0 0
+3 0 -1 0
+1 10 10
+E
+bottle blue~
+You see a bottle floating listlessly, carved from blue glass.
+There appears to be a message inside.
+You have the impression you would do well to read it.
+~
+#6712
+message paper~
+a message~
+A wet and crumpled paper lies on the ground.~
+~
+16 0 1
+0 0 0 0
+1 10 10
+E
+message paper~
+The words are scrawled in black ink and leave crooked trails
+as they run down the page.
+...."You who would enter this forsaken place! Stir it not,
+leave it be, lest you would waken the underworld creatures
+that swim these infested waters.
+Only those of evil thoughts and deeds may pass unscathed.
+~
+#6713
+sword heraldry~
+a heraldry sword~
+A sword marked with the insignia of a noble house is lying here.~
+~
+5 0 8193
+0 2 3 3
+10 8000 10
+E
+sword heraldry~
+The sword is of silver with a slender, tapering point, sharp as
+a needle. The hilt is inscribed with the insignia of a noble
+house of Sundhaven.
+~
+#6714
+mim~
+a mithril dagger~
+A shining mithril dagger lies here.~
+~
+5 0 8193
+0 10 10 11
+1 50000 10
+E
+dagger mithril~
+It's a silver-colored dagger, with a crescent-like blade.
+~
+A
+18 10
+A
+19 10
+#6715
+wall~
+a wall~
+undefined~
+~
+15 0 0
+100 5 -1 0
+50 10 10
+E
+wall stone~
+A grey stone wall covers the entrance.
+~
+#6716
+cloak taupe~
+a flowing taupe cloak~
+A billowing cloak blows in the wind nearby.~
+~
+9 0 1025
+4 0 0 0
+5 2000 10
+E
+cloak taupe~
+It is long with full folds that catch the wind, and soft as angora
+or lambs wool. Whoever wears this must be doing well for themselves.
+~
+#6717
+gung ma bowl food~
+a bowl of ma gung~
+A steaming hot bowl of ma gung sits here.~
+~
+19 0 1
+1 0 0 0
+2 40 10
+E
+bowl ma gung~
+You slightly burn your fingers touching the ornamented bowl, which is
+small but filled to the rim with a spicy exotic soup.
+~
+#6718
+basket~
+a basket~
+A basket sits on the ground.~
+~
+15 0 16385
+20 5 -1 0
+5 40 10
+E
+basket~
+  The basket is small, wicker, and bowl-shaped.. a perfect container
+for collecting berries and other food in.
+~
+#6719
+blackberries berries black food~
+a handful of blackberries~
+Some blackberries lie in a pile in the dirt.~
+~
+19 0 1
+12 0 0 0
+1 20 10
+E
+blackberries berries black~
+  The blackberries are ripe and full, growing to be large in
+this region of the world.
+~
+#6720
+message guild sign~
+a guild message~
+A message is inscribed over the doorway to the west.~
+~
+12 0 0
+0 0 0 0
+10 10 10
+E
+message guild sign~
+  The message reads..
+    "Within this sanctum do the priests learn the holy words
+     of their gods, that they may work their healings and
+     destructions upon the world. We bid you turn back
+     if you do not belong.
+ 
+     WARNING! Courtesy of the Sundhaven Ministry:
+     Do not venture below, those halls of the temple
+     have fallen into serious neglect.
+     If your death is untimely you have none to blame
+     but yourself."
+~
+#6721
+heap refuse sign guild~
+a heap of refuse~
+A heap of refuse emits a foul smell.~
+~
+12 0 0
+0 0 0 0
+200 10 10
+E
+heap rubble refuse~
+  This enormous pile of trash is disgusting, no one would touch it..
+you think...
+  Yet.. if you look down, you will find an entrance to someplace
+else beneath.
+~
+#6722
+potion white~
+a white potion~
+A misty-white potion sits here.~
+~
+10 64 1
+20 19 -1 -1
+1 700 10
+E
+potion white~
+  A mist whirls about the surface of the liquid, which is milky-
+white in color. 
+~
+#6723
+potion bubbling~
+a bubbling potion~
+Bubbles rise and pop from a potion on the ground.~
+~
+10 64 1
+20 19 20 -1
+1 2100 10
+E
+potion bubbling~
+  The potion is multi-colored, with small bubbles shivering
+chaotically to the surface.
+~
+#6724
+wand silver silvery~
+a silver wand~
+A silvery wand rests here.~
+~
+3 96 16385
+25 1 1 29
+4 3000 10
+E
+wand silver silvery~
+  The short silver wand is inscribed with runes for a single spell 
+of invisibility.
+~
+#6725
+bottle spanish wine drink~
+a bottle of Spanish wine~
+A port-red bottle of Spanish wine is resting here, its supply readily depleting.~
+~
+17 0 16385
+20 20 2 0
+25 550 100
+E
+bottle wine spanish~
+It looks and smells luxuriously inebriating, and brings to mind ponderous
+philosophical thoughts.  
+~
+#6726
+foil fencing athos rapier~
+a thin fencing foil~
+A gallant rapier of silver is lying here.~
+~
+5 1 8193
+0 6 3 3
+10 100 100
+E
+foil fencing rapier~
+Forged entirely from silver but for a hilt of black ruby, it was
+given to a great warrior by the gods and would be wisely returned.
+~
+A
+18 2
+A
+19 1
+$~

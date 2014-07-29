@@ -1,0 +1,219 @@
+
+#909
+[ 1] *    100%   0%   0%       Stan           1013 Jac
+[ 2] *    100%   0%   0%       Inv.             26 torch
+[ 3] *     70%   0%   0%       Inv.              6 small burlap bag
+[ 4] *    100%   0%   0%       Inv.            229 flask of oil
+[ 5] *    100%   0%   0%       Inv.             25 hooded brass lantern
+[ 6] *     50%   0%   0%       Inv.            229 flask of oil
+[ 7] *     70%   0%   0%       Inv.            230 tourniquet
+[ 8] *     30%   0%   0%       Inv.            948 small canvas bag
+[ 9] *    100%   0%   0%       Inv.            330 tallow candle
+[10] *     25%   0%   0%       Inv.             27 small wax candle
+#910
+Nmbr Rrl  1_Ch 2_Ch 3_Ch  Rust Posi Liq Flags Vnum Descr
+---- ---  ---- ---- ----  ---- ---- --- ----- ---- -----
+[ 1] *    100%   0%   0%       Stan           1014 Peter
+[ 2] *     25%   0%   0%       Inv.             40 rabbit skin
+[ 3] *     10%   0%   0%       Inv.             43 wolf skin
+#911
+[ 1] *    100%   0%   0%       Stan           1002 a grocer
+[ 2] *     80%   0%   0%       Inv.              4 iron ration
+[ 3] *    100%   0%   0%       Inv.             28 loaf of white bread
+[ 4] *     75%   0%   0%       Inv.             28 loaf of white bread
+[ 5] *    100%   0%   0%   90% rHnd           3004 bronze two-handed sword
+[ 6] *     50%   0%   0%       Inv. wat         55 leather waterskin
+[ 7] *     75%   0%   0%       Inv. wat          5 bronze cup
+#912
+[ 1] *    100%   0%   0%       Stan            212 a bartender
+[ 2] *    100%   0%   0%       Inv. bee         23 barrel
+[ 3] *    100%   0%   0%       Inv. bee         24 glass bottle
+[ 4] *    100%   0%   0%       Grnd     C      912 table
+[ 5]        0%   0%   0%       Grnd            912 table
+[ 6]        0%   0%   0%       Grnd     I       28 loaf of white bread
+[ 7] *    100%   0%   0%       Grnd           1127 barstool
+[ 8] *    100%   0%   0%       Grnd           1127 barstool  
+#914
+[ 1] *    100%   0%   0%       Stan           1000 Prenslie
+[ 2] *     75%   0%   0%       Inv.           1020 scroll of identify
+[ 3] *     75%   0%   0%       Inv.           1008 scroll of sanctify
+[ 4] *     75%   0%   0%       Inv.           1021 scroll of recall
+[ 5] *    100%   0%   0%       Inv.              9 potion of cure poison
+[ 6] *    100%   0%   0%       Inv.           1025 scroll of magic missile
+[ 7] *     75%   0%   0%       Inv.           1018 scroll of remove curse
+[ 8] *      5%   0%   0%       Inv.            305 scroll of minor enchant
+[ 9] *      3%   0%   0%       Inv.             38 scroll of magic mapping
+#917
+[ 1] *    100%   0%   0%       Stan           1010 Alslaad
+[ 2] *    100%   0%   0%       Inv.           2001 soft leather jacket
+[ 3] *    100%   0%   0%       Inv.           2002 hard leather jacket
+[ 4] *     75%   0%   0%   90% Inv.           2003 studded leather jacket
+[ 5] *    100%   0%   0%       Inv.           2020 padded leggings
+[ 6] *    100%   0%   0%       Inv.           2000 padded jacket
+[ 7] *    100%   0%   0%       Inv.           2040 padded sleeves
+[ 8] *    100%   0%   0%       Inv.           2021 pair of soft leather leggings
+[ 9] *     50%   0%   0%       Inv.           2022 hard leather leggings
+[10] *    100%   0%   0%       Inv.           2041 soft leather sleeves
+[11] *     50%   0%   0%       Inv.           2042 hard leather sleeves
+[12] *    100%   0%   0%       Inv.           2080 soft leather cap
+[13] *     25%   0%   0%       Inv.           2081 hard leather cap
+[14] *     50%   0%   0%       Inv.           2101 soft leather gloves
+[15] *    100%   0%   0%       Inv.           2121 sandals
+[16] *    100%   0%   0%       Inv.           2120 wooden thongs
+[17] *     50%   0%   0%       Inv.           2122 soft, low boots
+[18] *    100%   0%   0%       Inv.           2180 soft leather bracer
+[19] *     75%   0%   0%       Inv.           2181 hard leather bracer
+[20] *     25%   0%   0%       Inv.           2182 studded leather bracer
+[21] *     25%   0%   0%       Inv.           2123 soft knee-high boots
+[22] *     50%   0%   0%       Inv.           2060 small wooden shield
+[23] *     25%   0%   0%       Inv.            644 quilted torso pad
+[24] *     50%   0%   0%       Inv.           2022 hard leather leggings
+[25] *     25%   0%   0%       Inv.            645 quilted forearm pads
+[26] *     25%   0%   0%       Inv.            646 quilted leg pads
+[27] *    100%   0%   0%       Inv.           1109 loose-fitting leather gloves
+[28] *     75%   0%   0%       Inv.            488 brown robe
+#918
+
+[ 1] *    100%   0%   0%       Stan           1003 Trenhk
+[ 2] *    100%   0%   0%   90% Inv.           3000 bronze shortsword
+[ 3] *     50%   0%   0%   90% Inv.           3001 bronze longsword
+[ 4] *     20%   0%   0%   90% Inv.           3002 bronze broadsword
+[ 5] *     10%   0%   0%   90% Inv.           3003 bronze bastard sword
+[ 6] *    100%   0%   0%       Inv.           3018 small wooden hammer
+[ 7] *     50%   0%   0%       Inv.           3019 large wooden hammer
+[ 8] *    100%   0%   0%       Inv.           3005 small wooden spear
+[ 9] *     20%   0%   0%       Inv.           3006 large wooden spear
+[10] *      9%   0%   0%   90% Inv.           3007 small bronze-tipped spear
+[11] *      3%   0%   0%   90% Inv.           3008 large bronze-tipped spear
+[12] *     30%   0%   0%   90% Inv.           3028 bronze dagger
+[13] *    100%   0%   0%       Inv.             34 maple staff
+[14] *     40%   0%   0%       Inv.           3034 wooden club
+[15] *     20%   0%   0%   90% Inv.            890 bronze hammer
+[16] *      5%   0%   0%   90% Inv.           3012 hatchet
+[17] *     10%   0%   0%   90% Inv.           3032 small bronze mace
+[18] *      5%   0%   0%   90% Inv.            968 iron longsword
+[19] *     10%   0%   0%   90% Inv.           1056 bronze pole axe
+[20] *      5%   0%   0%       Inv.           1059 huge wooden club
+[21] *     10%   0%   0%       Inv.           3035 large wooden club
+[22] *      5%   0%   0%    0% Inv.           3104 bronze rapier
+#923
+
+[ 1] *    100%   0%   0%       Stan           1006 an alchemist
+[ 2] *    100%   0%   0%       Inv.             78 pebble
+[ 3] *    100%   0%   0%       Inv.             37 dried-out beetle shell
+[ 4] *     50%   0%   0%       Inv.             98 vial of holy water
+[ 5] *    100%   0%   0%       Inv.            221 frog's eye
+[ 6] *    100%   0%   0%       Inv.            258 unripe berry
+[ 7] *     50%   0%   0%       Inv.            284 sprig of germander
+[ 8] *    100%   0%   0%       Inv.            243 bright red berry
+[ 9] *     25%   0%   0%       Inv.            246 charred stick
+[10] *     70%   0%   0%       Inv.            280 bamboo shoot
+[11] *     25%   0%   0%       Inv.            304 mandrake root
+[12] *     25%   0%   0%       Inv.            206 pouch of silver powder
+[13] *    100%   0%   0%       Inv.             81 small piece of spider's web
+[14] *     50%   0%   0%       Inv.            872 pinch of iron filings
+[15] *    100%   0%   0%       Inv.             78 pebble
+[16] *     50%   0%   0%       Inv.            977 pouch of powdered alum
+[17] *     50%   0%   0%       Inv.             79 piece of flint
+[18] *    100%   0%   0%       Inv.           1182 glass bead
+[19] *     15%   0%   0%       Inv.           1194 vial of sacramental oil
+[20] *     50%   0%   0%       Inv.           1269 pinch of sulfur
+[21] *     25%   0%   0%       Inv.            189 snail shell
+[22] *     25%   0%   0%       Inv.            210 shard of glass
+[23] *    100%   0%   0%       Inv.            474 lodestone
+ #924    
+ banka 
+
+#932
+
+[ 1] *    100%   0%   0%       Stan            195 the locksmith
+[ 2] *     75%   0%   0%       Inv.            126 small rat trap
+[ 3] *    100%   0%   0%   90% Inv.           3028 bronze dagger
+[ 4] *     50%   0%   0%       Inv.            127 twisted piece of wire
+[ 5] *      5%   0%   0%   90% Inv.            133 thin iron rod
+[ 6] *     50%   0%   0%       Inv.            128 small lock pick
+[ 7] *     10%   0%   0%   90% Inv.           3104 bronze rapier
+
+
+
+
+
+414 an old man
+747 a mage guardian
+460 weary elf
+#907
+414 an old man          
+  
+178 Berdeth
+179 priestess   
+212 bartender.. roumors
+1000 prenslie
+
+
+
+
+Voodoo
+
+If you got someone's hair you can use the consecrate doll spell to manufacture a voodoo doll. To do so, the victim must be unconscious. 
+
+Stab is just a warning. The player will feel some pain. 
+
+The twist action will cause some damage. To the victim and the doll. 
+
+Tearing the doll will destroy it and cause horrible damage to the victim - maybe even killing him. 
+
+Syntax: 
+  cut <player> 
+  cast 'consecrate doll' <player> 
+  voodoo stab <player> 
+  voodoo twist <player> 
+  voodoo tear <player> 
+  
+  
+
+
+DWARF
+Dwarves are short, stocky demi-humans, known for foul temper and great stamina. Dwarves have high strength and constitution, but poor dexterity.
+They are not as smart as humans, but are usually wiser due to their long lifespans. Dwarves make excellent fighters and priests, but are very poor mages or thieves.
+Dwarves are very resistant to poison and disease, but cannot swim, and so are very vulnerable to drowning. They recieve the berserk skill for free (if warriors), and can see in the dark with infravision.
+
+Start 
+
+
+Weapons Mastery [Skill]
+
+For every Weapon Skill, there is a Mastery Skill too. For unarmed combat there are in fact even two.
+
+Weapons Mastery increases all offensive and defensive rolls, when the weapon is used in combat. Weapon master skills are improved with higher dexterity.
+
+u trenutku kada pracujes skill postajs master za skillove koji su ti na 100 %
+
+Sword Master 
+Dagger Master 
+Spear Master 
+Whip Master 
+Axe Master 
+Polearm Master 
+Mace Master 
+Flail Master 
+Marksman (for guns of all sorts) 
+Martial Arts (Hand to Hand), Black Belt (improved Martial Arts) 
+
+
+GNOME
+Gnomes are a race of small, wiry, but very tough creatures. They live a very long time and accumulate much wisdom. Surface gnomes are the smallest of the races of Thera, averaging just 3' in height. Their coloring ranges from a pale gray to a light brown. Gnomes are resistant to magic, poison and diseases, but very vulnerable to bash and fire. They have infravision and receive the berserk and haggle skills and the identify spell for free.
+(Only Gnome warriors receive berserk but they DON'T receive the identify spell).
+They are very good mages, clerics and 
+
+
+EXECUTE
+
+Level: 31 Assassin
+
+This automatic skill is checked for after a successful Backstab. If the
+Execute skill is successful, the thief character will automatically
+perform another 'backstab' on the victim before combat is initiated fully.
+Execute does not work with the Circle skill
+
+See also: BACKSTAB
+

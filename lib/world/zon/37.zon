@@ -1,0 +1,60 @@
+#37
+Mud School~
+3760 10 2
+* Field #1    Field #3   Field #4  Field #5
+* M (Mobile)  Mob-Vnum   Wld-Max   Room-Vnum
+* O (Object)  Obj-Vnum   Wld-Max   Room-Vnum
+* G (Give)    Obj-Vnum   Wld-Max   Unused
+* E (Equip)   Obj-Vnum   Wld-Max   EQ-Position
+* P (Put)     Obj-Vnum   Wld-Max   Target-Obj-Vnum
+* D (Door)    Room-Vnum  Door-Dir  Door-State
+* R (Remove)  Room-Vnum  Obj-Vnum  Unused
+M 0 3704 1 3713 	(the aggressive monster)
+E 1 3707 99 7 	(a pair of sub issue leggings)
+E 1 3712 99 13 	(a sub issue belt)
+M 0 3700 1 3701 	(the acolyte of Frag)
+D 0 3700 2 1 	(Entrance to Mud School)
+M 0 3701 1 3710 	(the blob)
+M 0 3702 1 3716 	(the monster)
+E 1 3705 99 3 	(a sub issue cloak)
+E 1 3705 99 4 	(a sub issue cloak)
+M 0 3703 1 3715 	(the wimpy monster)
+E 1 3706 99 6 	(a sub issue helmet)
+E 1 3711 99 12 	(a sub issue cape)
+M 0 3705 1 3714 	(the wimpy aggressive monster)
+E 1 3708 99 8 	(a pair of sub issue boots)
+E 1 3713 99 14 	(a sub issue bracer)
+D 0 3717 1 1 	(A Room in Mud School)
+D 0 3719 3 1 	(A Room in Mud School)
+D 0 3719 1 2 	(A Room in Mud School)
+M 0 3717 1 3718 	(the adept of Frag)
+G 1 3030 100 -1 	(a torch)
+G 1 3032 100 -1 	(a bag)
+G 1 3010 100 -1 	(a bread)
+G 1 3103 100 -1 	(a bottle)
+M 0 3706 1 3720 	(the big creature)
+E 1 3709 99 9 	(a pair of sub issue gloves)
+E 1 3710 99 10 	(a pair of sub issue sleeves)
+E 1 3714 99 17 	(a key)
+E 1 3713 99 14 	(a sub issue bracer)
+D 0 3721 0 1 	(The End of Mud School!)
+D 0 3734 5 1 	(Center of Arena)
+D 0 3748 4 1 	(The Center of the Dungeon)
+M 0 3709 4 3734 	(the rabbit)
+M 0 3710 3 3742 	(the lizard)
+M 0 3711 3 3746 	(the boar)
+M 0 3712 3 3726 	(the fox)
+M 0 3713 5 3724 	(the snail)
+M 0 3709 4 3742 	(the rabbit)
+M 0 3710 3 3734 	(the lizard)
+M 0 3711 3 3726 	(the boar)
+M 0 3712 3 3734 	(the fox)
+M 0 3713 5 3734 	(the snail)
+M 0 3714 1 3749 	(the beast)
+M 0 3715 2 3751 	(the bear)
+M 0 3716 2 3754 	(the wolf)
+M 0 3720 1 3721 	(the diploma beast)
+E 1 3715 99 17 	(a mud school diploma)
+M 0 3719 1 3759 	(the priest of Hatchet)
+S
+$

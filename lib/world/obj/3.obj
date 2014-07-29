@@ -1,0 +1,150 @@
+#300
+herbs herb timian~
+a small dusk of timian herbs~
+Some herbs are lying here, small green leaves and tiny pink flowers.~
+~
+19 0 1
+1 0 0 0
+1 5 0
+E
+herbs herb timian~
+This herb smells rather spicy; maybe you should try it?
+~
+#301
+herbs herb gyvel~
+a small dusk of black gyvel~
+Some black gyvel is lying here, black leaves and tiny blood red flowers.~
+~
+19 0 1
+1 0 0 0
+1 50 0
+E
+herbs herb gyvel~
+This herb smells rather special, but is it poisonous?
+~
+#302
+plant ivy~
+a small dusk of poison ivy~
+Some poison ivy is growing here.~
+~
+19 0 1
+1 0 0 1
+1 5 0
+E
+plant ivy~
+This plant has dark green juicy leaves.
+~
+#303
+blood jar~
+a dark red jar~
+A small jar in a dark, red colour.~
+~
+17 0 1
+2 2 13 0
+2 50 0
+E
+blood jar~
+The jar is made of dry clay, covered with markings suggesting its
+occult origin.
+~
+#304
+wild flowers~
+wild flowers~
+A bunch of pretty wild flowers is here.~
+~
+13 1024 16401
+0 0 0 0
+1 10 0
+E
+wild flowers~
+These wild flowers are really pretty.
+~
+#307
+amulet~
+a strange amulet~
+A strange looking amulet is lying here, half covered with dust.~
+~
+9 192 5
+2 0 0 0
+1 500 0
+E
+amulet~
+Judging from the signs inscripted in the amulet, you gather it must
+have belonged to a druid.  It is weird looking with symbols from nature
+dominating it.
+~
+A
+24 -2
+A
+25 2
+#308
+staff stick~
+a druish staff~
+A staff with druidic marks have been left here.~
+~
+4 0 16385
+15 5 5 1
+4 15 0
+E
+staff stick~
+Then staff is about 5 ft long, engraved with mythical signs and figures.
+Otherwise the staff seems of no real interest.
+~
+#309
+rabbit roast wabbit~
+a rabbit roast~
+You see a deliciously looking rabbit roast.~
+~
+19 0 1
+24 0 0 0
+5 40 0
+E
+roast rabbit wabbit~
+Well the rabbit looks rather dead.
+You guess that this once was a ferocious rabbit who's life now has
+changed to that of a tasty wabbit woast.
+~
+#310
+template scroll~
+a strange template~
+A strange template made of an exotic green metal is placed here~
+~
+2 64 16385
+15 38 4 26
+1 15000 0
+E
+template scroll metal~
+The template is made of an exotic green metal and looks
+centuries old.
+Inscripted upon is the words 'Ep ep fi'hur G'harne
+                             G'harne fhtagn Shudde-M'ell hyas Negg'h'
+And beneath the inscription you see horrifying death scenes depicted.
+~
+#311
+potion clear~
+a clear potion~
+A clear potion wrapped in leather is unnoticed placed here.~
+~
+10 64 1
+20 18 19 20
+2 2500 0
+E
+leather~
+The leather wrapped around the potion is old and decayed, originating
+~
+#312
+scroll jhyfrdow~
+a scroll titled 'jhyfrdow'~
+An odd looking scroll is here.~
+~
+2 0 1
+20 123 -1 -1
+1 500 0
+E
+ritual men drawings~
+The drawing pictures people gathered round giant stone formations,
+worshipping a giant worm like creature.
+It seems they are sacrificing some of their own species in fornt of a large
+shield.
+~
+$

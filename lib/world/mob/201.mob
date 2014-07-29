@@ -1,0 +1,264 @@
+#20101
+monk child~
+A monk child~
+A monk child is here sweeping the floor.
+~
+He is only a child, surely you will want to pick on someone your own size.
+~
+196 0 500 E
+6 17 7 0d0+0 0d0+0
+0 -100
+8 8 1
+Class: 256
+E
+#20102
+female prisoner~
+An imprisoned nun~
+A female prisoner cringes away from you in terror.
+~
+Judging from what is left of her clothes, she appears to be a nun.
+~
+68 0 0 E
+8 16 6 0d0+0 0d0+0
+0 -100
+8 8 2
+E
+#20103
+disciple~
+A disciple~
+A disciple tries to impress you with his new skills.
+~
+One of the many who came here to learn the Shaolin martial skills. Like 
+many others, he seems quite hopeless.
+~
+134 0 100 E
+8 16 6 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#20104
+monk~
+A monk~
+A monk is here practicing his skills. Watch it!
+~
+You take a step back to ensure you're out of the range of his deadly moves.
+~
+6 0 201 E
+15 13 3 0d0+0 0d0+0
+0 -100
+8 8 1
+Class: 256
+Dex: 16
+E
+#20105
+monk guard~
+A monk guard~
+A monk guard charges at you for intruding this room!
+~
+Armed and dangerous, you don't want to mess with him.
+~
+4134 1064 -100 E
+20 10 0 0d0+0 0d0+0
+0 -100
+8 8 1
+Class: 256
+Dex: 16
+E
+#20106
+demon~
+Your own inner demon~
+Your own inner demon screams and attacks!
+~
+This extremely ugly creature looks very familiar. Wait a minute, it looks
+exactly like you. In fact, it is you!
+~
+38 1192 -201 E
+21 9 -1 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#20107
+evil monk~
+An evil monk~
+An evil monk jumps from the ceiling and took you by surprise!
+~
+He looks about the same with the rest of the monks here.  In fact,he looks
+more friendly than the rest.  Too bad he doesn't like your face.
+~
+100 1064 -1000 E
+22 9 -1 0d0+0 0d0+0
+0 -100
+8 8 1
+Class: 256
+Dex: 17
+E
+#20108
+wood wooden monk man machine~
+The wooden man~
+The wooden man fighting machine creaks and pummels you!
+~
+Made entirely of hard wood and controlled mechanically by chains and pulleys,
+this is one tough bugger.
+~
+34 1064 0 E
+18 11 1 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#20109
+monk warrior~
+The monk warrior~
+A monk warrior struts proudly here.
+~
+Recently promoted to warrior status, he takes a look at your puny size and
+laughs in your face.
+~
+196 8192 201 E
+22 9 -1 0d0+0 0d0+0
+0 -100
+8 8 1
+Class: 256
+Dex: 19
+E
+#20110
+luohan Luohan bronze monk~
+The Luohan~
+The Luohan stands motionlessly here, waiting for you to attack.
+~
+With skin as tough as bronze, these monks are among the most highly skilled.
+You don't want to mess with them.  Then again, do you have a choice?
+~
+6 8320 500 E
+27 6 -4 0d0+0 0d0+0
+0 -100
+8 8 1
+Class: 256
+Dex: 20
+E
+#20111
+Wuhua wuhua monk~
+Wuhua~
+Wuhua screams with a wild sense of joy as he pounces on you!
+~
+Looking every bit like a pervert, he just can't wait to lay his filthy
+claws on you.
+~
+100 1192 -500 E
+24 8 -2 0d0+0 0d0+0
+0 -100
+8 8 1
+Class: 256
+Dex: 21
+E
+#20112
+master librarian monk~
+The Master of Books~
+A master sits here reading his books, oblivious to your intrusion.
+~
+He looks old and his eyes are failing him.  In one hand, he holds a lighted
+candle to help him read better.
+~
+2 8320 500 E
+27 6 -4 0d0+0 0d0+0
+0 -100
+8 8 1
+Class: 256
+Dex: 18
+E
+#20113
+master monk drunken~
+The Drunken Master~
+A master is resting here, looking very intoxicated.
+~
+Hmm.. Are monks supposed to do this? You pondered as you look at this 
+pathetic excuse for a human being.
+~
+196 8320 250 E
+21 9 -1 0d0+0 0d0+0
+0 -100
+8 8 1
+Class: 256
+Str: 18
+Dex: 16
+E
+#20114
+master monk trainer~
+The Master Trainer~
+A master is here doing pushups with one finger.
+~
+Wow. What a amazing feat! Such demonstration of strength and control.
+Don't you wish you can do that.
+~
+196 8322 500 E
+26 7 -3 0d0+0 0d0+0
+0 -100
+8 8 1
+Class: 256
+Str: 16
+Dex: 21
+E
+#20115
+abbot Abbot monk~
+The Abbot of Shaolin~
+The Abbot of Shaolin nods in your direction, acknowledging your presence.
+~
+Looking strong and healthy even at this age, the Abbot cuts an impressive 
+figure.
+~
+196 4202624 800 E
+31 4 -6 0d0+0 0d0+0
+0 -100
+8 8 1
+Class: 256
+Str: 19
+Dex: 25
+Int: 18
+E
+#20116
+Jinshen jinshen~
+The Jinshen~
+A Jinshen sits here, undisturbed.
+~
+Covered from head to toe with gold flakes, this mortal shell of a former
+high monk has been perfectly preserved.
+~
+2 532618 1000 E
+33 3 -7 0d0+0 0d0+0
+0 -100
+8 8 0
+Class: 256
+Str: 19
+Dex: 25
+Int: 18
+E
+#20117
+guest visitor~
+The visiting guest~
+A visiting guest stands here.
+~
+Looking at his best in his fine clothing, he looks rather wealthy.
+~
+196 0 50 E
+15 13 3 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#20118
+old man~
+a crazy old man~
+A crazy old man sits on the shore, staring at everything.
+~
+He keeps staring into space, and says 'I see you, KhyrhaZenin, you will die!
+I know your name, KhyrhaZenin, and I will come get you! HAHAHAHA'
+He must be crazy.'
+~
+34 0 0 E
+1 20 10 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+$
+
+
+
+Mob special remarks

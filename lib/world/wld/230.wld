@@ -1,0 +1,945 @@
+#23000
+The Pit Of Kerjim~
+  You stand at the edge of a pit, you can hear screams of death, violence
+that make your blood curdle. This is the pit of Kerjim, an ancient
+demon able to slay any mortal. It is pitch black, and there are prying
+eyes all around. There is an engraving on the wall here.
+~
+230 0 0
+D4
+~
+~
+0 0 6022
+D5
+~
+~
+0 0 23001
+E
+engraving wall~
+                         **********************************
+                         *             BEWARE!!!          *
+                         *       Here Dwells Kerajim,     *  
+                         *       King of the Balrogs.     *  
+                         *       Die at your own risk,    *
+                         * We very much doubt the chances *
+                         *     of any Corpse Retrieval    *
+                         *                                *
+                         *         Raf & Blizzard         *
+                         **********************************
+
+~
+S
+#23001
+In The Pit~
+  Smells of blood saunter through the air, making your stomach turn.
+Fear creeps through you as you climb down the side of this endless
+pit.
+~
+230 0 0
+D4
+~
+~
+0 0 23000
+D5
+~
+~
+0 0 23002
+S
+#23002
+In The Pit~
+  The ashfrom the side of the rock wall dismays you and irritates your
+skin. You can sense the presence of pure evil as you climb down.
+~
+230 0 0
+D4
+~
+~
+0 0 23001
+D5
+~
+~
+0 0 23003
+S
+#23003
+In The Pit~
+  You are in the center of the chasme, the screams and desperate cries
+of loss cause an avalance to fall. There is no longer an escape upwards.
+~
+230 0 0
+D5
+~
+~
+0 0 23004
+S
+#23004
+Nearing The Bottom~
+  The pit is nearing the bottom, you can see a large throne down below.
+It is made with fine obsidian, and bejeweled with golden stones.
+~
+230 0 0
+D4
+~
+~
+0 0 23003
+D5
+~
+~
+0 0 23005
+S
+#23005
+Nearing The Bottom~
+  The base of the pit is close, your hands tremble and make it hard for
+you too get a good grip of the firm stone side.
+~
+230 0 0
+D4
+~
+~
+0 0 23004
+D5
+~
+~
+0 0 23006
+S
+#23006
+Nearing The Bottom~
+  You have made it past most of the dreaded creatures, but more still
+awaits you at the bottom. Odd looking creatures surrond you, wielding
+anything from daggers to stone clubs. Fear sweeps the eye of the enemy
+it looks as if they have been under an enchantement.
+~
+230 0 0
+D4
+~
+~
+0 0 23005
+D5
+~
+~
+0 0 23007
+S
+#23007
+At The Base Of The Pit~
+  A large throne scales the room, it's black obsidian laced with golden
+jewels adds an enchanting and soothing affect to the murky hell hole.
+In the throne sits Kerjim, the ancient demon, king to the Balrogs. The
+power he wields overwhelmes you.
+~
+230 0 0
+D0
+~
+~
+0 0 23017
+D1
+~
+~
+0 0 23021
+D2
+~
+~
+0 0 23011
+D3
+~
+~
+0 0 23008
+D4
+~
+~
+0 0 23006
+S
+#23008
+A Cavern~
+  A long cavern continues to the west, at the end of it is a bright glowing
+statue, you can not make out any of it's features but it looks magnificent.
+~
+230 0 0
+D0
+~
+~
+0 0 23027
+D1
+~
+~
+0 0 23007
+D2
+~
+~
+1 0 23030
+D3
+~
+~
+0 0 23009
+S
+#23009
+Nearing The Statue~
+  You can beging to make out the features on it, it is made of solid
+opal which is gleaming in the light. It appears to be a statue of
+some great god or creature.
+~
+230 0 0
+D1
+~
+~
+0 0 23008
+D3
+~
+~
+0 0 23010
+S
+#23010
+Upon The Heathe~
+  The floor of the cavern quickly fades into a muddy liquid and the
+surronding walls beging to melt. You are in a swampy cavern, a heathe.
+The statue is in the middle of the heathe, on a standing platform.
+~
+230 0 0
+D1
+~
+~
+0 0 23009
+D2
+~
+~
+0 0 23031
+S
+#23011
+A Fathomless Room~
+  This most be the biggest room you have ever seen, it appears to be a
+type of barracks where the creatures sleep. There are cots all over the
+ground, and an oil lamp hanging on the wall.
+~
+230 0 0
+D0
+~
+~
+0 0 23007
+D1
+~
+~
+0 0 23015
+D2
+~
+~
+0 0 23012
+D3
+~
+~
+0 0 23014
+S
+#23012
+A Fathomless Room~
+  There barracks continues, there are more cots lined up on the marshy
+ground. The room smells of dead corpses and other foul smelling things.
+~
+230 0 0
+D0
+~
+~
+0 0 23011
+D2
+~
+~
+0 0 23013
+S
+#23013
+A Fathomless Room~
+  A murky dust fills the air and makes it hard for you to breath, and
+the ash off the walls makes your eyes squint.
+~
+230 0 0
+D0
+~
+~
+0 0 23012
+D1
+~
+~
+0 0 23016
+D3
+~
+~
+0 0 7100
+S
+#23014
+A Fathomless Room~
+  The longer you stay down here, the more you wish to see the sun and
+the clouds once again, but gloom rests upon your soul and makes sorrow
+fill your emotions.
+~
+230 0 0
+D1
+~
+~
+0 0 23011
+S
+#23015
+A Fathomless Room~
+  A demonic presence states this territory, you have the urge to run and
+scream, but your better judgement prevents that from happening.
+~
+230 0 0
+D3
+~
+~
+0 0 23011
+S
+#23016
+A Fathomless Room~
+  Gloom clouds your better judgement and you being to saunter around
+the room. It slowly drives you insane, you take your weapon in hand
+and kill yourself. YOU ARE DEAD!
+~
+230 2 0
+S
+#23017
+A Tight Cavern~
+  This cavern is very tight, you can barely fit inside it. It doesn't
+appear to be leading anywhere special. It just continues to the north.
+~
+230 0 0
+D0
+~
+~
+0 0 23018
+D2
+~
+~
+0 0 23007
+S
+#23018
+A Tight Cavern~
+  The cavern keeps going north, and keeps getting tighter and tighter.
+This tunnel might have been caused by an underground earthquake.
+~
+230 0 0
+D0
+~
+~
+0 0 23019
+D2
+~
+~
+0 0 23017
+S
+#23019
+A Tight Cavern~
+  You are almost at the end of the cavern. A hazy mist surrounds you,
+maybe this cavern is going somewhere improtant.
+~
+230 0 0
+D0
+~
+~
+0 0 23020
+D2
+~
+~
+0 0 23018
+S
+#23020
+A Small Temple~
+  This is a small temple, there is a table in the center of the room
+covered with plates and untensels. Everything here is black, there
+is are curtains all around covering the burnt walls. The floor has
+runes encrusted into them, you can make out some of them, they are
+markings of the devil.
+~
+230 0 0
+D2
+~
+~
+0 0 23019
+S
+#23021
+A Trail Of Blood~
+  A small pebble trail leads into the inpending darkness, it is covered
+with blood. The trail leads on into the darkness.
+~
+230 0 0
+D1
+~
+~
+0 0 23022
+D3
+~
+~
+0 0 23007
+S
+#23022
+A Bend In The Trail~
+  There is blood leaking off the trail, there seems to have been alot of
+combat in this area, the trail winds now to the north.
+~
+230 0 0
+D0
+~
+~
+0 0 23023
+D3
+~
+~
+0 0 23021
+S
+#23023
+Another Bend In The Trail~
+  This tunnel seems to have alot of twists and turns to it. It makes
+another sharp turn to the east and continues onward.
+~
+230 0 0
+D1
+~
+~
+0 0 23024
+D2
+~
+~
+0 0 23022
+S
+#23024
+A Straight Path~
+  The path continues to the east without any turns, you can not see very
+far in for it is so dark. The blood is now around your ankles and still
+climbing.
+~
+230 0 0
+D1
+~
+~
+0 0 23025
+D3
+~
+~
+0 0 23023
+S
+#23025
+A Straight Path~
+  The path is nearing an end, the blood is no longer a dark red color,
+but instead has become a light blueish color, perhaps he blood of a
+Balrog.
+~
+230 0 0
+D1
+~
+~
+0 0 23026
+D3
+~
+~
+0 0 23024
+S
+#23026
+The End Of The Path~
+  The long tunnel has finally ended, corpses are lying dead on the surronding
+gravel, both human and balrog. Smells of blood fill your nostrils and make
+you sick.
+~
+230 0 0
+D0
+~
+~
+1 0 23035
+D3
+~
+~
+0 0 23025
+S
+#23027
+A Cavern~
+  A cavern continues along north, leading to a small pit used for burial reasons.
+A putrid smell fills the clean air.
+~
+230 0 0
+D0
+~
+~
+0 0 23028
+D2
+~
+~
+0 0 23008
+S
+#23028
+Beside The Burial Pit~
+  The things you see inside the pit are, obscene and horrid. It is
+disgusting how they treat there dead, all piled up to be burnt in a whole.
+~
+230 0 0
+D0
+~
+~
+0 0 23029
+D2
+~
+~
+1 0 23027
+S
+#23029
+In The Burial Pit~
+  You are amongst a pile of dead bodies, flees and other deseases are
+swarming around, attracted to the smell of the dead.
+~
+230 0 0
+D2
+~
+~
+0 0 23028
+S
+#23030
+A Secret Chamber~
+  You are in a chamber filled with howling balrogs. There are many
+different items of toture here, the rack, the vise and others.
+~
+230 0 0
+D0
+~
+~
+1 0 23008
+S
+#23031
+In The Heathe~
+  The marshy swamp fills the cavern, mud is up to your knees. The top
+of the cavern is made of dirt and looks like it could fall at anytime.
+Small chunks of weeds moss float through the mud ever so slowly.
+~
+230 0 0
+D0
+~
+~
+0 0 23010
+D1
+~
+~
+0 0 23032
+S
+#23032
+In The Heathe~
+  The underground heathe continues to the east, filled with small winged
+creatures that flutter around for the sole purpose of annoyance.
+~
+230 0 0
+D1
+~
+~
+0 0 23033
+D3
+~
+~
+0 0 23031
+S
+#23033
+The End Of The Heathe~
+  You have reached the end of the heathe, you can here an insane cackle
+coming from within the walls. The heathe conjures magic that can elude
+the mind, turning one, insane.
+~
+230 0 0
+D3
+~
+~
+0 0 23032
+S
+#23035
+The Maze Of Kerjim~
+  You stand at the entrance to an enormous maze, in the distance you can
+hear footsteps. The maze is made of stone walls and has alot of twists
+to it.
+~
+230 0 0
+D0
+~
+~
+0 0 23036
+D2
+~
+~
+1 0 23026
+S
+#23036
+In The Maze~
+  The maze is an enourmous labrynth of rooms all connected together, it
+continues on to the west and east.
+~
+230 0 0
+D1
+~
+~
+0 0 23038
+D2
+~
+~
+0 0 23035
+D3
+~
+~
+0 0 23037
+S
+#23037
+Dead End Of The Maze~
+  This part of the maze goes no further, it is a dead end. The only exit
+out is east.
+~
+230 0 0
+D1
+~
+~
+0 0 23036
+S
+#23038
+In The Maze~
+  The maze continues further into the darkness of the east. You can hear some
+sort of music being played, it is very faint yet very enchanting.
+~
+230 0 0
+D1
+~
+~
+0 0 23039
+D3
+~
+~
+0 0 23036
+S
+#23039
+In The Maze~
+  The sounds of music sooth your body, making you shiver with delight. You
+forget all your worries and fade into a different reality. The music stops
+and you feel the harsh realities of the world once again.
+~
+230 0 0
+D0
+~
+~
+0 0 23040
+D3
+~
+~
+0 0 23038
+S
+#23040
+In The Maze~
+  The maze continues, the darkness makes your soul cringe in terror. There
+are exits to the north, west and south.
+~
+230 0 0
+D0
+~
+~
+0 0 23041
+D2
+~
+~
+0 0 23039
+D3
+~
+~
+0 0 23042
+S
+#23041
+Dead End In The Maze~
+  There is a large pile of rubble blocking your way, you cannot journey any
+further. The only way back out is to the south.
+~
+230 0 0
+D2
+~
+~
+0 0 23040
+S
+#23042
+In The Maze~
+  The maze continues onward to the west and east, the enchanting music has
+begun playing again. You cannot make out the melody, but it sounds like
+it is a harp.
+~
+230 0 0
+D1
+~
+~
+0 0 23040
+D3
+~
+~
+0 0 23043
+S
+#23043
+Turn In The Maze~
+  The maze makes a sharp turn to the north and continues on. The music seems
+to make you saunter slowly towards it, almost as if you were drawn to the
+sound.
+~
+230 0 0
+D0
+~
+~
+0 0 23044
+D1
+~
+~
+0 0 23042
+S
+#23044
+In The Maze~
+  The maze continues along, leading to the south and east. The smell of 
+lucious fruits and roasted meat accompanies the music.
+~
+230 0 0
+D1
+~
+~
+0 0 23045
+D2
+~
+~
+0 0 23043
+S
+#23045
+In The Maze~
+  The maze seems to last forever, it continues to the south and north, and
+the west.
+~
+230 0 0
+D0
+~
+~
+0 0 23046
+D2
+~
+~
+0 0 23042
+D3
+~
+~
+0 0 23044
+S
+#23046
+In The Maze~
+  The sweat and fresh smells of gormey foods fill the air, cleansing your lungs
+and making your emotions turn to happiness, the beautifully strummed harp
+makes all the hatred and disgust of the Lair of Kerjim go away.
+~
+230 0 0
+D0
+~
+~
+0 0 23047
+D2
+~
+~
+0 0 23045
+S
+#23047
+A Three Exit Junction~
+  There are three exits, your can go every direction but north. There seems
+to have been a cave in to the north, and you can no longer enter there.
+~
+230 0 0
+D1
+~
+~
+0 0 23051
+D2
+~
+~
+0 0 23046
+D3
+~
+~
+0 0 23048
+S
+#23048
+In The Maze~
+  The music fades away into the distance, as does the smells. It seems that
+you are walking away from the direction intended.
+~
+230 0 0
+D0
+~
+~
+0 0 23049
+D1
+~
+~
+0 0 23047
+D3
+~
+~
+0 0 23050
+S
+#23049
+Another Dead End In The Maze~
+  This maze must be ancient, there have been so many caved in spots. The only
+exit is back to the south.
+~
+230 0 0
+D2
+~
+~
+0 0 23048
+S
+#23050
+Another Dead End In The Maze~
+  Another cave in blocks the original path to the west, the only way back is
+to go east.
+~
+230 0 0
+D1
+~
+~
+0 0 23048
+S
+#23051
+Another Turn In The Maze~
+  The maze now routes off to the north and south, and there is an exit to
+the west.
+~
+230 0 0
+D0
+~
+~
+0 0 23054
+D2
+~
+~
+0 0 23052
+D3
+~
+~
+0 0 23047
+S
+#23052
+Nearing A Dead End In The Maze~
+  You make a sharp turn and look around, to the east is another dead end.
+~
+230 0 0
+D0
+~
+~
+0 0 23051
+D1
+~
+~
+0 0 23053
+S
+#23053
+A Dead End In The Maze~
+  You have reached a dead end in the maze, a large pile of rusted armor blocks
+your way. The only exit is to the west
+~
+230 0 0
+D3
+~
+~
+0 0 23052
+S
+#23054
+In The Maze~
+  Of all the corridors, rooms and turns in the maze, this room has to be the
+strangest. It seems that the walls have been pasted over with some sort of
+eligant plaster that has peeled off in places. The ground is cold, and your
+feet freeze, it seems to made of a thick titanium substance.
+~
+230 0 0
+D1
+~
+~
+0 0 23055
+D2
+~
+~
+0 0 23051
+S
+#23055
+Another Junction In The Maze~
+  The music that was once heard no longer exists, every thing is silent.
+There are exits to the east, west and north.
+~
+230 0 0
+D0
+~
+~
+0 0 23057
+D1
+~
+~
+0 0 23056
+D3
+~
+~
+0 0 23054
+S
+#23056
+A Dead End In The Maze~
+  This dead end is blocked off by an enormous statue of a warrior balrog
+gripping a scythe covered in blood.
+~
+230 0 0
+D3
+~
+~
+0 0 23055
+S
+#23057
+Nearing A Large Door~
+  In the distance you can see an enourmous door swept with the finest emeralds
+and bejeweled with gold.
+~
+230 0 0
+D0
+~
+~
+0 0 23058
+D2
+~
+~
+0 0 23055
+S
+#23058
+At The Door~
+  You stand infront of a collosel door. Its covered with emeralds and gold.
+From within you can here the faint sound of music, and the smell of great
+good.
+~
+230 0 0
+D0
+~
+~
+1 0 23059
+D2
+~
+~
+0 0 23057
+S
+#23059
+The Temple Of Lilith~
+  You are in a remarkable splender, the walls elegantly carved with marble
+and bejeweled with the finest of emeralds, opals, sapphires and more. The
+table is covered with fresh fruits, vegetables, loaves of wholesome wheat
+bread and the smell if magnificent. At the head of the table is a large
+chair encrusted with the name Lilith. In it sits a beautiful woman covered
+in solemn clothing.
+~
+230 0 0
+D0
+~
+~
+0 0 23060
+D2
+~
+~
+1 0 23058
+S
+#23060
+The Bedroom Of Lilith~
+  There is a large sized bed in the center of the room with green curtains.
+On the left side of the room is a small table, and on it a lamp. Lilith
+was the prisoner of Kerjim, he loved her. She was forced to be locked in
+this room until she agreed to bewed him. She has reached immortality and
+spends all of eternity in this room.
+~
+230 0 0
+D2
+~
+~
+0 0 23059
+S
+$~

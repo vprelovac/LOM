@@ -1,0 +1,11 @@
+map lizard
+Ivan Elcic's Map of The Lizard Lair Safari
+
+  *--S     *                 *
+  |        |                 |
+ D01      U01-*-D02   D03---DT!---U02   U03-*-U04   D04-*--S
+
+  S   - Entrance
+  DT! - There is a Death Trap to the down!
+  Dn  - Descent number n
+  Un  - The end of the two-way descent number n (one may go up)

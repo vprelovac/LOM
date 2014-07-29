@@ -1,0 +1,825 @@
+#0
+bug~
+a bug~
+This is a Bug.  Please Report.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#1
+wings~
+a pair of wings~
+A pair of wings is sitting here.~
+~
+9 0 32769
+6 0 0 0
+0 0 200
+#3
+H h~
+an H~
+A small H about 3 inches tall~
+~
+9 813694976 65537
+0 0 0 14
+1 10 1
+#5
+quad damage~
+quad damage~
+Quad damage hoovers here.~
+undefined~
+3 65607 16385
+12 1 1 211
+2 0 100
+E
+quad damage~
+It seems to give some kind of undescribable power.
+~
+>
+greet_prog 100~
+mea $n you fellasd
+wait 1
+mea $n you sadfsdf
+wait 1
+mea $n you sssdf
+wait 5
+mea $n you \!!!!!!
+~
+|
+#6
+Q~
+a ring of Q~
+A oval thing made of something strange.~
+undefinedQ
+~
+9 807403521 3
+15 0 0 0
+30 0 0
+E
+Q~
+A ring of Q
+~
+A
+11 90
+A
+7 4
+A
+8 55
+A
+18 20
+A
+13 25
+A
+13 100
+#10
+waybread bread food~
+a waybread~
+Some waybread has been put here.~
+~
+19 64 1
+24 0 0 0
+1 50 50
+E
+waybread bread~
+The waybread is the traditional feed of elves when travelling, they
+call it lembas.  It is said to refresh the weary traveler greatly.
+~
+#11
+small dark cloud   food~
+a small, dark cloud~
+Small, dark cloud is floating here.~
+~
+19 64 1
+24 0 0 0
+1 50 50
+E
+small cloud dark~
+It floats just few meters above the ground, like some magical force put it
+there. It seems to be following someone.
+~
+#20
+portal gateway gate~
+a glowing portal~
+A glowing portal hovers here forming a gateway to another place.~
+~
+30 0 0
+0 0 0 0
+0 0 0
+#21
+eye   food~
+an eye~
+An eye~
+undefined~
+19 65544 16385
+15 0 0 0
+1 50 50
+#22
+ashes food~
+the ashes~
+The ashes~
+undefined~
+29 65544 16385
+15 0 0 0
+1 50 50
+#36
+cashcard card atm~
+a cashcard~
+A handy dandy cashcard is sitting on the ground here.~
+~
+12 92 16385
+0 0 0 0
+1 10000 10
+E
+cashcard card atm~
+There is some writing on the back of the card which reads:
+To use, type 'BALANCE', 'WITHDRAW <amount>', or 'DEPOSIT <amount>'.
+Please report any strange occurrences to the bank manager.
+~
+#39
+bug~
+undeniable excellence~
+This is a Bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#40
+slap~
+a forceful blow~
+This is a bug... please report.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+#41
+bug~
+needle-like sharpness~
+This is a bug.... Please Report~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#42
+bug~
+a painful flogging~
+This is a bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#43
+bug~
+blade-like efficiency~
+This is a bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#44
+bug~
+fangs from hell~
+This is a bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#45
+bug~
+a force to be reckoned with~
+This is a bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#46
+bug~
+bone-crushing efficiency~
+This is a Bug.  Please Report.~
+	~
+0 0 1
+0 0 0 0
+0 0 0
+#47
+bug~
+ten gigajoules of power~
+This is a Bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#48
+bug~
+an effort worthy of Freddy Krugar~
+This is a Bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#49
+bug~
+the speed of an avalanche~
+This is a Bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#50
+bug~
+the strength of a thousand bulls~
+This is a Bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#51
+bug~
+a very sharp point~
+This is a Bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#52
+bug~
+explosive fury~
+This is a Bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#54
+bug~
+a quick lunge~
+This is a Bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#55
+bug~
+extremely fine marksmanship~
+This is a Bug.  Please Report.~
+~
+13 0 1
+0 0 0 0
+0 0 0
+#56
+bug~
+mesmerizing grace~
+This is a Bug.  Please Report.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#57
+scraps~
+the scraps of %s~
+The scraps of %s lie here.~
+undefined~
+13 0 1
+0 0 0 0
+1 0 0
+#58
+scraps~
+a pile of thrash~
+A pile of thrash lies here.~
+undefined~
+13 0 1
+0 0 0 0
+1 0 0
+#60
+god armor~
+the God Armor~
+The God Armor floats softly on the ground.~
+~
+9 1073742147 9
+10 0 0 0
+400 0 1000000
+E
+god armor~
+The God Armor shines with a holy light.
+~
+#61
+god ring~
+the One Ring~
+The One Ring hums with insane bliss.~
+~
+9 1073742147 3
+10 0 0 0
+1 0 0
+#62
+halo~
+Holy Halo~
+A ring of heavenly light rests softly on the ground.~
+~
+9 1073742147 17
+10 0 0 0
+5 0 0
+#63
+ring truth~
+the True Ring~
+The True Ring hums with insane bliss.~
+~
+9 65859 3
+10 0 0 0
+0 0 0
+#64
+necklace medallion honor~
+the Medallion of Honor~
+A small medallion shines.~
+~
+9 1073742147 5
+10 0 0 0
+5 0 0
+#65
+heaven light~
+the Heaven's Light~
+The Heaven's Light shines bright.~
+~
+5 1610613059 40961
+1 10 10 3
+60 0 0
+#66
+god armor~
+the God Armor~
+The God Armor floats softly on the ground.~
+~
+9 1073742147 33
+10 0 0 0
+400 0 0
+#67
+god armor~
+the God Armor~
+The God Armor floats softly on the ground.~
+~
+9 65859 65
+20 0 0 0
+400 0 0
+#68
+god armor~
+the God Armor~
+The God Armor floats softly on the ground.~
+~
+9 1073742147 129
+10 0 0 0
+400 0 0
+#69
+god armor~
+the God Armor~
+The God Armor floats softly on the ground.~
+~
+9 1073742147 257
+10 0 0 0
+400 0 0
+#70
+god shield~
+the God Shield~
+The God Shield floats softly on the ground.~
+~
+9 1073742147 513
+10 0 0 0
+400 0 0
+#71
+wooden bow~
+a wooden bow~
+Wooden bow~
+~
+6 0 8193
+1 2 4 1
+11 320 0
+#72
+god bow~
+God's Bow~
+Gods bow~
+~
+6 3 8193
+1 1 4 1
+1 0 0
+#73
+god arrow~
+God's Arrows~
+An unfinished object is lying here.~
+~
+7 3 24577
+10 5 8 1
+200 1 0
+#74
+wooden arrow~
+a wooden arrow~
+A plain wooden arrow lies here.~
+~
+7 0 16385
+2 2 2 1
+1 100 0
+#75
+black arrow~
+a black arrow~
+A black arrow is lying on the ground.~
+~
+7 0 24577
+2 3 3 1
+2 900 0
+#76
+sharp arrow~
+a sharpened arrow~
+A very sharp arrow lies here.~
+~
+7 0 16385
+3 5 3 1
+2 4140 0
+#77
+long arrow~
+a long ivory arrow~
+A strange looking arrow lies here.~
+~
+7 0 16385
+6 4 3 1
+3 7220 0
+#78
+heavy arrow~
+a heavy bamboo arrow~
+A heavy looking arrow lies here.~
+~
+7 0 16385
+2 4 4 1
+5 8520 0
+#79
+map~
+map~
+A map rests here.~
+~
+16 4 1
+0 0 0 0
+1 500 0
+E
+map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~
+Gargamel's
+  Castle
+    |
+    |
+ Outside
+ Castle
+    |
+    |
+ Gargamel
+   Path
+    |
+    |
+ Smurfy-----Smurfy-------Smurfy---Smurfberry
+  Road       Road         Road      Patch
+    |                      |          |
+    |                      |          |
+  Jokey  Grumpy---Stone--Smurfy---Smurfberry
+  Home   House    Path    Road      Patch
+                    |      |          |
+                    |      |          |
+                  Papa     |          |
+                  Home     |          |
+                           |          |
+                           |          |
+             Smurfette---Smurfy---Smurfberry
+               Home       Road      Patch
+                           |
+                           |
+       Sleepy---Smurfy---Smurfy---Handy
+        Home     Road     Road    Home
+                  |        |
+                  |        |      Brainy
+                  |        |       Home
+                  |        |        |
+                Smurfy---Smurfy---Smurfy
+                 Road     Road    Road
+                  |        |
+                  |        |
+                Hefty   Village
+                Home    Entrance
+                           |
+                           |
+                         Dimly
+                        Lit Path
+                           |
+                           |
+                         Dimly
+                        Lit Path
+                           |
+                           |
+                         Dimly
+                        Lit Path
+                           |
+                           |
+                         Along
+                        Eastern
+                         Road~
+#80
+backpack~
+a backpack~
+An unused backpack~
+undefined~
+9 0 49153
+500 0 0 0
+10 0 0
+#81
+rock~
+a rock~
+A rock lies on the ground here.~
+~
+7 0 16385
+0 5 5 1
+5 0 0
+#82
+Soul Crusher~
+the soul crusher~
+A humming piece of your life force lies here.~
+undefined~
+5 18874435 40961
+20 6 20 3
+0 0 0
+A
+18 100
+A
+19 100
+A
+25 100
+F
+1074790528 0 0
+#84
+sword~
+sword~
+Sword~
+Sword~
+5 1073742161 40961
+2 10 10 7
+0 0 0
+#85
+mask~
+rictus mask~
+You see a death mask~
+~
+11 1073741826 65537
+0 0 0 0
+0 0 0
+#86
+shoes~
+shoes~
+Shoes~
+~
+9 0 65
+0 0 0 0
+0 0 0
+#87
+table~
+the table~
+You see a very large TABLE here.~
+~
+12 17 0
+0 0 0 0
+0 0 0
+E
+table~
+Inscriptions seem to be wiped by weather and time.
+~
+#90
+bread   food~
+bread~
+A piece of bread is here.~
+undefined~
+19 0 16385
+8 0 0 0
+0 10 0
+A
+10 10
+A
+11 10
+A
+9 10
+A
+3 5
+A
+5 13
+#91
+machine~
+coke machine~
+A shinny brand-new coke machine is simply placed here.~
+~
+15 0 0
+0 14 -1 0
+200 10000 10000
+E
+machine~
+You see a large block-like automat. It's huge, heavy  and full of refreshing 
+cans. It has a gleaming white letters writtten all over it. The letters
+shape a large inscription: "COCA COLA". Some smaller letters are engraved on
+the bottom line. It says MADE BY MIDGAARS ENTERTAINMENT & PLEASURE 
+TECHNOLOGIES (C) 123. 
+Just type 'buy coke' to get one.
+~
+#92
+can juice~
+can of juice~
+A can of juice is dropped here.~
+~
+17 65536 1
+8 8 12 0
+13 25 25
+E
+juice can~
+Aaaahh! So cold you can barely manage to hold it on your hand. Better drink
+it if not already.
+~
+#93
+fillet   food~
+fillet~
+A fillet of~
+~
+19 0 1
+8 0 0 1
+0 5 5
+#94
+book handbook guidebook~
+the Newbie Guidebook (type 'look book')~
+The Newbie Guidebook is left here.~
+~
+15 0 1
+0 0 -1 0
+1 0 0
+E
+3 first~
+First things to do...
+=-=-=-=-=-=-=-=-=-=-=
+
+- The first thing that you should do is go to the newbie school.
+  It is marked (2) on the map. Type: LOOK 2 to see the map on page 2.
+
+- This will give you some experience, gold, and equipment. You will also
+  be able to learn some commands by READing the signs. 
+  Then you could perhaps take a tour of Midgaard by FOLLOWing the newbie
+  guide who is usually at the Temple of Midgaard (if not just wait and he'll
+  come). 
+
+- Remember if you have any questions you can always ask somebody.
+  Most of the players here are both friendly and helpful.
+~
+E
+5 professions skills levels~
+Professions - Skills - Gaining Levels
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+- There are 6 player professions living in this land.
+  Warrior, Mage, Cleric, Thief, Monk, and Druid...
+  Each profession has it's own different skills and abbilities (type 
+ 'help class' to find more). 
+
+- To gain skills you must go to your guildmaster and type: PRAC <skill>
+  where <skill> is the name of the skill you want to practice.
+  To get a list of skills available to you just type PRAC.
+  LEARNED will show you skill you have learned. 
+  HELP SKILLS for information on skills.
+
+- Every class has it's own guild. GUILD is the place where you can find your
+  guildmaster and practice. You can see on the map where your GUILD is.
+
+* You can get further help on any of these commands by typing: HELP <command>.
+~
+E
+4 quiting saving~
+Saving Your Character - Quitting
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-  The basic command to save your character is 'SAVE'.  You should do this
+   often - every time you think you gained something valuable.
+
+-  When you want to take a break from playing, DO NOT do it by breaking
+   your connection. Be sure to save first, then type 'noquit' and then 'quit'.
+   It helps MUD staying stable both for you and for us.
+~
+E
+2 map~
+                             (2) up
+                             /
+                            /
+                          (1)---(3)
+                         / |
+                        /  |                        
+                      (5) (4)
+                     down  |
+                           |
+		   (7)	   |
+		    |	   |
+                    X-----(6)
+
+1) START         - Temple of Midgaard
+2) HEALING ROOM  - Is where you can sleep undisturbed and refresh your energy.
+3) DONATION ROOM - You will probably find some interesting items here.
+4) FOUNTAIN      - Get water here when you are thirsty. Refill canteens too.
+5) NEWBIE SCHOOL - Enter the newbie school for basic armour and weapons.
+6) MARKET SQUARE - The central square in Midgaard. There are many shops
+		   to the east and west from here.
+7) BAKERY        - Here you can buy something to eat when you are hungry.
+You can type 'help map' to get whole map of Midgaard.
+~
+E
+1 commands~
+Some Basic Commands
+=-=-=-=-=-=-=-=-=-=
+Some Commands you need at the start are:
+N,E,S,W,U,D    -- Type the first letter of a direction to move that way.
+EQ             -- Show equipment worn.
+INV            -- Inventory carried.
+SCORE          -- See information on your character.
+GOS <message>  -- Gossip a message that everyone can hear.
+EXITS          -- Show all exits from this room.
+AUTO           -- Configure automatic actions.
+HELP [command] -- Gives information on any command, or by itself gives a list.
+
+Some good help files to read when you finish with this book are: 
+HELP NEW    - for more introduction.
+COMMANDS    - for list of all available commands except so called socials. 
+SOCIALS     - for an overview of them. Socials are commands to help you express 
+emotions towards other player. Example 'smile' will tell other players in the 
+same room as you that you are smiling.
+
+It may look to you like too much to read about but we all have to pass through
+this once. So take your time and inform yourself. But remember: Best way to
+learn is to explore things.
+~
+E
+book~
+Newbie Guide Book:
+=-=-=-=-=-=-=-=-=-
+(1) BASIC COMMANDS
+    - Moving Around, Score, Inv, Gos, Eq, Exits, Auto.
+
+(2) MAPS - A Bite Of The Midgaard Map
+    - Map to get to Mudschool, Baker & Fountain.
+
+(3) What Do I Do FIRST?
+    - How to get to mud school.
+
+(4) QUITTING The Game - SAVING Your Character
+
+(5) PROFESSIONS - SKILLS - Gaining LEVELS
+
+Type: 'LOOK 1' or 'LOOK 2' etc to read the different sections.
+You may also use 'LOOK <title word in capitals>', for example,
+'LOOK COMMANDS'
+~
+#95
+table~
+the table~
+You see a very large TABLE here~
+~
+12 17 0
+0 0 0 0
+0 0 0
+E
+table~
+text o tabli
+~
+#96
+bag~
+bag~
+A bag is lying here.~
+~
+15 65544 1
+80 0 -1 0
+5 0 0
+#97
+spring water magic~
+a small, magical spring~
+Small spring is here, flowing magicly.~
+~
+23 92 0
+9999 9999 15 0
+9999 0 0
+#98
+head~
+a head~
+A head~
+undefined~
+29 65544 16385
+0 0 0 0
+20 0 1000
+#99
+scythe~
+Death's Scythe~
+The Scythe of Death lies here.~
+~
+5 0 8193
+0 15 15 7
+40 0 50000
+$~

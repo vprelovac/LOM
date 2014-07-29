@@ -1,0 +1,54 @@
+CircleMUD v3.0 Shop File~
+#19401~
+304
+3030
+-1
+1.20
+0.60
+1
+10
+11
+19
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+306
+0
+19455
+-1
+0
+23
+0
+0
+#19402~
+3000
+3001
+-1
+1.10
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+308
+0
+19456
+-1
+0
+23
+0
+0
+$~
