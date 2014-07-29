@@ -1,0 +1,7 @@
+*.o
+*.exe
+*.*~
+syslog
+syslog.CRASH
+/lib/etc/players
+log/*
