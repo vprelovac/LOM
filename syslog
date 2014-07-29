@@ -323,3 +323,5 @@ ident check write (conned): Connection refused
 ident check write (conned): Connection refused
 Jul 29 11:58:53 :: Bog [127.0.0.1] has connected.
 Jul 29 11:59:02 :: Bog un-renting and entering game.
+Jul 29 12:03:13 :: Lazarini [130.180.251.43] new player.
+Jul 29 12:03:13 :: Losing player: Lazarini.
