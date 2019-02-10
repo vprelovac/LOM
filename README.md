@@ -1,3 +1,9 @@
+
+I created and maintained Lands of Myst between 1996 and 2001. It was the main reason I and many who played it dropped out of the college. But we had the time of our lives!
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
 Lands of Myst MUD
 
 Instructions
