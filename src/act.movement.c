@@ -428,7 +428,7 @@ int do_simple_move(struct char_data * ch, int dir, int need_specials_check)
 
 
     if (DEAD(ch))
-        return;
+        return 0;
     /* Check for special routines (North is 1 in command list, but 0 here)
        Note -- only check if following; this avoids 'double spec-proc' bug */
     if (need_specials_check && special(ch, dir + 1, ""))
@@ -613,7 +613,7 @@ int do_simple_move(struct char_data * ch, int dir, int need_specials_check)
         
         rprog_leave_trigger(ch);
         if (DEAD(ch))
-            return;
+            return 0;
         
         GET_MOVE_EVENT(ch)=event_create(move_event, sniff, pulse_move);
         WAIT_STATE(ch, pulse_move);
@@ -698,7 +698,7 @@ int do_simple_move(struct char_data * ch, int dir, int need_specials_check)
 
         rprog_leave_trigger(ch);
         if (DEAD(ch))
-            return;
+            return 0;
 
 
         char_from_room(ch);
@@ -786,7 +786,7 @@ int do_simple_move(struct char_data * ch, int dir, int need_specials_check)
             }
 
         if (DEAD(ch))
-            return;
+            return 0;
 
         if (IS_SET(ROOM_FLAGS(ch->in_room), ROOM_DEATH) && GET_LEVEL(ch) < LVL_IMMORT) {
             char buf2[200];
