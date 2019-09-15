@@ -1275,13 +1275,16 @@ int             get_number(char **name)
     int             i;
     char           *ppos;
     char            number[MAX_INPUT_LENGTH];
+    char 	tmp[100];
 
     *number = '\0';
-
+    
     if ((ppos = strchr(*name, '.'))) {
         *ppos++ = '\0';
         strcpy(number, *name);
-        strcpy(*name, ppos);
+        strcpy(tmp, ppos);
+        
+        strcpy(*name, tmp);
 
         for (i = 0; *(number + i); i++)
             if (!isdigit(*(number + i)))
