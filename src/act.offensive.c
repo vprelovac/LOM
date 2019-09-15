@@ -569,7 +569,7 @@ ACMD(do_disarm)
             act("$n skillfully DISARMS $N!&0", FALSE, ch, obj, vict, TO_NOTVICT);
 
 
-            if (obj = GET_EQ(vict, WEAR_DUALWIELD)) {
+            if ((obj = GET_EQ(vict, WEAR_DUALWIELD))) {
                 act("You flip $p to your other hand.", FALSE, vict, obj, NULL, TO_CHAR);
                 act("$n flips $p to $s other hand.", FALSE, vict, obj, NULL, TO_ROOM);
                 obj_to_char(unequip_char(vict, WEAR_DUALWIELD), vict);
@@ -959,7 +959,7 @@ ACMD(do_order)
 
             for (k = ch->followers; k;k=pom) {
             	pom=k->next;
-                if (org_room == k->follower->in_room)
+                if (org_room == k->follower->in_room) {
                     if (IS_AFFECTED(k->follower, AFF_CHARM) && (!FIGHTING(k->follower) || GET_MOB_WAIT(k->follower)<=0)) {
                         found = TRUE;
                         GET_MOB_WAIT(k->follower)=0;
@@ -967,6 +967,7 @@ ACMD(do_order)
                     }
                     else if (GET_MOB_WAIT(k->follower)>0)
                         found=TRUE;
+                }        
 
             }
             if (!found)
@@ -1096,7 +1097,7 @@ ACMD(do_flee)
                         act("&CYou throw $p in panic!!!&0\r\n", FALSE, ch, obj, 0, TO_CHAR);
                         act("&c$n throws $p in panic!!!&0", FALSE, ch, obj, 0, TO_ROOM);
                         obj_to_room(unequip_char(ch, WEAR_WIELD), ch->in_room);
-                        if (obj = GET_EQ(ch, WEAR_DUALWIELD)) {
+                        if ((obj = GET_EQ(ch, WEAR_DUALWIELD))) {
                             obj_to_char(unequip_char(ch, WEAR_DUALWIELD), ch);
                             obj_from_char(obj);
                             equip_char(ch, obj, WEAR_WIELD);
@@ -2100,7 +2101,7 @@ void fire_in_direction(struct char_data * ch, struct obj_data * obj, int dir, in
         }
         obj_to_room(obj, temp_room);
         if (GET_OBJ_TYPE(obj)==ITEM_MISSILE)
-            GET_OBJ_VAL(obj, 3)==0;
+            GET_OBJ_VAL(obj, 3)=0;
     }
     WAIT_STATE(ch, PULSE_VIOLENCE);
 }

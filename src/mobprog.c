@@ -163,23 +163,6 @@ static bool carryingvnum_visit( CHAR_DATA * ch, int vnum )
             return TRUE;
 
     return FALSE;
-    /*
-     
-    if ( GET_OBJ_ obj->pIndexData->vnum == vnum )
-         return TRUE;
-    if ( obj->first_content )   node has a child? 
-{
-       if ( carryingvnum_visit( ch, obj->first_content, vnum ) )
-          return TRUE;
-       if ( obj->next_content ) /* node has a sibling? 
-          if ( carryingvnum_visit( ch, obj->next_content, vnum ) )
-             return TRUE;
-}
-    else 
-    if ( obj->next_content )  /* node has a sibling? 
-       if ( carryingvnum_visit( ch, obj->next_content, vnum ) )
-          return TRUE;
-    return FALSE;*/
 }
 
 void progbug( char *str, CHAR_DATA *mob )
@@ -2431,7 +2414,7 @@ kraj_event:
 
     if (global_newsupermob)
         init_supermob();
-    return;
+    return 0;
 }
 
 

@@ -434,7 +434,7 @@ void show_obj_to_char(struct obj_data * object, struct char_data * ch,
         }
     }
     if (num && mode==1)
-        sprintf(buf, buf1);
+        sprintf(buf, "%s", buf1);
 
     if (mode==11)
         ch_printf(ch, "%-46s ", buf);
@@ -552,7 +552,7 @@ void list_obj_to_char(struct obj_data * list, struct char_data * ch, int mode, b
         
 	        
         //sprintf(buf, "&cTotal weight: &C%3.1f kg (%3d max)&c   Items:&C%2d (%2d max)&0\r\n", IS_CARRYING_W(ch)/2.0, CAN_CARRY_W(ch)/2, IS_CARRYING_N(ch), CAN_CARRY_N(ch)); 
-        sprintf(buf, "\r\n&yItems:&Y%2d/%2d   &yWeight: &Y%3.1f/%3d kg&0\r\n", IS_CARRYING_N(ch), CAN_CARRY_N(ch), IS_CARRYING_W(ch)/2.0, CAN_CARRY_W(ch)/2); 
+        sprintf(buf, "\r\n&yItems:&Y%2ld/%2d   &yWeight: &Y%3.1f/%3d kg&0\r\n", IS_CARRYING_N(ch), CAN_CARRY_N(ch), IS_CARRYING_W(ch)/2.0, CAN_CARRY_W(ch)/2); 
         send_to_char(buf, ch);       
         //sprintf(buf, "&cTotal weight: &C%4.1f kg (%s)&0\r\n",(float)  IS_CARRYING_W(ch)/2.0,  carry_cond[MAX(0, MIN(3, ((int) get_carry_cond(ch))))]);
         
@@ -1647,7 +1647,7 @@ ACMD(do_examine)
             look_in_obj(ch, arg);
         }
     } else {
-        if (obj = get_object_in_equip_vis(ch, arg, ch->equipment,(int *) &tmp_char)) {
+        if ((obj = get_object_in_equip_vis(ch, arg, ch->equipment,(int *) &tmp_char))) {
             send_to_char("&GWhen you look inside, you see:&0\r\n", ch);
             look_in_obj(ch, arg);
         } else if ((obj = get_obj_in_list_vis(ch, arg, ch->carrying))) {
@@ -1820,12 +1820,12 @@ ACMD(do_score)
     //sprintf(buf, "%sHit : %s%4d&0/&G%4d&0 (&c%c%-3d&0)      Exp to level: &c%-15d&0Hitroll: &c%2d&0\r\n",
     sprintf(buf, "%sHit   : %s%4d&0/&G%4d&0 (&G%c%-3d&0)      Exp to level: &G%-6d&0           Hitroll: &G%2d&0\r\n",
             //buf, colorbuf, GET_HIT(ch), GET_MAX_HIT(ch), (hit_gain(ch)>0? '+' : '-'), abs(hit_gain(ch)),  total_exp(GET_LEVEL(ch))-GET_EXP(ch), ch->points.hitroll/*,((str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction)>=0 ? "+": ""), str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction*/);
-            buf, colorbuf, GET_HIT(ch), GET_MAX_HIT(ch), (hit_gain(ch)>0? '+' : '-'), abs(hit_gain(ch)),  LEVELEXP(ch)-GET_EXP(ch), ch->points.hitroll/*,((str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction)>=0 ? "+": ""), str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction*/);
+            buf, colorbuf, GET_HIT(ch), GET_MAX_HIT(ch), (hit_gain(ch)>0? '+' : '-'), fabsf(hit_gain(ch)),  LEVELEXP(ch)-GET_EXP(ch), ch->points.hitroll/*,((str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction)>=0 ? "+": ""), str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction*/);
 
     i = 100 * GET_MANA(ch) / (GET_MAX_MANA(ch)?GET_MAX_MANA(ch):1);
     STATUS_COLOR(i, colorbuf, ch, C_CMP);
     sprintf(buf, "%sEnergy: %s%4d&0/&G%4d&0 (&G%c%-3d&0)  Adventure points: &G%-7d&0          Damroll: &G%2d&0\r\n",
-            buf, colorbuf, GET_MANA(ch), GET_MAX_MANA(ch),(mana_gain(ch)>=0? '+' : '-'), abs(mana_gain(ch)),GET_QUESTPOINTS(ch), ch->points.damroll/*, ((str_app[STRENGTH_APPLY_INDEX(ch)].todam>=0) ? "+":""),str_app[STRENGTH_APPLY_INDEX(ch)].todam*/);
+            buf, colorbuf, GET_MANA(ch), GET_MAX_MANA(ch),(mana_gain(ch)>=0? '+' : '-'), fabsf(mana_gain(ch)),GET_QUESTPOINTS(ch), ch->points.damroll/*, ((str_app[STRENGTH_APPLY_INDEX(ch)].todam>=0) ? "+":""),str_app[STRENGTH_APPLY_INDEX(ch)].todam*/);
 
     i = 100 * GET_MOVE(ch) / (GET_MAX_MOVE(ch)?GET_MAX_MOVE(ch):1);
 
@@ -1833,7 +1833,7 @@ ACMD(do_score)
 
     sprintf(buf1, "%d+%d", GET_GOLD(ch), GET_BANK_GOLD(ch));
     sprintf(buf, "%sMove  : %s%4d&0/&G%4d&0 (&G%c%-3d&0)         Gold+Bank: &G%-12s&0 Armor class:&G%3d/10&0\r\n",
-            buf, colorbuf, GET_MOVE(ch), GET_MAX_MOVE(ch), (move_gain(ch)>0? '+' : '-'), abs(move_gain(ch)), buf1,GET_AC(ch));
+            buf, colorbuf, GET_MOVE(ch), GET_MAX_MOVE(ch), (move_gain(ch)>0? '+' : '-'), fabsf(move_gain(ch)), buf1,GET_AC(ch));
     //send_to_char(buf, ch);    
     
     sprintf(buf, "%s                                     Faith: &G%-3d%%&0        Magic resist:&G%3d&0\r\n\r\n",
@@ -2944,7 +2944,7 @@ ACMD(do_users)
             sprintf(line, format, d->desc_num, "   -   ", 
                     state, idletime, timeptr);
 
-        if (d->host && *d->host)
+        if (*d->host)
             sprintf(line + strlen(line), "%s [%s]\r\n", d->host,  d->character?d->character->player_specials->saved.email:"");
         else
             sprintf(line+strlen(line), "Unknown [%s]\r\n",  d->character? d->character->player_specials->saved.email:"");
@@ -3491,7 +3491,7 @@ ACMD(do_consider)
         send_to_char("Easy.\r\n", ch);
     else if (diff <= -1)
         send_to_char("Fairly easy.\r\n", ch);
-    else if ((diff == 0))
+    else if (diff == 0)
         send_to_char("The perfect match!\r\n", ch);
     else if (diff <= 1)
         send_to_char("You would need some luck!\r\n", ch);
@@ -4441,10 +4441,10 @@ ACMD(do_leech)
     argument = one_argument(argument, buf);
     if (!*buf)
         show_leech(ch);
-    else if (buf && isname("off", buf))
+    else if (isname("off", buf))
     {
         argument = one_argument(argument, buf);
-        if (buf && (is_number(buf) || isname("all", buf)))
+        if ( (is_number(buf) || isname("all", buf)))
         {
             num=(is_number(buf)? atoi(buf):123454321);
             leech_from_char(ch, -num);

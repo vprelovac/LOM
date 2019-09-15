@@ -833,11 +833,11 @@ int call_magic(struct char_data * caster, struct char_data * cvict,
         return 0;
 
     if (caster && DEAD(caster))
-        return;
+        return 0;
     if (cvict && DEAD(cvict))
-        return;
+        return 0;
     if (ovict && PURGED(ovict))
-        return;
+        return 0;
 
     if (ROOM_FLAGGED(caster->in_room, ROOM_NOMAGIC) && !IS_GOD(caster) && caster!=supermob) {
     	if (IS_CLERIC(caster))
@@ -948,7 +948,7 @@ int call_magic(struct char_data * caster, struct char_data * cvict,
         
 
     if (DEAD(caster))
-        return;
+        return 0;
 
     if (IS_SET(SINFO.routines, MAG_MANUAL))
         switch (spellnum) {
@@ -1287,7 +1287,7 @@ int cast_spell(struct char_data * ch, struct char_data * tch,
     	ch_printf(ch, "You cannot cast this %s upon yourself!\r\n", SORP(ch));        
         return 0;
     }
-    if (IS_SET(SINFO.routines, MAG_GROUPS) && (!IS_AFFECTED(ch, AFF_GROUP) || count_group(ch) == 1) && !spellnum==SPELL_HEALING_TOUCH) {
+    if (IS_SET(SINFO.routines, MAG_GROUPS) && (!IS_AFFECTED(ch, AFF_GROUP) || count_group(ch) == 1) && spellnum!=SPELL_HEALING_TOUCH) {
         ch_printf(ch, "You can't cast this %s if you're not in a group!\r\n", SORP(ch));
         return 0;
     }

@@ -995,7 +995,7 @@ void            char_to_room(struct char_data * ch, int room)
                                 }
                     }
             }
-            else if (!ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)  && MOB_FLAGGED(ch, MOB_AGGRESSIVE | MOB_AGGR_TO_ALIGN) || ((MOB_FLAGGED(ch, MOB_MEMORY) && MEMORY(ch))))
+            else if (!ROOM_FLAGGED(ch->in_room, ROOM_PEACEFUL)  && (MOB_FLAGGED(ch, MOB_AGGRESSIVE | MOB_AGGR_TO_ALIGN) || (MOB_FLAGGED(ch, MOB_MEMORY) && MEMORY(ch))))
             {
                 for (vmob = world[ch->in_room].people; vmob != NULL; vmob = vmob->next_in_room)
                     if (!IS_NPC(vmob) && !FIGHTING(vmob) && CAN_SEE(ch,vmob) && GET_POS(ch)>POS_SLEEPING && !PRF_FLAGGED(vmob, PRF_NOHASSLE)) {

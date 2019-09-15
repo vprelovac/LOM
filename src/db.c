@@ -517,7 +517,7 @@ void check_add_topdam(char *ch, char *vict, int dam, int skill, int what, int kl
 
     for (i=9;i>=0;i--)
     {
-        if (pom[i].ch && !strcmp(ch, pom[i].ch))
+        if (*pom[i].ch && !strcmp(ch, pom[i].ch))
         {
             found=1;
             break;
@@ -559,7 +559,7 @@ dole:
 
     for (i=9;i>=0;i--)
     {
-        if (pom[i].ch && !strcmp(ch, pom[i].ch))
+        if (*pom[i].ch && !strcmp(ch, pom[i].ch))
         {
             found=1;
             break;
@@ -1990,7 +1990,7 @@ void            parse_complex_mob(FILE * mob_f, int i, int nr)
                 cnt++;
                 break;
             default:
-                fprintf(stderr, "Error in C section in mob #%d (line??)\n", nr);
+                fprintf(stderr, "Error in C section in mob #%d (line unknown)\n", nr);
                 exit(1);
             }
         }
@@ -2735,7 +2735,7 @@ struct char_data *read_mobile(int nr, int type, int rznum)
     struct char_data *mob;
 
     if (nr==-1)
-        return;
+        return NULL;
     if (type == VIRTUAL) {
         if ((i = real_mobile(nr)) < 0) {
             sprintf(buf, "Mobile (V) %d does not exist in database.", nr);
@@ -4287,7 +4287,7 @@ int             file_to_string(char *name, char *buf)
     }
    /* do {
         fgets(tmp, MAX_STRING_LENGTH, fl);
-        tmp[strlen(tmp) - 1] = '\0';    /* take off the trailing \n 
+        tmp[strlen(tmp) - 1] = '\0';    
         strcat(tmp, "\r\n");
 
         if (!feof(fl)) {

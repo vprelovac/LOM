@@ -199,7 +199,7 @@ EVENTFUNC(move_event)
             if (!IS_NPC(ch) && strcmp(ch->player_specials->saved.walkin, "off"))
             {
                 strcpy(buf, ch->player_specials->saved.walkin);
-                if (s=strchr(buf, '#'))
+                if ((s=strchr(buf, '#')))
                 {
                     *s=0;
                     sprintf(buf2, "$n %s%s%s", buf, dirs[dir], s+1);
@@ -295,7 +295,7 @@ EVENTFUNC(move_event)
         
     /*    
         
-    if ((IN_ARENA(ch) || !IS_AFFECTED(ch, AFF_SNEAK)) /*&& need_specials_check!=50/) {
+    if ((IN_ARENA(ch) || !IS_AFFECTED(ch, AFF_SNEAK)) {
         if (AFF2_FLAGGED(ch, AFF2_HASTE))
             sprintf(buf2, "$n arrives quickly from %s.", dirs2[rev_dir[dir]]);
         else if (AFF_FLAGGED(ch, AFF_FLYING))
@@ -376,12 +376,6 @@ EVENTFUNC(move_event)
         sprintf(buf2, "\r\n&BINFO || &C%s&c hits the death trap.&0\r\n", GET_NAME(ch));
         INFO_OUT(buf2);            
         
-        
-        /*GET_QUESTPOINTS(ch)-=2*GET_LEVEL(ch);
-        char_from_room(ch);
-        char_to_room(ch, real_room(3001));
-               
-        //	extract_char(ch);*
         
         
         GET_MOVE_EVENT(ch)=NULL;
@@ -665,7 +659,7 @@ int do_simple_move(struct char_data * ch, int dir, int need_specials_check)
             if (!IS_NPC(ch) && strcmp(ch->player_specials->saved.walkout, "off"))
             {
                 strcpy(buf, ch->player_specials->saved.walkout);
-                if (s=strchr(buf, '#'))
+                if ((s=strchr(buf, '#')))
                 {
                     *s=0;
                     sprintf(buf2, "$n %s%s%s", buf, dirs[dir], s+1);
@@ -723,7 +717,7 @@ int do_simple_move(struct char_data * ch, int dir, int need_specials_check)
             if (!IS_NPC(ch) && strcmp(ch->player_specials->saved.walkin, "off"))
             {
                 strcpy(buf, ch->player_specials->saved.walkin);
-                if (s=strchr(buf, '#'))
+                if ((s=strchr(buf, '#')))
                 {
                     *s=0;
                     sprintf(buf2, "$n %s%s%s", buf, dirs[dir], s+1);

@@ -428,7 +428,7 @@ void            auto_equip(struct char_data * ch, struct obj_data * obj, int loc
         default:
             locate = 0;
         }
-        if (locate > 0)
+        if (locate > 0) {
             if (!GET_EQ(ch, j)) {
                 /* check ch's alignment to prevent $M from being zapped through auto-equip */
                 if ((IS_OBJ_STAT(obj, ITEM_ANTI_EVIL) && IS_EVIL(ch)) ||
@@ -440,6 +440,7 @@ void            auto_equip(struct char_data * ch, struct obj_data * obj, int loc
             } else              /* oops - saved player with double
                                      * equipment[j]? */
                 locate = 0;
+        }
     }
     if (locate <= 0)
         obj_to_char(obj, ch);

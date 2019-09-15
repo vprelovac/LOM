@@ -39,23 +39,23 @@ extern struct descriptor_data *descriptor_list;
 /*
  * External functions.
  */
-extern          zedit_setup(struct descriptor_data * d, int room_num);
-extern          zedit_save_to_disk(struct descriptor_data * d, int new_format);
-extern          zedit_new_zone(struct char_data * ch, int new_zone);
-extern          medit_setup_new(struct descriptor_data * d);
-extern          medit_setup_existing(struct descriptor_data * d, int rmob_num);
-extern          medit_save_to_disk(struct descriptor_data * d, int new_format);
-extern          redit_setup_new(struct descriptor_data * d);
-extern          redit_setup_existing(struct descriptor_data * d, int rroom_num);
-extern          redit_save_to_disk(struct descriptor_data * d, int new_format);
-extern          oedit_setup_new(struct descriptor_data * d);
-extern          oedit_setup_existing(struct descriptor_data * d, int robj_num);
-extern          oedit_save_to_disk(struct descriptor_data * d, int new_format);
-extern          sedit_setup_new(struct descriptor_data * d);
-extern          sedit_setup_existing(struct descriptor_data * d, int robj_num);
-extern          sedit_save_to_disk(struct descriptor_data * d, int new_format);
-extern          real_shop(int vnum);
-extern          free_shop(struct shop_data * shop);
+extern          void zedit_setup(struct descriptor_data * d, int room_num);
+extern          void zedit_save_to_disk(struct descriptor_data * d, int new_format);
+extern          void zedit_new_zone(struct char_data * ch, int new_zone);
+extern          void medit_setup_new(struct descriptor_data * d);
+extern          void medit_setup_existing(struct descriptor_data * d, int rmob_num);
+extern          void medit_save_to_disk(struct descriptor_data * d, int new_format);
+extern          void redit_setup_new(struct descriptor_data * d);
+extern          void redit_setup_existing(struct descriptor_data * d, int rroom_num);
+extern          void redit_save_to_disk(struct descriptor_data * d, int new_format);
+extern          void oedit_setup_new(struct descriptor_data * d);
+extern          void oedit_setup_existing(struct descriptor_data * d, int robj_num);
+extern          void oedit_save_to_disk(struct descriptor_data * d, int new_format);
+extern          void sedit_setup_new(struct descriptor_data * d);
+extern          void sedit_setup_existing(struct descriptor_data * d, int robj_num);
+extern          void sedit_save_to_disk(struct descriptor_data * d, int new_format);
+extern          int real_shop(int vnum);
+extern          void free_shop(struct shop_data * shop);
 extern void     free_room(struct room_data * room);
 extern void     medit_free_mobile(struct char_data * mob);
 

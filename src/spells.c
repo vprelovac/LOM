@@ -458,7 +458,7 @@ ASPELL(spell_clairvoyance)
     if (ch == NULL || victim == NULL)
         return;
 
-    if (AFF3_FLAGGED(victim, AFF3_SHROUD) || mag_savingthrow(victim, SAVING_SPELL, ch) || (ROOM_FLAGGED(victim->in_room, ROOM_PRIVATE | ROOM_DEATH))) {
+    if (AFF3_FLAGGED(victim, AFF3_SHROUD) || mag_savingthrow(victim, SAVING_SPELL, ch) || (ROOM_FLAGGED(victim->in_room, (ROOM_PRIVATE | ROOM_DEATH)))) {
         send_to_char(SUMMON_FAIL1, ch);
         return;
     }
@@ -1842,7 +1842,7 @@ ASPELL(spell_portal)
 
 ASPELL(spell_create_spring)
 {
-    struct obj_data *spring = '\0';
+    struct obj_data *spring = NULL;
     int             spring_num = 97;
     *buf = '\0';
 
@@ -2206,7 +2206,7 @@ ASPELL(spell_visions)
     if (ch == NULL || victim == NULL)
         return;
 
-    if (AFF3_FLAGGED(victim, AFF3_SHROUD) || (GET_LEVEL(ch)<GET_LEVEL(victim)-5) || (ROOM_FLAGGED(victim->in_room, ROOM_PRIVATE | ROOM_DEATH))) {
+    if (AFF3_FLAGGED(victim, AFF3_SHROUD) || (GET_LEVEL(ch)<GET_LEVEL(victim)-5) || (ROOM_FLAGGED(victim->in_room, (ROOM_PRIVATE | ROOM_DEATH)))) {
         send_to_char(SUMMON_FAIL1, ch);
         return;
     }

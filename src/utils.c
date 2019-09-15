@@ -152,11 +152,12 @@ int             strn_cmp(char *arg1, char *arg2, int n)
     i;
 
     for (i = 0; (*(arg1 + i) || *(arg2 + i)) && (n > 0); i++, n--)
-        if ((chk = LOWER(*(arg1 + i)) - LOWER(*(arg2 + i))))
+        if ((chk = LOWER(*(arg1 + i)) - LOWER(*(arg2 + i)))) {
             if (chk < 0)
                 return (-1);
             else
                 return (1);
+        }
 
     return (0);
 }
@@ -1508,7 +1509,7 @@ int is_guarded(struct char_data *ch)
     if (!ch)
     {
         log("SYSERR: null pointer passed to is_guarding");
-        return;
+        return 0;
     }
 
     for (mob = character_list; mob; mob = mob->next)

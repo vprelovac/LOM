@@ -36,7 +36,7 @@ extern struct char_data *character_list;
 int             num_of_clans;
 struct clan_rec clan[MAX_CLANS];
 
-extern          save_char_file_u(struct char_file_u st);
+extern          void save_char_file_u(struct char_file_u st);
 extern struct descriptor_data *descriptor_list;
 
 char            clan_privileges[NUM_CP + 1][20] = {
@@ -213,7 +213,7 @@ void            do_clan_destroy(struct char_data * ch, char *arg)
         }
     }
 
-    memset(&clan[i], sizeof(struct clan_rec), 0);
+    memset(&clan[i], 0, sizeof(struct clan_rec));
 
     for (j = i; j < num_of_clans - 1; j++)
         clan[j] = clan[j + 1];
@@ -520,7 +520,7 @@ void            do_clan_status(struct char_data * ch)
     }
     clan_num = (GET_CLAN(ch));
 
-    if (GET_CLAN_RANK(ch) == 0)
+    if (GET_CLAN_RANK(ch) == 0) {
         if (clan_num >= 0) {
             sprintf(line_disp, "You applied to %s.\r\n", clan[clan_num].name);
             send_to_char(line_disp, ch);
@@ -529,6 +529,7 @@ void            do_clan_status(struct char_data * ch)
             send_to_char("You do not belong to a clan!\r\n", ch);
             return;
         }
+    }
 
     sprintf(line_disp, "You are %s (Rank %d) of %s (ID %d)\r\n",
             clan[clan_num].rank_name[GET_CLAN_RANK(ch) - 1], GET_CLAN_RANK(ch),

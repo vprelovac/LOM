@@ -385,7 +385,7 @@ ACMD(do_get)
             }
             for (cont = ch->carrying; cont; cont = cont->next_content)
                 if (CAN_SEE_OBJ(ch, cont) &&
-                        (cont_dotmode == FIND_ALL || isname(arg2, cont->name)))
+                        (cont_dotmode == FIND_ALL || isname(arg2, cont->name))) {
                     if (GET_OBJ_TYPE(cont) == ITEM_CONTAINER) {
                         found = 1;
                         get_from_container(ch, cont, arg1, FIND_OBJ_INV);
@@ -393,9 +393,10 @@ ACMD(do_get)
                         found = 1;
                         act("$p is not a container.", FALSE, ch, cont, 0, TO_CHAR);
                     }
+                }
             for (cont = world[ch->in_room].contents; cont; cont = cont->next_content)
                 if (CAN_SEE_OBJ(ch, cont) &&
-                        (cont_dotmode == FIND_ALL || isname(arg2, cont->name)))
+                        (cont_dotmode == FIND_ALL || isname(arg2, cont->name))) {
                     if (GET_OBJ_TYPE(cont) == ITEM_CONTAINER) {
                         get_from_container(ch, cont, arg1, FIND_OBJ_ROOM);
                         found = 1;
@@ -403,6 +404,7 @@ ACMD(do_get)
                         act("$p is not a container.", FALSE, ch, cont, 0, TO_CHAR);
                         found = 1;
                     }
+                }
             if (!found) {
                 if (cont_dotmode == FIND_ALL)
                     send_to_char("You can't seem to find any containers.\r\n", ch);
@@ -1404,11 +1406,12 @@ int perform_wear(struct char_data * ch, struct obj_data * obj, int where, int sk
     	return 0;
     /* for neck, finger, and wrist, try pos 2 if pos 1 is already full */
     if ((where == WEAR_FINGER_R) || (where == WEAR_NECK_1) || (where == WEAR_WRIST_R) || (where==WEAR_WIELD))
-        if (GET_EQ(ch, where))
+        if (GET_EQ(ch, where)) {
             if (where==WEAR_WIELD)
                 where+=2;
             else
                 where++;
+        }
 
     if (where == WEAR_DUALWIELD) {
         if (IS_OBJ_STAT(obj, ITEM_2HANDED)) {
@@ -1951,7 +1954,7 @@ void perform_remove(struct char_data * ch, int pos)
         act("You stop using $p.", FALSE, ch, obj, 0, TO_CHAR);
         act("$n stops using $p.", TRUE, ch, obj, 0, TO_ROOM);
         if (pos == WEAR_WIELD) {
-            if (obj = GET_EQ(ch, WEAR_DUALWIELD)) {
+            if ((obj = GET_EQ(ch, WEAR_DUALWIELD))) {
                 act("You flip $p to your other hand.", FALSE, ch, obj, NULL, TO_CHAR);
                 act("$n flips $p to $s other hand.", FALSE, ch, obj, NULL, TO_ROOM);
                 obj_to_char(unequip_char(ch, WEAR_DUALWIELD), ch);

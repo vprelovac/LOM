@@ -111,11 +111,12 @@ int             is_open(struct char_data * keeper, int shop_nr, int msg)
     *buf = 0;
     if (SHOP_OPEN1(shop_nr) > time_info.hours)
         strcpy(buf, MSG_NOT_OPEN_YET);
-    else if (SHOP_CLOSE1(shop_nr) < time_info.hours)
+    else if (SHOP_CLOSE1(shop_nr) < time_info.hours) {
         if (SHOP_OPEN2(shop_nr) > time_info.hours)
             strcpy(buf, MSG_NOT_REOPEN_YET);
         else if (SHOP_CLOSE2(shop_nr) < time_info.hours)
             strcpy(buf, MSG_CLOSED_FOR_DAY);
+    }
 
     if (!(*buf))
         return (TRUE);
@@ -254,13 +255,14 @@ int             trade_with(struct obj_data * item, int shop_nr)
         return (OBJECT_NOTOK);
 
     for (counter = 0; SHOP_BUYTYPE(shop_nr, counter) != NOTHING; counter++)
-        if ((SHOP_BUYTYPE(shop_nr, counter) == GET_OBJ_TYPE(item)) || (SHOP_BUYTYPE(shop_nr, counter)==ITEM_WEAPON && GET_OBJ_TYPE(item)==ITEM_FIREWEAPON))
+        if ((SHOP_BUYTYPE(shop_nr, counter) == GET_OBJ_TYPE(item)) || (SHOP_BUYTYPE(shop_nr, counter)==ITEM_WEAPON && GET_OBJ_TYPE(item)==ITEM_FIREWEAPON)) {
             if ((GET_OBJ_VAL(item, 2) == 0) &&
                     ((GET_OBJ_TYPE(item) == ITEM_WAND) ||
                      (GET_OBJ_TYPE(item) == ITEM_STAFF)))
                 return (OBJECT_DEAD);
             else if (evaluate_expression(item, SHOP_BUYWORD(shop_nr, counter)))
                 return (OBJECT_OK);
+        }
 
     return (OBJECT_NOTOK);
 }
@@ -1397,18 +1399,20 @@ int             ok_damage_shopkeeper(struct char_data * ch, struct char_data * v
 
 int             add_to_list(struct shop_buy_data * list, int type, int *len, int *val)
 {
-    if (*val >= 0)
+    if (*val >= 0) {
         if (*len < MAX_SHOP_OBJ) {
             if (type == LIST_PRODUCE)
                 *val = real_object(*val);
             if (*val >= 0) {
                 BUY_TYPE(list[*len]) = *val;
                 BUY_WORD(list[(*len)++]) = 0;
-            } else
+            } else {
                 *val = 0;
+            }
             return (FALSE);
         } else
             return (TRUE);
+    }
     return (FALSE);
 }
 

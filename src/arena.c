@@ -715,7 +715,7 @@ ACMD(do_ahall)
 
     for (fame_node = fame_list; fame_node; fame_node = fame_node->next) {
         if (fame_node->date) {
-            timestr =(char *) asctime(localtime(&(fame_node->date)));
+            timestr =asctime(localtime(&(fame_node->date)));
             *(timestr + 10) = 0;
             strcpy(site, timestr);
         } else
@@ -755,7 +755,7 @@ void            load_hall_of_fame(void)
         CREATE(next_node, struct hall_of_fame_element, 1);
         strncpy(next_node->name, name, 99);
         strncpy(next_node->lastname, lastname, 80);
-        next_node->name[100] = '\0';
+        next_node->name[99] = '\0';
         next_node->lastname[80] = '\0';
         next_node->date = date;
         next_node->award = award;

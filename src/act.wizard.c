@@ -1302,6 +1302,7 @@ int display_pc2npc_menu(struct descriptor_data *d)
 		STATE(d)=CON_MENU;
 	}
 		
+	return 0;
 }      
 extern char *MENU;//, *MENU2;                
 ACMD(do_prompt);
@@ -1319,14 +1320,14 @@ int check_pc2npc(struct descriptor_data *d, char *arg)
 		SEND_TO_Q(MENU, d);
             	
 		STATE(d)=CON_MENU;
-		return;
+		return 0;
 	}
 	
 	if (!num)
 	{
 		SEND_TO_Q("That is not a valid choice.\r\n", d);
 		display_pc2npc_menu(d);
-		return;
+		return 0;
 	}
 		
 	while (ptna[i])
@@ -1344,7 +1345,7 @@ int check_pc2npc(struct descriptor_data *d, char *arg)
 		    {
 		    	SEND_TO_Q("\r\nYou need to be at least ten levels above that mob.\r\n", d);	
 		    	display_pc2npc_menu(d);
-			return;
+			return 0;
 		    }
 		    	
 	            log_character(d, 2);
@@ -1375,13 +1376,14 @@ int check_pc2npc(struct descriptor_data *d, char *arg)
                     
                     do_look(victim, "", 0, 0);                                       
                     send_to_char("Type 'return' to return to your original body.\r\n", victim);
-                    return;
+                    return 0;
 		}
 						
 	}       
 	
 		SEND_TO_Q("That is not a valid choice.\r\n", d);
 		display_pc2npc_menu(d);	
+		return 0;
 	
 }
 
@@ -3303,10 +3305,10 @@ ACMD(do_set)
         send_to_char("You are not godly enough for that!\r\n", ch);
         return;
     }
-    if (IS_NPC(vict) && !(fields[l].pcnpc && NPC)) {
+    if (IS_NPC(vict) && !(fields[l].pcnpc && PC)) {
         send_to_char("You can't do that to a beast!\r\n", ch);
         return;
-    } else if (!IS_NPC(vict) && !(fields[l].pcnpc && PC)) {
+    } else if (!IS_NPC(vict) && !(fields[l].pcnpc & PC)) {
         send_to_char("That can only be done to a beast!\r\n", ch);
         return;
     }
@@ -4029,7 +4031,7 @@ int showplay(struct char_data * ch)
                 classname, player.name, player.player_specials_saved.email, player.points.gold+player.points.bank_gold);
         send_to_char(mybuf, ch);
     }
-
+    return 0;
 }
 
 ACMD(do_hall)
@@ -4846,7 +4848,7 @@ ACMD(do_affects)
     }
 
     for (i = 0; i < NUM_WEARS; i++)
-        if (obj=GET_EQ(ch, i)) {
+        if ((obj=GET_EQ(ch, i))) {
             if (obj->obj_flags.bitvector)
             {
                 if (notr!=3)
@@ -4982,7 +4984,7 @@ int get_weapon_dam (struct obj_data *o)
 
     int i = 0;
 
-    for (i;i<MAX_OBJ_AFFECT;i++)
+    for (i=0; i<MAX_OBJ_AFFECT; i++)
         if (o->affected[i].location == APPLY_DAMROLL)
         {
             return (o->affected[i].modifier);
@@ -4996,7 +4998,7 @@ int get_armor_ac (struct obj_data *o)
 
     int i = 0;
 
-    for (i;i<MAX_OBJ_AFFECT;i++)
+    for (i=0;i<MAX_OBJ_AFFECT;i++)
         if (o->affected[i].location == APPLY_AC)
         {
             return (o->affected[i].modifier);
@@ -5343,7 +5345,7 @@ void do_list_wear (struct char_data *ch, char *input)
             sprintf(buf+strlen(buf),"%s\r\n", wear_bits[j]);  /*repeat position*/
         }
     }
-    if (!buf) (send_to_char("There are no items of that type in the object files.c",ch));
+    if (!*buf) (send_to_char("There are no items of that type in the object files.c",ch));
     page_string (ch->desc, buf, 1);
 }
 
@@ -5658,7 +5660,7 @@ ACMD(do_irepair)
         return;
     }
 
-    if (!buf2)
+    if (!*buf2)
     {
         send_to_char("Set damage to how much?\r\n", ch);
         return;

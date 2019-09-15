@@ -96,6 +96,7 @@ EVENTFUNC(sniff_event)
     if (--seo->severity <= 0) {
         /* we're done with sniffing */
         DISPOSE(event_obj);
+        return 0;
     }
     else
         return 8;

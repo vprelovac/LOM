@@ -2334,7 +2334,7 @@ void            mag_groups(int level, struct char_data * ch, int spellnum, int s
     if (ch == NULL || DEAD(ch))
         return;
 
-    if (!IS_AFFECTED(ch, AFF_GROUP) && !spellnum==SPELL_HEALING_TOUCH && !spellnum==SPELL_SURCEASE)
+    if (!IS_AFFECTED(ch, AFF_GROUP) && spellnum!=SPELL_HEALING_TOUCH && spellnum!=SPELL_SURCEASE)
         return;
     if (ch->master != NULL)
         k = ch->master;
@@ -2881,7 +2881,7 @@ switch (spellnum) {
             continue;
         if (!IS_NPC(ch) && IS_NPC(tch) && IS_AFFECTED(tch, AFF_CHARM) && tch->master && !IS_NPC(tch->master) && !CAN_MURDER(ch, tch->master))
             continue;
-        if ((spellnum == SPELL_EARTHQUAKE) && AFF_FLAGGED(ch, AFF_FLYING) || AFF_FLAGGED(ch, AFF_WATERWALK))
+        if ((spellnum == SPELL_EARTHQUAKE) && (AFF_FLAGGED(ch, AFF_FLYING) || AFF_FLAGGED(ch, AFF_WATERWALK)))
             continue;
 
         //        CREF(tch, CHAR_NULL);

@@ -593,7 +593,7 @@ int do_guild(struct char_data * ch, void *me, int cmd, char *argument, int skill
     if (GET_SKILL(ch, skill_num)>0)
     {
         send_to_char("You already have the basic knowledge in that..\r\n",ch);
-        return;
+        return 1;
     }
     if (GET_SKILL(ch, skill_num) >= LEARNED(ch)) {
         send_to_char("But you are already master in that area, my friend. I can teach you no more...'\r\n", ch);
@@ -613,7 +613,7 @@ int do_guild(struct char_data * ch, void *me, int cmd, char *argument, int skill
                 if (GET_GOLD(ch)<gold)
                 {
                     send_to_char("You do not have enough gold to practice that.\r\n", ch);
-                    return;
+                    return 1;
                 };
                 sprintf(bufma, "You hand %d gold to %s.\r\n", gold, CAP(GET_NAME((struct char_data *)me)));
                 send_to_char(bufma, ch);
@@ -1432,7 +1432,7 @@ SPECIAL(dragon)
             //    cast_spell(ch, vict, NULL, SPELL_EARTHQUAKE, 0);
             break;
         }
-        return;
+        return TRUE;
     }
 
 
@@ -1507,7 +1507,8 @@ SPECIAL(knight)
     if (vict == NULL)
         vict = FIGHTING(ch);
 
-    if (number(0, 2) && cast_spell(ch, vict, NULL, SPELL_BLADEBARRIER, 0));
+    if (number(0, 2))
+        cast_spell(ch, vict, NULL, SPELL_BLADEBARRIER, 0);
 
     return TRUE;
 
@@ -1602,11 +1603,12 @@ SPECIAL(vampire)
     if ((GET_LEVEL(ch) > 17) && (number(0, 9) == 0))
         cast_spell(ch, vict, NULL, SPELL_HARM, 0);
 
-    if ((GET_LEVEL(ch) > 7) && (number(0, 7) == 0))
+    if ((GET_LEVEL(ch) > 7) && (number(0, 7) == 0)) {
         if (!IS_EVIL(ch))
             cast_spell(ch, vict, NULL, SPELL_CURSE, 0);
         else
             cast_spell(ch, vict, NULL, SPELL_POISON, 0);
+    }
 
 
     if ((GET_LEVEL(ch) > 12) && (number(0, 11) == 0)) {
@@ -2022,7 +2024,7 @@ SPECIAL(pet_shops)
         if (!IS_NPC(pet))
         {
             send_to_char("Hehe, very funny. Better report that to immortal.\r\n", ch);
-            return;
+            return TRUE;
         }
         if (GET_GOLD(ch) < (GET_LEVEL(pet) * 3)) {
             send_to_char("You don't have enough coins!\r\n", ch);
@@ -2447,7 +2449,7 @@ SPECIAL(yoda)
 
         if (*buf) {
             for (i = 0; prices[i].number > SPELL_RESERVED_DBC; i++) {
-                if (isname(buf, prices[i].name))
+                if (isname(buf, prices[i].name)) {
                     if (GET_GOLD(ch) <prices[i].price*GET_LEVEL(ch)) {
                         act("$n tells you, 'My friend, you don't have enough gold for that spell.'",
                             FALSE, (struct char_data *) me, 0, ch, TO_VICT);
@@ -2465,6 +2467,7 @@ SPECIAL(yoda)
                         return TRUE;
 
                     }
+                }
             }
             act("$n tells you, 'I do not know of that spell!"
                 "  Type 'heal' for a list.'", FALSE, (struct char_data *) me,
@@ -3047,7 +3050,7 @@ SPECIAL(table)
         argument = one_argument(argument, buf);
         if (isname(buf, "table")) {
 
-            if (tf = fopen(it, "r")) {
+            if ((tf = fopen(it, "r"))) {
                 while (fgets(red, 80, tf))
                     send_to_char(red, ch);
                 fclose(tf);
@@ -3059,7 +3062,7 @@ SPECIAL(table)
     }
     if (CMD_IS("carve")) {
 
-        if (tf = fopen(it, "r")) {
+        if ((tf = fopen(it, "r"))) {
             if ((fgetc(tf) != '-')) {
                 send_to_char("You are not the first one to come here!\r\n", ch);
                 fclose(tf);
@@ -3226,7 +3229,7 @@ SPECIAL(grave_demilich)
     for (victim = world[ch->in_room].people; victim; victim = victim->next_in_room)
         if ((!IS_NPC(victim)) && (FIGHTING(victim) == ch))
             /* person is a player who is fighting demlich */
-            if (GET_LEVEL(victim) >= number(0, 75))
+            if (GET_LEVEL(victim) >= number(0, 75)) {
                 /* demilich wants high level victims */
                 if (GET_LEVEL(victim) >= number(0, 75))
                     /* high level more likely to resist */
@@ -3251,6 +3254,7 @@ SPECIAL(grave_demilich)
                     /*look_at_room(victim,0);*/
                     return TRUE;
                 }
+            }
 
     return FALSE;
 }
@@ -3822,11 +3826,12 @@ SPECIAL(wheel_guard)
     if (!IS_MOVE(cmd) && !CMD_IS("expell"))
         return FALSE;
 
-    if (IS_NPC(ch))
+    if (IS_NPC(ch)) {
         if (cmd == SCMD_NORTH)
             return TRUE;
         else
             return FALSE;
+    }
 
     if (CMD_IS("expell"))
     {   char bufcl[100];

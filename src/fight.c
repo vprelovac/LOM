@@ -263,7 +263,7 @@ struct char_data *get_fightning_with(struct char_data *ch)
     struct char_data *pom;
 
     if (DEAD(ch))
-        return;
+        return NULL;
     for (pom=world[ch->in_room].people; pom; pom=pom->next_in_room)
         if (FIGHTING(pom)==ch)
             return pom;
@@ -1600,7 +1600,7 @@ void            group_gain(struct char_data * ch, struct char_data * victim)
             else
                 loss=LEVELEXP(victim) / 8;
 
-            if (!IS_NPC(ch) || (ch->master && !IS_NPC(ch->master)) && GET_LEVEL(victim)>LEVEL_NEWBIE)
+            if ((!IS_NPC(ch) || (ch->master && !IS_NPC(ch->master))) && GET_LEVEL(victim)>LEVEL_NEWBIE)
                 perform_group_gain(ch, GET_EXP(victim)>0? MIN(GET_EXP(victim),LEVELEXP(victim)/PLAYERS_PER_LEVEL):0, victim);
             else if (GET_LEVEL(victim)>LEVEL_NEWBIE)
                 perform_group_gain(ch, (GET_EXP(victim)>0 ? MIN(GET_EXP(victim),loss):0), victim);
@@ -2149,7 +2149,7 @@ int             skill_message(int dam, struct char_data * ch, struct char_data *
 
 
     if (ch==supermob)
-        return;
+        return 0;
     for (i = 0; i < MAX_MESSAGES; i++) {
         if (fight_messages[i].a_type == attacktype) {
             nr = number(1, fight_messages[i].number_of_attacks);
@@ -3449,7 +3449,7 @@ int check_hit(struct char_data * ch, struct char_data * victim, int type, struct
     def*=pom;
 
 
-    pom=MAX(abs(att), abs(def));
+    pom=MAX(fabsf(att), fabsf(def));
 
     pom/=100.0;
     att=(float) att/pom;
@@ -4375,7 +4375,7 @@ void            perform_violence(void)
                         act("&wYour $p humms and vibrates as it unleashes it's magic!&0", FALSE, ch, obj, 0, TO_CHAR);
                         act("&wYou see $n's $p humming and vibrating as it unleashes it's magcis!&0", FALSE, ch, obj, 0, TO_ROOM);
                         call_magic(ch, ((spell_info[obj->bound_spell].violent)? FIGHTING(ch) : ch), 0, obj->bound_spell, obj->bound_spell_level, CAST_BOUND_SPELL, 0);
-                        if (!DEAD(ch) && FIGHTING(ch) == NULL || ch->in_room != FIGHTING(ch)->in_room)
+                        if (!DEAD(ch) && (FIGHTING(ch) == NULL || ch->in_room != FIGHTING(ch)->in_room))
                             stop_fighting(ch);
                         //CUREF(FIGHTING(ch));
                         break;
@@ -4511,7 +4511,7 @@ void            perform_violence(void)
                         else
                         {                                                          
                         	int dam;
-                        	dam=dam=(16+21*GET_FAITH(ch)/400)*GET_MAX_HIT(vict)/100;
+                        	dam=(16+21*GET_FAITH(ch)/400)*GET_MAX_HIT(vict)/100;
                             //GET_HIT(vict)=MAX(0, GET_HIT(vict)-dice(GET_LEVEL(ch), 15));
                             GET_HIT(vict)=MAX(0, GET_HIT(vict)-dam);
                             send_to_char("&wYou are struck by heavenly BOLT of LIGHTNING!!&0\r\n", vict);
@@ -4739,7 +4739,7 @@ bool            fire_at_char(struct char_data * ch, struct char_data * list, str
                 (!CAN_MURDER(ch, vict)))
         {
             send_to_char("A strange wall of force protects you from being hit.\r\n", vict);
-            return;
+            return FALSE;
         }
         else if (range_hit(ch, vict, obj)) {
             if (vict)

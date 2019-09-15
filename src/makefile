@@ -9,8 +9,8 @@ BINDIR   = ../bin
 # for IRIX
 CC = gcc
 
-CFLAGS   = -O3  -Wno-missing-noreturn -Wno-implicit-function-declaration -Wno-pointer-bool-conversion -Wno-format -Wno-parentheses -Wno-unused-value -Wno-format-security -Wno-incompatible-library-redeclaration -Wno-return-type -Wno-constant-logical-operand -Wno-absolute-value -Wno-unsequenced -Wno-comment -Wno-implicit-int  -Wno-memset-transposed-args -Wno-tautological-constant-out-of-range-compare -Wno-pointer-sign -Wno-empty-body -Wno-non-literal-null-conversion -Wno-trigraphs -Wno-int-to-pointer-cast -Wno-array-bounds
-#CFLAGS   = -ggdb3
+CFLAGS   = -O3 -ggdb3 -Wno-format -Wno-incompatible-library-redeclaration -Wno-implicit-function-declaration
+#CFLAGS   = -O3 -ggdb3
 #CFLAGS   = -DADV_MEMORY
 
 # for AIX

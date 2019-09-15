@@ -632,9 +632,9 @@ int TriggerTrap( struct char_data *ch, int trap, int level, int deity)
     if (IS_AFFECTED(ch, AFF_FLYING))
         do_land(ch,"", 0 ,0);
 
-    if (to_room)
+    if (*to_room)
         act(to_room, TRUE, ch, 0,0, TO_ROOM);
-    if (to_char)
+    if (*to_char)
         act(to_char, TRUE, ch, 0, 0, TO_CHAR);
 
     if (aff)
@@ -655,7 +655,7 @@ int TriggerTrap( struct char_data *ch, int trap, int level, int deity)
         TrapDamage(ch, SKILL_TRAP_DOOM, level, deity);
 
     }
-
+    return 1;
 }
 
 

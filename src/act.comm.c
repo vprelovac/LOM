@@ -383,7 +383,7 @@ ACMD(do_ctell)
     }
     CAP(argument);
     if (PRF_FLAGGED(ch, PRF_NOREPEAT))
-        sprintf(buf1, OK);
+        sprintf(buf1,"%s",OK);
     else
         sprintf(buf1, "You clan-tell%s, '&G%s&0'\r\n", level_string, argument);
     send_to_char(buf1, ch);

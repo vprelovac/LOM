@@ -543,7 +543,7 @@ void            check_idling(struct char_data * ch)
 {
     extern int      free_rent;
     void            Crash_rentsave(struct char_data * ch, int cost);
-    if (++(ch->char_specials.timer) > 20)
+    if (++(ch->char_specials.timer) > 20) {
         if (GET_WAS_IN(ch) == NOWHERE && ch->in_room != NOWHERE) {
             GET_WAS_IN(ch) = ch->in_room;
             if (FIGHTING(ch)) {
@@ -578,6 +578,7 @@ void            check_idling(struct char_data * ch)
             extract_char(ch);   
            
         }
+    }
 }
 
 void            update_char_objects(struct char_data * ch); /* handler.c */
@@ -669,7 +670,7 @@ for (i = character_list; i; i = next_char) {
             if (IS_AFFECTED(i, AFF_POISON))
             {
 
-                if (number(1, 85+FIGHTING(i)?10:-25)<GET_CON(i)*GET_CON(i)/23)
+                if (number(1, 85+(FIGHTING(i)?10:-25))<GET_CON(i)*GET_CON(i)/23)
                 {
                     send_to_char("Your body resists the poison.\r\n", i);
                     affect_from_char(i, SPELL_POISON);
@@ -849,7 +850,7 @@ for (i = character_list; i; i = next_char) {
             if (MOB_FLAGGED(ch, MOB_MEMORY) && MEMORY(ch) && !FIGHTING(ch) && GET_POS(ch)>=POS_RESTING) {
                 found = FALSE;
                 for (vict = world[ch->in_room].people; vict && !found; vict = vict->next_in_room) {
-                    if (IS_NPC(vict) || !CAN_SEE(ch, vict) || GET_POS(ch)<=POS_SLEEPING && PRF_FLAGGED(vict, PRF_NOHASSLE))
+                    if (IS_NPC(vict) || !CAN_SEE(ch, vict) || GET_POS(ch)<=POS_SLEEPING || PRF_FLAGGED(vict, PRF_NOHASSLE))
                         continue;
                     for (names = MEMORY(ch); names && !found; names = names->next)
                         if (names->id == GET_IDNUM(vict)) {

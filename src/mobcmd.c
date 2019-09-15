@@ -968,7 +968,7 @@ ACMD(do_mptransfer)
     if (FIGHTING(victim) != NULL)
         stop_fighting(victim);
 
-    if (arg3 && *arg3=='1' && !IS_NPC(victim))
+    if (*arg3=='1' && !IS_NPC(victim))
         location=real_room(victim->player.hometown>1?victim->player.hometown:clan_loadroom[GET_CLAN(victim)]);
 
     char_from_room(victim);

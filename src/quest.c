@@ -111,7 +111,7 @@ ACMD(do_autoquest)
     struct obj_data *questinfoobj = NULL;
     struct char_data *questinfo = NULL;
     two_arguments(argument, arg1, arg2);
-    if (!arg1 || !*arg1)
+    if ( !*arg1)
 {
         send_to_char("QUEST commands: JOIN POINTS INFO TIME REQUEST COMPLETE LIST BUY IDENTIFY.\r\n", ch);
         send_to_char("For more information, type 'HELP QUEST'.\r\n", ch);

@@ -101,6 +101,7 @@ void quest_help()
 
 int quest_mask(int code)
 {
+return 0;
 }
 
 int quest_gift(int code)
@@ -110,10 +111,12 @@ int quest_gift(int code)
     quest_join=QUEST_JOIN_TIME;
     quest_time_left=quests[code].time;
     INFO_OUT("\r\n&w[QUEST]:&0 &cGIFT OF FURY quest is about to start!&0\r\n");
+    return 0;
 }
 
 int quest_berserk(int code)
 {
+    return 0;
 }
 
 int quest_rush	(int code)
@@ -123,27 +126,32 @@ int quest_rush	(int code)
     quest_join=QUEST_JOIN_TIME;
     quest_time_left=quests[code].time;
     INFO_OUT("\r\n&w[QUEST]:&0 &cRUSH FOR WISDOM quest is about to start!&0\r\n");
+    return 0;
 }
 
 int quest_blood	(int code)
 {
+return 0;
 }
 
 int quest_treasure(int code)
 {
+return 0;
 }
 
 int quest_path	(int code)
 {
+return 0;
 }
 
 int quest_chase	(int code)
 {
+return 0;
 }
 
 int quest_nirvana (int code)
 {
-
+return 0;
 }
 
 
@@ -152,14 +160,14 @@ int generate_autoquest()
     int q, k;
 	    
     if (current_quest!=QUEST_NONE || (players_online()<MIN_PLAYERS_BEFORE_QUEST))
-        return;
+        return 0;
     
     k=number(0, NUM_QUESTS-1);
     while (number(1, 10)>quests[k].chance)
     	k=number(0, NUM_QUESTS-1);
     
     quests[k].questfunc(quests[k].code);
-    
+    return 0;
 }
 
 
@@ -178,7 +186,7 @@ int end_current_quest(char *reason)
         if ((d->connected == CON_PLAYING) && (!IS_NPC(d->character)) && QUESTING(d->character))
             REMOVE_BIT(PRF_FLAGS(d->character), PRF_QUEST);
 
-
+    return 1;
 }
 
 int find_quest_by_name(char *name)
@@ -312,7 +320,7 @@ int newquest_update()
     else
         if (current_quest==QUEST_NONE && last_quest_timer>QUEST_REPEAT && players_online()>MIN_PLAYERS_BEFORE_QUEST)
             init_new_quest();
-
+    return 0;
 }
 
 
@@ -324,7 +332,7 @@ ACMD(do_newquest_players)
     buf[MAX_STRING_LENGTH];
 
     two_arguments(argument, arg1, arg2);
-    if (!arg1 || !*arg1)
+    if ( !*arg1)
     {
         send_to_char("QUEST commands: JOIN.\r\n", ch);
         send_to_char("For more information, type 'HELP QUEST'.\r\n", ch);

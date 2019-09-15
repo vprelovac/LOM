@@ -833,7 +833,7 @@ for (d = descriptor_list; d; d = next_d) {
         clean_char_queue();
         clean_obj_queue();
 
-        if (pulse >= (LONG_MAX)) {      // mnogo
+        if (pulse >= (INT_MAX)) {      // mnogo
             pulse = 0;
         }
         tics++;                 /* tics since last checkpoint signal */
@@ -1065,7 +1065,7 @@ char           *make_prompt(struct descriptor_data * d)
                     i = buf2;
                     break;
                 case 'n':
-                    sprintf(buf2, GET_NAME(ch));
+                    sprintf(buf2, "%s", GET_NAME(ch));
                     i=buf2;
                     break;
                 case 't':
@@ -1171,7 +1171,7 @@ char           *make_prompt(struct descriptor_data * d)
                     flag=0;
                     *bufza = '\0';
                     for (door = 0; door < NUM_OF_DIRS; door++)
-                        if (EXIT(d->character, door) && EXIT(d->character, door)->to_room != NOWHERE && !IS_SET(EXIT(d->character, door)->exit_info, EX_CLOSED) && !IS_SET(EXIT(d->character, door)->exit_info, EX_HIDDEN))
+                        if (EXIT(d->character, door) && EXIT(d->character, door)->to_room != NOWHERE && !IS_SET(EXIT(d->character, door)->exit_info, EX_CLOSED) && !IS_SET(EXIT(d->character, door)->exit_info, EX_HIDDEN)) {
                             if (door<NORTHEAST)
                             {
                                 flag=1;
@@ -1193,6 +1193,7 @@ char           *make_prompt(struct descriptor_data * d)
                                     sprintf(bufza, "%s%s%s", bufza,flag?" ":"","??");flag=1;break;
                                 }
                             }
+                        }
                     
                     if (GET_POS(d->character) == POS_SLEEPING)
                         sprintf(buf2, "%2d",15-((pulse % (SECS_PER_MUD_HOUR * PASSES_PER_SEC / 4))/PASSES_PER_SEC ));
@@ -1230,7 +1231,7 @@ char           *make_prompt(struct descriptor_data * d)
                     i=buf2;
                     break;
                 case '%':
-                    sprintf(buf2, "%");
+                    sprintf(buf2, "%%");
                     i = buf2;
                     break;
                 }
@@ -1373,7 +1374,7 @@ int             new_descriptor(int s)
     int             desc,
     sockets_connected = 0;
     unsigned long   addr;
-    int             i;
+    socklen_t              i;
     static int      last_desc = 0;      /* last descriptor number */
     struct descriptor_data *newd;
     struct sockaddr_in peer;
@@ -1635,6 +1636,8 @@ int flush_input_queue(struct descriptor_data *d)
         send_to_char("&w[ *** Aborting all pending input *** ]&0\r\n", d->character);
     }
     write_to_q("\r\n", &d->input, 0);
+    
+    return 0;
 }
 
 
@@ -2270,8 +2273,8 @@ void            send_to_channel(char *messg, int channel)
 
     for (i = descriptor_list; i; i = i->next)
         if (!i->connected && i->character && AWAKE(i->character) &&
-                IS_SET(GET_CHANNEL(i->character), 1 << (channel - 1)));
-    SEND_TO_Q(buf, i);
+                IS_SET(GET_CHANNEL(i->character), 1 << (channel - 1)))
+            SEND_TO_Q(buf, i);
 }
 
 void            send_to_room(char *messg, int room)

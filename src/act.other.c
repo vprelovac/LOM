@@ -2455,7 +2455,7 @@ ACMD(do_brew)
         send_to_char(buf, ch);
         return;
     }
-    if (!spell_name || !*spell_name) {
+    if ( !*spell_name) {
         send_to_char("Spell names must be enclosed in single quotes!\r\n",
                      ch);
         return;
@@ -2647,7 +2647,7 @@ ACMD(do_scribe)
         send_to_char(buf, ch);
         return;
     }
-    if (!spell_name || !*spell_name) {
+    if ( !*spell_name) {
         send_to_char("Spell names must be enclosed in single quotes!\r\n",
                      ch);
         return;
@@ -3756,7 +3756,7 @@ ACMD(do_map)
         return;
     }
 
-    if (!paper_name || !*paper_name){
+    if ( !*paper_name){
         send_to_char("You need to specify on what should be map drawn.\r\n", ch);
         return;
     }
@@ -4256,7 +4256,7 @@ ACMD(do_medic)
 
 ACMD(do_forage)
 {
-    struct obj_data *item_found = '\0';
+    struct obj_data *item_found = NULL;
     int item_no = 2505; /* Initialize with first item poss. */
     *buf = '\0';
 

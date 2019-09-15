@@ -1959,7 +1959,7 @@ int hmc(int d, int poc, int max)
     sum = 0;
     if (d > 0) {
         i = poc;
-        for (; d--; d > 0) {
+        for (; d > 0; d--) {
             sum += cst(i, max);
             i++;
         }
@@ -1967,7 +1967,7 @@ int hmc(int d, int poc, int max)
     } else if (d < 0) {
         d = -d;
         i = poc - 1;
-        for (; d--; d > 0) {
+        for (; d > 0; d--) {
             sum += cst(i, max);
             i--;
         }
@@ -2239,11 +2239,12 @@ void log_character(struct descriptor_data *d, int mode)
             if (PLR_FLAGGED(d->character, PLR_FROZEN))
                 load_room = r_frozen_start_room;
 
-            if ((load_room = (GET_LOADROOM(d->character))) <= 0)
+            if ((load_room = (GET_LOADROOM(d->character))) <= 0) {
                 if (GET_LEVEL(d->character) >= LVL_IMMORT)
                     load_room = r_immort_start_room;
                 else
                     load_room = r_mortal_start_room;
+            }
 
             d->character->in_room=load_room;
 
