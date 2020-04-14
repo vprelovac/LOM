@@ -1,5 +1,7 @@
 /* external declarations and prototypes **********************************/
 
+#include <stdlib.h>
+//#include <math.h>
 extern struct weather_data weather_info;
 extern int global_no_timer;
 
