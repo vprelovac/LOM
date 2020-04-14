@@ -704,6 +704,19 @@ void list_one_char(struct char_data * i, struct char_data * ch)
     strcpy(buf, "");
     if (IS_NPC(i) && (GET_QUESTMOB(ch) > 0) && (GET_MOB_VNUM(i) == GET_QUESTMOB(ch)))
         strcat(buf, "&W&f{QUEST}&0 ");
+        
+        if (IS_NPC(i) && !IS_IMMORT(ch))
+    {
+        int mexp;
+        char buf2[20];
+        mexp=(MOB_EXP_BASE*GET_RATIO(i)/100);
+        mexp=LEVELDIFF(mexp, GET_LEVEL(ch), GET_LEVEL(i));
+        mexp=(LEVELEXP(ch)-GET_EXP(ch))/mexp;
+        if (mexp>=1) {
+            sprintf(buf2, "<%d> ", mexp);
+            strcat(buf, buf2);
+        }
+    }    
     if (IN_ARENA(i))
     {
         if (RED(i))
@@ -814,9 +827,12 @@ void list_one_char(struct char_data * i, struct char_data * ch)
         /* NIL fighting pointer */
         /* strcat(buf, " is here struggling with thin air."); */
     }
+
     strcat(buf, "&0");
+    
     if (showflag)
         strcat(buf, "\r\n");
+        
     send_to_char(buf, ch);
 
 
@@ -1782,6 +1798,8 @@ ACMD(do_score)
     int clan_num;
     char colorbuf[500], clanb[50]="Newbie";
     char regenb[10], vitb[20];
+    char buf1[40];
+
 
     send_to_char("*****************************************************************************\r\n**********************************&G S C O R E &0********************************\r\n*****************************************************************************\r\n", ch);
 
@@ -1814,18 +1832,18 @@ ACMD(do_score)
         send_to_char(buf, ch);
     */
 
-
+    
     i = 100 * GET_HIT(ch) / GET_MAX_HIT(ch);
     STATUS_COLOR(i, colorbuf, ch, C_CMP);
     //sprintf(buf, "%sHit : %s%4d&0/&G%4d&0 (&c%c%-3d&0)      Exp to level: &c%-15d&0Hitroll: &c%2d&0\r\n",
-    sprintf(buf, "%sHit   : %s%4d&0/&G%4d&0 (&G%c%-3d&0)      Exp to level: &G%-6d&0           Hitroll: &G%2d&0\r\n",
+    sprintf(buf, "%sHit   : %s%4d&0/&G%4d&0 (&G%c%-3d&0)      Exp to level: &G%-3.2f%%&0           Hitroll: &G%2d&0\r\n",
             //buf, colorbuf, GET_HIT(ch), GET_MAX_HIT(ch), (hit_gain(ch)>0? '+' : '-'), abs(hit_gain(ch)),  total_exp(GET_LEVEL(ch))-GET_EXP(ch), ch->points.hitroll/*,((str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction)>=0 ? "+": ""), str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction*/);
-            buf, colorbuf, GET_HIT(ch), GET_MAX_HIT(ch), (hit_gain(ch)>0? '+' : '-'), fabsf(hit_gain(ch)),  LEVELEXP(ch)-GET_EXP(ch), ch->points.hitroll/*,((str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction)>=0 ? "+": ""), str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction*/);
+            buf, colorbuf, GET_HIT(ch), GET_MAX_HIT(ch), (hit_gain(ch)>0? '+' : '-'), abs(hit_gain(ch)),  100.0*GET_EXP(ch)/LEVELEXP(ch), ch->points.hitroll/*,((str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction)>=0 ? "+": ""), str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction*/);
 
     i = 100 * GET_MANA(ch) / (GET_MAX_MANA(ch)?GET_MAX_MANA(ch):1);
     STATUS_COLOR(i, colorbuf, ch, C_CMP);
     sprintf(buf, "%sEnergy: %s%4d&0/&G%4d&0 (&G%c%-3d&0)  Adventure points: &G%-7d&0          Damroll: &G%2d&0\r\n",
-            buf, colorbuf, GET_MANA(ch), GET_MAX_MANA(ch),(mana_gain(ch)>=0? '+' : '-'), fabsf(mana_gain(ch)),GET_QUESTPOINTS(ch), ch->points.damroll/*, ((str_app[STRENGTH_APPLY_INDEX(ch)].todam>=0) ? "+":""),str_app[STRENGTH_APPLY_INDEX(ch)].todam*/);
+            buf, colorbuf, GET_MANA(ch), GET_MAX_MANA(ch),(mana_gain(ch)>=0? '+' : '-'), abs(mana_gain(ch)),GET_QUESTPOINTS(ch), ch->points.damroll/*, ((str_app[STRENGTH_APPLY_INDEX(ch)].todam>=0) ? "+":""),str_app[STRENGTH_APPLY_INDEX(ch)].todam*/);
 
     i = 100 * GET_MOVE(ch) / (GET_MAX_MOVE(ch)?GET_MAX_MOVE(ch):1);
 
@@ -1833,7 +1851,7 @@ ACMD(do_score)
 
     sprintf(buf1, "%d+%d", GET_GOLD(ch), GET_BANK_GOLD(ch));
     sprintf(buf, "%sMove  : %s%4d&0/&G%4d&0 (&G%c%-3d&0)         Gold+Bank: &G%-12s&0 Armor class:&G%3d/10&0\r\n",
-            buf, colorbuf, GET_MOVE(ch), GET_MAX_MOVE(ch), (move_gain(ch)>0? '+' : '-'), fabsf(move_gain(ch)), buf1,GET_AC(ch));
+            buf, colorbuf, GET_MOVE(ch), GET_MAX_MOVE(ch), (move_gain(ch)>0? '+' : '-'), abs(move_gain(ch)), buf1,GET_AC(ch));
     //send_to_char(buf, ch);    
     
     sprintf(buf, "%s                                     Faith: &G%-3d%%&0        Magic resist:&G%3d&0\r\n\r\n",

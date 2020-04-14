@@ -3,8 +3,8 @@ a new character for this email address. If this is
 indeed the case, then can use the following data
 to log your new character.
 
-Name    : Togi
-Password: vpsemwog
+Name    : Bog
+Password: nvqgooeg
 
 
 - You can always change your password (press '4' in
