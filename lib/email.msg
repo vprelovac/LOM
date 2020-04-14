@@ -4,7 +4,7 @@ indeed the case, then can use the following data
 to log your new character.
 
 Name    : Bog
-Password: vjbsbrhz
+Password: fmhxenvm
 
 
 - You can always change your password (press '4' in

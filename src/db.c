@@ -2033,6 +2033,7 @@ void            parse_mobile(FILE * mob_f, int nr)
     //sprintf(buf2, "mob vnum %d", nr);
 
     /***** String data *** */
+    
     mob_proto[i].player.name = fread_string(mob_f, buf2);
     tmpptr = mob_proto[i].player.short_descr = fread_string(mob_f, buf2);
     if (tmpptr && *tmpptr)
@@ -2045,9 +2046,8 @@ void            parse_mobile(FILE * mob_f, int nr)
     mob_proto[i].player.class = CLASS_WARRIOR;
     mob_proto[i].player.race = RACE_NORMAL;
 
-
-
     /* *** Numeric data *** */
+    //strcpy(line, fread_string(mob_f, buf2));
     get_line(mob_f, line);
     if (sscanf(line, " %s %s %s %c ", f1, f2, f3, &letter) == 3) {
         /* new style */

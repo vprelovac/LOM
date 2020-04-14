@@ -5681,19 +5681,20 @@ ACMD(do_areas)
 
     k=world[ch->in_room].zone;
 
-    strcpy(buf,"&w Num Name                                   Avg (Min-Max)  Creator&0\r\n --- ----                                   -------------  -------\r\n");
+    strcpy(buf,"&w Num Name                                   Avg (Min-Max)  Entered from&0\r\n --- ----                                   -------------  ------------\r\n");
     if (!(j=atoi(buf2)))
     {
         for (i = 0; i <= top_of_zone_table; i++)
 
             if (area_info[i].num>4)
             {
-                sprintf(buf,"%s%c%3d &c%-39s &y%2d&0 (%2d - %2d)&c  %s&0\r\n", buf, k==i?'*':' ',
+                sprintf(buf,"%s%c%3d &c%-39s &y%2d&0 (%2d - %2d)&c  ", buf, k==i?'*':' ',
                         zone_table[i].number, zone_table[i].name, (zone_table[i].avg+(area_info[i].avg-area_info[i].max-area_info[i].min)/(area_info[i].num-2))/2,area_info[i].min,area_info[i].max, zone_table[i].creator );
-                // for (j=0;j<top_of_zone_table;j++)
-                //	if (area_info[i].connected[j])
-                //		sprintf(buf, "%s%3d ", buf, zone_table[j].number);
+                 for (j=0;j<top_of_zone_table;j++)
+                	if (area_info[i].connected_from[j])
+                		sprintf(buf, "%s%s, ", buf, zone_table[j].name);
                 //sprintf(buf, "%s%s, ", buf, zone_table[j].name);
+                sprintf(buf, "%s&0\r\n", buf);
 
 
             }

@@ -9,7 +9,7 @@ BINDIR   = ../bin
 # for IRIX
 CC = gcc
 
-CFLAGS   = -m32 -ggdb3 -Wno-format -Wno-incompatible-library-redeclaration -Wno-implicit-function-declaration -fno-builtin-log
+CFLAGS   =  -ggdb3 -Wno-format -Wno-incompatible-library-redeclaration -Wno-implicit-function-declaration -fno-builtin-log
 #CFLAGS   = -O3 -ggdb3
 #CFLAGS   = -DADV_MEMORY
 

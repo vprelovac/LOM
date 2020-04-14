@@ -835,7 +835,7 @@ void assign_mobiles(void)
   ASSIGNMOB (36478, cityguard);
   ASSIGNMOB (36479, cityguard);
   */
-    /*
+    
     //  Elemental Canyon
       ASSIGNMOB (9202, cleric);
       ASSIGNMOB (9204, dragon);
@@ -1087,7 +1087,7 @@ void assign_mobiles(void)
       ASSIGNMOB(2102, troll_member);    
       ASSIGNMOB(2106, patrolman);
 
-    */
+    
 }
 
 
