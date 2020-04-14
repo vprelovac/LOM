@@ -1,0 +1,82 @@
+#211
+The Lizard Lair Safari~
+21199 40 1
+* Mobiles
+M 0 21100 8 21102         Serpent
+M 0 21100 8 21102         Serpent
+M 0 21100 8 21102         Serpent
+M 0 21100 8 21102         Serpent
+M 0 21100 8 21102         Serpent
+M 0 21100 8 21102         Serpent
+M 0 21100 8 21102         Serpent
+M 0 21100 8 21102         Serpent
+M 0 21101 2 21103         Sentry
+E 1 21101 100 16                 Claymore
+E 1 21107 100 11                 Shield
+E 1 21102 100 12                 Robes
+M 0 21101 2 21103         Sentry
+E 1 21101 100 16                 Claymore
+E 1 21107 100 11                 Shield
+E 1 21102 100 12                 Robes
+M 0 21102 1 21106         Wizard
+G 1 21106 10                     Magic Rod
+E 1 21102 100 12                 Robes
+M 0 21103 1 21106         Elemental
+M 0 21104 12 21111        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21104 12 21111        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21104 12 21111        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21104 12 21111        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21104 12 21112        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21104 12 21112        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21104 12 21112        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21104 12 21112        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21104 12 21113        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21104 12 21113        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21104 12 21113        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21104 12 21113        Guard
+E 1 21101 100 16                 Claymore
+E 1 21102 100 12                 Robes
+M 0 21105 1 21113         Prince
+G 1 21105 1                      Green Key For The Exit
+E 1 21100 20 6                   Crown
+E 1 21101 100 16                 Claymore
+M 0 21106 1 21118         Mr. Hooper - Shopkeeper
+G 1 21109 99                     Milk Barrel
+G 1 21111 99                     Small Cookie
+* Objects
+O 0 21108 10 21116        LUCKY (key)
+O 0 21103 1 21108         Useless Key
+O 0 21104 1 21113         Altar
+* Doors
+D 0 21102 0 1            LUCKY (Room) Door
+D 0 21116 2 1            
+D 0 21105 3 2            Conjuring Chamber Door
+D 0 21106 1 2            
+D 0 21113 1 2            End Door
+D 0 21114 3 2            
+*D 0 21117 2 2            False Door At The End Of The World
+S
+$
+

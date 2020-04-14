@@ -1,0 +1,159 @@
+#1100
+rainbow staff~
+the rainbow staff~
+The rainbow staff lies here.~
+undefined~
+1 64 1
+0 0 -1 0
+8 5000 0
+A
+24 -2
+A
+3 1
+#1101
+sting~
+sting~
+Sting lies here.~
+~
+5 1027 8193
+0 2 7 1
+1 10000 0
+A
+2 2
+#1102
+sign~
+a sign~
+A sign demands your attention.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+Welcome to the Shire.  As you enter the Shire from Haon-Dor you come under
+the jurisdiction of the Thain, the peacekeeper of the Shire.  Consequently,
+by entering these lands you agree to obey our laws.  If you break these laws,
+you will be severely punished.  We do not like riff raff in our peaceful
+town.
+
+					The Thain
+					Peacekeeper of the Shire
+
+~
+#1103
+pipeweed bread food food food~
+a pipeweed bread~
+A loaf of pipeweed bread arouses your hunger.~
+~
+19 0 1
+24 0 0 0
+1 13 0
+#1104
+silvery cloak~
+a silvery cloak~
+A silvery cloak lies here.~
+undefined~
+9 65 1025
+7 0 0 0
+3 10000 0
+A
+24 -2
+A
+25 1
+#1105
+one ring~
+the One Ring~
+The One Ring is here.~
+undefined~
+9 64 3
+10 0 0 0
+3 2500 0
+A
+12 50
+A
+17 -10
+A
+25 1
+#1106
+elven bow~
+an elven bow~
+An elven bow lies here.~
+undefined~
+6 1090 8193
+0 2 8 5
+10 2000 0
+A
+18 2
+#1107
+mithril axe~
+a mithril axe~
+A mithril axe lies here.~
+~
+5 66 8193
+0 2 8 9
+12 4000 0
+A
+19 2
+#1108
+thain girth~
+the thain girth~
+The girth of the thain lies here.~
+~
+9 0 2049
+5 0 0 0
+4 1000 0
+A
+4 2
+A
+5 2
+#1109
+tiny dagger~
+a tiny dagger~
+A tiny dagger lies here.~
+~
+5 0 8193
+0 1 6 11
+3 40 0
+#1110
+egg food food food~
+an egg~
+An egg lies here.~
+~
+19 0 1
+12 0 0 0
+1 9 0
+#1111
+bag~
+a bag~
+A bag is on the floor.~
+~
+15 0 1
+50 0 0 0
+5 50 0
+#1112
+lantern~
+a lantern~
+A lantern is on the floor.~
+~
+1 0 1
+0 0 20 0
+4 50 0
+#1113
+bardiche~
+a bardiche~
+A long weapon with a sharp end is on the floor.~
+~
+5 0 8193
+0 3 4 3
+10 1000 0
+A
+18 4
+#1114
+flail~
+a flail~
+A flail is on the floor.~
+~
+5 0 8193
+0 2 4 6
+8 300 0
+$~

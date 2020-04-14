@@ -1,0 +1,552 @@
+#19101
+Dimly Lit Path~
+  This path is made of crushed granite with curious blue streaks in it.
+The path continues north to a village, or south to the west gate.
+~
+191 0 3
+D0
+The path continues toward the village.
+~
+~
+0 -1 19102
+D2
+The path back toward the forest.
+~
+~
+0 -1 3053
+S
+#19102
+Dimly Lit Path~
+  This section of the road is badly worn and frequently traversed.  There is
+faint singing to the north.  The road back to the forest lies to the south.
+~
+191 4 3
+D0
+The path continues toward the village.
+~
+~
+0 -1 19103
+D2
+The dimly lit path.
+~
+~
+0 -1 19101
+S
+#19103
+Dimly Lit Path~
+  This section of the road is badly worn and frequently traversed.  Singing is
+getting stronger to the north.  The road back to the forest lies to the south.
+~
+191 0 3
+D0
+The entrance to smurf village.
+~
+~
+0 -1 19104
+D2
+The dimly lit path.
+~
+~
+0 -1 19102
+S
+#19104
+Entrance To Smurf Village~
+  You stand at the entrance to a tiny village.  You can see across the whole
+village easily.  Little blue creatures with white hats and boots and little 
+fluffy tails scamper about.  They sing continuously.  The singing is getting
+on your nerves and you have the urge to squash them.
+~
+191 0 2
+D0
+Smurfy Road
+~
+~
+0 -1 19105
+D2
+Dimly Lit Path
+~
+~
+0 -1 19103
+S
+#19105
+Smurfy Road~
+  You are way too big to be using this road.  But who cares.  Who's gonna stop
+you?  These little blue smurfs?  The singing is growing intense.  Your ears
+are starting to ring.  Smurfy Road continues to the north, west, and east.
+There is still time to turn back and go south.
+~
+191 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 19106
+D1
+Smurfy Road
+~
+~
+0 -1 19110
+D2
+Entrance to smurf village
+~
+~
+0 -1 19104
+D3
+Smurfy Road
+~
+~
+0 -1 19111
+S
+#19106
+Smurfy Road~
+  You continue to travel down Smurfy Road.  Isn't it just smurfy?  Smurfy road
+continues its smurfy path to the smurfy north, smurfy west, and smurfy south.
+A smurfy home lies to the smurfy east.
+~
+191 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 19107
+D1
+Smurfy Home
+~
+~
+0 -1 19120
+D2
+Smurfy Road
+~
+~
+0 -1 19105
+D3
+Smurfy Road
+~
+~
+0 -1 19112
+S
+#19107
+Smurfy Road~
+  Oh boy, another smurfy road!  Smurfy Road goes north and south here.  There
+is a smurfy, mushroom home to the west.  A beautiful smurfberry patch is to
+the east.
+~
+191 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 19108
+D1
+Smurfberry Patch
+~
+~
+0 -1 19116
+D2
+Smurfy Road
+~
+~
+0 -1 19106
+D3
+A Smurfy Home
+~
+~
+0 -1 19129
+S
+#19108
+Smurfy Road~
+  Smurfy Road continues to smurf here.  It smurfs to the south and smurfs to
+an end to the north.  A smurfberry patch is to the east.  A stone path lies
+to the west.
+~
+191 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 19109
+D1
+Smurfberry patch
+~
+~
+0 -1 19117
+D2
+Smurfy Road
+~
+~
+0 -1 19107
+D3
+A stone path
+~
+~
+0 -1 19113
+S
+#19109
+Smurfy Road~
+  A smurfy well lies here in the middle of Smurfy Road.  A fence separates
+the smurfs from harm to the north.  A berry patch is to the east.  Smurfy
+Road continues to to the south and west.
+~
+191 0 1
+D1
+Smurfberry Patch
+~
+~
+0 -1 19118
+D2
+Smurfy Road
+~
+~
+0 -1 19108
+D3
+Smurfy Road
+~
+~
+0 -1 19114
+E
+smurfy well~
+A small well is here.  Just the right size if you're a smurf.  But big
+enough for you to get some water from.  I'm sure the smurfs wont mind.
+~
+S
+#19110
+Smurfy Road~
+  A corner of smurfy road is where you stand.  A smurfy fence blocks passage
+to the east or south.  A smurfy home is to the north.  Smurfy Road goes back
+to the west.
+~
+191 0 1
+D0
+Smurfy Home
+~
+~
+0 -1 19119
+D3
+Smurfy Road
+~
+~
+0 -1 19105
+S
+#19111
+Smurfy Road~
+  Western corner of Smurfy Road.  You can continue to smurf down the road
+to the east and north.  You can also smurf into a smurfy home to the south.
+~
+191 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 19112
+D1
+Smurfy Road
+~
+~
+0 -1 19105
+D2
+Smurfy Home
+~
+~
+0 -1 19121
+S
+#19112
+Smurfy Road~
+  There's no place like smurf.  There's no place like smurf.  Sorry wrong
+movie.  A smurfy home is to the west.  Papa Smurf's backyard is to the
+north but you can't go there.  Smurfy Road continues to the south and
+east.
+~
+191 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 19106
+D2
+Smurfy Road
+~
+~
+0 -1 19111
+D3
+Smurfy Home
+~
+~
+0 -1 19122
+S
+#19113
+Stone Path~
+  You are walking along a cute little stone path.  To the south lies Papa
+Smurf's house.  A Smurfy house is to the west.  Smurfy road is to the east.
+Everything is so peaceful here.  You could stay forever.
+~
+191 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 19108
+D2
+Papa Smurf's House
+~
+door~
+1 19107 19125
+D3
+Smurfy House
+~
+~
+0 -1 19123
+S
+#19114
+Smurfy Road~
+  Yet another part of Smurfy Road.  Hey if you go west its the last
+section of Smurfy Road.  You can go back to the smurfy well to the east.
+~
+191 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 19109
+D3
+Smurfy Road
+~
+~
+0 -1 19115
+S
+#19115
+Smurfy Road~
+  The last piece of Smurfy Road.  You can go back to Smurfy Road to the east.
+A nice, beautiful, smurfy, mushroom home is to the south.  In the distance to
+the north you can see Gargamel's Castle.
+~
+191 0 1
+D0
+Path to Gargamel's Castle
+~
+~
+0 -1 19126
+D1
+Smurfy Road
+~
+~
+0 -1 19114
+D2
+Smurfy Home
+~
+~
+0 -1 19124
+S
+#19116
+Smurfberry Patch~
+  Delicious smurfberries grow here.  You could probably eat a year's worth of
+smurfberries in one sitting.  Smurfy Road is back to the west.  Another
+smurfberry patch is to the north.
+~
+191 0 1
+D0
+Smurfberry Patch
+~
+~
+0 -1 19117
+D3
+Smurfy Road
+~
+~
+0 -1 19107
+S
+#19117
+Smurfberry Patch~
+  Another patch of smurfberries is growing here.  The smell is driving your
+nostrils crazy.  It almost, ALMOST, makes you forget all the singing going
+on.  Smurfy Road is to the west, while smurfberry patches are to the north
+and south.
+~
+191 0 1
+D0
+Smurfberry Patch
+~
+~
+0 -1 19118
+D2
+Smurfberry Patch
+~
+~
+0 -1 19116
+D3
+Smurfy Road
+~
+~
+0 -1 19108
+S
+#19118
+Smurfberry Patch~
+  The northernmost of the smurfberry patches grows here.  It looks just
+as scrumptious as all the rest.  Just take a few; they'll never know.  Smurfy
+Road is to the west.  A smurfberry patch is to the south.
+~
+191 0 1
+D2
+Smurfberry Patch
+~
+~
+0 -1 19117
+D3
+Smurfy Road
+~
+~
+0 -1 19109
+S
+#19119
+Brainy Smurf's Home~
+  You rip the roof of the home to get a good look inside.  You see
+many smurfy books.  The print is so small you couldn't even read it
+with a magnifying glass.  I wonder if Brainy Smurf minds if you
+destroy his home?  Smurfy Road is back to the south.
+~
+191 0 1
+D2
+Smurfy Road
+~
+~
+0 -1 19110
+S
+#19120
+Handy Smurf's Home~
+  This home was well built.  Of course, until you rip it apart you big meany
+you.  Tools are all over the place.  Too small for you to use.  Smurfy Road is
+back to the west.
+~
+191 0 1
+D3
+Smurfy Road
+~
+~
+0 -1 19106
+S
+#19121
+Hefty Smurf's Home~
+  Hefty is anything but wimpy.  So is his house.  It actually took you a 
+couple of minutes to destroy his house.  Better watch out -- he might be
+a little mad at you.  Smurfy Road is back to the north.
+~
+191 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 19111
+S
+#19122
+Sleepy Smurf's Home~
+  Be vewy vewy quiet.  Sleepy Smurf is probably sleeping.  You see so many
+beds you can't even tell if he is here.  Maybe you should quietly go back to
+Smurfy Road to the east.
+~
+191 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 19112
+S
+#19123
+Grumpy Smurf's Home~
+  This is Grumpy Smurf's home.  He is pissed at you.  Of course, he is pissed
+at everyone.  So don't take it bad.  Maybe you'd better leave before he really
+gets mad.  Smurfy Road to the east is your only salvation.
+~
+191 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 19113
+S
+#19124
+Jokey Smurf's Home~
+  You pull the top of his house and it explodes in your face.  That Jokey
+Smurf, what a kidder.  You can hear his laughter as you wipe the ashes off
+your face.  You better get even.  Smurfy Road is to the north.
+~
+191 0 1
+D0
+Smurfy Road
+~
+~
+0 -1 19115
+S
+#19125
+Papa Smurf's Home~
+  It's the home of the leader of the smurfs.  Papa Smurf has a nicely decorated
+home.  He takes pride in his work.  You could get to know him or just squash
+him.  If Papa Smurf is not here he is probably at Smurfette's putting the
+moves on her.  A stone path lies to the north.
+~
+191 0 1
+D0
+Stone Path
+~
+door~
+1 19107 19113
+S
+#19126
+Path To Gargamel's Castle~
+  You are walking along a path to Gargamel's Castle to the North.
+Smurfy Road lies to the south.
+~
+191 0 1
+D0
+Outside Gargamel's Castle
+~
+~
+0 -1 19127
+D2
+Smurfy Road
+~
+~
+0 -1 19115
+S
+#19127
+Outside Gargamel's Castle~
+  You are standing outside Gargamel's Castle.  You can hear him screaming at
+Azreal from inside.  You can also hear him cursing out those wretched smurfs.
+His Castle is to the north while Smurfy Road is to the south.
+~
+191 0 1
+D0
+Gargamel's Castle
+~
+door~
+1 19109 19128
+D2
+Path to Gargamel's Castle
+~
+~
+0 -1 19126
+S
+#19128
+Gargamel's Castle~
+  This is Gargamel's Castle.  His big black kettle is in the middle of the room.
+Where else would he put it?  The place has only one room.
+~
+191 0 1
+D2
+Outside Gargamel's Castle
+~
+door~
+1 19109 19127
+S
+#19129
+Smurfette's House~
+  This house is conveniently next to Papa Smurfs.  Makes it easier for Papa
+Smurf to sneak over at night.  I hope he uses protection.  I would hate to
+have little smurfs running around.  The only exit is to the east.
+~
+191 0 1
+D1
+Smurfy Road
+~
+~
+0 -1 19107
+S
+$~

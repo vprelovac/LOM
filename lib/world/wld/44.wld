@@ -1,0 +1,922 @@
+#4401
+The Path to the Circus~
+     You hear music and laughter coming from ahead of you.  Posters hang 
+from the trees, advertisements for the Circus that has just arrived in town.
+~
+44 0 1
+D0
+~
+~
+0 0 2172
+D2
+~
+~
+0 0 4402
+E
+poster~
+     The poster reads:  Come one, come all!!  See the greatest show in the
+4th realm!!  See the Bearded Lady!!  Ivan the strongman!!  Laugh at the antics
+of the crazy Klawson Klowns!! 
+~
+S
+#4402
+The Entrance to the Circus~
+     Ahead you see the Circus laid out in all its glory.  Freak shows, 
+games booths, and dwarfing them all, the Big Top.  A ticket booth is set here.
+You will need a ticket to enter the Big Top.
+
+~
+44 0 1
+D0
+~
+~
+0 0 4401
+D2
+~
+~
+0 0 4403
+S
+#4403
+The Path to the Big Top~
+     This way to the Big Top is lined with people.  They seem to be having 
+a good time.  Everyone that is, except the people waiting in line for the 
+Big Top.  They seem annoyed at you as you push your way past them.  To the
+east and west you see games booths.  
+~
+44 0 1
+D0
+~
+~
+0 0 4402
+D1
+~
+~
+0 0 4405
+D2
+~
+~
+0 0 4406
+D3
+~
+~
+0 0 4404
+S
+#4404
+The Game Booths~
+     This area seems deserted.  The booths are boarded up, and the only
+Circus employee you see is sitting on a counter, muttering obscenities at the
+Mayor and City council.  He makes it a point to let you know that he knows 
+you are there, and he is ignoring you on purpose.
+~
+44 0 1
+D1
+~
+~
+0 0 4403
+S
+#4405
+The Game Booths~
+     This area seems deserted.  The booths are boarded up, and the only
+Circus employee you see is sitting on a counter, muttering obscenities at the
+Mayor and City council.  He makes it a point to let you know that he knows 
+you are there, and he is ignoring you on purpose.
+~
+44 0 1
+D3
+~
+~
+0 0 4403
+S
+#4406
+The Path to the Big Top~
+     This way to the Big Top is lined with people.  They seem to be having 
+a good time.  Everyone that is, except the people waiting in line for the 
+Big Top.  They seem annoyed at you as you push your way past them.  To the
+east you see the freak shows.  To the west you see a vendor.  
+~
+44 0 1
+D0
+~
+~
+0 0 4403
+D1
+~
+~
+0 0 4408
+D2
+~
+~
+0 0 4414
+D3
+~
+~
+0 0 4407
+S
+#4407
+The Cotton Candy Vendor~
+     The smell of cotton candy makes your mouth water.  Be careful about
+eating too much, all that sugar may make you hyper.
+~
+44 0 1
+D1
+~
+~
+0 0 4406
+S
+#4408
+The Entrance to the Freak Shows~
+     This area is filled with posters of the attractions the Circus has 
+to offer to the curious.  You are invited to watch feats of strength from the
+strong man, gasp as a man swallows a sword, see a real, Bearded Lady, 
+be amazed by the midget's feats of acrobatics, and be dazzled by the great
+magical powers of the Illusionist.
+~
+44 0 1
+D0
+~
+~
+0 0 473
+D1
+You see the Bearded Lady's tent.
+~
+~
+0 0 4409
+D2
+You see the Strongman's tent.
+~
+~
+0 0 4413
+D3
+~
+~
+0 0 4406
+S
+#4409
+The Tent of the Bearded Lady~
+     This tent consists of chairs for you to rest in, and a rickety wooden
+stage up front.  You hear the stage creak as you enter, and you understand
+why when you see who is standing on it.  She is bearded all right.  And big.
+Very big.  Colossally huge.  You don't seem to have any problem finding a seat.
+The place is deserted of spectators.
+~
+44 d 0
+D1
+You see the Illusionist's tent.
+~
+~
+0 0 4410
+D2
+You see the Sword Swallower's tent.
+~
+~
+0 0 4412
+D3
+~
+~
+0 0 4408
+S
+#4410
+The Tent of the Illusionist~
+     This tent is darkened at first.  Then it gradually lightens, although
+you do not see the source of the light.  You do hear a loud breathing sound
+though.  You think it may be coming from right behind you.  You think this 
+because you can feel very warm breath on the back of your neck.  You turn,
+and see a very large, very evil looking creature.  It's a Dragon.  It opens 
+its mouth, but does not attack.  Instead it just laughs at you mercilessly.
+The Dragon snorts a cloud of smoke at you.
+~
+44 d 0
+D2
+You see the Midget's tent.
+~
+~
+0 0 4411
+D3
+You see the Bearded Lady's tent.
+~
+~
+0 0 4409
+E
+Dragon~
+The Dragon looks incredibly powerful.  You are in awe of it, not believing that
+something so powerful, so huge, could be controlled by man.  Let alone fit in
+this tent.  Fit in this tent?  Hey, wait a minute, is it shimmering a little,
+or are your eyes playing tricks on you?
+~
+S
+#4411
+The Midget's Tent~
+     This tent has a mat laid out, no doubt where the Midget performs his
+acrobatics.  You overhear another member of the audience telling his friend,
+'I'd watch out for that Midget.  I hear that a new rash of robberies broke out
+right after the Circus came to town.  Wouldn't surprise me if he is the one
+responsible.'
+~
+44 d 0
+D0
+You see the Illusionist's Tent.
+~
+~
+0 0 4410
+D3
+You see the Sword Swallower's Tent.
+~
+~
+0 0 4412
+S
+#4412
+The Sword Swallower's Tent~
+     This tent is decorated with many deadly looking weapons.  A warrior
+could find any kind of weapon he ever dreamed of in here.  A stage at the 
+front is obviously where the Sword Swallower performs his acts of bravery.
+Several rickety chairs sit in front of the stage, looking as if they might
+not hold the weight of the next customer to sit down.
+~
+44 d 0
+D0
+You see the Bearded Lady's Tent.
+~
+~
+0 0 4409
+D1
+You see the Midget's Tent.
+~
+~
+0 0 4411
+D3
+You see the Strongman's Tent.
+~
+~
+0 0 4413
+S
+#4413
+The Strongman's Tent~
+     This tent is the largest one in The Circus besides the Big Top.  It
+is decorated with pictures and drawings of huge men lifting huger weights.
+You see heavy objects at the front of the room, that must be part of the act.
+If Ivan the Strongman can lift those, then he really must be strong.
+~
+44 d 0
+D0
+You see the Entrance to the Freak Shows.
+~
+~
+0 0 4408
+D1
+You see the Sword Swallower's Tent.
+~
+~
+0 0 4412
+S
+#4414
+The Path to the Big Top~
+     This way to the Big Top is lined with people.  They seem to be having 
+a good time.  Everyone that is, except the people waiting in line for the 
+Big Top.  They seem annoyed at you as you push your way past them.  To the
+east and west you see games booths.  
+~
+44 0 1
+D0
+~
+~
+0 0 4406
+D2
+You see the Entrance to the Big Top.
+~
+~
+0 0 4415
+S
+#4415
+The Entrance to the Big Top.~
+     You've finally made it to the front of the line!  The entrance to the
+Big Top is in front of you.  You see a slot where you insert your ticket, to
+unlock the magic of The Circus that lies inside.
+~
+44 0 1
+D0
+~
+~
+0 0 4414
+D2
+~
+door~
+2 4400 4416
+S
+#4416
+Entryway between the Grand Stands~
+     The noise of the crowd greets you as you enter the Big Top.  The 
+sounds and smells that greet you take you back to the time when you were a
+child, in wonder and awe of the Circus that came to your town.  You can hear
+the trumpet of an elephant somewhere, and the roar of a lion.  The applause
+of the crowd is momentarily deafening.  To the west and east you see under
+the Grand Stands.
+~
+44 d 0
+D0
+You see the Entrance to the Big Top.
+~
+door~
+2 4400 4415
+D1
+You see under the stands.
+~
+~
+0 0 4417
+D2
+You see your first good look at the Big Top ahead.
+~
+~
+0 0 4419
+D3
+You see under the stands.
+~
+~
+0 0 4421
+S
+#4417
+Under the Grand Stands~
+     You are under the Stands.  Popcorn and peanut shells litter the floor.
+You can climb up the supports into the stands from here.
+~
+44 d 0
+D3
+~
+~
+0 0 4416
+D4
+~
+~
+0 0 4418
+S
+#4418
+In the Grand Stands~
+     You find yourself in a crowd of people enjoying the show.  The people 
+behind you yell at you to sit down.  If you don't sit down soon, there may
+be a fight.  You may climb down below the stands, or exit by the stairs and
+get a good look at the Big Top.
+~
+44 d 0
+D3
+~
+~
+0 0 4419
+D5
+~
+~
+0 0 4417
+S
+#4419
+First Look at the Big Top~
+     You receive your first good look at the Big Top.  The size of this
+tent was amazing from the outside, but is even more breathtaking from the 
+inside.  You feel as if you are in a different world, where the sky is only
+a little closer.  You see 3 Rings spread out in front of you.  A high wire
+extends between poles at a dizzying height.  The 1st Ring appears to hold
+a cage which contains several large lions.  The 2nd Ring is filled with clowns
+who are trying to fit into a small carriage.  In the 3rd Ring, a man is 
+preparing to put on a blind fold, while his assistant stands against a target.
+He has a rack of knives next to him.  You may enter the 2nd Ring to the south.
+To the east and west are the Grand Stands, and the Entryway is to the north.
+~
+44 d 0
+D0
+You see the Entryway.
+~
+~
+0 0 4416
+D1
+~
+~
+0 0 4418
+D2
+You see the 2nd Ring.
+~
+~
+0 0 4422
+D3
+~
+~
+0 0 4420
+S
+#4420
+In the Grand Stands~
+     You find yourself in a crowd of people enjoying the show.  The people 
+behind you yell at you to sit down.  If you don't sit down soon, there may
+be a fight.  You may climb down below the stands, or exit by the stairs and
+get a good look at the Big Top.
+~
+44 d 0
+D1
+~
+~
+0 0 4419
+D5
+~
+~
+0 0 4421
+S
+#4421
+Under the Grand Stands~
+     You are under the Stands.  Popcorn and peanut shells litter the floor.
+You can climb up the supports into the stands from here.
+~
+44 d 0
+D1
+~
+~
+0 0 4416
+D4
+~
+~
+0 0 4420
+S
+#4422
+The 2nd Ring - You'd better read the description of this room. ~
+     You are in the 2nd Ring.  You see a rickety carriage, which a line of
+clowns are trying to squeeze into.  You've already seen many more fit into it
+than could possibly fit.  The 1st Ring is to the west and the 3rd Ring is 
+to the east.  A ladder on a pole here provides access to the tightrope above.
+To the north is the first look a visitor to the Big Top has.  You notice that 
+the 1st ring is a cage which contains several HUNGRY Lions.  Entering it would
+be fairly suicidal.  It is a good thing it is locked!
+~
+44 d 0
+D0
+~
+~
+0 0 4419
+D1
+~
+~
+0 0 4423
+D3
+~
+door~
+2 4436 4424
+D4
+~
+~
+0 0 4427
+D5
+You can't see into the car, you'll just have to go in.
+~
+~
+0 0 4444
+S
+#4423
+The 3rd Ring~
+     A target is set up in this Ring for the knife thrower.  Up close, 
+you can see many red smears which have been not quite cleaned from the target.
+You see the crowd looking at you, probably wondering what your act is.  The
+only exit is to the 2nd Ring to the west.
+~
+44 d 0
+D3
+~
+~
+0 0 4422
+S
+#4424
+The 1st Ring~
+     This is a cage, which contains several large stands that the lions
+are supposed to sit on when they are not eating foolish people who walk into
+this room.  A few hoops are in the cage, one of which is flaming.  You think
+that only an idiot would be in here with the lions.  With the lions?  Hey, 
+YOU ARE IN HERE WITH THE LIONS!!!  YOU'D BETTER RUN!!!!!!
+~
+44 d 0
+D1
+~
+door~
+2 4436 4422
+D5
+~
+hole~
+2 4414 4469
+S
+#4425
+On the High Wire~
+     You are still 80 feet up in the air.  DIRECTLY below you is the Lion's
+Cage.  If you survived the fall, YOU WOULD SURELY DIE when the Lions got ahold
+of you.  You note that the door is closed to the cage, so you would have very
+little chance of running away if you did fall into the cage.  As you take
+your eyes off the ground below, you see the end of the wire immediately to 
+your west.
+~
+44 d 0
+D1
+~
+~
+0 0 4426
+D3
+~
+~
+0 0 4428
+D5
+The Lion's Cage.  A suicidal move.
+~
+~
+0 0 4424
+S
+#4426
+On the High Wire~
+     You try to balance on the wire, and try not to look down the 80 feet
+to the ground below.  It is good thing your training as adventurer has given
+you a little better sense of balance than most people.  From up here, you 
+really do have a nice view, of a very long wire.  You still have a ways to go.
+~
+44 d 0
+D1
+~
+~
+0 0 4427
+D3
+~
+~
+0 0 4425
+S
+#4427
+On the Platform Way, Way Up in the Air~
+     You hug the pole as you realize just how high you are.  Your only 
+choices are to go back down, or try to walk the high wire to the west.  Of 
+course, the wire goes above the lion's cage, which has an open top.  If you 
+did survive the fall, you probably wouldn't feel like adventuring again.
+~
+44 d 0
+D3
+~
+~
+0 0 4426
+D5
+~
+~
+0 0 4422
+S
+#4428
+The End of the Highwire~
+     You made it safely.  Now you may climb down and sneak out the back 
+entrance of the Big Top.  Or you can brave the Tightrope again.  You hear
+the noises of animals outside the Big Top.  Below you is the trapdoor.
+~
+44 d 0
+D1
+~
+~
+0 0 4425
+D5
+~
+trapdoor~
+1 0 4429
+S
+#4429
+Behind the Big Top~
+     This is where the show behind the show goes on.  There are a lot
+of workers preparing the next act, moving animals around, and doing too much
+to take much notice of you.  The workers are taking the animals to the pens
+to the south.  You see some of the performers trailers off to the east.  From
+inside, you hear applause from the crowd.
+~
+44 0 1
+D1
+You see the Row of Trailers.
+~
+~
+0 0 4434
+D2
+You see the Animal Pens.
+~
+~
+0 0 4430
+D3
+~
+~
+0 0 4445
+D4
+~
+door~
+1 0 4428
+S
+#4430
+The Animal Pens~
+     From here you may enter the animal pens.  You see a large sign that
+says the following:
+          
+          WELCOME TO THE ANIMAL PENS!!!!
+
+     Please feel free to pet and play with any of the animals.  They
+     are all very friendly, and never hurt the public.  Especially
+     the Bear.  Feel free to enter his cage and pet him.
+
+                         - The Owner
+
+
+Penned underneath this is a note that says:  Beware the Bear!!!  
+
+You may enter the Elephant Pen to the west, the Bear Pen to the south, or
+the Horse Corral to the east.  Or you may return north.
+~
+44 0 1
+D0
+~
+~
+0 0 4429
+D1
+~
+door~
+1 0 4433
+D2
+~
+door~
+1 0 4432
+D3
+~
+door~
+1 0 4431
+S
+#4431
+The Elephant Pen~
+     The first thing you notice in this pen is the rather pungent odor.  Oh
+my, you seem to have stepped in an extremely large pile of droppings.  Maybe 
+you should leave to the north?
+~
+44 0 1
+D1
+~
+door~
+1 0 4430
+S
+#4432
+The Bear Pen~
+     This room is rather dark, and it doesn't seem to have been cleaned 
+very well lately.  The Circus Owner found that he could let some of his 
+security guards go and save the price of feeding the bear if he just put up
+a sign inviting visitors to visit the friendly bear.  It appears you fell
+for it.
+~
+44 ad 0
+D0
+~
+door~
+1 0 4430
+S
+#4433
+The Horse Corral~
+     This corral is where the show horses are kept when they are not 
+performing.  It is rather small for the amount of horses that are kept here.
+~
+44 0 1
+D3
+~
+door~
+1 0 4430
+S
+#4434
+The Row of Trailers~
+     You are between the two rows of trailers where the performers live.
+To the north is the Strongman's Trailer, to the south the Bearded Lady's
+Trailer.  You may also continue east or west.
+~
+44 0 1
+D0
+~
+door~
+1 0 4435
+D1
+~
+~
+0 0 4438
+D2
+~
+door~
+1 0 4436
+D3
+~
+~
+0 0 4429
+S
+#4435
+The Strongman's Trailer~
+     This trailer is pretty small to you, so, it must be tiny for Ivan.
+The furnishing's are spartan, and you see nothing of value.  You might want
+to consider leaving before Ivan returns.
+~
+44 d 0
+D2
+~
+door~
+1 0 4434
+S
+#4436
+The Bearded Lady's Trailer~
+     This is the filthiest place you think you have ever seen.  The floor
+is covered with hair clippings.  In the corner are several bottles entitled
+Miracle Stu's Wonderful Hair Tonic!!  It appears the Bearded Lady must go
+through that stuff like it is water.
+~
+44 d 0
+D0
+~
+door~
+1 0 4434
+S
+#4437
+The Sword Swallower's Trailer~
+     This trailer is kept immaculately clean.  You see a knife sharpening
+kit, as well as several rubber swords that are standing in a small display
+case.
+~
+44 d 0
+D2
+~
+door~
+1 0 4438
+S
+#4438
+The Row of Trailers~
+     You are between the two rows of trailers where the performets live.
+To the north is the Sword Swallower's Trailer, to the south is the Midget's
+Trailer.  You may also continue east or west.
+~
+44 0 1
+D0
+~
+door~
+1 0 4437
+D1
+~
+~
+0 0 4440
+D2
+~
+door~
+1 0 4439
+D3
+~
+~
+0 0 4434
+S
+#4439
+The Midget's Tiny Trailer~
+     The cheap Circus Owner believes in rewarding people according to their
+stature.  Accordingly, this trailer is so small that even the Midget thinks
+that it is a tight fit.  The poor Midget is also the poorest paid of all the
+Freaks.  But that doesn't bother him.  He has a second profession that he
+practices on the side to make a little extra cash.  He also keeps a rather
+large guard dog in his trailer to discourage visitors.
+~
+44 d 0
+D0
+~
+door~
+1 0 4438
+S
+#4440
+The Row of Trailers~
+     You are between the two rows of trailers where the performets live.
+To the north is the Illusionist's Trailer, to the south is a very large 
+Trailer.  You may also go back to the west, or enter a trailer to the east.
+~
+44 0 1
+D0
+~
+door~
+1 0 4441
+D1
+~
+door~
+1 0 4448
+D2
+~
+door~
+1 0 4442
+D3
+~
+~
+0 0 4438
+S
+#4441
+The Illusionist's Trailer~
+     This trailer seems much larger on the inside that it does on the 
+outside.  You see a spacious, king-sized bed, a large table and kitchenette,
+and a separate sitting room.  The longer that you look though, you see that 
+all the objects in the room have a slight shimmer to them.  Closer examination
+reveals that the bed is a cot, the table a nightstand, and the sitting room
+is a chair.  It appears the Illusionist tries to fool even himself sometimes.
+~
+44 d 0
+D2
+~
+door~
+1 0 4440
+S
+#4442
+The Circus Owner's Trailer~
+     This is by far the biggest and nicest trailer.  If the furnishings are
+any indication of the amount of money this man makes, maybe you should go into
+his line of work.  The walls are covered with walnut colored wood siding, and
+the furniture is of the finest workmanship.  Paintings hang on the walls, 
+and there is even a medium sized icebox to keep the Owner's food fresh.
+~
+44 ad 0
+D0
+~
+door~
+1 0 4440
+D2
+~
+icebox~
+1 0 4443
+S
+#4443
+The Secret Room~
+     This is a small area in the back of the Circus Owner's Trailer.  You
+see that this must be where he keeps the money that he makes off his employee's
+hard work.  There are several objects of value in here, but you know you would
+not be able to make it off The Circus property with them, so you'd better just
+take the coins.  Most things here you couldn't sell easily, except the artwork.
+~
+44 ad 0
+D0
+~
+secret~
+1 0 4442
+S
+#4444
+The Clown's Room below the 2nd Ring~
+     This room has been cunningly hollowed out below the 2nd Ring, giving
+the clown's a place to hide after they supposedly hid in the car.  This place 
+is very hot.  That doesn't surprise you, as it is filled with clowns.
+~
+44 ad 0
+D4
+~
+~
+0 0 4422
+S
+#4445
+Behind the Big Top~
+     This is where the show behind the show goes on.  There are a lot
+of workers preparing the next act, moving animals around, and doing too much
+to take much notice of you. 
+~
+44 0 1
+D1
+~
+~
+0 0 4429
+D3
+~
+~
+0 0 4446
+S
+#4446
+Behind the Big Top~
+     This is where the show behind the show goes on.  There are a lot
+of workers preparing the next act, moving animals around, and doing too much
+to take much notice of you.  
+~
+44 0 1
+D1
+~
+~
+0 0 4445
+D3
+~
+~
+0 0 4447
+S
+#4447
+Behind the Big Top~
+     This is where the show behind the show goes on.  There are a lot
+of workers preparing the next act, moving animals around, and doing too much
+to take much notice of you.  
+~
+44 0 1
+D1
+~
+~
+0 0 4446
+S
+#4448
+The Tightrope Walkers Trailer~
+     This trailer like most of the others shows how poorly the performers
+are paid.  The tightrope walkers are forced to (or choose to?) sleep in tiny
+hammocks, that you probably couldn't even fit in.
+~
+44 d 0
+D3
+~
+door~
+1 0 4440
+S
+#4469
+Binky's Kitchen~
+     A rather small room really, but the aromas drifting to you make your
+mouth water.  A feast fit for a king, or an immortal is spread upon the table
+before you.  You feel compelled to sit and at least taste some of the deli-
+cacies.  Somehow, you know that everything you find here will be very filling,
+yet completely fat free.
+~
+44 0 1
+S
+$~

@@ -1,0 +1,449 @@
+#473
+ticket taker tickettaker ticket-taker man~
+the ticket-taker~
+A nice ticket-taker stands here, letting small children in for free (and maybe you too).
+~
+A nice old man, maybe in his 80s, he has developed a nice streak and a soft spot 
+for kids. He notices you staring at him, and quickly tells you that if anyone 
+found out he was letting people in for free, he would be fired.
+~
+74 8320 100 E
+17 -1 3 0d0+317 1d9+12
+1800 0
+8 8 0
+Str: 16
+Dex: 14
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#474
+kid child~
+a little kid~
+A little kid is here, trying to hide from the spooky clowns staring at him.
+~
+Boy, is this kid scared, or what?...
+He cowers in the corner, afraid to go on, afraid to turn back. HE JUST WANTS HIS 
+MOMMY!
+*SOB*
+~
+74 65536 0 E
+12 0 5 0d0+186 1d7+8
+900 0
+8 8 0
+Str: 16
+Dex: 14
+Int: 14
+Wis: 15
+Con: 16
+E
+#475
+kid child~
+a little kid~
+A little kid stands here, laughing at the stupid clowns on the wall.
+~
+This kid is SO OBNOXIOUS... reminds you of a young kid you once knew... He 
+laughs and laughs and laughs, and yells "HEY! WHAT ARE YOU LOOKING AT?!?!?!?" 
+when he sees you inspecting his person.
+~
+74 0 -200 E
+14 -4 1 0d0+234 1d9+9
+1000 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 14
+Wis: 15
+Con: 16
+E
+#476
+boss~
+the nice old man's boss~
+The old man's boss stands here, waiting to report back to the circus owner.
+~
+What a bad, bad man...
+He is trying to wreck the nice old man's good will and nice disposition...
+Well... you'll show him, now, won't you?
+~
+74 98304 -100 E
+16 -3 2 0d0+288 1d9+11
+1500 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#477
+kid thief~
+a mean little kid~
+A mean little kid is here, politely brushing by you as you exit.
+~
+Hmm... something's wrong here...
+What IS he doing?...
+OH MY GOD!
+He's stealing from the innocent patrons of the fun house as they walk away...
+~
+74 32768 -50 E
+15 -3 2 0d0+261 1d9+10
+1200 0
+8 8 0
+Str: 16
+Dex: 14
+Int: 16
+Wis: 15
+Con: 16
+E
+#478
+kid child~
+a dizzy little kid~
+A dizzy little kid is here, being flung about wildly.
+~
+I THINK HE'S GONNA BLOW!!!
+AHHHH!!! GROSS!!!
+~
+74 32768 0 E
+16 -9 3 0d0+288 1d9+11
+1700 0
+8 8 0
+Str: 16
+Dex: 14
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#479
+kid child~
+a clueless kid~
+A clueless kid is here, thinking that he's about to fall.
+~
+Boy is he clueless!
+He looks around, trying to grab onto anything he can get his hands on, in hopes 
+that he won't fall to his doom.
+~
+74 0 0 E
+13 -3 2 0d0+210 1d8+9
+1000 0
+8 8 0
+Str: 16
+Dex: 15
+Int: 14
+Wis: 15
+Con: 16
+E
+#480
+girl child kid~
+a little girl~
+A little frightened girl tries to get away from the falling ceiling.
+~
+She is really scared.
+You almost feel sorry that you are in too much of a rush to help her.
+~
+74 0 0 E
+15 -1 2 0d0+261 1d9+10
+1000 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 15
+Con: 16
+E
+#481
+kid child~
+a little kid~
+A little kid is here, trying to keep on his feet.
+~
+He looks like a scarecrow waving in the wind.
+He shakes violently as if he's about to fall, and then stands back upright 
+again.
+~
+74 0 0 E
+14 -3 1 0d0+234 1d9+9
+1000 0
+8 8 0
+Str: 16
+Dex: 14
+Int: 14
+Wis: 15
+Con: 16
+E
+#482
+kid child cub scout~
+a lost kid~
+A little kid wanders about, trying to use his cub-scout training to get out.
+~
+Hmm... Cub-Scout First Class...
+Got all of his merit badges and everything.
+If he can't find his way out, noone can.
+~
+74 552 0 E
+15 -1 1 0d0+261 1d9+10
+1000 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 15
+Con: 16
+E
+#483
+kid child~
+an anxious little kid~
+An anxious little kid tries to cut in line here.
+~
+What a BRAT!
+~
+78 0 0 E
+12 0 2 0d0+186 1d7+8
+1000 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 14
+Wis: 15
+Con: 16
+E
+#484
+mom mother~
+a nice mother~
+Some kid's mother is here, guiding her kid through the line.
+~
+She is one nice mother, giving up her own time at the circus to let her kid 
+experience the immense joy of going through the most famous funhouse in the city 
+(and the only one)
+~
+74 128 0 E
+17 -5 1 0d0+317 1d9+12
+1800 0
+8 8 0
+Str: 16
+Dex: 14
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#485
+clown~
+a really scary clown~
+A really scary clown jumps out and attacks you!
+~
+Hmm... a face only a mother could love.
+~
+110 8 0 E
+16 -6 1 0d0+230 1d9+8
+1700 0
+8 8 0
+Str: 16
+Dex: 14
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#486
+johnny carson jester~
+Johnny Carson~
+A jester that looks remarkably like Jonny Carson is here, laughing.
+~
+HEEEEEEEEEEEEEEERE'S JOHNNY!
+~
+74 0 0 E
+14 -4 2 0d0+200 1d9+6
+1500 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 14
+Wis: 15
+Con: 16
+E
+#487
+jay leno chin~
+Jay Leno~
+Jay Leno is here, tied up in the corner.
+~
+Wow! What a huge chin, you've got, granny.
+~
+74 0 0 E
+18 -6 0 0d0+346 1d7+14
+1300 0
+8 8 0
+Str: 16
+Dex: 15
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#488
+david letterman~
+David Letterman~
+David Letterman is here, tied up in the corner.
+~
+David Letterman, ex-follower of Johnny Carson,
+resents the fact that he didn't inherit the Tonight Show, and that big-chinned 
+guy Jay Leno got it. Now he does stupid pet tricks to keep from being kept off 
+of the air.
+~
+74 0 0 E
+12 -3 3 0d0+160 1d7+5
+1300 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 14
+Wis: 15
+Con: 16
+E
+#489
+kid child boy~
+a small child~
+A small child uncontrollably floats about here.
+~
+He seems to be out of control, as he has not figured out that swimming-like 
+motions can motiviate his butt around the room instead of floating about 
+aimlessly.
+~
+74 524288 0 E
+13 -4 3 0d0+180 1d8+6
+1400 0
+8 8 0
+Str: 16
+Dex: 14
+Int: 14
+Wis: 15
+Con: 16
+E
+#490
+bonkers bobcat~
+Bonkers T. Bobcat~
+Bonkers T. Bobcat bounces about wildly from wall to wall.
+~
+Looney, Tooney, Gooney... ran out of stuff that rhymed... :)
+~
+74 524288 0 E
+14 -4 2 0d0+200 1d9+6
+1500 0
+8 8 0
+Str: 16
+Dex: 15
+Int: 14
+Wis: 15
+Con: 16
+E
+#491
+pope~
+the Pope~
+The Pope is lost in the hedge maze.
+~
+What a cool hat!!!
+You shouldn't try and kill him, because he looks PRETTY strong for someone his 
+age.
+~
+254026 8360 1000 E
+65 -35 -21 10d50+10000 10d15+50
+1000000 0
+8 8 0
+Str: 25
+Dex: 20
+Int: 22
+Wis: 21
+Con: 24
+Cha: 25
+E
+>greet_prog    50~
+if rand(50)
+	say I wonder how to get out of here...
+else
+	say Can you direct me to the exit?
+endif
+~
+|
+#492
+don king~
+Don King~
+Don King is lost in the hedge maze.
+~
+What a bad 'fro!
+He's looking for the pope to set up a fight between him and the Dhali Llama.
+~
+74 32 0 E
+17 -5 0 0d0+317 1d9+12
+1800 0
+8 8 0
+Str: 16
+Dex: 15
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#493
+man~
+a man behind a curtain~
+A man behind a red curtain tells you to go away!
+~
+GO AWAY!
+Do you want to ruin the FUNHOUSE for everybody?
+And how did you make it through that damn hedge maze anyway? Don King has been 
+in there for 3 months!
+~
+74 0 0 E
+17 -2 0 0d0+317 1d9+12
+1800 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#494
+lemming~
+a cute little stupid lemming~
+A little lemming marches on, right off the edge of a cliff and goes "YEECH!"
+~
+Awww... cute little lemmings...
+Watch the lemmings run!
+Run, lemmings, run!
+Watch the lemmings walk off the cliff!
+Watch the lemmings fall!
+Watch the lemmings die!
+FUN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+~
+74 32 0 E
+12 -2 6 0d0+186 1d7+8
+1300 0
+8 8 0
+Str: 16
+Dex: 15
+Int: 14
+Wis: 15
+Con: 16
+E
+#495
+cashier man old~
+the old cashier~
+A strange old man stands here, manhandling hot dogs.
+~
+A bit out of the ordinary, but, who can argue?
+~
+74 0 0 E
+1 5 11 0d0+9 1d6+0
+200 0
+8 8 0
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+$

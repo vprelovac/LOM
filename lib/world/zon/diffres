@@ -1,0 +1,62 @@
+5,7d4
+< 4.zon
+< 6.zon
+< 9.zon
+9d5
+< 11.zon
+11d6
+< 15.zon
+14d8
+< 18.zon
+17d10
+< 21.zon
+21,22d13
+< 28.zon
+< 29.zon
+23a15
+> 28.zon
+33d24
+< 44.zon
+38,41d28
+< 53.zon
+< 54.zon
+< 55.zon
+< 56.zon
+53d39
+< 78.zon
+55d40
+< 81.zon
+59d43
+< 92.zon
+61d44
+< 100.zon
+63,64d45
+< 102.zon
+< 107.zon
+66d46
+< 120.zon
+68d47
+< 150.zon
+70d48
+< 173.zon
+73d50
+< 191.zon
+75,76d51
+< 193.zon
+< 194.zon
+79,80d53
+< 197.zon
+< 198.zon
+83d55
+< 211.zon
+84a57
+> 225.zon
+91,93c64,65
+< $
+< 
+< v
+\ No newline at end of file
+---
+> 300.zon
+> $
+\ No newline at end of file

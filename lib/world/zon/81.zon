@@ -1,0 +1,67 @@
+#81
+Plane of Nirvana~
+8199 55 2
+* Field #1    Field #3   Field #4  Field #5
+* M (Mobile)  Mob-Vnum   Wld-Max   Room-Vnum
+* O (Object)  Obj-Vnum   Wld-Max   Room-Vnum
+* G (Give)    Obj-Vnum   Wld-Max   Unused
+* E (Equip)   Obj-Vnum   Wld-Max   EQ-Position
+* P (Put)     Obj-Vnum   Wld-Max   Target-Obj-Vnum
+* D (Door)    Room-Vnum  Door-Dir  Door-State
+* R (Remove)  Room-Vnum  Obj-Vnum  Unused
+M 0 8100 10 8102 	(a tridrone)
+M 0 8100 10 8113 	(a tridrone)
+M 0 8100 10 8129 	(a tridrone)
+M 0 8100 10 8127 	(a tridrone)
+M 0 8100 10 8103 	(a tridrone)
+M 0 8101 9 8101 	(a quadrone)
+M 0 8101 9 8128 	(a quadrone)
+M 0 8101 9 8112 	(a quadrone)
+M 0 8102 6 8111 	(a pentadrone)
+M 0 8102 6 8131 	(a pentadrone)
+M 0 8102 6 8138 	(a pentadrone)
+M 0 8102 6 8145 	(a pentadrone)
+M 0 8102 6 8158 	(a pentadrone)
+M 0 8102 6 8152 	(a pentadrone)
+M 0 8103 1 8155 	(a decaton)
+M 0 8104 1 8148 	(a nonaton)
+M 0 8105 4 8140 	(an octon)
+M 0 8105 4 8133 	(an octon)
+M 0 8105 4 8154 	(an octon)
+M 0 8105 4 8147 	(an octon)
+M 0 8106 2 8141 	(a septon)
+M 0 8106 2 8134 	(a septon)
+M 0 8107 8 8143 	(a hexton)
+M 0 8107 8 8144 	(a hexton)
+M 0 8107 8 8136 	(a hexton)
+M 0 8107 8 8137 	(a hexton)
+M 0 8107 8 8150 	(a hexton)
+M 0 8107 8 8155 	(a hexton)
+M 0 8107 8 8156 	(a hexton)
+M 0 8107 8 8157 	(a hexton)
+M 0 8108 4 8122 	(a quinton)
+M 0 8108 4 8116 	(a quinton)
+M 0 8108 4 8125 	(a quinton)
+M 0 8108 4 8117 	(a quinton)
+M 0 8109 4 8119 	(a tertian)
+M 0 8109 4 8124 	(a tertian)
+M 0 8109 4 8118 	(a tertian)
+M 0 8109 4 8121 	(a tertian)
+M 0 8110 4 8138 	(Secundus)
+M 0 8110 4 8145 	(Secundus)
+M 0 8110 4 8158 	(Secundus)
+M 0 8110 4 8152 	(Secundus)
+M 0 8111 1 8120 	(Primus)
+E 1 8100 80 16 	(realms sword)
+E 1 8101 8 5 	(a radiant vest)
+E 1 8102 8 6 	(a radiant helm)
+E 1 8103 8 10 	(aura of radiance)
+E 1 8104 3 11 	(a shimmering field of power)
+D 0 8107 3 1 	(In The Tower Of Nirvana)
+D 0 8108 1 1 	(A Hallway In The Tower Of Nirvana)
+D 0 8112 3 1 	(At The Door To The Tower Of Nirvana)
+D 0 8113 1 1 	(At The Door To The Tower Of Nirvana)
+D 0 8126 0 1 	(An Intersection Of Passages)
+D 0 8131 2 1 	(At A Door Into The Tower Of Nirvana)
+S
+$

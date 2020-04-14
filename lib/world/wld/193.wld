@@ -1,0 +1,765 @@
+#19301
+Mountain~
+  You are climbing a large mountain which towers over Ofcol.  The path
+continues up the mountain, but part of it is gone.  There is no way to
+continue by land.
+~
+193 0 5
+D2
+~
+~
+0 -1 324
+D4
+~
+~
+0 -1 19302
+S
+#19302
+Mountain~
+  You are making your way up the mountain.  The rigorous climb has left you
+tired, and you are ready to take a break.
+~
+193 0 5
+D4
+~
+~
+0 -1 19303
+D5
+~
+~
+0 -1 19301
+S
+#19303
+Mountain~
+  You have finally reached the top of the mountain.  The air here is so thin
+that you must gasp for breath.  To the north, you see what seems to be the
+entrance to a city.
+~
+193 0 5
+D0
+~
+~
+0 -1 19304
+D5
+~
+~
+0 -1 19302
+S
+#19304
+Entrance~
+  You are at the entrance to a huge city.  As you look around, you realize
+that the inhabitants of this city must be very wealthy indeed - you have never
+seen a city with such beautiful buildings.
+~
+193 0 1
+D0
+~
+~
+0 -1 19305
+D2
+~
+~
+0 -1 19303
+S
+#19305
+Zeus Street~
+  You are walking down a huge street.  You notice that there are not many
+people in this town.  On a corner, you see a sign marked 'Zeus Street'.
+To the west, you see a small store.
+~
+193 0 1
+D0
+The street continues.
+~
+~
+0 -1 19306
+D2
+~
+~
+0 -1 19304
+D3
+~
+~
+0 -1 19324
+S
+#19306
+Zeus Street~
+  You are walking down what appears to be the main street of this city.
+You see large residences to the east and west, while the street continues
+to the north and south.
+~
+193 0 1
+D0
+~
+~
+0 -1 19307
+D1
+~
+~
+0 -1 19325
+D2
+The street continues.
+~
+~
+0 -1 19305
+D3
+~
+~
+0 -1 19326
+S
+#19307
+Zeus Street~
+  You are on the main street of this town, called Zeus street.
+~
+193 0 1
+D0
+~
+~
+0 -1 19308
+D2
+~
+~
+0 -1 19306
+D3
+~
+~
+0 -1 19327
+S
+#19308
+Zeus Street~
+  You are still on the main thoroughfare of this town.  To the north, you see
+a large castle.  To the east there is a smaller road, while there is some sort
+of store to the west.
+~
+193 0 1
+D0
+~
+~
+0 -1 19309
+D1
+~
+~
+0 -1 19328
+D2
+~
+~
+0 -1 19307
+S
+#19309
+Castle Entryway~
+  You are in the entryway of a large castle.  It is very beautiful, with
+large paintings and a lovely carpet.  You hear jovial laughter to the north,
+while smaller corridors branch off to the east and west.
+~
+193 8 1
+D0
+~
+~
+0 -1 19310
+D1
+~
+~
+0 -1 19315
+D2
+~
+~
+0 -1 19308
+D3
+~
+~
+0 -1 19311
+S
+#19310
+Throne Room~
+  You stop dead in your tracks as you enter this room.  Before you is Zeus,
+in all his glory, sitting on a huge golden throne.  You had thought him to be 
+just a myth, but here he is ... you wonder who else lives in this castle.
+~
+193 8 1
+D0
+~
+~
+0 -1 19323
+D2
+~
+~
+0 -1 19309
+D5
+~
+throne trapdoor~
+1 -1 19318
+E
+throne~
+This huge golden throne looks as if it has been here for ages.  As you study it
+carefully, you notice that it is not firmly attached to the floor ... perhaps
+you could slide it?
+~
+S
+#19311
+Western Wing~
+  You are in the western wing of the castle.  You see the entrance to the
+east, while this hallway continues to the west.
+~
+193 8 1
+D1
+~
+~
+0 -1 19309
+D3
+~
+~
+0 -1 19312
+S
+#19312
+Western Wing~
+  You are in the western wing of the castle.  The hallway continues to the
+north, while there are private rooms to the west and south.
+~
+193 8 1
+D0
+~
+~
+0 -1 19313
+D1
+~
+~
+0 -1 19311
+D2
+~
+~
+0 -1 19330
+D3
+~
+~
+0 -1 19329
+S
+#19313
+Western Wing~
+  You are in the western wing of the castle.  This hallway continues to the
+south, and you hear pots and pans rattling to the north.
+~
+193 8 1
+D0
+~
+~
+0 -1 19314
+D2
+~
+~
+0 -1 19312
+S
+#19314
+Kitchen~
+  You have entered the kitchen of this castle, and it is a hotbed of
+activity.  Servants are bustling about, preparing food for the Gods themselves.
+~
+193 8 1
+D2
+~
+~
+0 -1 19313
+S
+#19315
+Eastern Wing~
+  You are in the eastern wing of the castle.  The hall continues to the
+east, while the entrance is back to the west.
+~
+193 8 1
+D1
+~
+~
+0 -1 19316
+D3
+~
+~
+0 -1 19309
+S
+#19316
+Eastern Wing~
+  You are in the eastern wing of the castle.  The hall turns to the north
+here, while there are private rooms to the east and the south.
+~
+193 8 1
+D0
+~
+~
+0 -1 19317
+D1
+~
+~
+0 -1 19331
+D2
+~
+~
+0 -1 19332
+D3
+~
+~
+0 -1 19315
+S
+#19317
+Eastern Wing~
+  You are in the eastern wing of the castle.  You hear animals to the north,
+while the hallway continues to the south.
+~
+193 8 1
+D0
+~
+~
+0 -1 19333
+D2
+~
+~
+0 -1 19316
+S
+#19318
+Dungeon~
+  You are in Zeus's Dungeon.  You wonder what creatures are so terrible that
+even mighty Zeus fears them enough to imprison them.
+~
+193 9 1
+D0
+~
+~
+0 -1 19319
+D4
+~
+trapdoor throne~
+1 -1 19310
+S
+#19319
+Dungeon~
+  You are in Zeus's Dungeon.  There are cells to the north, west, and east. 
+From the east and west, you hear guttural noises.  From the north, nothing ...
+~
+193 9 1
+D0
+~
+~
+2 927 19320
+D1
+~
+~
+2 927 19322
+D2
+~
+~
+0 -1 19318
+D3
+~
+~
+2 927 19321
+S
+#19320
+Cell~
+  You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+193 9 1
+D2
+~
+~
+2 927 19319
+S
+#19321
+Cell~
+  You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+193 9 1
+D1
+~
+~
+2 927 19319
+S
+#19322
+Cell~
+  You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+193 9 1
+D3
+~
+~
+2 927 19319
+S
+#19323
+Stairway~
+  You have come to a large stairway leading up.  To the south, you see the
+throne room of Zeus.
+~
+193 8 1
+D2
+~
+~
+0 -1 19310
+D4
+~
+~
+0 -1 19339
+S
+#19324
+Bakery~
+  You are in the small store which supplies the residents of this town with
+their food.  It smells wonderful in here!
+~
+193 8 1
+D1
+~
+~
+0 -1 19305
+S
+#19325
+Residence~
+  You are in the residence of one of the inhabitants of this town.  She
+looks vaguely familiar, but you can't place her name ...
+~
+193 8 1
+D3
+~
+~
+0 -1 19306
+S
+#19326
+Residence~
+  You are in the residence of one of the inhabitants of this town.  He looks
+vaguely familiar, but you can't place his name ...
+~
+193 8 1
+D1
+~
+~
+0 -1 19306
+S
+#19327
+Mystic Shop~
+  You are in the store which provides the citizens here with whichever
+arcane objects they may need.
+~
+193 8 1
+D1
+~
+~
+0 -1 19307
+S
+#19328
+Ares Street~
+  You are on a smaller road which branches off from the main street.  On a
+sign, you notice that the name of this road is Ares Street.
+~
+193 8 1
+D1
+~
+~
+0 -1 19334
+D3
+~
+~
+0 -1 19308
+S
+#19329
+Guest Quarters~
+  You have entered private quarters which are reserved for visitors to the
+castle.  You nearly faint as you recognize the occupant of this chamber as Odin
+himself, patron God of Midgaard.  He must be visiting Zeus.
+~
+193 8 1
+D1
+~
+~
+0 -1 19312
+S
+#19330
+Storage Room~
+  You are in a storage room of the castle.  There isn't much here, just a
+few boxes filled with old junk.
+~
+193 8 1
+D0
+~
+~
+0 -1 19312
+S
+#19331
+Guest Quarters~
+  You have entered a room reserved for visitors to this castle.  You are
+amazed as you recognize the occupant - Ra, the Egyptian Sun God.  He must be
+visiting Zeus.
+~
+193 8 1
+D3
+~
+~
+0 -1 19316
+S
+#19332
+Storage Room~
+  You are in a storage room of the castle.  There isn't much here, just a lot
+of dust.
+~
+193 8 1
+D0
+~
+~
+0 -1 19316
+S
+#19333
+Stable~
+  You are in the stable of the castle.  Rather than the horses which you
+expected to find, it is filled with a wide variety of creatures which you
+thought were mythical.  Obviously, you were wrong.
+~
+193 8 1
+D2
+~
+~
+0 -1 19317
+S
+#19334
+Ares Street~
+  You have reached the end of Ares Street.  To the south you see an armoury,
+while there is a weapons shop to the east.  To the north, you hear the sounds
+of a blacksmith.
+~
+193 8 1
+D0
+~
+~
+0 -1 19337
+D1
+~
+~
+0 -1 19336
+D2
+~
+~
+0 -1 19335
+D3
+~
+~
+0 -1 19328
+S
+#19335
+Armoury~
+  This small store is almost empty.  It seems as if there is not much here,
+but the shopkeeper doesn't want to do business with you anyways.
+~
+193 8 1
+D0
+~
+~
+0 -1 19334
+S
+#19336
+Weapon Shop~
+  You have entered a small store with a modest selection of weapons.  You
+get the feeling that there is not a very wide selection here, but the
+shopkeeper doesn't want to do business with you anyways.
+~
+193 8 1
+D3
+~
+~
+0 -1 19334
+S
+#19337
+Smithy~
+  This large room is so noisy, you can barely hear yourself think.  All the
+occupants are hard at work, crafting high quality weapons and armor.  Something
+is strange about the west wall, although you can't quite tell what it is.
+~
+193 8 1
+D2
+~
+~
+0 -1 19334
+D3
+You see a concealed door!
+~
+door concealed~
+1 -1 19338
+S
+#19338
+The Planning Room~
+  You have entered a large room dominated by a huge table with a large map
+on it.  Several men are gathered around the table, studying the map carefully.
+You hear the barking of dogs to the north.
+~
+193 9 1
+D0
+~
+~
+0 -1 19354
+D1
+~
+~
+0 -1 19337
+S
+#19339
+Second Floor~
+  You are on the second floor of this castle.  You are numb from your
+discoveries on the first floor, and wonder what secrets the upper floor of this
+castle holds.  Hallways extend in all directions, and you see a small, closed 
+hatch above you.
+~
+193 8 1
+D0
+~
+~
+0 -1 19340
+D1
+~
+~
+0 -1 19343
+D2
+~
+~
+0 -1 19341
+D3
+~
+~
+0 -1 19342
+D4
+You see a sign on the hatch.  It reads 'Private Property. No trespassing!'
+~
+hatch~
+1 -1 19348
+D5
+~
+~
+0 -1 19323
+S
+#19340
+Northern Hall~
+  You are in the northern hallway.  There is a private room to the north,
+and the stairs leading down are to the south.
+~
+193 8 1
+D0
+~
+~
+0 -1 19347
+D2
+~
+~
+0 -1 19339
+S
+#19341
+Southern Hall~
+  You are in the southern hallway.  There is a private room to the south,
+and the stairs leading down are to the north.
+~
+193 8 1
+D0
+~
+~
+0 -1 19339
+D2
+~
+~
+0 -1 19344
+S
+#19342
+Western Hall~
+  You are in the western hallway.  There is a private room to the west, and
+the stairs leading down are to the east.
+~
+193 8 1
+D1
+~
+~
+0 -1 19339
+D3
+~
+~
+0 -1 19345
+S
+#19343
+Eastern Hall~
+  You are in the eastern hallway.  There is a private room to the east, and
+the stairs leading down are to the west.
+~
+193 8 1
+D1
+~
+~
+0 -1 19346
+D3
+~
+~
+0 -1 19339
+S
+#19344
+Bed Room~
+  You are in the bed room of a God!  This one seems to be empty.
+~
+193 8 1
+D0
+~
+~
+0 -1 19341
+S
+#19345
+Bed Room~
+  You are in the bed room of a God!
+~
+193 8 1
+D1
+~
+~
+0 -1 19342
+S
+#19346
+Bed Room~
+  You are in the bed room of a God!
+~
+193 8 1
+D3
+~
+~
+0 -1 19343
+S
+#19347
+Bed Room~
+  You are in the bed room of a God!
+~
+193 8 1
+D2
+~
+~
+0 -1 19340
+S
+#19348
+Hall Of Gods~
+  You have entered the most sacred of places, the hall of true Gods.  If you
+are a mortal, it would probably be a good idea to leave NOW!  Exits leave in
+all directions.
+~
+193 8 1
+D0
+~
+~
+0 -1 19351
+D5
+~
+hatch~
+0 -1 19339
+S
+#19351
+The Portal~
+  A sign reads: Beware of the unexpected and don't expect too much.
+~
+193 8 1
+D2
+~
+~
+0 -1 19348
+S
+#19354
+The Believer~
+  A voice whispers, 'before the time has passed, enjoy your life.'
+~
+193 8 1
+D2
+~
+~
+0 -1 19338
+S
+$

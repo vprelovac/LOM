@@ -1,0 +1,480 @@
+#4400
+ticket~
+a ticket~
+An unwanted scrap of paper lies here.~
+undefined~
+18 0 1
+0 0 0 0
+1 500 0
+#4401
+candy~
+cotton candy~
+Some pink fluffy candy lies here.~
+~
+18 0 1
+1 0 0 0
+1 15 0
+#4402
+key hairy~
+a hairy key~
+A key lies here, covered with hair clippings.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#4403
+key~
+a huge key~
+A humongous, heavy key lies here.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#4404
+key small~
+a small key~
+A small key lies here.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#4405
+key shimmering~
+a shimmering key~
+An object lies here, shimmering, so that you aren't sure what it is.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#4406
+key slender~
+a slender key~
+A very thin key lies here.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#4407
+bracers strongman~
+the strongman's bracers~
+A pair of large bracers lies here.~
+~
+9 0 257
+-3 0 0 0
+8 0 0
+A
+1 1
+A
+5 1
+#4408
+sword small~
+a small, thin sword~
+A small sword lies here.~
+~
+5 0 8193
+0 1 11 11
+1 0 0
+A
+17 -8
+A
+18 3
+#4409
+staff translucent~
+a pointy translucent staff~
+A long, thin, shimmering object lies here.~
+~
+5 0 8193
+0 1 7 7
+0 0 0
+A
+18 2
+A
+19 1
+#4410
+sword bastard~
+the sword swallower's sword~
+A rubber bastard sword is here.~
+~
+5 0 8193
+0 4 2 3
+0 0 0
+A
+18 1
+A
+19 -1
+#4411
+purse~
+the midget's purse~
+A small purse lies here.~
+~
+15 0 16385
+30 5 0 0
+1 500 0
+#4412
+bunch coins~
+a bunch of coins~
+A bunch of coins lies here.~
+~
+20 0 1
+700 0 0 0
+1 0 0
+#4413
+razor~
+a razor~
+A razor lies here.~
+~
+5 0 8193
+0 2 1 11
+1 0 0
+A
+17 -6
+A
+19 2
+#4414
+barbell~
+a barbell~
+A huge barbell lies here.~
+~
+12 0 16385
+0 0 0 0
+120 0 0
+#4415
+sign~
+a letter~
+A letter is posted on the games booths.~
+~
+12 0 0
+0 0 0 0
+40 0 0
+E
+letter~
+The letter reads:  This area has been closed by order of the Mayor of Midgaard,
+because of dishonest activities perpetrated by the persons running the games.
+Another example of how your government cares for you.
+
+               - Captain of the Watch
+~
+#4416
+knife~
+a sharp knife~
+A sharp, well balanced knife lies on the ground.~
+~
+5 0 8193
+0 3 3 11
+1 0 0
+A
+18 2
+#4417
+blindfold~
+a blindfold~
+A strip of black cloth lies here.~
+~
+9 128 65537
+0 0 0 0
+1 0 0
+A
+14 -50
+A
+18 -10
+#4418
+whip~
+a whip~
+A leather whip is lying on the ground.~
+~
+5 0 8193
+2 2 4 7
+1 0 0
+A
+4 -1
+A
+18 5
+#4419
+pole~
+tightrope walker's pole~
+A long pole lies here.~
+~
+12 1 16385
+0 0 0 0
+1 0 0
+A
+2 2
+#4420
+clown shoes~
+big clown shoes~
+A huge pair of shoes lies here, apparently forgotten.~
+~
+9 0 65
+0 0 0 0
+4 0 0
+A
+2 -1
+A
+14 -20
+#4421
+tophat hat~
+a tophat~
+The Ringmaster's tophat lies here.~
+~
+9 0 17
+0 0 0 0
+1 0 0
+A
+12 10
+A
+17 -4
+#4422
+chest~
+a chest~
+A chest lies here, buried in a pile of hair.~
+~
+15 0 0
+100 13 4402 0
+1 0 0
+#4423
+chest~
+a chest~
+A shimmering object sits in the corner.~
+~
+15 0 0
+100 13 4405 0
+1 0 0
+#4424
+chest~
+a chest~
+The strongman's huge chest lies here. ~
+~
+15 0 0
+100 13 4403 0
+1 0 0
+#4425
+chest~
+a chest~
+A small chest lies here.~
+~
+15 0 0
+100 13 4404 0
+1 0 0
+#4426
+chest~
+another chest~
+A chest sits in the corner.~
+~
+15 0 0
+100 13 4406 0
+1 0 0
+#4427
+slip paper~
+a paper~
+A piece of wadded up paper has been left on the ground.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#4428
+safe~
+a combination safe~
+A painting hangs on the wall, but it doesn't appear that valuable.~
+~
+15 0 0
+100 13 4427 0
+1 0 0
+E
+painting~
+Behind the painting you find a safe!  It has a combination lock.  You can
+probably never guess the combination.
+~
+#4429
+note~
+a note~
+A sign hangs by the ticket booth.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+sign~
+The sign says:     type BUY TICKET to buy a ticket for the Big Top.
+~
+#4430
+bucket~
+a bucket~
+A colorful bucket lies here.~
+~
+15 0 16385
+15 0 0 0
+1 0 0
+#4431
+drugged food food~
+drugged food~
+A delicious looking dinner lies here.~
+~
+19 0 1
+15 0 0 0
+1 0 0
+#4432
+pizza food food~
+a slice of Tombstone Sausage and Pepperoni pizza~
+A slice of pizza lies here, piping hot.~
+~
+19 0 1
+5 0 0 0
+1 0 0
+#4433
+steak food food~
+a juicy steak~
+A juicy steak dinner lies here.~
+~
+19 0 1
+4 0 0 0
+1 0 0
+#4434
+bigmac food food~
+a delicious BigMac~
+Some food lies here, wrapped in paper.~
+~
+19 0 1
+8 0 0 0
+1 0 0
+#4435
+coke can~
+a can of fresh water~
+A can lies here.~
+~
+17 0 1
+7 7 15 0
+12 0 0
+#4436
+key~
+the key to the lion's cage~
+The key to the lion's cage lies here.~
+~
+18 0 1
+1 0 0 0
+1 0 0
+#4437
+bunch coins~
+a bunch of coins~
+A bunch of coins lies here.~
+~
+20 0 1
+50 0 0 0
+1 0 0
+#4438
+bunch coins~
+a bunch of coins~
+A bunch of coins lies here.~
+~
+20 0 1
+100 0 0 0
+1 0 0
+#4439
+nose red~
+a red clown nose~
+A red nose like a clown might wear, lies forgotten upon the ground.~
+~
+9 0 65537
+0 0 0 0
+1 100 0
+A
+3 -2
+A
+4 -1
+#4440
+chest~
+a chest~
+A chest sits under the hammock.~
+~
+15 0 0
+100 13 4441 0
+1 0 0
+#4441
+key~
+a key~
+A small key lies in the dirt.~
+~
+18 0 1
+1 0 0 0
+1 0 0
+#4442
+clear potion~
+a clear potion~
+A clear vial of fluid sits here.~
+~
+10 192 1
+10 16 16 16
+3 0 0
+#4443
+roast pheasant food food~
+a roast~
+Delicious roast pheasant tempts your taste buds.~
+~
+19 0 1
+6 0 0 0
+1 0 0
+#4444
+turkey food food~
+a slice of turkey~
+A plump turkey sits on the table.~
+~
+19 0 1
+3 0 0 0
+1 0 0
+#4445
+stuffing food food~
+homemade stuffing~
+A bowl of homemade stuffing sits upon the table.~
+~
+19 0 1
+5 0 0 0
+1 0 0
+#4446
+cherry pie food food~
+a slice of cherry pie~
+Some Cherry Pie A La Mode on the table makes your mouth water.~
+~
+19 0 1
+3 0 0 0
+1 0 0
+#4447
+wineskin~
+a wineskin~
+A wineskin filled with Chardonnay sits upon the table.~
+~
+17 0 1
+30 30 2 0
+35 0 0
+#4448
+scalpel~
+a scalpel~
+A thin knife with a sharp blade lies here.~
+~
+5 0 8193
+0 3 1 11
+1 0 0
+A
+18 -2
+A
+19 6
+#4449
+refrigerator frig fridge~
+Binky's refrigerator~
+Binky's refrigerator sits here, packed full of goodies.~
+~
+15 66 2
+999 5 0 0
+20 0 0
+#4450
+carving knife~
+a carving knife~
+A very sharp knife gleams from the floor.~
+undefined~
+5 64 8193
+0 3 4 11
+1 0 0
+A
+18 3
+A
+19 3
+A
+-339 50
+$~

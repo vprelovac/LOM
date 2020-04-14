@@ -1,0 +1,981 @@
+#10201
+captain guard~
+Captain of the Guard~
+The Captain of the Guard is here.
+~
+The Captain of the Guard is an older but very powerful man. His obsidian
+armor seems to glow faintly. The crest of the town of Solace is displayed
+with pride on his chestplate. The gold crest of two coins seems to match
+the wealth of this town.
+~
+8202 44 900 E
+40 -7 -12 1d1+5000 4d8+40
+100000 0
+8 8 1
+Str: 18
+Dex: 16
+Int: 16
+Wis: 17
+Con: 17
+Cha: 17
+E
+#10202
+lieutenant commander~
+Lieutenant Commander~
+The Lieutenant Commander is here.
+~
+The Lieutenant seems like a happy fellow. Although he seems to have
+the brain of a 7 year old. His steel armor is covered with finger paint.
+Dispite his mental problems he is quite a challenge. If you would like
+to test his abilities go right ahead. He looks as if he is quite an easy
+fight.
+~
+74 36 800 E
+35 -1 -5 1d1+4000 5d8+15
+100000 0
+8 8 1
+Str: 17
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+E
+#10203
+Sergeant Arms~
+Sergeant at Arms~
+The Sergeant at Arms is here polishing his hammer.
+~
+This is the tough and burly Sergeant at Arms. He wears the red armor of 
+war. He is a middle age man with graying hair that pokes out from under
+his helmet. He is always waiting for a fight.
+~
+74 132 400 E
+28 -2 -6 1d1+1500 4d8+12
+15000 0
+8 8 1
+Str: 16
+Dex: 15
+Int: 15
+Wis: 16
+Con: 16
+Cha: 15
+E
+#10204
+townguard guard~
+Townguard~
+A townguard stands here.
+~
+A big strong townguard of Solace.
+~
+4171 0 1000 E
+15 10 -2 1d1+999 2d10+20
+500 0
+8 8 1
+Str: 15
+Dex: 14
+Int: 15
+Wis: 15
+Con: 15
+E
+#10205
+townguard guard agg~
+Townguard~
+A townguard stands here.
+~
+A big strong townguard of Solace.
+~
+107 0 1000 E
+15 10 -2 1d1+999 2d10+20
+500 0
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+E
+#10206
+citizen solace~
+Citizen of Solace~
+A citizen of Solace stands here.
+~
+He is one of the wealthy citizens of Solace.
+~
+136 0 800 E
+10 8 3 2d6+135 1d5+7
+34 0
+8 8 1
+Str: 15
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+E
+#10207
+woman~
+woman~
+A woman is here.
+~
+She is a beautiful woman.
+~
+8 0 800 E
+5 12 6 2d6+49 1d5+2
+34 0
+8 8 2
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#10208
+matt brewmaster~
+Matt the brewmaster~
+Matt the brewmaster is here looking for something to drink.
+~
+
+~
+24586 128 800 E
+51 -11 -17 2d6+2027 1d5+48
+34 0
+8 8 1
+Str: 19
+Dex: 17
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10209
+Mcbaker~
+the Mcbaker~
+The Mcbaker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker. But you can see that he has many scars on his
+body.
+~
+24586 0 900 E
+51 -11 -18 1d1+2033 1d8+47
+12000 0
+8 8 1
+Str: 19
+Dex: 17
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10210
+cookie's helper~
+Cookie's Helper~
+Cookie's Helper is here offering you a free cookie sample.
+~
+A young neighborhood girl helps out cookie when she is not around.
+~
+24586 0 900 E
+51 -13 -17 1d1+2033 1d8+47
+12000 0
+8 8 2
+Str: 19
+Dex: 16
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10211
+marilyn~
+Marilyn~
+Marilyn is here selling birds.
+~
+She is a very pretty and loves her birds. Her black hair hangs behind her
+tied in a pony tail.
+~
+24586 128 900 E
+51 -13 -18 1d1+2033 1d8+47
+12000 0
+8 8 2
+Str: 19
+Dex: 16
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10212
+ghost jander~
+Ghost of Jander~
+The Ghost of Jander is here.
+~
+The ghost of Jander is as he was in life. A rather large man with flaming
+red hair. His clothes seems dirty and tattered. His bushy beard obscures
+his stone face.
+~
+11 0 900 E
+15 7 0 1d1+260 1d8+21
+12000 0
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+E
+#10213
+ghost waiter~
+ghost of waiter~
+A ghost of a waiter is here waiting to serve you.
+~
+This is the ghost of a long dead waiter. Probably one of the many that 
+Jander killed for spilling a drink or something.
+~
+11 0 900 E
+15 5 0 1d1+260 1d8+21
+12000 0
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+E
+#10214
+ghost barkeep~
+ghost of a barkeeper~
+A ghost of a barkeeper is here waiting an eternity to take your order.
+~
+This is probably another of Jander's victims. Probably got caught with
+his hand in the cash or something.
+~
+24587 0 900 E
+51 -13 -17 1d1+2033 1d8+47
+12000 0
+8 8 2
+Str: 19
+Dex: 17
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10215
+townguard guard~
+Townguard~
+A townguard is on patrol.
+~
+A big strong townguard of Solace.
+~
+73 0 1000 E
+15 10 -2 1d1+999 2d10+20
+500 0
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+E
+#10216
+field rat~
+field rat~
+A field rat is here looking for food.
+~
+A dirty nasty field rat . Obviously  looking for food in the town.
+~
+77 524288 300 E
+10 8 4 1d1+141 2d10+0
+500 0
+8 8 0
+Str: 15
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+E
+#10217
+town clerk~
+Town Clerk~
+The Town Clerk is here impatiently waiting for you to pay taxes.
+~
+A stringy rat like individual. He beams at you through his spectacles
+as if he can see the money in your pockets.
+~
+11 128 800 E
+17 7 1 1d1+316 2d10+6
+500 0
+8 8 1
+Str: 15
+Dex: 14
+Int: 15
+Wis: 15
+Con: 15
+Cha: 14
+E
+#10218
+treasury guards~
+Treasury Guards~
+The Treasury Guards are here guarding the town's money.
+~
+These are like the biggest and meanest men you've every seen.
+They look more like trolls or ogres than men.
+~
+11 172 800 E
+18 4 -2 1d1+999 2d10+20
+500 0
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 14
+E
+#10219
+Jhen~
+Jhen the farmer~
+Jhen the farmer is here.
+~
+A rather tall man who works hard for his money.
+~
+24586 0 800 E
+51 -13 -17 1d1+2033 2d10+40
+500 0
+8 8 1
+Str: 19
+Dex: 17
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10220
+Krista~
+Krista the fruit peddler~
+Krista the fruit peddler is here.
+~
+A pretty woman who works hard for her money. Travelling every year
+to the market to sell her fruits.
+~
+24586 0 800 E
+51 -12 -17 1d1+2033 2d10+40
+500 0
+8 8 2
+Str: 19
+Dex: 18
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10221
+Janni~
+Janni~
+Janni is here.
+~
+Janni has spent his whole life making trinkets for people to enjoy.
+~
+24586 0 800 E
+51 -11 -17 1d1+2033 2d10+40
+500 0
+8 8 1
+Str: 19
+Dex: 18
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10222
+Nisi~
+Nisi the grocer~
+Nisi is here.
+~
+Nisi is a very interesting person. It shows in the wares she sells
+~
+24586 0 800 E
+51 -13 -17 1d1+2033 2d10+40
+500 0
+8 8 2
+Str: 19
+Dex: 18
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10223
+Molin~
+Molin the brewer~
+Molin the brewer is here.
+~
+Molin is a grey old man with hair down to his toes.
+~
+24586 0 800 E
+51 -12 -17 1d1+2033 2d10+40
+500 0
+8 8 1
+Str: 19
+Dex: 16
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10224
+Rashan~
+Rashan the farmer~
+Rashan the farmer is here.
+~
+Rashan is a middle aged man who grows his rutabagas by candlelight.
+~
+24586 0 800 E
+51 -12 -17 1d1+2033 2d10+40
+500 0
+8 8 1
+Str: 19
+Dex: 18
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10225
+Lexie~
+Lexie~
+Lexie is here.
+~
+Lexie is an accomplish diver. But he seems to have problems keeping 
+students.
+~
+24586 0 800 E
+51 -13 -17 1d1+2033 2d10+40
+500 0
+8 8 1
+Str: 19
+Dex: 16
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10226
+Croben~
+Croben~
+Croben is here.
+~
+Croben is a young man who learned the art of container making from his
+grandfather.
+~
+24586 0 800 E
+51 -13 -17 1d1+2033 2d10+40
+500 0
+8 8 1
+Str: 19
+Dex: 17
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10227
+otik sandath bartender~
+Otik Sandath~
+Otik sandath is here tending the bar
+~
+Otik is an older man with a gift for cooking. 
+
+Otik whispers, "A magical staff! I bet it was forged by demons from the
+terrible Darken Wood. There are terrible mysteries in that place, there are."
+~
+24586 0 800 E
+51 -11 -18 1d1+2033 2d10+40
+500 0
+8 8 1
+Str: 19
+Dex: 16
+Int: 17
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10228
+tika barmaid~
+Tika the barmaid~
+Tika the barmaid is here delivering drinks and food.
+~
+Curly auburn hair tumbles around Tika's lightly freckled face. Her striking
+green eyes match her low-cut blouse. She is a brash young barmaid who
+looks older than her 19 years. Rough living has hardened her and she
+presents a tough image as protection against her sense of vulnerablility.
+~
+24586 0 800 E
+16 7 0 1d1+287 2d10+5
+500 0
+8 8 2
+Str: 15
+Dex: 16
+Int: 15
+Wis: 15
+Con: 15
+Cha: 14
+E
+#10229
+thief cloaked figure~
+Thief~
+A cloaked figure sits here.
+~
+A thin, cloaked figure sits alone at a table near the door, an untouched
+glass of ale before him.
+~
+11 0 800 E
+17 6 1 1d1+316 2d10+6
+500 0
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 14
+E
+#10230
+old man~
+old man~
+An old man is here.
+~
+He looks like an old man....go figure..
+~
+10 0 800 E
+13 9 3 1d1+209 2d10+2
+500 0
+8 8 1
+Str: 15
+Dex: 14
+Int: 14
+Wis: 15
+Con: 15
+E
+#10231
+boy~
+boy~
+A small boy is here.
+~
+He is a small boy lost in his own daydreams.
+
+Boy says, "I saw the white stag up near Prayers Eye Peak just a few days
+ago! If only I could catch it. He who walks the paths of the white stag is
+blessed, I hear tell."
+~
+10 0 800 E
+7 9 4 1d1+86 2d10+0
+500 0
+8 8 1
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#10232
+brat boy~
+bratty boy~
+A brat is here.
+~
+He looks like a pain in the ass.
+~
+11 0 800 E
+10 10 4 1d1+141 2d10+0
+500 0
+8 8 1
+Str: 15
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+E
+#10233
+Mage~
+mage~
+A mage is here.
+~
+He is the typical adventurer. He looks as if he has travelled far.
+~
+10 0 800 E
+14 8 2 1d1+1000 2d10+3
+500 0
+8 8 1
+Str: 15
+Dex: 18
+Int: 14
+Wis: 15
+Con: 15
+E
+#10234
+Thief~
+Thief~
+A thief is here.
+~
+He is the typical adventurer. He looks as if he has travelled far.
+~
+11 0 800 E
+12 7 2 1d1+185 2d10+20
+500 0
+8 8 1
+Str: 15
+Dex: 19
+Int: 14
+Wis: 15
+Con: 15
+E
+#10235
+Warrior~
+Warrior~
+A warrior is here.
+~
+He is the typical adventurer. He looks as if he has travelled far.
+~
+10 0 800 E
+16 10 -2 1d1+999 2d10+20
+500 0
+8 8 1
+Str: 21
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 14
+E
+#10236
+Cleric~
+Cleric~
+A cleric is here.
+~
+He is the typical adventurer. He looks as if he has travelled far.
+~
+10 0 800 E
+19 10 -2 1d1+999 2d10+20
+500 0
+8 8 1
+Str: 15
+Dex: 14
+Int: 15
+Wis: 15
+Con: 15
+Cha: 14
+E
+#10237
+ghost gambler~
+Ghost of gambler~
+A ghost of a gambler is floating here looking for something to bet on.
+~
+Even in death this sad spirit is looking to gamble.
+~
+10 0 -200 E
+10 10 4 1d1+141 2d10+12
+500 0
+8 8 0
+Str: 15
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+E
+#10238
+child~
+child~
+A child is here eating bugs off the ground.
+~
+
+~
+8 0 800 E
+5 13 7 2d6+49 1d5+2
+34 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#10239
+rat~
+rat~
+There is a large rat here.
+~
+
+~
+76 524288 -100 E
+5 11 7 2d6+49 1d5+2
+34 0
+8 8 0
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#10240
+bat~
+bat~
+There is a large bat here.
+~
+
+~
+42 8 100 E
+5 12 6 2d6+49 1d5+2
+34 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#10241
+old lady~
+old lady~
+There is an old lady here.
+~
+
+~
+76 0 100 E
+8 11 4 2d6+97 1d5+5
+34 0
+8 8 0
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+E
+#10242
+tired adventurer~
+tired adventurer~
+There is a tired adventurer resting here.
+~
+
+~
+11 0 100 E
+13 7 2 2d6+203 1d5+10
+34 0
+8 8 0
+Str: 15
+Dex: 15
+Int: 14
+Wis: 15
+Con: 15
+E
+#10243
+Magnus wizard~
+Magnus wizard~
+Magnus the wizard is resting here from his long journeys.
+~
+
+~
+10 0 100 E
+26 1 -4 2d6+1500 1d5+25
+34 0
+8 8 1
+Str: 16
+Dex: 19
+Int: 15
+Wis: 19
+Con: 16
+Cha: 15
+E
+#10244
+Lord doom warrior~
+Lord Doom~
+Lord Doom is resting here from his long journeys.
+~
+
+~
+10 8 100 E
+26 1 -4 2d6+1500 1d5+28
+34 0
+8 8 1
+Str: 21
+Dex: 18
+Int: 15
+Wis: 16
+Con: 16
+Cha: 15
+E
+#10245
+foreign trade representative~
+Foreign Trade Representative~
+A foreign trade representative is waiting here to meet with the Captain of the Guard.
+~
+
+~
+10 0 100 E
+14 6 1 2d6+227 1d5+11
+34 0
+8 8 1
+Str: 15
+Dex: 14
+Int: 14
+Wis: 15
+Con: 15
+E
+#10246
+bodyguard~
+bodyguard~
+There is a bodyguard here.
+~
+
+~
+4106 0 100 E
+16 5 0 2d6+281 1d5+25
+34 0
+8 8 1
+Str: 15
+Dex: 16
+Int: 15
+Wis: 15
+Con: 15
+Cha: 14
+E
+#10247
+Secretary captain~
+Secretary~
+The Captain of the Guard's Secretary is here.
+~
+She looks very busy.
+
+The Secretary says 'Sorry, but the Captain is extremely busy today'.
+The Secretary says 'Please sit down and have a seat in the meantime'.
+~
+10 0 100 E
+25 3 -3 2d6+584 1d5+22
+34 0
+8 8 2
+Str: 16
+Dex: 17
+Int: 15
+Wis: 16
+Con: 16
+Cha: 15
+E
+#10248
+Secretary Lieutenant ~
+Secretary~
+The Lieutenant Commander's Secretary is here.
+~
+She looks very busy.
+The Secretary says 'Sorry, but the Lieutenant is extremely busy today'.
+The Secretary says 'Please sit down and have a seat in the meantime'.
+~
+10 0 100 E
+20 3 -1 2d6+403 1d5+17
+34 0
+8 8 2
+Str: 16
+Dex: 17
+Int: 15
+Wis: 16
+Con: 15
+Cha: 14
+E
+#10249
+Secretary Sergeant ~
+Secretary~
+The Sergeant at Arm's Secretary is here.
+~
+She looks very busy.
+The Secretary says 'Sorry, but the Sergeant is extremely busy today'.
+The Secretary says 'Please sit down and have a seat in the meantime'.
+~
+10 0 100 E
+15 5 0 2d6+254 1d5+12
+34 0
+8 8 2
+Str: 15
+Dex: 16
+Int: 15
+Wis: 15
+Con: 15
+E
+#10250
+Macaw~
+the macaw~
+A large macaw is here.
+~
+The macaw looks like a strong, fearless fighter. It is a beautiful bird.
+~
+14 4194304 0 E
+12 9 2 1d12+180 1d8+8
+0 0
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 16
+Int: 14
+Wis: 15
+Con: 15
+E
+#10251
+Raven~
+the raven~
+A large, black raven is here.
+~
+The raven looks like a strong, fearless fighter.
+~
+14 4194304 0 E
+15 6 1 1d12+255 1d8+11
+0 0
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 14
+Int: 15
+Wis: 15
+Con: 15
+E
+#10252
+hunting hawk~
+the hunting hawk~
+A large, hunting hawk is here.
+~
+The hawk looks like a strong, fearless fighter. It has been trained for
+hunting game.
+~
+14 4194304 0 E
+18 5 0 1d12+340 1d8+14
+0 0
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 17
+Int: 15
+Wis: 15
+Con: 15
+Cha: 14
+E
+#10253
+Battle falcon~
+the battle falcon~
+A giant, falcon is here.
+~
+The battle falcon looks like a strong, fearless fighter. This giant breed has
+been trained especially for combat.
+~
+14 4194304 0 E
+21 4 -1 1d12+438 1d8+17
+0 0
+8 8 0
+BareHandAttack: 4
+Str: 16
+Dex: 17
+Int: 15
+Wis: 16
+Con: 15
+Cha: 14
+E
+$

@@ -1,0 +1,110 @@
+6c6
+< 5 bcg 8193
+---
+> 5 70 8193
+9a10,14
+> text writing inscription~
+> It just says: ' (void *) '
+> Not very enlightening, is it?
+> ~
+> E
+16,20d20
+< E
+< text writing inscription~
+< It just says: ' (void *) '
+< Not very enlightening, is it?
+< ~
+31,32c31,32
+< 3002385 0 0 0
+< 0 3002385 0
+---
+> 32385 0 0 0
+> 0 32385 0
+38c38
+< 12 gk 16385
+---
+> 12 1088 16385
+47,48c47,48
+< ~
+< 9 gk 17
+---
+> undefined~
+> 9 1088 17
+52c52
+< 12 30
+---
+> 12 60
+54c54,58
+< 3 1
+---
+> 13 60
+> A
+> 3 2
+> F
+> 4096 0 0
+60c64
+< 1 gk 16385
+---
+> 1 1088 16385
+75c79
+< Made in Serbia.
+---
+> Made in Siberia.
+93c97
+< 18 c 16385
+---
+> 18 4 16385
+101c105
+< 5 adjmnoq 8193
+---
+> 5 8483337 8193
+114c118
+< 18 c 16385
+---
+> 18 4 16385
+122c126
+< 18 c 16385
+---
+> 18 4 16385
+143c147
+< 10 g 1
+---
+> 10 64 1
+158a163,166
+> flag~
+> On the flag is the symbol of King Welmar's house, the rampant stag.
+> ~
+> E
+163,166d170
+< E
+< flag~
+< On the flag is the symbol of King Welmar's house, the rampant stag.
+< ~
+172c176
+< 18 c 1
+---
+> 18 4 1
+200c204
+< 18 c 1
+---
+> 18 4 1
+216c220
+< lobster~
+---
+> lobster food~
+221c225
+< 7 0 0 0 
+---
+> 7 0 0 0
+224c228
+< caviar~
+---
+> caviar food~
+229c233
+< 2 0 0 0 
+---
+> 2 0 0 0
+253c257
+< $
+---
+> $~

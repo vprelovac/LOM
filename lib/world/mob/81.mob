@@ -1,0 +1,226 @@
+#8100
+tridrone~
+a tridrone~
+A tridrone is here, doing a menial task.
+~
+You see what appears to be a 3 sided pyramid with spidery arms and legs.~
+76 12288 0 E
+30 -9 3 4d20+72 4d6+15
+450 0
+8 8 0
+Str: 23
+Dex: 17
+Int: 20
+Wis: 18
+Con: 20
+Cha: 21
+E
+#8101
+quadrone~
+a quadrone~
+A quadrone is here, watching for trespassers.
+~
+A cubic creature, with spiny arms and legs.
+~
+33100 44 0 E
+31 -10 3 14d10+637 3d8+29
+480 0
+8 8 0
+Str: 23
+Dex: 19
+Int: 20
+Wis: 18
+Con: 20
+Cha: 21
+E
+#8102
+pentadrone~
+a pentadrone~
+A pentadrone is here, policing the area.
+~
+A five-armed creature which resembles a starfish on thin stilt-like legs.
+~
+131914 44 0 E
+33 -10 3 15d12+704 4d7+30
+544 0
+8 8 0
+Str: 23
+Dex: 19
+Int: 20
+Wis: 18
+Con: 20
+Cha: 24
+E
+#8103
+decaton~
+a decaton~
+A decaton is here, overseeing the other modrons.
+~
+A Decaton  appear as a 10 tentacled sphere on stumpy legs.
+~
+41066 2097192 0 E
+34 -13 3 20d10+711 4d8+32
+578 0
+8 8 0
+Str: 23
+Dex: 18
+Int: 20
+Wis: 18
+Con: 20
+Cha: 24
+E
+#8104
+nonaton~
+a nonaton~
+A nonaton is here, preserving law and order.
+~
+A cylidrical modron with 9 tentacles and stubby legs.
+~
+67248234 1048744 0 E
+38 -13 3 11d8+996 3d12+34
+722 0
+8 8 0
+Str: 23
+Dex: 18
+Int: 20
+Wis: 18
+Con: 23
+Cha: 24
+E
+#8105
+octon~
+an octon~
+An octon is here, governing his ward of responsilbility.
+~
+An octon has a collar at shoulder level with 8 tentacled arms outside his
+collar.
+~
+49258 5160 0 E
+39 -15 3 25d10+960 4d8+36
+760 0
+8 8 0
+Str: 23
+Dex: 19
+Int: 20
+Wis: 18
+Con: 23
+Cha: 24
+E
+#8106
+septon~
+a septon~
+A septon is here, preserving order.
+~
+A septon appears as a human with a large bald head.  It has a shoulder collar
+with 7 tentacles coming from it.
+~
+98410 4325416 300 E
+42 -15 4 5d10+1235 5d6+32
+150 0
+8 8 0
+Str: 25
+Dex: 20
+Int: 20
+Wis: 21
+Con: 23
+Cha: 25
+E
+#8107
+hexton~
+a hexton~
+A hexton is here, watching over his armies.
+~
+A hexton appears as a humanoid with 6 arms: 2 large human arms with 6 fingers,
+and 4 tentalces below tipped with sharp claws.
+~
+16490 16777384 0 E
+39 -15 3 5d10+1097 5d6+28
+2000 0
+8 8 0
+Str: 23
+Dex: 18
+Int: 20
+Wis: 18
+Con: 23
+Cha: 24
+E
+#8108
+quinton~
+a quinton~
+A quinton is here keeping records.
+~
+Quintons look like tall, stocky humanoids with 4 flexible arms jutting from the
+shoulders.  A prehensile tail serves as the creature's 5th arm, and it has
+fan-like wings attached to their shoulders.
+~
+2113658 268435496 0 E
+43 -16 4 8d12+1268 5d7+38
+500 0
+8 8 0
+Str: 25
+Dex: 22
+Int: 20
+Wis: 21
+Con: 23
+Cha: 25
+E
+#8109
+tertian~
+a tertian~
+A tertian is here administering the law.
+~
+Tertians look very human, save for their 12 foot size, the horns jutting from
+the sides of their bald heads, and the long prehensile tail ending in a mace-
+like ball.
+~
+67166314 4194344 0 E
+44 -15 4 5d12+1319 6d6+36
+1000 0
+8 8 0
+Str: 25
+Dex: 25
+Int: 20
+Wis: 21
+Con: 23
+Cha: 25
+E
+#8110
+secundus~
+Secundus~
+Secundus, Viceroy of the quarter, is here.
+~
+The secundi appear as incredibly thin, tall humanoids with long, narrow faces
+and deepset eyes.
+~
+16506 20971688 0 E
+47 -19 4 5d10+1625 6d6+37
+2500 0
+8 8 0
+Str: 25
+Dex: 20
+Int: 23
+Wis: 21
+Con: 23
+Cha: 25
+E
+#8111
+primus~
+Primus~
+Primus, ruler of all the planes of Nirvana, forms out of an energy pool.
+~
+Primus is a huge being who rises out of the energy pool and glares at you with
+violet eyes. His right hand is wreathed in darkness, his left in light, and
+he looks very displeased to see you.
+~
+133226 12968 0 E
+60 -25 6 10d12+7000 3d20+35
+1000000 0
+8 8 0
+Str: 25
+Dex: 24
+Int: 25
+Wis: 24
+Con: 25
+Cha: 25
+E
+$

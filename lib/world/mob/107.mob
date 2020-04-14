@@ -1,0 +1,613 @@
+#10700
+cashier~
+a bored cashier~
+A bored cashier sits in the booth, collecting dough from you.
+~
+The Cashier looks bored, and you think he really is.  Of course, he cares 
+nothing about what you think, and he wishes you share the same sentiments with 
+him, too.
+~
+66 40 -100 E
+20 10 0 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10701
+greeter bouncer person~
+the Greeter/Bouncer~
+A big, hulky, smiling person is here, greeting you.
+~
+You can tell that he's not enjoying his job.  Although his job is supposed to
+greet you and smile witlessly, you can tell that his smile is very 
+artificial.  Also, just from the look of him you can bet that he has a night 
+job as a bouncer.  You wonder if he's guarding something here.
+~
+66 40 -300 E
+20 10 0 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10702
+hatchling~
+a Hatchling~
+A Hatchling sits here, playing 'doctor' with Iccy.
+~
+This Hatchling is little more than a modified toy soldier with limited
+intelligence.  He smiles at you briefly and then resumes his fun with 
+Iccy.
+~
+66 8320 750 E
+6 17 7 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10703
+iccy~
+Iccy~
+Iccy sits here with the Hatchling, playing 'doctor'
+~
+Iccy is nothing more than a modified mud monster with limited intelligence.
+She smiles at you briefly and quickly resumes playing with the Hatchling.
+~
+66 8320 750 E
+5 18 8 0d0+0 0d0+0
+0 -100
+8 8 2
+E
+#10704
+kahno~
+KahnO, predecesser of KahnI~
+About 500 KahnO's reflect off every mirror.
+~
+Every reflection of KahnO is grinning at you.  You wonder why you see much
+more reflections of him than you do of yourself.  However, you DO notice 
+that KahnO is nothing more than a modified troll with limited intelligence.
+~
+66 786562 500 E
+6 17 7 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10705
+fraggie spider~
+Fraggie~
+Fraggie sits on the web, staring at you.
+~
+You notice that Fraggie is just a modified young spider.  He licks his lips
+and grins at you.
+~
+66 128 -400 E
+5 18 8 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10706
+cook~
+the cook~
+The cook stands over bubbling pots.
+~
+The cook looks at you momentarily, yells 'Hey, you ain't supposed to be 
+here!', but quickly loses her train of thought and ignores you after that.
+~
+194 0 -50 E
+10 15 5 0d0+0 0d0+0
+0 -100
+8 8 2
+E
+#10707
+person counter counterperson~
+the cafeteria counterperson~
+The cafeteria counterperson unenthusiastically sells junk to kids.
+~
+The counterperson looks at everyone with a tired, uncaring scowl.  Upon
+noticing you, though, he smiles his evil grin.  "Try the candy cane.", he 
+whispers to you with a grin.  He quickly reverts back to his degenerate
+self.
+~
+66 0 -200 E
+13 14 4 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10708
+demon unspawned~
+an unspawned demon~
+An unspawned demon rises out of the ashes.
+~
+This unspawned demon is trying to materialize.  You wonder if you should 
+perhaps leave it alone.
+~
+66 0 -352 E
+4 18 8 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10709
+morph blob~
+a morphing blob~
+A small blob is trying to morph into a useable shape.
+~
+This small blob is trying to morph into an evil, powerful creature.  It's
+also crawling toward you, trying to consume you!
+~
+66 0 -400 E
+4 18 8 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10710
+blinky blinking shape~
+Blinky~
+A small blinking shape runs around the kitchen, running everything.
+~
+This small blinking shape is too fast for you to see any details.
+~
+66 0 0 E
+4 18 8 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10711
+atom~
+the unmixed Atom~
+A small Atom bounds around the infinite walls of this galaxy infinitely fast!
+~
+You have no idea how this Atom looks like, it's never at the same place 
+twice.  You wonder how much chaos will result if this atom was ever
+turned around.
+~
+66 128 0 E
+6 17 7 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10712
+little dave monk~
+Little Dave, the evil Monk~
+Little Dave, an evil monk, tries to sell you cult-like drugs.
+~
+Little Dave makes a lot of money off his wares, not to mention a huge
+following.
+~
+66 0 -200 E
+4 18 8 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10713
+little boy~
+a little boy~
+A little boy sits here, playing with razors.
+~
+The little boy sits here, bleeding from many small cuts.  He smiles at you 
+and offers a bloody razor.
+~
+66 0 0 E
+4 18 8 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10714
+little girl~
+a little girl~
+A little girl is sitting here, playing with matches and Kerosene!
+~
+The little girl smirks at you, and splashes some Kerosene at you!  She 
+then lights a match and stares at it in wonder.
+~
+194 0 -400 E
+4 18 8 0d0+0 0d0+0
+0 -100
+8 8 2
+E
+#10715
+big bruiser~
+a big bruiser~
+A big bruiser stands here, guarding against 'unwanted visitors', like you!
+~
+This big bruiser doesn't like you being here,and knows of only one way to
+get rid of you, and that's by killing you!
+~
+102 40 -600 E
+10 15 5 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10716
+mad man madman~
+a madman~
+A madman makes a stand here, thinking you want to kill him!
+~
+He's dressed in rags, and shouts 'Don't come any closer!' 'Hey, I saw you 
+move!'  He immediately attacks you!
+~
+102 0 -100 E
+9 16 6 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10717
+rooms keeper roomskeeper~
+the roomskeeper~
+The roomskeeper sits behind the counter, waiting for you to pay him money.
+~
+The roomskeeper looks bored.  He says to you 'Hi.  Rooms D and G are taken.
+If you want a whore, rent room F'.  He then goes back to his introversion.
+~
+66 0 -500 E
+17 11 1 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10718
+kid \/\/ildrunner wildrunner~
+the little \/\/ildrunner~
+A little kid is here, running around \/\/ildly.
+~
+This little kid zips around you, between your legs, over your heads.  You
+can't believe the energy this little dude has!
+~
+64 0 0 E
+5 18 8 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10719
+whore prostitute~
+the hermophroditic prostitute~
+A herymophroditic prostitute lounges on the bed here.
+~
+This strange creature has four sets of boobs and 2 penises.  You recoil from
+this monstrosity in disgust!  Better get out of here, quick!
+~
+66 0 -50 E
+8 16 6 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10720
+man weasel~
+a weaslly-looking man~
+A weaselly-looking man sits behind the desk, grinning at you.
+~
+This short man grins evilly at you.  He waves you closer to the desk, and 
+whispers to you, "I have some information you may wish to buy.  I found 
+some journals and letters that are probably of interest to you.  Are you
+willing to pay my price?"
+(type list to see what he has to sell)
+~
+66 0 -200 E
+12 14 4 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10721
+serving wench~
+a serving wench~
+A serving wench is here, taking orders and serving food, while dodging patrons.
+~
+The serving wench may be pretty, but her hair covers most of her face, such
+that you can see little of her.  She hastily reads out what's available for
+today, then runs by to help another customer.
+~
+66 0 23 E
+8 16 6 0d0+0 0d0+0
+0 -100
+8 8 2
+E
+#10722
+warrior~
+a gruff warrior~
+A gruff warrior is sitting at the table, eating messily.
+~
+The warrior looks to be quite barbaric.  He ignores you completely.
+~
+66 0 0 E
+16 12 2 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10723
+lady bartender~
+the lady bartender~
+The lady bartender serves up drinks and mops up the counter robotically.
+~
+You can tell she's had days like this many times before.
+~
+66 0 0 E
+8 16 6 0d0+0 0d0+0
+0 -100
+8 8 2
+E
+#10724
+shade shadow~
+a shade~
+A dark shadow looms over you.
+~
+You see a dark silhouette of a human sized creature.
+~
+224 786474 -700 E
+19 10 0 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10725
+shade shadow sentry~
+a shade sentry~
+A dark shadow looms over you.
+~
+You see a silhouette of a human-sized creature.
+~
+98 786474 -700 E
+19 10 0 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10726
+little brat~
+a little brat~
+A little brat is here, showing everyone what he found.
+~
+This little brat sees you, and waves a skeleton key at you, boasting, "Look
+what I found!  Ha Ha!"  He won't give up this little treasure to you, but
+he MAY be convinced to sell it to you for neato shiny coins!
+~
+192 0 0 E
+1 20 10 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10727
+mage old man~
+an old man~
+An old man is here, nursing his glass of wine.
+~
+Upon a closer look, this old man looks ageless.  He doesn't look too feeble,
+either.  Better leave him alone.
+~
+66 40 -200 E
+17 11 1 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10728
+lady mercenary~
+a lady mercenary~
+A lady mercenary sits here, downing many shots of vodka.
+~
+Any luck at trying to get her drunk enough to take advantage of her are
+dashed when you realize she's not affected by the drinks at all.  You
+consider approaching her, but only for a brief moment and quickly 
+reconsider that idea.
+~
+66 0 100 E
+21 9 -1 0d0+0 0d0+0
+0 -100
+8 8 2
+E
+#10729
+employee~
+an employee~
+An employee is searching the ground for something.
+~
+The employee looks up at you and says, "I'm looking for this important
+skeleton key.  If you find it, PLEASE return it to me!!!!"  He goes back
+to his search.
+~
+194 0 -200 E
+6 17 7 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10730
+tied victim bundle~
+a tied victim~
+A bundle is wriggling beneath you.
+~
+The bundle is a tied victim!  He squirms, trying to get out!
+~
+66 0 0 E
+1 20 10 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10731
+employee~
+an employee~
+An employee is here, discussing with a shade.
+~
+The employee spots you, and attacks!
+~
+98 0 -400 E
+17 11 1 0d0+0 0d0+0
+0 -100
+8 8 2
+E
+#10732
+shade shadow~
+a shade~
+A dark shadow looms over you.
+~
+The shade is not happy that you have intruded upon it's discussion and
+decides to attack you.
+~
+98 786474 -700 E
+19 10 0 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10733
+shadow warrior~
+a shadow warrior~
+A dark shadow looms over you, and attacks!
+~
+The shadow warrior is so insubstantial, even its weapons and armor are
+mere silhouettes!
+~
+102 786474 -750 E
+25 7 -3 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10734
+shadow dragon beast~
+Shadow Dragon~
+A big hulking beast hovers over you.
+~
+You watch with dread as the shadow dragon claws and breathes at you!
+~
+98 4980778 -999 E
+35 2 -8 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10735
+shadow librarian~
+the shadow librarian~
+A shadow leans over the scrolls.
+~
+The shadow librarian ignores you completely, engrossed in its scrolls.
+~
+66 786474 -800 E
+28 6 -4 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10736
+shadow conjurer~
+the shadow conjurer~
+A shadow looms over the many potions and solutions.
+~
+The shadow conjurer ignores you completely, engrossed in its potions and
+other concoctions.
+~
+66 786474 -800 E
+28 6 -4 0d0+0 0d0+0
+0 -100
+8 8 0
+Class: 1
+E
+#10737
+shadow scriber~
+the shadow scriber~
+A shadow leans over the scrolls.
+~
+The shadow scriber ignores you compeletely, engrossed in its scrolls.
+~
+66 786474 -800 E
+28 6 -4 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10738
+shadow enchanter~
+the shadow enchanter~
+A shadow looms over the weapons.
+~
+The shadow enchanter ignores you completely, engrossed with its weapons.
+~
+66 786474 -800 E
+28 6 -4 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10739
+sacrifice victim sacrificial~
+the sacrificial victim~
+A victim is here, being sacrificed.
+~
+The victim is beyond salvation, horribly scarred physically, mentally, and
+spiritually for life.
+~
+194 0 0 E
+1 20 10 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+#10740
+torturer shadow~
+the torturer~
+A shadow is here, turturing its victim with acid.
+~
+You can bet this turturer likes its job!
+~
+194 0 -750 E
+15 13 3 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10741
+torturer shadow~
+the torturer~
+A shadow is here, torturing its victim by stabbing it repeatedly.
+~
+You can bet this torturer likes its job!
+~
+194 0 -750 E
+15 13 3 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10742
+torturer shadow~
+the torturer~
+A shadow is here, torturing its victim with fire.
+~
+You can bet this torturer loves its job!
+~
+194 0 -750 E
+15 13 3 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10743
+khyrhamokhdon~
+the Shadow Demon~
+A deep shadow envelops you.
+~
+The Shadow Demon KhyrhaMokhdon is a large, powerful beast.  Right hand of the
+Shadow Lord himself, KhyrhaMokhdon hates humanity and loves to watch them
+burn from acid, which he calls unholy fire.  KhyrhaMokhdon serves the 
+Shadow Lord without reserve.
+~
+194 787626 -1000 E
+37 1 -9 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10744
+khyrhashohan~
+the Shadow Demon~
+A deep shadow envelops you.
+~
+The Shadow Demon KhyrhaShohan is a large, powerful beast.  Left hand of the
+Shadow Lord himself, KhyrhaShohan hates humanity and loves scarring them to
+oblivion.  KhyrhaShohan serves the Shadow Lord without reserve, although
+it envies the other Khyrha for being first before itself.
+~
+194 787626 -1000 E
+36 1 -9 0d0+0 0d0+0
+0 -100
+8 8 0
+E
+#10745
+khyrhazenin~
+the Shadow Lord~
+A deep shadow envelops you and enters your heart.
+~
+The Lord of Shadow, Lord of Despair, Lord of Darkness, KhyrhaZenin hates
+anything to do with the Light and God, who has forsaken him and cast him
+to his death.  He lives off his hatred of God, and spends every moment of 
+his unlife destroying humanity.  His singular purpose leaves him very 
+predictable, but also very, very powerful.
+~
+194 787626 -1000 E
+43 -2 -12 0d0+0 0d0+0
+0 -100
+8 8 1
+E
+$
+
+
+
+Mob special remarks

@@ -1,0 +1,219 @@
+#7800
+chainmail chain mail~
+elven chainmail~
+A shiny metallic shirt is on the floor.~
+~
+9 0 9
+4 0 0 0
+3 50 0
+#7801
+boots~
+elven boots~
+Some soft boots are on the floor.~
+~
+9 0 65
+3 0 0 0
+3 10 0
+A
+14 50
+#7802
+longsword sword long~
+an elven longsword~
+A shiny blade is on the floor.~
+~
+5 64 8193
+0 3 8 3
+3 50 0
+A
+3 1
+A
+12 20
+A
+18 3
+A
+24 -2
+#7803
+cloak brown~
+a brown cloak~
+A pile of brown cloth is on the floor.~
+~
+9 64 5
+3 0 0 0
+3 50 0
+A
+2 1
+#7804
+key~
+a key~
+A shiny key is on the floor.~
+~
+18 0 1
+7846 0 0 0
+1 0 0
+#7805
+key~
+a key~
+A shiny key is on the floor.~
+~
+18 0 1
+7880 0 0 0
+1 0 0
+#7806
+ring~
+a gold ring~
+A shiny ring is on the floor.~
+~
+9 64 3
+3 0 0 0
+1 1000 0
+A
+12 10
+#7807
+quarterstaff staff~
+a quarterstaff~
+A quarterstaff is on the floor.~
+~
+5 64 8193
+0 4 4 8
+5 1000 0
+A
+19 2
+#7808
+potion~
+a potion~
+A potion is on the floor.~
+~
+10 64 1
+10 1 29 0
+1 200 0
+#7809
+potion~
+a potion~
+A potion is on the floor.~
+~
+10 64 1
+10 21 20 0
+1 200 0
+#7810
+potion~
+a potion~
+A potion is on the floor.~
+~
+10 64 1
+10 44 20 0
+1 200 0
+#7811
+potion~
+a potion~
+A potion is on the floor.~
+~
+10 64 1
+50 91 91 91
+1 200 0
+#7812
+potion~
+a potion~
+A potion is on the floor.~
+~
+10 64 1
+10 114 34 0
+1 200 0
+#7813
+potion~
+a potion~
+A potion is on the floor.~
+~
+10 64 1
+10 38 0 0
+1 200 0
+#7814
+potion~
+a potion~
+A potion is on the floor.~
+~
+10 64 1
+10 3 0 0
+1 200 0
+#7815
+potion~
+a potion~
+A potion is on the floor.~
+~
+10 64 1
+10 15 0 0
+1 200 0
+#7816
+potion~
+a potion~
+A potion is on the floor.~
+~
+10 64 1
+10 1 0 0
+1 200 0
+#7817
+scroll~
+a scroll~
+A scroll is on the floor.~
+~
+2 64 1
+10 15 0 0
+1 200 0
+#7818
+scroll~
+a scroll~
+A scroll is on the floor.~
+~
+2 64 1
+10 1 0 0
+1 200 0
+#7819
+scroll~
+a scroll~
+A scroll is on the floor.~
+~
+2 64 1
+10 18 0 0
+1 200 0
+#7820
+scroll~
+a scroll~
+A scroll is on the floor.~
+~
+2 64 1
+10 13 0 0
+1 200 0
+#7821
+scroll~
+a scroll~
+A scroll is on the floor.~
+~
+2 64 1
+10 32 0 0
+1 200 0
+#7822
+scroll~
+a scroll~
+A scroll is on the floor.~
+~
+2 64 1
+10 8 0 0
+1 200 0
+#7823
+scroll~
+a scroll~
+A scroll is on the floor.~
+~
+2 64 1
+10 28 0 0
+1 200 0
+#7824
+rod light~
+the Rod of Neutrality~
+A dull iron shaft is on the floor.~
+~
+1 1600 1
+0 0 -1 0
+1 1000 0
+A
+19 5
+$

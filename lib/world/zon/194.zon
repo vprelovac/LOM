@@ -1,0 +1,17 @@
+#194
+Ofcol Village~
+19499 42 2
+M 0 303 5 19456 citizen
+M 0 303 5 19450 -
+M 0 304 5 19453 citizen female
+M 0 304 5 19452 -
+E 1 620 99 16 
+M 0 306 1 19455 Luxan the shopkeeper
+G 1 304 100 wild flowers
+G 1 630 100 torch
+M 0 308 1 19456 Inn-keeper passing out drinks
+G 1 600 100 Something to sell
+G 1 601 100 -
+M 0 350 1 19477 Ravan's pet dragon
+S
+$~

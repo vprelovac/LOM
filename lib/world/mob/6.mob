@@ -1,0 +1,501 @@
+#600
+cityguard guard~
+the Ofcol cityguard~
+An Ofcol cityguard is standing here, making sure there is no trouble.
+~
+This guard is surely a trained and skilled fighter.  He is fully armed and
+armored, and he uses his equipment with a practiced precision.  Luckily for 
+you, this guard will only use his deadly skills for the good of the citizens of
+Ofcol.
+~
+4100 8192 1000 E
+19 6 -4 18d18+180 1d4+12
+1000 -100
+8 8 1
+E
+#601
+marshall diana~
+Marshall Diana~
+Diana, the Marshall of Ofcol, stands here proudly.
+~
+Diana is a beautiful, powerfully built woman.  She wears platinum armor for
+three reasons.  The first is to show she is strong enough to withstand the
+weight.  The second is to show her rank of office.  The third is that platinum
+is the hardest metal she can find.  She is willing to defend Ofcol to her 
+death.
+~
+2 8328 1000 E
+33 -10 -10 33d33+400 1d4+30
+5000 -100
+8 8 2
+Str: 25
+E
+#602
+derrick captain guard cityguard~
+Captain Derrick~
+Derrick, Captain of the Guard, is here disciplining his guards.
+~
+Derrick is a very big man.  He has acquired this station, not by brains or
+charm, but by brute strength.  He had fought in three orc wars and is a
+descendent of a surviving cityguard of old Thalos.  He believes that everything
+has to be hard won to be kept, and that laxity is for the weak.
+~
+64 8328 1000 E
+27 -3 -7 27d27+270 1d4+20
+5000 -100
+8 8 1
+E
+#603
+jacklyn captain guard cityguard~
+Captain Jacklyn~
+Jacklyn Captain of the Citadel Guard, is here bringing her soldiers' morale up.
+~
+Jacklyn is pale and wiry, but then, so are most other witches.  The fact that
+Jacklyn is a mage and a warrior makes her the perfect captain of the citadel
+guards.  Jacklyn is very beautiful, but whether it is due to her pale softness
+or her magic, no one has ever found out.  She isn't very strong physically, 
+but she need not be.
+~
+2 8200 1000 E
+27 0 -8 27d27+180 1d4+17
+5000 -100
+8 8 2
+E
+#604
+jim blacksmith~
+Jim the Blacksmith~
+Jim the Blacksmith is here, selling his latest works of metal.
+~
+Jim is big and brawny, just like what you'd expect of a blacksmith.  He is
+smiling a very big smile, as he looks at your coins.  You wonder if he likes
+the metals or the value of the coins.
+~
+2 8192 1000 E
+30 -5 -10 1d1+2000 1d4+25
+75000 -100
+8 8 1
+E
+#605
+sam~
+Sam~
+Sam is here, selling his leather works.
+~
+Sam is a middle-aged workman.  He looks tired, but never too tired to get that
+last sale from you.  He grins at you slightly.
+~
+2 8192 1000 E
+30 -2 -10 1d1+2000 1d4+20
+15000 -100
+8 8 1
+E
+#606
+madam tracy~
+Madam Tracy~
+Madam Tracy is here, selling and buying little treasures.
+~
+Madam Tracy is a bit old, but not to the point of senility.  Besides, she knows
+the hard ways of this world and is ready for it.  She spends her time at the
+shop, trading little things (for a wee bit of profit).
+~
+2 8192 1000 E
+20 1 -10 1d1+1500 1d4+15
+25000 -100
+8 8 2
+E
+#607
+marty~
+Marty~
+Marty the meat store owner is here, selling you his choice meats.
+~
+Marty is a big man.  He used to hunt the animals he sells, but now he lets his
+son, Jim, raise and slaughter the animals for him.  Marty still knows how to
+kill, though.
+~
+2 8192 1000 E
+30 -5 -10 1d1+2000 1d4+20
+5000 -100
+8 8 1
+E
+#608
+elizabeth farmer~
+Farmer Elizabeth~
+Farmer Elizabeth is here, selling the latest crop.
+~
+Elizabeth is a very happy woman.  She can't believe the nice weather here in
+Ofcol, and the great vegetables this land produces is unbelievable to her too.
+Farmer Elizabeth smiles at you nicely, but you bet she is doing that just to
+get a good price off of you!
+~
+2 8192 1000 E
+20 1 -10 1d1+1000 1d4+15
+5000 -100
+8 8 2
+E
+#609
+granny jenkins~
+Granny Jenkins~
+Granny Jenkins is here, running the still.
+~
+Granny Jenkins is a feeble woman, but she knows her brew.  She might be very
+old, but she is still in charge of the still.  She cackles lightly at herself
+every time she tastes her whiskey, which is quite often!
+Granny Jenkins cackles again.
+~
+2 8192 500 E
+6 17 6 4d4+40 1d4+4
+100 -100
+8 8 2
+E
+#610
+jack~
+Jack~
+Jack is here slaughtering away at the animals.
+~
+Jack is the son of Marty, and you can see the family resemblance (especially in
+their shared affinity for slaughtering animals.)  Jack leers at you as you
+enter.  "Came by to watch, eh?", he asks.
+~
+162 0 200 E
+12 8 -3 12d12+120 1d4+10
+100 -100
+8 8 1
+E
+#611
+sara farmer~
+Farmer Sara~
+Farmer Sara is here, milking the cows.
+~
+Farmer Sara is all covered with bits of straw and grime, but underneath all
+that, she doesn't look that bad.  She smiles at you demurely, and goes back to
+her work.
+~
+130 0 800 E
+5 16 5 5d5+50 1d4+3
+100 -100
+8 8 2
+E
+#612
+chicken hen~
+a hen~
+A hen is here, squawking at your intrusion.
+~
+The hen has yellow feathers and small wings.  It looks like a chicken, if
+you've ever seen one.
+~
+128 0 0 E
+1 20 10 1d1+10 1d5+0
+0 -100
+8 8 2
+BareHandAttack: 4
+E
+#613
+cow~
+the cow~
+A cow is here, munching on grass.
+~
+The cow is here happily grazing.  It moos at you and goes back to grazing.
+~
+0 0 0 E
+5 16 5 5d5+50 1d8+3
+0 -100
+8 8 0
+E
+#614
+cow~
+the cow~
+A cow is here, waiting to be milked.
+~
+The cow is just standing here.  She moos at you and otherwise ignores you.
+~
+2 0 0 E
+5 16 5 5d5+50 1d8+3
+0 -100
+8 8 2
+E
+#615
+horse young~
+the young horse~
+A young horse is here, grazing.
+~
+The horse whinnies at you, then runs around you a few times, then just goes
+back to grazing.
+~
+128 0 0 E
+6 15 4 6d6+60 1d8+4
+0 -100
+8 8 0
+BareHandAttack: 4
+E
+#616
+pig~
+the pig~
+A pig is playing here, getting itself and you dirty.
+~
+The pig looks dirty.  It snorts and sniffs at you, then goes back to its slop.
+~
+2 0 0 E
+4 17 6 4d4+40 1d4+3
+0 -100
+8 8 0
+E
+#617
+citizen man~
+the citizen~
+A citizen is here, smiling at you.
+~
+The citizen smiles at you.  He is having a great day, and he wishes the same
+for you.  He looks at you strangely, though, wondering why you are so armed and
+armored.
+~
+128 0 500 E
+5 16 5 5d5+50 1d6+3
+100 -100
+8 8 1
+E
+#618
+citizen woman~
+the citizen~
+A citizen is here, smiling at you.
+~
+The citizen smiles at you.  She is having a great day, and she wishes the same
+for you.  She looks at you strangely, though, wondering why you are so armed
+and armored.
+~
+128 0 500 E
+5 16 5 5d5+50 1d6+3
+100 -100
+8 8 2
+E
+#619
+child boy~
+the boy~
+A boy is here, playing tag and other kids' games.
+~
+The little boy looks up at you and says, 'Hi.  Can I have a piece of candy?'
+He then smiles and runs away, remembering his game.
+~
+128 0 500 E
+3 18 7 3d3+30 1d4+2
+10 -100
+8 8 1
+E
+#620
+child girl~
+the girl~
+A girl is here, playing jump jacks and other kids' games.
+~
+The little girl looks up at you and says, 'Hi.  Can I have a pretty little
+coin?'  She then smiles and runs away, remembering her game.
+~
+128 0 500 E
+3 18 7 3d3+30 1d4+2
+10 -100
+8 8 2
+E
+#621
+maid woman~
+the maid~
+A maid is here, cleaning the house and preparing the next meal.
+~
+The maid startles at your presence.  'You are ruining my floors!  Wait till
+Master and Mistress come back.  You will get me in trouble!  Shoo!', she says.
+She hits you with her broom.
+~
+128 0 500 E
+5 16 5 5d5+50 1d6+3
+50 -100
+8 8 2
+E
+#622
+Nyles~
+Nyles the Bartender~
+Nyles the Bartender is here, ready to serve you up a good brew.
+~
+Nyles is a hefty guy, who looks like he's waiting for the next bar fight to
+join in.  He keeps an eye on you and his glasses, making sure you don't steal
+any.
+~
+2 8192 1000 E
+30 0 -15 30d30+3000 1d5+15
+1000 -100
+8 8 1
+E
+#623
+cityguard guard~
+the Ofcol cityguard~
+An Ofcol cityguard is posted here to guard the gate.
+~
+This guard is surely a trained and skilled fighter.  He is fully armed and
+armored, and he uses his equipment with a practiced precision.  Luckily for 
+you, this guard will only use his deadly skills for the good of the citizens of
+Ofcol.
+~
+4098 8192 1000 E
+19 6 -4 18d18+180 1d4+12
+1000 -100
+8 8 1
+E
+#624
+bard~
+a bard~
+A bard is here, singing of the glories of Ofcol.
+~
+After years of traveling around the world, this bard has decided to stay in the
+peaceful city of Ofcol, and to sing of its unmatched glories.  He smiles at
+you, hinting toward a tip from you in ever a subtle way.
+~
+2 8192 800 E
+13 7 -3 13d13+130 1d4+8
+1000 -100
+8 8 1
+E
+#625
+servant~
+a servant~
+A servant is here, carrying the duties of the Keeper of the Golden Citadel.
+~
+The servant smiles good-naturedly at you, then goes on his duties.
+~
+64 8192 1000 E
+6 14 4 6d6+60 1d4+4
+100 -100
+8 8 1
+E
+#626
+squire~
+a squire~
+A squire is here, scurrying from duty to duty.
+~
+This young man smiles at you, but is too busy to chat.
+~
+64 8192 1000 E
+7 13 3 7d7+70 1d4+5
+100 -100
+8 8 1
+E
+#627
+page~
+a page~
+A page is here, sending a message to his knight.
+~
+The page smiles for you, asking if he can do you a favor too.
+~
+64 8192 1000 E
+5 15 5 5d5+50 1d4+3
+100 -100
+8 8 1
+E
+#628
+priestess~
+the Priestess of Ofcol~
+The Priestess of Ofcol is here, blessing you with her beatific smile.
+~
+The Priestess of Ofcol is an old woman, perfectly at peace with herself and 
+with the world.  She devotes all her time to help teach you the ways of her
+god, Bahamut.  The dragon symbol around her neck looks almost alive.
+~
+2 8328 1000 E
+30 -10 -20 30d30+300 1d4+20
+1000 -100
+8 8 2
+Class: 2
+Int: 20
+E
+#629
+chaplain Jerrold~
+Chaplain Jerrold~
+Jerrold, the chaplain of this Citadel, is here directing the activities of the people around here.
+~
+He smiles at you, with the enthusiasm of a little kid.  "What're you doing just
+STANDING here, young man?  Go help that other squire there!", he yells.  He
+turns to you and with a consipatory tone, whispers, "Kids!"
+~
+64 8328 1000 E
+20 0 -10 20d20+200 1d4+15
+1000 -100
+8 8 1
+Str: 20
+Dex: 15
+Int: 17
+E
+#630
+dragonlord lord dragon~
+a Dragonlord~
+A knight wearing the scales of a dragon stands here.
+~
+This person looks almost like a dragon itself.  His golden scales gleam with
+power.  He smiles at you with a vicious grin.  You're happy that he doesn't
+look upset at your presence.
+~
+2 8328 1000 E
+29 -9 -19 29d29+290 1d4+20
+1000 -100
+8 8 1
+Str: 19
+Int: 21
+E
+#631
+dragon gold ancient~
+The Ancient Gold Dragon~
+An old dragon shimmering with the colors of this cavern peers at you sleepily.
+~
+This dragon's head is taller than you.  He is annoyed at your disturbance, but
+realizing that you're no danger to him, he ignores you.  He waves to one of
+his attendants to escort you away.
+~
+6 9352 1000 E
+37 -15 -25 37d37+370 1d4+30
+100000 -100
+8 8 1
+Str: 25
+Int: 25
+E
+#632
+attendant~
+an attendant of the dragon~
+A person robed in gold is attending to the Keeper of the Citadel.
+~
+This elder servant to the Gold Dragon is very loyal to him, willing to risk
+his life for his liege.
+~
+2 8200 1000 E
+21 -1 -11 21d21+210 1d4+15
+5000 -100
+8 8 1
+Int: 18
+E
+#633
+dragonknight knight dragon~
+a Dragonknight~
+A person dressed in the scales of a gold dragon stands here, guarding the Golden Citadel.
+~
+This person looks like a dragon itself.  His golden scales gleam with power.
+He smiles at you, showing very sharp teeth.
+~
+64 8200 1000 E
+21 -1 -11 21d21+210 1d4+15
+5000 -100
+8 8 1
+Str: 18
+Int: 18
+E
+#634
+cityguard guard~
+the Ofcol cityguard~
+An Ofcol cityguard is posted here to guard the gate.
+~
+This guard is surely a trained and skilled fighter.  He is fully armed and
+armored, and he uses his equipment with a practiced precision.  Luckily for 
+you, this guard will only use his deadly skills for the good of the citizens of
+Ofcol.
+~
+4098 8192 1000 E
+19 6 -4 18d18+180 1d4+12
+1000 -100
+8 8 1
+E
+$
+
+
+
+Mob special remarks

@@ -1,0 +1,212 @@
+CircleMUD v3.0 Shop File~
+#10701~
+10700
+-1
+1.00
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10700
+0
+10701
+-1
+0
+23
+0
+0
+#10702~
+10709
+10710
+10711
+10712
+10713
+-1
+1.00
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10707
+0
+10707
+-1
+0
+23
+0
+0
+#10703~
+10716
+10717
+10718
+10719
+10720
+-1
+1.00
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10712
+0
+10719
+-1
+0
+23
+0
+0
+#10704~
+10723
+10724
+10725
+10727
+10728
+-1
+10.00
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10717
+0
+10725
+-1
+0
+23
+0
+0
+#10705~
+10742
+10741
+10740
+10739
+-1
+10.00
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10720
+0
+10735
+-1
+0
+23
+0
+0
+#10706~
+10747
+10746
+10745
+10744
+10743
+-1
+1.10
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10721
+0
+10724
+-1
+0
+23
+0
+0
+#10707~
+10756
+10755
+10754
+10753
+10752
+10751
+10750
+10746
+-1
+1.10
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10723
+0
+10736
+-1
+0
+23
+0
+0
+#10708~
+10758
+-1
+10.00
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10726
+0
+10710
+-1
+0
+23
+0
+0
+$~

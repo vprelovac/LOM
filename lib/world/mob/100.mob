@@ -1,0 +1,198 @@
+#10001
+Goldmoon girl~
+Goldmoon~
+Goldmoon is singing a beautiful song here.
+~
+The girl's eyes are a bright sky blue; her skin is a buttery tan. Most striking
+of all is the flowing white gold of her hair. Plush white furs trim her woven
+cape. A single feather folds back along the right side of her head.
+~
+2 128 900 E
+45 -4 -13 10d10+1571 3d3+39
+0 -100
+8 8 2
+E
+#10002
+Fewmaster Toede~
+Fewmaster Toede~
+The Fewmaster Toede is here.
+~
+Toede's wispy, white hair tops a very ugly face. His speckled gray skin,
+double chins, and pot belly all resemble those of a vicious little toad.
+~
+96 128 -900 E
+20 -1 -2 1d1+1200 1d10+20
+0 -100
+8 8 1
+Class: 4
+Dex: 18
+E
+#10003
+riverwind man~
+Riverwind~
+Riverwind the Ranger is standing here..
+~
+A black haired ranger who's muscles surge with power.
+He looks travel weary and tired.
+~
+64 128 900 E
+30 5 -7 1d1+801 1d1+29
+0 -100
+8 8 1
+E
+#10004
+Baaz Draconian robed~
+Baaz Draconian~
+A robed figure is standing here.
+~
+Its hard to tell anything about the figure. It is concealed by its heavy robe
+and hood.
+~
+66 1024 -750 E
+7 14 4 1d1+86 1d1+6
+0 -100
+8 8 1
+E
+#10005
+Farmer~
+The Farmer~
+The Farmer is standing here looking after his workers...
+~
+He looks like a farmer.....go figure...
+~
+0 0 150 E
+10 14 3 1d1+141 1d1+9
+0 -100
+8 8 1
+E
+#10006
+Farm worker~
+Farm worker~
+A farm worker is here harvesting grain.
+~
+The worker is very busy...leave him alone.
+~
+64 0 125 E
+5 17 6 1d1+55 1d1+4
+0 -100
+8 8 1
+E
+#10007
+barracuda~
+Barracuda~
+There is a barracuda swimming around you...it looks hungry..
+~
+This is a very hungry looking fish with BIG teeth...
+~
+34 0 20 E
+7 14 4 3d3+200 5d5+10
+0 -100
+8 8 0
+E
+#10008
+Turtle Dragon~
+Turtle dragon~
+There is a very large Turtle dragon here.
+~
+This is a very big dragon. It looks more turtle than dragon though.
+Its blue-green scales glisten with moisture. Steam jets from its nostrils.
+It looks intently at you as if you look you over before eating you.
+~
+98 8 -700 E
+27 4 -5 4d4+662 4d8+20
+0 -100
+8 8 0
+E
+#10009
+farmers guard dog~
+Farmers guarddog~
+The Farmer's guarddog is here guarding whatever he's suppose to guard.
+~
+This is a very mean looking dog. And since it doesn't know you ...I think he's
+thinking of biting You!!....
+~
+34 8 100 E
+7 16 5 1d1+86 1d1+6
+0 -100
+8 8 0
+E
+#10010
+strange fish~
+strange fish~
+A fish is swimming merrily by...
+~
+Some unknown type of fish....probably originally from near Guam.
+Probably walks too....
+~
+64 0 200 E
+5 16 7 2d2+53 2d2+4
+0 -100
+8 8 0
+E
+#10011
+hobgoblin flunky~
+hobgoblin flunky~
+A small hobgoblin seems to be searching for something.
+~
+The hobgoblin screams at you, "Give me the blue crystal staff!!!!"
+~
+68 0 -300 E
+6 15 5 6d6+49 2d4+1
+100 -100
+8 8 1
+E
+#10012
+White Stag~
+the White Stag~
+A beautiful white stag is here.
+~
+This is the White Stag. You can't believe you actually see it....its 
+suppose to be just a legend...
+~
+68 524288 -300 E
+17 10 0 6d6+296 2d4+12
+100 -100
+8 8 1
+E
+#10013
+Old pooh bear~
+Old pooh bear~
+An old worn out winnie the pooh bear is here.
+~
+This is an old pooh bear. It looks as if it has been loved a little too much.
+~
+68 0 300 E
+5 16 7 2d5+50 1d5+2
+250 -100
+8 8 1
+E
+#10014
+rat large~
+a large rat~
+A large rat is here eating grain.
+~
+You have the urge to kill this vile creature.
+I'm sure the farmers would appreciate it too.
+~
+4 0 -200 E
+5 16 6 3d4+48 1d8+1
+10 -100
+8 8 1
+E
+#10015
+mouse field~
+a field mouse~
+A small mouse runs across your foot.
+~
+The Mouse is a cute little creature.
+~
+6 0 100 E
+4 16 7 2d4+37 1d4+2
+1 -100
+8 8 1
+E
+$
+
+
+
+Mob special remarks

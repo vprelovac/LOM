@@ -1,0 +1,1223 @@
+#10700
+Entrance To Murky Land~
+  You are standing at the entrance to Murky Land!  Brought to you by the 
+wonderful folks at Ofcol Private Development Corp, or ODP, this funland is for
+kids of all ages!  The main entrance is to the north, while a path leads back
+west.  There is a sign here.
+~
+107 4 1
+D0
+~
+~
+0 -1 10701
+D3
+~
+~
+0 -1 19452
+E
+sign~
+The Ofcol Private Development Corp, or ODP, welcomes you to Murky Land!  This 
+theme park features creatures based on the very gods of early Merc and Envy!  
+We at ODP wish you'll enjoy your stay at Murky Land!
+~
+S
+#10701
+At The Cashier's Booth~
+  You stand at the cashier's booth.  There is a gate to the north and a path 
+back to the city of Ofcol to the south.
+~
+107 8 0
+D0
+~
+gate~
+1 10700 10702
+D2
+~
+~
+0 -1 10700
+S
+#10702
+Inside The Entrance To Murky Land~
+  You are inside the entrance to Murky Land.  Gaudy wallpaper covers all the 
+walls, and hay covers the floors.  A path leads north to the main grounds, and 
+a path south leads back to the entrance.
+~
+107 8 0
+D0
+~
+~
+0 -1 10703
+D1
+You find a hidden door!  The keyhole is quite circular, which is peculiar.
+~
+door hidden~
+1 10710 10722
+D2
+~
+gate~
+1 10700 10701
+S
+#10703
+A Room In Murky Land~
+  You are standing in a room in Murky Land.  The same gaudy wallpaper and hay 
+make up the decorations of this place.  You get the feeling that the rest of 
+this place was designed with such a lack of taste.  The north leads you to the 
+murky creatures, the west leads you to the cafeteria, the east leads you to 
+the restrooms, and the south leads you out of this place.
+~
+107 8 0
+D0
+~
+~
+0 -1 10709
+D1
+~
+~
+0 -1 10704
+D2
+~
+~
+0 -1 10702
+D3
+~
+~
+0 -1 10707
+S
+#10704
+Restroom Hallway~
+  You are standing to the restroom hallway.  The little boys room is to the 
+north and the little girls room is to the south.  A doorway west leads you 
+back.
+~
+107 8 0
+D0
+~
+door~
+1 -1 10705
+D2
+~
+door~
+1 -1 10706
+D3
+~
+~
+0 -1 10703
+S
+#10705
+Little Boys Room~
+  You are in the little boys room.  And, yes, you guessed it, it's very messy, 
+with yellow streams along the floors and garbage cans filled with paper.
+~
+107 8 0
+D2
+~
+door~
+1 -1 10704
+S
+#10706
+Little Girls Room~
+  You are in the little girls room.  Luckily, it's empty.  An exit leads back 
+north.
+~
+107 8 0
+D0
+~
+door~
+1 -1 10704
+S
+#10707
+Cafeteria~
+  You are in the cafeteria.  Long tables and benches line this room.  The
+floors are littered with scraps of food and other undesirables.  The floors
+fare little better.  A door is to the north and an obvious exit leads back 
+east.
+~
+107 8 0
+D0
+~
+door~
+0 -1 10708
+D1
+~
+~
+0 -1 10703
+S
+#10708
+Kitchen~
+  You are in the kitchen.  Boy, is this place messy!  You are happy you hadn't
+ordered any food while you were in the cafeteria.  Or, did you?  The door 
+leads back south.
+~
+107 0 1
+D2
+~
+door~
+0 -1 10707
+S
+#10709
+Along A Brick Path In Murky Land~
+  You are on a brick-layered path in Murky Land.  Poor attempts at decoration
+makes you regret having paid the dough to get into this place.  The path 
+continues north, with branches to the east and west.  The path south leads 
+you out of here.
+~
+107 8 2
+D0
+~
+~
+0 -1 10718
+D1
+~
+~
+0 -1 10714
+D2
+~
+~
+0 -1 10703
+D3
+~
+~
+0 -1 10710
+S
+#10710
+Along A Path In Murky Land~
+  You are along a path in Murky Land.  To the north, you can see a small 
+playpen.  To the south, you can see a dark hovel.  To the west, you see a 
+shiny room.  The path leads back east.
+~
+107 8 2
+D0
+~
+~
+0 -1 10711
+D1
+~
+~
+0 -1 10709
+D2
+~
+~
+0 -1 10712
+D3
+~
+~
+0 -1 10713
+S
+#10711
+Hatchling's And Iccy's Playpen~
+  You are standing in Hatchling's and Iccy's Playpen.  There are piles and 
+piles toys here.  The sound of a music box can be heard from the walls.  The
+exit is to the south.
+~
+107 8 0
+D2
+~
+~
+0 -1 10710
+S
+#10712
+Fraggie's Dark Hovel~
+  You are standing in Fraggie's Dark Hovel.  You realize with revulsion that
+this is nothing more than a spider web.  The exit, you are happy to find, is 
+to the north.
+~
+107 8 0
+D0
+~
+~
+0 -1 10710
+S
+#10713
+KahnO's Hall Of Mirrors~
+  You are standing in KahnO's Hall of Mirrors.  Mirrors on every wall, floor,
+and ceiling reflect light, not to mention, bodies, all over the place.
+~
+107 8 0
+D1
+~
+~
+0 -1 10710
+S
+#10714
+Along A Path In Murky Land~
+  You are along a path in Murky Land.  To the north, you see a dark, red room.
+To the south is a small kitchenette.  A path leads east to a starry room, and
+path leads back east to the main grounds.
+~
+107 8 2
+D0
+~
+~
+0 -1 10715
+D1
+~
+~
+0 -1 10717
+D2
+~
+~
+0 -1 10716
+D3
+~
+~
+0 -1 10709
+S
+#10715
+A Small Hell~
+  You are in a Small Hell.  Smoke sizzles from red rocks, and coals char your
+feet as you walk by.  The exit is to the south.
+~
+107 8 0
+D2
+~
+~
+0 -1 10714
+S
+#10716
+Blinky's Kitchenette~
+  You are in Blinky's Kitchenette.  Miniature pots and pans boil over a
+miniature oven.  A small table is littered with small pieces of vegetables,
+spices, and mixing bowls.  The exit is to the north.
+~
+107 8 0
+D0
+~
+~
+0 -1 10714
+S
+#10717
+Atom's Little Galaxy~
+  You hover magically in Atom's little galaxy.  Miniature stars whiz by you
+and comets tickle you as they burrow into your shorts.  The exit is to the
+west.
+~
+107 8 0
+D3
+~
+~
+0 -1 10714
+S
+#10718
+Along A Path In Murky Land~
+  You are along a path in Murky Land.  You see a small temple to the north, a
+dump to the west, and an ash heap to the east.  The path leads back south.
+~
+107 8 0
+D0
+~
+~
+0 -1 10719
+D1
+~
+~
+0 -1 10721
+D2
+~
+~
+0 -1 10709
+D3
+~
+~
+0 -1 10720
+S
+#10719
+A Monk's Temple/Crackhouse~
+  You are in a temple of some sorts.  Urns filled with smelly substances line 
+walls, and you smell the unmistakeable smoke of burning hemp.  The only exit
+leads south.
+~
+107 8 0
+D2
+~
+~
+0 -1 10718
+S
+#10720
+A Junkyard~
+  You are in a junkyard, with sharp blades littering the floor.  The only exit 
+leads east.
+~
+107 8 0
+D1
+~
+~
+0 -1 10718
+S
+#10721
+An Ash Heap~
+  You are in an ash heap.  Fires are burning all over this room.  You quickly
+dodge back to the exit to the west.
+~
+107 8 0
+D3
+~
+~
+0 -1 10718
+S
+#10722
+Behind The Hidden Door~
+  Hah!  You knew this place was too good to be true.  A dump like this Murky
+Land must have some skeletons hiding in some closets.  You ponder if you
+should go look for any, though, and consider turning back.
+The door leads back west, and a dark stairway leads down.
+~
+107 9 0
+D3
+~
+door hidden~
+1 10710 10702
+D5
+~
+~
+0 -1 10723
+S
+#10723
+Beneath Murky Land~
+  You are beneath Murky Land.  The walls here are all made of hardwood, with
+lighted torches spaced every ten feet.  To the north, you can hear the
+hustle and bustle of people!  A ladder leads back up.
+~
+107 8 0
+D0
+~
+~
+0 -1 10724
+D4
+~
+~
+0 -1 10722
+S
+#10724
+Inside A Tavern~
+  You are inside a tavern.  By the look of things and of the patrons, you 
+suspect that most of them aren't on the good side of the law.  Signs 
+point south to the exit, west to rented rooms, north to the bar, and east to
+the private employee rooms.  There is a large table with chairs in the center
+of this room.
+~
+107 8 0
+D0
+~
+~
+0 -1 10736
+D1
+~
+door~
+1 10758 10737
+D2
+~
+~
+0 -1 10723
+D3
+~
+~
+0 -1 10725
+S
+#10725
+The Shady Rooms Counter~
+  You are at the counter for renting rooms.  A hallway leads west, and the main
+room of the tavern is to the east.
+~
+107 8 0
+D1
+~
+~
+0 -1 10724
+D3
+~
+~
+0 -1 10726
+S
+#10726
+A Hallway~
+  You are in a hallway.  Room A is to the north, Room B is to the south, and 
+the hallways continues east and west.
+~
+107 8 0
+D0
+~
+door~
+1 10723 10727
+D1
+~
+~
+0 -1 10725
+D2
+~
+door~
+1 10724 10728
+D3
+~
+~
+0 -1 10729
+S
+#10727
+Room A~
+  You are in a room.  You are NOT impressed with the feeble furnishings of a
+smelly bed and chair.  The exit is to the south.
+~
+107 8 0
+D2
+~
+door~
+1 10723 10726
+S
+#10728
+Room B~
+  You are in a room, sparsely furnished, like the rest, with a smelly bed and 
+a chair.  The exit is north.
+~
+107 8 0
+D0
+~
+door~
+1 10724 10726
+S
+#10729
+A Hallway~
+  You are in a hallway.  To the north is room C, and to the south is room D.
+The hallway continues east and west.
+~
+107 8 0
+D0
+~
+door~
+1 10725 10730
+D1
+~
+~
+0 -1 10726
+D2
+~
+door~
+1 10726 10731
+D3
+~
+~
+0 -1 10732
+S
+#10730
+Room C~
+  You are in a room, sparsely furnished with a smelly bed and a chair.  The
+exit is to the south.
+~
+107 8 0
+D2
+~
+door~
+1 10725 10729
+S
+#10731
+Room D~
+  You are in a room.  The bed is set on it's side, and a chair lies shattered 
+against a wall.  The exit is to the north.
+~
+107 8 0
+D0
+~
+door~
+1 10726 10729
+S
+#10732
+At The End Of The Hallway~
+  You are in a hallway.  North of you is room E, south is room F, and west
+is room G.  The hallway leads back west.
+~
+107 8 0
+D0
+~
+door~
+1 10727 10733
+D1
+~
+~
+0 -1 10729
+D2
+~
+door~
+1 10728 10734
+D3
+~
+door~
+1 10729 10735
+S
+#10733
+Room E~
+  You are in a room.  There is a smelly bed and a chair in this room, nothing
+more.  The exit is to the south.
+~
+107 8 0
+D2
+~
+door~
+1 10727 10732
+S
+#10734
+Room F~
+  You are in a messy room, furnished with a smelly bed and a chair.  The exit
+is to the north.
+~
+107 8 0
+D0
+~
+door~
+1 10728 10732
+S
+#10735
+Room G~
+  You are in a small room, furnished with a desk, a small bed, and a chair.
+The exit is to the east.
+~
+107 8 0
+D1
+~
+door~
+1 10729 10732
+S
+#10736
+The Bar~
+  You are at the bar.  Spilled beer and other liquids cover the chairs and 
+the floor.  At least the counter looks clean, but that's only because the
+lady bartender has so little to do.  The main room of the tavern is back
+south.
+~
+107 8 0
+D2
+~
+~
+0 -1 10724
+S
+#10737
+Hallway~
+  You are on the employees only side of the tavern.  A hallway leads east, with
+rooms along the way.  There is a room north and south of here.  A door leads
+back west to the main room of the tavern.
+~
+107 8 0
+D0
+~
+door~
+1 10758 10738
+D1
+~
+~
+0 -1 10740
+D2
+~
+door~
+1 10758 10739
+D3
+~
+door~
+0 10758 10724
+S
+#10738
+An Office~
+  You are in an office.  The exit is to the south.
+~
+107 8 0
+D2
+~
+door~
+1 10758 10737
+E
+wood grain pattern~
+Upon further inspection, you realize the peculiarity is that there is a
+hidden panel along the side of the desk!
+~
+E
+desk~
+The desk is quite old.  The wood grain pattern looks a bit peculiar, for
+some reason.
+~
+S
+#10739
+A Holding Room~
+  You are in a holding room.  There isn't much here except some sacks, cords,
+and blindfolds.  You can smell the stink of fear.  The exit is to the north.
+~
+107 8 0
+D0
+~
+door~
+1 10758 10737
+S
+#10740
+A Hallway~
+  You are in a hallway, which leads east and west.  Rooms are to the north and
+south.
+~
+107 8 0
+D0
+~
+door~
+1 10758 10741
+D1
+~
+~
+0 -1 10743
+D2
+~
+door~
+1 10758 10742
+D3
+~
+~
+0 -1 10737
+S
+#10741
+An Office~
+  You are in an office.  The exit is to the south.
+~
+107 8 0
+D2
+~
+door~
+1 10758 10740
+S
+#10742
+An Office~
+  You are standing in an office.  The exit is to the north.
+~
+107 8 0
+D0
+~
+door~
+1 10758 10740
+S
+#10743
+The End Of The Hallway~
+  You are at the end of the hallway, which leads back west.  Doorways are to
+the north and south.
+~
+107 8 0
+D0
+~
+door~
+1 10758 10745
+D2
+~
+door~
+1 10758 10744
+D3
+~
+~
+0 0 10740
+S
+#10744
+A Holding Room~
+  You are in a holding room.  The stench of fear and of body fluids assaults
+your nose.  The exit is to the north.
+~
+107 8 0
+D0
+~
+door~
+1 10758 10743
+S
+#10745
+An Empty Hallway~
+  You are standing in an empty hallway, which leads north.  There is a door
+to the south.
+~
+107 8 0
+D0
+~
+~
+0 -1 10746
+D2
+~
+door~
+1 10758 10743
+S
+#10746
+Hallway~
+  You are in a hallway, which goes north and south.  Strangely, when you 
+step in this hallway, you hear a soft click and feel a slight twist.
+~
+107 8 0
+D0
+~
+~
+0 -1 10747
+D2
+~
+~
+0 -1 10748
+S
+#10747
+At The End Of A Hallway~
+  You are at the end of a hallway, which leads back south.
+~
+107 8 0
+D2
+~
+door~
+0 10758 10746
+S
+#10748
+An Empty Hallway~
+  You are standing in an empty hallway, which leads north.  There is a door
+to the south.
+~
+107 8 0
+D0
+~
+~
+0 -1 10749
+D2
+~
+door~
+1 10758 10743
+S
+#10749
+Hallway~
+  You are in a hallway, which goes north and south.  Strangely, when you 
+step in this hallway, you hear a soft click and feel a slight twist.
+~
+107 8 0
+D0
+~
+~
+0 -1 10750
+D2
+~
+~
+0 -1 10745
+S
+#10750
+At The End Of A Hallway~
+  You are at the end of a hallway, which leads back south.
+~
+107 8 0
+D0
+~
+door secret~
+0 10766 10751
+D2
+~
+~
+0 -1 10749
+S
+#10751
+A Dark Room~
+  You are in a Dark Room.  Very evidently, this is not part of the tavern.
+Stone steps lead down and a door leads back south.
+~
+107 8 0
+D2
+~
+door secret~
+0 10766 10750
+D5
+~
+~
+0 -1 10752
+S
+#10752
+Lower Chambers~
+  You are at the lower chambers, below the tavern.  Stonework covers the walls,
+and dim torches light your way.  Exits lead in the cardinal directions and 
+back up.
+~
+107 8 0
+D0
+~
+~
+0 -1 10768
+D1
+~
+~
+0 -1 10756
+D2
+~
+~
+0 -1 10753
+D3
+~
+~
+0 -1 10761
+D4
+~
+~
+0 -1 10751
+S
+#10753
+A Dark Hallway~
+  You are standing in a dark hallway that leads north and south.  A dim light
+is to the north, while total darkness is to the south.
+~
+107 8 0
+D0
+~
+~
+0 -1 10752
+D2
+~
+~
+0 -1 10754
+S
+#10754
+A Dark Hallway~
+  You are standing in a dark hallway.  A very dim light is to the north, and
+total darkness is to the south.  You can make out the outline of a vast 
+doorway to the south.
+~
+107 9 0
+D0
+~
+~
+0 -1 10753
+D2
+~
+~
+0 -1 10755
+S
+#10755
+Shadow Dragon's Lair~
+  You are in a big spacious room.  Darkest obsidian line the walls, and the 
+floors are black soot, pocked with many holes.  The only exit is south.
+~
+107 9 0
+D0
+~
+~
+0 -1 10754
+S
+#10756
+A Dark Hallway~
+  You are standing in a dark hallway, which leads east and west.  You can see
+a dim light to the west, and total darkness to the east.  There are doors to
+the north and south.
+~
+107 8 0
+D0
+~
+door~
+1 -1 10759
+D1
+~
+~
+0 -1 10757
+D2
+~
+door~
+1 -1 10760
+D3
+~
+~
+0 -1 10752
+S
+#10757
+A Dark Hallway~
+  You are standing in a dark hallway.  You can see a very dim light to the west
+and total darkness to the east.
+~
+107 9 0
+D1
+~
+~
+0 -1 10758
+D3
+~
+~
+0 -1 10756
+S
+#10758
+The Altar Of The Shadow Demon~
+  You are standing at an altar.  A throne is at the end of the room, and a
+large vat of acid rises out of the center of the room.  The only exit is to
+the west.
+~
+107 9 0
+D0
+~
+~
+0 -1 10766
+D1
+~
+~
+0 -1 10766
+D2
+~
+~
+0 -1 10766
+D3
+~
+~
+0 -1 10757
+D4
+~
+~
+0 -1 10766
+D5
+~
+~
+0 -1 10766
+S
+#10759
+A Library~
+  You are in a library of sorts.  Scrolls, mostly damaged, litter shelves and
+tables.  There is an exit south.
+~
+107 9 0
+D2
+~
+door~
+1 -1 10756
+S
+#10760
+A Laboratory~
+  You are in a dark laboratory.  Bubbling potions sit on lightless burners and 
+steam rises from a pot in the center of the room.  There is an exit north.
+~
+107 9 0
+D0
+~
+door~
+1 -1 10756
+S
+#10761
+A Dark Hallway~
+  You are standing in a dark hallway.  A dim light is to the east and total
+darkness is to the west.  Doors lead north and south.
+~
+107 8 0
+D0
+~
+door~
+1 -1 10764
+D1
+~
+~
+0 -1 10752
+D2
+~
+door~
+1 -1 10765
+D3
+~
+~
+0 -1 10762
+S
+#10762
+A Dark Hallway~
+  You are standing in a dark hallway.  A very dim light can be seen to the
+east and total darkness is to the west.
+~
+107 9 0
+D1
+~
+~
+0 -1 10761
+D3
+~
+~
+0 -1 10763
+S
+#10763
+The Altar Of The Shadow Demon~
+  You are standing in an altar.  There is a throne at the far end of this room
+and a spiked table in the center of this altar.  The exit is to the east.
+~
+107 9 0
+D0
+~
+~
+0 -1 10767
+D1
+~
+~
+0 -1 10762
+D2
+~
+~
+0 -1 10767
+D3
+~
+~
+0 -1 10767
+D4
+~
+~
+0 -1 10767
+D5
+~
+~
+0 -1 10767
+S
+#10764
+A Scribing Room~
+  You are in a room filled with papers.  A large table is against the far
+wall, with a large chair before it.  There is a door south.
+~
+107 9 0
+D2
+~
+door~
+1 -1 10761
+S
+#10765
+A Weapon Room~
+  You are in a room filled with scattered weapons.  There is an exit north.
+~
+107 9 0
+D0
+~
+door~
+1 -1 10761
+S
+#10766
+A Nether Room~
+  You are floating in the Nether.  You are completely disoriented.
+~
+107 9 0
+D0
+~
+~
+0 -1 10767
+D1
+~
+~
+0 -1 10771
+D2
+~
+~
+0 -1 10767
+D3
+~
+~
+0 -1 10758
+D4
+~
+~
+0 -1 10758
+D5
+~
+~
+0 -1 10771
+S
+#10767
+A Nether Room~
+  You are floating in the Nether.  You are completely disoriented.
+~
+107 9 0
+D0
+~
+~
+0 -1 10766
+D1
+~
+~
+0 -1 10763
+D2
+~
+~
+0 -1 10766
+D3
+~
+~
+0 -1 10771
+D4
+~
+~
+0 -1 10771
+D5
+~
+~
+0 -1 10763
+S
+#10768
+A Dark Hallway~
+  You are standing in a dark hallway.  A dim light can be seen to the south, 
+and total darkness is to the north.
+~
+107 8 0
+D0
+~
+~
+0 -1 10769
+D2
+~
+~
+0 -1 10752
+S
+#10769
+A Dark Hallway~
+  You are standing in a dark hallway.  You can see a very dim light to the 
+south and total darkness to the north.  You can, however, make out a very
+ornate doorway to the north.
+~
+107 9 0
+D0
+~
+~
+0 -1 10770
+D2
+~
+~
+0 -1 10768
+S
+#10770
+The Altar Of The Shadow Lord~
+  You are standing in a vast chamber.  An immense, dark throne towers over you
+and dark creatures move around the room.  The only obvious exit is to the
+south.
+~
+107 9 0
+D0
+~
+~
+0 -1 10771
+D1
+~
+~
+0 -1 10771
+D2
+~
+~
+0 -1 10769
+D3
+~
+~
+0 -1 10771
+D4
+~
+~
+0 -1 10771
+D5
+~
+~
+0 -1 10771
+S
+#10771
+A Nether Room~
+  You are floating in the Nether.  You are completely disoriented.
+~
+107 9 0
+D0
+~
+~
+0 -1 10770
+D1
+~
+~
+0 -1 10767
+D2
+~
+~
+0 -1 10770
+D3
+~
+~
+0 -1 10766
+D4
+~
+~
+0 -1 10766
+D5
+~
+~
+0 -1 10767
+S
+$~

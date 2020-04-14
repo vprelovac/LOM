@@ -1,0 +1,389 @@
+CircleMUD v3.0 Shop File~
+#10201~
+10255
+10256
+10257
+10258
+-1
+1.05
+0.15
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10208
+0
+10242
+-1
+0
+23
+0
+0
+#10202~
+10241
+10242
+10243
+10244
+-1
+1.10
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10209
+0
+10248
+-1
+6
+17
+0
+0
+#10203~
+10245
+10246
+10247
+10248
+-1
+1.10
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10210
+0
+10245
+-1
+6
+17
+0
+0
+#10204~
+-1
+1.10
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10211
+0
+10252
+-1
+0
+23
+0
+0
+#10205~
+10307
+10308
+10309
+-1
+1.10
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10214
+0
+10255
+-1
+0
+23
+0
+0
+#10206~
+10251
+10252
+10253
+10254
+-1
+1.10
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10219
+0
+10234
+-1
+4
+20
+0
+0
+#10207~
+10259
+10260
+10261
+10262
+-1
+1.10
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10220
+0
+10235
+-1
+4
+20
+0
+0
+#10208~
+10263
+10264
+10265
+-1
+1.25
+0.75
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10221
+0
+10236
+-1
+4
+20
+0
+0
+#10209~
+10266
+10267
+10268
+10269
+-1
+1.25
+0.75
+5
+9
+19
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10222
+0
+10237
+-1
+4
+20
+0
+0
+#102010~
+10270
+10270
+10270
+10270
+-1
+1.25
+0.75
+10
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10223
+0
+10238
+-1
+4
+20
+0
+0
+#102011~
+10271
+10272
+10273
+10274
+-1
+1.25
+0.75
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10224
+0
+10239
+-1
+4
+20
+0
+0
+#102012~
+10275
+10276
+10277
+10278
+-1
+1.25
+0.75
+22
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10225
+0
+10240
+-1
+4
+20
+0
+0
+#102013~
+10279
+10280
+10281
+-1
+1.25
+0.75
+15
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10226
+0
+10241
+-1
+4
+20
+0
+0
+#102014~
+10307
+10308
+10309
+-1
+1.05
+0.15
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10227
+0
+10281
+-1
+0
+23
+0
+0
+#102015~
+10307
+10308
+10309
+-1
+1.05
+0.15
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+10227
+0
+10281
+-1
+0
+23
+0
+0
+$~

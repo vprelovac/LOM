@@ -1,0 +1,46 @@
+#191
+Smurf Village~
+19199 35 1
+O 0 19108 1 19109 
+M 0 19102 3 19118 Berry picking Smurfs
+G 1 19100 10 give each smurfberries
+M 0 19102 3 19117 
+G 1 19100 10 
+M 0 19102 3 19116 
+G 1 19100 10 
+M 0 19101 3 19105 Regular smurfs
+M 0 19101 3 19110 
+G 1 19102 10 
+M 0 19101 3 19111 
+M 0 19101 3 19112 
+G 1 19102 10 give hats to some
+M 0 19101 3 19107 
+M 0 19101 3 19108 
+G 1 19102 10 
+M 0 19101 3 19109 
+M 0 19101 3 19104 
+G 1 19102 10 
+M 0 19103 1 19119 			Brainy Smurf
+E 1 19101 8 6 
+M 0 19104 1 19120 			Handy Smurf
+E 1 19103 8 16 
+M 0 19105 1 19122 			Sleepy Smurf
+M 0 19106 1 19121 			Hefty Smurf
+E 1 19103 8 16 
+M 0 19107 1 19123 			Grumpy Smurf
+M 0 19108 1 19124 			Jokey Smurf
+M 0 19109 1 19129 			Smurfette
+E 1 19104 8 3 
+G 1 19107 8 
+M 0 19110 1 19113 			Papa Smurf
+G 1 19105 10 
+G 1 19109 8 
+M 0 19111 1 19128 			Gargamel
+E 1 19106 8 17 
+M 0 19112 1 19128 			Azreal
+D 0 19125 0 2 Papa Smurf's door locked
+D 0 19113 2 2 other side
+D 0 19127 0 2 Castle door locked
+D 0 19128 2 2 other side
+S
+$~

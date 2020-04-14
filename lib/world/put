@@ -1,0 +1,8 @@
+mv $1.wld wld/
+mv $1.zon zon/
+mv $1.mob mob/
+mv $1.obj obj/
+mv $1.shp shp/
+
+
+

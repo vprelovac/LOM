@@ -1,0 +1,65 @@
+#19800
+axe toy~
+a toy axe~
+An axe made of plastic lies here.~
+~
+5 0 an
+0 1 6 3
+15 600 0
+#19801
+ring pink ice~
+a pink ice ring~
+A pink ice ring draws your eye.~
+~
+9 0 ab
+1 0 0 0
+8 7000 0
+A
+1 1
+A
+13 6
+#19821
+robe linen~
+a linen robe~
+A linen robe is crumpled into a ball here.~
+~
+9 0 ak
+1 0 0 0
+5 4000 0
+A
+4 1
+A
+12 5
+#19844
+meat steak~
+a juicy steak~
+A juicy steak sits on a plate here.~
+~
+19 0 a
+15 0 0 0
+5 15 0
+#19845
+steak rotten~
+a rotten steak~
+A dry steak lies on the floor.~
+~
+19 0 a
+4 0 0 1
+5 14 0
+#19846
+potion amber~
+an amber potion~
+An amber potion sits in a corner.~
+~
+10 0 a
+30 16 1 0
+1 1500 0
+#19847
+gun toy~
+a toy gun~
+A toy gun with a sharp bayonet lies here.~
+~
+5 0 an
+0 2 3 7
+5 1700 0
+$~

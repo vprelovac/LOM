@@ -1,0 +1,502 @@
+#19301
+zeus god~
+Zeus~
+Zeus sits here on a throne.
+~
+You see before you the greatest of the Olympians.  It seems as if he could
+destroy you with a thought.  Every glance penetrates deep into your soul.
+You now know what true fear is.
+~
+14 4202666 1000 E
+54 -13 -18 35d35+5000 20d3+25
+100000 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 14
+Cha: 12
+E
+#19302
+prometheus~
+Prometheus~
+Prometheus is here, playing with a match.
+~
+This mortal risked the wrath of Zeus to give the gift of fire to humans.  He
+looks up at you and smiles.
+~
+15 4202666 1000 E
+41 -7 -11 31d31+883 15d2+19
+40000 0
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19303
+hermes~
+Hermes~
+Hermes is busy, delivering a message.
+~
+This is the messenger of the Gods.  He wears a winged helm and boots, and
+darts from place to place.  He looks very busy, and it seems as if he doesn't
+even notice your presence.
+~
+12 4464810 1000 E
+43 -7 -14 33d33+939 20d2+13
+50000 0
+8 8 1
+Str: 14
+Dex: 25
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19304
+poseidon~
+Poseidon~
+Poseidon is dining here.
+~
+He is the brother of Zeus himself, chosen to rule the seas.  He must be
+visiting Mount Olympus.  He nods at you and motions for you to enter and
+have a seat.
+~
+14 4202666 1000 E
+48 -11 -16 35d35+1194 20d3+28
+100000 0
+8 8 1
+Str: 25
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19305
+apollo~
+Apollo~
+Apollo is here, playing a tune.
+~
+This jovial God is strumming on a lyre.  He smiles at you and asks you to
+join him.  You notice a dangerous looking bow by his side, however, and think
+that he knows more than music.
+~
+14 4202666 1000 E
+44 -5 -8 34d34+540 15d3+25
+40000 0
+8 8 1
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19306
+ares~
+Ares~
+Ares is here, kicking your ass.
+~
+The God of War is here, studying some maps.  He scowls at you as you enter
+and says 'I am very busy.  What do you want?'
+~
+46 4194474 -1000 E
+45 -5 -10 35d35+1500 10d2+25
+50000 0
+8 8 1
+Str: 25
+Dex: 18
+Int: 16
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19307
+athena~
+Athena~
+Athena is relaxing here.
+~
+Zeus' favorite daughter is sitting on a couch eating grapes.  She smiles at
+you and invites you to join her.
+~
+14 4202666 1000 E
+43 -8 -14 33d33+939 15d2+21
+60000 0
+8 8 2
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19308
+hephaestus smith~
+Hephaestus~
+Hephaestus the Smith is here, crafting a fine weapon.
+~
+This God is the only one who is not physically perfect.  He is lame and very
+ugly.  You get the impression that he is kind, however, and would go out of his
+way to help you.  He is attended by three golden maidens.
+~
+15 4202666 1000 E
+38 -5 -7 33d33+330 12d2+26
+60000 0
+8 8 1
+Str: 25
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19309
+handmaid golden~
+a Golden Maiden~
+A Handmaid of gold is here, assisting the smith.
+~
+As you gaze upon this creation, you realize that she is made from solid
+gold.  She seems to be very lifelike as she assists the smith in his work.
+~
+15 4202666 0 E
+25 2 -4 2d8+582 2d8+16
+1000 0
+8 8 2
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19310
+soldier~
+a Soldier~
+A soldier is here, assisting Ares.
+~
+This man is waiting on Ares.  Although he does not look very strong, you
+realize that Ares would not have any weaklings working for him.
+~
+46 4194474 0 E
+27 1 -6 2d8+663 3d6+17
+5000 0
+8 8 1
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19311
+musician apprentice~
+an apprentice musician~
+A musician is here, learning from Apollo.
+~
+This man has mastered his first profession, and is now studying music from the
+immortal Apollo.
+~
+14 4194474 1000 E
+8 9 4 2d8+95 2d5+2
+2500 0
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19312
+boy serving servant~
+a serving boy~
+A servant is here, feeding Athena her grapes.
+~
+This boy is truly lucky to be able to serve Athena herself.
+~
+14 4194474 1000 E
+6 10 7 2d8+200 2d3+2
+500 0
+8 8 1
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19313
+hound dog war~
+a hound of war~
+A large hound snarls at you.
+~
+This great beast can barely be called a dog.  It has been bred to cause fear
+on the battle field, and you have no doubt that it does its job well.
+~
+46 4194474 -600 E
+23 3 -2 1d8+450 2d12+10
+0 0
+8 8 0
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19314
+Odin~
+Odin~
+Odin is resting here.
+~
+As you gaze at Odin, you realize how insignificant you truly are.  He towers
+over you, and is so intent on his activities that he barely recognizes your
+presence.
+~
+15 4202666 1000 E
+49 -10 -15 35d35+1263 10d2+34
+100000 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19315
+grocer greengrocer julius~
+Julius the Green Grocer~
+Julius the Green Grocer stands here.
+~
+This jovial man has devoted his life to selling fruit and other foods to the
+inhabitants of this city.  Although he may seem like a wimp, it would be wise
+not to underestimate him.  He smiles warmly at you and shows you his selection
+of delicious looking foods.
+~
+14 4202666 1000 E
+37 -5 -4 1d1+1999 3d10+10
+10000 0
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19316
+alchemist~
+the Alchemist~
+The ancient, wizened Alchemist stands here.
+~
+Skilled in all manner of magic, as well as the ancient art of alchemy, he
+stands ready to supply the citizens here (but not you) with all manner of
+arcane supplies.
+~
+14 4202666 1000 E
+39 -5 -8 1d1+1999 25d2+50
+10000 0
+8 8 1
+Str: 14
+Dex: 16
+Int: 25
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19317
+clive~
+Clive the Weapons Master~
+Clive the Weapons Master is practicing with his bow and axe.
+~
+Clive looks VERY big and VERY tough.  All those years in the army must have
+paid off.
+~
+14 4202538 1000 E
+40 -7 -11 30d30+2000 10d3+50
+40000 0
+8 8 1
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19318
+armourer samuel~
+Samuel the Armourer~
+Samuel the Armourer glares at you.
+~
+Samuel looks just like Clive the Weapons Master: VERY big and VERY tough.
+He doesn't like what you've been doing in his city.
+~
+46 4202666 1000 E
+30 0 -6 1d8+798 10d3+10
+10000 0
+8 8 1
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19319
+ra sun god~
+Ra the Sun God~
+Ra the Egyptian Sun God is resting here.
+~
+Ra is very bright!  It hurts your eyes to look at him, so you can tell little
+about his appearance.  What you can tell, however, suggests that he is no one
+to be trifled with.
+~
+15 4202666 1000 E
+46 -5 -10 1d8+2500 25d2+25
+100000 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19320
+chimera~
+a chimera~
+A chimera prowls the cell.
+~
+This bizarre creature has three heads - one of a goat, one of a lion, and one
+of a dragon.  It growls at you as you enter the cell, then suddenly attacks!
+~
+47 4194474 -1000 E
+20 -5 -3 20d20+200 5d5+15
+1000 0
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19321
+hera~
+Hera~
+Hera is here.
+~
+Hera, the wife of Zeus is here.  She smiles at you as you enter and invites you
+to rest and sit for a while.
+~
+14 4202666 1000 E
+50 -5 -10 1d8+1500 15d3+15
+100000 0
+8 8 2
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19322
+roc~
+a roc~
+A roc is here.
+~
+This is a giant bird.  It looks at you quizzically, then makes a noise and
+looks away.
+~
+13 4202666 0 E
+15 8 3 1d8+400 3d8+6
+5000 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19323
+citizen resident~
+a citizen~
+A citizen of this town is strolling down the street here.
+~
+He looks happy and carefree.  He smiles and tips his hat to you.
+~
+12 4202666 1000 E
+4 11 6 1d8+60 2d4+1
+69 0
+8 8 1
+Str: 14
+Dex: 15
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19324
+pegasus horse~
+a pegasus~
+A large horse with wings is here.
+~
+This horse is snow white with large wings.  Although it doesn't look very
+threatening, it seems as though it would be dangerous if provoked.
+~
+12 4202666 0 E
+8 7 4 1d8+110 2d5+3
+800 0
+8 8 0
+Str: 14
+Dex: 16
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19325
+cook~
+a Cook~
+A cook is here, hard at work.
+~
+This man looks as is he has been spending WAY too much time in the kitchen.
+~
+14 4202666 1000 E
+5 10 5 1d8+75 2d4+2
+12 0
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19326
+jailer~
+the Jailer~
+The jailer is here, watching for intruders.
+~
+He looks as though he has spent a lot of time underground, guarding the
+prisoners.
+~
+14 4202666 0 E
+13 3 2 1d8+620 2d6+1
+1000 0
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+$

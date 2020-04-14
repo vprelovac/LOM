@@ -1,0 +1,175 @@
+#21100
+crown gold~
+a crown of gold~
+A crown of gold lies forgotten here.~
+~
+8 64 17
+0 0 0 0
+30 50000 50000
+E
+crown gold~
+This golden crown looks to be worth its weight in gold...
+~
+#21101
+claymore~
+a claymore~
+An almost new claymore lies here on the ground.~
+~
+5 128 8193
+0 2 6 3
+2 1100 110
+E
+claymore~
+This claymore has a similar shape to a dagger except that the hilt is
+perpendicular to the blade not parallel.
+~
+A
+18 1
+#21102
+robes lizardman~
+a set of lizardman robes~
+A pile of clothing has been left here.  It looks like robes.~
+undefined~
+9 65 1025
+5 0 0 0
+5 2000 10000
+E
+robes lizardman~
+These robes have intricate designs on them with a flavour towards the
+religion of the lizardmen.  They are a deep blue colour.
+~
+A
+1 2
+A
+12 10
+#21103
+key useless~
+a useless key~
+A completely useless key lies here.~
+~
+18 0 2
+9103 0 0 0
+0 0 0
+E
+reason~
+There is absolutely no reason for this key except to be an ignorant item
+that no one can get.  The bonuses are in case some Id's it and should be
+ignored since the item cannot be used anyways.
+~
+A
+1 4
+#21104
+altar~
+a large altar~
+An astronomically huge altar stands in the middle of the room.~
+~
+9 1 17
+15 0 0 0
+400 1 1
+E
+writing~
+Not to insult your intelligence or anything, but it happens to be
+completely and utterly incomprehensible.
+~
+A
+2 -1
+A
+13 30
+A
+14 -30
+A
+8 13
+#21105
+key green~
+a green key for the exit~
+A large green key lies here.~
+~
+18 67 16385
+9105 0 0 0
+0 10 1000000
+E
+key green~
+This key is to be used for the exit.  Nothing else.
+~
+#21106
+scroll magic~
+a magic scroll~
+A magical scroll sits here.~
+~
+2 32 16385
+17 36 3 0
+5 10000 3672
+E
+eefrtfg~
+Actually, I was sort of hoping you knew what it meant... since I haven't
+the foggiest.
+~
+A
+14 10
+#21107
+shield~
+a shield~
+A shield is laying here on the ground.~
+~
+9 1 513
+8 0 0 0
+13 513 513
+E
+shield~
+This is a very plain shield as if the creator had gotten extremely annoyed by
+the time he, she or it got to this point.
+~
+A
+9 -3
+#21108
+lucky~
+a LUCKY~
+A LUCKY is lying here on the ground.~
+~
+18 0 16385
+9108 0 0 0
+0 0 1000000
+E
+lucky~
+Boy are you lucky you found this... IT opens the door in the tunnels.
+~
+#21109
+milk barrel~
+the barrel~
+A milk barrel has been left here.~
+~
+17 0 1
+50 50 10 0
+65 60 20
+E
+milk barrel~
+This barrel is a standard Sesame Street milk barrel, normally found in
+Mr. Hooper's Store.
+~
+#21111
+milk glass~
+a glass~
+A milk glass is sitting here waiting for an eager drinker.~
+~
+17 0 16385
+5 5 10 0
+6 10 2
+E
+milk glass~
+This is an ordinary glass with the Sesame Street emblem engraved on
+the side.
+~
+#21112
+cookie chocolate chip small~
+a small chocolate chip cookie~
+A small chocolate chip cookie has been left here.~
+~
+19 0 16385
+6 0 0 0
+1 7 3
+E
+cookie chocolate chip small~
+This is essentially just a small version of the VERY BIG CHOCOLATE CHIP
+COOKIE found elsewhere.
+~
+$~

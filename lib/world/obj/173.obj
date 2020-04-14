@@ -1,0 +1,656 @@
+#17301
+dagger squire~
+a squire's dagger~
+A leather hilted dagger lies here~
+~
+5 0 8193
+0 3 5 11
+2 0 0
+A
+18 1
+A
+19 1
+#17302
+mace knight knight's~
+a knight's mace~
+A clublike weapon with a spiked balled head lies here~
+~
+5 0 8193
+0 4 5 6
+5 0 0
+A
+18 1
+A
+19 2
+#17303
+lance knight knight's~
+a knight's lance~
+An 18' pole is sunk into the ground here~
+~
+5 0 8193
+0 4 8 3
+15 0 0
+E
+pole~
+This pole looks alot like a lance.
+~
+A
+18 2
+A
+19 2
+#17304
+armor green~
+a suit of green armor~
+A fine suit of green armor bearing the crest of Hautdesert glistens here!~
+~
+9 1088 9
+16 0 0 0
+2 0 0
+E
+crest hautdesert~
+The crest has a stag on a verdant field
+~
+A
+17 -5
+A
+24 -4
+#17305
+axe benlad benlad's~
+Benlad's axe~
+A two headed axe with the Hautdesert crest lies here~
+~
+5 1088 8193
+10 6 6 3
+7 0 0
+E
+crest~
+The crest has a stag on a verdant field
+~
+A
+18 4
+A
+19 8
+#17306
+bracer white~
+a white bracer~
+A humming, blinding white bracer lies here!~
+~
+9 1091 4097
+10 0 0 0
+2 0 0
+A
+1 1
+A
+2 1
+A
+13 10
+A
+18 3
+A
+19 3
+#17307
+grail holy~
+the holy grail~
+A beat-up, dirty, wooden cup lies here.~
+~
+10 3136 16385
+40 28 28 60
+1 0 0
+#17308
+cloak many orkney~
+a many colored cloak~
+A cloak of many colors and the crest of Orkney lies here~
+~
+9 1088 1025
+8 0 0 0
+4 0 0
+A
+13 20
+#17309
+shield~
+a shield of many colors~
+A rainbow of colors is reflected from the shield which lies here!~
+~
+9 1088 513
+7 0 0 0
+4 0 0
+A
+17 -4
+A
+19 4
+#17310
+sword excalibur~
+Arthur's Excalibur~
+A beautiful dragon hilted sword lies here!~
+~
+5 3074 8193
+8 8 8 3
+14 0 0
+E
+sword excalibur~
+You run your fingers over the blue green steel of Excalibur, and you feel 
+a tingling sensation. Your vison blurs until all you see is a blinding 
+white light. A warm sensation fills your limbs, and a sense of relaxed 
+comfort permeates you. A deep fatherlike voice says "Now that Arthur is 
+dead, it is up to you to right what he wrought. Seek out and destroy Mordred 
+and Morgan Le Fey. They are destroying Camelot." The voice and the light 
+gradually fade leaving you with only a lingering warm feeling.
+~
+A
+1 2
+A
+4 2
+A
+18 4
+A
+19 5
+#17311
+scabbard arthur arthur's golden~
+Arthur's scabbard~
+A beautiful golden scabbard lies here!~
+~
+15 3328 2049
+300 0 -1 0
+3 0 0
+A
+19 4
+A
+23 -3
+A
+24 -3
+#17312
+armband armbands garlon garlon's~
+Garlon's invisible armbands~
+A set of armbands of black iron lie here.~
+undefined~
+9 608 257
+11 0 0 0
+4 0 0
+A
+5 2
+A
+24 -2
+F
+2 0 0
+#17313
+helm horned gawaine gawaine's~
+Gawaine's horned helm~
+A burnished steel helm with oxen horns lies here.~
+~
+9 0 17
+8 0 0 0
+3 0 0
+A
+1 3
+A
+19 3
+#17314
+spurs silver lamorak lamorak's~
+Lamorak's spurs~
+A set of silver spurs lies here.~
+~
+9 0 65
+10 0 0 0
+0 0 0
+A
+18 2
+A
+19 3
+#17315
+gauntlets bravery~
+gauntlets of bravery~
+A glowing pair of burnished chain mesh gauntlets lies here.~
+~
+9 3392 129
+7 0 0 0
+3 0 0
+A
+18 7
+A
+19 7
+#17316
+ring incubus crest gold~
+the Incubus crest ring~
+A ring of twisted red gold bearing the likeness of an Incubus lies here.~
+undefined~
+9 0 3
+5 0 0 0
+1 0 0
+A
+3 1
+A
+12 75
+A
+13 10
+#17317
+staff merlin merlin's~
+merlin's staff~
+A staff of two intertwined vines lies here in a circle of power!~
+~
+4 195 16385
+40 20 20 26
+10 0 0
+A
+12 85
+A
+24 -3
+#17318
+greaves blackened steel~
+a pair of blackened steel greaves~
+A pair of blackened steel greaves lies here. There is an inscription on them.~
+~
+9 128 33
+8 0 0 0
+5 0 0
+E
+inscription~
+You look at the inscription. It reads "I do hereby swear to not reveal my 
+crest until I have stopped all from entering Camelot for a period of 5 years, 
+as I have promised Morgana in exchange for the favor of Eveline"
+~
+A
+4 -4
+A
+14 -50
+#17319
+wand rod~
+a marble rod with a white hot tip~
+A marble rod with a white hot tip is smouldering here.~
+~
+3 705 16385
+36 12 12 7
+1 0 0
+E
+rod wand marble~
+As you examine the wand, you get a funny feeling. It swells into a vision of 
+the previous's wands owner, Morgan Le Fey. You hear a cackling laughter and 
+red eyes bore into your head. As the vison fades you hear the message '
+...with each charmed, your soul belongs a little more to me...'.
+~
+#17320
+pack backpack trailpack leather pellinore pellinore's~
+Pellinore's trailpack~
+A backpack made of fine leather sits here. You see lettering on its corner.~
+~
+15 192 32769
+500 13 17321 0
+5 0 0
+E
+lettering~
+You read the writing on the pack. It says "To my dear friend Pellinore, may 
+this pack make your journeys shorter and allow you to bring all the 
+provisions you need. Simply wear the pack, and and the weight and number 
+of items you carry will increase, and you will be able to travel long 
+distances without tiring. I have made this pack lockable (use the key with 
+the letter P). May you succeed in your quest!     - Merlin".
+~
+A
+2 2
+A
+5 3
+#17321
+key p letter~
+a key with the letter "P" on it~
+A key with the letter "P" on it is here.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#17322
+rations trail food food~
+some trail rations~
+Some trail rations (nuts, dried fuits, dried meats) are here.~
+~
+19 0 1
+48 0 0 0
+4 0 0
+#17323
+flask wine~
+a flask of a nice red wine~
+A flask of nice, cold Pinot Noir wine is here, just waiting to be tasted.~
+~
+17 0 1
+10 10 2 0
+15 0 0
+E
+wine flask~
+The wine is a beautiful deep red in color, and it goes well with all food.
+~
+#17324
+bones bone pile~
+a pile of bones~
+A pile of bones lies here.~
+~
+13 0 1
+0 0 0 0
+10 0 0
+#17325
+skull human~
+a human skull~
+A human skull lies here.~
+~
+17 0 1
+0 0 0 0
+3 0 0
+#17326
+rock black small~
+a small black rock~
+A small black rock lies here.~
+~
+10 0 1
+40 1 34 18
+0 0 0
+E
+rune~
+Persistant, huh? Well yes it seems like that mage buddy of yours once was 
+talking about rune wafers that could be eaten and have magical effects 
+happen. This looks like one of those.
+~
+#17327
+letter love~
+a love letter~
+A love letter addressed to Tristram is rolled and sealed with a wax emblem.~
+~
+2 64 16385
+40 68 29 54
+1 0 0
+E
+letter~
+You break the seal and look at the letter. The letter reads:
+
+My beloved Tristram. How much do I long for your gentle presence alongside 
+me! My father seethes at the very thought of you. Beware! He seeks to do you 
+harm. I have spoken with Merlin and he as bewitched this letter to allow you 
+to fly invisibly to me, and pass unhindered through all our doors! Tarry not 
+for I shall burst!
+
+Forever and totally in your thrall,
+
+Isolde
+~
+#17328
+armor golden~
+a suit of golden armor~
+A suit of golden armor shines here~
+~
+9 2560 9
+16 0 0 0
+81 0 0
+A
+17 -15
+#17329
+spear unholy~
+a spear glowing in an unholy dark light~
+A spear is here, glowing with an unholy dark light.~
+~
+5 65 8193
+2 6 8 3
+10 0 0
+E
+unholy spear light~
+You look at the unholy light surrounding the spear. Your vision darkens. 
+Out of the darkness red glowing eyes laugh and dance at you. A rage slowly 
+fills you, you want to kill. Rend. Tear. Rape. Murder - ahhahahahah!
+~
+A
+1 2
+A
+18 4
+A
+19 8
+#17330
+favor silken~
+a silken favor~
+A silken favor is here. Maybe it belongs to your lady?~
+~
+13 0 16385
+0 0 0 0
+1 0 0
+#17331
+necklace~
+an emerald necklace~
+An exquisite emerald necklace with intricate gold settings has been left here!~
+~
+11 0 5
+5 0 0 0
+2 0 0
+A
+3 3
+A
+4 4
+#17332
+ball chain~
+a massive spiked ball and chain~
+A massive spiked iron ball attached to a iron handle by a 3' chain is here.~
+~
+5 0 8193
+6 8 6 6
+30 0 0
+A
+19 6
+#17333
+motley fool fools~
+fool's motley~
+Some fool has left his motley here.~
+~
+9 0 17
+9 0 0 0
+3 0 0
+A
+3 -1
+#17334
+helm wolf helmet~
+a wolf helm~
+A helm with the semblance of a wolf is here~
+~
+9 64 17
+11 0 0 0
+10 0 0
+A
+18 2
+A
+19 1
+#17335
+armor shimmering red~
+a suit of shimmering red armor~
+A suit of shimmering red armor glistens in the sunlight.~
+~
+9 65 9
+14 0 -1 0
+15 0 0
+A
+17 -10
+A
+19 2
+#17336
+key rusty~
+a rusty key~
+A key is here, lying in the dirt, rusting.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#17337
+reward~
+the reward~
+A deed of payment for the rescue of a damsel in distress is here.~
+~
+20 0 1
+10000 0 0 0
+1 0 0
+#17338
+key room~
+a room key~
+A brass key made depicting a young girl is here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#17339
+purse heavy~
+a rather heavy looking purse~
+A rather heavy looking purse is here.~
+~
+20 0 1
+1000 0 0 0
+1 0 0
+#17340
+cloak lice infested~
+a lice infested cloak~
+A lice infested cloak made of the skin of some animal is here.~
+~
+9 0 1025
+1 0 0 0
+10 0 0
+A
+1 3
+A
+2 3
+A
+5 -1
+F
+0 32 0
+#17341
+sword broad steel commander commander's~
+a commander's steel broad sword~
+A commanders steel broad sword catches your eye.~
+~
+5 0 8193
+5 5 5 3
+5 0 0
+A
+18 2
+A
+19 2
+#17342
+skin whiskey~
+a skin of whiskey~
+A skin smelling of whiskey is here, on the ground.~
+~
+17 0 1
+50 50 5 0
+55 0 0
+#17343
+ship dragon~
+a dragon ship~
+A dragon ship is beached here- where are those Angle raiders?~
+~
+22 0 1
+0 0 0 0
+100 0 0
+#17344
+angle~
+an angle~
+An angle is here. A raider must be nearby.~
+~
+5 0 8193
+0 5 5 3
+15 0 0
+A
+18 -3
+A
+19 4
+#17345
+rod command~
+a rod of command~
+A rod of black, runed metal swallows light here.~
+~
+4 2560 16385
+40 20 20 7
+9 0 0
+E
+runed runes metal rod~
+You look at the metal rod, and a sick feeling comes over you. Your vision 
+dims and you see two hot red eyes cutting though you. A demonic cackle 
+sends chills down your spine, and as it fades you hear " with every use, 
+you become mine..."
+~
+A
+3 1
+A
+4 1
+A
+17 -10
+#17346
+banner war persante blue~
+the blue war banner of Persante of Inde~
+The blue war banner of Persante of Inde lies here. Persante has fallen!~
+~
+1 1025 16385
+0 0 -1 0
+20 0 0
+E
+banner blue~
+The banner depicts a Griffon on a pale blue sky
+~
+A
+17 -10
+A
+23 -5
+A
+24 -5
+#17347
+lifecutter~
+lifecutter~
+A blue black crusader hilt sword is stuck in the ground~
+~
+5 1024 8193
+2 7 7 3
+20 0 0
+E
+sword~
+As you look at the sword, you hear inside your head the words "My name is
+Lifecutter, and my last master was Dodinas le Savage. Take me and lets 
+slay evil!
+~
+A
+18 3
+A
+19 3
+#17348
+armor plate full~
+a suit of full plate armor~
+A suit of full plate armor gleams on the ground~
+~
+9 0 9
+9 0 0 0
+100 0 0
+A
+17 -8
+#17349
+axe~
+an enormous axe~
+An enormous axe is resting here.~
+~
+5 0 8193
+4 10 4 9
+25 0 0
+E
+axe~
+The axe handle has the name 'Gaheris' inscibed on it.
+~
+A
+19 4
+#17350
+hat top black Lok Lok's~
+lok's black top hat~
+Lok's black top hat is here- maybe you should give it to him- nah~
+~
+9 0 16
+9 0 0 0
+0 0 0
+E
+hat~
+Inscribed in the hatband is the message 'I belong to Lok'
+~
+A
+12 50
+A
+14 50
+A
+17 -12
+A
+18 1
+A
+19 1
+$~

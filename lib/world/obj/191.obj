@@ -1,0 +1,85 @@
+#19100
+bunch berries smurfberries~
+a bunch of smurfberries~
+A bunch of delicious looking smurfberries lie here.~
+~
+10 0 1
+8 118 0 0
+2 50 0
+#19101
+glasses~
+a pair of glasses~
+An odd pair of glasses has been left here.~
+~
+9 1 65537
+1 0 0 0
+2 500 0
+A
+4 1
+#19102
+smurf hat~
+a smurf hat~
+A smurf hat has been left here.~
+~
+9 0 17
+3 0 0 0
+2 50 0
+#19103
+axe small~
+a small axe~
+A small axe has been dropped here.~
+~
+5 0 8193
+0 2 5 3
+2 2000 0
+#19104
+necklace~
+a small necklace~
+A small necklace is lying on the ground.~
+~
+9 1 5
+1 0 0 0
+2 500 0
+A
+3 1
+#19105
+pink potion~
+a pink potion~
+A pink potion is barely visible on the ground.~
+~
+10 0 1
+6 1 14 0
+2 500 0
+#19106
+wand~
+a small wand~
+A small wand lies on the ground.~
+~
+3 0 16385
+5 1 1 5
+2 500 0
+#19107
+key~
+a tiny key~
+A tiny key is lying on the ground.~
+~
+18 0 1
+2 0 0 0
+2 50 0
+#19108
+well~
+a smurf well~
+A small smurfy well is here.~
+~
+23 0 0
+50 50 0 0
+500 3000 0
+#19109
+key~
+a small key~
+A key to Gargamel's door lies here.~
+~
+18 0 1
+2 0 0 0
+2 50 0
+$

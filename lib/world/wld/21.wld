@@ -1,0 +1,1313 @@
+#2101
+A Dark Alleyway~
+  The walls of the alleyway have been spray-painted over many times
+over the years.  One section of graffiti actually looks legible,
+it says:    This section has been designed for levels 5 through 15
+            If you are above level 15 please don't expect much fun.
+            If you are below level 5 enter at your own risk.
+Another section of graffiti says "Raff Rules!"
+There is a boulevard to the east and Wall Road East is to the west.
+~
+21 32773 1
+D1
+~
+~
+0 -1 2102
+D3
+~
+~
+0 -1 2172
+S
+#2102
+Beginning Of White Dragon Boulevard~
+  This section of town has been overrun by the Troll gang.  Even the
+police stay out of here for fear of being brutalized.  This was once
+a nice lower-middleclass neighborhood, but know the gangs run the
+streets.  All the shops and homes have been boarded up and abandoned.
+An alleyway is to the west and the street continues east.  An over-
+grown lot is to the south.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2103
+D2
+~
+~
+0 -1 2109
+D3
+~
+~
+0 -1 2101
+S
+#2103
+Along White Dragon Boulevard~
+  Everywhere you look you see signs of recent violence.  Patches of blood
+lie everywhere and broken sticks and abandoned knifes are strewn here
+and there.  An over-grown lot is to the south.  White Dragon Boulevard leads
+east and west.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2104
+D2
+~
+~
+0 -1 2110
+D3
+~
+~
+0 -1 2102
+S
+#2104
+White Dragon Boulevard At Armory~
+  Only gang members dare wander the streets here.
+What used to be the armory lies to the south.  White Dragon Boulevard
+leads east and west.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2105
+D2
+~
+~
+0 -1 2111
+D3
+~
+~
+0 -1 2103
+S
+#2105
+White Dragon Blvd.~
+  Black Dragon Avenue used to run south from here but the way has been
+blocked by the toppling of a building into the street.  White Dragon
+boulevard continues east and west.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2106
+D3
+~
+~
+0 -1 2104
+S
+#2106
+Corner Of Ice And White Dragon~
+  Ice Dragon Way leads south from here.  It used to run the whole length
+of the neighborhood and way lined with beautiful crystal sculptures.
+White Dragon boulevard leads east and west from here.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2107
+D2
+~
+~
+0 -1 2113
+D3
+~
+~
+0 -1 2105
+S
+#2107
+White Dragon Boulevard~
+  A once majestic inn with a white marble facade lies to the south.
+Unfortunately, it has fallen into disrepair and decay.  You can continue
+east or west.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2108
+D3
+~
+~
+0 -1 2106
+S
+#2108
+Corner Of Bronze And White Dragon~
+  This is the north-east corner of the neighborhood. White Dragon
+boulevard heads west and Bronze Dragon street heads south.
+~
+21 32768 1
+D2
+~
+~
+0 -1 2115
+D3
+~
+~
+0 -1 2107
+S
+#2109
+An Over-grown Lot~
+  A huge building was going to be built here, but they gave the
+project up when violence took over the town.  Now it is just a
+weed-strewn plot of land.  The lot continues east and there is a road north.
+~
+21 32768 2
+D0
+~
+~
+0 -1 2102
+D1
+~
+~
+0 -1 2110
+S
+#2110
+East End Of An Over-grown Plot Of Land~
+  This was planned to be a park, but the developer was scared out
+of town by the gang.  Now it is just a dusty square of land. The
+park was started to the south.  The lot continues west and there
+is a street to the north.
+~
+21 32768 2
+D0
+~
+~
+0 -1 2103
+D2
+~
+~
+0 -1 2116
+D3
+~
+~
+0 -1 2109
+S
+#2111
+Armory~
+  Well actually, this is what USED to be the armory.  The equipment has
+all been stolen or broken beyond repair. The back wall of the
+building has been bashed down, allowing you to go south.  White
+Dragon Boulevard is north.
+~
+21 32776 1
+D0
+~
+~
+0 -1 2104
+D2
+~
+~
+0 -1 2117
+S
+#2112
+A Bend In The Way~
+  Ice Dragon Way bends east and south from here.  You notice a lot of
+blood dried into the dirt here.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2113
+D2
+~
+~
+0 -1 2118
+S
+#2113
+Ice Dragon Bend~
+  Ice Dragon Way bends to the north and west here.  There are footprints
+here.  They seem to indicate a large struggle took place here
+recently.  What used to be the town Magic shop is to the east.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2106
+D1
+~
+~
+0 -1 2114
+D3
+~
+~
+0 -1 2112
+S
+#2114
+The Remains Of The Magic Shop~
+  The wizard was tough but he couldn't take on 50 of them at once.  So he
+died and they took all his stuff and used it on their fellowmen.
+The front door leads west back out to the street.  There is a back
+door leading to another street to the east.
+~
+21 32776 1
+D1
+~
+~
+0 -1 2115
+D3
+~
+~
+0 -1 2113
+S
+#2115
+Bronze Dragon Street At Wizard's Back Door~
+  Bronze Dragon street goes north and south.  The back door to what
+remains of the magic shop is west.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2108
+D2
+~
+~
+0 -1 2120
+D3
+~
+~
+0 -1 2114
+S
+#2116
+Dracolich Plaza~
+  They began construction of a pleasant plaza here.  You wouldn't have
+known it though if i hadn't told you.  It has been renamed in honor
+of the Dragon gang's idol, the Dracolich.  It has become sort of a
+training ground.  There is a short cut to the east and an overgrown
+lot of land to the north.
+~
+21 32768 2
+D0
+~
+~
+0 -1 2110
+D1
+~
+~
+0 -1 2117
+S
+#2117
+Shortcut~
+  This is a shortcut between Dracolich Plaza and the center of town.
+Dracolich Plaza is to the west and the shortcut continues south.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2111
+D2
+~
+~
+0 -1 2121
+D3
+~
+~
+0 -1 2116
+S
+#2118
+Ice Dragon Way~
+  Several smashed crystal statues line the Way here.  You begin to wonder
+who smashed them, and with what.  The Way bends out of sight to the north
+and continues south.  To the east is a courtyard.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2112
+D1
+~
+~
+0 -1 2119
+D2
+~
+~
+0 -1 2122
+S
+#2119
+Courtyard North~
+  Once it was the courtyard of a beautiful building complex.  But alas,
+someone forgot to water the plants and they all died.  Then again,
+you wonder how many people have died here too.  The courtyard extends
+to the south and there is a road to the west.
+~
+21 32776 1
+D2
+~
+~
+0 -1 2123
+D3
+~
+~
+0 -1 2118
+S
+#2120
+Bronze Dragon Street~
+  There used to be a gate out to the east here which led to distant lands.
+The gate has rusted permanently shut.  The street goes north and south.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2115
+D2
+~
+~
+0 -1 2125
+S
+#2121
+Shortcut~
+  The shortcut extends north.  There is a street to the east.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2117
+D1
+~
+~
+0 -1 2122
+S
+#2122
+Ice Dragon Way~
+  The Way continues north and intersects with Yellow Dragon Avenue
+to the south.  For some reason, you somehow realize that there is a
+shortcut to the west that leads to Dracolich Plaza.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2118
+D2
+~
+~
+0 -1 2127
+D3
+~
+~
+0 -1 2121
+S
+#2123
+Courtyard South~
+  Once full of lush green plants, it is now barren of growth.  A set of
+stairs used to extend up to a suite of rooms but the set is missing
+stairs 3-15.  The courtyard extends north and there is a street to
+the south.
+~
+21 32776 1
+D0
+~
+~
+0 -1 2119
+D2
+~
+~
+0 -1 2128
+S
+#2124
+Old Abandoned Warehouse~
+  Once the center of a lucrative storage business, it has fallen to
+disrepair like everything else.  It is now the hideout of the
+Dragon gang.  The gang leader runs his reign of terror from here.
+There is a wooden door barely on the hinges to the east.
+~
+21 9 1
+D1
+~
+wooden door east~
+1 -1 2125
+S
+#2125
+Bronze Dragon Street At Warehouse~
+  The street runs north and south.  There is an old wooden door leading
+to a warehouse to the west.  The warehouse LOOKS abandoned. . .
+~
+21 32768 1
+D0
+~
+~
+0 -1 2120
+D2
+~
+~
+0 -1 2130
+D3
+~
+wooden door west~
+1 -1 2124
+S
+#2126
+Yellow Dragon Road~
+  Yellow Dragon Road is the southern boundary of Troll Territory.  The
+road extends east.  You enter "no-man's land" to the south.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2127
+D2
+~
+~
+0 -1 2131
+S
+#2127
+Yellow Dragon Road~
+  The road runs east and west.  Ice Dragon Way leads north from here.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2122
+D1
+~
+~
+0 -1 2128
+D3
+~
+~
+0 -1 2126
+S
+#2128
+Yellow Dragon Road~
+  The roads continues east and west.  There is a courtyard to the north.
+You enter "no man's land" to the south.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2123
+D1
+~
+~
+0 -1 2129
+D2
+~
+~
+0 -1 2133
+D3
+~
+~
+0 -1 2127
+S
+#2129
+Yellow Dragon Road~
+  There is a barred window to the north.  There appears to be a light
+coming from the cracks around it.  The road extends east and west
+from here.  Or you can enter "no man's land" south from here.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2130
+D2
+~
+~
+0 -1 2134
+D3
+~
+~
+0 -1 2128
+S
+#2130
+Yellow Dragon Road~
+  Bronze Dragon Street intersects here and runs north.  Yellow Dragon ends
+here but continues to the west.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2125
+D3
+~
+~
+0 -1 2129
+S
+#2131
+NO MAN'S LAND~
+  This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+and east; or there is a street to the north.
+~
+21 32768 5
+D0
+~
+~
+0 -1 2126
+D1
+~
+~
+0 -1 2132
+D2
+~
+~
+0 -1 2136
+S
+#2132
+NO MAN'S LAND~
+  This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+east and west.
+~
+21 32768 5
+D1
+~
+~
+0 -1 2133
+D2
+~
+~
+0 -1 2137
+D3
+~
+~
+0 -1 2131
+S
+#2133
+NO MAN'S LAND~
+  This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south,
+east and west; or there is a street to the north.
+~
+21 32768 5
+D0
+~
+~
+0 -1 2128
+D1
+~
+~
+0 -1 2134
+D2
+~
+~
+0 -1 2138
+D3
+~
+~
+0 -1 2132
+S
+#2134
+NO MAN'S LAND~
+  This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south,
+east, and west; or there is a street to the north.
+~
+21 32768 5
+D0
+~
+~
+0 -1 2129
+D1
+~
+~
+0 -1 2135
+D2
+~
+~
+0 -1 2139
+D3
+~
+~
+0 -1 2133
+S
+#2135
+NO MAN'S LAND~
+  This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+and west.
+~
+21 32768 5
+D2
+~
+~
+0 -1 2140
+D3
+~
+~
+0 -1 2134
+S
+#2136
+NO MAN'S LAND~
+  This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north
+and east; or there is a street to the south.
+~
+21 32768 5
+D0
+~
+~
+0 -1 2131
+D1
+~
+~
+0 -1 2137
+D2
+~
+~
+0 -1 2141
+S
+#2137
+NO MAN'S LAND~
+  This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north,
+east and west.
+~
+21 32768 5
+D0
+~
+~
+0 -1 2132
+D1
+~
+~
+0 -1 2138
+D3
+~
+~
+0 -1 2136
+S
+#2138
+NO MAN'S LAND~
+  This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north,
+east, and west; or there is a street to the south.
+~
+21 32768 5
+D0
+~
+~
+0 -1 2133
+D1
+~
+~
+0 -1 2139
+D2
+~
+~
+0 -1 2143
+D3
+~
+~
+0 -1 2137
+S
+#2139
+NO MAN'S LAND~
+  This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north,
+east, and west.
+~
+21 32768 5
+D0
+~
+~
+0 -1 2134
+D1
+~
+~
+0 -1 2140
+D3
+~
+~
+0 -1 2138
+S
+#2140
+NO MAN'S LAND~
+  This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+and west; or there is a street to the south.
+~
+21 32768 5
+D0
+~
+~
+0 -1 2135
+D2
+~
+~
+0 -1 2145
+D3
+~
+~
+0 -1 2139
+S
+#2141
+Bend In Hector Street~
+  Hector street bends to the east and the south here.  "No Man's Land"
+entrance is to the north.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2136
+D1
+~
+~
+0 -1 2142
+D2
+~
+~
+0 -1 2146
+S
+#2142
+Hector Street At Bakery~
+  Hector street runs east and west.  The Bakery used to be to the south
+but the entrance is sealed off.  Probably just a bunch of stale pies in
+there anyways.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2143
+D3
+~
+~
+0 -1 2141
+S
+#2143
+Another Corner Of Hector And Achilles Streets~
+  Achilles street heads to the south and Hector runs east and west.
+There is an entrance to "No Man's Land" to the north.  On the
+southwest corner of this intersection, it looks like a building
+was recently burned down.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2138
+D1
+~
+~
+0 -1 2144
+D2
+~
+~
+0 -1 2147
+D3
+~
+~
+0 -1 2142
+S
+#2144
+Hector Street At Jeweler~
+  Once a bright spot in the town, it now looks like one of the
+hardest hit by the violence.  The building could collapse at any
+moment.  The street continues east and west.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2145
+D3
+~
+~
+0 -1 2143
+S
+#2145
+Corner Of Ajax And Hector~
+  There is a grand fountain to the east but the water doesn't
+look good to drink.  Ajax street heads south and Hector
+goes back west.  "No Man's Land" is to the north.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2140
+D2
+~
+~
+0 -1 2149
+D3
+~
+~
+0 -1 2144
+S
+#2146
+Hector Street~
+  The street is full of garbage here.  An odd building lies to the west,
+but you don't seem to be able to find a way into it.  The street
+runs north and south here.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2141
+D2
+~
+~
+0 -1 2150
+S
+#2147
+Achilles Avenue~
+  The town bards sang of the victory parades that used to pass along this
+route.  It was once a major way through the center of town.  The street
+goes south to a bend and north to an intersection.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2143
+D2
+~
+~
+0 -1 2152
+S
+#2148
+A Small Ruined Chapel~
+  This was a small temple built to honor the minor gods and goddesses.
+It is now desecrated by graffiti and vandalism.  Perhaps its worst
+defilement is that it is the hangout of the Ogre gang.  There is a street to
+the east through a rusty metal door.
+~
+21 9 1
+D1
+~
+rusted door metal~
+1 -1 2149
+S
+#2149
+Ajax Avenue At Chapel~
+  The temple to honor the minor gods is through a rusty metal door
+to the west.  The street continues north and south.  You hear the
+muffled sounds of screams coming from the chapel.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2145
+D2
+~
+~
+0 -1 2154
+D3
+~
+rusted door metal~
+1 -1 2148
+S
+#2150
+First Intersection Of Hector And Achilles~
+  There is a large statue here depicting a battle between two
+great warriors.  You think it's odd that it has not been defiled,
+but then you sense a aura protecting it.  Achilles runs east
+and south, while Hector heads out to the north.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2146
+D1
+~
+~
+0 -1 2151
+D2
+~
+~
+0 -1 2156
+S
+#2151
+Hector Street~
+  A large open space, possibly a cemetery, lies to the south.
+There is a large wrought-iron fence with spikes on top
+which prevents you from entering the area.  The street
+continues east and west.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2152
+D3
+~
+~
+0 -1 2150
+S
+#2152
+A Bend In The Road~
+  Achilles Avenue bends to the north and west here.  There
+is also a narrow alley to the south.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2147
+D2
+~
+~
+0 -1 2157
+D3
+~
+~
+0 -1 2151
+S
+#2153
+What Is Left Of The Weaponshop~
+  It doesn't even look like those punks gave the weaponsmith a
+proper burial.  But what a going away present he seems to have
+received!  Blood is splattered and dried all over the walls here.
+It looks like a great deal of carnage happened here.  The way
+out to the east leads out onto a street.
+~
+21 32776 0
+D1
+~
+~
+0 -1 2154
+S
+#2154
+Ajax Street At Weaponshop (or Whats Left Of It)~
+  The street goes north and south.  The stables used to be to the
+east, but I bet all the horses are dead or gone.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2149
+D2
+~
+~
+0 -1 2159
+D3
+~
+~
+0 -1 2153
+S
+#2155
+Khan Park~
+  Not really a "park" as you and i would think of it but
+it seems queerly peaceful here in comparison to the rest of
+the area.  There seems to be some kind of memorial to the
+great Mongol warrior Khan being crudely constructed here.
+There is a street to the east and another to the south.
+~
+21 32768 2
+D1
+~
+~
+0 -1 2156
+D2
+~
+~
+0 -1 2162
+S
+#2156
+Achilles Avenue At Entrance To Park~
+  A ... park?! lies to the west.  The street runs south to an
+intersection and curves to the north.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2150
+D2
+~
+~
+0 -1 2163
+D3
+~
+~
+0 -1 2155
+S
+#2157
+A Bend In Ajax~
+  The roads bends south and east here.  You barely notice
+a small alley leading north.  Some kind of tunnel entrance
+is to the west but it has been crushed under its own weight.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2152
+D1
+~
+~
+0 -1 2158
+D2
+~
+~
+0 -1 2164
+S
+#2158
+Ajax Street~
+  A once prideful guildhouse was on the northeast corner of
+this intersection.  Most of the walls and ceiling have long since
+been demolished.  An inn/pub is to the south.  The street bends
+to the east or west.
+~
+21 32768 1
+D1
+~
+~
+0 -1 2159
+D2
+~
+~
+0 -1 2165
+D3
+~
+~
+0 -1 2157
+S
+#2159
+Curve In The Road~
+  The street goes north or west from here.  A narrow street once
+headed southeast from here.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2154
+D3
+~
+~
+0 -1 2158
+S
+#2160
+A Wide Alleyway~
+   The sides of the alleyway have been vandalized many times. The road
+leads back east.
+~
+21 5 1
+D1
+~
+~
+0 -1 2161
+S
+#2161
+Alexander Road~
+  You see many gang members walking around looking for
+fights to pick and things to break.  It seems as if all of the
+other citizens have been run out of town.  All the former
+homes are boarded up and uninhabitable.  The road continues
+east and west.
+~
+21 0 1
+D1
+~
+~
+0 -1 2162
+D3
+~
+~
+0 -1 2160
+S
+#2162
+Alexander Street At Park Entrance~
+  A park-looking area lies to the north and a passage between
+two buildings leads to another street to the south.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2155
+D2
+~
+~
+0 -1 2166
+D3
+~
+~
+0 -1 2161
+S
+#2163
+Achilles Avenue~
+  The Avenue Runs north and south.  You sense you are deep within
+Ogre gang territory, and a chill goes up your spine.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2156
+D2
+~
+~
+0 -1 2167
+S
+#2164
+Ajax Street~
+  You can see a sinister black wrought-iron fence to the west.
+You wonder if it's keeping you out, or the ghouls in?
+~
+21 32768 1
+D0
+~
+~
+0 -1 2157
+D2
+~
+~
+0 -1 2169
+S
+#2165
+The Inn/pub~
+  The inn actually looks fairly functional despite its lack
+of repair.  The boys come here to hoot it up and drink them selves
+into oblivion sometimes.  It looks as if the beer is still on tap!!!
+A hallway leads south and you spy a street through the doorway
+to the north.
+~
+21 32776 0
+D0
+~
+~
+0 -1 2158
+D2
+~
+~
+0 -1 2170
+S
+#2166
+Solomon Street~
+  This street forms the southern boundary of Ogre territory.  The
+street extends far to the east.  There is also a pathway between
+buildings which leads to another street to the north.
+~
+21 0 1
+D0
+~
+~
+0 -1 2162
+D1
+~
+~
+0 -1 2167
+S
+#2167
+Intersection Of Achilles And Solomon~
+  Solomon street is to the east and west.  The other part of the
+T is Achilles Avenue, starting here and winding to the north.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2163
+D1
+~
+~
+0 -1 2168
+D3
+~
+~
+0 -1 2166
+S
+#2168
+Solomon Street~
+  A wrought-iron fence blocks off what used to be an entrance to the
+cemetery here to the north.  The evil just seems too strong to
+to consider entering.  You feel you should stick with the "lesser"
+evils along the road to the east and west.
+~
+21 0 1
+D1
+~
+~
+0 -1 2169
+D3
+~
+~
+0 -1 2167
+S
+#2169
+Intersection Of Ajax And Solomon~
+  The two roads meet at a corner here.  Ajax runs north and
+Solomon heads west.  An inn/pub is through a back doorway
+to the east.
+~
+21 32768 1
+D0
+~
+~
+0 -1 2164
+D1
+~
+~
+0 -1 2170
+D3
+~
+~
+0 -1 2168
+S
+#2170
+Hallway~
+  The hallway heads back north to the main part of the inn/pub.
+The stairs leading up to the guest rooms here do not seem
+advisable to climb.  A doorway empties out into Solomon
+street to the west.
+~
+21 9 0
+D0
+~
+~
+0 -1 2165
+D3
+~
+~
+0 -1 2169
+S
+#2171
+Wall Road~
+  The road extends south along the inside of the wall surrounding
+the city.  You spy a city gate to the north.
+~
+21 32768 1
+D2
+~
+~
+0 -1 2172
+D3
+~
+~
+0 0 3119
+S
+#2172
+Wall Road~
+  Wall road extends north along the inside of the city wall.  A dark
+alley lies to the east.  To the south, you see the colors and hear the
+sounds of a circus!!
+~
+21 32768 1
+D0
+~
+~
+0 -1 2171
+D1
+~
+~
+0 -1 2101
+D2
+You see a circus forming!
+~
+~
+0 0 4401
+S
+$~

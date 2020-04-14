@@ -1,0 +1,102 @@
+#21100
+sea serpent~
+the sea serpent~
+A sea serpent swims around here.
+~
+Looking closely at this creature reveals its large teeth... heading your
+way.
+~
+4 524296 0 E
+6 15 2 3d5+70 2d4+1
+5 -100
+8 8 0
+E
+#21101
+lizardman sentry~
+the sentry~
+A lizardman sentry sentries here.
+~
+He seems to be doing a good job sentrying.
+~
+162 8 -150 E
+10 11 3 5d3+130 2d5+2
+150 -100
+8 8 1
+E
+#21102
+lizardman wizard~
+the wizard~
+A lizardman wizard is conjuring here.
+~
+This wizard is deeply involved in his conjuring and hasn't noticed you...
+yet.
+~
+2 0 -200 E
+15 6 0 2d6+150 5d4+10
+3500 -100
+8 8 1
+Class: 1
+Int: 17
+E
+#21103
+water elemental~
+the water elemental~
+A large water elemental is swimming about here.
+~
+It seems to be part of the conjuring spell the wizard is casting.
+~
+34 136 0 E
+10 8 5 2d6+135 2d7+4
+0 -100
+8 8 0
+E
+#21104
+lizardman guard~
+the guard~
+A lizardman guard is guarding this area from people like you.
+~
+This Guard is guarding.
+Obviously he is not doing a good job.
+This is proven by the simple fact that you are still here.
+~
+4102 8 -100 E
+9 12 3 5d3+110 2d5+2
+200 -100
+8 8 1
+E
+>greet_prog 10~
+say What are you doing here!?!
+mpkill $n
+~
+|
+#21105
+lizardman prince~
+the prince~
+The lizardman prince glares at you.
+~
+His glare is very unnerving.  Maybe you should attack him...
+~
+6 136 -350 E
+20 1 0 3d6+245 3d6+4
+1000 -100
+8 8 1
+E
+#21106
+hooper old man~
+Mr. Hooper~
+From behind the counter, Mr. Hooper smiles at you.
+~
+Mr. Hooper is the kind old man that runs this small general store.  He tips
+his head forward and looks over his glasses at you.  'Is there something that
+you would like to buy?', he asks politely.
+~
+194 8 250 E
+14 16 6 1d100+200 1d16+0
+0 -100
+8 8 1
+E
+$
+
+
+
+Mob special remarks

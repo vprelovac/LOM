@@ -1,0 +1,983 @@
+#10700
+ticket~
+a ticket to Murky Land~
+A small scrap of paper litters the ground.~
+~
+18 0 1
+0 0 0 0
+1 550 0
+#10701
+cudgel~
+a heavy cudgel~
+A heavy cudgel rests here.~
+~
+5 32 8193
+0 2 6 7
+9 0 0
+#10702
+hatchet~
+a small hatchet~
+A small hatchet is on the floor.~
+~
+5 1026 8193
+0 3 3 6
+5 0 0
+A
+1 1
+A
+2 -1
+A
+5 1
+#10703
+ice pick icepick~
+a small icepick~
+A small icepick is sticking out of the ground.~
+~
+5 2 8193
+0 3 4 11
+5 0 0
+A
+2 1
+#10704
+engagement ring gold~
+a simple engagement ring~
+A simple ring of gold is on the floor.~
+~
+9 64 3
+8 0 0 0
+1 0 0
+A
+2 1
+A
+3 1
+A
+4 -1
+#10705
+black tooth blacktooth dirk~
+blacktooth~
+A dark dirk is on the floor.~
+~
+5 2 8193
+0 4 3 11
+5 0 0
+#10706
+carapace spider~
+a hard spider carapace~
+A shell of a spider is here.~
+~
+9 512 9
+7 0 0 0
+5 0 0
+A
+5 2
+A
+12 -10
+A
+14 -20
+#10707
+cooking spatula~
+a cooking spatula~
+A greasy cooking spatula is on the floor.  Yuck!~
+~
+5 0 8193
+0 2 2 11
+5 0 0
+#10708
+apron~
+an apron~
+An apron hangs here.~
+~
+9 0 2049
+5 0 0 0
+5 0 0
+E
+apron~
+You realize that this grease splattered apron offers great protection, not
+just from grease, but from sword strokes, fire, and magic spells, too!
+~
+A
+17 1
+A
+24 -3
+#10709
+yellow popcorn food food food food~
+a bag of yellow popcorn~
+A bag of yellow popcorn sits on the counter.~
+~
+19 0 1
+1 -1 -1 1
+1 30 0
+E
+yellow popcorn~
+You notice that the yellowness of this popcorn has NOTHING to do with any
+seasoning.  You wonder how long this popcorn has been sitting in this bag,
+and wished you hadn't bought any of it.
+~
+#10710
+candy cane candycane~
+a candy cane~
+A candy cane is on the floor.~
+~
+18 0 1
+0 0 0 0
+5 50 0
+E
+candy cane candycane~
+You notice that this candycane is harder than brass, and that you'll never
+~
+#10711
+cup cola~
+a plastic cup of cola~
+You see a plastic cup with liquid inside.~
+~
+17 0 1
+10 10 15 0
+15 50 0
+#10712
+cup lemonade~
+a plastic cup of lemonade~
+You see a cup with a yellowish liquid inside.~
+~
+17 0 8193
+10 10 6 0
+15 50 0
+#10713
+jerky rat food food food food~
+some type of jerky~
+Strips of meat are on the counter.~
+~
+19 0 1
+10 0 0 0
+5 50 0
+E
+jerky rat~
+You sniff, and to your horrow, realize that this jerky is Rat Jerky!!!!
+Yeck.  At least it's not poisoning your stomache ... yet.
+~
+#10714
+razor~
+a bloody razor~
+A bloody razor is on the floor, ready to cut your feet.~
+~
+5 0 8193
+0 4 3 11
+5 50 0
+A
+19 1
+#10715
+match~
+a lit match~
+A lit match is here, ready to start a fire!~
+~
+3 64 16385
+5 5 5 5
+5 0 0
+#10716
+pill green~
+a green pill~
+A green pill is on the floor.~
+undefined~
+10 0 1
+2 19 4 44
+5 2000 0
+#10717
+pink pill~
+a pink pill~
+A pink pill is on the floor.~
+~
+10 0 1
+2 16 16 -1
+5 900 0
+#10718
+orange pill~
+an orange pill~
+An orange pill is on the floor.~
+~
+10 0 1
+2 43 33 54
+5 900 0
+#10719
+red pill~
+a red pill~
+A red pill is on the floor.~
+~
+10 0 1
+2 39 69 -1
+5 900 0
+#10720
+silver pill~
+a silver pill~
+A silver pill is on the floor.~
+~
+10 0 1
+2 38 16 -1
+5 900 0
+#10721
+spiked cudgel~
+a spiked cudgel~
+A spiked cudgel is on the floor here.~
+~
+5 0 8193
+0 4 3 7
+10 0 0
+A
+19 3
+#10722
+cape~
+a dark cape~
+A dark cape hangs here.~
+~
+9 64 1025
+3 0 0 0
+4 0 0
+A
+2 1
+#10723
+key a~
+key A~
+A small key is on the floor.~
+~
+18 0 1
+0 0 0 0
+5 880 0
+#10724
+key b~
+key B~
+A small key is on the floor.~
+~
+18 0 1
+0 0 0 0
+5 880 0
+#10725
+key c~
+key C~
+A key is on the floor.~
+~
+18 0 1
+0 0 0 0
+5 880 0
+#10726
+key d~
+key D~
+A small key is on the floor.~
+~
+18 0 1
+0 0 0 0
+5 880 0
+#10727
+key e~
+key E~
+A small key is on the floor.~
+~
+18 0 1
+0 0 0 0
+5 880 0
+#10728
+key f~
+key F~
+A small key is on the floor.~
+~
+18 0 1
+0 0 0 0
+5 880 0
+#10729
+key g~
+key G~
+A small key is on the floor.~
+~
+18 0 1
+0 0 0 0
+5 880 0
+#10730
+bed~
+a smelly bed~
+A smelly bed sits in this room.~
+~
+15 0 0
+50 0 0 0
+5 80 0
+#10731
+chair~
+a chair~
+A chair is here.~
+~
+5 0 24577
+0 2 2 8
+8 0 0
+A
+18 -4
+A
+19 10
+#10732
+bed~
+a smelly bed~
+A smelly bed sits in this room.~
+~
+15 0 0
+50 0 0 0
+5 0 0
+#10733
+desk~
+a desk~
+A desk sits in this room.~
+~
+15 0 0
+50 0 0 0
+5 0 0
+#10734
+shoes wildrunner \/\/ildrunner~
+\/\/ildrunner running shoes~
+A pair of spiffy running shoes hover magically here.~
+~
+9 67 65
+8 0 0 0
+5 0 0
+A
+2 2
+A
+5 -1
+A
+14 20
+#10735
+chair~
+a chair~
+A chair is here.~
+~
+15 0 0
+50 0 0 0
+5 0 0
+#10736
+chair~
+a chair~
+A chair is here.~
+~
+15 0 0
+50 0 0 0
+5 0 0
+#10737
+note scrap paper~
+a scrap of paper~
+A scrap of paper is stuck on the floor.~
+~
+16 0 1
+0 0 0 0
+1 0 0
+E
+note scrap paper~
+In a very sloppy script, this note reads,
+"This place is much more than you think it is.
+Just as Murky Land is a front for this illegal tavern,
+this illegal tavern is a front for something very very evil."
+
+					     - Ren the Sneak
+~
+#10738
+robe thin black~
+a thin black robe~
+A thin black robe lies on the floor here.~
+~
+9 576 1025
+11 0 0 0
+3 0 0
+A
+1 -1
+A
+3 1
+A
+4 1
+A
+12 10
+#10739
+black scroll~
+a black scroll~
+A black scroll is curled up here.~
+~
+2 64 1
+10 32 32 32
+1 1000 0
+#10740
+journal~
+portions of a journal~
+Some loose pages are here.~
+~
+16 0 1
+0 0 0 0
+1 500 0
+E
+journal~
+3rd day of MIssion --
+   It is incredible how much corruption is lurking underneath the seamingly
+friendly place called 'Murky Land'.  Whoever design such a friendly front
+for an illegal tavern frequent by murderers and thieves must be a genius.
+I have yet seen what's behind the door next to the tavern.  I'm sure the
+rooms there house more than just employees, considering the number of people
+going in and out of that door.  In 3 days here, I've seen 8 human-shaped 
+bundles hauled through that door already, and nothing coming out.  I need to
+get my hands on that skeleton key!
+
+4th day of Mission --
+   I wonder if it's my nerves or what, but I keep thinking I am being 
+watched and followed.  The shadows in this room seems to be moving, but
+I'm sure it's merely the trick of the candlelight.  5 more bundles were
+hauled through the employee door today, and I'm sure they are bodies or
+victims.  
+~
+#10741
+scroll prophecy~
+portions of The Scroll of Prophecy~
+An old scroll is on the floor.~
+~
+16 0 1
+0 0 0 0
+1 500 0
+E
+scroll prophecy~
+(places marked with XXXXX are places scratched out with a dark pen)
+
+And the God cast down KhXXXX from the Heavens, and spake, "Do not ever 
+return, my lost Son, and may you be cursed to dXXXXX XXXXXX XXXXX XXXXXX
+XXXXX XXXXX"  And KXXXXX did die, and as He died, He bled onto the Earth.
+But the blood of KhXXXX did not die, for it festered, and every XXXXX XXX,
+it will XXX XXXXXX XXXXX XXXXXX, and XXXXX will be rebXXXXX.  He will then
+XXXXXX upon the Earth, and he shall name XXXXXXX for his work, and they 
+will be so named XXXXXX.  
+
+as prophesized by XXXX XXXXXXXX of Thalos, in the year XXXXX XXXX
+~
+#10742
+scrap paper~
+a scrap of paper~
+A scrap of paper is on the floor.~
+~
+16 0 1
+0 0 0 0
+1 1000 0
+E
+scrap paper~
+There are many myths regarding the shadowlord.  To hear more about it, type
+'help shadowlord'.
+~
+#10743
+roast chicken food food food food~
+a roast chicken~
+A roast chicken is on the table.~
+~
+19 0 1
+20 0 0 0
+5 55 0
+#10744
+baked bread food food food food~
+baked bread~
+Some bread is on the table.~
+~
+19 0 1
+10 0 0 0
+5 55 0
+#10745
+slice lemon pie food food food food~
+a slice of lemon pie~
+A slice of lemon pie is on the table.~
+~
+19 0 1
+6 0 0 0
+1 550 0
+#10746
+ale pitcher~
+a pitcher of ale~
+A pitcher of ale is on the table.~
+~
+17 0 1
+30 30 3 0
+35 50 0
+#10747
+bowl soup~
+a bowl of soup~
+A bowl of soup is on the table.~
+~
+17 0 1
+5 5 23 0
+10 50 0
+#10748
+spear~
+a spear~
+A spear is leaning against the wall.~
+~
+5 0 8193
+0 1 12 7
+7 0 0
+A
+18 4
+#10749
+splintmail splint mail vest~
+splintmail vest~
+A splintmail vest is bundled here.~
+~
+9 0 9
+2 0 0 0
+12 0 0
+A
+5 1
+#10750
+shot vodka~
+a shot of vodka~
+A shot of vodka is on the counter.~
+undefined~
+17 0 1
+2 2 7 0
+7 77 0
+#10751
+shot rum~
+a shot of rum~
+A shot of rum is on the counter~
+undefined~
+17 0 1
+2 2 5 0
+7 70 0
+#10752
+shot whisky~
+a shot of whisky~
+A shot of whisky is on the counter.~
+~
+17 0 1
+3 3 5 0
+8 70 0
+#10753
+glass wine~
+a glass of wine~
+A glass of wine is on the counter.~
+~
+17 0 1
+5 5 2 0
+10 70 0
+#10754
+mug beer~
+a mug of beer~
+A mug of beer is on the counter.~
+~
+17 0 1
+6 6 1 0
+11 70 0
+#10755
+shot firebreather~
+a shot of firebreather~
+A shot of firebreather is here.~
+~
+17 0 1
+1 1 7 0
+1 70 0
+#10756
+shot local specialty~
+a shot of the local specialty~
+A shot of the local specialty is on the counter.~
+~
+17 0 1
+1 1 8 0
+1 70 0
+#10757
+dirk~
+a dirk~
+A thin dirk is on the floor.~
+~
+5 0 8193
+0 3 3 11
+5 0 0
+A
+18 1
+#10758
+key skeleton~
+a skeleton key~
+A skeleton key is on the floor.~
+~
+18 0 1
+0 0 0 0
+1 500 0
+#10759
+sabre~
+a sabre~
+You see a sabre.~
+~
+5 64 8193
+0 7 2 3
+5 0 0
+A
+1 2
+#10760
+shield square~
+a square shield~
+A square shield is on the floor.~
+~
+9 64 513
+8 0 0 0
+5 0 0
+A
+5 2
+#10761
+hidden panel~
+a hidden panel~
+You see a desk here.~
+~
+15 0 0
+50 1 0 0
+5 0 0
+E
+hidden panel~
+Wow, you are so happy you took the extra time to inspect this desk, or you
+never would have found this hidden panel!
+~
+#10762
+bracelet ivory~
+an ivory bracelet~
+You see an ivory bracelet here.~
+~
+9 1088 4097
+5 0 0 0
+2 0 0
+A
+3 1
+A
+12 10
+#10763
+statuette eagle~
+an eagle statuette~
+An eagle statuette stands proudly here.~
+~
+15 0 0
+50 4 0 0
+5 0 0
+#10764
+statuette eagle~
+an eagle statuette~
+An eagle statuette stands proudly here.~
+~
+15 0 0
+50 0 0 0
+5 0 0
+#10765
+statuette eagle~
+an eagle statuette~
+An eagle statuette stands proudly here.~
+~
+15 0 0
+50 0 0 0
+5 0 0
+#10766
+black key~
+a black key~
+You see a black key here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#10767
+shadow sword~
+a shadow sword~
+You see the silhouette of a sword here.~
+~
+5 576 8193
+0 4 5 3
+10 0 0
+A
+1 1
+A
+2 1
+A
+5 1
+#10768
+shadow vest~
+a shadow vest~
+You see a silhouette of a vest.~
+~
+9 576 9
+1 0 0 0
+5 0 0
+A
+2 1
+A
+5 1
+A
+13 20
+#10769
+shadow helm helmet~
+a shadow helm~
+You see the silhouette of a helmet here.~
+~
+9 576 17
+10 0 0 0
+5 0 0
+A
+3 1
+A
+4 1
+A
+12 10
+#10770
+shadow leggings~
+shadow leggings~
+You see the silhouette of leggings here.~
+~
+9 576 33
+5 0 0 0
+5 0 0
+A
+2 1
+A
+5 1
+#10771
+shadow boots~
+shadow boots~
+You see the silhouette of boots.~
+~
+9 576 65
+3 0 0 0
+5 0 0
+A
+2 2
+A
+14 50
+#10772
+shadow gauntlets~
+shadow gauntlets~
+You see the silhouette of some gauntlets here.~
+~
+9 576 129
+2 0 0 0
+5 0 0
+A
+1 1
+A
+2 1
+A
+18 2
+#10773
+shadow sleeves~
+shadow sleeves~
+You see the silhouette of some sleeves here.~
+~
+9 576 257
+5 0 0 0
+5 0 0
+A
+1 1
+A
+5 1
+A
+13 10
+#10774
+a shadow shield~
+a shadow shield~
+You see the silhouette of a shield here.~
+~
+9 576 513
+7 0 0 0
+5 0 0
+A
+5 2
+A
+18 2
+#10775
+black fang blackfang~
+blackfang~
+You see the silhouette of something sharp.~
+~
+5 608 8193
+0 6 5 11
+8 0 0
+A
+1 2
+A
+2 2
+A
+5 -10
+A
+18 7
+A
+19 7
+#10776
+shadow orb~
+the Shadow Orb~
+You see the silhouette of a small globe.~
+~
+4 576 16385
+30 20 20 2
+5 0 0
+A
+3 2
+A
+4 2
+A
+12 30
+#10777
+gold coins treasure~
+a large pile of coins~
+A large pile of coins is on the floor.~
+~
+20 0 1
+30000 0 0 0
+30 0 0
+#10778
+acid jar~
+a jar of acid~
+A jar of acid is on the floor.~
+undefined~
+3 64 16385
+20 5 5 102
+5 0 0
+#10779
+torch~
+a magical torch~
+An everburning torch is here.~
+undefined~
+3 64 16385
+15 5 5 26
+5 0 0
+#10780
+staff despair~
+staff of Despair~
+A dark staff is on the floor.~
+~
+5 576 8193
+0 4 7 7
+15 0 0
+A
+1 2
+A
+5 -8
+A
+18 5
+A
+19 5
+#10781
+cloak shadows~
+cloak of Shadows~
+The silhouette of a cloak can be barely seen.~
+undefined~
+9 576 1025
+9 0 0 0
+5 0 0
+A
+2 2
+A
+17 -30
+F
+262144 0 0
+#10782
+scroll~
+a scroll~
+A scroll has been carelessly left here.~
+~
+13 0 1
+0 0 0 0
+1 0 0
+E
+scroll~
+My subjects:
+   I wish the following places destroyed so that traces of our origin will 
+not be found.
+
+Catacombs below the chapel
+Catacombs below the dwarven kingdom
+Plains north of Midgaard
+
+The destruction of these places is very crucial to our existence, so do not
+tarry in this deed.
+
+--The Shadow Lord
+~
+#10783
+scroll~
+a scroll~
+A scroll has been carelessly left here.~
+~
+13 0 1
+0 0 0 0
+5 0 0
+E
+scroll~
+My Subjects:
+   There exist certain people on this realm who know too much regarding
+the identity of myself and my Shadow Demons.  You are to find them and 
+bring them to me, so that I may personally destroy them.
+
+The following are the people I want brought to me:
+The old man on the beach before Shaolin Temple
+The fanatic priest of old Thalos
+
+Please fulfill this deed swiftest.
+
+--The Shadow Lord
+~
+#10784
+bubbly red potion~
+a bubbly red potion~
+A bubbly red potion is on the table.~
+~
+10 64 1
+18 70 67 -1
+2 0 0
+#10785
+ice blue potion~
+an ice blue potion~
+An ice blue potion is on the table.~
+~
+10 64 1
+10 3 1 70
+2 0 0
+#10786
+dark orange potion~
+a dark orange potion~
+A dark orange potion is on the table.~
+~
+10 64 1
+10 114 -1 -1
+2 0 0
+#10787
+scroll rage~
+a scroll of rage~
+A scroll is on the table here.~
+~
+2 64 1
+10 4 17 33
+1 0 0
+#10788
+scroll fire~
+a scroll of fire~
+A scroll is on the table.~
+~
+2 64 1
+10 113 26 -1
+1 0 0
+#10789
+scroll curing~
+a scroll of curing~
+A scroll of curing is here.~
+~
+2 64 1
+10 14 35 43
+1 0 0
+#10790
+shadow pike~
+a shadow pike~
+A long, slim shadow is against the wall.~
+~
+5 576 8193
+0 1 10 7
+5 0 0
+A
+1 2
+A
+18 -5
+A
+19 12
+#10791
+shadow whip~
+a shadow whip~
+A shadow of some rope is on the floor.~
+~
+5 576 8193
+0 2 6 2
+5 0 0
+A
+18 3
+A
+19 3
+$~

@@ -1,0 +1,137 @@
+CircleMUD v3.0 Shop File~
+#1101~
+1110
+648
+649
+650
+-1
+1.50
+0.50
+17
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+1113
+0
+1116
+-1
+0
+23
+0
+0
+#1102~
+1111
+1112
+-1
+1.50
+0.50
+13
+5
+15
+1
+17
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+1118
+0
+1105
+-1
+0
+23
+0
+0
+#1103~
+1103
+-1
+1.50
+0.50
+13
+5
+15
+1
+17
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+1119
+0
+1121
+-1
+0
+23
+0
+0
+#1104~
+-1
+1.50
+0.50
+9
+5
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+1120
+0
+1107
+-1
+0
+23
+0
+0
+#1105~
+1110
+648
+649
+650
+-1
+1.50
+0.50
+17
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+1130
+0
+1144
+-1
+0
+23
+0
+0
+$~

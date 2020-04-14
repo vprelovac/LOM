@@ -1,0 +1,131 @@
+#1801
+gnome busy~
+the busy gnome~
+The busy gnome shuffles past you.
+~
+The weather does not phase him in the least.  She is ready
+to defend himself to the death.  There is a glazed look
+about her eyes.
+~
+68 262144 100 E
+16 10 0 5d4+276 3d6+6
+3000 -100
+8 8 2
+E
+#1802
+gnome guard~
+the gnome guard~
+The gnome guard stands at attention.
+~
+There is a glazed look about her eyes.
+~
+4098 262144 100 E
+20 9 -2 6d6+389 4d4+10
+5000 -100
+8 8 2
+E
+#1803
+bear giant polar~
+the giant polar bear~
+The giant polar bear doesn't like you disturbing her sleep.
+~
+She blends with the snow.
+~
+34 524296 0 E
+24 8 3 6d10+400 20d2+1
+10000 -100
+8 8 2
+E
+#1804
+dragon white~
+the white dragon~
+The white dragon glares at you.
+~
+He is an enormous, mature dragon, ready to freeze you.
+~
+2 128 -1000 E
+25 5 -4 25d4+529 5d4+13
+50000 -100
+8 8 1
+E
+#1805
+dragon blue~
+the blue dragon~
+The blue dragon dislikes being here.
+~
+She is an enormous, mature dragon, with an attitude
+to match her electric blue scales.
+~
+32 136 -1000 E
+26 -5 -100 25d4+600 4d10+10
+75000 -100
+8 8 2
+E
+#1806
+queen snow~
+the Snow Queen~
+The Queen of Snows did not invite you to be here.
+~
+Dressed in all white, she almost charms you with her placidness.
+~
+2 128 0 E
+33 -10 -100 3d10+2000 15d3+15
+50000 -100
+8 8 2
+E
+#1807
+giant frost guard~
+the cold frost giant~
+The frost giant guard is ready for intruders.
+~
+He's blue, and he doesn't really like gnomes
+but they keep him fed.
+~
+4 8 0 E
+20 0 -65 6d4+370 3d8+10
+3000 -100
+8 8 1
+E
+#1808
+mistress white~
+the white mistress~
+The white mistress leaps and shouts "Intruder!"
+~
+She is a fanatical servant to the Snow Queen.
+~
+38 40 -500 E
+20 5 -66 100d4+50 5d4+10
+14000 -100
+8 8 2
+E
+#1809
+master herbal~
+the master herbal~
+The master herbal is playing with her mints.
+~
+She is too busy to consider you.
+~
+2 32 0 E
+20 0 -66 4d100+75 3d6+3
+10000 -100
+8 8 2
+E
+#1810
+thief~
+the thief~
+A thief is here, sneaking between the shadows.
+~
+He REALLY likes your money!
+~
+128 262144 -500 E
+7 13 3 7d7+77 2d3+3
+10 -100
+8 8 1
+Class: 4
+Dex: 19
+E
+$
+
+
+
+Mob special remarks

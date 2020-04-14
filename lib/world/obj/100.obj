@@ -1,0 +1,221 @@
+#10001
+turtle dragon shell~
+turtle Dragon Shell~
+A giant Turtle dragon shell lies here.~
+~
+9 1 1025
+14 0 0 0
+20 0 0
+E
+turtle dragon shell~
+This is the giant shell of a Turtle dragon.
+~
+#10002
+farmers scythe~
+farming scythe~
+A farming scythe lies here.~
+~
+5 0 8193
+0 5 2 5
+10 0 0
+E
+farming scythe~
+This scythe is used by the farmers to harvest their wheat.
+~
+#10003
+blue crystal staff~
+a blue crystal staff~
+A blue crystal staff lies here.~
+~
+4 3136 16385
+10 20 20 15
+5 0 0
+E
+blue crystal staff~
+This staff is carved from a single piece of blue crystal. It is about five feet
+long and has a two-inch-diameter shaft. The ornamentally bladed head of
+the staff bears a gem in its center.
+~
+#10004
+bright silver bracer~
+a bright silver bracer~
+A bright silver bracer lies here.~
+~
+9 512 4097
+7 0 0 0
+7 0 0
+E
+bright silver bracer~
+This is a bright silver bracer fitted with four gems. The inside of the
+band is engraved, "Firehawk, warrior of Que-shu"
+~
+A
+1 1
+A
+13 5
+A
+14 15
+#10005
+fire pit~
+fire pit~
+There is a fire pit here, still smoldering.~
+~
+15 0 0
+10000 0 0 0
+0 0 0
+E
+fire pit~
+This is the smoldering fire pit of whomever's camp this was.
+~
+#10006
+house key ~
+house key~
+There is a house key on the ground.~
+~
+18 0 1
+0 0 0 0
+2 0 0
+E
+house key~
+This looks like someones house key.
+~
+#10007
+coathanger~
+coathanger~
+There is a coathanger on the ground.~
+~
+18 0 1
+0 0 0 0
+2 0 0
+E
+coathanger~
+It looks like a coathanger...duh....
+~
+#10008
+silver longsword~
+silver longsword~
+There is a silver longsword on the ground.~
+~
+5 1024 8193
+0 5 3 3
+7 0 0
+E
+silver longsword~
+This silver longsword looks as if it has seen many battles.
+~
+A
+13 20
+A
+24 5
+#10009
+farmer longjohns~
+a farmer's longjohns~
+A pair of farmers longjohns are lying here.~
+~
+9 0 9
+5 0 0 0
+2 20 0
+E
+longjohns~
+Its a pair of longjohns....the kind a farmer would wear.
+~
+#10010
+ancient coins gold~
+a heap of ancient gold coins~
+Some ancient gold coins lie piled up in a heap on the shipwreck maybe?~
+~
+20 0 1
+1000 0 0 0
+0 0 0
+E
+coins~
+The coins seem to be gold.  From a spanish shipwreck maybe?
+~
+#10011
+ancient coins gold~
+a heap of ancient gold coins~
+Some ancient gold coins lie piled up in a heap on the floor.~
+~
+20 0 1
+1000 0 0 0
+0 0 0
+E
+coins~
+The coins seem to be gold.  From a spanish shipwreck maybe?
+~
+#10012
+grain~
+some grain~
+There is some grain here.~
+~
+15 0 1
+2 0 0 0
+5 100 0
+#10013
+leather armor~
+leather armor~
+There is a suit of leather armor on the ground.~
+~
+9 0 9
+2 0 0 0
+5 100 0
+#10014
+chamorro dagger~
+chamorro Dagger~
+There is a chamorro dagger lying here.~
+~
+5 0 24577
+0 6 3 11
+5 0 0
+E
+chamorro dagger~
+a chamorro dagger what else? It is engraved with, "Made in Guam"
+~
+A
+2 1
+A
+6 2
+A
+19 3
+#10015
+Footman's Lance~
+a Footman's lance~
+There is a long wicked looking pole arm lying here.~
+~
+5 0 8193
+0 3 5 7
+20 0 0
+E
+footmans lance~
+This is a long pole arm with detailed engravings on the shaft. The blade at the
+end of the pole is formed in various hooks and spikes, to maximize the amount
+of damage inflicted...
+~
+#10016
+Humanskin vest~
+a Humanskin vest~
+A large pile of skin is lying here.~
+~
+9 0 9
+7 0 0 0
+10 0 0
+E
+Human skin vest~
+This vest is made of multiple layers of human skin stitched together.
+~
+#10017
+draconian helmet~
+a draconian helmet~
+A helmet made of leather and iron lies here.~
+~
+9 0 17
+4 0 0 0
+4 0 0
+E
+draconian helmet~
+This is a crudly constructed leather helmet, held together with large
+ iron bands.
+~
+A
+23 -5
+$

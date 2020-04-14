@@ -1,0 +1,104 @@
+#19800
+youth dwarven dwarf~
+the dwarven youth~
+A young dwarf plays with a toy axe.
+~
+This is a young but not totally harmless creature.
+~
+cg 0 -5 S
+3 17 6 1d4+30 1d4+3
+50 0
+8 8 1
+#19801
+teddy bear~
+a teddy bear~
+A cute and fuzzy teddy bear stands here.
+~
+This is a tiny little bear with a heart on his chest.
+~
+cg 0 500 S
+1 19 9 1d10+10 1d4+1
+75 0
+8 8 1
+#19802
+doll raggedy anne~
+a raggedy anne doll~
+A raggedy anne doll is sitting here.
+~
+You see a small little cute rag doll.
+~
+cg 0 300 S
+2 18 9 2d5+19 1d5+1
+250 0
+8 8 2
+#19803
+soldier toy~
+a toy soldier~
+A toy soldier is standing here.
+~
+The toy is looking for target practice.
+~
+cg 0 -300 S
+3 18 7 3d5+26 2d3+2
+400 0
+8 8 1
+#19804
+bear ugly~
+the ugly bear~
+An ugly stuffed bear stands here.
+~
+This is obviously a reject from the factory.
+He snarls and growls at you.
+~
+cg 0 -400 S
+3 17 6 3d4+25 1d5+2
+100 0
+8 8 1
+#19805
+doll old~
+an old doll~
+An abused and old doll is here.
+~
+This doll has been hugged and played with until there is almost nothing left.
+~
+cg 0 -2 S
+1 20 10 1d10+1 1d4+2
+50 0
+8 8 0
+#19806
+nanny~
+the nanny~
+An old wrinkled nanny stands here, looking over the little ones.
+~
+You see an old dwarven lady who has been hunched over with age.  However, it
+appears that there is still some fight left in her.
+~
+g 0 10 S
+5 16 6 4d4+50 1d8+2
+750 0
+8 8 2
+#19807
+guard~
+the armed guard~
+An armed guard stands here looking lost.
+~
+This is a big mean bully who is tired of being lost in this maze.
+You suddenly think that you had better flee.
+~
+bcg d -800 S
+8 9 2 3d10+100 3d5+2
+2000 0
+8 8 1
+#19808
+brat spoiled~
+the spoiled brat~
+A spoiled brat is crying here.
+~
+You see a little tyke who has always gotten what he wanted.  You have the
+biggest urge to put him out of his misery.
+~
+bcg 0 -400 S
+1 18 9 2d4+15 2d2+1
+2000 0
+8 8 1
+$~

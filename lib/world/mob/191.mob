@@ -1,0 +1,165 @@
+#19101
+smurf~
+a smurf~
+A smurf is singing and walking along.
+~
+A cute little blue smurf with a white hat and white boots.  You have a sudden
+urge to crush him.
+~
+192 0 400 E
+1 19 8 10d2+2 1d2+1
+20 -100
+8 8 1
+E
+#19102
+smurf~
+a smurf~
+A smurf is here, picking berries.
+~
+A small smurf is quietly picking berries.  He seems to hardly notice you.
+~
+130 0 400 E
+1 19 8 2d5+20 1d2+1
+20 -100
+8 8 1
+E
+#19103
+brainy smurf~
+Brainy Smurf~
+Brainy Smurf is here, mumbling something to himself.
+~
+Brainy Smurf has on his usual glasses.  Brainy Smurf isn't liked much by the
+other smurfs.  They fear his knowledge.  Knowledge is power!
+~
+192 0 400 E
+3 17 10 3d10+14 1d4+1
+30 -100
+8 8 1
+E
+#19104
+handy smurf~
+Handy Smurf~
+Handy Smurf is building something here.
+~
+Handy is always building something.  He never takes a break.  Why don't you
+give him a break, like all of his bones.
+~
+192 0 400 E
+3 19 7 3d10+14 1d4+1
+30 -100
+8 8 1
+E
+#19105
+sleepy smurf~
+Sleepy Smurf~
+Sleepy Smurf is sleep walking here.
+~
+Sleepy never gets enough sleep.  You would think he goes to college.  I wonder
+if he has ever stayed up a whole night without sleeping.
+~
+192 0 400 E
+3 16 7 3d10+14 1d4+1
+30 -100
+8 8 1
+E
+#19106
+hefty smurf~
+Hefty Smurf~
+Hefty Smurf is lifting weights here.
+~
+Hefty is a total health nut.  He lifts weights, eats right, and exercises all
+the time.  Won't do him much good when he's DEAD.
+~
+4288 0 400 E
+3 18 7 3d10+14 1d4+1
+30 -100
+8 8 1
+E
+#19107
+grumpy smurf~
+Grumpy Smurf~
+Grumpy Smurf is here, swearing.
+~
+Grumpy has never been happy in his whole life.  So why don't you just end it?
+~
+192 0 400 E
+3 18 6 3d10+14 1d4+1
+30 -100
+8 8 1
+E
+#19108
+jokey smurf~
+Jokey Smurf~
+Jokey Smurf is here, holding a present.
+~
+Jokey loves to give people presents.  Too bad the present explodes when opened.
+Oh well, to each his own.
+~
+192 0 400 E
+3 20 6 3d10+14 1d4+1
+30 -100
+8 8 1
+E
+#19109
+smurfette smurf~
+Smurfette~
+Smurfette is here, looking beautiful.
+~
+Smurfette is the cutest little smurf you've ever seen.  If only she were your
+size.  I wonder how much she charges the other smurfs.
+~
+196 0 400 E
+3 17 6 3d10+14 1d4+1
+30 -100
+8 8 2
+E
+#19110
+papa smurf~
+Papa Smurf~
+Papa Smurf is practicing magic here.
+~
+Yep, its Papa Smurf all right.  Red hat and boots and the funny little white
+beard.  Papa Smurf treats his fellow smurfs with dignity and respect.  That
+is why Papa Smurf is so popular among the ladies.
+~
+192 0 1000 E
+10 10 0 10d10+50 2d2+12
+50 -100
+8 8 1
+Class: 2
+Int: 18
+Wis: 18
+E
+#19111
+gargamel~
+Gargamel~
+Gargamel is here, cursing out the smurfs.
+~
+Gargamel has never done anything right in his life.  He has caught smurfs
+before but always lets them escape.  He brings true meaning to the word moron.
+~
+130 0 -1000 E
+10 10 0 10d10+50 2d2+12
+50 -100
+8 8 1
+Class: 1
+Int: 18
+E
+#19112
+azreal cat~
+Azreal~
+Azreal is here, licking himself.
+~
+Gargamel's worthless cat.  He is just about as dumb as Gargamel.  He should
+just grab a smurf in his teeth and chew away.
+~
+130 0 -400 E
+8 12 2 8d8+80 1d4+5
+20 -100
+8 8 1
+E
+$
+
+
+
+Mob special remarks

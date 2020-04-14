@@ -1,0 +1,168 @@
+CircleMUD v3.0 Shop File~
+#601~
+600
+601
+615
+667
+-1
+1.20
+0.80
+5
+9
+15
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+604
+0
+603
+-1
+0
+23
+0
+0
+#602~
+616
+617
+618
+619
+-1
+1.20
+0.80
+9
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+605
+0
+604
+-1
+0
+23
+0
+0
+#603~
+606
+607
+608
+-1
+1.20
+0.80
+8
+12
+13
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+606
+0
+606
+-1
+0
+23
+0
+0
+#604~
+602
+603
+604
+605
+-1
+1.20
+0.10
+19
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+607
+0
+607
+-1
+0
+23
+0
+0
+#605~
+609
+610
+611
+612
+613
+-1
+1.20
+0.10
+17
+19
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+608
+0
+610
+-1
+0
+23
+0
+0
+#606~
+648
+649
+650
+-1
+1.20
+0.10
+17
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+622
+0
+609
+-1
+0
+23
+0
+0
+$~

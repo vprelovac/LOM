@@ -1,0 +1,469 @@
+#4400
+ticket clerk~
+the Ticket Clerk~
+The Ticket Clerk extends his hand for your money.
+~
+The ticket clerk is bored, but is not so bored that he really wants to talk 
+to you.  So are you going to buy a ticket or what????
+~
+57354 0 250 E
+31 0 -8 1d8+845 1d10+25
+8 0
+8 8 1
+E
+>greet_prog  50~
+say Buy tickets here!
+~
+|
+#4401
+child small~
+a small child~
+A small child waits in line for the Big Top.
+~
+He is standing in line, whining and complaining that his feet hurt.  Why 
+don't you put him out of your misery?
+~
+10 0 1000 E
+1 17 12 1d8+5 1d10+0
+14 0
+8 8 1
+E
+#4402
+dad father man~
+the child's father~
+The child's father is here.
+~
+The child's father seems irked that you have been pushing past the others 
+in line.
+~
+10 0 0 E
+5 17 7 1d8+52 1d10+0
+34 0
+8 8 1
+E
+>rand_prog  15~
+emote looks at his watch.
+~
+|
+#4403
+woman mother mom~
+the child's mother~
+The child's mother stands here, patiently waiting in line.
+~
+The mother is tired of taking care of her son, and wishes she was in a bubble
+bath at home right now.
+~
+10 0 0 E
+3 14 7 1d8+26 1d10+0
+12 0
+8 8 2
+E
+#4404
+bobby boy~
+little Bobby~
+Little Bobby is lost, and is looking for his mommy.
+~
+Bobby is scared, he should never have ran off to look at the Bearded Lady.
+Besides being lost, he is now psychologically scarred.
+~
+24780 0 1000 E
+1 18 9 1d8+5 1d10+0
+8 0
+8 8 1
+E
+>rand_prog  10~
+shout Mommy!
+cry
+~
+>act_prog  p The child's mother arrives~
+say Oh, mommy! There you are!
+emote hugs his mother.
+~
+|
+#4405
+mother woman~
+Bobby's mother~
+Bobby's mother is here, frantically calling out her son's name.
+~
+Bobby's mother is looking quite worried.  If you see Bobby, you will tell her,
+won't you?
+~
+24780 0 1000 E
+3 16 6 1d8+26 1d10+0
+8 0
+8 8 2
+E
+>rand_prog  10~
+shout Bobby! Where are you?
+~
+>greet_prog  33~
+say Did you see my little son?
+~
+>act_prog  p Little Bobby arrives~
+say Bobby! Oh, I've been so worried.
+hug bobby
+~
+|
+#4406
+bearded lady~
+the Bearded Lady~
+The Bearded Lady is here.
+~
+The Bearded Lady is kind of scary looking.  She looks at you with lust in her
+eyes.   RUN!!!!
+~
+10 0 0 E
+5 18 6 1d8+52 1d10+0
+324 0
+8 8 2
+E
+>greet_prog  40~
+say What are you looking at?
+~
+|
+#4407
+Illusionist mage~
+the Illusionist~
+The Illusionist is here, doing tricks to amaze the crowd.
+~
+He puts on quite a show.  If you couldn't see the wires on half of his 
+creations, you might actually be amazed.
+~
+10 40 0 E
+6 17 8 1d8+100 1d10+0
+250 0
+8 8 1
+Int: 18
+E
+#4408
+midget~
+the Midget~
+A Midget is here, doing acrobatics to amuse the crowd.
+~
+The Midget acts very silly, but you see a cunning gleam in his eye.  This is 
+one to watch out for.
+~
+142 512 -300 E
+3 15 10 1d8+26 1d10+0
+122 0
+8 8 1
+E
+#4409
+Ivan strongman man strong~
+Ivan~
+Ivan the Strongman poses for the crowd.
+~
+Ivan really is an impressive figure of a man.  You will want to think twice
+before tangling with him.
+~
+78 8396800 100 E
+13 3 3 5d8+183 2d10+5
+0 0
+8 8 1
+Str: 25
+E
+#4410
+swallower~
+the Sword Swallower~
+The Sword Swallower is in the act of swallowing an entire bastard sword.
+~
+This guy has eaten more swords than you have even seen.  He probably knows how
+to use his sword as well.
+~
+10 0 0 E
+1 20 11 1d8+5 1d10+0
+0 0
+8 8 1
+E
+#4411
+member audience~
+a member of the audience~
+A member of the audience goes "Ooooh!   Ahhhhh!" 
+~
+This person is so interested in the show, he doesn't even realize you are here.
+~
+142 0 0 E
+1 17 11 1d8+5 1d10+0
+10 0
+8 8 1
+E
+#4412
+clown red~
+a red-nosed clown~
+A red-nosed clown is ready to throw a pie in your face.
+~
+The clown is laughing and throwing pies, and generally being a nuisance.  
+He turns towards you with a pie.  DUCK!
+~
+142 0 500 E
+1 17 8 1d8+5 1d10+0
+8 0
+8 8 1
+E
+#4413
+clown big~
+a clown with big shoes~
+A clown with big shoes is trying to get into a small car.
+~
+The clown is trying to fit his shoes into the carriage.  It will be a tight 
+fit.
+~
+142 0 500 E
+3 15 10 1d8+26 1d10+0
+8 0
+8 8 1
+E
+#4414
+clown big~
+a big clown~
+A big clown is getting ready to throw confetti at you.
+~
+The big clown has a bucket full of confetti.  Or is it water?  Better stay 
+away from him until you know.
+~
+142 0 300 E
+5 14 8 1d8+52 1d10+0
+8 0
+8 8 1
+E
+#4415
+ringmaster master~
+the Ringmaster~
+The Ringmaster is introducing the next act.
+~
+The Ringmaster is dressed in a red coat, and is wearing a big black top hat.
+He was probably hired because he has a voice you could hear over a roaring 
+dragon (which, incidently, is the next act).
+~
+14 8192 0 E
+10 12 7 1d8+138 1d10+4
+560 0
+8 8 1
+E
+#4416
+thrower~
+the knife thrower~
+The knife thrower is getting ready to throw 4 knifes at his assistant.
+~
+He is getting ready to put on a blind fold.  He has spent years of practice, 
+and is completely confident in his skills.  He also has a handkerchief he keeps
+wiping his face with.  You here him mumble, 'maybe I shouldn't have stopped 
+by the Grunting Boar before my act'.
+~
+14 0 0 E
+4 18 9 1d8+38 2d10+0
+0 0
+8 8 1
+E
+#4417
+assistant~
+the knife thrower's assistant~
+The knife thrower's assistant is asleep against the target.
+~
+The assistant dreams a drugged sleep.  It seems she thought she would be 
+helping with the animals, until a slight mishap last night during the knife
+throwers rehearsal last night.  She did wonder why the dashing knife thrower
+invited her out to dinner.
+~
+10 131072 0 E
+1 20 10 1d8+5 1d10+0
+0 0
+8 8 1
+E
+#4418
+tamer~
+the lion tamer~
+The lion tamer is putting his head in a lion's mouth.
+~
+He is a dashing man, who seems at home with the deadly beasts.  He controls 
+the animals with whip and force of mind.
+~
+10 8388608 500 E
+8 12 8 1d8+100 1d10+2
+0 0
+8 8 1
+E
+#4419
+lion~
+a ferocious Lion~
+A ferocious Lion leaps from his stand to attack you!
+~
+This is the King of the Beasts, and you understand why as he tears a chunk of 
+flesh from your body!
+~
+46 0 -1000 E
+8 12 4 1d8+100 1d10+2
+0 0
+8 8 0
+E
+#4420
+walker tightrope~
+a tightrope walker~
+A tightrope walker balances on the wire.
+~
+The only way past him seems to be to push him off.  You wouldn't do that,
+would you?  
+~
+14 0 200 E
+5 14 8 1d8+52 1d10+0
+0 0
+8 8 1
+E
+#4421
+keeper~
+an animal keeper~
+An animal keeper is here, taking care of the animals.
+~
+She loves her work, and takes good care of the animals, despite the cheap 
+supplies bought for them by the Circus Owner.
+~
+72 8192 1000 E
+3 14 8 1d8+26 1d10+0
+0 0
+8 8 1
+E
+#4422
+elephant~
+an elephant~
+An elephant nudges you with his trunk, asking for peanuts.
+~
+This is a gigantic animal!  But he seems pretty docile.  Good thing.  You 
+probably would not want to get him angry.
+~
+10 0 0 E
+10 14 6 1d8+138 1d10+4
+0 0
+8 8 0
+E
+#4423
+bear~
+a trained bear~
+The trained bear hasn't been fed in a week.  Look out!
+~
+The bear hasn't been fed for a long time.  The Circus Owner figures he can
+save a lot of money buy feeding the bear on unwary adventurers like yourself.
+~
+42 0 0 E
+6 16 8 1d8+66 1d10+0
+0 0
+8 8 0
+E
+#4424
+horse~
+a horse~
+A trained horse is here, prancing in anticipation.
+~
+The horse has been trained by the bare back rider.  These are magnificent 
+animals, although they look like they could use more food.  More evidence 
+of the cheapness of the Circus Owner.
+~
+10 0 0 E
+4 15 8 1d8+38 1d10+0
+0 0
+8 8 0
+E
+#4425
+unicorn horse white~
+a poor horse~
+A poor white horse is here, about to have a horn implanted in it's head.
+~
+This poor animal had the unfortunate luck of being white.  Just what the 
+Circus Owner was looking for.
+~
+10 0 0 E
+3 16 9 1d8+26 1d10+0
+0 0
+8 8 0
+E
+#4426
+owner~
+the Circus Owner~
+The greedy Circus owner is about to cut into the poor horse.
+~
+This man has no scruples.  When the Owner got the thought of putting a horn on
+a regular horse and passing it off as a Unicorn, he almost wet his pants with
+delight.  This man is in trouble if the ASPCA ever finds out, but until then,
+he will probably keep making a LOT of money.
+~
+142 0 -1000 E
+12 10 3 1d8+182 1d10+6
+1000 0
+8 8 1
+E
+#4427
+vendor~
+the cotton candy vendor~
+The cotton candy vendor waits to take your money.
+~
+He is wearing a colorful pair of overalls and a bright painter's cap.  He
+makes cotton candy in a big tub, where all the kids can watch him.
+~
+10 0 1000 E
+7 13 8 1d8+83 1d10+1
+8 0
+8 8 1
+E
+#4428
+Illusionist mage~
+the Illusionist~
+The Illusionist is here, doing tricks to amaze the crowd.
+~
+He puts on quite a show.  If you couldn't see the wires on half of his 
+creations, you might actually be amazed.
+~
+42 40 0 E
+3 15 9 1d8+26 1d10+0
+45 0
+8 8 1
+Int: 18
+E
+#4429
+dog guard~
+a guard dog~
+A guard dog growls at you, then attacks.
+~
+He looks like he has been purposely abused to keep him mean.  Maybe if you 
+gave him a pie, he would be your friend?
+~
+46 40 -500 E
+4 17 6 1d8+38 1d10+0
+0 0
+8 8 0
+E
+#4430
+burly worker~
+a burly worker~
+A burly worker coming to the aid of the Circus Owner.
+~
+The burly worker has sweat dripping off of every inch of his body.
+~
+42 0 -1000 E
+8 16 6 1d8+100 1d10+2
+500 0
+8 8 1
+E
+#4450
+chef~
+Binky's chef~
+Binky's chef stands here, ready to carve the turkey.
+~
+undefined~
+10 0 0 E
+18 9 1 1d8+342 1d10+12
+5000 0
+8 8 1
+E
+#4451
+midget thief~
+the Midget~
+A Midget is here, stealing money from the crowd.
+~
+The Midget is very good at his trade, and makes quit a bit of money buy picking
+pockets of the unwary. 
+~
+72 512 -900 E
+3 17 10 1d8+26 1d10+0
+23 0
+8 8 1
+E
+$

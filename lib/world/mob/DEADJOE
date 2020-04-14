@@ -1,0 +1,336 @@
+
+*** Modified files in JOE when it aborted on Thu Jan  1 01:00:00 1970
+*** JOE was aborted by signal 1
+
+*** File '0.mob'
+#1
+Puff dragon fractal puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+Is that some type of differntial curve involving some strange, and
+unknown calculus that she seems to be made out of?
+~
+253961 33800 1000 E
+26 -11 -1 5d10+550 4d6+3
+10000 0
+8 8 2
+BareHandAttack: 12
+Str: 18
+Dex: 17
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+#10
+clone~
+the clone~
+A boring old clone is standing here.
+~
+This clone is nothing to look at.  No, really, it is quite boring.
+~
+10 0 0 E
+1 -12 0 0d0+0 4d6+0
+0 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#11
+zombie undead humanoid~
+the zombie~
+A strange humanoid is here.  How odd, its flesh seems to be falling off!
+~
+This strange humanoid is moving rather slowly, and appears to be
+a corpse, a walking corpse!  It must be a zombie or something of
+the sort.
+~
+11 1024 0 E
+22 -10 0 0d0+0 0d0+0
+242 0
+8 8 0
+BareHandAttack: 7
+Str: 18
+Dex: 17
+Int: 16
+Wis: 17
+Con: 16
+Cha: 16
+E
+>entry_prog    5~
+if rand(50)
+	say Where am I now?
+	ponder
+else
+	emote sniffs to see what smells so bad
+endif
+~
+>death_prog    100~
+say Oh, no... Not again!
+~
+|
+#19
+aerial servant shape aerial_servant~
+the aerial servant~
+An amorphous shape is floating in the air.
+~
+As you stare at this amorphous shape, it begins to appear to take
+the shape of a cloud-like humanoid.
+~
+2122 786442 -850 E
+6 4 3 3d5+62 2d4+0
+18 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+E
+#19
+aerial servant shape aerial_servant~
+the aerial servant~
+An amorphous shape is floating in the air.
+~
+As you stare at this amorphous shape, it begins to appear to take
+the shape of a cloud-like humanoid.
+~
+2122 786442 -850 E
+6 4 3 3d5+62 2d4+0
+18 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+#19
+aerial servant shape aerial_servant~
+the aerial servant~
+An amorphous shape is floating in the air.
+~
+As you stare at this amorphous shape, it begins to appear to take
+the shape of a cloud-like humanoid.
+~
+2122 786442 -850 E
+6 4 3 3d5+62 2d4+0
+18 0
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 15
+Con: 14
+Cha: 12
+#20
+elemental~
+the elemental~
+A huge elemental is standing patiently here.
+~
+This creature is the essence of the elements, and appears to be
+waiting patiently for something to occur.
+~
+10 32 0 E
+19 -10 0 0d0+0 0d0+0
+180 0
+8 8 0
+Str: 16
+Dex: 14
+Int: 16
+Wis: 15
+Con: 16
+Cha: 16
+E
+#21
+demon~
+the demon~
+A demon is standing patiently here.
+~
+A creature obviously not from this world. It looks very mean and dangerous.
+~
+10 1056 -1000 E
+24 -10 0 0d0+0 0d0+0
+288 0
+8 8 0
+Str: 18
+Dex: 17
+Int: 16
+Wis: 17
+Con: 18
+Cha: 18
+E
+>entry_prog    10~
+muha
+~
+|
+#22
+dragon green~
+a huge green dragon~
+A huge green dragon is here, its narrow yellow eyes glowing with rage.
+~
+This enormous winged serpent has dark green scales covering most of its
+colossal body.  Numerous holes in its heavy wings tell of many fights as
+does the nicks in the horns on its head.  It smells as disgusting as only
+dragons do.
+~
+11 4195368 0 E
+36 -8 -6 20d20+500 5d5+20
+648 0
+8 8 0
+BareHandAttack: 8
+Str: 20
+Dex: 16
+Int: 18
+Wis: 17
+Con: 20
+Cha: 20
+E
+>rand_prog    3~
+emote claps its huge wings.
+~
+|
+#30
+innkeeper~
+the Immortal Innkeeper~
+The Immortal Innkeeper is organizing her books here.
+~
+She appears to be having no problem tallying things up.
+~
+11 32768 0 E
+30 -12 -10 1d49+901 4d8+5
+450 0
+8 8 2
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#31
+postmaster master post~
+the Immortal Postmaster~
+The Immortal Postmaster is hard at work here.
+~
+Scary... a postal worker... working?
+~
+11 32768 0 E
+30 -12 -10 1d49+901 4d8+5
+450 0
+8 8 2
+Str: 20
+Dex: 18
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#32
+being amorphous spirit wandering~
+the wandering spirit~
+A strange amorphous being wanders these halls eternally cleaning.
+~
+This spirit, having lived out its days in the mortal world, now
+works off its final sins by doing menial labour in this realm's
+purgatory.  In this case, those chores seem to be cleaning up
+after the immortals of the land.
+~
+65613 295944 0 E
+30 -12 -10 1d49+901 4d8+5
+450 0
+8 8 0
+Str: 20
+Dex: 16
+Int: 18
+Wis: 17
+Con: 18
+Cha: 18
+E
+#33
+man drunk shane~
+Shane~
+Shane is here, looking drunk to the bone.
+~
+Shane. Eh. The most famous person of Midgaard. Long story...
+~
+2121 0 700 E
+40 -12 -10 8d8+2500 4d4+8
+53 0
+8 8 1
+Str: 22
+Dex: 18
+Int: 18
+Wis: 19
+Con: 20
+Cha: 22
+E
+#50
+abrams man old~
+Abrams~
+The very old man with long, grey beard is standing here.
+~
+That must be Abrams, the guradian of the Wheel of Destiny. He looks very
+old but still you sense he must be very tough.
+~
+6547466 1073743016 0 E
+51 -22 -10 30d30+4000 10d10+50
+1250 0
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 22
+Cha: 24
+E
+#99
+death reaper grim_reaper~
+Death~
+Death the Grim Reaper is observing you silently from empty eye sockets.
+~
+The dark-robed skeletal figure radiates an unendurable coldness.
+~
+256026 16811176 0 E
+69 -32 -10 1d1+30000 3d15+40
+1458 0
+8 8 0
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 23
+Cha: 25
+E
+>rand_prog   40~
+if rand(20)
+    say If you say give me life, I'll do it... I know I'll see you again
+    grin
+else if rand(50)
+    emote slowly waves it's scythe. 
+endif
+~
+>speech_prog   p give me life~
+look $n
+if rand(50)
+    say Hope to see you around...
+else
+    if rand(50) 
+        say My doors are always open for you...
+    else
+        say Come again...
+    endif
+endif
+giggle
+emote pulls a blue lever.
+mpechoat $n You are briefly surrounded by a thick smoke.
+mptransfer $n 3001 1
+~
+|
+$

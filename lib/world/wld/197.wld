@@ -1,0 +1,869 @@
+#19700
+Outside The Wayhouse~
+   You are outside a large, two-story building which proports
+to be 'Werith's Wayhouse' on a brightly lettered sign out 
+front.  You hear laughing and revelry from inside -- sounds 
+like a lively place.  The main doors are directly south of 
+you, and small paths lead east and west around the building. 
+Eastward is another smaller building; obviously a stable.  
+Northward is the main road, providing all the traffic and 
+customers for this establishment.
+~
+197 4 2
+D0
+~
+~
+0 0 3503
+D1
+~
+~
+0 0 19707
+D2
+~
+door wooden~
+1 0 19715
+D3
+~
+~
+0 0 19701
+E
+path paths~
+Well-trodden paths around the sides of the building.  Not 
+much of interest.
+~
+E
+stable~
+A place to keep your horses while you enjoy yourself inside...
+~
+E
+sign~
+it says,
+
+		"WERITH'S WAYHOUSE"
+
+~
+S
+#19701
+Near A Large Building~
+   You are north-west of the Wayhouse.  This section of the 
+path seems less used, possibly because there's nothing really
+over here.  The trees crowd in towards the clearing, making 
+the general area seem rather eerie somehow.  The voices 
+coming from inside are clearly audible, and by listening hard
+you can almost make out the words.  
+   The path around the building continues to the west and 
+south.
+~
+197 0 2
+D1
+~
+~
+0 0 19700
+D2
+~
+~
+0 0 19702
+S
+#19702
+Near A Large Building~
+   You are standing on the path that runs around the Wayhouse
+to the west.  A window spills light onto the trees that block
+out all available light overhead.  You hear general merryment
+and alcoholism from inside, and wonder if being inside would 
+be more fun than walking around outside...
+~
+197 0 2
+D0
+~
+~
+0 0 19701
+D2
+~
+~
+0 0 19703
+S
+#19703
+Near A Large Building~
+   You are south-west of the main structure of the Wayhouse. 
+A lone rain barrel catches run-off from the roof eaves by the
+corner of the building, and you spy a small white fence 
+cordoning off an herb garden nearby.  The path around the 
+building leads to the north and east.
+~
+197 0 2
+D0
+~
+~
+0 0 19702
+D1
+~
+~
+0 0 19704
+S
+#19704
+Outside The Wayhouse~
+   You are standing just south of Werith's Wayhouse, right 
+where the kitchen entrance is.  A well trodden path leads 
+east, towards a small shack that is unmistakeably an outhouse.
+You hear the unmistakeable sound of clanging pots and pans 
+from the inside, the warning of an upcoming meal.  The path 
+around the building here runs east, and west.
+~
+197 4 2
+D0
+~
+~
+0 0 19726
+D1
+~
+~
+0 0 19705
+D3
+~
+~
+0 0 19703
+S
+#19705
+Near A Large Building~
+   The Wayhouse is just north-west of you here, and you are 
+right by the facility's outhouse to the south.  The wooden 
+planks of the stable form an alley to the north, with the 
+path leading right in-between.  Westwards is the kitchen 
+entrance to the Wayhouse, kept wide open to let the heat 
+inside escape.
+~
+197 0 2
+D0
+~
+~
+0 0 19706
+D2
+~
+~
+0 0 19740
+D3
+~
+~
+0 0 19704
+S
+#19706
+Near A Large Building~
+   This is a small, outdoors 'alley' formed by the Wayhouse's
+stone walls to the west, and the wooden planked walls of the 
+stable to the east.  The path around the building leads north
+and south of here.
+~
+197 0 2
+D0
+~
+~
+0 0 19707
+D2
+~
+~
+0 0 19705
+S
+#19707
+Near A Large Building~
+   You are on a small, well-travelled path that leads between
+Werith's Wayhouse to the west, and the stables to the east.  
+Another path breaks off to the south, between the two 
+buildings, towards what appears to be an outhouse.
+~
+197 0 2
+D1
+~
+~
+0 0 19708
+D2
+~
+~
+0 0 19706
+D3
+~
+~
+0 0 19700
+S
+#19708
+Just Outside The Stable~
+   The stable of the Wayhouse is just south of you, its 
+wooden doors spread open and inviting.  Inside you can hear 
+the snorting of horses, and the occasional hoof scraping 
+against the ground.  The path leads to the west, towards the 
+Wayhouse.
+~
+197 4 2
+D2
+~
+~
+0 0 19709
+D3
+~
+~
+0 0 19707
+S
+#19709
+Inside The Stable~
+   You are standing inside the dusty confines of the stable. 
+Stalls line the aisle, some with horses, some empty.  A pail 
+filled with water and a stack of grain are heaped up against 
+the interior wall, dimly illuminated by a lantern hanging 
+from a rafter.  Seems rather quiet in here...
+~
+197 8 2
+D0
+~
+~
+0 0 19708
+D1
+~
+~
+0 0 19712
+D2
+~
+~
+0 0 19710
+S
+#19710
+Inside The Stable~
+   You are standing inside the dusty confines of the stable. 
+Stalls line the aisle, some with horses, some empty.  A pail 
+filled with water and a stack of grain are heaped up against 
+the interior wall, dimly illuminated by a lantern hanging 
+from a rafter.  Seems rather quiet in here...
+~
+197 8 1
+D0
+~
+~
+0 0 19709
+D1
+~
+~
+0 0 19711
+S
+#19711
+Inside The Stable~
+   You are standing inside the dusty confines of the stable. 
+Stalls line the aisle, some with horses, some empty.  A pail 
+filled with water and a stack of grain are heaped up against the interior wall, 
+dimly illuminated by a lantern hanging 
+from a rafter.  Seems rather quiet in here...
+~
+197 8 1
+D0
+~
+~
+0 0 19712
+D3
+~
+~
+0 0 19710
+S
+#19712
+Inside The Stable~
+   You are standing inside the dusty confines of the stable. 
+Stalls line the aisle, some with horses, some empty.  A pail
+filled with water and a stack of grain are heaped up against 
+the interior wall, dimly illuminated by a lantern hanging 
+from a rafter.  Seems rather quiet in here...
+~
+197 8 1
+D2
+~
+~
+0 0 19711
+D3
+~
+~
+0 0 19709
+S
+#19713
+Main Room~
+   The bar runs south here all along the western wall.   A 
+few smaller tables here are set up with various board games, 
+ready to play.  There's also a shelf along the wall, lined 
+with a few popular books; light reading all of them.  The 
+patrons here seem to be a bit quieter than the rowdy bunch 
+in the rest of the building.
+~
+197 8 0
+D1
+~
+~
+0 0 19714
+D2
+~
+~
+0 0 19720
+E
+board games~
+Chess, checkers, stomp-the-orc...that sort of thing.
+~
+S
+#19714
+Main Room~
+   A window here offers a view outside, where it doesn't seem
+near as social as it is inside.   Tables filled with laughing
+customers eat and drink and generally be merry, not caring 
+what the weather is like, and probably not even knowing.  
+There's a general sense of joy in the room; the joy of still 
+being alive in such a dangerous world as this one.  For a 
+moment, you feel like joining them...
+~
+197 8 0
+D1
+~
+~
+0 0 19715
+D2
+~
+~
+0 0 19719
+D3
+~
+~
+0 0 19713
+S
+#19715
+Main Room~
+   You stand just inside the Main Room of Werith's Wayhouse. 
+The whole place stretches out all around you, a 
+conglomeration of people, food, and alcohol.  The sheer 
+chatter and roar of conversation makes your ears hurt a 
+little, and then you suddenly notice you're smiling.  Yes, 
+this place might do for awhile...
+~
+197 8 0
+D0
+~
+door wooden~
+1 0 19700
+D1
+~
+~
+0 0 19716
+D2
+~
+~
+0 0 19718
+D3
+~
+~
+0 0 19714
+S
+#19716
+Main Room~
+   The giant fireplace here sends a great amount of heat 
+throughout the room.  The sheer massiveness of the stone 
+edifice and the literal bonfire inside makes you give the 
+area a clear way.  A few of the older and less human 
+residents of the inn seem to be enjoying these tables, 
+however.
+~
+197 8 0
+D2
+~
+~
+0 0 19717
+D3
+~
+~
+0 0 19715
+S
+#19717
+Main Room~
+   Several dart boards line the wall to the south, and darts 
+are scattered all about on the tables and stuck in the wall. 
+The people coming up and down the stairs to the east 
+carefully walk by the wall to avoid being pin-cushioned 
+involuntarily, and you think it would be a good idea to do 
+the same.
+~
+197 8 0
+D0
+~
+~
+0 0 19716
+D1
+~
+~
+0 0 19729
+D3
+~
+~
+0 0 19718
+S
+#19718
+Main Room~
+   The tables seem to thin out around here, to give room for 
+the traffic going in and out of the kitchen through the 
+archway to the south.  Waiters and waitresses march in and 
+out with empty plates and sumptuous platters, hardly stopping
+to breathe in their business.  You hear the distant clank of 
+a pot banging against something -- the chefs are busy too it 
+seems.   Your stomach growls...are you hungry at all?
+~
+197 8 0
+D0
+~
+~
+0 0 19715
+D1
+~
+~
+0 0 19717
+D2
+~
+~
+0 0 19723
+D3
+~
+~
+0 0 19719
+S
+#19719
+Main Room~
+    This seems to be a central part of the room, where many 
+people congregate to talk or sing or dance or whatever they 
+feel like at that exact moment.  The people seem just on the 
+edge of being completely carried away at every moment, and 
+you wonder if it would be beneath your dignity to join them.
+~
+197 8 0
+D0
+~
+~
+0 0 19714
+D1
+~
+~
+0 0 19718
+D2
+~
+~
+0 0 19722
+D3
+~
+~
+0 0 19720
+S
+#19720
+Main Room~
+   The wooden bar runs along the length of the western wall, 
+just in front of the many shelves of different colored 
+alcohol in different shaped bottles.  You espy drunkards and 
+waitresses, adventurers and farmers althroughout the building
+from this vantage point, and guess that this establishment is
+turning a pretty penny in profits.  Nice.
+~
+197 8 0
+D0
+~
+~
+0 0 19713
+D1
+~
+~
+0 0 19719
+D2
+~
+~
+0 0 19721
+S
+#19721
+Main Room~
+   The bar continues along the length of the western wall.  
+An empty bottle with some spare coppers in it lies on top of 
+its polished surface; tip collection evidently.  The tables 
+nearby seem mostly filled with people and food, the bar 
+appears at times to be either packed, or merely elbow-to-
+elbow.  A lantern hanging from a rafter overhead casts 
+shadows among the beerstains on the floor and gives the 
+complexion of everyone around a sort of glow.  You feel...
+comfortable here.
+~
+197 8 0
+D0
+~
+~
+0 0 19720
+D1
+~
+~
+0 0 19722
+D2
+~
+~
+0 0 19728
+S
+#19722
+Main Room~
+   In the clutter of the main room of the Wayhouse, is a path
+leading out from the kitchen to the east.  A wide archway
+allows admittance to the back room, from which you hear the 
+distant clank of a pan hitting another.  There aren't very 
+many tables here, due to the amount of traffic coming in and 
+out.
+~
+197 8 0
+D0
+~
+~
+0 0 19719
+D1
+~
+~
+0 0 19723
+D2
+~
+~
+0 0 19727
+D3
+~
+~
+0 0 19721
+S
+#19723
+Kitchen~
+   This is the main entranceway of the kitchen.  Two archways
+serve as an entry and exit point from the main room of the 
+wayhouse, one north, one west.  The kitchen is a room roughly
+thirty feet by thirty feet, extending from the south and east
+from here.  You see many pots on the stove bubbling away and 
+hear the whistle of a kettle somewhere off to the left...
+business must be good.
+~
+197 8 0
+D0
+~
+~
+0 0 19718
+D1
+~
+~
+0 0 19724
+D2
+~
+~
+0 0 19726
+D3
+~
+~
+0 0 19722
+S
+#19724
+Kitchen~
+   You are standing in a more quiet area of the kitchen, 
+where various supplies of flour, grain and meats are kept.  
+The kitchen extends south and west from here; that's where 
+the main clutter seems to be.  A steady thump-thump-thump 
+from the north wall reminds you that the main room is where 
+are the fun and action seems to be...
+~
+197 8 0
+D2
+~
+~
+0 0 19725
+D3
+~
+~
+0 0 19723
+S
+#19725
+Kitchen~
+   The south-eastern section of the kitchen here is a 
+veritable whirlwind of activity!  The entire area is 
+comprised of cooking surfaces and ovens; enough to keep a 
+massive amount of food ready at any one time.  The aisles
+are large, allowing room for frantic chefs and waiters to 
+hurtle through the kitchen with only a small amount of 
+collisions.  Seems hectic, yet efficient.  The rest of the 
+kitchen is to the north and west from here.
+~
+197 8 0
+D0
+~
+~
+0 0 19724
+D3
+~
+~
+0 0 19726
+S
+#19726
+Kitchen~
+   This is the back entranceway to the kitchen, where the 
+door is kept seasonally open to allow the hot air to escape. 
+Some trash is piled up near the door, waiting to be taken 
+out.  The main area of the kitchen extends to the north and 
+east from here, a hodge-podge of business and insanity in 
+motion.  Looking at the general cleanliness, however, you 
+think this would be a good place to eat.
+~
+197 8 0
+D0
+~
+~
+0 0 19723
+D1
+~
+~
+0 0 19725
+D2
+~
+~
+0 0 19704
+S
+#19727
+Main Room~
+   This is a quiet, darkened corner -- it appears someone 
+has put out the lantern here on purpose.  You feel a chill, 
+probably due to your distance from the fire, and rub your 
+arms absently.  There's a table set near the corner, a single
+chair behind it in the shadowy of shadows.  You get the 
+cliche'd feeling someone in robes should be sitting there.
+~
+197 8 0
+D0
+~
+~
+0 0 19722
+D3
+~
+~
+0 0 19728
+S
+#19728
+Main Room~
+   The bar runs along the length of the west wall here, 
+dispensing drinks to all customers with impunity.  A few 
+tables are empty here in the southern part of the wayhouse, 
+but the whole place still has that 'mostly filled' air to it.
+The dull roar of conversation and the warm air from the fire 
+makes you feel at home somehow, makes you want to have a 
+seat.
+~
+197 8 0
+D0
+~
+~
+0 0 19721
+D1
+~
+~
+0 0 19727
+S
+#19729
+Stairwell~
+   Some sturdy wooden stairs lead up to the second floor of 
+the wayhouse, where there are a few rooms for rent.  A lonely
+lantern lights the way up, glinting off the polished 
+handrail.  An arch to the east opens up into the main room...
+where the noise informs you that the revelry hasn't stopped 
+yet.
+~
+197 8 0
+D3
+~
+~
+0 0 19717
+D4
+~
+~
+0 0 19730
+S
+#19730
+Stairwell~
+   A stairwell here leads back down to the first floor and 
+the main room  of the wayhouse.  A hallway leads east along 
+the second floor here, lined with doors to private bedrooms. 
+The floors, stairs, and walls are all made with sturdy oak 
+in contrast of the heavy stone of the exterior walls.  A 
+light at the top of the stairs throws illumination down the 
+hall.
+~
+197 8 0
+D3
+~
+~
+0 0 19731
+D5
+~
+~
+0 0 19729
+S
+#19731
+Hallway~
+   This is a plain hallway on the second floor.  The stairs 
+leading down are to the east, and the hall continues to the 
+west.  On either side to the north and south are doors to 
+private rooms.  You can hear a dull roar coming from below 
+in the main room, but the thick wooden floorboards do a good 
+job of blocking the majority of the noise out.
+~
+197 8 0
+D0
+~
+door north wooden~
+1 0 19738
+D1
+~
+~
+0 0 19730
+D2
+~
+door south wooden~
+1 0 19739
+D3
+~
+~
+0 0 19732
+S
+#19732
+Hallway~
+   This is a plain hallway on the second floor.  The stairs 
+leading down are down the hall to the east, and westwards the
+hall continues.  On either side to the north and south are 
+doors to private rooms.  You can hear a dull roar coming from
+below in the main room, but the thick wooden floorboards do a
+good job of blocking the majority of the noise out.
+~
+197 8 0
+D0
+~
+door north wooden~
+1 0 19736
+D1
+~
+~
+0 0 19731
+D2
+~
+door south wooden~
+1 0 19737
+D3
+~
+~
+0 0 19733
+S
+#19733
+Hallway~
+   This is a plain hallway on the second floor.  The hall 
+continues to the east, all the way down to where the stairs 
+are.  On either side to the north and south are doors to 
+private rooms.  You can hear a dull roar coming from below 
+in the main room, but the thick wooden floorboards do a good 
+job of blocking the majority of the noise out.
+~
+197 8 0
+D0
+~
+door north wooden~
+1 0 19734
+D1
+~
+~
+0 0 19732
+D2
+~
+door south wooden~
+1 0 19735
+S
+#19734
+Private Room~
+   This is a smallish private room, with an adequate bed with
+clean sheets, a rather beat-up-but-serviceable clothes chest, 
+and a table and chair.  Plain and simple, yet nice in a 
+strange sort of way.
+~
+197 8 0
+D2
+~
+door south wooden~
+1 0 19733
+S
+#19735
+Private Room~
+   This is a smallish private room, with an adequate bed with
+clean sheets, a rather beat-up-but-serviceable clothes chest, 
+and a table and chair.  Plain and simple, yet nice in a 
+strange sort of way.
+~
+197 8 0
+D0
+~
+door north wooden~
+1 0 19733
+S
+#19736
+Private Room~
+   This is a smallish private room, with an adequate bed with
+clean sheets, a rather beat-up-but-serviceable clothes chest, 
+and a table and chair.  Plain and simple, yet nice in a 
+strange sort of way.
+~
+197 8 0
+D2
+~
+door south wooden~
+1 0 19732
+S
+#19737
+Private Room~
+   This is a smallish private room, with an adequate bed with
+clean sheets,.a rather beat-up-but-serviceable clothes chest, 
+and a table and chair.  Plain and simple, yet nice in a 
+strange sort of way.
+~
+197 8 0
+D0
+~
+door north wooden~
+1 0 19732
+S
+#19738
+Private Room~
+   This is a smallish private room, with an adequate bed with
+clean sheets, a rather beat-up-but-serviceable clothes chest, 
+and a table and chair.  Plain and simple, yet nice in a 
+strange sort of way.
+~
+197 8 0
+D2
+~
+door south wooden~
+1 0 19731
+S
+#19739
+Private Room~
+   This is a smallish private room, with an adequate bed with
+clean sheets, a rather beat-up-but-serviceable clothes chest, 
+and a table and chair.  Plain and simple, yet nice in a 
+strange sort of way.
+~
+197 8 0
+D0
+~
+door north wooden~
+1 0 19731
+S
+#19740
+Outhouse~
+   Um.  Whew!
+   It's definitely an outhouse...doesn't smell too good at 
+all.
+There's a wooden plank with a few 'convenient' holes cut in
+it for service, and several curtains hung up for privacy.  A 
+bowl with a large cake of soap next to it serve as sanitary 
+measures.  Otherwise, there's not too much here that you take
+an interest in...
+~
+197 8 0
+D0
+~
+~
+0 0 19705
+S
+$~

@@ -1,0 +1,323 @@
+#19700
+Farlenian~
+Farlenian~
+Farlenian the soldier stands and watches quietly.
+~
+   Farlenian is a dark-haired, blue-eyed man with an extremely
+grave expression drawn upon his face.  He wears a bright blue
+set of overalls, with some protective layers of leather overtop
+and a white cloak to round it out.  His crossbow looks well-used
+and cared for.  You think he knows how to use it.
+~
+2 0 400 E
+24 6 -4 1d1+551 2d4+19
+10000 -100
+8 8 1
+E
+#19701
+Koofy gerbil~
+Koofy~
+A small gerbil is eating some peanuts on a table here.
+~
+   It's a small, well-groomed and well-cared for brown
+gerbil.  Its sniffing around some peanuts quietly,
+and then promptly shoves the lot of them in its mouth!
+~
+130 0 0 E
+1 20 50 1d1+0 1d3+0
+0 -100
+6 6 0
+E
+#19702
+Alerka~
+Alerka~
+Alerka Bardbane is resting here.
+~
+   Alerka sneers at you rudely, and ignores you.  He looks
+rather non-descript and plain, just an ordinary man taking
+a break.
+   His knives do not look ordinary at all, however.
+~
+2 0 -1000 E
+10 13 4 3d5+133 1d6+6
+4000 -100
+6 6 1
+E
+#19703
+Drogo~
+Drogo~
+Drogo the Dwarf is polishing his axe here.
+~
+   Drogo Bloodstain, dwarf at large.  He polishes his battle
+axe with a fervor, more than once licking the blade to put
+a shine on it.  He seems to be having fun...to each his own.
+~
+2 0 0 E
+15 12 0 3d5+252 1d1+14
+8000 -100
+6 6 1
+E
+#19704
+Desslok elf dark~
+Desslok~
+A dark elf stands against the wall, watching.
+~
+   You feel his eyes bore through you for a moment, and then whisk
+away.  He stands motionless, quietly...awaiting a proper moment
+perhaps?
+~
+2 8 0 E
+12 12 2 3d5+177 2d7+4
+4000 -100
+8 8 1
+Class: 1
+Int: 17
+E
+#19705
+dog~
+a dog~
+A dog sits here, protecting his master.
+~
+   The dog growls at you as you approach, and his hackles
+raise menacingly.  You carefully stand back and consider
+your next move.
+~
+2 0 0 E
+5 17 6 3d5+47 2d5+0
+0 -100
+6 6 1
+E
+#19706
+Airden~
+Airden the Wanderer~
+Airden the Wanderer is taking a break from wandering here.
+~
+   Airden is a tall, skinny human, dressed in simple clothes.  He
+smiles at you and nods hello.  The dust on his clothes tells
+tales of many strange lands and stranger adventures, and for
+a moment you consider asking him to tell you a story.
+~
+0 0 750 E
+9 15 4 3d5+114 2d5+3
+2500 -100
+8 8 1
+E
+#19707
+Seemie kid~
+Seemie~
+A young kid stands out of the way here.
+~
+   On a second look, this twelve-year old kid seems completely
+drunk!  Hey!  Who gave the kid a drink?
+~
+2 0 250 E
+7 16 4 3d5+78 1d6+3
+50 -100
+8 8 1
+E
+#19708
+Eshiay woman~
+Eshiay~
+A young woman sits here, a confused expression upon her face.
+~
+   Eshiay seems somewhat pretty, but very confused.  She moves
+a little awkwardly, as if her body doesn't fit her very well.
+She smiles at you uncertainly, and then ignores you.
+~
+2 0 900 E
+8 14 4 3d5+95 2d4+3
+8 -100
+6 6 2
+E
+#19709
+Jordo~
+Jordo~
+Jordo the Engineer is just hanging out here.
+~
+  Jordo's eyes glint viciously as he looks across the
+room.  From the way his hands tighten on his weapon,
+you can tell that he isn't quite as at ease as he
+would like you to believe.
+~
+2 0 0 E
+12 13 3 3d5+177 2d7+4
+10000 -100
+8 8 1
+E
+#19710
+horse~
+a horse~
+A horse stands in its stall here, munching on some grain.
+~
+It's a fairly plain, nondescript horse.  Brown hair, brown
+eyes, quiet and pretty well-mannered.
+~
+130 0 0 E
+6 15 6 3d5+61 3d4+0
+0 -100
+8 8 0
+E
+#19711
+waiter~
+a waiter~
+A waiter rushes by, intent on his business.
+~
+   He looks harried from the way he hastily takes orders and rushes
+in the back to get food, and to the bar for drinks.  He doesn't even
+spare you a glance as he passes by.
+~
+0 0 0 E
+5 18 7 3d5+47 2d4+0
+500 -100
+8 8 1
+E
+#19712
+waitress~
+a waitress~
+A waitress rushes by, intent on her business.
+~
+   She looks harried from the way she hastily takes orders and rushes
+in the back to get food, and to the bar for drinks.  She doesn't even
+spare you a glance as she passes by.
+~
+0 0 0 E
+5 16 70 3d5+60 2d4+0
+500 -100
+8 8 2
+E
+#19713
+farmer~
+a farmer~
+A tired farmer relaxes here, for awhile.
+~
+   The dust and dirt of the land cover this man head to toe.  His
+eyes look weary, his hands calloused, and those big workboots he's
+wearing just can't be comfortable.  This man is one of the citizenry
+elite; he feeds the people through his own hard work.  Maybe you
+should buy him a beer.
+~
+0 0 0 E
+7 14 30 3d5+85 2d4+1
+100 -100
+8 8 1
+E
+#19714
+Werith~
+Werith~
+Werith tends bar here, listening but not talking very much.
+~
+   From the size of those arms, this man must've once been a blacksmith.
+You bet he can more than take on anyone who wants to knock over his
+wayhouse for a little cash...this man is truly immense.  His movements
+sure, his eyes keen...you don't think messing with him would be a good
+idea.
+~
+2 0 750 E
+26 1 -50 1d1+749 3d6+10
+30000 -100
+8 8 1
+E
+#19715
+bartender~
+a bartender~
+A bartender pours a drink while advising his patrons.
+~
+   He nods, smiles, and asks you what you would like to drink.
+As you decide, he mixes a Franjie Deluxe for the guy down the
+ways a bit, his hands quickly and surely spinning the lemon over
+the sides of the glass.
+~
+2 0 200 E
+15 6 10 3d5+180 2d8+2
+10000 -100
+8 8 1
+E
+#19716
+chef~
+a chef~
+A chef struggles to get the food out quickly.
+~
+   With one hand he fries, with the other he flips the meat over,
+and with the other hand he sprinkles some salt into the other hand
+which is holding...hey!  Isn't that too many hands?
+
+   This guy is good.
+~
+2 0 350 E
+10 11 60 3d5+120 2d6+1
+3000 -100
+8 8 1
+E
+#19717
+adventurer~
+an adventurer~
+An adventurer babbles about some monster she killed.
+~
+   Her tales are pretty much full of it, and her equipment
+sucks.  Cannon fodder.
+~
+0 0 0 E
+8 12 10 3d5+100 2d5+2
+2000 -100
+8 8 2
+E
+#19718
+adventurer~
+an adventurer~
+An adventurer babbles about some monster he killed.
+~
+   His tales are pretty much full of it, and his equipment
+sucks.  Cannon fodder.
+~
+0 0 0 E
+8 12 10 3d5+100 2d5+2
+2000 -100
+8 8 1
+E
+#19719
+Marketeer Black woman black-marketeer~
+The woman~
+A young woman watches the crowd go by.
+~
+   She seems rather secretive.  You wonder what she's hiding.
+~
+2 0 -500 E
+18 3 -70 3d5+220 3d6+2
+14000 -100
+8 8 2
+E
+#19720
+bartender~
+a bartender~
+A bartender pours a drink while advising his patrons.
+~
+   He nods, smiles, and asks you what you would like to drink.
+As you decide, he mixes a Franjie Deluxe for the guy down the
+ways a bit, his hands quickly and surely spinning the lemon over
+the sides of the glass.
+~
+2 0 200 E
+15 6 10 3d5+180 2d8+2
+10000 -100
+8 8 1
+E
+#19721
+bartender~
+a bartender~
+A bartender pours a drink while advising his patrons.
+~
+   He nods, smiles, and asks you what you would like to drink.
+As you decide, he mixes a Franjie Deluxe for the guy down the
+ways a bit, his hands quickly and surely spinning the lemon over
+the sides of the glass.
+~
+2 0 200 E
+15 6 10 3d5+180 2d8+2
+10000 -100
+8 8 1
+E
+$
+
+
+
+Mob special remarks

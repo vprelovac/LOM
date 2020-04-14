@@ -1,0 +1,137 @@
+#2101
+ogre gang member~
+a gang member~
+A member of the Ogres wanders about here.
+~
+He's lived a life of violence ever since he was little.
+~
+92 0 -100 E
+5 14 5 5d5+50 1d5+5
+200 0
+8 8 0
+E
+>greet_prog    10~
+growl
+~
+>fight_prog    10~
+emote screams, 'Come get some!'
+~
+|
+#2102
+troll gang member~
+a gang member~
+A member of the Trolls wanders about here.
+~
+He wants to rid the world of every last Ogre gang member.
+~
+92 0 100 E
+5 14 5 5d5+50 1d7+5
+210 0
+8 8 0
+E
+>greet_prog    10~
+growl
+~
+>fight_prog    10~
+emote screams, 'Come get some!'
+~
+|
+#2103
+gang leader~
+the gang leader~
+The gang leader is not pleased you found his hideout!
+~
+He's risen to be leader through brute force and cunning leadership.
+~
+106 0 0 E
+13 14 2 13d13+130 1d10+12
+2000 0
+8 8 0
+E
+#2104
+bruiser~
+a bruiser~
+A big, mean bruiser is looking for limbs to break.
+~
+He's 6'6" 245 pounds and enough muscle to bash your head in.
+~
+236 8 -333 E
+10 14 -1 10d10+100 1d6+10
+1500 0
+8 8 0
+E
+#2105
+doll~
+a doll~
+A gang doll looks naughty and nice.
+~
+She's a beauty (ok in RELATIVE terms) but you better not touch!
+~
+220 0 0 E
+7 14 3 7d7+70 1d6+4
+1000 0
+8 8 2
+E
+>greet_prog    20~
+if rand(50)
+	say I am free tonight.
+	giggle
+else
+	say Wanna have some fun?
+endif
+~
+|
+#2106
+patrolman patrol man~
+a patrolman~
+A patrolman is trying to keep the peace.
+~
+He'd rather be at the local pub then out here with these nasty kids.
+~
+72 0 1000 E
+16 -2 0 8d8+240 3d6+15
+7000 0
+8 8 1
+E
+>rand_prog    10~
+if rand(50)
+	say This place will never be good
+else
+	say So much criminals these days...
+endif
+~
+|
+#2107
+vandal~
+a vandal~
+A vandal is spray painting pro-gang slogans on the wall here.
+~
+He has a wary eye and a fine hand for art.
+~
+136 32768 -400 E
+10 14 1 10d10+100 1d6+6
+500 0
+8 8 0
+E
+>rand_prog    20~
+if rand(50)
+	emote writes some dirty slogan on the wall.
+else
+	emote stares at you and says, 'What are you looking at?'
+endif
+~
+|
+#2108
+dog pit bull pitbull~
+a pitbull~
+A vicious pitbull is foaming at the mouth in rabid anticipation.
+~
+You get a nice close look at him while he's tearing at your throat.
+His fangs are blood-stained from hearty meals of ... steak?!
+~
+106 65544 -100 E
+5 14 2 5d5+50 1d6+3
+10 0
+8 8 0
+E
+$
