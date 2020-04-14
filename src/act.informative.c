@@ -714,7 +714,7 @@ void list_one_char(struct char_data * i, struct char_data * ch)
         mexp=(LEVELEXP(ch)-GET_EXP(ch))/mexp;
         if (mexp>=1) {
             sprintf(buf2, "<%d> ", mexp);
-            strcat(buf, buf2);
+            //strcat(buf, buf2); //todo: this is how many mobs per level
         }
     }    
     if (IN_ARENA(i))
