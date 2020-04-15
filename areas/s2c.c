@@ -238,6 +238,78 @@ int             number_range(int from, int to)
     return from + number;
 }
 char buf[1000];
+
+
+int flag_convert (char letter)
+{
+    int bitsum = 0;
+    char i;
+
+    if ('A' <= letter && letter <= 'Z')
+    {
+        bitsum = 1;
+        for (i = letter; i > 'A'; i--)
+            bitsum *= 2;
+    }
+    else if ('a' <= letter && letter <= 'z')
+    {
+        bitsum = 67108864;        /* 2^26 */
+        for (i = letter; i > 'a'; i--)
+            bitsum *= 2;
+    }
+
+    return bitsum;
+}
+
+int fread_flag (FILE * fp)
+{
+    int number;
+    char c;
+    int negative = FALSE;
+
+    do
+    {
+        c = getc (fp);
+    }
+    while (isspace (c));
+
+    if (c == '-')
+    {
+        negative = TRUE;
+        c = getc (fp);
+    }
+
+    number = 0;
+
+    if (!isdigit (c))
+    {
+        while (('A' <= c && c <= 'Z') || ('a' <= c && c <= 'z'))
+        {
+            number += flag_convert (c);
+            c = getc (fp);
+        }
+    }
+
+    while (isdigit (c))
+    {
+        number = number * 10 + c - '0';
+        c = getc (fp);
+    }
+
+    if (c == '|')
+        number += fread_flag (fp);
+
+    else if (c != ' ')
+        ungetc (c, fp);
+
+    if (negative)
+        return -1 * number;
+
+    return number;
+}
+
+
+
 int             fread_number(FILE * fp)
 {
     int             number;
@@ -2183,6 +2255,7 @@ void            count_rooms(FILE * fl)
                     found = -1;
     int             flgs;
 
+    printf("Counting rooms\n");
     while (!feof(fl)) {
         get_line(fl, ch);
         if (!feof(fl)) {
@@ -2381,6 +2454,7 @@ void            parse_mobiles(FILE * fl)
                    *s2,
                    *s3,
                    *s4,
+                   *s5,
                     s[256],
                     mtpe;
     int             t1,
@@ -2416,8 +2490,9 @@ void            parse_mobiles(FILE * fl)
             s2 = fread_string(fl, s);
             s3 = fread_string(fl, s);
             s4 = fread_string(fl, s);
+//            s5 = fread_string(fl, s); // race string
             fprintf(fp, "%s~\n%s~\n%s~\n%s~\n", s1, s2, s3, s4 ? s4 : "");
-            flgs = fread_number(fl);
+            flgs = fread_flag(fl);
             affs = fread_number(fl);
             flgs = check_mobflags(flgs, num);
             affs = check_mobaffs(affs, num);
@@ -2601,7 +2676,7 @@ int             main(int argc, char *argv[])
     *author = *resetmsg = 0;
     fl = fopen(argv[arg], "r");
     if (fl == NULL) {
-        printf("Could not open file.\n");
+        printf("Could not open file: %s\n", argv[arg]);
         exit(1);
     }
     zonenum = 0;
