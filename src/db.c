@@ -2869,12 +2869,21 @@ void adjust_object(struct obj_data *obj, int level)
     		else if (obj->affected[i].location == APPLY_STR || obj->affected[i].location == APPLY_CON || obj->affected[i].location == APPLY_DEX || obj->affected[i].location == APPLY_WIS || obj->affected[i].location == APPLY_INT)
                {    int val=obj->affected[i].modifier; 
                	
-               	    if (val>1)
+               	    if (val>0)
+               	    {
+               	    
+              	     if (CHANCE(level))
+                           val++;
+                     
+                     obj->affected[i].modifier=MAX(1, MIN(fuzzy(level/12), val));
+                           
+               	    }
+               	    else if (val>1)
                	    {                
 			if (val%2)               	    	
 			{
 		    		val=(val-1)/2;        	    	
-		    		if (CHANCE(2*level))
+		    		if (CHANCE(3*level))
 		    			val++;
 		    		
 		    	}

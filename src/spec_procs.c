@@ -1773,7 +1773,7 @@ SPECIAL(janitor)
             continue;
         /*	if (GET_OBJ_TYPE(i) != ITEM_DRINKCON && GET_OBJ_COST(i) >= 15)
         	//    continue;*/
-        act("$n picks up some trash.", FALSE, ch, 0, 0, TO_ROOM);
+        act("$n picks up some stuff.", FALSE, ch, 0, 0, TO_ROOM);
         obj_from_room(i);
         obj_to_char(i, ch);
         return TRUE;

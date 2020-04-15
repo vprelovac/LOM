@@ -5676,29 +5676,41 @@ ACMD(do_irepair)
 ACMD(do_areas)
 {
     int i, j, k, l;
+    int totare=0, t_less=1000,t_more=0;
 
     one_argument(argument, buf2);
 
     k=world[ch->in_room].zone;
 
     strcpy(buf,"&w Num Name                                   Avg (Min-Max)  Entered from&0\r\n --- ----                                   -------------  ------------\r\n");
-    if (!(j=atoi(buf2)))
+    if (*buf2=='<')
+    {
+        t_less=atoi(buf2+1);
+    }
+    else if (*buf2=='>')
+    {
+        t_more=atoi(buf2+1);
+    }
+    else j=atoi(buf2);
+    
+    if (!j)
     {
         for (i = 0; i <= top_of_zone_table; i++)
 
-            if (area_info[i].num>4)
+            if (area_info[i].num>4 && (zone_table[i].avg<t_less) && (zone_table[i].avg>t_more))
             {
                 sprintf(buf,"%s%c%3d &c%-39s &y%2d&0 (%2d - %2d)&c  ", buf, k==i?'*':' ',
-                        zone_table[i].number, zone_table[i].name, (zone_table[i].avg+(area_info[i].avg-area_info[i].max-area_info[i].min)/(area_info[i].num-2))/2,area_info[i].min,area_info[i].max, zone_table[i].creator );
+                        zone_table[i].number, zone_table[i].name, (zone_table[i].avg),area_info[i].min,area_info[i].max, zone_table[i].creator );
                  for (j=0;j<top_of_zone_table;j++)
                 	if (area_info[i].connected_from[j])
                 		sprintf(buf, "%s%s, ", buf, zone_table[j].name);
                 //sprintf(buf, "%s%s, ", buf, zone_table[j].name);
                 sprintf(buf, "%s&0\r\n", buf);
+                totare++;
 
 
             }
-        strcat (buf, "\r\nUse 'areas <num>' to get detailed information on particular area.\r\n");
+        sprintf (buf, "%s\r\nTotal %d areas. Use 'areas <num>' to get detailed information on particular area. Use 'areas <10' to get areas with avgerage level <10.\r\n",buf,  totare);
     }
     else
     {	for (i = 0; i <= top_of_zone_table; i++)

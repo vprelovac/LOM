@@ -1830,7 +1830,7 @@ A white-coated fox pads along the frozen ground here.
 This sprightly fox bears a pelt of silvery white, blending with the snow.
 ~
 deghiq 819366 500 E
-20 11 -130 1d1+6600 4d40+45
+15 11 -130 1d1+6600 4d40+45
 15 1385500
 8 8 0
 BareHandAttack: 4
@@ -1846,7 +1846,7 @@ and shape of a polar bear.  It has white fur, and its huge sabre teeth
 declare it to be a female.
 ~
 defgoq 32896 0 E
-50 0 -200 1d1+20420 5d80+70
+20 0 -200 1d1+20420 5d80+70
 0 25300000
 8 8 2
 BareHandAttack: 9
@@ -1876,7 +1876,7 @@ holds a sharp ice pick for cutting the fish and meat out of the huge
 blocks of ice in which they are kept.
 ~
 bdg 8 0 E
-1 1 -300 30000d2+1 50d50+50
+44 1 -300 30000d2+1 50d50+50
 15 20
 8 8 1
 E
@@ -1890,7 +1890,7 @@ He definitely looks hard-hearted.  You wonder what it'd look like out of
 his body.
 ~
 bdg 8 0 E
-1 1 -300 30000d2+1 50d50+50
+44 1 -300 30000d2+1 50d50+50
 15 20
 8 8 1
 E
@@ -1903,7 +1903,7 @@ A greater Devil from the eighth plane of hell, the Ice Devil has an
 insectile face, barbed tail and huge claws on its hands and feet.
 ~
 abcdefglnopqr 33928 -1000 E
-101 -5 -850 305000d1+1 80d60+2000
+30 -5 -850 305000d1+1 80d60+2000
 1000000 260050000
 8 8 0
 BareHandAttack: 8
@@ -1921,7 +1921,7 @@ This massive humanoid seems to be composed entirely of coal-black ice, and
 it blends in perfectly with the ground.
 ~
 acdefgloq 525480 -500 E
-99 0 -800 300000d1+1 79d50+2000
+28 0 -800 300000d1+1 79d50+2000
 800000 245000000
 8 8 0
 BareHandAttack: 13
@@ -1941,7 +1941,7 @@ gigantic reptile, covered in glittering scales of white and light blue, and
 it has six inch long fangs.
 ~
 abdefgmnopq 558268 -600 E
-100 -3 -450 52500d1+0 50d55+1000
+25 -3 -450 52500d1+0 50d55+1000
 10000000 80000000
 8 8 0
 BareHandAttack: 4
@@ -1957,7 +1957,7 @@ It looks like a huge elephant with thick shaggy fur, and it glares at you
 through tiny, mad, red eyes.  It waves its huge curved tusks menacingly.
 ~
 adghlmnopqr 188 0 E
-60 0 -300 1d1+26450 5d80+70
+20 0 -300 1d1+26450 5d80+70
 0 25300000
 8 8 0
 BareHandAttack: 5
@@ -1972,7 +1972,7 @@ You see a goat with wooly fur traversing the rocks.
 It looks at you, startled, and carefully begins to back away.
 ~
 deghpq 32776 0 E
-30 12 -130 1d1+7000 4d40+50
+15 12 -130 1d1+7000 4d40+50
 35 1385500
 8 8 0
 BareHandAttack: 7
@@ -1987,7 +1987,7 @@ A small penguin darts quickly through the water.
 It must be hunting for fish.
 ~
 bdgopqr 32832 0 E
-20 5 -90 1d1+3500 3d25+2
+15 5 -90 1d1+3500 3d25+2
 15 800000
 8 8 0
 BareHandAttack: 4
@@ -2002,7 +2002,7 @@ He tobogans along quite happily.  Despite your previous encounters with
 penguins, this one seems entirely normal.
 ~
 bdeghl 128 0 E
-20 5 -90 1d1+3500 3d25+2
+16 5 -90 1d1+3500 3d25+2
 15 800000
 8 8 0
 BareHandAttack: 4
@@ -2031,7 +2031,7 @@ This fox-sized predator is a descendant of the common rat, and is the size
 and shape of a wolverine, with less temper.  You have just entered its den.
 ~
 bcdefgmnoq 296064 0 E
-60 11 -100 1d1+11600 5d60+55
+18 11 -100 1d1+11600 5d60+55
 0 12543500
 8 8 0
 BareHandAttack: 9
@@ -2047,7 +2047,7 @@ This fox-sized predator is a descendant of the common rat, and is the size
 and shape of a wolverine, with less temper.  You are on its menu.  Uh oh...
 ~
 cdefgnoq 787616 0 E
-60 11 -100 1d1+11600 5d60+55
+21 11 -100 1d1+11600 5d60+55
 0 12543500
 8 8 0
 BareHandAttack: 9
@@ -2064,7 +2064,7 @@ whale, with a huge beak used for straining the plankton that are this
 gentle creature's food.
 ~
 bdglnopqr 33020 0 E
-50 -2 -300 50000d4+1 20d55+500
+23 -2 -300 50000d4+1 20d55+500
 0 100000000
 8 8 0
 BareHandAttack: 10
@@ -2081,7 +2081,7 @@ Half rabbit and half... something? with shaggy white fur.  It is too cold to
 hop.
 ~
 bdhnopr 787584 0 E
-20 2 -80 1d1+2050 2d26+4
+19 2 -80 1d1+2050 2d26+4
 15 700000
 8 8 0
 Dex: 18
@@ -2110,7 +2110,7 @@ that all good wooly figments do - hop along in the snow, fall down a hole
 and freeze to death.
 ~
 acdeglnopqr 263356 0 E
-25 -1 -100 1d1+3050 2d30+6
+20 -1 -100 1d1+3050 2d30+6
 15 750000
 8 8 0
 Dex: 18
@@ -2123,7 +2123,7 @@ A huge hairy shape leaps out at you and attacks!!!
 Now's not the time to be taking pictures!  It's trying to EAT you!!!
 ~
 abdflnopqr 820412 0 E
-50 10 -200 40000d1+1 16d50+300
+24 10 -200 40000d1+1 16d50+300
 15 75000000
 8 8 0
 BareHandAttack: 8
@@ -2141,7 +2141,7 @@ as black as its unholy surroundings.  It looks hungry, and seems to think
 that your warmth would make a nice feast.
 ~
 abdefgq 532668 -1000 E
-100 -10 -600 150000d1+1 50d50+1000
+25 -10 -600 150000d1+1 50d50+1000
 10000 170000000
 8 8 0
 BareHandAttack: 6

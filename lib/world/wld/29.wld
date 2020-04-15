@@ -1,14 +1,14 @@
 #2900
 Obsidian Hills~
-  You see before you some shiny black hills. There is very little vegetation
+You see before you some shiny black hills. There is very little vegetation
 here. The hills appear to lead to a high mountain to the south east
 ~
-29 4 3
+29 32772 3
 D0
-You see a path leading back towards the Turning Point.
+You see a path leading to the city gate.
 ~
 ~
-0 0 4785
+0 0 3053
 D2
 You see some more hills.  They continue south.
 ~
@@ -21,10 +21,10 @@ The hills are a very shiny black color.
 S
 #2901
 Obsidian Hills~
-  You see before you some shiny black hills. There is very little vegetation
+You see before you some shiny black hills. There is very little vegetation
 here. The hills appear to lead to a high mountain to the south east
 ~
-29 4 3
+29 32772 3
 D0
 You see some hills to the north.
 ~
@@ -42,10 +42,10 @@ The hills are a very shiny black color.
 S
 #2902
 Obsidian Hills~
-  You see before you some shiny black hills. There is very little vegetation
+You see before you some shiny black hills. There is very little vegetation
 here. The hills appear to lead to a high mountain to the south east
 ~
-29 4 3
+29 32772 3
 D0
 You see some hills to the north.
 ~
@@ -63,10 +63,10 @@ They are a very shiny black color.
 S
 #2903
 Mountain Side~
-  The mountain is very high and looks to be quite old. There are a few cracks
+The mountain is very high and looks to be quite old. There are a few cracks
 in the side of the mountain
 ~
-29 0 4
+29 32768 4
 D2
 The mountain continues.
 ~
@@ -84,10 +84,10 @@ The mountain looks like it was formed from something sliding down and stopping.
 S
 #2904
 Mountain Side~
-  The mountain is very high and looks to be quite old. There is smoke coming
+The mountain is very high and looks to be quite old. There is smoke coming
 from the top of the mountain.
 ~
-29 0 4
+29 32768 4
 D0
 You see mountains to the north.
 ~
@@ -105,10 +105,10 @@ The smoke is grey and puffs out of the top of the mountain.
 S
 #2905
 Mountain Top~
-  You've reached the top of the mountain. You can see more smoke from up here.
+You've reached the top of the mountain. You can see more smoke from up here.
 The smoke seems to come from a hole to the south.
 ~
-29 4 4
+29 32772 4
 D0
 You see the side of the mountain to the north.
 ~
@@ -120,20 +120,20 @@ You see a hole to the south. It looks like an entrance.
 ~
 0 0 2906
 E
-top of mountain~
-The top of the mountain is a large area with a hole in the middle.
-~
-E
 smoke~
 The smoke is grey and is coming from the hole.
+~
+E
+top of mountain~
+The top of the mountain is a large area with a hole in the middle.
 ~
 S
 #2906
 Entrance To The Mountain~
-  The smoke comes from inside the hole.  It also looks like there is a path
+The smoke comes from inside the hole.  It also looks like there is a path
 that leads down.
 ~
-29 4 4
+29 32772 4
 D0
 You see the top of the mountain to the north.
 ~
@@ -162,10 +162,10 @@ You can see down inside the mountain.
 S
 #2907
 Mountain Top~
-  You are standing at the top of the mountain. The mountain looks like it has
+You are standing at the top of the mountain. The mountain looks like it has
 been ravaged by something.
 ~
-29 4 4
+29 32772 4
 D3
 You see the entrance to the mountain to the west.
 ~
@@ -174,10 +174,10 @@ You see the entrance to the mountain to the west.
 S
 #2908
 Mountain Top~
-  You are standing at the top of the mountain. There are several cracks in the
+You are standing at the top of the mountain. There are several cracks in the
 ground and you don't feel safe!
 ~
-29 4 4
+29 32772 4
 D1
 You see the entrance to the mountain to the north.
 ~
@@ -186,9 +186,9 @@ You see the entrance to the mountain to the north.
 S
 #2909
 Mountain Top~
-  You are standing on the top of the mountain and think you should move north.
+You are standing on the top of the mountain and think you should move north.
 ~
-29 4 4
+29 32772 4
 D0
 You see the entrance to the mountain to the north.
 ~
@@ -197,9 +197,9 @@ You see the entrance to the mountain to the north.
 S
 #2910
 Inside The Mountain~
-  You are standing inside the mountain.
+You are standing inside the mountain.
 ~
-29 9 2
+29 32777 2
 D1
 You see guard barracks.
 ~
@@ -223,59 +223,59 @@ The shaft continues down.
 S
 #2911
 Guard Room~
-  You are standing in a room with beds, tables, and fire newts!
+You are standing in a room with beds, tables, and fire newts!
 There are paintings on the wall.  They show battle scenes.
 ~
-29 9 2
+29 32777 2
 D3
 You see the dark tunnel shaft.
 ~
 ~
 0 0 2910
 E
-beds~
-The beds are made of metal and rock.
+tables~
+The tables are long and wide.  They are made of stone and obviously too heavy
+to move.
 ~
 E
 chairs~
 The chairs are made of stone and look very heavy.
 ~
 E
-tables~
-The tables are long and wide.  They are made of stone and obviously too heavy
-to move.
+beds~
+The beds are made of metal and rock.
 ~
 S
 #2912
 Guard Room~
-  You are standing in a room with beds, chairs, tables, and fire newts!
+You are standing in a room with beds, chairs, tables, and fire newts!
 There are paintings on the wall that show great leaders.
 ~
-29 9 2
+29 32777 2
 D1
 You see the shaft in the mountain.
 ~
 ~
 0 0 2910
 E
-beds~
-The beds are made of metal and rock.
+tables~
+The tables are long and wide.  They are made of stone and are obviously to
+heavy to move.
 ~
 E
 chairs~
 The chairs are made of stone and look very heavy.
 ~
 E
-tables~
-The tables are long and wide.  They are made of stone and are obviously to
-heavy to move.
+beds~
+The beds are made of metal and rock.
 ~
 S
 #2913
 Inside The Mountain~
-  You are standing inside the mountain.
+You are standing inside the mountain.
 ~
-29 9 2
+29 32777 2
 D0
 You see a large storage room.
 ~
@@ -299,10 +299,10 @@ The shaft continues down.
 S
 #2914
 Store Room~
-  You see nothing special in this room.  There are some boxes and fire newt
+You see nothing special in this room.  There are some boxes and fire newt
 workers here.  There is also some trash piled up in the room.
 ~
-29 9 2
+29 32777 2
 D2
 You see the dark mountain shaft.
 ~
@@ -311,11 +311,11 @@ You see the dark mountain shaft.
 S
 #2915
 Workers' Quarters~
-  You are standing in the workers' quarters.  There are several workers here.  
+You are standing in the workers' quarters.  There are several workers here.  
 The room is messy and has nothing of value in it.  The party the night before
 must have destroyed everything.
 ~
-29 9 2
+29 32777 2
 D0
 You see the dark mountain shaft.
 ~
@@ -324,9 +324,9 @@ You see the dark mountain shaft.
 S
 #2916
 Bottom Of The Mountain~
-  You are standing at the bottom of the shaft.
+You are standing at the bottom of the shaft.
 ~
-29 9 2
+29 32777 2
 D0
 You see the dark tunnel.
 ~
@@ -340,9 +340,9 @@ You see the mountain shaft.
 S
 #2917
 The Tunnel~
-  You are standing in a dry, dark tunnel.
+You are standing in a dry, dark tunnel.
 ~
-29 9 2
+29 32777 2
 D0
 You see a bend in the tunnel.
 ~
@@ -356,9 +356,9 @@ You see the bottom of the shaft.
 S
 #2918
 Bend In The Tunnel~
-  You are standing in a dark tunnel.
+You are standing in a dark tunnel.
 ~
-29 9 2
+29 32777 2
 D1
 The tunnel continues into the dark.
 ~
@@ -372,7 +372,7 @@ You see that the tunnel leads back.
 S
 #2919
 The Tunnel~
-  You are standing in a dark tunnel.
+You are standing in a dark tunnel.
 ~
 29 9 2
 D0
@@ -393,7 +393,7 @@ You see a bend in the tunnel.
 S
 #2920
 Fire Newt House~
-  You are standing in a fire newt house.  There is a mother fire newt here
+You are standing in a fire newt house.  There is a mother fire newt here
 playing with her children.  The room is full of newt toys- they look very
 boring.
 ~
@@ -406,7 +406,7 @@ You see the dark tunnel.
 S
 #2921
 The Tunnel~
-  You are standing in a dark tunnel.
+You are standing in a dark tunnel.
 ~
 29 9 2
 D0
@@ -427,7 +427,7 @@ You see a fire newt house.
 S
 #2922
 Fire Newt House~
-  You are standing in a fire newt house.  There is a fire newt mother here
+You are standing in a fire newt house.  There is a fire newt mother here
 playing with her children.  The room has several torn baby newt diapers here
 ... how disgusting!
 ~
@@ -440,7 +440,7 @@ You see the dark tunnel.
 S
 #2923
 The Tunnel~
-  You are standing in the dark tunnel.
+You are standing in the dark tunnel.
 ~
 29 9 2
 D1
@@ -461,7 +461,7 @@ You see the entrance to the town hall.
 S
 #2924
 Entrance To The Town Hall~
-  You are standing in the entrance to the town hall.  The room is large and
+You are standing in the entrance to the town hall.  The room is large and
 ornate.
 ~
 29 9 2
@@ -478,7 +478,7 @@ You see a waiting room.
 S
 #2925
 The Waiting Room~
-  You are standing in the waiting room of the town hall.  There is a big door
+You are standing in the waiting room of the town hall.  There is a big door
 to the west.  The room has pictures of the villages history.
 ~
 29 9 2
@@ -495,7 +495,7 @@ You see a large office.
 S
 #2926
 The Leader's Office~
-  You are standing in the fire newt leader's office.
+You are standing in the fire newt leader's office.
 ~
 29 9 2
 D1
@@ -506,7 +506,7 @@ You see the waiting room.
 S
 #2927
 Outside The Temple~
-  You are standing outside the fire newt temple.  The temple has some very
+You are standing outside the fire newt temple.  The temple has some very
 large arches and towers.
 ~
 29 9 2
@@ -523,7 +523,7 @@ You see the dark tunnel.
 S
 #2928
 Entrance To The Temple~
-  You are standing at the entrance to the temple.  The temple is very neat. 
+You are standing at the entrance to the temple.  The temple is very neat. 
 The sates are set in straight rows and the alter is very large.
 ~
 29 9 2
@@ -531,7 +531,7 @@ D1
 You see the door, that leads to the inside of the temple.
 ~
 door~
-1 -1 2929
+-3 -1 2929
 D3
 You see the outside of the temple.
 ~
@@ -540,14 +540,14 @@ You see the outside of the temple.
 S
 #2929
 Inside The Temple~
-  You are standing inside the fire newt temple.
+You are standing inside the fire newt temple.
 ~
 29 9 2
 D3
 You see the door that leads to the temple entrance.
 ~
 door~
-1 -1 2928
+-3 -1 2928
 D5
 You see a large trap door.
 ~
@@ -556,14 +556,14 @@ You see a large trap door.
 S
 #2930
 The Room Before The Doors~
-  You are standing before a pair of huge doors.
+You are standing before a pair of huge doors.
 ~
 29 9 2
 D1
 You see two large doors.
 ~
 doors~
-1 -1 2931
+-1 -1 2931
 D4
 You see the inside of the temple.
 ~
@@ -572,7 +572,7 @@ You see the inside of the temple.
 S
 #2931
 The Egg Room~
-  You are standing in a room that has several dozen piles of eggs.  There is
+You are standing in a room that has several dozen piles of eggs.  There is
 a chest on the floor also.
 ~
 29 13 2
@@ -580,6 +580,6 @@ D3
 You see two large doors.
 ~
 doors~
-1 -1 2930
+-1 -1 2930
 S
-$
+$~

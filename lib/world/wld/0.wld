@@ -1,9 +1,9 @@
 #0
 The Void~
-   You don't think that you are not floating in nothing.  You can see
+You don't think that you are not floating in nothing.  You can see
 a strange portal located above you.
 ~
-0 664 1
+0 33432 1
 D4
 The Temple of Midgaard floats above you.
 ~
@@ -12,7 +12,7 @@ The Temple of Midgaard floats above you.
 S
 #1
 Limbo~
-   You are floating in a formless void, detached from all sensation of physical
+You are floating in a formless void, detached from all sensation of physical
 matter, surrounded by swirling glowing light, which fades into the relative
 darkness around you without any trace of edges or shadow.
    There is a "No Tipping" notice pinned to the darkness.
@@ -21,7 +21,7 @@ darkness around you without any trace of edges or shadow.
 S
 #2
 A Totally Empty Room~
-   The walls are completely bare... nothing at all in the room.
+The walls are completely bare... nothing at all in the room.
 How... utterly bizarre and completely weird.  There is a strange
 portal just above you, and it almost looks as if there is some
 sort of room above you.
@@ -36,7 +36,7 @@ albeit very dirty glass.
 S
 #3
 A Totally Empty Room~
-   The walls are completely bare... nothing at all in the room.
+The walls are completely bare... nothing at all in the room.
 How... utterly bizarre and completely weird.  There is a strange
 portal just above you, and it almost looks as if there is some
 sort of room above you.
@@ -51,7 +51,7 @@ albeit very dirty glass.
 S
 #4
 A Totally Empty Room~
-   The walls are completely bare... nothing at all in the room.
+The walls are completely bare... nothing at all in the room.
 How... utterly bizarre and completely weird.  There is a strange
 portal just above you, and it almost looks as if there is some
 sort of room above you.
@@ -66,7 +66,7 @@ albeit very dirty glass.
 S
 #10
 Red Team Preparation Room~
-   You are standing in a small room used as the preparation room of the
+You are standing in a small room used as the preparation room of the
 RED Team. It is meant for them to cast spells on each other, prepare their
 weapons and items and talk the final tactics before the blood bath
 in arena.
@@ -75,7 +75,7 @@ in arena.
 S
 #11
 Blue Team Preparation Room~
-   You are standing in a small room used as the preparation room of the
+You are standing in a small room used as the preparation room of the
 BLUE Team. It is meant for them to cast spells on each other, prepare their
 weapons and items and talk the final tactics before the blood bath
 in arena.
@@ -84,7 +84,7 @@ in arena.
 S
 #50
 A Small Path~
-  Dim light surrounds the path. It must be leading to some place of great
+Dim light surrounds the path. It must be leading to some place of great
 importance.
 ~
 0 0 2
@@ -99,7 +99,7 @@ D3
 S
 #51
 A Small Path~
-  A path continues to the west and east. You feel something undescribable as
+A path continues to the west and east. You feel something undescribable as
 you progress further.
 ~
 0 0 2
@@ -119,7 +119,7 @@ c 'sanct' $n
 S
 #52
 In Front Of A Cottage~
-  The path seems to end here, in front of a small cottage. There is no door
+The path seems to end here, in front of a small cottage. There is no door
 at it's enterance, no windows also. Very strange indeed.
 ~
 0 144 2
@@ -134,26 +134,26 @@ D3
 S
 #53
 Inside The Small Cottage~
-  The big wheel is placed here.
+The big wheel is placed here.
 ~
 0 668 0
 S
 #99
 The Realm Of The Dead~
-   You are standing on an immense, grey stone floor that stretches as far
+You are standing on an immense, grey stone floor that stretches as far
 as you can see in all directions.  Rough winds plunging from the dark,
 starless sky tear savagely at your fragile body.
 ~
 0 1576 0
 E
-sky wind winds~
-Cold winds plunge ceaselessly at you from the dark, cloudless sky.
-~
-E
 floor~
 The stone floor is the same shade of grey as the sky and is completely plain
 and unscratched.  It is probably too hard for anything to leave as much as a
 scratch on it.
+~
+E
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
 ~
 S
 $~

@@ -591,13 +591,13 @@ void assign_mobiles(void)
     ASSIGNMOB (1918, magic_user);
     ASSIGNMOB (1919, fire_dragon);
 
-    /*ASSIGNMOB (35000, cleric);
+    ASSIGNMOB (35000, cleric);
     ASSIGNMOB (35007, cleric);
     ASSIGNMOB (35012, cleric);
     ASSIGNMOB (35013, magic_user);
     ASSIGNMOB (35019, magic_user);
     ASSIGNMOB (35020, acid_dragon);
-      */
+      
     ASSIGNMOB (35102,magic_user);
     ASSIGNMOB (35105, magic_user);
     ASSIGNMOB (35114, fido);
@@ -610,7 +610,7 @@ void assign_mobiles(void)
     ASSIGNMOB (35138, cold_dragon);
     ASSIGNMOB (35139, cold_dragon);
     ASSIGNMOB (35140,magic_user);
-    //ASSIGNMOB (35142, magic_user); thief bre
+    ASSIGNMOB (35142, thief); 
     ASSIGNMOB (35143, gas_dragon);
     ASSIGNMOB (35145, thief);
     ASSIGNMOB (35146, cleric);
@@ -680,11 +680,11 @@ void assign_mobiles(void)
   ASSIGNMOB (36253, cleric);
   
   
-/*  
+  
   ASSIGNMOB (37500, cleric);
   ASSIGNMOB (37501, fido);
   ASSIGNMOB (37502, cleric);
-  ASSIGNMOB (37503, fido);
+  ASSIGNMOB (37503, undead);
   ASSIGNMOB (37506, undead);
   ASSIGNMOB (37507, janitor);
   ASSIGNMOB (37508, fido);
@@ -713,8 +713,8 @@ void assign_mobiles(void)
   ASSIGNMOB (37542, snake);
   ASSIGNMOB (37543, fido);
   ASSIGNMOB (37544, snake);
-  ASSIGNMOB (37546, fido);
-  ASSIGNMOB (37547, fido);
+  ASSIGNMOB (37546, snake);
+  ASSIGNMOB (37547, snake);
   ASSIGNMOB (37551, fire_dragon);
   ASSIGNMOB (37557, fido);
   ASSIGNMOB (37558, magic_user);
@@ -732,7 +732,7 @@ void assign_mobiles(void)
   ASSIGNMOB (37574, gas_dragon);
   ASSIGNMOB (37575, cleric);
 
-*/
+
   ASSIGNMOB (40006, cleric);
   ASSIGNMOB (40010, magic_user);
   ASSIGNMOB (40015, fido);
@@ -785,9 +785,9 @@ void assign_mobiles(void)
   ASSIGNMOB (40378, magic_user);
   ASSIGNMOB (40498, magic_user);
 
-/*    
     
-      ASSIGNMOB (36433, fido);
+    
+  ASSIGNMOB (36433, fido);
   ASSIGNMOB (36434, janitor);
   ASSIGNMOB (36435, fido);
   ASSIGNMOB (36436, fido);
@@ -834,7 +834,28 @@ void assign_mobiles(void)
   ASSIGNMOB (36477, cityguard);
   ASSIGNMOB (36478, cityguard);
   ASSIGNMOB (36479, cityguard);
-  */
+
+  ASSIGNMOB(41413, janitor);
+  ASSIGNMOB(41408, snake);
+  ASSIGNMOB(41420, fido);
+  ASSIGNMOB(41407, cold_dragon);
+  ASSIGNMOB(41419, fido);
+  ASSIGNMOB(41409, fido);
+  ASSIGNMOB(41406,cold_dragon);
+  ASSIGNMOB(41421,cold_dragon);
+  
+  ASSIGNMOB(41185, fido);
+  ASSIGNMOB(41184, janitor);
+  ASSIGNMOB(41117, fido);
+
+  ASSIGNMOB(41006, snake);
+  ASSIGNMOB(41013, janitor);
+  ASSIGNMOB(41014, janitor);
+  ASSIGNMOB(41015, fido);
+  ASSIGNMOB(41016, janitor);
+  ASSIGNMOB(41017, knight);
+  ASSIGNMOB(41019, janitor);
+  
     
     //  Elemental Canyon
       ASSIGNMOB (9202, cleric);

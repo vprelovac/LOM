@@ -1,11 +1,11 @@
 #17301
 Before The Forest Arden~
-  Before you stretches the vast forest Arden, consisting of towering oaks 
+Before you stretches the vast forest Arden, consisting of towering oaks 
 and unknown wildlife. A path leads northwards into the forest. There is a 
 piece parchment nailed to an old oak, and a guilded plaque is affixed to a 
 boulder.
 ~
-173 4 3
+173 32772 3
 D0
 A dirty trail
 ~
@@ -26,7 +26,7 @@ august company in Camelot.
 S
 #17302
 The Crossroads Of Arden~
-  You stand at the crossroads of two dusty paths. Dappled sunlight lights 
+You stand at the crossroads of two dusty paths. Dappled sunlight lights 
 the intersection and you notice horsesign in the dirt. The path continues 
 in the north, south, east and west directions.
 ~
@@ -52,19 +52,19 @@ A dirty trail
 ~
 0 -1 17303
 E
-horsesign~
-You bend down and look at the hoofprints. The main traffic leads down the 
-easterly path and southerly path.
-~
-E
 dirt~
 You look carefully at the dirt and notice in addition to the horsesign, 
 there is a trail of strange claw marks heading to the west.
 ~
+E
+horsesign~
+You bend down and look at the hoofprints. The main traffic leads down the 
+easterly path and southerly path.
+~
 S
 #17303
 The Forest Arden~
-  You are on a path in the great forest Arden. Boy you wish there wern't 
+You are on a path in the great forest Arden. Boy you wish there wern't 
 so many of those pesky knats. The trail leads south and east.
 ~
 173 0 3
@@ -85,7 +85,7 @@ They sure are pesky!
 S
 #17304
 Trail Of Bones~
-  The trail narrows and darkens and you notice a crunching sound. You look 
+The trail narrows and darkens and you notice a crunching sound. You look 
 down-BONES! The trail darkens to the west and lightens to the north.
 ~
 173 0 3
@@ -107,7 +107,7 @@ of the house Pellinore. There bones get deeper to the west.
 S
 #17305
 A Hut In Forest Arden~
-  You stand before a weathered thatch hut. There are weeds everywhere-
+You stand before a weathered thatch hut. There are weeds everywhere-
 obviously this place has been abandoned for some time. The door to the 
 hut lies to the west and a dirty trail leads south.
 ~
@@ -121,7 +121,7 @@ D3
 Hut
 ~
 door~
-2 17336 17308
+-15 17336 17308
 E
 weeds~
 You get down on your hands and knees and examine the weeds. Most of them 
@@ -131,7 +131,7 @@ them.
 S
 #17306
 A Fork In The Dirty Trail~
-  You are at a fork in the dirty trail in Forest Arden. There is horsesign 
+You are at a fork in the dirty trail in Forest Arden. There is horsesign 
 in the dirt, and the trail goes north, east, and west from here.
 ~
 173 0 3
@@ -158,7 +158,7 @@ goes to the north and west.
 S
 #17307
 Lair Of The Questing Beast~
-  You have found the lair of the questing beast! Bones are strewn everywhere.
+You have found the lair of the questing beast! Bones are strewn everywhere.
 The only exit is to the east.
 ~
 173 1 3
@@ -170,7 +170,7 @@ Trail of Bones
 S
 #17308
 Inside A Hut~
-  You stand inside an old, abandonned hut. The ceiling is low, and the 
+You stand inside an old, abandonned hut. The ceiling is low, and the 
 rafters are covered in soot. There is a workbench and an old fireplace.
 ~
 173 8 0
@@ -178,16 +178,14 @@ D1
 A wooden door
 ~
 ~
-2 17336 17305
+-15 17336 17305
 E
-Workbench~
-The workbench is covered in glass tubing and vials of various colored 
-liquids. Maybe you should leave it alone.
+yellow stains strange~
+You examine the yellow stains. They smell of sulfur.
 ~
 E
-fireplace fire~
-The fire has long since died out. All you see are old scraps of paper and 
-wood in the fireplace.
+rafters~
+The rafters are darkened by smoke and strange yellow stains.
 ~
 E
 paper scraps old~
@@ -198,17 +196,19 @@ can do?
 Isolde
 ~
 E
-rafters~
-The rafters are darkened by smoke and strange yellow stains.
+fireplace fire~
+The fire has long since died out. All you see are old scraps of paper and 
+wood in the fireplace.
 ~
 E
-yellow stains strange~
-You examine the yellow stains. They smell of sulfur.
+Workbench~
+The workbench is covered in glass tubing and vials of various colored 
+liquids. Maybe you should leave it alone.
 ~
 S
 #17309
 Mists Of Arden~
-  You have steadily travelled downhill into a misty forested area. The tall 
+You have steadily travelled downhill into a misty forested area. The tall 
 black silhoettes of the towering oaks crowd your limited vision. You squint 
 at the dirty trail which leads north and south and notice horsesign.
 ~
@@ -230,7 +230,7 @@ You look at the horsesign and see that many horses have travelled this path.
 S
 #17310
 Deep Woods~
-  You are in a deeply wooded section of the forest Arden. Shadows lengthen 
+You are in a deeply wooded section of the forest Arden. Shadows lengthen 
 and play in the breeze. The trail continues north, east, and west.
 ~
 173 0 3
@@ -252,7 +252,7 @@ A dirty trail
 S
 #17311
 Cursed Glade~
-  You have entered a glade where all the vegetation is dead. There is no 
+You have entered a glade where all the vegetation is dead. There is no 
 sounds of wildlife, and no light reaches here from above. There are bones 
 from previous visitors scattered about the glade. Maybe you should rest 
 for a while
@@ -262,7 +262,7 @@ D4
 the trees
 ~
 ~
-1 -1 17312
+-1 -1 17312
 E
 bones~
 Maybe you should rest a while...
@@ -270,10 +270,15 @@ Maybe you should rest a while...
 S
 #17312
 Dark Hollow~
-  You have entered a dark hollow. The air is heavy, damp and oppressive 
+You have entered a dark hollow. The air is heavy, damp and oppressive 
 broken only bye the cackling of a crow. To the west is a dusty trail.
 ~
 173 1 3
+D1
+Hollow open to the east.
+~
+~
+0 0 41000
 D3
 A dirty trail
 ~
@@ -286,7 +291,7 @@ Or was that a snicker?
 S
 #17313
 The Forest Arden~
-  You have entered a bright and cheerful section of the Forest Arden. 
+You have entered a bright and cheerful section of the Forest Arden. 
 Squirrels chase one and another around the ancient oaks, and butterfiles 
 dance in the dappled sunshine. The air smells sweet, the sun is on your 
 back, and the horsetrodden trail leads north, south, and east.
@@ -308,17 +313,17 @@ A dusty trail
 ~
 0 -1 17309
 E
-squirrels~
-Yes, they are mating.
-~
-E
 trail horsesign sign~
 You discover horsesign. Most of the traffic heads east and south.
+~
+E
+squirrels~
+Yes, they are mating.
 ~
 S
 #17314
 A Creek In The Forest Arden~
-  You have stopped for water at a little creek which cuts across the trail. 
+You have stopped for water at a little creek which cuts across the trail. 
 To the south the forest brightens. To the west the forest darkens. The 
 sky is blue and the sunlight flashes off the silvery waters.
 ~
@@ -342,7 +347,7 @@ speared through the back.
 S
 #17315
 Battleplain Of Arden~
-  Before you stretches the grizzly battleplain of Arden. Countless centuries 
+Before you stretches the grizzly battleplain of Arden. Countless centuries 
 of war have littered the plain with bones and broken weapons of its 
 combattants. There are signs of a recent carnage with several knights 
 and their steeds lying in twisted heaps. A dirty trail continues to the 
@@ -371,7 +376,7 @@ The sight sickens you.
 S
 #17316
 Before Blackmoor~
-  You stand before Blackmoor the keep of the evil Mordred. The curtain wall 
+You stand before Blackmoor the keep of the evil Mordred. The curtain wall 
 is some 25 feet high and towers flank the gate and corners. The breeze 
 brings a high pitched girlish laughter to you sending chills up your spine. 
 To the north lies the black iron gates of Blackmoor, and to the south 
@@ -382,26 +387,26 @@ D0
 Black Iron Gate
 ~
 gate black iron~
-1 -1 17327
+-3 -1 17327
 D2
 A winding road
 ~
 ~
 0 -1 17315
 E
+humans~
+Actually they look like damned souls to you.
+~
+E
 gates iron black~
 The great iron gates have been forged from pig iron, and they are strangly  
 without rust. The iron spirals with great craftsmanship, forming into faces 
 of distorted humans.
 ~
-E
-humans~
-Actually they look like damned souls to you.
-~
 S
 #17317
 Forest Blackmoor~
-  You have entered Blackmoor, the forest of the damned. Thorns and crooked 
+You have entered Blackmoor, the forest of the damned. Thorns and crooked 
 trees scratch and tear at you, almost as if they were alive. The well worn 
 path has has vanished and you have lost your bearings.
 ~
@@ -417,7 +422,7 @@ D5
 S
 #17318
 Before An Inviting Hut~
-  You stand in front of an inviting hut. Smoke curls from the chimney 
+You stand in front of an inviting hut. Smoke curls from the chimney 
 bringing you the smell of fresh venison. Lamplight cuts through the 
 darkness and the windows. A delightful song can be heard from inside. 
 To the west is the door (adjar) to the hut, and a dirty trail leads 
@@ -433,11 +438,11 @@ D3
 An inviting hut
 ~
 door~
-1 -1 17323
+-3 -1 17323
 S
 #17319
 The Chasm~
-  You stand before a deep chasm. You can see the fettered ends of an 
+You stand before a deep chasm. You can see the fettered ends of an 
 old rope bridge cut and hanging into the chasm. To the west is a 
 dirty trail, and the cut rope bridge leads down.
 ~
@@ -455,7 +460,7 @@ Down the dangling end of the rope bridge
 S
 #17320
 Hanging On The Rope Bridge~
-  You are hanging at the tattered end of a rope bridge. Your grip is 
+You are hanging at the tattered end of a rope bridge. Your grip is 
 fairly strong. You can either try to swing east across the chasm to 
 the other loose part of the bridge, or you can climb up and out, or 
 you can let go into the yawning depths of the chasm.
@@ -479,7 +484,7 @@ The Yawning Depths
 S
 #17321
 Hanging On The Rope Bridge~
-  You are hanging on the frayed end of the rope bridge. You can either 
+You are hanging on the frayed end of the rope bridge. You can either 
 attempt to swing to the east side, climb up the bridge, or go down 
 into the yawning depths of the chasm.
 ~
@@ -502,7 +507,7 @@ The Yawning Depths
 S
 #17322
 The Chasm~
-  You stand at the brink of a deep chasm. The rope bridge across it has 
+You stand at the brink of a deep chasm. The rope bridge across it has 
 been cut by some vile villian and lies hanging down into the chasm. 
 You can either climb down the bridge into the chasm or head to the 
 green field to the east.
@@ -521,7 +526,7 @@ Hanging on the Rope Bridge
 S
 #17323
 Inside The Inviting Hut~
-  You are inside an inviting hut. Around you is the comfortable interior, 
+You are inside an inviting hut. Around you is the comfortable interior, 
 complete with feather bed and fireplace. A table of fresh meat and 
 vegatables has been set, and on it is an ornate chalice filled with 
 wine. A candle burns brightly and there is a single chair at the table.
@@ -531,18 +536,10 @@ D1
 Before an Inviting Hut
 ~
 ~
-1 -1 17318
+-3 -1 17318
 E
-chalice~
-On closer inspection the chalice is not the holy grail.
-~
-E
-bed~
-The bed looks comfortable. Inviting.
-~
-E
-meat wine~
-The meat is juicy, the wine has a nice dry aroma and a deep red color.
+chair~
+Why don't you sit down for a while and have a nice meal?
 ~
 E
 candle~
@@ -550,13 +547,21 @@ Its a black candle. What was that you remember about black candles?
 Oh yeah, they are used by witches in black masses.
 ~
 E
-chair~
-Why don't you sit down for a while and have a nice meal?
+meat wine~
+The meat is juicy, the wine has a nice dry aroma and a deep red color.
+~
+E
+bed~
+The bed looks comfortable. Inviting.
+~
+E
+chalice~
+On closer inspection the chalice is not the holy grail.
 ~
 S
 #17324
 The Yawning Depths~
-  Blue...NO GREEN!
+Blue...NO GREEN!
    AHHHHHHHHHHHHHHHH
        AHHHHHHHHHHHHHHHH
            AHHHHHHHHHHHHHHHH
@@ -566,7 +571,7 @@ SPLAAAAT.
 S
 #17325
 The Green Field Before Camelot~
-  You stand under the open sky in the emerald green field before Camelot.
+You stand under the open sky in the emerald green field before Camelot.
 Camelot lies ontop of a hill overlooking the field. Flags and banners 
 snap in the fresh breeze from the proud towers of Camelot. You can either 
 head east to Camelot or west to the chasm.
@@ -585,7 +590,7 @@ The Chasm
 S
 #17326
 The Western Gate Of Camelot~
-  You stand at the gates to Camelot. You have a commanding view of the emerald 
+You stand at the gates to Camelot. You have a commanding view of the emerald 
 plane below. White granite walls rise impressively into the air.
 ~
 173 4 1
@@ -593,7 +598,7 @@ D1
 The Western Gate
 ~
 gate eastern~
-1 -1 17341
+-3 -1 17341
 D3
 A green field
 ~
@@ -602,7 +607,7 @@ A green field
 S
 #17327
 Bailey Of Blackmoor~
-  You stand inside the bailey of Blackmoor. Murder holes line the walls and 
+You stand inside the bailey of Blackmoor. Murder holes line the walls and 
 towers rise ahead. To the north and south are black iron gates.
 ~
 173 5 1
@@ -610,12 +615,12 @@ D0
 Black Iron Gate
 ~
 gate black iron~
-1 -1 17328
+-3 -1 17328
 D2
 Black Iron Gate
 ~
 ~
-1 -1 17316
+-3 -1 17316
 E
 hole holes~
 Nobody seems to be looking at you through the murder holes
@@ -623,7 +628,7 @@ Nobody seems to be looking at you through the murder holes
 S
 #17328
 Inside The Curtain Wall~
-  You stand on a road inside the Curtain Wall of Blackmoor. The keep proper 
+You stand on a road inside the Curtain Wall of Blackmoor. The keep proper 
 is to your north. The road continues to the east and west, and a black iron 
 gate is to the south.
 ~
@@ -637,7 +642,7 @@ D2
 Black Iron Gate
 ~
 ~
-1 -1 17327
+-3 -1 17327
 D3
 Inside the Curtain Wall
 ~
@@ -646,7 +651,7 @@ Inside the Curtain Wall
 S
 #17329
 Inside The Curtain Wall~
-  You stand on the road inside the curtain wall of Blackmoor. Stairs lead up 
+You stand on the road inside the curtain wall of Blackmoor. Stairs lead up 
 to the eastern bailey tower and the road continues to the north and west.
 ~
 173 1 1
@@ -668,7 +673,7 @@ The East Bailey Tower
 S
 #17330
 Inside The Curtain Wall~
-  You stand on the road inside the curtain wall. Stairs lead up to the western 
+You stand on the road inside the curtain wall. Stairs lead up to the western 
 bailey tower, and the road continues north and east.
 ~
 173 1 1
@@ -690,7 +695,7 @@ The West Bailey Tower
 S
 #17331
 Inside The Curtain Wall~
-  You stand on a road inside the curtain wall of Blackmoor. The keep proper 
+You stand on a road inside the curtain wall of Blackmoor. The keep proper 
 is to the east of you. The bloody road continues north and south.
 ~
 173 1 1
@@ -713,7 +718,7 @@ of Camelot.
 S
 #17332
 Inside The Curtain Wall~
-  You stand on a road inside the curtain wall of Blackmoor. Stairs lead up to 
+You stand on a road inside the curtain wall of Blackmoor. Stairs lead up to 
 the northwestern tower of blackmoor. The road continues to the south, and 
 to the east where the entrance to the keep proper is.
 ~
@@ -736,7 +741,7 @@ The Northwestern Tower of Blackmoor
 S
 #17333
 Entrance To The Keep Proper~
-  You stand on a road inside the curtain wall of Blackmoor. To the south is 
+You stand on a road inside the curtain wall of Blackmoor. To the south is 
 a massive wooden door, from which you hear elfin laughter. The road 
 continues to the east and west.
 ~
@@ -750,7 +755,7 @@ D2
 A Massive Wooden Door
 ~
 door wooden massive~
-1 -1 17340
+-3 -1 17340
 D3
 Inside the Curtain Wall
 ~
@@ -763,7 +768,7 @@ Its huge! Hope you don't get a hernia opening it.
 S
 #17334
 Inside The Curtain Wall~
-  You stand on a road inside the curtain wall of Blackmoor. Stairs lead up 
+You stand on a road inside the curtain wall of Blackmoor. Stairs lead up 
 to the northeastern tower of Blackmoor. The road continues to the south 
 and west, where the entrance to the keep proper is located.
 ~
@@ -786,7 +791,7 @@ The Northeast Tower
 S
 #17335
 Inside The Curtain Wall~
-  You stand on a road inside the curtain wall of Blackmoor. To the west 
+You stand on a road inside the curtain wall of Blackmoor. To the west 
 looms the keep proper. The road continues north and south.
 ~
 173 1 1
@@ -803,7 +808,7 @@ Inside the Curtain Wall
 S
 #17336
 The Northwest Tower Of Blackmoor~
-  You stand inside the northwestern tower. You have a commanding view of 
+You stand inside the northwestern tower. You have a commanding view of 
 the keep and the moor itself. Stairs lead downward.
 ~
 173 1 0
@@ -821,7 +826,7 @@ moment you are glad you are in a solid tower.
 S
 #17337
 The Northeastern Tower Of Blackmoor~
-  You stand inside the northeastern tower. You have a commanding view of 
+You stand inside the northeastern tower. You have a commanding view of 
 the keep and the surrounding moor. Stairs lead down.
 ~
 173 1 0
@@ -833,7 +838,7 @@ Inside the Curtain Wall
 S
 #17338
 West Bailey Tower~
-  You stand inside the western bailey tower. You have a great view of the 
+You stand inside the western bailey tower. You have a great view of the 
 bailey and you could fire a ranged weapon through the murder hole. Stairs 
 lead down.
 ~
@@ -850,7 +855,7 @@ You peek through the murder hole at the bailey as many have done before you.
 S
 #17339
 East Bailey Tower~
-  You stand inside the eastern bailey tower. You have a commanding view of 
+You stand inside the eastern bailey tower. You have a commanding view of 
 the bailey and could fire uncontested through the murder hole. Stairs lead 
 down.
 ~
@@ -863,7 +868,7 @@ Inside the Curtain Wall
 S
 #17340
 The Dark Hall Of Mordred~
-  You stand in the foul hall of Mordred. Smoke writhes upward to the rafters 
+You stand in the foul hall of Mordred. Smoke writhes upward to the rafters 
 from a firepit in the center. Armor from defeated knights is hung from 
 hooks on the wall. Knights sit in a circle about the fire staring woodenly 
 into the flames. A young elvin lad in golden armor laughs as he weaves a 
@@ -874,20 +879,20 @@ D0
 Entrance to the Keep Proper
 ~
 ~
-1 -1 17333
-E
-firepit fire pit~
-You examine the fire pit. A large body is roasting here. It looks human!
-~
+-3 -1 17333
 E
 lad elvin~
 You shake your head and look a second time. The lad disappears. A foul 
 spell has hold of you!
 ~
+E
+firepit fire pit~
+You examine the fire pit. A large body is roasting here. It looks human!
+~
 S
 #17341
 Victory Road And Knights Way~
-  You stand on a marbled road inside the great walls of Camelot. Pinnons 
+You stand on a marbled road inside the great walls of Camelot. Pinnons 
 fly from high towers and the buildings gleam of white stone. Victory Road 
 contiues east into the keep, and Knights Way runs north and south.
 ~
@@ -911,11 +916,11 @@ D3
 West Gate of Camelot
 ~
 ~
-1 -1 17326
+-3 -1 17326
 S
 #17342
 Knights Way Before The Stables~
-  You stand on the white marbled road, Knights Way. You smell horses to 
+You stand on the white marbled road, Knights Way. You smell horses to 
 the east. To the west the high walls of camelot rise. Knights way continues 
 to the north and south.
 ~
@@ -936,19 +941,19 @@ Knights Way
 ~
 0 -1 17341
 E
-stables~
-There are many horses and squires scurring about in the stables.
-~
-E
 high walls~
 The high walls tower above you, made from a gleaming white stone. The 
 blocks are huge- it must have taken a great engine to hoist them. Pennons 
 snap in  the breeze from the many towers of Camelot.
 ~
+E
+stables~
+There are many horses and squires scurring about in the stables.
+~
 S
 #17343
 Victory Road~
-  You stand on victory road. Knights pennons are stuck in the ground on 
+You stand on victory road. Knights pennons are stuck in the ground on 
 both sides of the road, with their coat of arms flapping in the breeze. 
 There are available slots for other coats of arms. Victory road continues 
 to the east and west.
@@ -972,7 +977,7 @@ of Gawaine, Tristram, and of course Lancelot.
 S
 #17344
 Knights Way At The Armory~
-  You stand on the white marbled Knights Way. To your west the towering 
+You stand on the white marbled Knights Way. To your west the towering 
 walls of Camelot rise, and to the east is the armory of Camelot. Knights 
 Way continues north and south.
 ~
@@ -1001,7 +1006,7 @@ snap in  the breeze from the many towers of Camelot.
 S
 #17345
 Corner Of Knight's Way And Squire's Run~
-  You stand at the corner of Knight's way and Squire's run. An arched 
+You stand at the corner of Knight's way and Squire's run. An arched 
 doorway rises up into a stalwart tower. You can see lettering above the 
 arch.  Knight's way continues south, and Squire's Run heads east.
 ~
@@ -1030,7 +1035,7 @@ You look at the engraved words:
 S
 #17346
 Behind The Pict Lines~
-  You have battled your way through the ranks of the Picts, and your 
+You have battled your way through the ranks of the Picts, and your 
 salley has placed you behind the Pict lines! To the east the battle 
 rages, and you see fleeing Picts headed this way.  A barbarian is winding 
 a horn with the recall signal.
@@ -1040,7 +1045,7 @@ D1
 Into the raging battle
 ~
 ranks~
-1 -1 17397
+-3 -1 17397
 E
 barbarian horn~
 The barbarian sees you looking at you, and flees in terror!
@@ -1048,7 +1053,7 @@ The barbarian sees you looking at you, and flees in terror!
 S
 #17347
 Victory Road~
-  Here Victory Road ends at the great Tourney Yard of Camelot. A podium 
+Here Victory Road ends at the great Tourney Yard of Camelot. A podium 
 for tourney winners is erected here- today it bears the coat of arms 
 of Lancelot. Flanking the road are the standards of the other knights 
 of the round table. A strange peace fills the air here. Victory road 
@@ -1068,7 +1073,7 @@ Victory Road
 S
 #17348
 Armory~
-  You stand in the Armory of Camelot. The master blacksmith and his 3 
+You stand in the Armory of Camelot. The master blacksmith and his 3 
 apprentices are busy fabricating a suit of armor for a knight. Various 
 pieces of armor are here in varying states of repair. There is a large  
 weapons rack on the eastern wall. To the west is Knight's Way.
@@ -1080,17 +1085,17 @@ Knight's Way
 ~
 0 -1 17344
 E
-armor~
-The armor pieces are made from fine hammered steel.
-~
-E
 weapons rack~
 The weapons rack contains several daggers, a few lances, and some maces.
+~
+E
+armor~
+The armor pieces are made from fine hammered steel.
 ~
 S
 #17349
 Corner Of Knight's Way And Noble Road~
-  You stand at the corner of Knights Way and Noble Road. A tower rises up 
+You stand at the corner of Knights Way and Noble Road. A tower rises up 
 from here by a winding staircase. There is an inscription above the archway 
 to the tower. Knights way continues north and Noble Road goes east.
 ~
@@ -1119,7 +1124,7 @@ You look at the inscription. It reads:
 S
 #17350
 Squire's Run~
-  You stand on Squire's Run. Squires bustle up and down the road on various 
+You stand on Squire's Run. Squires bustle up and down the road on various 
 errands for their lords. You notice a scroll lying on the ground. Squire's
 Run contines east and west.
 ~
@@ -1147,7 +1152,7 @@ You look at the scroll. It is torn and badly smeared. You can make out:
 S
 #17351
 Tower Of Valor~
-  You stand in the tower of valor. The walls bear murals of battle scenes, 
+You stand in the tower of valor. The walls bear murals of battle scenes, 
 of knights fighting knights and various unearthly beasts. There is a hollow 
 in one of the walls in which a fire takes the edge off the cold of the room. 
 The smoke puts you in a strange daze in which the MURALS seem to come to 
@@ -1171,7 +1176,7 @@ though the tall grass. The dragon-
 S
 #17352
 Tourney Yard Of Camelot~
-  You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the reknowned tourney yard of Camelot. Here knights challenge 
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -1199,7 +1204,7 @@ Victory Road
 S
 #17353
 Tower Of Honor~
-  You stand in the tower of honor. MURALS cover the walls and domed ceiling.
+You stand in the tower of honor. MURALS cover the walls and domed ceiling.
 Smoke rolls out in an erie caress from the fire hollow in the walls. A 
 strange tingling sensation rushes through your body. Stairs lead to the 
 street below.
@@ -1222,7 +1227,7 @@ under the oaks. Lancelot turns to face Gwenivere-
 S
 #17354
 Noble Road~
-  You stand on Noble Road. The street is paved in yellow stone, giving the 
+You stand on Noble Road. The street is paved in yellow stone, giving the 
 impression of gold in the wet sections. A statue of Uther Pendragon is 
 here. The road continues east and west.
 ~
@@ -1246,7 +1251,7 @@ with an uneasy intensity.
 S
 #17355
 Squire's Run At The North Gate~
-  You stand on Squire's run. A steady stream of traffic is coming and going 
+You stand on Squire's run. A steady stream of traffic is coming and going 
 to the south, where the squire's barracks is. To the north is the Great 
 Northern Gate of Camelot. Squire's run continues to the west, and the 
 Tourney Yard of Camelot is to the west. At your feet sits a beggar holding 
@@ -1257,7 +1262,7 @@ D0
 The Great Northern Gate of Camelot
 ~
 gate~
-1 -1 17356
+-3 -1 17356
 D1
 Tourney Yard of Camelot
 ~
@@ -1267,7 +1272,7 @@ D2
 Squire's Barracks
 ~
 door~
-1 -1 17357
+-1 -1 17357
 D3
 Squire's Run
 ~
@@ -1282,7 +1287,7 @@ With a groan and a grovel the beggar shuffles off to the discard pile.
 S
 #17356
 The Great Northern Gate Of Camelot~
-  You stand before the great northern gate of Camelot. A dirt road winds 
+You stand before the great northern gate of Camelot. A dirt road winds 
 down the hill upon which Camelot rests into the rolling grass hills of 
 the north. To the south is Squire's Run.
 ~
@@ -1296,11 +1301,11 @@ D2
 Squire's Run
 ~
 ~
-1 -1 17355
+-3 -1 17355
 S
 #17357
 Squire's Barracks~
-  You stand in the squire's barracks. It is here that all of the lackeys 
+You stand in the squire's barracks. It is here that all of the lackeys 
 of the knights of the round table reside while their lords are in court. 
 The place is a jumble of beds, lockers, and tables. Activity swirls 
 around the long wooden benches and tables where at present people are 
@@ -1312,11 +1317,11 @@ D0
 Squire's Run at the North Gate
 ~
 ~
-1 -1 17355
+-1 -1 17355
 S
 #17358
 Tourney Yard Of Camelot~
-  You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the reknowned tourney yard of Camelot. Here knights challenge 
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -1339,7 +1344,7 @@ Tourney Yard of Camelot
 S
 #17359
 Tourney Yard Of Camelot~
-  You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the reknowned tourney yard of Camelot. Here knights challenge 
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -1367,7 +1372,7 @@ Victory Road
 S
 #17360
 Tourney Yard Of Camelot~
-  You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the reknowned tourney yard of Camelot. Here knights challenge 
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -1390,7 +1395,7 @@ Tourney Yard of Camelot
 S
 #17361
 Noble Road At The South Gate~
-  You stand at on Noble road at the Great Southern Gate of Camelot. To the 
+You stand at on Noble road at the Great Southern Gate of Camelot. To the 
 north lies the Noble quarters, where visiting nobility reside. The 
 tournament yard is to the east and Noble Road continues west. There is a 
 statue here of a knight.
@@ -1400,7 +1405,7 @@ D0
 Noble's Quarters
 ~
 door~
-1 -1 17366
+-3 -1 17366
 D1
 Tourney Yard of Camelot
 ~
@@ -1410,12 +1415,18 @@ D2
 The Great Southern Gate
 ~
 gate~
-1 -1 17367
+-3 -1 17367
 D3
 Noble Road
 ~
 ~
 0 -1 17354
+E
+inscription~
+Here stands our rememberance of Miles O' the Lands, knight of quality, of 
+the Round Table. He fought valiantly defending the queen in the Battleplain 
+of Arden.
+~
 E
 statue knight~
 The statue is of a mounted knight, riding forth to the southern gate. He 
@@ -1423,16 +1434,10 @@ bears a pennon in one hand, a lance in the other, and wears full armor.
 The horse which he rides rears in the air, signifying death in combat. 
 There is a small inscription here.
 ~
-E
-inscription~
-Here stands our rememberance of Miles O' the Lands, knight of quality, of 
-the Round Table. He fought valiantly defending the queen in the Battleplain 
-of Arden.
-~
 S
 #17362
 Tourney Yard Of Camelot~
-  You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the reknowned tourney yard of Camelot. Here knights challenge 
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -1455,7 +1460,7 @@ Squire's Run at the North Gate
 S
 #17363
 Tourney Yard Of Camelot~
-  You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the reknowned tourney yard of Camelot. Here knights challenge 
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -1478,7 +1483,7 @@ Tourney Yard of Camelot
 S
 #17364
 Tourney Yard Of Camelot~
-  You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the reknowned tourney yard of Camelot. Here knights challenge 
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -1501,7 +1506,7 @@ Noble Run at the South Gate
 S
 #17365
 Tourney Yard Of Camelot~
-  You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the reknowned tourney yard of Camelot. Here knights challenge 
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -1524,7 +1529,7 @@ Tourney Yard of Camelot
 S
 #17366
 Noble's Quarters~
-  You are inside the quarters in which visiting nobleman reside.
+You are inside the quarters in which visiting nobleman reside.
 There is a courtyard with a fountain where you stand, and there are several 
 individual chambers shooting off of the courtyard.
 ~
@@ -1533,31 +1538,26 @@ D0
 Noble Chamber
 ~
 door~
-1 -1 17378
+-3 -1 17378
 D1
 Noble Chamber
 ~
 door~
-1 -1 17379
+-1 -1 17379
 D2
 Noble Road at the South Gate
 ~
 ~
-1 -1 17361
+-3 -1 17361
 D3
 Noble Chamber
 ~
 door~
-1 17338 17380
+-7 17338 17380
 E
-fountain~
-The fountain has has flowing water from a statue of a girl holding an urn.
-The water drops into a tile lined pool, where fish swim. Some coins have 
-been tossed in the fountain.
-~
-E
-fish~
-The fish are small minnow like fish, mostly bottom feeders.
+girl statue~
+The statue depicts a girl in a tunic-like dress. She is chubby and has 
+shoulder length hair.
 ~
 E
 coins~
@@ -1565,14 +1565,19 @@ You really dont want to bother getting the coins out. It would be in poor
 taste.
 ~
 E
-girl statue~
-The statue depicts a girl in a tunic-like dress. She is chubby and has 
-shoulder length hair.
+fish~
+The fish are small minnow like fish, mostly bottom feeders.
+~
+E
+fountain~
+The fountain has has flowing water from a statue of a girl holding an urn.
+The water drops into a tile lined pool, where fish swim. Some coins have 
+been tossed in the fountain.
 ~
 S
 #17367
 The Great Southern Gate~
-  You stand before the great southern gate of Camelot. Southwards a cobbled 
+You stand before the great southern gate of Camelot. Southwards a cobbled 
 road winds through fertile cultivated plains. Serfs are tilling the field 
 with horse drawn ploughs. Corn, wheat, and beans are growing. Your vantage 
 is fantastic, and the breeze clears your nose of the city smells.
@@ -1591,7 +1596,7 @@ A Cobblestone Road
 S
 #17368
 Tourney Yard Of Camelot~
-  You stand in the reknowned tourney yard of Camelot. Here knights challenge 
+You stand in the reknowned tourney yard of Camelot. Here knights challenge 
 one and another for a claim to a seat on the round table. You can make out 
 several contests underway- perhaps you would like to joust?
 ~
@@ -1609,7 +1614,7 @@ Tourney Yard of Camelot
 S
 #17369
 Tourney Yard Of Camelot~
-  You stand in the reknowned tourney yard of Camelot. Here knights challenge
+You stand in the reknowned tourney yard of Camelot. Here knights challenge
 one and another for a claim to a seat on the round table. You can make out
 several contests underway- perhaps you would like to joust?
 ~
@@ -1627,7 +1632,7 @@ Tourney Yard of Camelot
 S
 #17370
 The Court Of Camelot~
-  You stand in the fabled court of Camelot. Here in the sunny courtyard noblemen
+You stand in the fabled court of Camelot. Here in the sunny courtyard noblemen
 and knights walk barefoot in the grass discussing chivalry and wars to come.
 Troubadours play ballads on their lutes and entertainers hop and leap into the
 air all for a chance of earning the kings favor. Ladies in waiting play their
@@ -1642,12 +1647,12 @@ D0
 The Knights Barracks
 ~
 door~
-1 -1 17374
+-3 -1 17374
 D1
 The Round Table
 ~
 door~
-1 -1 17376
+-3 -1 17376
 D2
 The Feast Hall
 ~
@@ -1658,6 +1663,11 @@ The Tourney Yard of Camelot
 ~
 ~
 0 -1 17359
+E
+spectator~
+The lady in waiting is weeping, as her knight was the orange knight. She
+quickly recovers and tosses her favor to the black knight.
+~
 E
 yard tourney~
 You watch two knights across the tourney yard. To the left is a knight
@@ -1673,15 +1683,10 @@ hard shot to the center of the shield of the orange knight. You watch the
 orange knight fly and land with a sickening crash on the yard. The black
 knight circles and raises his lance in a salute to Arthur.
 ~
-E
-spectator~
-The lady in waiting is weeping, as her knight was the orange knight. She
-quickly recovers and tosses her favor to the black knight.
-~
 S
 #17371
 The Feast Hall~
-  You have arrived in the feast hall of Camelot. You are in luck. A feast is 
+You have arrived in the feast hall of Camelot. You are in luck. A feast is 
 in progress. There are many open bench type tables with sevants scurrying 
 too and fro. Some tables hold knights, while others have ladies. A bards 
 song adds to the festive air of celebration. A huge fire rages in a great 
@@ -1698,11 +1703,11 @@ D2
 The Ladies Chambers door
 ~
 ~
-1 -1 17372
+-3 -1 17372
 S
 #17372
 The Ladies' Chambers~
-  You are in the ladies' chambers. I hope you are a lady, for you are in big 
+You are in the ladies' chambers. I hope you are a lady, for you are in big 
 trouble if you are not! There are many many rooms here, some occupied, some 
 not, but there certainly is a lot of activity. A young girl stands in sorrow 
 here weeping, and you notice a group of ladies off in the corner. There is 
@@ -1714,17 +1719,12 @@ D0
 The Feast Hall door
 ~
 ~
-1 -1 17371
+-3 -1 17371
 D4
 A staircase winding upwards
 ~
 ~
 0 -1 17373
-E
-girl young~
-You talk to the girl. She is upset because Lancelot wont pay attention to 
-her.
-~
 E
 ladies group~
 You perk up your ears and listen in on the group of ladies. You overhear :
@@ -1732,10 +1732,15 @@ You perk up your ears and listen in on the group of ladies. You overhear :
 by that foul Mordred. Her father has offered a considerable sum for her 
 safe return. I think my Gawaine can surely claim it...."
 ~
+E
+girl young~
+You talk to the girl. She is upset because Lancelot wont pay attention to 
+her.
+~
 S
 #17373
 The Maiden's Tower~
-  Oh yes, it is here that the virginal maidens of the court reside, pining 
+Oh yes, it is here that the virginal maidens of the court reside, pining 
 away for their knights who travel far and wide on Arthurs missions. The 
 main activity here is tapestry making, and presently there are 3 tapestries 
 under construction.
@@ -1754,7 +1759,7 @@ battle between knights and the other is of a hunt in the Forest Arden.
 S
 #17374
 Knight's Barracks~
-  You have entered the knights barracks. Cots and armor stands fill the room.
+You have entered the knights barracks. Cots and armor stands fill the room.
 Some knights are here sleeping and healing from their war wounds. A simple 
 wash stand is at the end of the quarters, and the windows are shaded to 
 darken the room. The only conversation is in hushed tones. There is a door 
@@ -1766,7 +1771,7 @@ D2
 You see the Court of Camelot
 ~
 ~
-1 -1 17370
+-3 -1 17370
 D4
 A staircase winding upwards
 ~
@@ -1775,7 +1780,7 @@ A staircase winding upwards
 S
 #17375
 Merlin's Tower~
-  You have found Merlin's tower. It is a jumbled mess of books, scrolls, 
+You have found Merlin's tower. It is a jumbled mess of books, scrolls, 
 wands, staves, etc. There are rickety worn out tables and chairs upon 
 which a variety of curiosities rest. Merlin also has several animals 
 and specimens of this and that in crocks on wooden shelves. You take a 
@@ -1790,20 +1795,21 @@ D4
 Into the pulsating pentagram
 ~
 ~
-2 -1 17381
+-15 -1 17381
 D5
 A staircase winding down
 ~
 ~
 0 -1 17374
 E
-books scrolls wands staves~
-You sift through Merlin's books, scrolls, wands, and staves. All are 
-inscribed in a strange runic language which you can't even begin to fathom.
+pentagram pulsating~
+Your inner coice, which has always served you well so far, screams at you 
+to LEAVE IT ALONE!
 ~
 E
-animals~
-Merlin has a crow, a cat, and a toad. All watch your every move.
+crocks shelves~
+You fumble through Merlins crockery, and all you accomplish is getting a 
+black resiny substance which itches all over your fingers and clothing.
 ~
 E
 sign the me at~
@@ -1816,19 +1822,18 @@ THERE IS NOTHING OF WORTH IN THE PENTAGRAM, ONLY DEATH, and nothing short
 of DIRECT DIVINE INTERVENTION will get you out of it. - Merlin
 ~
 E
-crocks shelves~
-You fumble through Merlins crockery, and all you accomplish is getting a 
-black resiny substance which itches all over your fingers and clothing.
+animals~
+Merlin has a crow, a cat, and a toad. All watch your every move.
 ~
 E
-pentagram pulsating~
-Your inner coice, which has always served you well so far, screams at you 
-to LEAVE IT ALONE!
+books scrolls wands staves~
+You sift through Merlin's books, scrolls, wands, and staves. All are 
+inscribed in a strange runic language which you can't even begin to fathom.
 ~
 S
 #17376
 The Round Table~
-  You have entered the Round Table, where warcouncil is held between Arthur 
+You have entered the Round Table, where warcouncil is held between Arthur 
 and his companions. The Round Table is 30' in diameter, and made of polished 
 cherry. Around it are 50 chairs. The room which houses the table is also 
 round and far above you see the domed ceiling. Light streams down in long 
@@ -1841,7 +1846,7 @@ D3
 You see the Court of Camelot
 ~
 ~
-1 -1 17370
+-3 -1 17370
 D4
 A staircase winding upward
 ~
@@ -1855,7 +1860,7 @@ would get very tired fast, and attract every knight in the kingdom.
 S
 #17377
 Arthur's Chambers~
-  You have entered the private chambers of King Arthur. A dragon banner serves 
+You have entered the private chambers of King Arthur. A dragon banner serves 
 as a canopy and curtains for his large four posted bed. He has a marble 
 basin and a cherry desk and chair. A huge ermine rug lies on the floor. A 
 staircase winds downwards. Tapestries depicting him pulling Excalibur from 
@@ -1870,7 +1875,7 @@ A staircase winding downwards
 S
 #17378
 Noble's Chambers~
-  You are tresspassing in a Nobles chamber. He negligently forgot to lock his 
+You are tresspassing in a Nobles chamber. He negligently forgot to lock his 
 door, relying upon the honor of all within Camelot to protect his posessions.
 The chambers consist of a common room, several bed chambers, and a servant 
 area.
@@ -1880,7 +1885,7 @@ D2
 Noble's Quarters
 ~
 ~
-1 17338 17366
+-3 17338 17366
 E
 possessions~
 Nothing here you really need.
@@ -1888,7 +1893,7 @@ Nothing here you really need.
 S
 #17379
 Noble's Chambers~
-  You are standing in vacated chambers. Perhaps you will stay a while and 
+You are standing in vacated chambers. Perhaps you will stay a while and 
 visit the court? The chambers consist of several bed chambers, a sitting 
 room, and a small garden.
 ~
@@ -1897,7 +1902,7 @@ D3
 Noble's Quarters
 ~
 door~
-1 -1 17366
+-1 -1 17366
 E
 garden~
 Some fresh vegetables and flowers are growing here.
@@ -1905,7 +1910,7 @@ Some fresh vegetables and flowers are growing here.
 S
 #17380
 Noble's Chambers~
-  You are tresspassing in a Noble's chamber. This noble locked his door, 
+You are tresspassing in a Noble's chamber. This noble locked his door, 
 anticipating intrusion from scum like you. The chambers consist of a common 
 room, several bed chambers, and a servant area.
 ~
@@ -1914,11 +1919,11 @@ D1
 Noble's Quarters
 ~
 door~
-2 -1 17366
+-15 -1 17366
 S
 #17381
 The Pentagram~
-  Well you have done it. You have stepped into the pentagram. You are blasted 
+Well you have done it. You have stepped into the pentagram. You are blasted 
 by a hellish heat, and cackling assails you from all sides. Your entire body 
 is wracked in pain, and you hear yourself screaming in and endless cry of 
 horror. You are stuck here forever!!!!!!
@@ -1927,7 +1932,7 @@ horror. You are stuck here forever!!!!!!
 S
 #17382
 The Rolling Hills~
-  You have spent the day travelling a road through the rolling hills north of
+You have spent the day travelling a road through the rolling hills north of
 Camelot. You have gone through several villages. The people you have met 
 are generally a happy lot. You presently stand at a crossroads. To the 
 north, the road continues through the rolling hills. To the east the road 
@@ -1952,7 +1957,7 @@ A winding road
 S
 #17383
 The Rolling Hills~
-  You have spent the day travelling a road through the rolling hills north of
+You have spent the day travelling a road through the rolling hills north of
 Camelot. You have gone through several villages. The people you have met are 
 generally a happy lot. To the north, the road winds upwards into the 
 highlands. The road continues south into the rolling hills.
@@ -1971,7 +1976,7 @@ A winding road
 S
 #17384
 The Grassy Plains~
-  You spend a week travelling through a great grassy plain. You have crossed 
+You spend a week travelling through a great grassy plain. You have crossed 
 several baronies in you travels. You have encounterd knights and pilgrims 
 on your journey, and slept in many a hayloft and haystack. The farmland is 
 productive here, and there have been many horse ranches, in which the fine 
@@ -1991,11 +1996,10 @@ The rolling hills
 ~
 0 -1 17382
 E
-stone strange formation~
-You look at the stone formation. The stones stand about 15' tall an are 
-arranged in a circular series of frames, with two stones stacked on end 
-and one laid across the tops of the other two. There is a stone table in 
-the center of the formation, upon which the first light of day is striking.
+lettering~
+The lettering says:
+
+ LACNOGIRANDUTOS ROYU AYLGPIN LILSK SI BLAMMENEDOC
 ~
 E
 table~
@@ -2004,15 +2008,16 @@ BLOOD! You examine the ground around the table and find fleece. Obviously
 this is an altar. You can just make out some lettering on the stone.
 ~
 E
-lettering~
-The lettering says:
-
- LACNOGIRANDUTOS ROYU AYLGPIN LILSK SI BLAMMENEDOC
+stone strange formation~
+You look at the stone formation. The stones stand about 15' tall an are 
+arranged in a circular series of frames, with two stones stacked on end 
+and one laid across the tops of the other two. There is a stone table in 
+the center of the formation, upon which the first light of day is striking.
 ~
 S
 #17385
 The Highlands~
-  You have spent the day travelling in the highlands, and you are very tired.
+You have spent the day travelling in the highlands, and you are very tired.
 You stand at an old Wall that runs east and west through the hills. Not 
 many trees grow here, as all has been cleared north of the wall. South of 
 the wall stretches a winding road. North of the wall is the untamed Scottish 
@@ -2023,29 +2028,29 @@ D0
 The Scottish highlands
 ~
 gate~
-1 -1 17387
+-3 -1 17387
 D1
 An outpost
 ~
 door~
-1 -1 17388
+-3 -1 17388
 D3
 A winding road
 ~
 ~
 0 -1 17383
 E
-wall~
-You look at the wall. There is lettering on it.
-~
-E
 lettering~
 The lettering says: HADRIANUS
+~
+E
+wall~
+You look at the wall. There is lettering on it.
 ~
 S
 #17386
 The Rocky Coast~
-  You have picked your way through the rocky coast. The weather has been 
+You have picked your way through the rocky coast. The weather has been 
 foul, which has influenced your mood. The road vanished 2 days ago. Now 
 you stand on a cliff overlooking the vast ocean. The mist obscures your 
 view of the horizon, but you know its there- somewhere. Far below you is 
@@ -2071,7 +2076,7 @@ barbaric people. The beach is definitly inhabited.
 S
 #17387
 The Scottish Highlands~
-  You have spent several days wandering in the Scottish highlands. You have 
+You have spent several days wandering in the Scottish highlands. You have 
 spied the lassies tending the sheep, and several bands of wandering Scot 
 raiders, which you have sensibly evaded. Up ahead, on the bluff rises a keep.
 You are not certain you should go in.
@@ -2090,7 +2095,7 @@ The keep on the bluff
 S
 #17388
 An Outpost~
-  You are in the outpost for the wall. It is a stone keep, with little in the 
+You are in the outpost for the wall. It is a stone keep, with little in the 
 way of creatur comforts. There are barracks and a main hall. Guards are 
 posted along the wall. Your arrival has been a source of great interest, 
 as these bordermen don't see many people.
@@ -2100,11 +2105,11 @@ D3
 At the gate door
 ~
 ~
-1 -1 17385
+-3 -1 17385
 S
 #17389
 The Rocky Beach~
-  You stand on the rocky beach wishing you had a boat. You had a tough climb 
+You stand on the rocky beach wishing you had a boat. You had a tough climb 
 down through all of those crevices. There are several caves and grottos 
 here.
 ~
@@ -2115,17 +2120,17 @@ A tough climb that you would rather not do
 ~
 0 -1 17386
 E
-grotto grottos~
-The surf is crashing hard in the grottos. You can taste the salt spray.
-~
-E
 cave caves~
 You look at the caves- smoke! This place is inhabited!
+~
+E
+grotto grottos~
+The surf is crashing hard in the grottos. You can taste the salt spray.
 ~
 S
 #17390
 Scots Keep~
-  You are in the speldor of a Scots keep. Walls are draped with animal hides.
+You are in the speldor of a Scots keep. Walls are draped with animal hides.
 Women and children are sprawled among pallets of skins and hides. A great 
 roaring fire blazes in a huge stone hearth, taking the chill from your 
 bones. The men were doing a dance involving leaping over swords, but they 
@@ -2145,7 +2150,7 @@ The iron pot contains a mix of potatoes, roots, and what appears to be boar.
 S
 #17391
 Farms~
-  You have spent a day travelling though the breadbasket of Camelot, following 
+You have spent a day travelling though the breadbasket of Camelot, following 
 a cobble stone road. The fields are producing well this year, and the 
 peasants are out harvesting a bountiful crop. Soon the harvest end festivals 
 will begin and all will celebrate another fine year. In fact you have 3 
@@ -2171,7 +2176,7 @@ A cobblestone road
 S
 #17392
 Farms~
-  You have spent a day travelling though the breadbasket of Camelot, following 
+You have spent a day travelling though the breadbasket of Camelot, following 
 a cobble stone road. The fields are producing well this year, and the 
 peasants are out harvesting a bountiful crop. Soon the harvest end festivals 
 will begin and all will celebrate another fine year. Your pleasant mood is 
@@ -2200,7 +2205,7 @@ You can make out the cries of 'To Arms! To Arms! The Angle raiders are here!
 S
 #17393
 Farms~
-  You have spent a day travelling though the breadbasket of Camelot, 
+You have spent a day travelling though the breadbasket of Camelot, 
 following a cobble stone road. The fields are producing well this year, 
 and the peasants are out harvesting a bountiful crop. Soon the harvest 
 end festivals will begin and all will celebrate another fine year. In fact 
@@ -2221,7 +2226,7 @@ A cobblestone road
 S
 #17394
 Farms~
-  You have spent a day travelling though the breadbasket of Camelot, 
+You have spent a day travelling though the breadbasket of Camelot, 
 following a cobble stone road. This paticular section of farms is not 
 doing as well, as signs of raiding and pillaging abound here. The peasants 
 seem to be bouncing back, and the fields are once again with crop. To 
@@ -2247,7 +2252,7 @@ A muddy road
 S
 #17395
 Angle Raid!~
-  You are in the whirling chaos of an Angle raid on this farming village.
+You are in the whirling chaos of an Angle raid on this farming village.
 Farmers are defending themselves from the raiders with their farm tools.
 Women are gathering the children and running north. Some unlucky women 
 are being raped by the brutish Angles, who are so named for the long 
@@ -2263,7 +2268,7 @@ To where everybody else is fleeing
 S
 #17396
 An Outpost~
-  You have reached a fortified outpost. Your boots sink in the mud which 
+You have reached a fortified outpost. Your boots sink in the mud which 
 is rutted and groved by the supply wagons which come her.
 You talk to the guards and they warn you of the merciless Picts to the 
 west, with whom Camelot is at war. The men are hardened by warfare, and 
@@ -2284,7 +2289,7 @@ The clamor of battle
 S
 #17397
 Battle!~
-  You have boldly entered the heart of a raging battle between the knights 
+You have boldly entered the heart of a raging battle between the knights 
 of Camelot and the barbaric Picts. The knights have set up a skirmish 
 line across the field, spreading out the Picts, while two calvary units 
 are sweeping around the ends in a pincher like move. Holding the center 
@@ -2301,11 +2306,11 @@ D3
 Behind the Pict lines
 ~
 ranks~
-1 -1 17346
+-3 -1 17346
 S
 #17398
 Stables~
-  You stand in the vast stables of Camelot. Row upon row of stalls greet 
+You stand in the vast stables of Camelot. Row upon row of stalls greet 
 your eye. Smells of horse sweat and fresh straw combine in a pleasant mix. 
 Stable hands are busy currying animals, shoeing horses, and feeding the 
 magnificant chargers of Camelot. Light filters in through the rafters. 
@@ -2320,7 +2325,7 @@ Knight's Way
 S
 #17399
 Pet Storage For Stables~
-  This is actual stables where the horses are kept to be sold.
+This is actual stables where the horses are kept to be sold.
 ~
 173 4 0
 S
