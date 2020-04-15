@@ -2174,8 +2174,6 @@ A beautiful pelt of dazzlingly white fur lies here.~
 11 cde ak
 0 0 0 0
 5 0 0
-R
-5 5
 A
 2 1
 A
@@ -2188,8 +2186,6 @@ A pair of ivory sabre-like teeth lie here.~
 12 0 ao
 0 0 0 0
 10 0 0
-R
-25 25
 A
 18 2
 A
@@ -2237,8 +2233,6 @@ A great iron spear lies here, ice crystals forming on its blade.~
 5 adegjlnoqr an
 7 5 3 14
 22 0 0
-R
-65 65
 E
 spear iron blade ice crystals~
 This is a huge iron spear, radiating an aura of unnatural cold.  It is
@@ -2292,8 +2286,6 @@ Two strips of goatskin lie here.~
 9 ehq af
 3 0 0 0
 5 0 0
-R
-5 5
 A
 14 3 
 A
@@ -2314,8 +2306,6 @@ A great shield of ice stained black lies here, not melting.~
 9 degjmnoq aj
 15 0 0 0
 20 0 0
-R
-65 70
 A
 1 2
 A
@@ -2356,8 +2346,6 @@ A talisman carved of strange black ice lies here, unmelted.~
 11 0 ac
 0 0 0 0
 12 0 0
-R
-35 35
 A
 5 3
 A
@@ -2399,8 +2387,6 @@ The huge trunk of a mammoth lies here, bleeding.~
 5 0 n
 0 0 0 0 
 0 0 0
-R
-300 300
 #41421
 ice pick~
 an ice pick~
@@ -2417,8 +2403,6 @@ Some icy scales lie here, glittering.~
 9 deiq ai
 9 0 0 0
 8 0 0
-R
-45 45
 A
 19 1
 #41423
@@ -2429,8 +2413,6 @@ A set of huge black claws lie on the ground here.~
 5 deq an
 10 6 8 8
 10 0 0
-R
-50 50
 #41424
 skees planks~
 a pair of skees~
@@ -2439,8 +2421,6 @@ A pair of small planks lie here - they have 'SKEES' written on them.~
 9 dekmnpq ag
 2 0 0 0
 12 0 0
-R
-15 15
 A
 2 2
 A
@@ -2453,8 +2433,6 @@ A helm of black ice lies here.  It isn't melting.~
 9 degmnoq ae
 12 0 0 0
 14 0 0
-R
-50 50
 A
 1 1
 A

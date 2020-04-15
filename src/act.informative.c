@@ -1836,7 +1836,7 @@ ACMD(do_score)
     i = 100 * GET_HIT(ch) / GET_MAX_HIT(ch);
     STATUS_COLOR(i, colorbuf, ch, C_CMP);
     //sprintf(buf, "%sHit : %s%4d&0/&G%4d&0 (&c%c%-3d&0)      Exp to level: &c%-15d&0Hitroll: &c%2d&0\r\n",
-    sprintf(buf, "%sHit   : %s%4d&0/&G%4d&0 (&G%c%-3d&0)      Exp to level: &G%-3.2f%%&0           Hitroll: &G%2d&0\r\n",
+    sprintf(buf, "%sHit   : %s%4d&0/&G%4d&0 (&G%c%-3d&0)      Exp to level: &G%-3.2f%%&0            Hitroll: &G%2d&0\r\n",
             //buf, colorbuf, GET_HIT(ch), GET_MAX_HIT(ch), (hit_gain(ch)>0? '+' : '-'), abs(hit_gain(ch)),  total_exp(GET_LEVEL(ch))-GET_EXP(ch), ch->points.hitroll/*,((str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction)>=0 ? "+": ""), str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction*/);
             buf, colorbuf, GET_HIT(ch), GET_MAX_HIT(ch), (hit_gain(ch)>0? '+' : '-'), abs(hit_gain(ch)),  100.0*GET_EXP(ch)/LEVELEXP(ch), ch->points.hitroll/*,((str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction)>=0 ? "+": ""), str_app[STRENGTH_APPLY_INDEX(ch)].tohit + dex_app[GET_DEX(ch)].reaction*/);
 

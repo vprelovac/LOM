@@ -1680,7 +1680,7 @@ void            renum_zone_table(void)
             oldc = ZCMD.arg3;
 
             switch (ZCMD.command) {
-            case 'M':
+            case 'M'://load a mobile
                 a = ZCMD.arg1 = real_mobile(ZCMD.arg1);
                 c = ZCMD.arg3 = real_room(ZCMD.arg3);
                 if (ZCMD.arg2<=0)
@@ -1697,7 +1697,7 @@ void            renum_zone_table(void)
                 }
                 mobkills[olda].rnum=a;
                 break;
-            case 'O':
+            case 'O':// load an object
                 
                 a = ZCMD.arg1 = real_object(ZCMD.arg1);
                 if (ZCMD.arg3 != NOWHERE)
@@ -1720,21 +1720,21 @@ void            renum_zone_table(void)
                     ZCMD.arg2=MAX_OBJS_PER_ROOM;
                 }
                 break;
-            case 'G':
+            case 'G'://give object to mobile
                 a = ZCMD.arg1 = real_object(ZCMD.arg1);
                 if (a!=-1 && GET_OBJ_TYPE(&obj_proto[a])==ITEM_KEY)
                 {                	
                 	ZCMD.arg2=5;
                 }
                 break;
-            case 'E':
+            case 'E':// equip mobile with object
                 a = ZCMD.arg1 = real_object(ZCMD.arg1);
                 if (a!=-1 && GET_OBJ_TYPE(&obj_proto[a])==ITEM_KEY)
                 {                	
                 	ZCMD.arg2=5;
                 }
                 break;
-            case 'P':
+            case 'P'://put object in object
             
                 a = ZCMD.arg1 = real_object(ZCMD.arg1);
                 c = ZCMD.arg3 = real_object(ZCMD.arg3);
@@ -1743,7 +1743,7 @@ void            renum_zone_table(void)
                 	ZCMD.arg2=5;
                 }
                 break;
-            case 'D':
+            case 'D'://set the state of a door
                 a = ZCMD.arg1 = real_room(ZCMD.arg1);
                 break;
             case 'R':           /* rem obj from room */

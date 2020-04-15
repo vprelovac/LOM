@@ -1822,7 +1822,7 @@ $end~
 
 #MOBILES
 #41500
-mob shady thief guard~
+shady thief guard~
 The shady guard~
 A shady guard is here, eyeing you suspiciously.
 ~
@@ -1834,7 +1834,7 @@ cooler place.
 5000 22500
 8 8 0
 #41501
-mob quinn thief master~
+quinn thief master~
 Quinn, the Master Thief~
 Quinn, the Master Thief, is expecting your arrival.
 ~
@@ -1847,7 +1847,7 @@ thief.  He winks at you and rushes to the attack!
 50000 45000
 8 8 0
 #41502
-mob head interrogator~
+head interrogator~
 The Head Interrogator~
 The Head Interrogator is devising a plan to loosen your tongue!
 ~
@@ -1861,9 +1861,9 @@ enough for the job.  She does all she can to kill you.
 68000 48500
 8 8 0
 #41503
-mob annoying hidden guard~
+annoying hidden guard~
 An annoying hidden guard~
-A hidden mob is here; you can't see him.
+A hidden is here; you can't see him.
 ~
 This guard was hidden, which is why you didn't see him until he attacked
 you.  You suspect he is only one of many.
@@ -1873,7 +1873,7 @@ you.  You suspect he is only one of many.
 5000 2250
 8 8 0
 #41504
-mob scary spider~
+scary spider~
 A scary spider~
 A scary spider is looking for someone to suck.
 ~
@@ -1885,7 +1885,7 @@ spider.  It turns its fangs upon you and contemplates whether to suck away.
 500 7500
 8 8 0
 #41505
-mob thief blacksmith~
+thief blacksmith~
 the blacksmith~
 An enormously strong blacksmith is here, making thiefly tools.
 ~
@@ -1898,7 +1898,7 @@ his delicate work on a set of lockpicks.
 30000 37500
 8 8 0
 #41506
-mob graffin's shadow thief~
+graffin's shadow thief~
 the shadow~
 The shadow knows what evil lurks in the hearts of thieves.
 ~
@@ -1911,7 +1911,7 @@ slices it open!
 5000 22500
 8 8 0
 #41507
-mob Mystif sage soothsayer~
+Mystif sage soothsayer~
 Mystif~
 Mystif, resident sage and soothsayer, is telling the future here.
 ~
@@ -1924,7 +1924,7 @@ He doesn't SEEM to have much physical strength.
 80000 52500
 8 8 0
 #41508
-mob ugly otyugh~
+ugly otyugh~
 the Otyugh~
 An ugly Otyugh is here, devouring garbage, and YOU!
 ~
@@ -1936,7 +1936,7 @@ tentacles.  As you enter, he raises his tentacles for a strike at fresh meat.
 30000 40500
 8 8 0
 #41509
-mob jhessail~
+jhessail~
 Jhessail the Relentless~
 Jhessail the Relentless is preparing to meet her next victum.
 ~
@@ -1954,7 +1954,7 @@ deceased foes.
 50000 45000
 8 8 0
 #41510
-mob deadly virus~
+deadly virus~
 The Deadly Virus~
 The Deadly Virus is here, attempting to enter you.
 ~
@@ -1967,7 +1967,7 @@ a long time.
 25000 37500
 8 8 0
 #41511
-mob high thief guard~
+high thief guard~
 the thief guard~
 A high-ranking thief guard is here, guarding stuff.
 ~
@@ -1979,7 +1979,7 @@ piercing eyes help in intimidating you as he looks for your weaknesses.
 40000 42000
 8 8 0
 #41512
-mob the court jester~
+the court jester~
 the Court Jester~
 The Court Jester is here, entertaining you.
 ~
@@ -1992,7 +1992,7 @@ He implores you to smile.
 45000 43500
 8 8 0
 #41513
-mob nick fence~
+nick fence~
 Nick~
 Nick the Fence is here, selling not-so-hot merchandise.
 ~
@@ -2005,7 +2005,7 @@ the eye and says, "What can i get for ya?"
 35000 40500
 8 8 0
 #41514
-mob rust monster~
+rust monster~
 the rust monster~
 A rust monster is here, looking for some food.
 ~
@@ -2017,7 +2017,7 @@ craving for metal as food.  It eyes you and then decides it is hungry.
 10000 22500
 8 8 0
 #41515
-mob flame salamander fire~
+flame salamander fire~
 the flame salamander~
 A fire salamander is here, emerging from the lava flow.
 ~
@@ -2029,7 +2029,7 @@ It has a passion for fire and wields a wicked-looking weapon.
 1000 15000
 8 8 0
 #41516
-mob grendel fiery dragon~
+grendel fiery dragon~
 Grendel~
 Grendel, the Fiery Dragon, is here, ruling his people.
 ~
@@ -2042,7 +2042,7 @@ than his own.
 80000 52500
 8 8 0
 #41517
-mob glabrezu~
+glabrezu~
 the glabrezu~
 The glabrezu is here, and it is hungry!
 ~
@@ -2055,7 +2055,7 @@ trapped in this maze, and it wants to take its frustrations out on you.
 15000 30000
 8 8 0
 #41518
-mob pit fiend~
+pit fiend~
 the pit fiend~
 A pit fiend is here, heating up lunch with his breath.
 ~
@@ -2067,7 +2067,7 @@ He is EXTREMELY upset about being trapped in this crappy dimension.
 15000 30000
 8 8 0
 #41519
-mob worm purple~
+worm purple~
 the purple worm~
 A purple worm is here, existing.
 ~
@@ -2079,7 +2079,7 @@ tube.  You almost don't know which end to attack.
 15000 30000
 8 8 0
 #41520
-mob black cat~
+black cat~
 the black attack cat~
 The black attack cat is here, guarding the room.
 ~
@@ -2092,7 +2092,7 @@ yellow eyes.
 1000 15000
 8 8 0
 #41521
-mob foxy lady~
+foxy lady~
 the foxy lady~
 A foxy lady is here, attempting to seduce you.
 ~
@@ -2111,7 +2111,7 @@ $end~
 
 #OBJECTS
 #41500
-obj parrying dagger~
+parrying dagger~
 a parrying dagger~
 A long, oddly shaped dagger is lying here.~
 ~
@@ -2123,7 +2123,7 @@ A
 A
 12 -10
 #41501
-obj key worn old~
+key worn old~
 an old, well worn key~
 An old, worn key is lying here.~
 ~
@@ -2131,7 +2131,7 @@ An old, worn key is lying here.~
 41501 0 10 0
 1 1 -1
 #41502
-obj hat feathered flaming~
+hat feathered flaming~
 a feathered hat~
 A hat with a flaming red feather is lying here, collecting dust.~
 ~
@@ -2141,13 +2141,13 @@ A hat with a flaming red feather is lying here, collecting dust.~
 A
 2 3
 A
-36 -1
+18 2
 A
-3 -1
+9 -1
 A
-26 -1
+6 1
 #41503
-obj rapier jade-hilted~
+rapier jade-hilted~
 a jade-hilted rapier~
 A jade-hilted rapier is lying here.~
 ~
@@ -2161,7 +2161,7 @@ A
 A
 4 -2
 #41505
-obj shiny steel key~
+shiny steel key~
 a shiny steel key~
 A shiny steel key is lying here, glinting with your reflection.~
 ~
@@ -2169,7 +2169,7 @@ A shiny steel key is lying here, glinting with your reflection.~
 41505 0 10 0
 3 2 -1
 #41506
-obj tongue loosened~
+tongue loosened~
 a loosened tongue~
 A loosened tongue is lying here, begging to be used.~
 ~
@@ -2177,7 +2177,7 @@ A loosened tongue is lying here, begging to be used.~
 0 1 1 7
 1 5 5
 #41507
-obj skeleton~
+skeleton~
 a skeleton~
 A skeleton lies here, with some old items among the bones.~
 ~
@@ -2185,7 +2185,7 @@ A skeleton lies here, with some old items among the bones.~
 500 1 10 0
 100 1 100000000
 #41508
-obj etched teak wood bracelet~
+etched teak wood bracelet~
 an etched teak bracelet~
 A bracelet made from teak wood is lying here.~
 ~
@@ -2201,7 +2201,7 @@ A
 A
 27 -1
 #41509
-obj spiked hook~
+spiked hook~
 a spiked hook~
 A nasty looking hook with a BIG spike is lying here.~
 ~
@@ -2213,7 +2213,7 @@ A
 A
 23 -2
 #41510
-obj old rotten barrel~
+old rotten barrel~
 an old, rotten barrel~
 An old, rotten barrel, still holding its contents, is here.~
 ~
@@ -2221,7 +2221,7 @@ An old, rotten barrel, still holding its contents, is here.~
 10 8 6 1
 10 1 20
 #41511
-obj pimento loaf~
+pimento loaf~
 a pimento loaf~
 A luscious looking pimento loaf lies here, looking at you.~
 ~
@@ -2229,7 +2229,7 @@ A luscious looking pimento loaf lies here, looking at you.~
 20 0 10 0
 1 8 2
 #41512
-obj housebreaker's harness~
+housebreaker's harness~
 a housebreaker's harness~
 A harness of some sort is lying here.  It looks shady.~
 ~
@@ -2240,10 +2240,8 @@ A
 14 -5
 A
 2 1
-A
-37 -1
 #41513
-obj lockpicks~
+lockpicks~
 some lockpicks ~
 Some well-made lockpicks are lying here.~
 ~
@@ -2257,7 +2255,7 @@ A
 A
 18 1
 #41514
-obj head cheese~
+head cheese~
 some head cheese~
 Some "delicious" looking head cheese is lying here.~
 ~
@@ -2265,7 +2263,7 @@ Some "delicious" looking head cheese is lying here.~
 10 0 10 1
 1 1 3
 #41515
-obj stone Eh'Qadish~
+stone Eh'Qadish~
 the Stone of Eh'Qadish~
 The Stone of Eh'Qadish was lovingly placed here.~
 ~
@@ -2279,7 +2277,7 @@ A
 A
 1 -1
 #41516
-obj backpack~
+backpack~
 a backpack~
 A backpack is lying here.~
 ~
@@ -2287,7 +2285,7 @@ A backpack is lying here.~
 300 0 10 0
 10 2000 300
 #41517
-obj speckled sleeves~
+speckled sleeves~
 some speckled sleeves~
 Some velvet sleeves, decorated with magical speckles, lie here.~
 ~
@@ -2301,7 +2299,7 @@ A
 A
 14 -5
 #41518
-obj shiny black pants~
+shiny black pants~
 some shiny pants~
 Some shiny black pants lie crumpled in a corner.~
 ~
@@ -2315,7 +2313,7 @@ A
 A
 24 -3
 #41519
-obj hole wall~
+hole wall~
 the hole in the wall~
 The is a hole in the wall here.~
 ~
@@ -2323,7 +2321,7 @@ The is a hole in the wall here.~
 10000 0 10 0
 1 5 5
 #41520
-obj bottle fine wine~
+bottle fine wine~
 a bottle of fine wine~
 A bottle of fine wine is here, completing the mood.~
 ~
@@ -2331,7 +2329,7 @@ A bottle of fine wine is here, completing the mood.~
 50 50 2 0
 1 5 5
 #41521
-obj black rose~
+black rose~
 a black rose~
 A hauntingly beautiful black rose is here.~
 ~
@@ -2339,7 +2337,7 @@ A hauntingly beautiful black rose is here.~
 0 0 10 0
 1 5 5
 #41522
-obj mono~
+mono~
 a mono~
 Some lucky person got rid of their mono here.~
 ~
@@ -2355,7 +2353,7 @@ A
 A
 2 -2
 #41523
-obj tapestry~
+tapestry~
 a tapestry~
 A tapestry is here, speaking of old times.~
 ~
@@ -2363,7 +2361,7 @@ A tapestry is here, speaking of old times.~
 0 0 10 0
 1 5 5
 #41524
-obj ornamental plate mail armor~
+ornamental plate mail armor~
 some ornamental plate mail~
 Someone discarded some beautiful armor here.~
 ~
@@ -2377,7 +2375,7 @@ A
 A
 24 -3
 #41525
-obj eq saver~
+eq saver~
 the EQ Saver~
 The EQ Saver is lying here.~
 ~
@@ -2385,7 +2383,7 @@ The EQ Saver is lying here.~
 41525 0 10 0
 1 1 -1
 #41526
-obj beautiful evening gown~
+beautiful evening gown~
 a beautiful evening gown~
 A beautiful evening gown is lying here.~
 ~
@@ -2393,7 +2391,7 @@ A beautiful evening gown is lying here.~
 0 0 10 0
 1 5 5
 #41527
-obj ornate case~
+ornate case~
 an ornate sword case~
 An ornate sword case is here, displaying priceless weapons.~
 ~
@@ -2401,7 +2399,7 @@ An ornate sword case is here, displaying priceless weapons.~
 10000 1 41527 0
 1000 5 10000000
 #41528
-obj ornamental key~
+ornamental key~
 an ornamental key~
 An ornamental key is lying here.~
 ~
@@ -2409,7 +2407,7 @@ An ornamental key is lying here.~
 41528 0 10 0
 1 1 -1
 #41529
-obj jester hat~
+jester hat~
 a red and green jester hat~
 A red and green hat of some sort is here.  It looks silly.~
 ~
@@ -2423,7 +2421,7 @@ A
 A
 18 -1
 #41530
-obj lace teddy~
+lace teddy~
 a red, lacey teddy~
 A seductive, red, lacey teddy is lying here.~
 ~
@@ -2435,7 +2433,7 @@ A
 A
 23 -2
 #41531
-obj scales justice~
+scales justice~
 some scales of justice~
 The scales of justice are here, keeping balance.~
 ~
@@ -2449,7 +2447,7 @@ A
 A
 2 -1
 #41532
-obj trident~
+trident~
 a red hot trident~
 A red hot trident is lying here, smoldering.~
 ~
@@ -2459,7 +2457,7 @@ A red hot trident is lying here, smoldering.~
 A
 18 3
 #41533
-obj shrine~
+shrine~
 a shrine~
 A shrine is here, glorifying an unknown god.~
 ~
@@ -2467,7 +2465,7 @@ A shrine is here, glorifying an unknown god.~
 10000 0 10 0
 1 5 5
 #41534
-obj shard doom~
+shard doom~
 the Shard of Impending Doom~
 A shard half wrapped in cloth is here.~
 ~
@@ -2481,7 +2479,7 @@ A
 A
 13 -15
 #41535
-obj murky pool~
+murky pool~
 a murky pool~
 A murky pool of water covers part of the floor here.~
 ~
@@ -2489,7 +2487,7 @@ A murky pool of water covers part of the floor here.~
 10000 0 10 0
 99 5 1000000000
 #41536
-obj chain mail etherealness~
+chain mail etherealness~
 some chain mail of etherealness~
 Some chain mail that doesn't look quite real is here.~
 ~
@@ -2501,7 +2499,7 @@ A
 A
 19 1
 #41537
-obj teal satin gloves~
+teal satin gloves~
 some teal satin gloves~
 Some teal gloves lie here.~
 ~
@@ -2513,9 +2511,9 @@ A
 A
 19 1
 A
-33 -1
+6 1
 #41538
-obj red kango~
+red kango~
 a red kango~
 A red kango is lying here.~
 ~
@@ -2531,7 +2529,7 @@ A
 A
 19 1
 #41539
-obj pearl necklace~
+pearl necklace~
 a pearl necklace~
 A pearl necklace is here.~
 ~
@@ -2545,7 +2543,7 @@ A
 A
 24 -1
 #41540
-obj cloudy crystal ball~
+cloudy crystal ball~
 a cloudy crystal ball~
 A cloudy crystal ball is here, telling the future.~
 ~
@@ -2561,7 +2559,7 @@ A
 A
 12 10
 #41541
-obj pointed ruby crown~
+pointed ruby crown~
 a pointed ruby crown~
 A pointed ruby crown is here.~
 ~

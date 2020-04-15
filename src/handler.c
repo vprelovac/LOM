@@ -483,7 +483,7 @@ void            affect_modify(struct char_data * ch, int loc, int mod, long bitv
         break;
 
     default:
-        sprintf(buf, "%d %d", loc, mod);
+        sprintf(buf, "%s %d %d", GET_NAME(ch), loc, mod);
         log(buf);
         log("SYSERR: Unknown apply adjust attempt (handler.c, affect_modify).");
         break;
