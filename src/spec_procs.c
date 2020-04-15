@@ -3444,8 +3444,8 @@ SPECIAL(temple_cleric)
 
 
 
-#define num_gpaths 2
-static int go_path[num_gpaths] = {3521, 324};
+#define num_gpaths 3
+static int go_path[num_gpaths] =  {3521, 2159, 3606};
 static int gangdest = 0;
 static int gang_in_fight=0;
 
