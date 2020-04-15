@@ -1,0 +1,2276 @@
+#40000
+A Windswept Ledge~
+The moment you materialize on this ledge you are almost swept off it
+by a strong gust of icy wind, that almost sends you hurtling down the
+sheer slope of the mountain that this tiny section of level stone is
+set into. A yawning abyss beckons there, you cannot even see to the
+bottom through the blizzard that is raging through the region. Other
+snow-covered spires loom all around, while gale force winds buffet you
+mercilessly. The wind howls and shrieks as it blows through the gaps
+between the peaks; the effect is quite disturbing. The only apparent
+escape from this torment is a small hole in the ground, that leads on
+down into the darkness within the mountain.
+~
+400 c 5
+D5
+A dark passage.
+~
+~
+0 -1 40001
+S
+#40001
+A Dark Passage~
+A tunnel descends steeply from the ledge, heading down to whatever is
+within the bowels of the peak you arrived on. No torches light the
+area, at least not here, though a dim light is visible far, far below.
+Snow drifts formed by snow that has come in the hole above pile high to
+either side, and are marked with the tracks of various creatures, some
+of whom are rather large; giantish in fact. The howling wind above is
+nerve wracking, and it takes little incentive to proceed downwards to
+where it is quieter.
+~
+400 adxy 0
+D4
+Back outside.
+~
+~
+0 -1 40000
+D5
+A dark passage.
+~
+~
+0 -1 40002
+S
+#40002
+A Divided Tunnel~
+At this point the tunnel splits, with two branches heading further down
+into the depths of the mountain, though at a noticeably flatter gradient;
+gone is the steep descent you have up till now endured. A dim glow can 
+be seen to the southeast, where the majority of the tracks seem to pass
+to and from. The walls are of crevice-ridden granite, covered with thin
+layers of ice and frost, frozen by the chilly temperatures here, though
+they are at least bearable with adequate clothing, unlike outside.
+~
+400 acdxy 0
+D4
+A dark passage ascends to the ledge outside.
+~
+~
+0 -1 40001
+D8
+A new path beckons.
+~
+~
+0 -1 40003
+D9
+A new path beckons.
+~
+~
+0 -1 40033
+S
+#40003
+The Rift~
+After roughly one hundred yards, the path emerges onto another ledge,
+though this one is inside instead of outside. To your surprise, it
+runs for a short distance along the eastern edge of a truly massive
+rift, which yawns to the west, stretching into the distance to the far
+south. Gusts of wind whistle up and down the rift, the floor of which
+is not visible from this vantage. The ledge continues to the south,
+disappearing around a bend to the southwest, as it circles the rift.
+An opening in the wall just south of here offers an alternate route,
+however, and it is to here that most of the tracks run.
+~
+400 adxy 0
+D2
+A ledge skirts the edge of the rift.
+~
+~
+0 -1 40004
+D7
+A tunnel ascends sharply.
+~
+~
+0 -1 40002
+S
+#40004
+An Opening in the Rift Wall~
+The ledge continues its course along the eastern rim of the rift,
+narrowing a little as it nears a bend to the southwest. An opening in
+the eastern wall looms up ahead, opening onto a darkened tunnel that
+heads away from the rift, towards whatever else lies down here. A
+faint greenish glow provides a little light here and there, though the
+conditions are still gloomy, to your eyes at least.
+~
+400 adxy 0
+D0
+A ledge skirts the edge of the rift.
+~
+~
+0 -1 40003
+D1
+A narrow passage disappears into the gloom.
+~
+~
+0 -1 40005
+D9
+A ledge skirts the edge of the rift.
+~
+~
+0 -1 40014
+S
+#40005
+A Junction~
+Two passages lead away from this narrow accessway, which ends in a dead
+end a short distance to the north of here. The floor underfoot is slick,
+though not dangerously so, at least not yet. The walls are covered in 
+ice, which has been worn away in portions due to contact with the bodies
+of passing creatures, who where apparently of considerable stature. The
+faint greenish glow is still present, illuminating fresh tracks in the
+thin layer of powdery snow that layers the floor at random intervals.
+~
+400 dxy 0
+D0
+A guard room.
+~
+~
+0 -1 40007
+D2
+A guard room.
+~
+~
+0 -1 40006
+D3
+The rift edge.
+~
+~
+0 -1 40004
+S
+#40006
+An Icy Cave~
+Several piles of sleeping skins cover the floor of this cave, which
+is for the most part covered in layers of ice, save for where the
+sleeping area is. Piles of boulders and blocks of ice lay near the
+entrance, presumably to serve as primitive missile weapons for the
+monsters that lair here, who are undoubtedly sentient, and more than
+likely of malevolent mein. No other exit umbrages the icy walls; the
+cave is isolated from the rest of the complex save for the opening
+to the north.
+~
+400 dxy 0
+D0
+A meeting of passages.
+~
+~
+0 -1 40005
+S
+#40007
+An Icy Cavern~
+This natural cavern was hollowed out by centuries of erosion from the
+movement of ice through the bowels of the mountain, and as such could
+escape notice as being the residence of giants, save for the four fur
+covered mounds that serve as their beds. Large icy stalactites depend
+from the high roof; excessive heat or noise could bring them tumbling
+down, so caution would be advised. A broad passage, leading further 
+into the icy home of the frost giants, can be detected to the east.
+~
+400 dxy 0
+D1
+Another passage awaits!
+~
+~
+0 -1 40008
+D2
+A meeting of passages.
+~
+~
+0 -1 40005
+S
+#40008
+An Icy Passage~
+This broad passage runs east for a short distance, before turning to
+the south, heading directly towards the center of the mountain, and
+running parallel to the rift to the west, beyond the guard rooms. It
+appears that this passage sees frequent usage; fresh footprints mark
+small patches of snow, while several of the icy protrusions have also
+been snapped off as clumsy giants stumble into them, especially when
+they are intoxicated.
+~
+400 dxy 0
+D2
+This major passage continues.
+~
+~
+0 -1 40009
+D3
+An icy cavern filled with sleeping furs.
+~
+~
+-64 -1 40007
+S
+#40009
+An Icy Passage~
+The passage continues, stretching into the distance as far as one can
+see under the current lighting conditions. The air is cold, though 
+not unbearably so, and the walls covered with ice, some of which has
+melted and formed dangerous semi-frozen puddles on the floor in the
+numerous potholes that mar the tunnel. A larger creature, such as a
+giant or troll, may well stumble and fall upon these hazards, though
+the injury would do more damage to their pride than their rears.
+~
+400 dxy 0
+D0
+This major passage continues.
+~
+~
+0 -1 40008
+D2
+This major passage continues.
+~
+~
+0 -1 40010
+>
+entry_prog 100~
+if ispc($n)
+if race($n) == half-troll
+or race($n) == half-ogre
+if dex($n) < 18
+mea $n You slip and fall on one of the icy puddles!
+mer $n $n loses his footing and goes sailing into the air!
+mpforce $n sit
+mpdamage $n 20
+mpforce $n mutter
+else
+mea $n Your heavy feet are almost swept away, but you recover.
+mer $n $n waves $s arms about as $e almost slips on the ice.
+mpforce $n whew
+endif
+else
+endif
+else
+endif
+~
+|
+S
+#40010
+An Icy Passage~
+Onwards and downwards the passage runs, continuing deeper into this
+haven of giants. The footprints are just as frequent, and just as
+fresh; it appears dozens of giants have been on the move recently.
+This is no surprise; you are here because of their 'movements' that
+have taken them into conflict with the peaceful races of the south.
+The frost giants are a violent and bloodthirsty lot, far tougher and
+braver than their brutish hill giant cousins.
+~
+400 dxy 0
+D0
+This major passage continues.
+~
+~
+0 -1 40009
+D2
+This major passage continues.
+~
+~
+0 -1 40011
+S
+#40011
+An Icy Passage~
+At this point the passage begins to bend to the southwest, changing its
+course for the first time in several hundred yards. An opening in the
+west wall is the first side passage the tunnel has boasted for nearly
+its entire length, though judging by the tracks it is not a popular
+section of the rift. Your sense of direction tells you that heading 
+around the bend to the west will take you back out towards the ledges
+that line the rift, though there appears to be little choice but to
+return and skirt that ominous feature.
+~
+400 dxy 0
+D0
+This major passage continues.
+~
+~
+0 -1 40010
+D3
+A storage cavern, of sorts?
+~
+~
+0 -1 40013
+D9
+The passage bends sharply.
+~
+~
+0 -1 40012
+S
+#40012
+An Icy Passage~
+The tunnel narrows slighty here, as it bends, though only a score of
+giants would notice any inconvenience. To the west, it narrows to an
+opening back onto the sections of ledge that line the great rift at
+random intervals, while to the northeast it winds around a bend and
+heads back north towards the entrance to this monstrous subterranean
+lair. Stomping and shouting echo all about, as giants make their way
+through their glacial home.
+~
+400 dxy 0
+D3
+The rift.
+~
+~
+0 -1 40019
+D6
+The passage bends sharply.
+~
+~
+0 -1 40011
+S
+#40013
+A Storage Cave~
+This small cavern is filled at periodic intervals with all manner of
+supplies for the giant raiding parties before they set out to do 
+harm to humanity. Currently, it is almost empty, a sure sign that in
+fact such a raid is taking place right now. Deep marks in the ice on
+the floor show where heavy barrels and casks once rested.
+~
+400 dxy 0
+D1
+An icy passage.
+~
+~
+0 -1 40011
+S
+#40014
+A Narrow Ledge~
+The ledge hugs the rift wall here, allowing scant purchase for anyone
+to travel; at times you have to hug the wall as well, grabbing what
+handholds you can to avoid being swept off the icy ledge, which affords
+precious little purchase, by the winds that gust through the rift. A
+lone wolf howls somewhere in the distance; a warning, perhaps, or a cry
+of distress?
+~
+400 dxy 0
+D2
+The ledge widens again.
+~
+~
+0 -1 40015
+D6
+Safer terrain.
+~
+~
+0 -1 40004
+S
+#40015
+A Rocky Platform~
+The ledge ends here, at a rubble strewn ledge that boasts a broad
+cave entrance to the east, within which lies the gods-know-what... 
+it is far too dark to see far, despite the greenish glow given off
+at sporadic intervals by the unusual lithic anomalies that are so
+common in this subterranean rift. Tracks in the thin layer of snow
+that carpets the rubble appear to be canine, or more accurately,
+lupine in origin.
+~
+400 dxy 0
+D0
+A narrow ledge.
+~
+~
+0 -1 40014
+D1
+The cave is swathed in gloom.
+~
+~
+0 -1 40016
+S
+#40016
+An Icy Cave~
+This gloomy cavern does not contain the luminescent stone found in 
+other sections of the caves, and thus it is quite difficult to see
+and navigate. Large chunks of ice litter the floor, having fallen 
+from the roof above; apparently the ceiling of icicles is extremely 
+unstable. Dark openings beckon to the east and south; the wolf tracks
+pass to and from the opening to the east.
+~
+400 dxy 0
+D1
+The source of the tracks.
+~
+~
+0 -1 40017
+D2
+A gloomy chamber.
+~
+~
+0 -1 40018
+D3
+The rocky platform without.
+~
+~
+0 -1 40015
+>
+rand_prog 50~
+if ispc($r)
+mea $r _lbl A large chunk of ice falls from the ceiling, striking you!
+mer $r _lbl A large chunk of ice falls from the ceiling, striking $r!
+mpdamage $r 50
+endif
+~
+>
+entry_prog 33~
+if ispc($n)
+mea $n _lbl A sudden vibration sends chunks of ice tumbling downwards!
+if dex($n) < 16
+mea $n You are struck by several small chunks!
+mpdamage $n 20
+else
+mea $n You nimbly avoid the larger pieces.
+endif
+else
+endif
+~
+|
+S
+#40017
+Wolf Pack~
+This small cave is devoid of rubble; instead it boasts piles of frozen
+corpses, in various stages of consumption, and piles of bones, covered
+in bite marks. Whatever beast tore these people apart, it must have a
+set of powerful jaws. An awful smell, of wet canine, permeates all of
+this cave, insulting your nostrils with its stench.
+~
+400 dxy 0
+D3
+An icy cave.
+~
+~
+0 -1 40016
+S
+#40018
+A Burial Chamber, of Sorts~
+Several hacked and mutilated bodies have been frozen upright into the
+icy walls of this chamber, to intimidate intruders, as these are the
+remains of previous trespassers, displaying the fate they met. Many 
+of them still appear to be wearing their equipment; perhaps some of
+it is still in reasonable condition. The corpses are of elves, dwarves
+and humans, doubtless previous adventurers who sought to put down the
+leadership that has inspired the giants to war against humanity. Most of
+them were slain by blows to the head, then savaged by wolves, or perhaps
+even trolls. Frozen blood still carpets most of their forms, which stand
+with mouths agape, captured in the shock of death.
+~
+400 dxy 0
+D0
+An icy cave.
+~
+~
+0 -1 40016
+>
+act_prog p begins digging.~
+mea $n Excavating the ice is hard work...
+mea $n _lbl Additionally, your labors are causing the roof to vibrate...
+~
+|
+S
+#40019
+An Icy Ledge~
+The tunnel opens onto another icy ledge, this one marginally wider
+than the one near the entrance to the north, which is dimly visible
+from here, bending sharply away to the northeast some 300 feet away,
+in between lying one of the deep gorges opening into the rift, which
+runs north and south parallel to the ledge as far as you can see. A
+fierce wind whistles eerily through the rift, chilling you even in
+your warm clothing. The floor of the rift is some 200 feet below, a
+fall that would kill the stoutest of men; flying down is also out of
+the question as the fierce winds would smash you against the rift wall.
+~
+400 dxy 0
+D1
+A tunnel leads away from the ledge.
+~
+~
+0 -1 40012
+D2
+The ledge continues.
+~
+~
+0 -1 40020
+S
+#40020
+An Icy Ledge~
+The ledge ends abruptly just south of here, the only choice of route
+to proceed being another opening in the eastern wall. The wind howls
+and screams, while flecks of snow from a blizzard raging in the very
+center of the rift strike you in the face. Visibility is poor; you 
+are effectively snowblinded, able to see only a short distance by the
+aid of the greenish glow that suffuses this place.
+~
+400 dxy 0
+D0
+The ledge runs north.
+~
+~
+0 -1 40019
+D1
+Back inside.
+~
+~
+0 -1 40021
+S
+#40021
+A Junction~
+Several passages branch off into the icy depths of the caverns that
+surround the glacial rift, most of them heading to the south, and 
+thus deeper into the complex maze of passages. It is south that you
+must go, for it is there that you will surely encounter the Jarl, but
+the possibility of gathering loot from those along the way should not
+be ignored either. Numerous giants can be seen moving about in the
+distance, though a careful adventurer shouldn't find them terribly hard
+to avoid.
+~
+400 dxy 0
+D1
+Piles of furs serve as beds for mercenaries.
+~
+~
+-64 -1 40022
+D2
+A long tunnel.
+~
+~
+0 -1 40024
+D3
+An icy ledge.
+~
+~
+0 -1 40020
+D9
+A twisting passage that appears little-used.
+~
+~
+0 -1 40027
+S
+#40022
+The Ogre Caverns~
+Heaps of furry hides cover the floor of this cavern, which is not lit
+by the greenish glow so common in most of the rift. Instead, the walls
+are a dull grey, visible through the thin translucent layer of frost
+that coats them. This cavern is the quarters for some of the many non-
+giantish mercenaries that serve the Jarl, their stature indicated by the
+quality of their bedding, which could best be described as inadequate.
+~
+400 dxy 0
+D2
+Ogre! Ogre!
+~
+~
+0 -1 40023
+D3
+A collection of passages converge here.
+~
+~
+0 -1 40021
+S
+#40023
+The Ogre Caverns~
+The bedding here is little better than that to the north, and the same
+can be said for the lighting, which is also poor/nonexistant. A vile
+smell, of unwashed ogre combined with excrement and stale food, is
+noticeable from even a dozen yards away. How a creature could live like
+this is beyond you, though the chill does mean that the spoiled food and
+waste is usually frozen before disease afflicts the occupants, who seem
+to not mind the stench.
+~
+400 dxy 0
+D0
+Ogre! Ogre!
+~
+~
+0 -1 40022
+S
+#40024
+A Major Passage~
+The volume of footprints in the thin layer of snow that carpets this
+tunnel, having blown in from the rift to the north, indicates that 
+this is a busy thoroughfare, and undoubtedly proceeds to chambers of
+some import. Whether that is a good thing or not remains to be seen.
+A great deal of noise- bragging, laughing, shouting and swearing- is
+audible south of here, its source a brightly lit cavern that appears 
+to be filled with giants.
+~
+400 0 0
+D0
+Several passages converge here.
+~
+~
+0 -1 40021
+D2
+The cavern guard barracks.
+~
+~
+0 -1 40025
+S
+#40025
+Caverns of the Elite~
+A series of ledges at various heights in this broad chamber bear piles
+of furs and hides, and serve as the bunks for the guards garrisoned in
+here. A small campfire sheds illumination through most of the cavern,
+the heat enough to keep its occupants a good distance away while their
+meal cooks, though generous amounts of alcohol have dulled their innate
+fear of fire. The cavern continues to the southeast, where more giants
+are stationed.
+~
+400 dxy 0
+D0
+A popular thoroughfare.
+~
+~
+0 -1 40024
+D8
+Caverns of the elite.
+~
+~
+0 -1 40026
+S
+#40026
+Caverns of the Elite~
+Piles of rumpled furs bearing numerous stains of an unidentifiable
+nature abound here, spread on the floor, the ledges and some even
+nailed to the walls, to cover the bare rock and make the place seem
+more comfortable. Tankards of foul ale and (literally) ice cold beer
+litter the floor, as do haunches of half-cooked (and half-eaten) meat.
+A broad, well-travelled passageway runs due west of here, towards a
+visible junction lit by smoldering torches.
+~
+400 dxy 0
+D3
+A popular thoroughfare.
+~
+~
+0 -1 40067
+D7
+Caverns of the elite.
+~
+~
+0 -1 40025
+S
+#40027
+A Little-Used Passage~
+This corridor is knee-deep in snow, that has blown in from the west,
+where it opens onto an icy ledge that overlooks the blizzard-ridden
+glacial rift. No tracks mar the white powder, as it slowly turns to
+slush; it would appear the giants have no need, or desire, to travel
+down this section of their lair. It is cold here, colder even than
+usual in this chilly place, and you find it hard to keep moving.
+~
+400 dxy 0
+D3
+An icy ledge.
+~
+~
+0 -1 40028
+D6
+Several passages converge here.
+~
+~
+0 -1 40021
+S
+#40028
+A Blizzard-Ridden Ledge~
+This section of the ledges that surround in part the glacial rift is
+the most exposed to the raging blizzard that continually assaults the
+center of the rift. Snow is whipped into your face by winds of terrific
+speed, which threaten to send you sailing off the icy ledge to the icy
+ground far, far below. Even if the fall didn't kill you, the howling
+wind would most likely dash you against the rocks long before you did
+in fact impact with the ground.
+~
+400 dxy 0
+D1
+A snow-filled passage.
+~
+~
+0 -1 40027
+D2
+The ledge continues.
+~
+~
+0 -1 40029
+S
+#40029
+A Blizzard-Ridden Ledge~
+The blizzard continues its relentless assault, chilling you to the bone
+as it batters you and the ledge you fight to stay on. The ledge ends
+before another opening in the wall, but it is blocked by a huge boulder
+of solid stone, which is immovable except by great strength. Desperation
+can drive a person to feats of incredible strength and stamina, however,
+and the desire to get out of this blizzard is certainly an incentive!
+~
+400 dxy 0
+D0
+The ledge continues.
+~
+~
+0 -1 40028
+D1
+A large boulder fills most of the opening.
+~
+boulder~
+-15 -1 40030
+S
+#40030
+Cave of Bones~
+You stumble into a small cavern littered with literally hundreds of
+skeletons, of giants, ogres and other creatures; yetis, most likely.
+This chamber evidently serves as a burial ground for these creatures,
+though judging by the unceremonious way the bodies have been thrown in
+here they place little value in the afterlife. Some frozen corpses,
+the latest addition, lie propped up against the far wall, staring at
+you with dead eyes.
+~
+400 adxy 0
+D2
+The cave continues.
+~
+~
+0 -1 40031
+D3
+A boulder fills most of the opening.
+~
+boulder~
+-15 -1 40029
+S
+#40031
+Cave of the Toad~
+Past the macabre graveyard lies an even odder sight; a single stone
+ledge rises up in the center of the cave, surrounded by low-hanging
+stalactites of ice, bearing a curious object that appears to be the
+object of worship of the foul inhabitants of this glacial cave. The
+wind howls outside, audible through an opening in the western wall.
+~
+400 adxy 0
+D0
+A cave of bones.
+~
+~
+0 -1 40030
+D3
+An icy ledge.
+~
+~
+0 -1 40032
+S
+#40032
+An Icy Ledge~
+Stepping out takes you back into the full force of the blizzard, and
+you reel momentarily, almost plummeting straight over the edge to the
+hidden fates that await any unlucky enough to be swept into the dark
+rift. The superstitious could be forgiven for believing that the rift
+was possessed of some malevolent intelligence, bent on causing others
+suffering and pain, through its treacherous paths and foul tempests.
+At any rate, there is no way to continue here, save for back into the
+toads' temple.
+~
+400 dxy 0
+D1
+Weirdness.
+~
+~
+0 -1 40031
+S
+#40033
+A Long, Narrow Ledge~
+The sloping tunnel suddenly evens out, passing onto a long, narrow
+ledge that skirts a massive glacial rift, gaping like an open wound
+to the east. This amazing natual phenomenon runs through the center
+of the cave system that honeycombs the icy peak you arrived upon. A
+raging blizzard fills the center of the rift; the force of the wind
+can be felt even here; it almost disguises the awful stench that is
+detectable to the west.
+~
+400 0 1
+D3
+A horrid stench is noticeable even here.
+~
+~
+0 -1 40034
+D6
+The way out.
+~
+~
+0 -1 40002
+D9
+The ledge continues.
+~
+~
+0 -1 40036
+S
+#40034
+The Yeti Camp~
+This rubble-strewn cave is filled with piles of frozen bodies, slain
+by the inhabitants of this foul den, to be saved for later meals. A
+series of freshly slain humanoids hang from the ceiling, their feet
+frozen into the ice that coats this surface. Deep gouges and slashes
+mar their blood-drained bodies, evidence of the power of the beasts
+that slew them. The cave continues to the northeast, around a bend.
+~
+400 dxy 0
+D1
+A ledge skirts the rift.
+~
+~
+0 -1 40033
+D6
+The camp continues.
+~
+~
+0 -1 40035
+S
+#40035
+The Yeti Camp~
+This smallish section of the cave is devoid of corpses, or rubble;
+instead it sports a pile of furs and hides, that serve as the bed 
+for the creature quartered here. Apparently a leader of those to
+the southwest, he enjoys special privileges accorded to his rank as
+leader of the band. 
+ 
+~
+400 dxy 0
+D9
+The camp continues.
+~
+~
+0 -1 40034
+S
+#40036
+A Narrow, Mist-Shrouded Ledge~
+This section of the icy ledge is shrouded in mist that surges in great
+volumes from a cave to the northwest, its source apparently a change in
+temperature that is melting the frost laid over the centuries. A light
+layer of snow, from the blizzard, covers the ledge, and shows numerous
+tracks, though none head into the misty cave. Either it serves no major
+purpose, or it is considered dangerous.
+~
+400 dxy 0
+D3
+The ledge continues.
+~
+~
+0 -1 40038
+D6
+The ledge continues.
+~
+~
+0 -1 40033
+D7
+It is impossible to see through the mist. It would be inadvisable to wander blindly in.
+~
+~
+0 -1 40037
+S
+#40037
+A Misty Cave~
+As you pass into the cave, you are engulfed in mist, and find it hard
+to see further than the tip of your nose. Stumbling blindly through
+the interior, you are surprised to suddenly find the floor disappear
+beneath your feet! The hidden heat source has melted the icy floor of
+the cave, exposing a gaping hole that plummets many scores of yards
+downwards through the center of the mountain, and it is down this hole
+you plummet; even a fly spell couldn't save you as strong currents of
+wind grab ahold of you and dash you against jagged protrusions as you
+fall. You are dead long before your battered form is impaled on the 
+sharp icicles that line the bottom of this gorge, where it will remain,
+undiscovered for, most likely, all eternity.
+~
+400 abcdxy 0
+S
+#40038
+The Rift's Edge~
+The ledge continues, illuminated, albeit dimly, by a strange stone,
+possessed of luminescent properties and found naturally in the dark
+stone that lies beneath much of the icy formations of the rift. The
+tracks in the light powder continue; at this point several sets of
+feline pawprints head northwest into a small cave. Larger giantish
+prints proceed in either direction.
+~
+400 dxy 0
+D1
+This section of ledge is shrouded in mist.
+~
+~
+0 -1 40036
+D3
+A sharp corner dotted with openings.
+~
+~
+0 -1 40040
+D7
+A feline lair.
+~
+~
+0 -1 40039
+S
+#40039
+Lair of the Leopards~
+This small cave serves as home to the snow leopards kept by the giants
+as companions on the hunt or on guard, for they are silent, deadly
+killers who are loyal to their owners (feeders). The floor is littered
+with gnawed bones, and scraps of bloodstained clothing. It wouldn't
+be a good idea to linger in this lair.
+~
+400 dxy 0
+D8
+~
+~
+0 -1 40038
+S
+#40040
+A Sharp Bend in the Ledge~
+The ledge bends sharply here, heading east and south, with two large
+openings in the corner leading into cave systems. Traffic is heavy
+here, and frequent; giants and their dark allies heading to and from
+these caves on missions of evil. Voices raised in excitement and also
+anger echo all around, booming laughter shaking small chunks of ice
+loose from the roof.
+~
+400 0 1
+D0
+A barracks cave.
+~
+~
+0 -1 40041
+D1
+The ledge continues.
+~
+~
+0 -1 40038
+D2
+The ledge continues.
+~
+~
+0 -1 40045
+D3
+A barracks cave.
+~
+~
+0 -1 40043
+S
+#40041
+The Barracks Complex~
+The giants housed here are the ones who are sent on regular raids on
+humanity, armed with spear and boulder, relying on their sheer size
+strength to overcome the smaller races, who outnumber them. Each cave
+contains bedrolls, dried foodstuffs and piles of weapons, to be taken
+by the giants and their ogre mercenaries, on the long march south to
+the human settlements. There is an unusually efficient feel to all of
+these preparations, unusual amongst the chaotic and dim frost giants.
+~
+400 dxy 0
+D2
+The ledge outside.
+~
+~
+-64 -1 40040
+D3
+The barracks continue.
+~
+~
+0 -1 40042
+S
+#40042
+The Barracks Complex~
+The giants housed here are the ones who are sent on regular raids on
+humanity, armed with spear and boulder, relying on their sheer size
+strength to overcome the smaller races, who outnumber them. Each cave
+contains bedrolls, dried foodstuffs and piles of weapons, to be taken
+by the giants and their ogre mercenaries, on the long march south to
+the human settlements. There is an unusually efficient feel to all of
+these preparations, unusual amongst the chaotic and dim frost giants.
+~
+400 dxy 0
+D1
+The barracks continue.
+~
+~
+0 -1 40041
+D2
+The barracks continue.
+~
+~
+0 -1 40043
+S
+#40043
+The Barracks Complex~
+The giants housed here are the ones who are sent on regular raids on
+humanity, armed with spear and boulder, relying on their sheer size
+strength to overcome the smaller races, who outnumber them. Each cave
+contains bedrolls, dried foodstuffs and piles of weapons, to be taken
+by the giants and their ogre mercenaries, on the long march south to
+the human settlements. There is an unusually efficient feel to all of
+these preparations, unusual amongst the chaotic and dim frost giants.
+~
+400 dxy 0
+D0
+The ledge outside.
+~
+~
+0 -1 40042
+D1
+The ledge outside.
+~
+~
+-64 -1 40040
+D9
+The ledge outside.
+~
+~
+0 -1 40044
+S
+#40044
+The Barracks Complex~
+The giants housed here are the ones who are sent on regular raids on
+humanity, armed with spear and boulder, relying on their sheer size
+strength to overcome the smaller races, who outnumber them. Each cave
+contains bedrolls, dried foodstuffs and piles of weapons, to be taken
+by the giants and their ogre mercenaries, on the long march south to
+the human settlements. There is an unusually efficient feel to all of
+these preparations, unusual amongst the chaotic and dim frost giants.
+~
+400 dxy 0
+D6
+The ledge outside.
+~
+~
+0 -1 40043
+S
+#40045
+The Icy Ledge~
+The ledge runs north and south here, parallel to the great rift that
+gapes to the east, as if it were eager to devour you. A large boulder
+blocks a passage to the west; sheer strength is the only force that
+can budge these massive makeshift doors. A chilling wind blows through
+the rift at random intervals, freezing you even through your armor.
+~
+400 dxy 0
+D0
+The ledge bends sharply.
+~
+~
+0 -1 40040
+D2
+The ledge bends sharply.
+~
+~
+0 -1 40047
+D9
+A storage cavern.
+~
+boulder~
+-143 -1 40046
+S
+#40046
+A Storage Cave~
+This unremarkable cavern contains a pile of frozen meat, to be taken
+by the raiding party gathering to the north on their raids against
+the southern lands. Barrels filled with ale line the walls, though
+most of it could most politely be described as undrinkable. The floor
+is soft, powdered snow and crushed ice, and comes up to your knees
+when you enter.
+~
+400 adxy 0
+D6
+~
+boulder~
+-143 -1 40045
+S
+#40047
+The Edge of the Ledge~
+The ledge ends here, stopping sharply before a tunnel that runs west
+into the bedrock, away from the rift. To the far south another ledge
+can be seen, doubtlessly accessible through more tunnels in that same
+direction. Footprints cover the light layer of snow, made by the many
+giants that use this passageway. 
+~
+400 dxy 0
+D0
+The ledge runs north.
+~
+~
+0 -1 40045
+D9
+A tunnel runs into the mountain.
+~
+~
+0 -1 40048
+S
+#40048
+A Junction~
+Several tunnels branch off into the depths of the mountain here, each
+showing some sign of traffic, save for the western passage, where no
+footprints lead. Voices echo through the tunnels, from the south where
+presumably more giants are quartered. The giants make little effort to
+be quiet, despite the effect vibrations can have on the ice that their
+lair is composed of.
+~
+400 dxy 0
+D2
+A long tunnel.
+~
+~
+0 -1 40051
+D3
+An apparent dead end.
+~
+~
+0 -1 40049
+D6
+The icy ledge.
+~
+~
+0 -1 40047
+S
+#40049
+A Dead End~
+The most striking feature at the end of this passage is a glowing rune,
+set in the rocky floor, which has melted all the nearby ice so as to
+be visible. Although it is giantish, its function is obvious; it is a
+dire warning against proceeding south down the narrow passage that is
+visible here. A dim glow reveals the tunnel is low-ceilinged, and the
+roof is lined with large chunks of ice which fall off as you watch at  
+frequent intervals. The smallest could crush the skull of an ogre; it
+would be foolish to proceed in this direction.
+~
+400 dxy 0
+D1
+A junction.
+~
+~
+0 -1 40048
+D2
+This section of the tunnel looks extremely unsafe.
+~
+~
+0 -1 40050
+S
+#40050
+A Grim Fate~
+It would be unfair of you to be upset at the fate you befell, after
+ignoring both the warning and the evidence seen by your own two eyes.
+Seconds before several large chunks of ice reduce you to a smear, you
+wonder if your ancestors were as stupid as you, and if so how did they
+survive long enough to breed? Your body will remain here, entombed
+beneath hundreds of tons of rubble, never to be seen again.
+~
+400 bcdxy 0
+S
+#40051
+A Dimly Lit Tunnel~
+This long tunnel runs directly south, deeper into the lair of the dark
+frost giants and their allies. Laughter and shouts can be heard to the
+south, their source a dimly lit cavern to the south, the light spewing
+out into this tunnel, though it also possesses the strangely glowing 
+rock that fills much of the cavern system surrounding the rift.
+~
+400 dxy 0
+D0
+Several tunnels meet here.
+~
+~
+0 -1 40048
+D2
+A guard chamber.
+~
+~
+0 -1 40052
+S
+#40052
+A Guard Chamber~
+This guard chamber is of significant importance, as it guards the
+only way on this side of the rift to pass through to the chambers of
+the important giants, including numerous ambassadors and of course
+the Jarl himself. As such, it is constantly manned, the piles of furs
+and foodstuffs evidence of this. Deep gouges in the wall mark places
+where yetis used to take out their aggression when stationed here with
+the giants.
+~
+400 dxy 0
+D0
+A dimly lit tunnel.
+~
+~
+0 -1 40051
+D6
+Back onto the ledge.
+~
+~
+0 -1 40053
+S
+#40053
+Back Out on the Ledge~
+Once again you find yourself back on one of the many sections of ledge
+that circle most of the rift. This ledge is much closer to the raging
+blizzard that fills the center of the rift, and thus you find it quite
+difficult to maintain your position on the icy ground. Flight more than
+a few inches off the ground is both inadvisable and stupid; the fierce
+winds would pick you up and dash you against the rock walls. The ledge
+runs south, past several openings in the western wall.
+~
+400 dxy 0
+D2
+The ledge continues.
+~
+~
+0 -1 40054
+D9
+Back inside.
+~
+~
+0 -1 40052
+S
+#40054
+The Icy Ledge~
+Violent winds rip at you as you struggle along the icy ledge, passing
+several small niches that offer small comfort when you need to rest.
+Larger openings crop up occasionally, such as the one to the southwest
+that opens onto a long tunnel winding back away from the ledge. To the
+southeast, the ledge heads towards several cave openings, though it will
+be hazardous to proceed in these conditions.
+~
+400 dxy 0
+D0
+The ledge continues.
+~
+~
+0 -1 40053
+D8
+The ledge continues.
+~
+~
+0 -1 40055
+D9
+Another tunnel.
+~
+~
+0 -1 40060
+S
+#40055
+The Icy Ledge~
+The wind ravages this section of the ledge, as it passes closest to
+the raging storm visible from here as a whirling maelstrom of snow
+and debris, battering all within its considerable reach. Scuff marks
+near the edge of the ledge show where previous victims have plummeted
+to their deaths, though giants are strong enough to resist such a fate.
+A cave of said beasts lies to the southwest; guests of the Jarl, here on
+official business.
+~
+400 dxy 0
+D2
+Onwards the ledge runs.
+~
+~
+0 -1 40057
+D7
+Safer conditions.
+~
+~
+0 -1 40054
+D9
+A small cave.
+~
+~
+0 -1 40056
+>
+entry_prog 100~
+if dex($n) > 16
+mea $n _lbl Strong winds threaten to tear you from the ledge!
+mea $n _lbl You manage to maintain your grip and continue.
+else
+if str($n) > 16
+mea $n _lbl Strong winds threaten to tear you from the ledge!
+mea $n _lbl You rely on your strength to keep you on the ledge.
+else
+if lck($n) > 16
+mea $n _lbl Strong winds threaten to tear you from the ledge!
+mea $n _lbl Luckily, you manage to avoid being swept off.
+else
+mea $n _lbl Strong winds threaten to tear you from the ledge!
+mea $n _lbl Devoid of dexterity, strength or luck, you fail to hang on!
+mea $n _lbl You are lifted up and away from the ledge, only to be hurled
+mea $n _lbl back down with astonishing force!
+mer $n _lbl $n is lifted from the ledge, and hurled back with great force!
+mpslay $n
+endif
+endif
+endif
+~
+|
+S
+#40056
+The Hill Giant Embassy~
+This cave quarters the representatives of the hill giants, who keep
+the Jarl informed of the progress of their people, and keep Nosnra 
+equally informed of the Jarl's plans, as ordained by Snurre of the
+fire giants, the leaders of the alliance. However, this has changed
+recently with the destruction of the Steading at the hands of mighty
+adventurers, and now the hill giants have the unenviable task here
+of informing the Jarl of this occurence. The Jarl has a reputation 
+for blaming the bearer of ill tidings, and these three know for sure
+that their heads will soon decorate the Jarl's trophy room.
+~
+400 dxy 0
+D6
+The storm ravaged ledge.
+~
+~
+0 -1 40055
+S
+#40057
+The Icy Ledge~
+Although this section of ledge is still assaulted by driving snow and
+gusts of wind, it is not as difficult to keep your footing, though
+progress is slow. Another cave opening offers shelter from the storm,
+though it is undoubtedly inhabited, as the Jarl keeps most of the many
+visitors to the rift quartered here, to discourage random roamings. A
+snarl from far below, in the rift, is the first indication that there
+is life down there, undoubtedly of the unfriendly variety.
+~
+400 dxy 0
+D0
+The storm ravaged ledge.
+~
+~
+0 -1 40055
+D8
+The edge of the ledge.
+~
+~
+0 -1 40058
+D9
+A small cave.
+~
+~
+0 -1 40059
+S
+#40058
+The End of the Journey~
+The ledge ends here, abruptly, at the souternmost end of the rift; the
+wall south of here is also the southern wall of the rift. Bones lie
+scattered about the ledge here, near a gaping hole in the wall, which
+appears to be the home of some glacial horror; perhaps one not allied
+with the giants, but undoubtedly still no friend of yours. The tunnel
+is large enough to enter, though there is no point; the back wall is
+visible from here and the whole cave is obviously empty.
+~
+400 dxy 0
+D7
+The only way back.
+~
+~
+0 -1 40057
+S
+#40059
+The Stone Giant Quarters~
+This chamber houses several stone giants, whom the Jarl is trying to
+woo into working for him; stone giants are revered by all other races
+of giants for their immense strength, resistance to damage and most of
+all their unparalleled ability to work stone and metal. Extraordinary
+smiths, some even work in the employ of the Emperor; stone giants have
+no real scruples as to the nature of their employer as long as the pay
+is good and the hours reasonable.
+~
+400 dxy 0
+D6
+~
+~
+0 -1 40057
+S
+#40060
+A Busy Passage~
+This tunnel runs deeper into the mountain, descending as it does so,
+an indication that perhaps you are approaching a lower level of the
+rift. Traffic is heavy here, and harder to avoid as the tunnel is well
+lit and the occupants alert. More voices echo on either side, from 
+groups of giants heading to or from duty. Bloodstains mark the snow
+next to two drag marks where dinner was dragged along earlier.
+~
+400 dxy 0
+D6
+A windswept ledge.
+~
+~
+0 -1 40054
+D9
+The tunnel deepens.
+~
+~
+0 -1 40061
+S
+#40061
+A Bend in the Tunnel~
+The wind howls and shrieks at regular intervals to the northeast, though
+at this distance down the tunnel you are safe from the brunt of it. But
+despite the distance, snow drifts have still managed to form, piling in
+the corners to chest height on a giant. Booted feet have trampled down
+the snow nearest the center of the passage. The air is chill, more than
+usual, and you feel you are approaching the lower levels.
+~
+400 dxy 0
+D2
+Another passage.
+~
+~
+0 -1 40062
+D6
+A busy passage.
+~
+~
+0 -1 40060
+S
+#40062
+An Unexpected Sensation~
+At this point in the corridor you are assaulted by a blast of heat,
+totally unexpected in this icy domain. The tracks in the snow skirt
+wide of its source- a large opening in the southeastern wall. A dim
+reddish glow, like that of embers, is visible, and the heat has all
+but melted the ice in the vicinity, leaving bare the rock underneath.
+Evidently this chamber has been customised to suit the needs of some
+visitors.
+~
+400 dxy 0
+D0
+Another passage.
+~
+~
+0 -1 40061
+D2
+Another passage.
+~
+~
+0 -1 40064
+D8
+Waves of heat strike you from this direction.
+~
+~
+-64 -1 40063
+>
+entry_prog 100~
+mea $n _red An almost welcome wave of heat washes over you.
+~
+|
+S
+#40063
+The Fire Giant Embassy~
+Plumes of flame leap forth from hidden openings in the rock, flickering
+and dancing as their source- natural gas- fluctuates in the pressure it
+comes out with. The entire cavern is devoid of ice; instead it contains
+some unusual (for a frost giant lair) furniture of obsidian- a table, a
+chair and several benches, plus several braziers stacked with burning
+coals. If the cold is so unpleasant for one of your race, you cannot 
+imagine how discomforting it must be for a fire giant.
+~
+400 dxy 0
+D7
+Back out in the cold.
+~
+~
+0 -1 40062
+S
+#40064
+The End of the Tunnel~
+The tunnel ends abruptly here, where it meets another running in a
+perpindicular course to it. Tracks are heavy in the thin layer of ice
+and snow underfoot, most of them heading east, where the passage slopes
+downward, towards a new level of the rift. The corridor is more even 
+and better illuminated than the upper ones; torches set in cressets on
+the smooth stone walls light the way.
+~
+400 dxy 0
+D0
+A dull reddish glow illuminates this section of the tunnels.
+~
+~
+0 -1 40062
+D1
+A long, even passage.
+~
+~
+0 -1 40065
+S
+#40065
+A Sloping Passage~
+The passage slopes downward to the east, a gentle but definite angle
+of descent. Traffic is heavy here; at all times you can see various
+creatures moving about on business of their own, most of them giants.
+Other races are pretty much restricted to quarters, save for several
+wolves, that roam the tunnels in search of magically concealed foes.
+~
+400 dxy 0
+D1
+The passage slopes downwards.
+~
+~
+0 -1 40066
+D3
+The passage slopes upwards.
+~
+~
+0 -1 40064
+S
+#40066
+A Sloping Passage~
+The passage continues, the walls here of even, though undressed, stone.
+The icy layer is thinner here than earlier, and no longer forms the
+bulk of the architecture. Thus it is safe for the giants to place some
+torches here, set in cressets on the walls, to cast ample light to see
+by, without fear of the tunnel collapsing. Howls and shrieks, from one
+of several monsters rather than the wind for a change, echo all around
+you.
+~
+400 dxy 0
+D1
+The passage slopes downwards.
+~
+~
+0 -1 40067
+D3
+The passage slopes upwards.
+~
+~
+0 -1 40065
+S
+#40067
+A Sloping Passage~
+At this point the passage is met by another, much older tunnel that
+runs south as far as is visible in the light cast by several brands,
+smoldering from rusted iron cressets set in the walls. An eerie calm
+exists in this direction- no giants can be seen or heard moving in
+there, nor any other beasts. Perhaps they are expected to keep well
+clear of the older tunnels.
+~
+400 dxy 0
+D1
+The passage slopes upward to a guard chamber.
+~
+~
+0 -1 40026
+D2
+The Lower Levels
+~
+~
+-64 -1 40068
+D3
+The passage slopes upward.
+~
+~
+0 -1 40066
+S
+#40068
+The Lower Levels~
+This section of tunnel marks the beginning of the lower levels of the
+Jarl's capital. No snow or ice coats the walls here; instead they are
+of smooth, though unworked, stone, which bear small tapestries and a
+torch or three. The hard stony ground underfoot cannot betray signs of
+passage, though the stone worn smooth along the walls by encounters 
+with giantish shoulders show that some creatures do frequent this area.
+Although there are no markings or indicators, you feel certain that you
+are nearing the Jarl's own chambers, or at least his palace.
+~
+400 dxy 0
+D0
+~
+~
+0 -1 40067
+D2
+~
+~
+0 -1 40069
+S
+#40069
+An Open Cavern~
+The passage exits into a high, open cavern, that stretches away in all
+three directions. The starry sky is visible far, far above, over 300
+yards away; the effect is quite enthralling. The cavern is eerily quiet
+save for the sound of water dripping onto stone somewhere far away. A
+grim sense of foreboding comes over you as you consider your options; 
+there is a definite evil at work somewhere here, its source not obvious
+immediately, but definitely present. Large boulders block two passages
+to the east and west, movable only by a stout warrior, while the cavern
+continues to the south.
+~
+400 y 5
+D0
+from the cavern.
+~
+~
+0 -1 40068
+D1
+A huge boulder conceals unknown perils.
+~
+boulder~
+-143 -1 40070
+D2
+A dead end?
+~
+~
+0 -1 40072
+D3
+A huge boulder conceals unknown perils.
+~
+boulder~
+-143 -1 40073
+S
+#40070
+A Vaulted Cavern~
+The boulder opens onto a chamber of breathtaking beauty. Instead of
+rocky, unhewn walls, this cavern is actually a chamber proper; the 
+stone has been carefully worked into a series of doric columns, that
+support a vaulted roof heavily decorated with art that appears elvish
+in origin, though it is unlike any you have ever seen. Evidently this
+place was fashioned by creatures centuries older than the giants, and
+abandoned some time ago. The floor is of polished marble, its lustre
+adding a glorious shine as your light reflects off of it and onto all
+the jewelled statues that ring the hall. It continues to the northeast,
+the floor raising slightly to match the terrain. A legion of dwarves
+would take decades to match this marvel; even stone giants would be left
+gasping in awe at the work that went into bending the natural stone to
+the will of the master artisans.
+~
+400 dxy 0
+D3
+A boulder bars the exit.
+~
+boulder~
+-143 -1 40069
+D6
+The marvels continue.
+~
+~
+0 -1 40071
+S
+#40071
+Mistress of the Wyrm~
+The floor rises here, to a set of marble steps that, flanked by columns
+carved to resemble vase-bearing maidens, rise to a ledge lined with many
+statues of bronze, surprisingly free of corrosion, surrounding a dais,
+upon which the Queen of this ancient race once reclined. A different kind
+of queen now resides here, though she has similar vanities and taste in
+furnishings. A jewelled box filled with priceless metals has been almost
+casually crushed beneath the weight of an apparently worthless alabaster
+statue that would require 6 people to shift. A priceless tapestry has
+been sliced to ribbons to bind together a frail, and unappealing, wooden
+carving of a giant. Whatever creatures are now masters of this domain,
+they have curious values.
+~
+400 dxy 0
+D9
+The marvels continue.
+~
+~
+0 -1 40070
+S
+#40072
+A Dead End~
+The cave narrows to a small tunnel here, which runs south for a short
+distance before ending in a dead end. Snow from some recent blizzard
+has blown in through the hole in the cavern to the north, and piled
+high here, blocking the passage. Large tracks of an unusual type mark
+the presence of other perils besides hypothermia and frostbite...
+~
+400 dxy 0
+D0
+The open cavern.
+~
+~
+0 -1 40069
+S
+#40073
+The Jarl's Complex~
+A guard post behind the boulder marks the beginning of the Jarl's 
+complex, where he and the elite of frost giant society reside. The
+Jarl has poor taste in decor, if the tacky tapestries that line the
+walls here are any indication; they are cheaply made, and of poor
+quality and worksmanship. A long bronze horn, to be winded by the  
+guards in emergencies, hangs between two of these insulting works
+of 'art'.
+~
+400 dxy 0
+D1
+A boulder bars the way.
+~
+boulder~
+-143 -1 40069
+D3
+A junction.
+~
+~
+0 -1 40075
+S
+#40074
+Ogre Pens~
+The ogres that serve the Jarl as mercenaries and servants are quartered
+here, on piles of fur next to which rest small chests for the ogres'
+meagre personal possessions. A campfire burns in the center, between 
+the bedding, where the ogres prepare their humble meals. The conditions
+are poor, but doubtless better than they'd be used to, especially when
+most of them are undoubtedly natives of the Kore or the Drachensgrab.
+~
+400 dxy 0
+D0
+A junction.
+~
+~
+0 -1 40075
+S
+#40075
+A Junction~
+Numerous openings beckon to either side from this widening in the cave
+passage. A large cavern lies to the northeast, and a second to the south.
+A heavy boulder blocks the entrance to the north, while to the west the
+passage continues, towards a bend. Giants move about on all sides, but
+few leave the caves they are in.
+~
+400 dxy 0
+D0
+A boulder blocks the opening.
+~
+boulder~
+-143 -1 40077
+D1
+A guard post.
+~
+~
+0 -1 40073
+D2
+The ogre thrall pens.
+~
+~
+0 -1 40074
+D3
+The passage continues.
+~
+~
+0 -1 40079
+D6
+Another guest cavern.
+~
+~
+0 -1 40076
+S
+#40076
+Emissaries' Cavern~
+A group of Ogre Magi, ogres from the mystical realms to the east, are
+currently quartered here, privileged guests of the Jarl, and are now
+considering whether to commit their forces to the Jarl's cause. They
+have been bribed with numerous gifts and many promises, which they of
+course place little stock in. Ogre Magi, unlike regular ogres or even
+giants, are highly intelligent and cunning, and recognize a situation
+where they are in danger far more readily. 
+~
+400 dxy 0
+D9
+A junction.
+~
+~
+0 -1 40075
+S
+#40077
+A Guest Chamber~
+This small cavern houses a single giant- a cloud giant from the far
+away realms of his kind, here to listen to the Jarl's spiel. He has
+been convinced that the Jarl has a very good chance of making a tidy
+sum of money from his raids, and has signed on as a mercenary. Other
+giants, not as easily impressed by the Jarl's speeches, have declined
+an alliance, and returned home; many of the cloud giants have stayed
+here, and subsequently left in disgust- not all cloud giants are evil.
+A table laden with food and fine cutlery are just some of the cajolery
+employed by the cunning frost giant lord.
+~
+400 dxy 0
+D2
+A boulder bars the way.
+~
+boulder~
+-143 -1 40075
+S
+#40078
+An Opulent Prison~
+This room is elaborately furnished, in a strikingly subtle manner for
+giants. Fine silverware and gold platters laden with sweetmeats rest
+on a table of polished oak, covered with satin cloth. Wall hangings 
+of elvish manufacture cover the bleak grey stone walls, and thick rugs
+protect your feet from the cold floor. The Jarl has gone to great pains
+to make the occupant of this cell as comfortable as possible, though it
+is still a cell, despite its trappings.
+~
+400 dxy 0
+D2
+~
+boulder~
+-143 -1 40079
+S
+#40079
+The Great Southern Passage~
+At this point a broad cavern runs due south, lined by an impressive 
+array of stalagmites carved to resemble heroic giants. Tapestries 
+hang between these natural formations, most of them espousing the
+virtues of frost giant kind in glorious exaggeration. Torches set in
+iron cressets at chest height (to a giant) cast long shadows on the
+stone floor, obscuring whatever may lurk in the corners. This cavern
+runs due south to the throne of the Jarl himself.
+~
+400 dxy 0
+D0
+~
+boulder~
+-143 -1 40078
+D1
+A junction.
+~
+~
+0 -1 40075
+D2
+The great southern passage continues.
+~
+~
+0 -1 40080
+S
+#40080
+The Great Southern Passage~
+Onwards the cavern continues, almost striking in its stark majesty.
+It is apparent that the frost giants have lived and labored in the
+caves surrounding the dark rift for centuries, slowly bending the 
+rock to suit their needs, until they had carved from the rock this
+system of caves to house their people. It would be an admirable feat
+were it not achieved by a vile, cruel race using slave labor without
+concern for the well being of those so abused.
+~
+400 dxy 0
+D0
+A passage away from the chambers.
+~
+~
+0 -1 40079
+D2
+An antechamber.
+~
+~
+0 -1 40081
+S
+#40081
+The Jarl's Antechamber~
+A group of giants stand guard in this chamber at all times, keeping 
+an eye on all who come and go, refusing any past this point who do
+not have the blessings of the Jarl himself. A pile of boulders used
+against unruly visitors lies stacked near the entrance, while several
+heavy weapons lie leaned up against the walls, ready to be used.
+~
+400 dxy 0
+D0
+A passage away from the Jarl's chambers.
+~
+~
+0 -1 40080
+D2
+The great cavern of the Jarl.
+~
+~
+0 -1 40082
+S
+#40082
+The Great Cavern of the Jarl~
+At last the passage emerges into a huge cavern, easily two hundred 
+yards long, stretching away to the south. Eerie lighting casts long
+distorted shadows that disturb and confound visitors, while several
+giants stationed about the place also intimidate, purposely, those
+who come to visit the Jarl for whatever purpose. The Jarl must be
+close by now, surely.
+~
+400 dxy 0
+D0
+A passage away from the Jarl's chambers.
+~
+~
+0 -1 40081
+D1
+The great cavern of the Jarl.
+~
+~
+0 -1 40083
+D2
+The great cavern of the Jarl.
+~
+~
+0 -1 40089
+S
+#40083
+The Great Cavern of the Jarl~
+At this point two passages lead away from the cavern, one heading to
+the north towards a bright red glow, the other east into a darkened,
+deserted chamber. Shadows flicker and dance on the walls, cast from
+you and the many giants in the region by both the wooden torches and
+the strangely glowing stone so common around the rift.
+~
+400 dxy 0
+D0
+~
+~
+0 -1 40084
+D1
+~
+~
+0 -1 40085
+D2
+~
+~
+0 -1 40091
+D3
+~
+~
+0 -1 40082
+S
+#40084
+The Kitchens~
+The reddish glow visible from this place is cast from several firepits,
+above which several spitted humans slowly rotate, basting over the
+open flame. Several giants and ogres are here at all times, preparing
+feasts for the giants and ogres in the cave system. The stench of
+burning human meat would repulse most races, though giants apparently
+relish in human meat, as well as halfling, naturally, which is generally
+considered the most succulent meat.
+~
+400 dxy 0
+D2
+The great cavern of the Jarl.
+~
+~
+0 -1 40083
+S
+#40085
+The Armory~
+This chamber is devoid of giants, but boasts piles of rocks, shields,
+spears, clubs and helmets, made for frost giants and far too large 
+for smaller races. They are also of poor quality, and bespeak hasty 
+manufacture by unskilled hands. A boulder blocks an opening in the
+east wall, while passages exit to the north and west.
+~
+400 dxy 0
+D0
+~
+~
+0 -1 40086
+D1
+~
+boulder~
+-143 -1 40087
+D3
+The great cavern of the Jarl.
+~
+~
+0 -1 40083
+S
+#40086
+Common Quarters~
+The families of the frost giant soldiers quartered in the barracks all
+reside here, performing various mundane tasks to contribute to the war
+effort. Piles of sleeping hides lie all about the chamber, arranged
+next to chests and baskets containing various goods of little value. A
+strong smell, of oil, used on the clothing of giants, fills the room.
+~
+400 dxy 0
+D2
+The armory.
+~
+~
+0 -1 40085
+S
+#40087
+The Kennels~
+This cavern is totally devoid of furnishings or decorations; the reason
+for this becomes readily apparent when you deduce the nature of its
+occupants. Several chunks of meat litter the floor, bearing bite marks
+as big as your head. A vile smell, of animal fur and blood, fills the
+air, and makes you even more eager to leave; even a vampire would have
+difficulty stomaching blood this putrid.
+~
+400 dxy 0
+D3
+~
+boulder~
+-143 -1 40085
+D8
+~
+boulder~
+-143 -1 40088
+S
+#40088
+Chamber of the Carls~
+Those giants who are of higher status in the caverns reside here, near
+the quarters of the Jarl himself. They have proper beds, not piles of
+hides, and considerable amounts of furnishings, stolen from races they
+have raided or conquered. Evidently those quartered here are also of
+considerable means.
+~
+400 dxy 0
+D3
+Chamber of the carls.
+~
+~
+0 -1 40098
+D7
+~
+boulder~
+-143 -1 40087
+S
+#40089
+The Great Cavern of the Jarl~
+At this point a narrow stair runs up to a ledge shrouded in shadow, from
+which someone could establish a good view of most of the cave. The throne
+lies further south, flanked by the Jarl's personal guard naturally; the
+Jarl must have many enemies, to protect himself so.
+~
+400 0 1
+D0
+The cavern of the Jarl.
+~
+~
+0 -1 40082
+D1
+~
+~
+0 -1 40091
+D2
+The cavern of the Jarl.
+~
+~
+0 -1 40093
+D4
+A stair runs up to a narrow ledge.
+~
+~
+0 -1 40090
+S
+#40090
+A High Ledge~
+This high ledge affords an excellent view of the throne room below, and
+thus is a perfect vantage point for guards of the Jarl to keep an eye
+out for intruders. Intruders, however, have yet to penetrate this far,
+and thus the guards are less than alert. A large iron post marks the
+point where the great giantish ballista is mounted, to fire its eighteen
+foot bolts at whatever unfortunate may pass below.
+~
+400 dxy 0
+D5
+The great cavern lies at the bottom of the stair.
+~
+~
+0 -1 40089
+S
+#40091
+The Great Cavern of the Jarl~
+At this point a narrow stair runs up to a ledge shrouded in shadow, from
+which someone could establish a good view of most of the cave. The throne
+lies further south, flanked by the Jarl's personal guard naturally; the
+Jarl must have many enemies, to protect himself so.
+~
+400 0 1
+D0
+The cavern of the Jarl.
+~
+~
+0 -1 40083
+D2
+The cavern of the Jarl.
+~
+~
+0 -1 40094
+D3
+The cavern of the Jarl.
+~
+~
+0 -1 40089
+D4
+A stair runs up to a narrow ledge.
+~
+~
+0 -1 40092
+S
+#40092
+A High Ledge~
+This high ledge affords an excellent view of the throne room below, and
+thus is a perfect vantage point for guards of the Jarl to keep an eye
+out for intruders. Intruders, however, have yet to penetrate this far,
+and thus the guards are less than alert. A large iron post marks the
+point where the great giantish ballista is mounted, to fire its eighteen
+foot bolts at whatever unfortunate may pass below.
+~
+400 dxy 0
+D5
+The great cavern lies at the bottom of the stair.
+~
+~
+0 -1 40091
+S
+#40093
+The Great Cavern of the Jarl~
+The cavern narrows here, the throne resting within an alcove to the
+southeast, flanked by numerous carvings, reliefs and of course guards.
+You constantly feel as if dozens of pairs of eyes were watching you,
+even when you cannot see anyone immediately near you. The end of this
+sortie against the frost giants is at hand; perhaps you should take a
+moment to prepare.
+~
+400 dxy 0
+D0
+The cavern of the Jarl.
+~
+~
+0 -1 40089
+D1
+The cavern of the Jarl.
+~
+~
+0 -1 40094
+D8
+The throne of the Jarl.
+~
+~
+0 -1 40095
+S
+#40094
+The Great Cavern of the Jarl~
+The cavern narrows here, to a point to the southwest where a stone dais
+holds the throne of the Jarl. Guttering torches cast ample light here,
+though the long shadows they cast are disconcerting. Voices raised in
+anger and excitement can be heard at random intervals from various parts
+of the caverns.
+~
+400 dxy 0
+D0
+The cavern of the Jarl.
+~
+~
+0 -1 40091
+D3
+The cavern of the Jarl.
+~
+~
+0 -1 40093
+D9
+The throne of the Jarl.
+~
+~
+0 -1 40095
+S
+#40095
+The Seat of Power~
+Here rests the Jarl's throne of bone and ivory; silvered skulls supported
+by ivory tusks, bearing a seat made from mammoth rib cages. Two torches
+flank the monstrous seat, casting long shadows with its bulk, obscuring
+most of the steps that approach the dais, covered by bearskin rugs and
+the hides of other, unidentifiable creatures. More hides decorate the walls
+and ceiling, while a bear hide almost obscures a narrow passage that runs
+east, presumably to the Jarl's private quarters.
+~
+400 dxy 0
+D1
+A short passage.
+~
+~
+0 -1 40096
+D6
+Away from the throne.
+~
+~
+0 -1 40094
+D7
+Away from the throne.
+~
+~
+0 -1 40093
+S
+#40096
+A Short Passage~
+The tunnel ends after a short distance before another boulder, these
+rocks that serve as doors to this burly people. Scuff marks mark where
+it has been shoved casually aside in the past by the mighty giant Jarl
+on the way to or from his private quarters. A crude rune carved into
+the rock, of dwarven and giantish origin, spells one word- KING.
+~
+400 dxy 0
+D1
+~
+boulder~
+-143 -1 40097
+D3
+The throne room.
+~
+~
+0 -1 40095
+S
+#40097
+A Macabre Trophy Chamber~
+This spacious chamber is filled with all manner of trophies. The skins
+and hides of a score of different creatures cover the walls and floor,
+and even the ceiling. Shelves lined with skulls- human, giant, elven,
+dwarven, ogre and even gnomish- are placed in front of the hides, while
+a fireplace supports a row of mastodon tusks, flanked by the mighty
+tusks of an Umber Hulk. The skins of the creatures range from mundane 
+(boars, bears, snakes and birds) to the exotic (wyverns, dragons, sabre
+tooth tigers and even a shedu). Arms and armor taken from foes from many
+parts of the world are also present, each bearing the scars from blows of
+the Jarl that were the end of their former owners. A lynx pelt hangs over
+an exit in the eastern wall, where presumably the Jarl rests, while a hide
+of a giant lizard flanked by a pair of eagle's wings hang above the exit
+to the north.
+~
+400 cdxy 0
+D0
+Chamber of the carls.
+~
+~
+0 -1 40098
+D1
+~
+~
+0 -1 40099
+D3
+~
+boulder~
+-143 -1 40096
+S
+#40098
+Chamber of the Carls~
+Those giants who are of higher status in the caverns reside here, near
+the quarters of the Jarl himself. They have proper beds, not piles of
+hides, and considerable amounts of furnishings, stolen from races they
+have raided or conquered. Evidently those quartered here are also of
+considerable means.
+~
+400 dxy 0
+D1
+Chamber of the carls.
+~
+~
+0 -1 40088
+D2
+~
+~
+0 -1 40097
+S
+#40099
+The Jarl's Private Chamber~
+In comparison to the Jarl's grisly trophy lounge, this chamber is
+strikingly bare. Only a few sparse decorative features are present;
+the most notable is a large bear skin, a beloved pet of the Jarl and
+his wife, that covers the floor. A large table littered with jacks
+of ale and goblets of wine is ample evidence of the tastes these two
+have for alcohol, and the fine foods from a dozen different cultures
+is a result of the many raids made by the Jarl; he has developed a
+taste for foreign cuisine. Several boxes and chests stuffed with a
+range of worthless clothing and similar line the walls.
+~
+400 cdxy 0
+D3
+~
+~
+0 -1 40097
+S
+$~

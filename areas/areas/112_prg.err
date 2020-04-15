@@ -1,0 +1,117 @@
+MOB 11202 has 3 mobprogs assigned.
+MOB 11203 has 1 mobprogs assigned.
+MOB 11204 has 2 mobprogs assigned.
+PROG: Changed "mpoload 11208" to "mpoload 11208"
+PROG: Changed "mpoload 11208" to "mpoload 11208"
+MOB 11205 has 2 mobprogs assigned.
+PROG: Changed "mpoload 11207 1" to "mpoload 11207 1"
+MOB 11206 has 3 mobprogs assigned.
+MOB 11207 has 3 mobprogs assigned.
+MOB 11211 has 3 mobprogs assigned.
+MOB 11212 has 8 mobprogs assigned.
+MOB 11213 has 1 mobprogs assigned.
+MOB 11214 has 1 mobprogs assigned.
+MOB 11215 has 6 mobprogs assigned.
+MOB 11216 has 1 mobprogs assigned.
+MOB 11217 has 5 mobprogs assigned.
+MOB 11219 has 1 mobprogs assigned.
+PROG: Changed "mpoload 11230" to "mpoload 11230"
+PROG: Changed "mpoload 11231" to "mpoload 11231"
+MOB 11222 has 3 mobprogs assigned.
+MOB 11223 has 1 mobprogs assigned.
+MOB 11224 has 3 mobprogs assigned.
+MOB 11225 has 3 mobprogs assigned.
+PROG: Changed "c poison $n" to "c 'poison' $n"
+MOB 11226 has 1 mobprogs assigned.
+MOB 11227 has 1 mobprogs assigned.
+MOB 11228 has 2 mobprogs assigned.
+MOB 11229 has 2 mobprogs assigned.
+MOB 11230 has 2 mobprogs assigned.
+MOB 11231 has 1 mobprogs assigned.
+PROG: Changed "c chill $r" to "c 'chill' $r"
+PROG: Changed "c weaken $r" to "c 'weaken' $r"
+PROG: Changed "c blindness $n" to "c 'blindness' $n"
+PROG: Changed "c galvanic $n" to "c 'galvanic' $n"
+PROG: Changed "c curse $r" to "c 'curse' $r"
+PROG: Changed "c poison $r" to "c 'poison' $r"
+MOB 11232 has 3 mobprogs assigned.
+MOB 11234 has 2 mobprogs assigned.
+MOB 11235 has 2 mobprogs assigned.
+PROG: Changed "c gas" to "c 'gas'"
+MOB 11236 has 1 mobprogs assigned.
+PROG: Changed "c winter $r" to "c 'winter' $r"
+PROG: Changed "c chill $r" to "c 'chill' $r"
+PROG: Changed "c chill $r" to "c 'chill' $r"
+PROG: Changed "c chill $r" to "c 'chill' $r"
+PROG: Changed "c weaken $r" to "c 'weaken' $r"
+PROG: Changed "c enchant whip" to "c 'enchant' whip"
+MOB 11238 has 4 mobprogs assigned.
+PROG: Changed "c chill $r" to "c 'chill' $r"
+PROG: Changed "c blindness $r" to "c 'blindness' $r"
+PROG: Changed "c weaken $r" to "c 'weaken' $r"
+PROG: Changed "mpoload 11263" to "mpoload 11263"
+MOB 11239 has 3 mobprogs assigned.
+PROG: Changed "c blindness $n" to "c 'blindness' $n"
+PROG: Changed "c weaken $n" to "c 'weaken' $n"
+MOB 11240 has 2 mobprogs assigned.
+PROG: Changed "mpat 3 c invis" to "mpat 3 c 'invis'"
+MOB 11242 has 3 mobprogs assigned.
+PROG: Changed "mpoload 11273 48" to "mpoload 11273 48"
+PROG: Changed "mpopenpassage 11282 1056 4" to "mpopenpassage 11282 1056 4"
+PROG: Changed "c gas" to "c 'gas'"
+PROG: Changed "c chill $r" to "c 'chill' $r"
+PROG: Changed "c weaken $r" to "c 'weaken' $r"
+PROG: Changed "c earth" to "c 'earth'"
+PROG: Changed "c gas" to "c 'gas'"
+MOB 11243 has 8 mobprogs assigned.
+MOB 11244 has 3 mobprogs assigned.
+PROG: Changed "c chill" to "c 'chill'"
+PROG: Changed "c weaken" to "c 'weaken'"
+MOB 11245 has 2 mobprogs assigned.
+MOB 11246 has 2 mobprogs assigned.
+PROG: Changed "mpat 3 c heal" to "mpat 3 c 'heal'"
+PROG: Changed "mpat 3 c heal" to "mpat 3 c 'heal'"
+MOB 11247 has 3 mobprogs assigned.
+MOB 11248 has 1 mobprogs assigned.
+PROG: Changed "mpmload 11201 " to "mpmload 11201"
+PROG: Changed "mpmload 11201" to "mpmload 11201"
+PROG: Changed "mpforce umber c poison $n" to "mpforce umber c 'poison' $n"
+PROG: Changed "mpforce 2.umber c weaken $n" to "mpforce 2.umber c 'weaken' $n"
+PROG: Changed "c shadowform" to "c 'shadowform'"
+PROG: Changed "c blazeward" to "c 'blazeward'"
+PROG: Changed "c inner" to "c 'inner'"
+PROG: Changed "c dragonskin" to "c 'dragonskin'"
+PROG: Changed "c demonskin" to "c 'demonskin'"
+PROG: Changed "mpoload 11201 30" to "mpoload 11201 30"
+PROG: Changed "c blazebane" to "c 'blazebane'"
+PROG: Changed "c fireball" to "c 'fireball'"
+PROG: Changed "c winter" to "c 'winter'"
+PROG: Changed "c chill" to "c 'chill'"
+PROG: Changed "c blindness" to "c 'blindness'"
+MOB 11251 has 3 mobprogs assigned.
+OBJ 11208 has 1 objprogs assigned.
+PROG: Changed "mpopenpassage 11229 11288 5" to "mpopenpassage 11229 11288 5"
+PROG: Changed "mpopenpassage 11288 11229 4" to "mpopenpassage 11288 11229 4"
+PROG: Changed "mpclosepassage 11229 5" to "mpclosepassage 11229 5"
+PROG: Changed "mpclosepassage 11288 4" to "mpclosepassage 11288 4"
+OBJ 11217 has 2 objprogs assigned.
+PROG: Changed "c elven $n" to "c 'elven' $n"
+OBJ 11222 has 1 objprogs assigned.
+OBJ 11223 has 1 objprogs assigned.
+PROG: Changed "c invis $n" to "c 'invis' $n"
+OBJ 11241 has 1 objprogs assigned.
+PROG: Changed "c sagacity $n" to "c 'sagacity' $n"
+OBJ 11247 has 1 objprogs assigned.
+OBJ 11248 has 1 objprogs assigned.
+OBJ 11254 has 1 objprogs assigned.
+PROG: Changed "c slink $n" to "c 'slink' $n"
+OBJ 11268 has 1 objprogs assigned.
+PROG: Changed "mpclosepassage 11272 0" to "mpclosepassage 11272 0"
+PROG: Changed "mpopenpassage 11272 11282 0" to "mpopenpassage 11272 11282 0"
+OBJ 11271 has 2 objprogs assigned.
+OBJ 11278 has 1 objprogs assigned.
+PROG: Changed "c kin $n" to "c 'kin' $n"
+PROG: Changed "c troll $n" to "c 'troll' $n"
+OBJ 11282 has 1 objprogs assigned.
+ROOM 11250 has 1 roomprogs assigned.
+ROOM 11274 has 1 roomprogs assigned.

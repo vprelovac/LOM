@@ -1,0 +1,51 @@
+Zone 351 - The Usurpers of Hochenyana~ 
+Mob 35102 has race set to 10 (gith)
+Mob 35112 has class set to 23
+Mob 35115 has class set to 23
+Mob 35117 has class set to 21
+Mob 35128 has race set to 80 (amphibian)
+Mob 35129 has race set to 10 (gith)
+Mob 35136 has race set to 40 (golem)
+Mob 35140 has race set to 10 (gith)
+Unknown MOB affect   AFF_SCRYING in mob 35143. It has been removed.
+Mob 35148 has race set to 84 (spirit)
+Finished Converting Mobs.
+
+Unsupported ITEM Type ( ITEM_BOOK) found at obj 35108. Setting to Other.
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 35113. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 35115. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 35134. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 35144. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 35145. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 35174. Removing
+Unsupported Obj Flag - ITEM_HIDDEN at obj 35175. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 35182. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 35183. Removing
+Finished Converting Objects.
+
+Unsupported ROOM FLAG (ROOM_NODROPALL) in room 35158. It has been removed.
+Sectortype UNDERGROUND at room 35181 set to INSIDE.
+Sectortype UNDERGROUND at room 35183 set to INSIDE.
+Sectortype UNDERGROUND at room 35184 set to INSIDE.
+Sectortype UNDERGROUND at room 35185 set to INSIDE.
+Sectortype UNDERGROUND at room 35187 set to INSIDE.
+Sectortype UNDERGROUND at room 35189 set to INSIDE.
+Sectortype UNDERGROUND at room 35190 set to INSIDE.
+Sectortype UNDERGROUND at room 35191 set to INSIDE.
+Sectortype UNDERGROUND at room 35194 set to INSIDE.
+Sectortype UNDERGROUND at room 35195 set to INSIDE.
+Sectortype UNDERGROUND at room 35196 set to INSIDE.
+Sectortype UNDERGROUND at room 35197 set to INSIDE.
+Sectortype UNDERGROUND at room 35198 set to INSIDE.
+Sectortype UNDERGROUND at room 35199 set to INSIDE.
+WARNING: Possible NORECALL+NOSUMMON area. 
+Finished Converting Rooms.
+
+NOTICE: Chance? P 2 11258 1 0
+Finished Converting Resets.
+
+No shops here.
+Finished Converting Shops.
+
+Finished Converting Specials.
+

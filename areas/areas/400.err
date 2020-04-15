@@ -1,0 +1,29 @@
+Zone 400 - The Glacial Rift of the Jarl~ 
+Mob 40006 has race set to 80 (amphibian)
+Mob 40009 has race set to 74 (feline)
+Mob 40017 has race set to 80 (amphibian)
+Finished Converting Mobs.
+
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 40006. Removing
+Obj 40006 has BURIED flag set
+SPELLS: Unsupported SPELL (214) found in obj 40020. Set to -1.
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 40022. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 40023. Removing
+Unsupported Obj Flag - ITEM_HIDDEN at obj 40036. Removing
+Obj 40037 has BURIED flag set
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 40046. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 40048. Removing
+Finished Converting Objects.
+
+Sectortype UNDERGROUND at room 40018 set to INSIDE.
+Sectortype UNDERGROUND at room 40046 set to INSIDE.
+WARNING: Possible NORECALL+NOSUMMON area. 
+Finished Converting Rooms.
+
+Finished Converting Resets.
+
+No shops here.
+Finished Converting Shops.
+
+Finished Converting Specials.
+
