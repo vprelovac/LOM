@@ -1,0 +1,47 @@
+Zone 248 - Darkhaven Art Gallery~ 
+Finished Converting Mobs.
+
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 24802. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 24803. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 24804. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 24805. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 24808. Removing
+ITEM PILL found at obj 24813. Setting to Potion.
+ITEM PILL found at obj 24814. Setting to Potion.
+SPELLS: Unsupported SPELL (91) found in obj 24814. Set to -1.
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 24858. Removing
+Unsupported Obj Flag -  ITEM_ANTI_VAMPIRE at obj 24884. Removing
+Unsupported ITEM Type (ITEM_BLOOD) found at obj 24896. Setting to Other.
+Finished Converting Objects.
+
+NOTICE: Room 24800, exit leads out of zone (to room 21021)
+Sectortype DESERT at room 24815 set to FIELD.
+Sectortype DESERT at room 24840 set to FIELD.
+Sectortype DESERT at room 24841 set to FIELD.
+Sectortype DESERT at room 24842 set to FIELD.
+Sectortype DESERT at room 24843 set to FIELD.
+Sectortype DESERT at room 24844 set to FIELD.
+Sectortype DESERT at room 24845 set to FIELD.
+Sectortype DESERT at room 24846 set to FIELD.
+Sectortype DESERT at room 24847 set to FIELD.
+Sectortype DESERT at room 24848 set to FIELD.
+ROOM PROTOTYPE flag on room 24880.
+ROOM PROTOTYPE flag on room 24884.
+ROOM PROTOTYPE flag on room 24885.
+Finished Converting Rooms.
+
+NOTICE: Chance? T 5 1 5 24803
+Finished Converting Resets.
+
+ITEM PILL found at obj 2. Setting to Potion.
+ITEM PILL found at obj 3. Setting to Potion.
+ITEM PILL found at obj 4. Setting to Potion.
+ITEM PILL found at obj 5. Setting to Potion.
+ITEM PILL found at obj 6. Setting to Potion.
+ITEM PILL found at obj 7. Setting to Potion.
+ITEM PILL found at obj 8. Setting to Potion.
+ITEM PILL found at obj 9. Setting to Potion.
+Finished Converting Shops.
+
+Finished Converting Specials.
+

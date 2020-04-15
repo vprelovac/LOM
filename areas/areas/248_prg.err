@@ -1,0 +1,40 @@
+PROG: Changed "if inroom($i) == 24801" to "if inroom($i) == 24801"
+PROG: Changed "mpat 3 c heal" to "mpat 3 c 'heal'"
+MOB 24800 has 6 mobprogs assigned.
+PROG: Changed "if inroom($i) == 24802" to "if inroom($i) == 24802"
+PROG: Changed "  mpgoto 24802" to "mpgoto 24802"
+MOB 24801 has 1 mobprogs assigned.
+MOB 24803 has 1 mobprogs assigned.
+MOB 24805 has 1 mobprogs assigned.
+MOB 24806 has 1 mobprogs assigned.
+MOB 24807 has 1 mobprogs assigned.
+MOB 24808 has 1 mobprogs assigned.
+MOB 24809 has 1 mobprogs assigned.
+MOB 24810 has 1 mobprogs assigned.
+MOB 24811 has 1 mobprogs assigned.
+MOB 24812 has 1 mobprogs assigned.
+MOB 24813 has 1 mobprogs assigned.
+MOB 24814 has 2 mobprogs assigned.
+MOB 24815 has 2 mobprogs assigned.
+MOB 24816 has 2 mobprogs assigned.
+MOB 24817 has 2 mobprogs assigned.
+MOB 24818 has 1 mobprogs assigned.
+MOB 24819 has 1 mobprogs assigned.
+MOB 24820 has 1 mobprogs assigned.
+PROG: Changed "mpoload 24816" to "mpoload 24816"
+PROG: Changed "mpat 3 c heal" to "mpat 3 c 'heal'"
+PROG: Changed "mpat 3 c heal" to "mpat 3 c 'heal'"
+PROG: Changed "mpat 3 c heal" to "mpat 3 c 'heal'"
+PROG: Changed "mpat 3 c heal" to "mpat 3 c 'heal'"
+PROG: Changed "mpat 3 c heal" to "mpat 3 c 'heal'"
+PROG: Changed "mpat 3 c heal" to "mpat 3 c 'heal'"
+MOB 24821 has 5 mobprogs assigned.
+PROG: Changed "mpoload 24821" to "mpoload 24821"
+MOB 24826 has 2 mobprogs assigned.
+MOB 24828 has 3 mobprogs assigned.
+PROG: Changed "mpoload 24823 40" to "mpoload 24823 40"
+PROG: Changed "mpoload 24822 40" to "mpoload 24822 40"
+MOB 24829 has 2 mobprogs assigned.
+MOB 24835 has 1 mobprogs assigned.
+MOB 24836 has 1 mobprogs assigned.
+ROOM 24858 has 1 roomprogs assigned.

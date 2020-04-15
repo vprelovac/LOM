@@ -1,0 +1,83 @@
+CircleMUD v3.0 Shop File~
+#31801~
+31812
+31813
+31814
+31815
+-1
+1.15
+0.75
+8
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+31806
+0
+31864
+-1
+0
+23
+0
+0
+#31802~
+31860
+31859
+-1
+1.15
+0.75
+1
+5
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+31815
+0
+31866
+-1
+0
+23
+0
+0
+#31803~
+31846
+31847
+31848
+31849
+-1
+1.15
+0.75
+19
+17
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+31839
+0
+31838
+-1
+0
+23
+0
+0
+$~

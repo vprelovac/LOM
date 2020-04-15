@@ -1,6 +1,0 @@
-#!/bin/sh
-echo $1
-echo $2.are
-./s2c -n$1 $2.are
-
-echo "Building destination area."

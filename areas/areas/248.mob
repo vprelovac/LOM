@@ -1,0 +1,1093 @@
+#24800
+woman receptionist~
+the receptionist~
+The gallery's receptionist looks up at you and smiles warmly.
+~
+This young lady enjoys her job here at the art gallery.  It gives her the 
+opportunity to see her share of muscled, handsome warriors.
+~
+bm df 0 C
+30 0 -200 1d1+3800 25d5+25
+0 0
+8 8 2
+13 13 13 13 13 13 13
+0 3 0
+C
+> rand_prog 15~
+sit
+, hums happily to herself.
+~
+> bribe_prog 100~
+mpoload 24800 1
+mpjunk all.coins
+give key $n
+say Thank you, $n, and enjoy your visit
+~
+> greet_prog 100~
+if inroom($i) == 24801
+emote looks up from her work
+smile $n
+say Welcome to the Art Gallery, $n
+else
+emote looks about in worry at her strange surroundings.
+endif
+~
+> act_prog p north.~
+stand
+close n
+lock n
+sit
+~
+> speech_prog fuck shit goddam bitch ass~
+sigh
+say PLEASE watch your language in here.
+~
+> fight_prog 100~
+mpat 3 c 'heal'
+if isnpc($n)
+mppurge $n
+else
+say The Gods do not wish my soul to pass on to the next Reality.
+mpforce $n flee
+endif
+~
+|
+#24801
+mike michael cosner curator~
+the Art Gallery's curator~
+The gallery curator sits here, moaning about the unending sea of papers.
+~
+Mike hasn't had a good day.  In fact, he hasn't had a good day in months.  
+His job is slowly killing him.  The stress is just too much.  How would YOU 
+feel if your job consisted of pricing all the art in the Realms?
+~
+bgm 0 0 S
+40 0 -100 1d1+20000 0d0+0
+0 0
+8 8 1
+> rand_prog 80~
+if inroom($i) == 24802
+else
+mpecho The Curator exclaims, 'Oh my! I really must be getting back to work!'
+mpecho He produces a large map, quickly unfolding it and taking his bearings.
+mpecho $I winks at you, smiles and says, 'Well, it's been fun!'
+mpecho Before you can say a word, he darts off.
+mpgoto 24802
+endif
+~
+|
+#24802
+cashier woman gift shoppe~
+the cashier~
+The gift shoppe cashier stands here, ready to accept your money.
+~
+She looks quite bored.  Evidently, having to stand around all day selling 
+reproductions of art touches a nerve in the boredom region of the brain.
+~
+bgm 0 0 S
+50 0 -200 30000d0+1 0d0+0
+0 0
+8 8 2
+#24803
+sculpture phunbaba demon~
+the sculpture of Phunbaba~
+A hideous-looking sculpture stands hunched over here.
+~
+A plaque mounted on the statue says proudly, "PHUNBABA".
+~
+bgm hm 0 C
+44 0 -300 5000d0+1 3d4+15
+0 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+> greet_prog 100~
+mpecho The bronze sculpture's eyes gleam as you enter the room.
+~
+|
+#24804
+phunbaba demon green~
+Phunbaba~
+A hideous-looking, hunchbacked demon snarls at you ferally.  Run!
+~
+Now that Phunbaba has come to life, he is truly a frightening sight!  Acidic 
+drool falls from his lips to the floor, and he grins, threatening to show a 
+faint glimmer of intelligence.
+~
+bfgm dfh 0 S
+35 0 -200 3000d0+1 0d0+0
+3 0
+8 8 1
+#24805
+green envy color~
+Envy~
+A vague sense of fiery jealousy forms a humanoid shape in front of you.
+~
+Damn!  What it must be like to be able to change shape at will!  You fume 
+with jealousy at the ethereal quality of the shape before you.  "Why can't 
+-I- be like that...that thing?", you think to yourself.
+~
+bgm dfw 0 C
+35 0 -200 7000d0+1 0d0+0
+13 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+> rand_prog 25~
+grumble
+sigh
+~
+|
+#24806
+melancholy blue color~
+Melancholy~
+Sadness washes over you as a nebulous mass congeals into a shape above you.
+~
+*sniffle* How depressing.  The essence before you conveys such a feeling of 
+unspeakable loss and depression that you can't help but cry.  You can feel 
+your knees grow weak from the emotion, and it becomes an effort to stand.
+~
+m w 0 C
+40 0 -50 500d0+500 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+> rand_prog 25~
+cry
+sniff
+~
+|
+#24807
+yellow cowardice color~
+Cowardice~
+A yellow mist forms around you and immediately darts off into the distance.
+~
+You don't know whether to laugh or cry at the display of weakness before you.
+The sense of pathetic cowardice eminating from the mist that surrounds you 
+turns your stomach.  You wonder how ANYthing could be that afraid.
+~
+bghm dfw 0 C
+39 0 -200 7000d0+1 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+> rand_prog 25~
+gasp
+grovel
+~
+|
+#24808
+confusion indigo color~
+Confusion~
+A dark blue fog creeps towards you, causing you to look around in bewilderment.
+~
+The fog feels cool against your skin.  What are you doing here?  You can 
+remember coming in here for a reason, but what was it?  You stop and scratch 
+your head.  Hmm.  Maybe it would be best to just leave this place.
+~
+bgm dfw 0 C
+38 0 -250 7000d0+1 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+> rand_prog 25~
+ponder
+shrug
+~
+|
+#24809
+life orange color~
+Life~
+An orange glow surrounds the area, filling your body with vitality.
+~
+You have never felt so alive!  The pure energy coursing through your veins 
+fills you with a renewed sense of vigor.  If you were forced to remain here 
+forever, you wouldn't mind.  In fact, that seems like a very good idea.
+~
+bgm dfw 0 C
+35 0 -200 7000d0+1 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+> rand_prog 25~
+dance
+sing
+~
+|
+#24810
+purple violet love color~
+Love~
+A purple cloud becomes a beautiful shape before you, filling you with love.
+~
+Your heart feels as though it might burst due to the deep passion you feel 
+inside.  You gaze longingly into the violet mass before you, completely lost 
+in a world of desire and peace.  Siiiiiiiigh.
+~
+bgm dfw 0 C
+35 0 -200 7000d0+1 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+> rand_prog 25~
+kiss $n
+love $n
+~
+|
+#24811
+anger red hatred color~
+Anger~
+A red mist surrounds you, filling you with an intense hatred.
+~
+A wild growl escapes your lips as you gaze into the crimson vapor.  Your 
+vision films over with the color of blood, and your brain pumps adrenaline 
+straight to your muscles and tendons.  You feel an almost insane rage coming 
+from this mass.
+~
+bfgm dfw -1000 C
+37 0 -250 7000d0+1 0d0+0
+100 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+> rand_prog 25~
+fume $n
+glare $n
+~
+|
+#24812
+white innocence ball color~
+Innocence~
+An innocent-looking white ball of light floats here, seeming almost amused.
+~
+Although you are close to blinded by the intensity of the form in front of 
+you, you know that it doesn't matter much.  There is no way this entity could 
+harm you.  It's too nice.  You smile to yourself and sigh happily.
+~
+bgm dfhw 1000 S
+40 0 -200 9000d0+1 0d0+0
+1 0
+8 8 0
+> rand_prog 25~
+smile
+giggle
+~
+|
+#24813
+evil black color~
+Evil~
+A large mass of absolute blackness surrounds you, chilling you to your bones.
+~
+Nothing, in all the Realms, is this evil.  Not Shimmergloom, not Lord Seth, not
+War, nothing.  Your heart freezes with dread, your throat tightens, and your 
+flesh chills.  You try to scream, but nothing comes out.  This  is  pure  evil.
+~
+bgm dfhw 0 S
+45 0 -200 10000d0+1 0d0+0
+666 0
+8 8 0
+> rand_prog 25~
+growl
+scream
+~
+|
+#24814
+left foot welmar leftfoot~
+Welmar's Left Foot~
+The monstrous left foot of King Welmar is here, tapping impatiently.
+~
+~
+bm 0 0 C
+20 0 -50 900d0+100 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+19 0 0
+C
+> act_prog defend_foot~
+mpgoto rightfoot
+mpkill $n
+~
+> death_prog 100~
+mpgoto 4
+~
+|
+#24815
+right foot welmar rightfoot~
+Welmar's Right Foot~
+The humongous right foot of King Welmar is here, tracing designs on the floor.
+~
+~
+bm 0 0 C
+20 0 -50 900d0+100 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+> act_prog defend_foot~
+mpgoto leftfoot
+mpkill $n
+~
+> death_prog 100~
+mpgoto 4
+~
+|
+#24816
+right hand welmar righthand~
+Welmar's Right hand~
+The gigantic right hand of King Welmar is here, gripping a huge golden sceptre.
+~
+~
+gm 0 750 C
+30 0 -75 1900d0+100 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+19 0 0
+C
+> act_prog defend_me~
+mpgoto $n
+mpecho Welmar's Right Hand comes to the rescue!
+mpkill $n
+~
+> death_prog 100~
+mpgoto 4
+~
+|
+#24817
+left hand welmar lefthand~
+Welmar's Left hand~
+Welmar's enormous left hand is here, drumming its fingers.
+~
+~
+m 0 -1000 C
+30 0 -75 1900d0+100 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+19 0 0
+C
+> act_prog defend_me~
+mpgoto $n
+mpecho Welmar's Left Hand comes to the rescue!
+mpkill $n
+~
+> death_prog 100~
+mpgoto 4
+~
+|
+#24818
+left eye welmar~
+Welmar's Left Eye~
+King Welmar's left eye glares at you in irritation.
+~
+~
+bm cdfh 750 C
+35 0 -100 2400d0+100 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+19 0 1
+C
+> death_prog 100~
+mpgoto 4
+~
+|
+#24819
+right eye welmar~
+Welmar's Right Eye~
+King Welmar's right eye stares at you impassively.
+~
+~
+bm cdfh 750 C
+35 0 -100 2400d0+100 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+19 0 1
+C
+> death_prog 100~
+mpgoto 4
+~
+|
+#24820
+mouth welmar~
+Welmar's Mouth~
+King Welmar's mouth mutters something about "kill" and "damn intruders".
+~
+~
+bm 0 -1000 C
+40 0 -150 2900d0+100 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+19 0 0
+C
+> death_prog 100~
+mpgoto 4
+~
+|
+#24821
+dragon dust Dracolithos~
+Dracolithos~
+A swirling cloud of dust forms a terrifying dragon shape before you.
+~
+Dracolithos has lived in this painting for thousands of years, feeding on 
+those adventurers foolish or unlucky to end up in this wasteland.  It 
+displays its pile of bone powder as one would show a trophy on their wall.  
+You begin to regret ever coming to the art gallery.
+~
+bm dfkmtw 0 C
+50 0 -150 1d1+11000 8d8+6
+650000 0
+8 8 0
+18 13 13 16 13 13 0
+11 0 5
+C
+> rand_prog 8~
+emote snorts, sending sand clouds swirling.
+hide
+~
+> all_greet_prog 100~
+mpecho As you trudge along, the sand all around you begins to swirl upward.
+mpecho This is unlike any dust storm you've ever seen, though.
+~
+> death_prog 100~
+mpoload 24816
+mpecho The insubstantial form of Dracolithos finally returns from whence
+mpecho it came: dust. All that remains is a simple band of fire-blown
+mpecho glass, pitted and etched by time and driven sand.
+~
+> act_prog p flees head over heels!~
+mpat 3 c 'heal'
+mpat 3 c 'heal'
+mpat 3 c 'heal'
+mpat 3 c 'heal'
+mpat 3 c 'heal'
+~
+> rand_prog 5~
+mpat 3 c 'heal'
+~
+|
+#24822
+zombie noble~
+a zombie noble~
+A well-dressed zombie turns to you and emits a terrifying moan.
+~
+A close examination of this zombie wasn't really what you had in mind.  
+Unfortunately, the details of his rotting visage are forever etched into your 
+mind.  Looks like he's been sitting here for a long, long, LONG time.
+~
+bgm df -1000 C
+30 0 -75 1000d0+500 0d0+0
+10000 0
+8 8 1
+13 13 13 13 13 13 0
+4 0 0
+C
+#24823
+ghoul noble~
+a ghoul noble~
+A ghoul dressed in tattered majestic robes growls at you hungrily.
+~
+This ghoul seems as bereft of brain power as any other undead creature, but 
+an evil glint in its eyes gives away a faint remainder of cunning, if not 
+intelligence.  Watch out for this one.
+~
+bfgm df -1000 C
+35 0 -100 1200d0+50 0d0+0
+20000 0
+8 8 1
+13 13 13 13 13 13 0
+4 0 0
+C
+#24824
+skeleton lady~
+a lady skeleton~
+A lady of regal bearing stands here, devoid of everything but bone.
+~
+This important-looking skeleton's face is forever locked in a grin, due to 
+the fact that she has no face to do anything else with.  Her crown is still 
+on her head, the only thing on what's left of her body that hasn't rotted away.
+~
+bgm df -1000 C
+35 0 -100 1300d0+50 0d0+0
+10000 0
+8 8 2
+13 13 13 13 13 13 0
+4 0 0
+C
+#24825
+vampire lord king~
+The Vampire Lord~
+A fearsome vampire sits here, smiling coldly.
+~
+This vampire has not bothered to wipe the blood from his face, a testament to 
+his many kills.  You can almost feel his razor-sharp fangs digging into your 
+neck, and you rub your neck involuntarily at the thought.
+~
+bfgm dfhw -1000 C
+45 0 -200 2800d0+200 0d0+0
+50000 0
+8 8 1
+13 13 13 13 13 13 0
+4 0 0
+C
+#24826
+deer~
+a strong deer~
+A deer spies you and quickly bounds away.
+~
+This stag's antlers look rather intimidating.  You can imagine yourself being 
+impaled on the many racks of them.  His skin looks rather warm, though.  No 
+wonder he looks so carefree.
+~
+ghm 0 0 C
+20 0 0 400d0+100 0d0+0
+0 0
+8 8 1
+13 13 13 13 13 13 13
+0 3 0
+C
+> death_prog 100~
+mpoload 24821
+~
+> fight_prog 20~
+kick
+~
+|
+#24827
+yeti~
+a tundra yeti~
+A huge yeti rises up before you, its white fur blending with the snow.
+~
+This huge animal resembles a large white bear, only with much stronger arms 
+and jaws.  You wouldn't want to get caught between either of those.
+~
+fgm f 0 C
+22 0 0 1d1+800 10d2+5
+0 0
+8 8 0
+13 13 13 13 13 13 13
+0 3 0
+C
+#24828
+dragon icingdeath ingeloakastimizilian ice white~
+Icingdeath~
+Icingdeath, king of the white dragons, lies here on a frozen bed of gold.
+~
+Ingeloakastimizilian, or Icingdeath, as he has come to be known, has lived in 
+this cavern for hundreds of years.  He, like many others of his kind, has grown
+too large to leave his lair.  So Icingdeath is content to lie here in repose 
+and count his treasure in his tiny dragon mind.  Disturbing him was probably 
+a very bad idea.
+~
+bfgm cdefhmw 0 C
+45 0 -250 7000d0+1000 2d5+4
+750000 0
+8 8 1
+17 13 13 16 13 13 0
+4 0 0
+C
+> rand_prog 25~
+mpforce all shiver
+~
+> greet_prog 100~
+mpecho Ingeloakastimizilian's eyes dart open as soon as you step into
+the room.
+mpecho The thin layer of ice that covers the dragon's body immediately
+mpecho shatters as he screams, a truly horrible sound.
+if clan ($n) == Dragonslayer
+yell I have you now you puny Dragonslayer!
+yell You will be my dinner after a centuries long fast $n.
+else
+endif
+~
+> death_prog 100~
+mpecho Icingdeath shudders once as blood trickles out of his nostrils. He
+mpecho gathers his lungs for one final breath of frost, but all that comes
+mpecho out is a mildly nippy cough. His head crashes to the floor.
+~
+|
+#24829
+lich aram aram-dol dol~
+Aram-Dol~
+A skeletal being of pure evil lies here, its eyes glowing with an unholy light.
+~
+Aram-Dol has been feeding off unwary adventurers for centuries now, their 
+life force sustaining his existence.  He should have been dead millenia ago, 
+but his evil ambitions and magic crown have allowed him to cheat death and 
+enter the realm of the undead.
+~
+bgm cdef 0 C
+45 0 -200 7000d0+1000 0d0+0
+100000 0
+8 8 1
+13 13 13 13 13 13 0
+4 0 0
+C
+> fight_prog 25~
+mpecho Aram-Dol grabs your arm!
+c 'energy drain' $n
+~
+> death_prog 100~
+mpecho Aram-Dol emits a terrifying scream as he crumbles into dust. All
+mpecho that remains of him are his crown and his wand.
+mpoload 24823 40
+drop decay
+mpoload 24822 40
+drop crown
+~
+|
+#24830
+butcher graeme davis~
+the butcher~
+A blond young man offers a blood-stained hand as you enter the room.
+~
+Graeme loves his job.  It gives him the chance to take out his aggressions on 
+human-sized targets with a huge cleaver.  He doesn't look like the type to be 
+messed with.
+~
+bgm cdefhmw 0 S
+10 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 0
+#24831
+baker jon lang~
+the baker~
+A wild-eyed man is here, covered in flour from his shoes to his glasses.
+~
+Jon Lang runs around manically as you study him.  The flour all over his body 
+is caked into his skin and clothes.  Apparently, he hasn't had time to clean 
+himself.
+~
+bgm cdefhmw 0 S
+10 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 1
+#24832
+stafford fruit markham vendor~
+the fruit stand vendor~
+A grizzled, moustached man stands here, offering you various fruits.
+~
+Stafford has given up his job designing signs for the shops around here, and 
+is content to sell you every fruit he has ever come across.  Yes, his job is 
+just about as boring as it sounds.
+~
+bgm cdefhmw 0 S
+10 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 1
+#24833
+tabby cat orange~
+the orange tabby~
+A beautiful orange tabby cat rubs up against your leg and purrs here.
+~
+The cat's coat is a lustrous orange.  Obviously, someone has been taking care 
+of her quite well.
+~
+bgm 0 0 C
+20 0 -75 900d0+100 0d0+0
+0 0
+8 8 2
+13 13 13 13 13 13 0
+4 0 0
+C
+#24834
+bonnie dairy milkmaid roberts ~
+the dimpled milkmaid~
+A beautiful blonde woman shyly offers you dairy products.
+~
+Bonnie has grown fed up with her bureaucratic job at the university.  She now 
+runs the Goodbody Dairy, which has been her dream for many years.  Her cheeks
+flush as she offers you merchandise.
+~
+bgm cdefhmw 0 S
+10 0 -300 29000d0+200 0d0+0
+0 0
+8 8 2
+#24835
+barbarian heafstaag~
+a barbarian fighter~
+A huge barbarian stands here motionless, awaiting his next target.
+~
+This huge man appears to be quite worked up about something.  Every muscle on 
+his huge body is taut with exertion.  It is his eyes that draw your attention,
+though.  They are frightened, pleading eyes.  The eyes of a beaten man.
+~
+bgm 0 0 S
+30 0 -175 3500d0+500 0d0+0
+0 0
+8 8 1
+> rand_prog 20~
+growl
+~
+|
+#24836
+storm giant galstorm~
+the storm giant chieftain~
+A storm giant stands here, completely motionless.
+~
+The twenty-foot-plus giant that stands before you pays you absolutely no 
+attention.  You can hear energy crackling all around him, which gives him away
+as a storm giant even before his deep violet skin.
+~
+bgm 0 0 S
+50 0 -200 5500d0+500 0d0+0
+0 0
+8 8 1
+> rand_prog 25~
+cackle
+~
+|
+#24837
+mind flayer galflayer~
+the mind flayer~
+A revoltingly colored mind flayer stands here, its eyes widening in shock.
+~
+This illithid is one of the most disgusting creatures you've ever seen.  Its 
+skin glistens with slime, and its bizarre eyes have no pupils.  This creature's
+very existence is a defamation of nature.
+~
+bfgm d 0 C
+30 0 -100 2500d0+500 0d0+0
+10000 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+#24838
+siberian husky dog~
+a Siberian Husky~
+A healthy-looking Siberian Husky sits here at the table, intent on his hand.
+~
+A tag on his collar says "Tundra".
+~
+bgm 0 0 C
+10 0 -50 500d0+500 0d0+0
+10000 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+#24839
+golden retriever dog~
+a Golden Retriever~
+A Golden Retriever with a shiny coat sits here oblivious at the table.
+~
+A tag on his collar says "Pyrite".
+~
+bgm 0 0 C
+10 0 -50 500d0+500 0d0+0
+10000 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+#24840
+dachsund weiner dog~
+a Wirehaired Dachsund~
+A seemingly bored Wirehaired Dachsund is losing.  Poor doggie.
+~
+A tag on his collar says "Schultz".
+~
+bgm 0 0 C
+10 0 -50 500d0+500 0d0+0
+10000 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+#24841
+irish setter dog~
+an Irish Setter~
+An excited Irish Setter leans up against the table here, wagging its tail.
+~
+A tag on his collar says "O'Sullivan".
+~
+bgm 0 0 C
+10 0 -50 500d0+500 0d0+0
+40000 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+#24842
+boxer dog~
+a Boxer~
+A mean-looking Boxer has lost all his money.  Better watch out.
+~
+A tag on his collar says "Tyson".
+~
+bfgm 0 0 C
+10 0 -50 500d0+500 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+#24843
+dragonfly blue~
+a sky blue dragonfly~
+A gigantic light blue dragonfly buzzes next to your ear.
+~
+Its wings are moving much too fast for you to see, but you decide to trust 
+your senses and believe that this creature is flying.  You'd hate to be 
+bitten by one of these.  If dragonflies do indeed bite.  Hmm.
+~
+bgm w 0 C
+10 0 -50 500d0+500 0d0+0
+0 0
+8 8 0
+13 13 13 13 13 13 0
+4 0 0
+C
+#24844
+blue jay bluejay~
+an exuberant blue jay~
+A happy-looking blue jay flies circles around your head.
+~
+This bird is uncommonly happy for some reason.  You can't imagine why, given 
+the mood of this room.  You half expect it to burst into tears at any moment.
+That would be the icing on the cake.
+~
+bgm w 0 S
+15 0 -75 1000d0+500 0d0+0
+0 0
+8 8 0
+#24845
+~
+the butcher~
+A blond young man offers a blood-stained hand as you enter the room.
+~
+Graeme loves his job.  It gives him the chance to take out his aggressions on 
+human-sized targets with a huge cleaver.  He doesn't look like the type to be 
+messed with.
+~
+bgm cdefhmw 0 S
+10 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 0
+#24846
+~
+the baker~
+A wild-eyed man is here, covered in flour from his shoes to his glasses.
+~
+Jon Lang runs around manically as you study him.  The flour all over his body 
+is caked into his skin and clothes.  Apparently, he hasn't had time to clean 
+himself.
+~
+bgm cdefhmw 0 S
+10 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 1
+#24847
+~
+the fruit stand vendor~
+A grizzled, moustached man stands here, offering you various fruits.
+~
+Stafford has given up his job designing signs for the shops around here, and 
+is content to sell you every fruit he has ever come across.  Yes, his job is 
+just about as boring as it sounds.
+~
+bgm cdefhmw 0 S
+10 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 1
+#24848
+~
+the dimpled milkmaid~
+A beautiful blonde woman shyly offers you dairy products.
+~
+Bonnie has grown fed up with her bureaucratic job at the university.  She now 
+runs the Goodbody Dairy, which has been her dream for many years.  Her cheeks
+flush as she offers you merchandise.
+~
+bgm cdefhmw 0 S
+10 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 2
+#24850
+~
+the butcher~
+A blond young man offers a blood-stained hand as you enter the room.
+~
+Graeme loves his job.  It gives him the chance to take out his aggressions on 
+human-sized targets with a huge cleaver.  He doesn't look like the type to be 
+messed with.
+~
+bgm cdefhmw 0 S
+10 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 0
+#24851
+butcher graeme davis~
+the butcher~
+A blond young man offers a blood-stained hand as you enter the room.
+~
+Graeme loves his job.  It gives him the chance to take out his aggressions on 
+human-sized targets with a huge cleaver.  He doesn't look like the type to be 
+messed with.
+~
+bgm cdefhmw 0 S
+10 0 -300 1d0+600 0d0+0
+0 0
+8 8 0
+#24852
+milkmaid dairy roberts bonnie~
+the dimpled milkmaid~
+A beautiful blonde woman shyly offers you dairy products.
+~
+Bonnie has grown fed up with her bureaucratic job at the university.  She now 
+runs the Goodbody Dairy, which has been her dream for many years.  Her cheeks
+flush as she offers you merchandise.
+~
+bgm cdefhmw 0 S
+10 0 -300 300d0+200 0d0+0
+0 0
+8 8 2
+#24853
+baker jon lang~
+the baker~
+A wild-eyed man is here, covered in flour from his shoes to his glasses.
+~
+Jon Lang runs around manically as you study him.  The flour all over his body 
+is caked into his skin and clothes.  Apparently, he hasn't had time to clean 
+himself.
+~
+bgm cdefhmw 0 S
+10 0 -300 300d0+500 0d0+0
+0 0
+8 8 1
+#24854
+stafford fruit markham vendor~
+the fruit stand vendor~
+A grizzled, moustached man stands here, offering you various fruits.
+~
+Stafford has given up his job designing signs for the shops around here, and 
+is content to sell you every fruit he has ever come across.  Yes, his job is 
+just about as boring as it sounds.
+~
+bgm cdefhmw 0 S
+10 0 -300 200d0+650 0d0+0
+0 0
+8 8 1
+#24892
+wiggins scott ~
+Scott~
+A towering man in a Corps of Cadets uniform stands here at attention.
+~
+Scott is in uniform, of course.  It looks like quite an uncomfortable uniform
+at that.  You're very glad YOU don't have to wear it.  You're also very glad 
+you're not the one in the Corps.
+~
+gm cdefhmw 0 S
+50 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 0
+#24893
+aaron white~
+Aaron~
+A smiling student in tattered sweatshorts stands here, whining about work.
+~
+Aaron notices your gaze and says "What the hell are you looking at?"  He is 
+holding his koofers for the big test tomorrow.
+~
+bgm cdefhmw 0 S
+50 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 1
+#24894
+schneider rob schneidr~
+Rob~
+A tall young lad with thick glasses is here, making fun of you.
+~
+Rob is wearing his "Politically Incorrect" T-shirt, and shorts (of course...
+the guy doesn't have any other legwear).  He is working on a five-page paper 
+for Political Theory class.  Don't disturb him.
+~
+bgm cdefhmw 0 S
+50 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 1
+#24895
+tex aaron lee~
+Tex~
+A tall, lanky Texan stands here with his thumbs in his belt loops.
+~
+After a close inspection of Tex's outfit, you wonder why he is here in 
+Blacksburg and not down in Austin.  Faded cowboy boots, a black cowboy hat, 
+blue jeans jacket, and a Garth Brooksesque shirt make up this weirdo's ensemble
+Aaron notices your gaze and says "What the hell are you looking at?"  He is 
+holding his koofers for the big test tomorrow.
+After a close inspection of Tex's outfit, you wonder why he is here in 
+Blacksburg and not down in Austin.  Faded cowboy boots, a black cowboy hat, 
+blue jeans jacket, and a Garth Brooksesque shirt make up this weirdo's ensemble
+~
+gm cdefhmw 0 S
+50 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 1
+#24896
+forrester chris~
+Forrester~
+A thin, goateed weakling stands here doing impressions.
+~
+Forrester is battling with Rob for "Smallest Person in Miles".  He still 
+looks quite dangerous, though.
+~
+bgm cdefhmw 0 S
+50 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 1
+#24897
+cox brian bastard~
+Cox~
+An annoying bastard is here, wandering about the area.
+~
+You can't get a good look at him through all the flannel.  But maybe that's 
+just as well.
+~
+gm cdefhmw 0 S
+50 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 1
+#24898
+roberts grant troll-boy~
+Grant~
+A disinterested, long haired freak sits here at his computer.
+~
+Grant is in his customary position.  Sprawled in his favorite, uncomfortable 
+red chair with his feet in his computer desk.  His face is twisted in a look 
+of concentration as he types much, MUCH too quickly on his keyboard.
+~
+bgm cdefhmw 0 S
+50 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 1
+#24899
+seguin brian~
+Seguin~
+Brian Seguin stands here, laughing at something.  What a dork.
+~
+Seguin is wearing his usual outfit.  A dark sweater with khaki shorts.  The kid
+has no fashion sense.  But that's why the women love him.
+~
+bgm cdefhmw -1000 S
+50 0 -300 29000d0+1000 0d0+0
+0 0
+8 8 1
+$~

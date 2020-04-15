@@ -1,0 +1,1664 @@
+#24800
+Entrance to the Darkhaven Art Gallery~
+The change in atmosphere as you step through the doors into the gallery is 
+striking.  Far from the tumult outside, the interior of the building is 
+remarkably serene.  The body of the gallery is north of here, past a
+busy-looking receptionist sitting at her desk.
+~
+248 d 1
+D0
+~
+~
+0 -1 24801
+D2
+Law Street lies to the south.
+~
+~
+0 -1 21021
+S
+#24801
+Receptionist's Desk~
+A sign hanging from the ceiling says :
+ 
+"ADMISSION : 100 GOLD"
+ 
+Apparently, this is the main entrance to the gallery.  You can see various 
+paintings lining the walls far to the north, and two rooms containing 
+important-looking art closer that way.
+~
+248 d 1
+D0
+~
+entrance hallway passage room~
+-143 24800 24804
+D2
+~
+~
+0 -1 24800
+D3
+~
+~
+0 -1 24802
+S
+#24802
+Curator's Desk~
+Without a doubt, this is the messiest desk you've ever laid eyes on.  
+Hundreds of loose documents (most of them with an outrageously high price at 
+the bottom) litter the surface.  More than a few lie on the floor.  A 
+nameplate is unobscured by the mountain of paper, however.
+~
+248 d 1
+D1
+~
+~
+0 -1 24801
+E
+nameplate desk~
+The gold nameplate says "MICHAEL COSNER - CURATOR"
+~
+S
+#24803
+Dracolithos' Treasure Vault~
+This place seems remarkably cool, and there is (thank the gods) a cool, clear 
+fountain flowing in front of you.  A few chests line the room, some of them 
+with cobwebs on them, some with bloodstains.
+~
+248 dxy 1
+D2
+~
+~
+0 -1 24848
+S
+#24804
+Outside the Art of the Year Rooms~
+This room exists only to lead you to the east and west.  West leads to the 
+year's featured painting, and east is the year's featured sculpture.  They 
+both look equally fascinating.  The hallway leads north to the rest of the 
+gallery.
+~
+248 d 1
+D0
+~
+~
+0 -1 24807
+D1
+~
+~
+0 -1 24806
+D2
+~
+~
+-11 24800 24801
+D3
+~
+~
+0 -1 24805
+S
+#24805
+Painting of the Year~
+The painting of the year has definitely earned its title.  The ice-capped 
+mountains are painted in such detail that you could probably count the 
+individual snowflakes if you had a mind to.  Actually, that seems like a good 
+idea.  One...two...three...hmm.  There must be an easier way to do this.
+ 
+A small card by the painting says : 25.50
+~
+248 cd 1
+D1
+~
+~
+0 -1 24804
+D3
+~
+painting~
+-1 -1 24831
+S
+#24806
+Sculpture of the Year~
+Ugh.  What an ugly sculpture.  If the artist was trying to make this thing 
+beautiful, he should be executed.  The monochromaticity of the bronze only 
+adds to this hideous beast's ugliness, with its lower jaw jutting out, its 
+too-long, twisted horns, and generally stupid appearance.  Yeccch.
+ 
+A sign on the wall says : 30.40
+~
+248 d 1
+D3
+~
+~
+0 -1 24804
+S
+#24807
+By the "Wasteland" Painting~
+You are standing before an amazingly detailed painting of a completely barren 
+wasteland.  No plants.  No animals.  No water.  No nothing.  You don't envy 
+anyone who would be in THAT scene.
+ 
+A small card by the painting says : 45.50
+~
+248 cd 1
+D0
+~
+painting~
+-131 -1 24815
+D1
+~
+~
+0 -1 24808
+D2
+~
+~
+0 -1 24804
+D3
+~
+~
+0 -1 24814
+S
+#24808
+By the "Canine Recreation" Painting~
+Ah, now THIS is a familiar work of art.  It shows five dogs, each wearing a 
+strange visor of transparent material.  The dogs are playing a game as old as 
+time itself.  Smoke hovers in the air above the green table.  How rustic.
+ 
+A small card by the painting says : 5.10
+~
+248 cd 1
+D0
+~
+~
+0 -1 24809
+D1
+~
+painting~
+-3 -1 24816
+D3
+~
+~
+0 -1 24807
+S
+#24809
+By the "Spectrum" Painting~
+This seems like an ordinary painting.  It simply shows the colors of the 
+rainbow, from red to violet, with black and white on the top and bottom, 
+respectively.  The colors are the most vibrant you have ever seen.
+ 
+A small card by the painting says : 30.40
+~
+248 cd 1
+D0
+~
+~
+0 -1 24810
+D2
+~
+~
+0 -1 24808
+D3
+~
+painting~
+-3 -1 24817
+S
+#24810
+By the "Still Life of Monarchy" Painting~
+This painting is the most uninteresting one you've seen so far.  It shows a 
+picture of King Welmar sitting on his throne.  Nothing to get excited about.  
+You can almost see the old man's face twist into a disdainful sneer.
+ 
+A small card by the painting says : 15.35
+~
+248 d 1
+D0
+~
+painting~
+-3 -1 24818
+D2
+~
+~
+0 -1 24809
+D3
+~
+~
+0 -1 24811
+S
+#24811
+By the "Arena of Valorous Combat" Painting~
+Thousands of cheering fans make up the border of this painting.  Their 
+attention appears to be focused on the two gargantuan barbarians in the 
+center of the arena.  There are also numerous gladiatorial contests 
+surrounding the main attraction.
+ 
+A small card by the painting says : 25.30
+~
+248 cd 1
+D1
+~
+~
+0 -1 24810
+D2
+~
+painting~
+-3 -1 24819
+D3
+~
+~
+0 -1 24812
+S
+#24812
+By the "Tea Party" Painting~
+A few rich-looking, well-to-do nobles sit at a table in the painting.  Their 
+capes are frozen in mid-flow, probably due to an invisible breeze, and the 
+ladies' dresses are slightly green on the bottom from grass stains.  All 
+their backs are to you, making their faces hidden from view.
+ 
+A small card by the painting says : 25.45
+~
+248 cd 1
+D1
+~
+~
+0 -1 24811
+D2
+~
+~
+0 -1 24813
+D3
+~
+painting~
+-3 -1 24820
+S
+#24813
+By the "Loss" Painting~
+What a morbid painting!  Depicted on the wall in front of you is a large 
+graveyard, with quite a few stones.  A new arrival is on the way, apparently, 
+as a large group of people are gathered around an open grave.  How depressing.
+ 
+A small card by the painting says : 45.50
+~
+248 cd 1
+D0
+~
+~
+0 -1 24812
+D1
+~
+painting~
+-3 -1 24821
+D2
+~
+~
+0 -1 24814
+S
+#24814
+By the "Urban Jungle" Painting~
+You've never seen so much food in your life.  Each of the four food groups 
+are represented quite spectacularly.  From baker to butcher to ice cream 
+maker, to grocer to fruit dealer, the amount of fare is astounding.
+ 
+A small card by the painting says : N/A
+~
+248 cd 1
+D0
+~
+~
+0 -1 24813
+D1
+~
+~
+0 -1 24807
+D2
+~
+painting~
+-3 -1 24822
+S
+#24815
+Oops~
+Perhaps coming through this painting wasn't such a good idea.  You look 
+around and see nothing but cracked soil.  Everywhere.  You quickly decide to 
+go back the way you came, and spin around to jump back through the portal.
+ 
+It's not there.
+ 
+Quickly taking stock of your options, you decide to begin the trek to find a 
+way out of here.  NOW.
+~
+248 cxy 2
+D0
+~
+~
+0 -1 24840
+D1
+~
+~
+0 -1 24840
+D2
+~
+~
+0 -1 24840
+D3
+~
+~
+0 -1 24840
+S
+#24816
+Dogs Playing Poker~
+The array of multicolored chips on the table here are enough to make any 
+being rich, be it canine or human or elf.  The smoke in the air is quite 
+thick, and you can't suppress a cough as it fills your lungs.  Well, now that 
+you're here, maybe you'd like to play a few hands.
+~
+248 cd 1
+D3
+~
+~
+-9 -1 24808
+S
+#24817
+Green~
+You are floating in a vast space of green.  Waves of sea green.  Hovering 
+carpets of hunter green.  Every shade of green ever created occupies your 
+field of vision.  This makes the rain forest seem like a drab grey.  All 
+kinds of plant life flourish around you, seeming to thrive on the verdant 
+atmosphere.
+~
+248 0 9
+D1
+~
+~
+0 -1 24823
+D3
+~
+~
+0 -1 24824
+D4
+~
+~
+0 -1 24829
+D5
+~
+~
+0 -1 24830
+E
+plant plants~
+These plants are more exotic than you would have expected to see in midair.
+Of course, midair plants are not easily found, but that's neither here nor
+there.
+~
+S
+#24818
+Welmar's Left Foot~
+Perhaps this painting was just a wee bit more interesting than it looked.  
+You are standing at the foot of King Welmar.  A three-hundred-foot tall King 
+Welmar.  His foot alone is as big as ten of you!  You can see his huge toes 
+(each bigger than your head) wiggling around in his sandals.  Evidently today 
+was his pedicure.
+~
+248 cd 1
+D2
+~
+~
+-9 -1 24810
+D4
+~
+~
+0 -1 24849
+S
+#24819
+The Arena~
+The painting you saw appears to be quite outdated.  Almost all the fans have 
+left, except for a few seated, robed figures, all intensely concentrating.  
+Some of them notice you and slowly fade into nothingness as you watch.  The 
+wave of a facial tentacle gives their identity away.
+~
+248 0 1
+D1
+~
+~
+0 -1 24870
+D3
+~
+~
+0 -1 24871
+D4
+~
+~
+0 -1 24872
+S
+#24820
+The Tea Party~
+Now that you're in the scene, something seems horribly wrong.  The air stinks 
+of death and decay.  You can faintly recall where you've encountered this 
+stench before, but it escapes you at the mom--that's it!  A graveyard!  The 
+color drains from your face as you hear tormented moans all around you.
+~
+248 c 1
+D0
+~
+~
+0 -1 24857
+D1
+~
+~
+-9 -1 24812
+S
+#24821
+The Funeral~
+A few dozen people gather around an open grave here, sniffling and wiping 
+their eyes.  A priest solemnly eulogizes the new occupant.  Or it seems as 
+though he is.  His lips are moving, but you don't hear anything.  As you 
+watch, the priest, and then the rest of the mourners shimmer and fade into 
+nothingness, leaving only yourself with an open grave.  *gulp*
+~
+248 c 1
+D5
+~
+~
+0 -1 24864
+S
+#24822
+Danishes N Donuts~
+The freshly baked bread in the back of this store makes your mouth start to 
+water in anticipation.  The selection beneath the display case is astounding.
+The fare ranges from omelettes to muffins to freshly popped popcorn.  They 
+all look incredibly appetizing.
+~
+248 c 1
+D0
+~
+~
+-9 -1 24814
+D1
+~
+~
+0 -1 24867
+S
+#24823
+Blue~
+The blue sky has never been this clear that YOU've ever seen.  You can see 
+for miles...at least you think it's miles.  There's no landmark to judge 
+distance by.  Sky as far as the eye can see around you, and a deep blue ocean 
+beneath you.  Blue jays and midnight blue dragonflies hover around you.
+~
+248 0 9
+D1
+~
+~
+0 -1 24825
+D3
+~
+~
+0 -1 24817
+D4
+~
+~
+0 -1 24829
+D5
+~
+~
+0 -1 24830
+S
+#24824
+Yellow~
+Sunlight envelops you as you find yourself standing on a seemingly boundless 
+field of yellow.  The sun dominates the sky, easily a hundred times larger 
+than usual.  Golden trees make up a forest all around you, with lemons and 
+bananas hanging from every tree.
+~
+248 0 2
+D1
+~
+~
+0 -1 24817
+D3
+~
+~
+0 -1 24826
+D4
+~
+~
+0 -1 24829
+D5
+~
+~
+0 -1 24830
+E
+sun sky~
+The sun stretches as far as your peripheral vision can see, almost occupying
+the entire sky.  Strangely, though, it is not hot.  It's actually pleasantly
+warm.  Ahhhhhhhh.
+~
+S
+#24825
+Indigo~
+You just missed the dusk here, apparently.  The sky is a thick dark blue, 
+with a hint of violet.  The moon is not out tonight, leaving you with a clear 
+view of the night sky.  Numerous trees surround you, laden with blueberries 
+larger than any berries you've seen.  A small pond lies quietly off in the 
+distance, undisturbed by the wind that ruffles your clothes and hair.
+~
+248 0 2
+D1
+~
+~
+0 -1 24827
+D3
+~
+~
+0 -1 24823
+D4
+~
+~
+0 -1 24829
+D5
+~
+~
+0 -1 24830
+E
+pond~
+The dark blue sky reflects onto the pond beautifully, and its cool waters
+entice you.  Feel like a swim?  Too bad.  You wouldn't be able to reach it.
+~
+S
+#24826
+Orange~
+You find yourself walking through a beautiful forest.  Somehow the season has 
+changed to fall, as evidenced by the numerous hues of orange on the leaves of 
+the trees.  The dirt you stand on is a deep reddish orange, with many paw 
+prints lining the path.  The bark of the trees has somehow been changed into 
+a very rich brown-tinged orange.
+~
+248 0 3
+D1
+~
+~
+0 -1 24824
+D3
+~
+~
+0 -1 24828
+D4
+~
+~
+0 -1 24829
+D5
+~
+~
+0 -1 24830
+S
+#24827
+Violet~
+The waning dusk turns the lake you are standing in into a picture of the 
+deepest purple.  Light reflecting off the lake turns all the colors around 
+you into progressive shades of the same color, including the grapevines in 
+the distance.  A table is set up on the shore, draped in a violet tablecloth.
+~
+248 0 2
+D3
+~
+~
+0 -1 24825
+D4
+~
+~
+0 -1 24829
+D5
+~
+~
+0 -1 24830
+S
+#24828
+Red~
+Horror dawns on you as you realize what the thick red liquid you're wading in 
+is.  You quickly scramble out of it and take in your surroundings.  The sky 
+is the light red of sunrise.  The blood you were just swimming in drips off 
+your equipment onto the brick path under your feet.  The sunlight bathes the 
+nearby trees in red, matching the color of the leaves.
+~
+248 0 3
+D1
+~
+~
+0 -1 24826
+D4
+~
+~
+0 -1 24829
+D5
+~
+~
+0 -1 24830
+S
+#24829
+White~
+The brightness that encompasses you makes everything you've ever seen seem 
+dim and diluted by comparison.  Everywhere you turn, you can see nothing but 
+white.  Closing your eyes doesn't help; the afterimage is just as bad.  There 
+is no horizon; no floor, no ceiling, no walls.  Panic wells up in you as you 
+lose track of the exit.  You spin around and look in all directions, quickly 
+realizing that, for once in your life, your sense of direction is totally gone.
+~
+248 0 9
+D5
+~
+~
+0 -1 24809
+S
+#24830
+Black~
+Your light source does nothing to penetrate the thick, silent darkness around 
+you.  The only thing that gives you ANY sense of direction is the division of 
+blackness; there are actually deeper shades of black than what you saw when 
+you first arrived here, evidenced by the horizon of absolute darkness in the 
+distance.  The "sky" is actually a lighter shade of black than the "ground" 
+here.  You wonder how this is possible.
+~
+248 0 9
+D4
+~
+~
+0 -1 24809
+S
+#24831
+High above Icewind Dale~
+Two things immediately strike you as you step onto the top of this mountain.  
+How beautiful the view is, with the mountains almost touching the sky, their 
+snow-capped peaks untouched by any creature, and how COLD it is!  Yikes!  
+You'd best get moving if you want your blood to stay in liquid form.
+~
+248 c 5
+D1
+~
+~
+-9 -1 24805
+D5
+~
+~
+0 -1 24832
+S
+#24832
+Trudging along in Icewind Dale~
+Hmm.  There goes your way back up.  The mountain is virtually unclimbable from
+here.  Looks like the only way out now is to the east, towards a huge glacier
+far in the distance.  Your slowly numbing legs scream for action.  Time to get
+moving before they fall off.
+~
+248 c 5
+D1
+~
+~
+0 -1 24833
+S
+#24833
+Within Sight of the Reghed Glacier~
+The huge glacier looming in the distance is even bigger than you thought, now
+that you are nearing it.  Something seems odd about the glacier, but you can't
+stop to figure it out now.  It's either move or freeze.  The glacier awaits, as
+does glory.  You can also see a long path to the north that eventually leads 
+to a huge rocky cliff.
+~
+248 c 5
+D1
+~
+~
+0 -1 24834
+D3
+~
+~
+0 -1 24832
+S
+#24834
+At the Base of the Reghed Glacier~
+Well, whatever was abnormal about this glacier seems to have vanished now that
+you're this close to it.  The surface of the glacier is an impregnable wall of
+deep-frozen ice.  Seemingly impregnable.  You didn't come all this way just to
+look at a glacier.  Perhaps there's something else of interest here...
+~
+248 c 5
+D1
+~
+crack~
+-147 -1 24835
+D3
+~
+~
+0 -1 24833
+E
+glacier mountain wall~
+The glacier does indeed look impenetrable.  It'd be a cold day in hell before
+you found any way inside of it.  No pun intended.  Hmm.  Well, actually, now
+that you're looking REALLY hard, you can see some sort of depression at the
+base of the mountain.  Probably just a trick of the imagination, though.
+~
+E
+base~
+There is a rather large crack at the base of the glacier.  So large, in fact,
+that you'd probably be able to fit through it with a bit of help.
+~
+S
+#24835
+The Shores of Evermelt~
+The cold temperature no longer seems incapacitating by this warm pool.  In 
+fact, you could stay here for quite a while if you had a mind to.  Steam 
+billows off the surface of the pool in great clouds.  You have heard legends 
+of what lies beyond the pool.  Care to find out if they're true?
+~
+248 cd 1
+D3
+~
+~
+-11 -1 24834
+D5
+~
+pool evermelt water~
+-137 24821 24836
+S
+#24836
+Swimming in Evermelt~
+The water is remarkably warm down here.  The steam rising off the surface 
+above you doesn't do justice to the toasty feeling flowing through your 
+veins.  Remaining down here would be a bad idea, though...if you get to used 
+to this temperature, you'll turn into an icicle seconds after getting out.
+~
+248 cd 6
+D0
+~
+~
+0 -1 24837
+D4
+~
+~
+0 -1 24835
+S
+#24837
+Swept Along by the Current~
+Hmm.  The current feels a lot stronger than it felt a few seconds ago.  In 
+fact, it's doubtful you could make it back to where you just were those few 
+seconds ago.  Might as well enjoy the ride now.
+~
+248 cd 6
+D0
+~
+~
+0 -1 24838
+S
+#24838
+Still Lost in the Current~
+Your lungs are screaming for air now.  It takes all of your years of 
+experience as an adventurer to keep from gulping in a mouthful of water.  
+Perhaps now would be a good time to find some oxygen, before you find 
+something less pleasant--death.
+~
+248 cd 6
+D0
+~
+~
+0 -1 24839
+S
+#24839
+The Waterfall (!!)~
+Uh-oh.  Time to act quick.  Just to your north, you hear the telltale roar of 
+water falling into a lower pool.  And from the sound of it, that pool is 
+quite a ways away.  Frantically looking around for a way out of this, you spy 
+a few icicles above you.  Maybe that's your ticket out of this mess.  It 
+probably would be a good idea to grab one before you go over the falls north.
+~
+248 cd 6
+D0
+If you go this way, death is assured.  The fall is quite far.
+~
+~
+0 -1 24858
+D4
+~
+~
+0 -1 24859
+S
+#24840
+Lost in the barren wasteland~
+Your throat constricts involuntarily as a huge wave of thirst overwhelms 
+you.  It doesn't look like there's any way out of this godforsaken place.  
+You promise yourself that if you ever see a painting of a wasteland, you'll 
+stay the hell away from it.
+~
+248 xy 2
+D0
+~
+~
+0 -1 24840
+D1
+~
+~
+0 -1 24840
+D2
+~
+~
+0 -1 24841
+D3
+~
+~
+0 -1 24840
+S
+#24841
+Lost in the barren wasteland~
+The lack of moisture in your throat fits nicely with the look of this place.  
+You're beginning to wonder if there is a way out of this place, or if the 
+gods have cursed you to a slow, agonizing death.
+~
+248 xy 2
+D0
+~
+~
+0 -1 24842
+D1
+~
+~
+0 -1 24840
+D2
+~
+~
+0 -1 24840
+D3
+~
+~
+0 -1 24840
+S
+#24842
+Lost in the barren wasteland~
+You can feel the heat of the sun overhead beating down on your already burned 
+skin.  What a way to go.  There's not even anyone, anyTHING around to notice 
+you expire.  You thought your death would bring more fanfare than this.
+~
+248 xy 2
+D0
+~
+~
+0 -1 24840
+D1
+~
+~
+0 -1 24843
+D2
+~
+~
+0 -1 24840
+D3
+~
+~
+0 -1 24840
+S
+#24843
+Lost in the barren wasteland~
+*pant* *pant* This is not good.  Although you feel like you're making 
+progress in this accursed place, you still don't see any change in 
+atmosphere.  That could be what is causing you to panic.  Or perhaps it's 
+because you can feel your brain frying.
+~
+248 xy 2
+D0
+~
+~
+0 -1 24840
+D1
+~
+~
+0 -1 24844
+D2
+~
+~
+0 -1 24840
+D3
+~
+~
+0 -1 24840
+S
+#24844
+Lost in the barren wasteland~
+You whistle a little tune that has no melody to yourself as you trudge 
+further along in this place.  Relief seems close at hand, but not by much.  
+Your grip on sanity is starting to loosen.  Time to leave.  Now.
+~
+248 xy 2
+D0
+~
+~
+0 -1 24845
+D1
+~
+~
+0 -1 24840
+D2
+~
+~
+0 -1 24840
+D3
+~
+~
+0 -1 24840
+S
+#24845
+Lost in the barren wasteland~
+Your heart skips a beat as you see a huge pond in the distance.  You run 
+towards it, without caring what happens to you and your equipment.  You reach 
+the shore and dive in...
+ 
+Only to land headfirst on more of the cracked, dry, hard ground you've been 
+destroying your footgear on for the last hour.  *groan*
+~
+248 xy 2
+D0
+~
+~
+0 -1 24840
+D1
+~
+~
+0 -1 24840
+D2
+~
+~
+0 -1 24846
+D3
+~
+~
+0 -1 24840
+S
+#24846
+Lost in the barren wasteland~
+Perhaps that dog over there can tell you how to get out of here.  Or maybe 
+that purple zorgflatz to your left.  Wait a minute--what's a zorgflatz?  
+Dimly you realize that to stay in this hell means a fate worse than death.  
+Insanity.  This may be your last hope of escape.
+~
+248 cxy 2
+D0
+~
+~
+0 -1 24840
+D1
+~
+~
+0 -1 24847
+D2
+~
+~
+0 -1 24840
+D3
+~
+~
+0 -1 24840
+S
+#24847
+Lost in the barren wasteland~
+Doo de doo de doo de doo...la de da de da...you've never been so happy.  The 
+pack of purple zorgflatzes that guards your dreams is right on your tail, but 
+you're happy, happy, happy!!  (You're also on the edge of insanity.  Be 
+careful)
+~
+248 cxy 2
+D0
+~
+~
+0 -1 24848
+D1
+~
+~
+0 -1 24840
+D2
+~
+~
+0 -1 24840
+D3
+~
+~
+0 -1 24840
+S
+#24848
+The Edge of the Barren Wasteland~
+By all the gods!  It's the edge of this accursed, blasted land!  Yippee!!  
+Yeehaa!  Alri--uh-oh.  Your elation evaporates in the blink of an eye, 
+quickly replaced by dread, as you look more closely at the pile of white 
+powder right next to you.  Sniffing carefully, you discover that it is 
+powdered bone!  What could have crushed THIS many bones, into THIS fine a 
+substance.  You have a sick feeling you might just find out.
+~
+248 cxy 2
+D0
+~
+~
+0 -1 24803
+D1
+~
+~
+0 -1 24840
+D2
+~
+~
+0 -1 24840
+D3
+~
+~
+0 -1 24840
+S
+#24849
+Welmar's Left Knee~
+The old king's knee is pretty bony, but there is a good deal of muscle 
+beneath.  The old codger has, after all, seen his share of adventuring.  But 
+these knees creak from arthritis when they move.  Doesn't look like his 
+majesty will be doing any strenuous activity today.
+~
+248 d 1
+D3
+~
+~
+0 -1 24850
+D5
+~
+~
+0 -1 24818
+S
+#24850
+Welmar's Lower Torso~
+Now that you're here, you realize you don't feel like spending too much time 
+near the waist of a seventy-year-old man.  Ugh.  Welmar doesn't have a 
+queen.  You wonder how the old man can keep such a sunny outlook on life 
+without any female companionship.  Or maybe that's what the guards are for...
+~
+248 d 1
+D1
+~
+~
+0 -1 24849
+D3
+~
+~
+0 -1 24851
+D4
+~
+~
+0 -1 24853
+S
+#24851
+Welmar's Right Knee~
+His majesty's right knee is covered by his opulent robe, but if it's like the 
+rest of his skin, it's probably pretty pale and splotchy.  Why his subjects 
+choose to follow the old man is a mystery to you.  He doesn't look very 
+authoritative from down here.
+~
+248 d 1
+D1
+~
+~
+0 -1 24850
+D5
+~
+~
+0 -1 24852
+S
+#24852
+Welmar's Right Foot~
+King Welmar's right foot is as exquisitely pedicured as his left.  It looks 
+as though he hasn't made any pilgrimages recently.  Or ever will.  Welmar 
+gets carried wherever he goes now.  Ah, the life of a king.  Sounds pretty 
+boring.
+~
+248 d 1
+D4
+~
+~
+0 -1 24851
+S
+#24853
+Welmar's Chest~
+Despite the years of inactivity, Welmar's chest remains finely muscled.  
+However, it is not the same type of muscle that he used to possess.  Welmar 
+used to make the ladies swoon with his displays of strength.  Now his only 
+strength comes from the inside.  You begin to understand why he is respected.
+~
+248 d 1
+D1
+~
+~
+0 -1 24855
+D3
+~
+~
+0 -1 24856
+D4
+~
+~
+0 -1 24854
+D5
+~
+~
+0 -1 24850
+S
+#24854
+Welmar's Head~
+Welmar's white beard chokes you as you walk around on his face.  his 
+aristocratic nose is a hundred times as intimidating at this size.  You could 
+probably fetch a pretty hefty price for that nose.  Assuming, of course, his 
+Majesty would part with it.  You could always...convince him.
+~
+248 d 1
+D5
+~
+~
+0 -1 24853
+S
+#24855
+Welmar's Left Arm~
+The old man's arm still has a few corded muscles deep beneath the skin, 
+although they have long since atrophied due to inactivity.  You feel 
+relatively certain you could put him down in an arm-wrestling contest.
+~
+248 d 1
+D3
+~
+~
+0 -1 24853
+S
+#24856
+Welmar's Right Arm~
+This arm doesn't get much activity nowadays.  Welmar only uses it to 
+gesticulate feebly with his golden sceptre.  Of course, doing anything with a 
+sceptre THAT big would require you to either be this Welmar's size, or to get 
+a few thousand giant strength spells cast on you.  Neither seems to be an 
+option.
+~
+248 d 1
+D1
+~
+~
+0 -1 24853
+S
+#24857
+The Head of the Table~
+Several exotic-looking glasses line the table here, all of them empty.  One 
+of them has a familiar reddish tinge in the bottom.  It looks like...blood!  
+What kind of fiend would drink a glass of blood?  Looking at a half-eaten 
+piece of bread on the table, you realize exactly what kind of fiend would.  
+The two small holes in the top of the bread gives it away.  Vampire.
+~
+248 c 2
+D2
+~
+~
+0 -1 24820
+S
+#24858
+Over the Falls~
+Your failure to find a handhold on the icicles also means the failure of all 
+your life functions.  You are thrown over the side...
+ 
+ 
+ 
+ 
+ 
+And land on the rocks below.
+~
+248 c 1
+>
+entry_prog 100~
+if isaffected($n) == Flying
+else
+mpdamage $n 85
+endif
+~
+|
+S
+#24859
+Hugging the Icicle~
+Your lungs eagerly gulp in air as you cling for dear life to the icicle.
+Thankfully, your almost numb hands remembered how to grip, although the grip 
+is a tenuous one.  It looks like you can swing yourself down to the shore of 
+the raging river.
+~
+248 cd 5
+D5
+~
+~
+0 -1 24860
+S
+#24860
+On the Riverbank~
+You land on the solid ice painfully.  Your ordeal with Evermelt is at an end, 
+finally.  However, another ordeal appears to be awaiting you to the west.  
+The rhythmic breathing you hear from that direction easily drowns out the 
+roaring of the waterfall behind you.  Torn between self-preservation and 
+curiousity, you stand indecisively.
+~
+248 cd 2
+D3
+~
+~
+0 -1 24861
+S
+#24861
+The Tunnel to...?~
+All is silent now except the heavy breathing coming from the north.  You can 
+see light glinting off some material in the large cavern, but the rest of
+the room is obscured.  Your legs feel frozen in place, but the sound from the 
+north is so intriguing...
+~
+248 cdi 2
+D0
+To the north is Icingdeath's Lair...are you sure you want to go that way?
+~
+~
+0 -1 24862
+D1
+~
+~
+0 -1 24860
+S
+#24862
+The Lair of Ingeloakastimizilian~
+The treasure all around you is utterly astounding.  Not the amount of it, of 
+course.  You have seen more treasure in other lairs.  It's the way the 
+coins, gems, weapons, and other fascinating items are frozen to the floor.  
+Looking around, you see other things frozen to the floor.  A human, dressed 
+in full armor, is encased in an icy tomb for eternity, his death scream 
+forever locked in his throat.  The entire floor is covered with some form of 
+treasure or life, or what USED to be life before Ingeloakastimizilian 
+destroyed it.
+~
+248 cd 1
+D2
+~
+~
+0 -1 24861
+D4
+~
+~
+0 -1 24863
+S
+#24863
+On top of the Reghed Glacier~
+Now what?  You're on top of the biggest glacier in all the Realms, with no 
+way to go but down, back into Icingdeath's lair.  As you sink into 
+despondency, you hear a low hum above you.  You look up and see...the 
+portal!  You can make it back to the Art Gallery!
+~
+248 c 5
+D4
+~
+~
+0 -1 24805
+D5
+~
+~
+0 -1 24862
+S
+#24864
+The Grave~
+As you step down into the soft dirt, a chill passes through your bones.  You 
+look around for the source of the feeling, everything goes dark.  The earth 
+has sealed above you!  The only sound now is your breathing, which is becoming
+more and more rapid.  Trying to collect your thoughts, you notice something 
+unusual about this pit.  There are cobwebs on every surface around here, almost
+as if this grave has been closed for years.  The only exception is the south 
+wall, which is completely clean.
+~
+248 ci 2
+D2
+~
+wall dirt~
+-145 -1 24865
+S
+#24865
+Lair of Aram-Dol~
+You now realize why this area was perfectly clean.  The walls in this room, 
+as well as the floor, are solid stone.  There are corpses strewn about the 
+room, most with a horrified look on their face.  Whatever killed them must 
+have given them one hell of a scare.  You've heard tales of underground stone 
+lairs, and combined with the many corpses strewn about, everything starts to 
+fall into place.  This is the lair of a lich.
+~
+248 ci 2
+D0
+~
+~
+0 -1 24864
+D4
+~
+~
+0 -1 24813
+S
+#24866
+Death~
+..Everything begins to fade to black.
+ 
+You feel yourself leaving your body... rising up into the air, you feel
+more free than you have ever felt before...
+ 
+However, before your deity comes to collect your soul, you feel a strange
+pulling sensation as strange and colorful mists swirl around you...
+ 
+~
+248 cd 1
+S
+#24867
+Ye Olde Meat Shoppe~
+Entering this store, you're reminded of how long it has been since you've had 
+a good steak.  The cuts of meat hanging from hooks in the back remind you, 
+however.  You can see large sides of beef, medium-sized veal cutlets, and a 
+few other tasty delectables.
+~
+248 c 1
+D1
+~
+~
+0 -1 24868
+D3
+~
+~
+0 -1 24822
+S
+#24868
+Fruits R Us~
+Every fruit ever to grace a tree in all the Realms is displayed here in front
+of you.  Apples, oranges, kiwis, melons, everything.  Vegetables completely 
+occupy another container next to the fruit.  This one is filled with corn, 
+zucchini, and other healthy foods.
+~
+248 c 1
+D1
+~
+~
+0 -1 24869
+D3
+~
+~
+0 -1 24867
+S
+#24869
+Goodbody Dairy~
+You vow to never even think about anything bovine once leaving this place.  
+Every milk and cheese product you can imagine lies here, carefully kept cool 
+by a bluish-white glow.  A sign says, "ALL PRODUCTS KEPT REFRIGERATED".  
+You'll have to ask the local scholar what ree-frigg-er-ated means sometime.  
+It sounds dangerous.  But the food is so enticing...
+~
+248 c 1
+D3
+~
+~
+0 -1 24868
+S
+#24870
+The Arena~
+As you step near the two humanoids fighting in this section of the arena, 
+they both grow limp and collapse, their eyes rolling back in their heads.  By 
+the time you reach them, they are both quite dead.  Looking up in the stands, 
+you see one of the mind flayers gurgle something to his companion, and they 
+both disappear suddenly.
+~
+248 0 1
+D3
+~
+~
+0 -1 24819
+S
+#24871
+The Arena~
+Before you can get near the lizardman and warrior, they fall down in a heap 
+together, both quite dead.  They didn't kill each other, so what could have 
+possibly killed them?  Hmm.  This is unlike anything you've ever seen 
+before.  They don't look like they had any history of coronary trouble...how
+utterly puzzling.
+~
+248 0 1
+D1
+~
+~
+0 -1 24819
+S
+#24872
+In the Stands~
+As you climb up into the seating section, what few remaining illithids you 
+could see disappear suddenly.  Ignoring the yawning portal above you (which 
+leads back to the gallery, incidentally), you look around for an explanation 
+as to where the brain feeders could have gone.
+~
+248 0 1
+D4
+~
+~
+0 -1 24811
+D5
+~
+~
+0 -1 24819
+S
+#24873
+Floating in a void~
+~
+248 c 1
+S
+#24874
+Floating in a void~
+~
+248 c 1
+S
+#24875
+Floating in a void~
+~
+248 c 1
+S
+#24880
+Floating in a void~
+~
+248 c 1
+S
+#24884
+Floating in a void~
+~
+248 c 1
+S
+#24885
+Floating in a void~
+~
+248 c 1
+S
+#24886
+Floating in a void~
+~
+248 c 1
+S
+#24891
+Tex's Room~
+Nothing too remarkable about this room, other than a stolen lounge table and 
+an interesting poster.  perhaps that's why Tex is ALWAYS in Grant and Seguin's
+room.
+~
+248 dx 1
+D3
+~
+~
+0 -1 24893
+E
+poster~
+The poster has five women with flags on their bikini tops.  It says on the
+bottom, "WORLD CUPS".  How...liberating.
+~
+S
+#24892
+Aaron and Rob's room~
+So the rumors are true.  Aaron's side of the room IS always messy.  And today 
+is no exception.  Aaron's side is covered with clothes and papers, and the 
+everpresent brown beanbag chair.  Rob's side is spotless, as usual, except for
+a broken bottle of Snapple on the floor.  Neither of them are on the MUD, 
+though.  They're not as addicted as the rest of us.
+~
+248 dx 1
+D1
+~
+~
+0 -1 24893
+S
+#24893
+Outside 305 and 310~
+You stand between two open doorways.  They both lead to triples.  Ordinarily, 
+it would be quite cramped.  But Rob and Aaron did a pretty good job of making 
+Huguley move, so they've only got the two of them in there.  Plus, Tex and his
+roommate managed to only ahve the two of them in there.  Lucky bastards.
+~
+248 dx 1
+D1
+~
+~
+0 -1 24891
+D3
+~
+~
+0 -1 24892
+S
+#24894
+Still in the hallway~
+To the west is Vu's room.  He's gone through four roommates already, and he 
+doesn't appear to mind.  He's got quite a setup behind that door.  The other
+three doors are a mystery, though.  No idea who lives in them.
+~
+248 dx 1
+D0
+~
+~
+0 -1 24895
+D1
+~
+'pair of doors'~
+-143 -1 24894
+D2
+~
+~
+0 -1 24893
+D3
+~
+'pair of doors'~
+-143 -1 24894
+S
+#24895
+Walking down the hallway~
+You are outside four locked rooms.  One is blaring Stone Temple Pilots.  The 
+same Stone Temple Pilots song they've been playing the entire year.  The room 
+next to that one on the west wall is the R.A.'s room.  No one has any idea 
+who lives through the two doors on the east wall.  The hallway continues to 
+the south, or back to outside MUD Central to the north.
+~
+248 dx 1
+D0
+~
+~
+0 -1 24898
+D1
+~
+'pair of doors'~
+-143 -1 24894
+D2
+~
+~
+0 -1 24894
+D3
+~
+'pair of doors'~
+-143 -1 24894
+S
+#24896
+223 Rasche Hall~
+This is Scott and Matt's room.  You wouldn't know who Matt is.  He's never on 
+the MUD.  There is a big computer under Scott's loft, the most powerful 
+computer that's used for MUDding among the circle of friends.  The room is 
+spotless, since any of the commanding officers in Echo Company could burst in 
+for inspection at any time.  Sounds like an exciting life.
+~
+248 dx 1
+D4
+~
+~
+0 -1 24899
+S
+#24897
+Forrester and Cox's Room~
+Quite an interesting design.  A closet door stretches between the two lofts 
+in this poorly lit room.  A stereo on said closet door is playing 96.3 ROV FM.
+Cox's computer is on, of course (never, NEVER turn off a UNIX computer), 
+while Forrester's computer has the Warp screen saver on.  There are several 
+boxes stapled to Cox's loft.
+~
+248 dx 1
+D3
+You can leave this messy-ass room and go out into the hall to your west.
+~
+~
+0 -1 24898
+E
+computer computers~
+Cox has four windows open on the screen.  The joy of owning an X Windows 
+system.  You wonder how he can keep track of everything.  Forrester's screen 
+saver has a password, though.  Good luck getting in.
+~
+E
+box boxes loft~
+Cox's loft has food boxes stapled to it!  What a weirdo!
+~
+S
+#24898
+The Third Floor Miles Hallway~
+To your west is Grant and Seguin's room, and east is Forrester and Cox's 
+room.  The other two doors here are closed and locked, though.  Brett, 
+Jeremy, Dave, and the other Jeremy don't take too kindly to visitors. Way down
+the hall to the south are two more open doors.
+~
+248 dx 1
+D1
+~
+~
+0 -1 24897
+D2
+~
+~
+0 -1 24895
+D3
+~
+~
+0 -1 24899
+S
+#24899
+Grant and Seguin's Room~
+This is a pretty cool room.  It has two lofts, numerous posters on the wall, 
+two computers, and one hell of an entertainment center.  Faith No More plays 
+loudly from the four speakers in the room, and a paused game of Final Fantasy 
+III is on the TV.  Care to relax for a bit?
+~
+248 dx 1
+D1
+You can leave the twins' room and go out into the hall to the east.
+~
+~
+0 -1 24898
+D5
+~
+~
+0 -1 24896
+E
+loft lofts~
+The lofts are quite different in appearance.  Seguin's is quite sturday and 
+clean, while Grant's is unmade and wobbly.
+~
+E
+desk desks~
+Another contrast.  Seguin's is perfectly organized, Grant's is perfectly 
+messy.  Rather appropriate, actually.
+~
+E
+tv television~
+Looks like Seguin has finally caught up to Grant in Final Fantasy III.  He's 
+at the last fight.  As you watch, the Blitz guy does a Bum Rush on Kefka.
+~
+E
+computer computers~
+Somehow Grant and Seguin have figured out a way to be on the MUD at the same 
+time.  And, of course, they both are.  Grant is building, while Seguin is 
+bitching about losing another apple of discord.
+~
+S
+$~

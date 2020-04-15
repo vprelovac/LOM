@@ -1,0 +1,5 @@
+  ASSIGNMOB (8309, snake);
+  ASSIGNMOB (8310, snake);
+  ASSIGNMOB (8312, thief);
+  ASSIGNMOB (8313, undead);
+  ASSIGNMOB (8319, cleric);

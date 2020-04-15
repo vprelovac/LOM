@@ -1,0 +1,986 @@
+#24800
+key~
+the Art Gallery key~
+A silver key with the initials "D A G" carved on it lies here.~
+~
+18 0 a
+0 0 0 0
+1 1000000 -31072
+#24801
+ruby sabre spectrum~
+a ruby sabre~
+A long sabre, completely covered in rubies, is stuck in the ground here.~
+~
+5 amn an
+0 0 0 3
+5 500000 -15536
+A
+18 5
+A
+19 5
+A
+1 2
+#24802
+topaz staff spectrum~
+a topaz staff~
+A five-foot-long staff made of orange topaz lies on the ground here.~
+~
+5 aopx an
+0 0 0 7
+7 200000 20000
+A
+18 7
+A
+19 3
+A
+13 50
+#24803
+golden axe gold spectrum~
+a golden axe~
+A huge half moon-bladed axe made entirely of gold lies here on the ground.~
+~
+5 amnox an
+0 0 0 11
+10 500000 -15536
+A
+18 2
+A
+19 8
+A
+2 2
+#24804
+emerald morningstar star spectrum~
+an emerald morningstar~
+A large emerald spiked ball, chained to a long handle, is here on the ground.~
+~
+5 amo an
+0 0 0 7
+12 350000 -30536
+A
+18 3
+A
+19 7
+A
+5 2
+#24805
+blue topaz claw glove spectrum~
+a blue topaz glove~
+A blue topaz-encrusted glove with wicked claws on the fingers lies here.~
+~
+5 ampx an
+0 0 0 11
+3 200000 20000
+A
+18 8
+A
+19 7
+A
+4 2
+#24806
+blue sapphire scythe spectrum~
+a sapphire scythe~
+A midnight blue scythe lies here, light glinting off its wicked blade.~
+~
+5 amnx an
+0 0 0 7
+15 450000 -20536
+A
+3 2
+A
+19 7
+#24807
+amethyst dagger gauche spectrum~
+an amethyst gauche~
+A long dagger completely covered in amethyst lies here on the ground.~
+~
+5 amn an
+0 0 0 11
+3 325000 32500
+A
+18 6
+A
+19 4
+#24808
+ivory rapier spectrum~
+an ivory rapier~
+A perfectly balanced ivory-covered rapier is skewered into the ground here. ~
+~
+5 akmn an
+0 0 0 11
+15 225000 22500
+A
+18 12
+A
+19 -2
+A
+12 50
+#24809
+onyx whip spectrum~
+an onyx whip~
+A whip with a handle of the deepest onyx lies here forgotten.~
+~
+5 aj an
+0 0 0 7
+6 425000 -23036
+A
+18 5
+A
+19 5
+#24810
+daisy flower~
+bhelliom~
+An intricately designed rose made of sapphire lies here, pulsing with life.~
+~
+3 0 ao
+50 5 5 1
+1 2000000 3392
+A
+17 0
+#24811
+dandelion flower~
+a dandelion~
+A huge dandelion is sprouting up from the ground below you.~
+~
+3 0 ao
+50 5 5 103
+1 2000000 3392
+#24812
+bouquet marigolds flower marigold~
+a marigold~
+A single marigold is pushing up through the soil here.~
+~
+3 0 ao
+50 5 5 36
+1 2000000 3392
+#24813
+pansy flower~
+a pansy~
+A tasty-looking pansy grows by itself off to the side here.~
+~
+10 0 a
+50 70 67 1
+1 2000000 3392
+#24814
+primrose flower~
+a potted primrose~
+A bright red primrose grows in a pot here.~
+~
+10 0 a
+50 54 39 -1
+1 2000000 3392
+#24815
+plaque keystone~
+the Art Gallery's keystone~
+A plaque is mounted on the keystone of the gallery.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+plaque keystone~
+------------------------------------------------------------------------------
+                      Copyright 1995 Do'Urden Enterprises
+ 
+This area, my second, is dedicated to Becky Boilek, who gives me the inspir-
+ ation to write these things.  Who gives me the inspiration for EVERYTHING.
+                               Thank you, Becky.
+ 
+Oh yeah, and by the way, the Art Gallery was based, in part (a small part) on
+Owzer's house, in Final Fantasy III.  Those who've played it know what I mean.
+------------------------------------------------------------------------------
+~
+#24816
+scorched band glass~
+a scorched band of glass~
+A dark piece of sand-etched glass has fallen here.~
+~
+9 klo ab
+0 0 0 0
+8 248000 24800
+A
+22 -2
+A
+17 -5
+A
+12 -40
+A
+13 25
+A
+18 1
+A
+19 3
+#24817
+tattered cape~
+a tattered cape~
+An old, tattered, moth-eaten cape lies here in a heap.~
+~
+9 gh ak
+10 0 0 0
+2 5000 500
+A
+17 5
+A
+5 2
+#24818
+crown~
+a flawless crown~
+A completely flawless golden crown lies here on the ground.~
+~
+9 gh ae
+0 0 0 0
+5 50000 5000
+A
+5 2
+A
+24 -8
+#24819
+sceptre death~
+the Death Sceptre~
+A jet black sceptre is here, exuding an aura of evil.~
+~
+4 bghjls ao
+50 5 10 8
+5 1000000 -31072
+A
+17 -40
+A
+1 2
+A
+5 1
+#24820
+pool evermelt~
+mikeCosnerGraemeDavisLaszloTabaJonLangBrianSeguinBrianCoxAaronWhiteRobSchneiderAaronLeeScottWigginsChrisForrester~
+The pool's water looks inviting and refreshing.  Care for a sip?~
+~
+23 0 0
+20000 20000 0 0
+10000 0 0
+#24821
+fat deer animal layer~
+a layer of animal fat~
+A disgusting mass of black-tinged animal fat lies here.~
+~
+9 0 ad
+0 0 0 0
+1 1 0
+E
+fat deer animal layer~
+Looks like this nasty stuff would keep you quite warm on a cold day.
+~
+#24822
+crown jeweled~
+an extravagantly jeweled crown~
+A gold crown layered in huge jewels lies here on the ground.~
+~
+9 ghjs ae
+0 0 0 0
+3 100000 10000
+A
+9 -100
+A
+5 3
+A
+19 4
+#24823
+wand decay~
+the Wand of Decay~
+An ice-cold onyx wand lies here on the ground, killing all life underneath it.~
+~
+3 ghjs ao
+60 3 3 25
+5 100000 10000
+A
+9 -100
+A
+5 2
+A
+19 5
+A
+17 -25
+A
+13 25
+#24824
+ice plate breastplate~
+the Ice Breastplate~
+A large breastplate made entirely of ice lies here twinkling the ground.~
+~
+9 a ad
+-50 -50 0 0
+10 500000 -15536
+A
+17 -30
+A
+5 1
+A
+23 -10
+#24825
+ice leggings~
+the Ice Leggings~
+A pair of leggings fashioned entirely of ice lie here, shining brightly.~
+~
+9 a af
+-50 12 0 0
+5 300000 30000
+A
+17 -20
+A
+4 1
+A
+14 100
+#24826
+ice arm guards~
+the Ice Arm Guards~
+Two arm guards made of opaque ice lie here on the ground.~
+~
+9 a ai
+-50 13 0 0
+4 200000 20000
+A
+17 -10
+A
+1 1
+A
+19 6
+#24827
+ice earrings~
+the Ice Earrings~
+Two dragon's head-shaped earrings made of ice lie here untouched.~
+~
+9 a ar
+-50 13 0 0
+1 150000 15000
+A
+17 -5
+A
+12 50
+#24828
+ice gauntlets~
+the Ice Gauntlets~
+Two rock-hard gauntlets made entirely of ice lie here waiting to be picked up.~
+~
+9 a ah
+-50 16 0 0
+3 225000 22500
+A
+17 -10
+A
+2 1
+A
+18 6
+#24829
+ice helm~
+the Ice Helm~
+A helmet made of the hardest ice lies here, seemingly giving off its own light.~
+~
+9 a ae
+-50 -50 0 0
+4 250000 25000
+A
+17 -15
+A
+3 1
+A
+24 -5
+#24830
+ice girth~
+the Ice Girth~
+A large hoop of ice lies here on the ground, waiting to be put on.~
+~
+9 a al
+-50 15 0 0
+3 175000 17500
+A
+17 -15
+A
+24 -8
+A
+23 -9
+A
+20 -9
+A
+21 -9
+A
+22 -9
+#24831
+pork chop marketplace~
+a juicy pork chop~
+A pork chop, stewing in its own juices, lies on the ground here.~
+%s voraciously scarf$q down $p.~
+19 0 a
+70 0 0 0
+2 14 1
+#24832
+steak huge marketplace~
+a huge steak~
+A steak, weighing several pounds, lies here growing cold on the ground.~
+%s force$q $p down your throat in three bites.  *choke*~
+19 0 a
+80 0 0 0
+3 16 1
+#24833
+haunch goat marketplace~
+a haunch of goat~
+A warm haunch of goat lies here on the dirty ground.~
+$s~
+19 0 a
+65 0 0 0
+2 13 1
+#24834
+veal cutlet marketplace~
+a veal cutlet~
+A small cutlet of tender veal is lying on the ground here.~
+%s whip$q out a knife and fork and delicately eat$q $p.~
+19 0 a
+65 0 0 0
+2 13 1
+#24835
+venison cut marketplace~
+a cut of venison~
+A tasty-looking cut of venison is growing dirty on the ground here.~
+%s season$q $p and eat$q it with a flourish.~
+19 0 a
+60 0 0 0
+1 12 1
+#24836
+chicken breast marketplace~
+a broiled chicken breast~
+A breast of some poor chicken is going to waste on the ground here.~
+%s feel$q like chicken tonight and eat$q $p.~
+19 0 a
+60 0 0 0
+1 12 1
+#24837
+ribs rack marketplace~
+a rack of ribs~
+A rack of ribs, covered in an unknown sauce, is here on the ground.~
+%s slather$q $p with sauce and eat$q them quickly.~
+19 0 a
+70 0 0 0
+2 14 1
+#24838
+liver steak marketplace~
+a liver steak~
+A cut of liver formed into a steak lies here on the ground.~
+%s eat$q $p in five bites.  Wow!~
+19 0 a
+60 0 0 0
+1 12 1
+#24839
+meatloaf slab marketplace~
+a slab of meatloaf~
+A slab of old-looking meatloaf is here on the ground.~
+%s reluctantly nibble$q on $p.~
+19 0 a
+65 0 0 0
+3 13 1
+#24840
+turkey drumstick marketplace~
+a turkey drumstick~
+A yummy-looking turkey drumstick lies here on the ground.~
+%s tear$q some meat off $p and gulp$q it down.~
+19 0 a
+70 0 0 0
+1 14 1
+#24841
+pheasant roast marketplace~
+a roast pheasant~
+A plump roast pheasant lies here on the ground, surrounded by steam.~
+%s briefly consider$q the plight of $p, then eat$q it anyway.~
+19 0 a
+60 0 0 0
+2 12 1
+#24842
+honeybaked ham marketplace~
+a honeybaked ham~
+A large ham, slathered with honey and sugar, lies here on the ground.~
+%s eat$q an entire honeybaked ham in one bite!  Whoa!~
+19 0 a
+80 0 0 0
+4 17 1
+#24843
+bacon strips marketplace~
+a few strips of bacon~
+Several strips of lean bacon lie on the ground here.~
+%s savor$q $p.  Mmmmm.~
+19 0 a
+50 0 0 0
+1 10 1
+#24844
+apple pie marketplace~
+a hot apple pie~
+A freshly baked apple pie lies here steaming on the ground.~
+%s eat$q all four quarters of $p.  Impressive.~
+19 0 a
+80 0 0 0
+2 16 1
+#24845
+cherry pie marketplace~
+a fresh cherry pie~
+A hot cherry pie with oh-so-flaky crust lies here on the ground.~
+%s gobble$q down $p, getting cherry filling everywhere.~
+19 0 a
+75 0 0 0
+2 15 1
+#24846
+blueberry pie marketplace~
+a yummy blueberry pie~
+A large blueberry pie lies here on the ground growing cold.~
+%s procure$q a scoop of ice cream, and eat$q it with $p.~
+19 0 a
+75 0 0 0
+2 15 1
+#24847
+pecan pie marketplace~
+a tasty pecan pie~
+A perfectly baked pecan pie lies here on the ground, losing its heat.~
+%s quickly eat$q $p, dropping soft pecans on the floor.~
+19 0 a
+75 0 0 0
+2 15 1
+#24848
+pumpkin pie marketplace~
+a moist pumpkin pie~
+A glorious-smelling pumpkin pie lies here on the ground.~
+%s eat$q $p in one bite, then cough$q up the tin on the ground.~
+19 0 a
+80 0 0 0
+2 17 1
+#24849
+donut doughnut jelly marketplace~
+a jelly donut~
+Jelly leaks out of a powdered donut that is on the ground here.~
+%s reluctantly eat$q $p without any beer to go with it.  *sigh*~
+19 0 a
+50 0 0 0
+0 10 1
+#24850
+stickybun gooey marketplace~
+a gooey stickybun~
+A gooey, sugar-covered stickybun lies here on the ground.~
+%s carefully eat$q $p, but get$q sticky sauce everywhere anyway.~
+19 0 a
+55 0 0 0
+1 10 1
+#24851
+chocolate chip cookie marketplace~
+a chocolate-chip cookie~
+The most tasty-looking cookie you have ever seen lies on the ground here.~
+%s eat$q $p and proclaim$q it THE BEST COOKIE EVER!~
+19 0 a
+35 0 0 0
+1 8 0
+#24852
+brownie marketplace~
+a moist brownie~
+A nut-filled, frosted brownie lies here on the ground.~
+%s eat$q $p in several little bites, and wince$q when it is gone.~
+19 0 a
+30 0 0 0
+1 7 0
+#24854
+angel food angelfood cake marketplace~
+a freshly baked angel food cake~
+A moist, bouncy angel food cake lies here on the ground.~
+%s look$q around suspiciously, then scarf$q down $p.~
+19 0 a
+90 0 0 0
+3 20 2
+#24855
+chocolate cake marketplace~
+a sinful chocolate cake~
+A chocolate cake sits here, beckoning you to eat it.~
+%s throw$q health to the wind and eat$q $p.~
+19 0 a
+90 0 0 0
+3 20 2
+#24856
+ice shoes~
+the Ice Shoes~
+A pair of shoes made of flawless ice lie here on the ground.~
+~
+9 a ag
+0 0 0 0
+3 300000 30000
+A
+2 1
+A
+17 -15
+A
+2 2
+#24857
+ice orb~
+the Ice Orb~
+A crystal clear, perfectly formed sphere gives off its own light here.~
+~
+4 a ao
+43 5 5 36
+1 1000000 -31072
+#24858
+ice tooth~
+the Ice Tooth~
+The razor-sharp tooth of a white dragon lies here embedded in the ground.~
+~
+5 amnx an
+0 0 0 11
+2 1500000 18928
+A
+19 7
+A
+18 2
+#24859
+statue hokies 1995 nit champs baby~
+the 1995 NIT Championship Statue~
+A solid gold statue of a heavyset, moustached man stands here.~
+~
+13 0 0
+0 0 0 0
+20000 0 0
+E
+statue nit smith sean shawn~
+This statue serves to remind everyone of the results of the 1995 National 
+Invitation Tournament.
+ 
+VIRGINIA TECH -- 65
+MARQUETTE     -- 64
+ 
+The Virginia Tech Hokies.  1995 NIT Champions.
+~
+#24860
+juicy big red apple marketplace~
+a big red apple~
+An unbruised, big, juicy apple lies here on the ground.~
+%s loudly eat$q $p.  CRUNCH! CRUNCH! CRUNCH!~
+19 0 a
+35 0 0 0
+1 7 0
+#24861
+orange plump marketplace~
+a plump orange~
+A yummy-looking orange is here lying on the ground.~
+%s peel$q $p and wolf$q it down.~
+19 0 a
+30 0 0 0
+1 6 0
+#24862
+banana underripe marketplace~
+an underripe banana~
+A greenish banana lies here on the ground, waiting to be peeled and eaten.~
+%s dramatically peel$q $p and eat$q it in one bite.~
+19 0 a
+25 0 0 0
+1 5 0
+#24863
+grapes bunch marketplace~
+a bunch of red grapes~
+A bunch of red grapes lie here, glistening with water.~
+%s pick$q a few grapes from $p and eat$q them.~
+19 0 a
+35 0 0 0
+1 7 0
+#24864
+watermelon huge marketplace~
+a huge half watermelon~
+A perfectly ripe half of a watermelon lies here, ready to be eaten.~
+%s messily eat$q $p and spit$q the seeds in random directions.~
+19 0 a
+50 0 0 0
+2 10 1
+#24865
+pear ripe marketplace~
+a ripe pear~
+A pear-shaped pear lies here on the ground.~
+%s messily eat$q $p, stem and all.~
+19 0 a
+30 0 0 0
+1 6 0
+#24866
+peach juicy marketplace~
+a juicy peach~
+A moist, juicy peach is here lying on the ground.~
+%s eat$q $p and wince$q at the fuzz taste.~
+19 0 a
+25 0 0 0
+1 5 0
+#24867
+tomato large marketplace~
+a large tomato~
+An abnormally large tomato lies here on the ground.~
+%s chomp$q on $p, not caring if it's a fruit or vegetable.~
+19 0 a
+30 0 0 0
+1 6 0
+#24868
+corn ear marketplace~
+an ear of white corn~
+A shucked ear of white, buttered corn lies here on the ground.~
+%s butter$q $p and eat$q it rapidly.~
+19 0 a
+40 0 0 0
+1 8 0
+#24869
+zucchini crisp marketplace~
+a crisp zucchini~
+A watery, crisp zucchini lies here on the ground getting dirty.~
+%s eat$q $p, making disturbingly loud noises.~
+19 0 a
+35 0 0 0
+1 7 0
+#24870
+carrot dirty marketplace~
+a dirty carrot~
+A fresh carrot lies here, tinged with dirt.~
+%s eat$q $p, and immediately regret$q it.  BLECCH!~
+19 0 a
+25 0 0 6
+1 5 0
+#24871
+celery stalk marketplace~
+a celery stalk~
+A leafy stalk of celery lies here on the ground.~
+%s eat$q $p and feel$q quite healthy.~
+19 0 a
+20 0 0 0
+1 4 0
+#24872
+broccoli flower marketplace~
+a broccoli flower~
+A flower of fresh broccoli is lying here on the ground.~
+%s cover$q $p with cheese and scarf$q it down.~
+19 0 a
+25 0 0 0
+1 5 0
+#24873
+apricot tart marketplace~
+a tart apricot~
+A shriveled apricot lies here on the ground.~
+%s eat$q $p and shudder$q at the flavor.~
+19 0 a
+25 0 0 0
+1 5 0
+#24874
+milk bottle marketplace~
+a bottle of ice cold milk~
+A bottle of milk stands here, condensation glistening on its side.~
+%s drink$q milk from $p.  It does a body good.~
+17 0 a
+20 20 10 0
+2 30 3
+#24875
+milk buttermilk butter jug marketplace~
+a jug of buttermilk~
+A jug of buttermilk stands here, overflowing with its contents.~
+~
+17 0 a
+25 25 10 0
+2 35 3
+#24876
+milk chocolate carton marketplace~
+a carton of chocolate milk~
+A big carton of chocolate milk lies here, ready to be chugged.~
+~
+17 0 a
+30 30 10 0
+2 40 4
+#24877
+swiss cheese marketplace~
+a block of swiss cheese~
+A large block of cheese, filled with holes, lies here on the ground.~
+%s make$q silly gestures with $p, then eat$q it quickly.~
+19 0 a
+55 0 0 0
+1 11 1
+#24878
+cheddar cheese marketplace~
+several slices of cheddar cheese~
+A few slices of heavy cheddar cheese lie here on the ground.~
+%s roll$q up $p and eat$q them all at once.~
+19 0 a
+55 0 0 0
+1 11 1
+#24879
+muenster cheese marketplace~
+a wedge of muenster cheese~
+A large wedge of muenster cheese is lying here on the ground.~
+%s scarf$q $p without stopping to breathe.  Wow.~
+19 0 a
+55 0 0 0
+1 11 1
+#24880
+monterey jack cheese wheel marketplace~
+a wheel of Monterey Jack cheese~
+A yummy-looking wheel of Monterey Jack cheese lies here on the ground.~
+%s roll$q $p on the ground before eating it.  Yum.~
+19 0 a
+55 0 0 0
+1 11 1
+#24881
+bag mozzarella cheese marketplace~
+a bag of shredded mozzarella cheese~
+A large quantity of shredded mozzarella cheese is here in a bag.~
+%s dump$q the contents of $p down the proverbial hatch.~
+19 0 a
+55 0 0 0
+1 11 1
+#24882
+ice cream vanilla marketplace~
+a bowl of vanilla ice cream~
+A large bowl lies here, filled with a few scoops of vanilla ice cream.~
+%s eat$q several spoonfuls from $p.~
+19 0 a
+50 0 0 0
+2 10 1
+#24883
+ice cream chocolate marketplace~
+a bowl of chocolate ice cream~
+A large bowl lies here, filled with a few scoops of chocolate ice cream.~
+%s slurp$q $p completely clean.~
+19 0 a
+50 0 0 0
+2 10 1
+#24884
+flamberge sword two-handed~
+a flamberge~
+A massive, fearsome-looking, two-handed sword lies here on the ground.~
+~
+5 mnox an
+0 0 0 3
+15 800000 14464
+A
+18 -5
+A
+19 5
+#24885
+slave crown~
+the Slave Crown~
+An ordinary-looking crown with a blood red stone lies here.~
+~
+9 gh ae
+-20 0 0 0
+1 13 1
+A
+3 -20
+A
+4 -20
+A
+2 -20
+#24887
+storm giant beard~
+a storm giant beard~
+A large mass of thick violet hair lies here on the ground.~
+~
+9 0 ad
+0 0 0 0
+2 5000 500
+A
+1 3
+A
+23 -5
+#24888
+club gigantic~
+a gigantic club~
+A ridiculously big club lies here on the ground.  Good luck picking it up.~
+~
+5 0 an
+0 0 0 7
+25 500 50
+A
+17 10
+A
+19 5
+#24889
+lifeless body corpse~
+the drained body~
+A dead human with a horrified look on his pale face lies here.~
+~
+15 0 a
+0 0 0 0
+100 0 0
+#24890
+body corpse dead lizardman~
+the drained lizardman body~
+A lizardman corpse lies here, its scales seeming somehow pale.~
+~
+15 0 a
+0 0 0 0
+100 0 0
+#24891
+mind flayer tentacle~
+a mind flayer tentacle~
+The severed tentacle of a mind flayer lies here on the ground.~
+~
+9 0 am
+0 0 0 0
+0 1000000 -31072
+A
+3 2
+#24892
+mind flayer robe~
+a mind flayer's robe~
+An exotic-looking robe lies here, its inside covered with slime.~
+~
+9 0 ak
+0 0 0 0
+1 10000 1000
+A
+3 1
+A
+13 100
+#24893
+cards deck~
+a deck of cards~
+An old, beat-up deck of cards lies here on the ground.~
+~
+3 0 ao
+20 13 5 7
+1 10000 1000
+#24894
+visor clear~
+a clear visor~
+A flimsy-looking visor lies here crumpled on the ground.~
+~
+9 0 ae
+0 0 0 0
+1 1000 100
+A
+4 2
+#24895
+chest dusty~
+a dusty chest~
+An old, dusty-looking chest sits here, covered with cobwebs and blood.~
+~
+15 0 0
+200 1 24816 0
+0 0 0
+#24896
+lake blood red~
+the lake of blood~
+The lake of blood you just crawled out of is as still as death here.~
+~
+12 0 0
+5 40 0 1
+0 0 0
+#24897
+tree lemon~
+a lemon tree~
+A brilliant yellow tree, covered with lemons, grows eagerly here.~
+~
+15 a 0
+10000 0 0 0
+10000 0 0
+#24898
+lemon tiny~
+a tiny lemon~
+A perfectly formed lemon lies here on the ground.~
+~
+19 0 a
+80 0 0 0
+1 0 0
+#24899
+glass wine~
+a glass of violet wine~
+A violet crystal glass of exquisite wine stands here.~
+~
+17 0 a
+4 4 2 0
+1 15 1
+$~

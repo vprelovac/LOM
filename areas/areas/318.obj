@@ -1,0 +1,769 @@
+#31800
+overalls~
+some overalls~
+A crumpled pair of overalls is here.~
+~
+9 k a
+10 0 0 0
+5 0 0
+#31801
+work boots~
+some work boots~
+A pair of work boots is lying here.~
+~
+9 k a
+5 0 0 0
+5 0 0
+#31802
+banded mail~
+a suit of banded mail~
+A suit of banded mail has been left here.~
+~
+9 j a
+6 0 0 0
+10 0 0
+#31803
+shield~
+a shield~
+A shield is lying here.~
+~
+9 j a
+1 0 0 0
+5 0 0
+#31804
+longsword~
+a longsword~
+A longsword is lying here.~
+~
+5 a 0
+0 20 30 3
+10 0 0
+#31805
+crossbow~
+a crossbow~
+A crossbow is lying here.~
+~
+5 a 0
+0 15 25 7
+10 0 0
+#31806
+plate mail platemail~
+a suit of platemail~
+A suit of platemail is lying here.~
+~
+9 j ad
+5 0 0 0
+20 100 1
+A
+18 7
+A
+19 7
+#31807
+spear~
+a spear~
+A spear is lying here.~
+~
+5 j an
+0 25 35 11
+10 100 1
+A
+18 7
+A
+19 7
+#31808
+longsword~
+a longsword~
+A longsword is lying here.~
+~
+5 j an
+0 20 25 3
+10 100 1
+#31809
+shield~
+a shield~
+A shield is lying here.~
+~
+9 k aj
+5 0 0 0
+5 100 1
+A
+18 3
+A
+19 3
+#31810
+bottle milk~
+a bottle of milk~
+A bottle of milk is here.~
+~
+17 0 a
+10 10 10 0
+5 1 1
+#31811
+loom~
+a loom~
+A loom is resting on the floor here.~
+~
+13 0 a
+0 0 0 0
+30 500 1
+#31812
+diamond~
+a brilliant diamond~
+A beautiful stone is lying here.~
+~
+8 0 a
+0 0 0 0
+1 1000 1
+#31813
+ruby~
+a ruby~
+A red stone is lying here.~
+~
+8 0 a
+0 0 0 0
+1 1000 1
+#31814
+emerald~
+an emerald~
+A green stone is lying here.~
+~
+8 0 a
+0 0 0 0
+1 1 1
+#31815
+sapphire~
+a sapphire~
+A bluish stone is lying here.~
+~
+8 0 a
+0 0 0 0
+1 1 1
+#31816
+leather armor~
+a leather armor~
+A leather armor is lying here.~
+~
+9 k ad
+5 0 0 0
+5 100 1
+#31817
+short sword shortsword~
+a shortsword~
+A shortsword is lying here.~
+~
+5 k an
+0 20 30 3
+5 100 1
+#31818
+saddle~
+a saddle~
+A saddle is here waiting to be picked up.~
+~
+13 k ao
+0 0 0 0
+20 500 1
+A
+1 2
+#31819
+chain mail chainmail~
+a chainmail~
+A suit of chainmail lies here.~
+~
+9 0 ad
+5 0 0 0
+15 100 1
+A
+18 6
+A
+19 6
+#31820
+long bow longbow~
+a longbow~
+A longbow is lying here.~
+~
+5 k an
+0 20 30 11
+15 100 1
+#31821
+long sword longsword~
+a longsword~
+A longsword is lying here.~
+~
+5 k an
+0 20 30 3
+10 100 1
+A
+18 7
+A
+19 7
+#31822
+note~
+a note~
+A note is lying here.~
+~
+13 0 a
+0 0 0 0
+1 1 1
+E
+note~
+Nairod and Nalliw
+
+Much has happend in my life since we fought side by side in the troll war.
+I hope, sometime, to have a chance to talk with you about the many pleasant
+things.
+
+My purpose now,sadly, is to ask my corageous comrades to aid my people in a
+time of dire need. I cannot even describe to you the danger that threatens
+Enalro, for I know not its true nature. I do know that unless it can be
+stopped, this evil will consume my village and its families. We will vanish
+without trace into the dust of history.
+
+A sinister force is at work here, and it is made the more frightening by
+the fact that its true nature is concealed in a web of fear and suspicion.
+I plead with you, come to Enalro, lend your skills to revealing this menace,
+that it may finally be destroyed.
+
+                                   Your comrade,
+                                   Zachius Ormo
+~
+#31823
+chain mail chainmail~
+a chainmail~
+A chainmail is lying here.~
+~
+9 k ad
+5 0 0 0
+10 100 1
+#31824
+broad sword broadsword~
+a broadsword~
+A broadsword is lying here.~
+~
+5 k an
+0 20 30 3
+20 100 1
+#31825
+cloth~
+a cloth~
+A piece of cloth is lying here.~
+~
+13 0 a
+0 0 0 0
+1 1 1
+#31826
+short sword shortsword~
+a shortsword~
+A shortsword is lying here.~
+~
+5 j an
+0 20 30 3
+5 100 1
+#31827
+crossbow~
+a crossbow~
+A crossbow is lying here.~
+~
+5 j an
+0 20 30 11
+20 100 1
+#31828
+overalls~
+some overalls~
+A pair of overalls is lying here.~
+~
+9 j ad
+5 0 0 0
+5 100 1
+#31829
+work boots workboots~
+some workboots~
+A pair of workboots is lying here.~
+~
+9 0 ag
+5 0 0 0
+5 100 1
+#31830
+hammer~
+a hammer~
+A hammer is lying here.~
+~
+5 j an
+0 20 30 7
+5 100 1
+#31831
+metal hammer~
+a metal hammer~
+A metal hammer is lying here.~
+~
+5 j an
+0 20 30 7
+5 100 10
+#31832
+dress~
+a dress~
+A dress is lying here.~
+~
+9 j ad
+5 0 0 0
+5 100 1
+#31833
+dress~
+a dress~
+A dress is lying here.~
+~
+9 k ad
+5 0 0 0
+5 100 1
+#31834
+diamond ring~
+a diamond ring~
+A diamond ring is lying here.~
+~
+9 k ab
+5 0 0 0
+5 500 1
+#31835
+emerald ring~
+an emerald ring~
+An emerald ring is lying here.~
+~
+9 k ab
+5 0 0 0
+5 500 1
+#31836
+chain mail chainmail~
+a suit of chainmail~
+A suit of chainmail is lying here.~
+~
+9 k ad
+5 0 0 0
+15 100 1
+A
+18 3
+A
+19 3
+#31837
+sword~
+a sword~
+A sword is lying here.~
+~
+5 k an
+0 20 30 3
+10 100 1
+A
+18 6
+A
+19 6
+#31838
+beer~
+a beer~
+A glass of beer is here.~
+~
+17 0 ao
+10 10 1 0
+1 1 1
+A
+3 -1
+A
+1 -1
+#31839
+gold ring~
+a gold ring~
+A gold ring is lying here in the dirt.~
+~
+9 k ab
+5 0 0 0
+100 1 1
+#31840
+ring protection~
+a ring of protection~
+A ring is lying here.~
+~
+9 k ab
+5 0 0 0
+1 1 1
+A
+23 -10
+A
+24 -10
+#31841
+gnarled staff~
+a gnarled staff~
+A staff is lying here.~
+~
+5 k an
+0 20 30 7
+15 100 1
+#31842
+elven cloak~
+an elven cloak~
+A cloak is lying here.~
+~
+9 k ak
+5 0 0 0
+5 100 1
+#31843
+potion healing~
+a potion of healing~
+A potion of healing is lying here.~
+~
+10 0 a
+10 -1 -1 -1
+1 1 1
+#31844
+apron~
+an apron~
+An apron is hanging here.~
+~
+9 j akl
+5 0 0 0
+5 100 1
+#31845
+dagger~
+a dagger~
+A dagger is lying here.~
+~
+5 j an
+0 20 30 11
+5 100 1
+#31846
+breakfast~
+a breakfast~
+A nice breakfast is on a table here.~
+~
+19 0 a
+10 0 0 0
+100 1 1
+#31847
+beer~
+a beer~
+A bottle of beer is here.~
+~
+17 0 a
+50 10 1 0
+10 1 1
+#31848
+dinner~
+a dinner~
+A fine dinner is spread out here.~
+~
+19 0 a
+150 0 0 0
+10 1 1
+#31849
+wine~
+a wine glass~
+A glass of wine is here.~
+~
+17 0 a
+2 2 2 0
+75 1 1
+#31850
+dagger~
+a dagger~
+A shiny dagger is lying here.~
+~
+5 j an
+0 20 30 11
+5 100 1
+A
+18 3
+A
+19 3
+#31851
+leather armor~
+a leather armor~
+A fine leather armor is lying here.~
+~
+9 j ad
+5 0 0 0
+10 100 1
+A
+18 3
+A
+19 3
+#31852
+poison potion~
+a poison potion~
+A potion with a skull and crossbones is here.~
+~
+10 0 a
+10 -1 -1 -1
+1 1 1
+#31853
+heal potion~
+a heal potion~
+A potion with a cross is lying here.~
+~
+10 0 a
+10 -1 -1 -1
+1 1 1
+#31854
+invis potion~
+an invis potion~
+A potion is lying here.~
+~
+10 0 a
+10 -1 -1 -1
+1 1 1
+#31855
+studded leather armor~
+a studded leather armor~
+A nice studded armor is lying here.~
+~
+9 j ad
+5 0 0 0
+20 100 1
+#31856
+robe~
+a robe~
+A pretty blue robe is lying here.~
+~
+9 j a
+5 0 0 0
+5 100 1
+#31857
+keg beer~
+a keg of beer~
+A keg of beer is lying here.~
+~
+17 0 a
+20 20 1 0
+20 1 1
+#31858
+cask wine~
+a cask of wine~
+A cask of wine is resting against the wall.~
+~
+17 0 a
+20 20 2 0
+20 1 1
+#31859
+shovel~
+a shovel~
+A shovel is lying here.~
+~
+5 j an
+0 20 30 7
+20 100 10
+#31860
+lantern~
+a lantern~
+A lantern is hanging here.~
+~
+1 j ao
+0 0 0 0
+5 0 0
+#31861
+serving tray~
+a serving tray~
+A serving tray is lying here.~
+~
+5 j a
+0 25 35 7
+5 100 10
+#31862
+ring protection~
+a ring of protection~
+A beautiful ring is lying here.~
+~
+9 j a
+10 0 0 0
+5 100 10
+A
+18 3
+A
+19 3
+#31863
+snakeshead amulet~
+a snakeshead amulet~
+An amulet depicting a snake is lying here.~
+~
+9 j a
+10 0 0 0
+10 100 10
+#31864
+chainmail~
+a chainmail~
+A nice suit of chainmail is lying here.~
+~
+9 j a
+15 0 0 0
+10 100 10
+#31865
+shield~
+a shield~
+A shield is lying here.~
+~
+9 j a
+5 0 0 0
+5 100 10
+#31866
+mace~
+a mace~
+A skull-headed mace is lying here exuding evil.~
+~
+5 j a
+0 25 35 7
+20 100 10
+A
+18 5
+A
+19 5
+#31867
+chainmail~
+a chainmail~
+A well constructed suit of chainmail is lying here.~
+~
+9 j a
+10 0 0 0
+10 100 10
+A
+18 6
+A
+19 6
+#31868
+stone axe~
+a stone axe~
+A nice axe is lying here.~
+~
+5 j a
+0 25 35 7
+20 100 10
+#31869
+brooch shielding~
+a brooch of shielding~
+A nice brooch is lying here.~
+~
+9 j a
+40 0 0 0
+5 100 10
+#31870
+coins~
+coins~
+A pile of coins is lying here.~
+~
+20 0 a
+10000 0 0 0
+1 1 1
+#31871
+diamond~
+a diamond~
+A shiny diamond is lying here.~
+~
+8 0 a
+0 0 0 0
+10 500 1
+#31872
+sapphire~
+a sapphire~
+A beautiful sapphire is lying here.~
+~
+8 0 a
+0 0 0 0
+10 500 1
+#31873
+ruby~
+a ruby~
+A brilliant ruby is lying here.~
+~
+8 0 a
+0 0 0 0
+10 500 1
+#31874
+emerald~
+an emerald~
+A sparkling emerald is lying here.~
+~
+8 0 a
+0 0 0 0
+10 500 1
+#31875
+scale mail armor~
+a scale mail armor~
+A nice scale mail armor is lying here.~
+~
+9 j ad
+15 0 0 0
+10 100 1
+#31876
+shield~
+a shield~
+A nice shield is lying here.~
+~
+9 j a
+15 0 0 0
+5 100 1
+A
+18 3
+A
+19 3
+#31877
+longsword~
+a longsword~
+A longsword is lying here.~
+~
+5 j an
+0 40 45 3
+10 100 1
+#31878
+leather armor~
+a leather armor~
+A nice leather armor is lying here.~
+~
+9 j ad
+10 0 0 0
+5 100 1
+#31879
+shield~
+a shield~
+A nice shield is lying here.~
+~
+9 j aj
+10 0 0 0
+5 100 1
+#31880
+short sword shortsword~
+a shortsword~
+A nice shortsword is lying here.~
+~
+5 j an
+0 40 45 3
+10 100 1
+#31881
+short sword shortsword~
+a shortsword~
+A beautiful shortsword is lying here.~
+~
+5 j an
+0 40 45 3
+10 100 1
+A
+18 6
+A
+19 6
+#31882
+battle axe battleaxe~
+a battleaxe~
+A sharp looking battleaxe is lying here.~
+~
+5 j an
+0 40 45 3
+15 100 1
+#31883
+chain mail chainmail~
+a chainmail~
+A shiny suit of chainmail is lying here.~
+~
+9 j ad
+15 0 0 0
+10 100 1
+#31884
+wicked hammer~
+a wicked hammer~
+A wicked looking hammer is lying here.~
+~
+5 j an
+0 40 45 7
+20 100 1
+$~

@@ -1,0 +1,272 @@
+CircleMUD v3.0 Shop File~
+#24801~
+-1
+1.20
+0.90
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+24801
+0
+24802
+-1
+0
+23
+0
+0
+#24802~
+-1
+1.20
+0.90
+19
+17
+10
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+24830
+0
+24819
+-1
+0
+23
+0
+0
+#24803~
+-1
+1.20
+0.90
+19
+17
+10
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+24831
+0
+24819
+-1
+0
+23
+0
+0
+#24804~
+-1
+1.20
+0.90
+19
+17
+10
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+24832
+0
+24819
+-1
+0
+23
+0
+0
+#24805~
+-1
+1.20
+0.90
+19
+17
+10
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+24834
+0
+24819
+-1
+0
+23
+0
+0
+#24806~
+24831
+24832
+24833
+24834
+24835
+24836
+24837
+24838
+24839
+24840
+24841
+24842
+24843
+-1
+1.20
+0.90
+19
+17
+10
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+24851
+0
+24867
+-1
+0
+23
+0
+0
+#24807~
+24874
+24875
+24876
+24877
+24878
+24879
+24880
+24881
+24882
+24883
+-1
+1.20
+0.90
+19
+17
+10
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+24852
+0
+24869
+-1
+0
+23
+0
+0
+#24808~
+24844
+24845
+24846
+24847
+24848
+24849
+24850
+24851
+24852
+24854
+24855
+-1
+1.20
+0.90
+19
+17
+10
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+24853
+0
+24822
+-1
+0
+23
+0
+0
+#24809~
+24872
+24871
+24870
+24869
+24868
+24867
+24866
+24865
+24864
+24863
+24862
+24861
+24873
+24860
+-1
+1.20
+0.90
+19
+17
+10
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a thing.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You get %d coins for it!~
+0
+0
+24854
+0
+24868
+-1
+0
+23
+0
+0
+$~
